@@ -1,12 +1,12 @@
 program:
 - title: Registration and Breakfast
   type: custom
-  date: "2024-09-05"
+  date: "2024-09-04"
   start_time: "08:30"
   end_time: "09:30"
 - title: Registration and Breakfast
   type: custom
-  date: "2024-09-04"
+  date: "2024-09-05"
   start_time: "08:30"
   end_time: "09:30"
 - title: Welcome to Day 2
@@ -19,14 +19,14 @@ program:
   date: "2024-09-04"
   start_time: "09:30"
   end_time: "09:40"
-- title: wiring-for-flow
-  type: talk
-  date: "2024-09-04"
-  start_time: "09:40"
-  end_time: "10:00"
 - title: ai-you-complete-me
   type: talk
   date: "2024-09-05"
+  start_time: "09:40"
+  end_time: "10:00"
+- title: wiring-for-flow
+  type: talk
+  date: "2024-09-04"
   start_time: "09:40"
   end_time: "10:00"
 - title: green-code-on-the-cloud--integrating-sustainability-into-devops-practices
@@ -39,14 +39,14 @@ program:
   date: "2024-09-04"
   start_time: "10:00"
   end_time: "10:20"
-- title: a-decade-with-dora
-  type: talk
-  date: "2024-09-04"
-  start_time: "10:20"
-  end_time: "10:40"
 - title: platform-engineering-xxl
   type: talk
   date: "2024-09-05"
+  start_time: "10:20"
+  end_time: "10:40"
+- title: a-decade-with-dora
+  type: talk
+  date: "2024-09-04"
   start_time: "10:20"
   end_time: "10:40"
 - title: Coffee Break
@@ -64,6 +64,11 @@ program:
   date: "2024-09-05"
   start_time: "11:00"
   end_time: "11:20"
+- title: devops-is-not-a-factory
+  type: talk
+  date: "2024-09-04"
+  start_time: "11:00"
+  end_time: "11:20"
 - title: evolving-devops-teams-and-flexible-organizational-culture
   type: talk
   date: "2024-09-05"
@@ -74,14 +79,14 @@ program:
   date: "2024-09-04"
   start_time: "11:20"
   end_time: "11:40"
-- title: platform-engineering-is-not-about-tech
-  type: talk
-  date: "2024-09-04"
-  start_time: "11:40"
-  end_time: "12:00"
 - title: culture-is-still-a-challenge
   type: talk
   date: "2024-09-05"
+  start_time: "11:40"
+  end_time: "12:00"
+- title: platform-engineering-is-not-about-tech
+  type: talk
+  date: "2024-09-04"
   start_time: "11:40"
   end_time: "12:00"
 - title: Lunch
@@ -124,26 +129,26 @@ program:
   date: "2024-09-04"
   start_time: "14:15"
   end_time: "14:45"
-- title: Open Space Slot 2 Day 2
-  type: open-space
-  date: "2024-09-05"
-  start_time: "14:45"
-  end_time: "15:15"
 - title: Open Space Slot 2 Day 1
   type: open-space
   date: "2024-09-04"
   start_time: "14:45"
   end_time: "15:15"
-- title: Coffee Break
-  type: custom
+- title: Open Space Slot 2 Day 2
+  type: open-space
   date: "2024-09-05"
-  start_time: "15:15"
-  end_time: "15:35"
+  start_time: "14:45"
+  end_time: "15:15"
 - title: Open Space Slot 3 Day 1
   type: open-space
   date: "2024-09-04"
   start_time: "15:15"
   end_time: "15:45"
+- title: Coffee Break
+  type: custom
+  date: "2024-09-05"
+  start_time: "15:15"
+  end_time: "15:35"
 - title: Open Space Slot 3 Day 2
   type: open-space
   date: "2024-09-05"
@@ -174,16 +179,21 @@ program:
   date: "2024-09-04"
   start_time: "16:35"
   end_time: "17:05"
-- title: deming-to-devops-revisited-2024
+- title: failing-to-learn-vs-learning-to-fail
   type: talk
   date: "2024-09-04"
   start_time: "17:05"
   end_time: "17:25"
+- title: deming-to-devops-revisited-2024
+  type: talk
+  date: "2024-09-04"
+  start_time: "17:25"
+  end_time: "17:45"
 - title: Closing Session Day 1
   type: custom
   date: "2024-09-04"
-  start_time: "17:25"
-  end_time: "17:40"
+  start_time: "17:45"
+  end_time: "18:00"
 - title: Social Event with Walking Dinner
   type: custom
   date: "2024-09-04"
