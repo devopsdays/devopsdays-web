@@ -75,7 +75,7 @@ team_members: # Name is the only required field for team members.
     employer: "Parry Labs"
     twitter: "ds_morse"
   - name: "Peter ONeil Jr"
-    employer: "WebRiot"
+    employer: "Teleport"
     twitter: "peteroneilljr"
   - name: "Leigh Capili"
     employer: "Flox"
