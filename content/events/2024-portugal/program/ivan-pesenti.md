@@ -7,6 +7,8 @@ Type = "talk"
 Speakers = ["ivan-pesenti"]
 +++
 
+**Ignite Talk**
+
 One of the most important things when we’re writing code is the ability to debug it. Many IDEs have an integrated debugger that can smoothen our coding experience. The debugger for the Go source code is called Delve. It’s tightly integrated with VSCode and the Go extension. As you might know, the debugger allows us to step through our code, focus on specific sections that may deserve more attention, inspect variables’ values, stack traces, etc. Sometimes, debugging turns into a hassle. The process supposed to help us becomes an insurmountable obstacle. Sometimes, we abandon the debugging or log directly into the code. Both of the options end up decreasing our productivity as developers.
 
 Thus, this talk aims to provide a working solution to debug Go code in VSCode. I chose this IDE since it’s free, highly customizable, performant, and my favorite! Since we can build different projects, I try to provide you with a working solution for each. The scenarios you’re likely to face are (list not exhaustive):
