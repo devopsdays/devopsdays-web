@@ -147,6 +147,8 @@ sponsors:
     level: bronze
   - id: github
     level: bronze
+  - id: gitlab
+    level: bronze
   - id: oxa
     level: bronze
   - id: syntasso
