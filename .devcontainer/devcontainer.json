@@ -7,5 +7,5 @@
   "image": "mcr.microsoft.com/devcontainers/universal:2",
   "features": {
   },
-  "postCreateCommand": "hugo server -D"
+  "postCreateCommand": "hugo server -D -F --baseURL \"https://$CODESPACE_NAME-1313.$GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN/\" -liveReloadPort=443 --appendPort=false --bind=0.0.0.0"
 }

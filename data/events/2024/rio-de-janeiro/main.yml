@@ -18,14 +18,14 @@ cfp_date_start: 2024-04-22T00:00:00-03:00 # start accepting talk proposals.
 cfp_date_end: 2024-05-26T00:00:00-03:00 # close your call for proposals.
 # cfp_date_announce: 2024-05-19T00:00:00-03:00 # inform proposers of status
 
-cfp_open: "true"
+cfp_open: "false"
 cfp_link: "https://www.papercall.io/devopsdaysrio2024"
 
 # registration_date_start: 2024-04-12T00:00:00-03:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 # registration_date_end: 2024-08-17T00:00:00-03:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "false" #set this to true if you need to manually close registration before your registration end date
-# registration_link: "https://www.sympla.com.br/evento/devopsdays-rio-de-janeiro-2024/1929984" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.sympla.com.br/evento/devopsdays-rio-de-janeiro-2024/2123232" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 coordinates: "-22.905009256027157, -43.16872311690936" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
@@ -41,6 +41,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: sponsor
   - name: contact
   - name: conduct-pt-br
+  - name: LGPD
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -82,16 +83,8 @@ team_members: # Name is the only required field for team members.
     employer: "PagoNxt Merchant Solutions"
     twitter: "predotaku"
     github: "pedroamaralm"
-    linkedin: "Pedro Moreira"
+    linkedin: "https://www.linkedin.com/in/pedro-amaral-moreira/"
     image: "pedro-amorin.jpg"
-
-  - name: "Giovanni Martins"
-    employer: "Conviso Application Security"
-    twitter: "giovannistultus"
-    github: "giovannism20"
-    linkedin: "Giovanni Martins"
-    website: "https://giovannimartins.dev/"
-    image: "giovanni-martinss.jpg"
 
   - name: "Carol Pinheiro"
     employer: "Digisystem"
@@ -111,20 +104,16 @@ team_members: # Name is the only required field for team members.
     website: "https://www.instagram.com/fluxxoramadesign?igsh=MTBpZDFrbXJpcDcwZQ=="
     image: "cris-cardoso.jpg"
 
-  - name: "Paloma Lataliza"
-    employer: "Claro Brasil"
-    twitter: "shescloud_"
-    linkedin: "https://www.linkedin.com/in/palomalataliza/"
-    website: "https://www.shescloud.me/"
-    image: "paloma-lataliza.jpg"
-
 organizer_email: "contato@devopsdays.rio.br" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:  
   #Gold 
-
+  - id: stone-co
+    level: gold
+    url: https://www.stone.co/
+    
   #Silver
   - id: elastic
     level: silver
@@ -136,19 +125,48 @@ sponsors:
     level: bronze
     url: https://aws.amazon.com
 
+  - id: globotv
+    level: bronze
+    url: https://globo.com
+
+  - id: thoughtworks-flamingo
+    level: bronze
+
+  - id: hashicorp
+    level: bronze
+
+  - id: snyk
+    level: bronze
+
+  - id: veecode
+    level: bronze
+
+  - id: grafana
+    level: bronze
+
   #Community
   - id: punkdodevops
     level: community
+
   - id: docker-rio
     level: community
+
   - id: linuxtips2024
     level: community
     url: https://linuxtips.io 
+    
   - id: novatec
     level: community
     url: https://novatec.com.br/ 
 
+  - id: etr
+    level: community
 
+  - id: impulso
+    level: community
+
+  - id: faculdade-vincit
+    level: community
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -172,6 +190,132 @@ program:
   #Registration
   - title: "Credenciamento"
     type: custom
-    date: 2024-08-17
+    date: 2024-08-24
     start_time: "08:00"
     end_time: "09:00"
+
+  #CoffeeBreak-1
+  - title: "Coffee Break"
+    type: custom
+    date: 2024-08-24
+    start_time: "09:00"
+    end_time: "09:30"
+
+  #Opening
+  - title: "Abertura"
+    type: custom
+    date: 2024-08-24
+    start_time: "09:30"
+    end_time: "10:00"
+
+  #Keynote-1
+  - title: "andreza-alves-rocha"
+    type: talk
+    date: 2024-08-24
+    start_time: "10:00"
+    end_time: "10:30"
+    background_color: "#FFFA99"
+
+  - title: "daniel-nascimento"
+    type: talk
+    date: 2024-08-24
+    start_time: "10:30"
+    end_time: "11:00"
+
+  - title: "elias-santos"
+    type: talk
+    date: 2024-08-24
+    start_time: "11:00"
+    end_time: "11:30"
+
+  - title: "roberta-brandao"
+    type: talk
+    date: 2024-08-24
+    start_time: "11:30"
+    end_time: "12:00"
+
+  - title: "Almoço"
+    type: custom
+    date: 2024-08-24
+    start_time: "12:00"
+    end_time: "13:30"
+
+  #Ignite Talks
+  - title: "Ignite Talks"
+    type: custom
+    date: 2024-08-24
+    start_time: "13:30"
+    end_time: "13:45"
+
+  #Keynote-2
+  - title: "cintia-esteves"
+    type: talk
+    date: 2024-08-24
+    start_time: "13:45"
+    end_time: "14:15"
+
+  - title: "daniel-baptista-dias"
+    type: talk
+    date: 2024-08-24
+    start_time: "14:15"
+    end_time: "14:45"
+
+  - title: "lanay-marques-cardoso"
+    type: talk
+    date: 2024-08-24
+    start_time: "14:45"
+    end_time: "15:15"
+
+  - title: "bernardo-gomes-lankheet"
+    type: talk
+    date: 2024-08-24
+    start_time: "15:15"
+    end_time: "15:45"
+
+  #CoffeeBreak-2
+  - title: "Coffee Break"
+    type: custom
+    date: 2024-08-24
+    start_time: "15:45"
+    end_time: "16:15"
+
+  - title: "alice-de-nazare-gomes-da-paixao"
+    type: talk
+    date: 2024-08-24
+    start_time: "16:15"
+    end_time: "16:45"
+
+  - title: "TBA"
+    type: custom
+    date: 2024-08-24
+    start_time: "16:45"
+    end_time: "17:00"
+
+  #OpenSpace
+  - title: "Open Space"
+    type: open-space
+    date: 2024-08-24
+    start_time: "17:00"
+    end_time: "17:15"
+
+  #OpenSpace
+  - title: "Open Space"
+    type: open-space
+    date: 2024-08-24
+    start_time: "17:15"
+    end_time: "17:30"
+
+  #Keynote-2
+  - title: "claudia-charro"
+    type: talk
+    date: 2024-08-24
+    start_time: "17:30"
+    end_time: "18:00"
+    background_color: "#FFFA99"
+
+  #Closing
+  - title: "Encerramento e brindes"
+    type: custom
+    date: 2024-08-24
+    start_time: "18:00"
+    end_time: "18:30"

@@ -227,7 +227,7 @@ sponsors:
     level: gold
   - id: edge-delta
     level: gold
-  - id: snyk
+  - id: snyk-before-20240621
     level: gold
   - id: deepsource
     level: gold

@@ -24,7 +24,7 @@ registration_date_start: # start accepting registration. Leave blank if registra
 registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://ti.to/devopsdays-portugal/devopsdays-portugal-2024" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -37,9 +37,9 @@ location_address: "EDIFÍCIO DA ALFÂNDEGA, R. Nova da Alfândega, 4050-430 Port
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
   - name: location
- # - name: registration
+  - name: registration
  # - name: program
- # - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -112,11 +112,19 @@ organizer_email: "portugal@devopsdays.org" # Put your organizer email address he
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-#  - id: samplesponsorname
-#    level: gold
+  - id: critical-techworks
+    level: gold
+  - id: elastic
+    level: gold
+  - id: relex
+    level: bronze
+  - id: devopsporto
+    level: community
+  - id: devopslisbon
+    level: community
+
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-#  - id: arresteddevops
-#    level: community
+
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

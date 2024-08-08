@@ -41,7 +41,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   # - name: registration
   #   url: https://devopsdaysce.eventize.com.br
   # - name: program
-  # - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct-pt-br
@@ -187,15 +187,15 @@ sponsors:
   - id: estacio
     level: platinum
     url: https://estacio.br/
-  # - id: redhat
-  #   level: platinum
-  #   url: https://www.redhat.com/
+  - id: redhat
+    level: gold
+    url: https://www.redhat.com/
   # - id: trust-control
   #   level: platinum
   #   url: https://www.trustcontrol.com.br/
-  # - id: paloalto
-  #   level: platinum
-  #   url: httpsg://www.paloaltonetworks.com/
+  - id: deco
+    level: platinum
+    url: https://deco.cx/
   - id: saveincloud
     level: gold
     url: https://saveincloud.com/ 
@@ -205,33 +205,36 @@ sponsors:
   # - id: trustdsolutions
   #   level: bronze
   #   url: https://trustd.solutions/ 
-  # - id: linuxtips
-  #   level: community
-  #   url: https://www.linuxtips.io/
+  - id: linuxtips
+    level: community
+    url: https://www.linuxtips.io/
   # - id: mundo-sem-fio
   #   level: community
   #   url: http://mundosemfio.com.br/
-  # - id: formacao-aws
-  #   level: community
-  #   url: https://instagram.com/henryllemaia  
-  # - id: novatec
-  #   level: community
-  #   url: https://novatec.com.br
-  # - id: fortbrasil
-  #   level: community
-  #   url: https://novatec.com.br  
-  # - id: jack-experts
-  #   level: community
-  #   url: https://jackexperts.com/
-  # - id: crowdsec
-  #   level: community
-  #   url: https://crowdsec.net/ 
+  - id: formacao-aws
+    level: community
+    url: https://instagram.com/henryllemaia  
+  - id: novatec
+    level: community
+    url: https://novatec.com.br
+  - id: avexadopersonalizados
+    level: community
+    url: https://www.instagram.com/avexado.personalizados/
+  - id: elastic
+    level: community
+    url: https://www.elastic.co/
+  - id: rapaduratech
+    level: community
+    url: https://rapaduratech.com.br/
   # - id: clear-it
   #   level: community
   #   url: https://clearit.com.br/  
-  # - id: grafanabr
-  #   level: bronze
-  #   url: https://grafana.com/
+  - id: grafana
+    level: bronze
+    url: https://grafana.com/
+  - id: energy-telecom
+    level: silver
+    url: https://www.energytelecom.com.br/
   # - id: alura
   #   level: bronze
   #   url: https://www.alura.com.br/

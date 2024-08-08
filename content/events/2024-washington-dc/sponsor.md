@@ -4,7 +4,7 @@ Type = "event"
 Description = "Sponsor DevOpsDays Washington, D.C. 2024"
 +++
 
-**For more information, please view our [sponsor prospectus](http://bit.ly/doddc24-sponsor).**
+**For more information, please view our [sponsor prospectus](http://bit.ly/doddc24-sponsors).**
 
 DevOpsDays is a volunteer-organized conference for DevOps practitioners that depends on your sponsorships. We value sponsor/attendee interaction, so we:
 
@@ -22,7 +22,7 @@ DevOpsDays DC does not share registration information directly with sponsors, bu
 
 ### Kubernetes Days DC 2024 Co-Sponsorship Opportunities
 
-Kubernetes Days DC (site launching March 2024) is a one-day event on Tuesday, September 24, also at the American Red Cross headquarters.
+[Kubernetes Days DC](https://community.cncf.io/events/details/cncf-kcd-washington-dc-presents-kcd-washington-dc-2024/) is a one-day event on Tuesday, September 24, also at the American Red Cross headquarters.
 
 Sponsor both events and:
 
@@ -68,7 +68,7 @@ KDC expects about 150 attendees for their event.
   </tr>
   <tr class="hed2">
     <td></td> 
-    <td><strong>$6,500<br>early bird thru 7/22</strong>
+    <td><strong>$7,000 USD</strong>
       <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
         <input type="hidden" name="cmd" value="_s-xclick" />
         <input type="hidden" name="hosted_button_id" value="PEDRK9AVKZ5S2" />
@@ -76,7 +76,7 @@ KDC expects about 150 attendees for their event.
         <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Buy Now" />
       </form>
     </td>
-    <td><strong>$3,500<br>early bird thru 7/22</strong> 
+    <td><strong>$4,000 USD</strong> 
       <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
         <input type="hidden" name="cmd" value="_s-xclick" />
         <input type="hidden" name="hosted_button_id" value="A9X83ACGMRN4C" />
@@ -95,8 +95,8 @@ KDC expects about 150 attendees for their event.
   </tr>
     <tr>
     <td>Available sponsorships</td>
+      <td class="yes"><strong>5</strong></td>
       <td class="yes"><strong>6</strong></td>
-      <td class="yes"><strong>3</strong></td>
       <td class="yes"><strong>6</strong></td>
   </tr>
   <tr>
@@ -175,14 +175,14 @@ Refunds: Full sponsor refunds are available until 6/1/2024. Sponsor refunds betw
 * 10% discount code to share with your community
 * Full participation in the conference
 
-### Platinum - Price $7,000 USD ($6,500 early bird)
+### Platinum - Price $7,000 USD
 
 * The "All sponsorship" benefits
 * 1 minute pitch to full audience <!-- including streaming audience (provided we are able to stream the videos) -->
 * 4 included tickets
 * Full table for swag/marketing/staffing. (A/V ability TBD).
 
-### Gold - Price $4,000 USD ($3,500 early bird)
+### Gold - Price $4,000 USD
 
 * The "All sponsorship" benefits
 * 1/2 minute pitch to full audience <!-- including streaming audience (provided we are able to stream the videos) -->
@@ -213,7 +213,7 @@ The American Red Cross is an alcohol-free facility. If you would like to sponsor
 (or co-sponsor) a social event at a local venue after the event Social Hour, we
 are ready to help you. Please contact {{< email_organizers >}}.
 
-### Closed Captioning Sponsor - Price $4,500 USD (1 spot)
+### ~~Closed Captioning Sponsor - Price $4,500 USD (1 spot)~~
 
 * Your logo by the screen where talks are transcribed
 * 1 included ticket

@@ -11,15 +11,15 @@ ga_tracking_id: "G-3X9XBDMGXM" # If you have your own Google Analytics tracking 
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2024-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2024-10-19T09:00:00-03:00
+enddate: 2024-10-19T18:00:00-03:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2024-07-31T09:00:00-03:00
+cfp_date_end: 2024-09-13T20:00:00-03:00
+cfp_date_announce: 2024-07-31T09:00:00-03:00
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://www.papercall.io/devopsdays-campinas" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
@@ -29,22 +29,27 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 # Location
 #
-# coordinates: "" # No longer used
-
-location: "Campinas" # Defaults to city, but you can make it the venue name.
-#
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
+coordinates: "-22.874486662183347, -47.06509853097971" # No longer used
+location: "Unisal - Campus São José" # Defaults to city, but you can make it the venue name.
+location_address: "Av. Almeida Garret, 267 - Jd. Nossa Senhora Auxiliadora, Campinas - SP" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
- # - name: location
  # - name: registration
  # - name: program
  # - name: speakers
 
+  - name: local
+    icon: "map-marker"
+    url: /events/2024-campinas/location
+
   - name: patrocínio
     icon: "money"
     url: /events/2024-campinas/sponsor
+  
+  - name: Chamadas (C4P)
+    icon: "paper-plane-o"
+    url: https://www.papercall.io/devopsdays-campinas
 
   - name: contato
     icon: "envelope-o"
@@ -60,17 +65,6 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
-  - name: "Giovana do Nascimento Pena"
-    employer: "IBM"
-    twitter: "GiovanaNp1"
-    bio: "Application Developer Fullstack na IBM, Formada de Analise e Desenvolvimento de Sistemas na Universidade UNASP e Pós-graduanda em DevOps pela PUC Minas, Certificada em Developer Profession - Level 2 Experienced e IBM Cloud. Participante do instituto meninas negras, uma das lideres do TLC a comunidade técnica interna da IBM e Líder da comunidade Elastic São Paulo. Além de organizadora do DevOpsDays São Paulo e Campinas"
-    image: "giovana.png"
-    pronouns: "ela/dela"
-    role: "Fullstack Developer"
-    github: "https://github.com/GiovanaNp1"
-    linkedin: "https://www.linkedin.com/in/giovana-do-nascimento/"
-    website: "https://giovana-nascimento.netlify.app/"
-
   - name: "Daniele Pishinin"
     employer: "Conta Simples"
     twitter: "danipishinin"
@@ -79,16 +73,6 @@ team_members: # Name is the only required field for team members.
     role: "Software Engineer"
     image: "dani.png"
     linkedin: "https://www.linkedin.com/in/danipishinin/"
-
-  - name: "Raphael Borges"
-    role: "DevOps Engineer"
-    twitter: "RaphaNBorges"
-    bio: "Criador e mantenedor do projeto OKE-FREE: Uma maneira fácil de garantir seu próprio cluster Kubernetes gratuitamente e para sempre na Oracle Cloud Infrastructure (OCI) utilizando OpenTofu. Expert em Container e Kubernetes pelo Programa Intensivo em Containers e Kubernetes (PICK) da Linuxtips. Coautor do livro 'Descomplicando Kubernetes'."
-    image: "raphael.jpg"
-    github: "https://github.com/Rapha-Borges"
-    linkedin: "https://www.linkedin.com/in/raphael-do-nascimento-borges/"
-    website: "https://r11s.com.br/"
-
   - name: "Flavio Pimenta"
     role: "Software Engineer"
     twitter: "pimentaflavio"
@@ -97,7 +81,37 @@ team_members: # Name is the only required field for team members.
     github: "https://github.com/flap"
     linkedin: "https://www.linkedin.com/in/flaap/?originalSubdomain=br"
     website: "https://campsite.bio/pimenta/"
-
+  - name: "Giovana do Nascimento Pena"
+    employer: "Itaú Unibanco"
+    role: "Fullstack Developer"
+    twitter: "GiovanaNp1"
+    bio: "Engenheira de Software no Itaú, Formada de Analise e Desenvolvimento de Sistemas na Universidade UNASP e Pós-graduanda em DevOps pela PUC Minas, Certificada em Developer Profession - Level 2 Experienced e IBM Cloud. Participante do instituto meninas negras, uma das lideres do TLC a comunidade técnica interna da IBM e Líder da comunidade Elastic São Paulo. Além de organizadora do DevOpsDays São Paulo e Campinas"
+    image: "giovana.png"
+    pronouns: "ela/dela"
+    github: "https://github.com/GiovanaNp1"
+    linkedin: "https://www.linkedin.com/in/giovana-do-nascimento/"
+    website: "https://giovana-nascimento.netlify.app/"
+  - name: "Julia Katharine Teixeira Silva dos Santos"
+    employer: "CI&T"
+    role: "Site Reliability Engineering"
+    bio: "Site Reliability Engineering na CI&T com foco em observabilidade e monitoramento. Granduanda do ultimo semestre do curso de Analise e Desenvolvimento de Sistemas da FATEC."
+    image: "julia.jpeg"
+    linkedin: "https://www.linkedin.com/in/julia-santos22/"
+  - name: "Paula Santos"
+    employer: "Ab-Inbev"
+    role: "Cloud Architect"
+    bio: "Cloud Architect na Ab-Inbev, graduanda em Sistemas da Informação pela UNESA e certificada Microsoft e AWS. Parte do corpo de membros da comunidade FinOps Foundation e WOMCY além de organizadora do DevOps Days Campinas. Fruto de uma transição de carreira de Bióloga e Médica Veterinária especialista em diagnóstico por imagem de animais para Tech, hoje sou participante de iniciativas para inclusão de mulheres em tecnologia pela comunidade Transformar.tech, Mulheres na Nuvem MG e Cloud Women."
+    image: "paula.jpg"
+    linkedin: "https://www.linkedin.com/in/paula-santos-/"
+  - name: "Raphael Borges"
+    employer: "Dedalus Prime"
+    role: "Analista de Operações Cloud Sênior"
+    twitter: "RaphaNBorges"
+    bio: "Criador e mantenedor do projeto OKE-FREE: Uma maneira fácil de garantir seu próprio cluster Kubernetes gratuitamente e para sempre na Oracle Cloud Infrastructure (OCI) utilizando OpenTofu. Expert em Container e Kubernetes pelo Programa Intensivo em Containers e Kubernetes (PICK) da Linuxtips. Coautor do livro 'Descomplicando Kubernetes'."
+    image: "raphael.jpg"
+    github: "https://github.com/Rapha-Borges"
+    linkedin: "https://www.linkedin.com/in/raphael-do-nascimento-borges/"
+    website: "https://r11s.com.br/"
   - name: "Renne Rocha"
     role: "Senior Python Engineer"
     mastodon: "https://chaos.social/@rennerocha"
@@ -107,12 +121,7 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/rennerocha/"
     website: "https://rennerocha.com/"
 
-  - name: "Julia Katharine Teixeira Silva dos Santos"
-    employer: "CI&T"
-    role: "Site Reliability Engineering"
-    bio: "Site Reliability Engineering na CI&T com foco em observabilidade e monitoramento. Granduanda do ultimo semestre do curso de Analise e Desenvolvimento de Sistemas da FATEC."
-    image: "julia.jpeg"
-    linkedin: "https://www.linkedin.com/in/julia-santos22/"
+
 
 organizer_email: "campinas@devopsdays.org" # Put your organizer email address here
 
