@@ -121,6 +121,8 @@ sponsors:
     level: gold
   - id: heroku
     level: gold
+  - id: zoho
+    level: gold
   # silver sponsors
   - id: devex-connect
     level: silver
