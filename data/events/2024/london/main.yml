@@ -111,12 +111,22 @@ sponsors:
   # gold sponsors
   - id: cloudsmith
     level: gold
-  - id: elastic
-    level: gold
   - id: contrast_security
     level: gold
+  - id: eficode
+    level: gold
+  - id: elastic
+    level: gold
+  - id: heroku
+    level: gold
   # silver sponsors
+  - id: devex-connect
+    level: silver
+  - id: honeycomb
+    level: silver
   - id: macstadium
+    level: silver
+  - id: venafi
     level: silver
   # bronze sponsors
   - id: commify
@@ -138,9 +148,9 @@ sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: platinum
-    label: Platinum
-    max: 1
+  # - id: platinum
+  #   label: Platinum
+  #   max: 1
   - id: gold
     label: Gold
     max: 10
@@ -192,7 +202,7 @@ program:
     start_time: "11:25"
     end_time: "11:55"
 
-  - title: "sasha-rosenbaum"
+  - title: "sorrel-harriet"
     type: talk
     date: 2024-09-26T00:00:00+01:00
     start_time: "12:00"
@@ -367,5 +377,7 @@ ignites:
   - title: "suzanne-daniels"
     date: 2024-09-27T23:59:59+01:00
   - title: "daiany-palacios"
+    date: 2024-09-27T23:59:59+01:00
+  - title: "anais-urlichs"
     date: 2024-09-27T23:59:59+01:00
 

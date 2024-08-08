@@ -166,9 +166,10 @@ Each team member is an element of `sponsors`.
 | `url`      | String | No       | Will override the URL specified in the sponsor file. Useful if you have event-specific URL's for a sponsor. | http://mysponsor.com/?campaign=me |
 
 
-| Field Name          | Type   | Required | Description                                                               | Example |
-|---------------------|--------|----------|---------------------------------------------------------------------------|---------|
-| `sponsors_accepted` | String | No       | Set this to "yes" if you would like the "become a sponsor" link to appear | "yes"   |
+| Field Name           | Type   | Required | Description                                                               | Example |
+|----------------------|--------|----------|---------------------------------------------------------------------------|---------|
+| `sponsors_accepted`  | String | No       | Set this to "yes" if you would like the "become a sponsor" link to appear | "yes"   |
+| `sponsors_showempty` | String | No       | Set this to "no" to hide the sponsor levels without a sponsor             | "no"    |
 
 #### Sponsor Levels
 
@@ -419,4 +420,13 @@ If you have `location_address` set in your datafile, this will return a Google M
 or
 ```
 {{< event_map width = "600" height="500" >}}
+```
+
+### tix
+Embeds the DevOpsDays Pretix ticket and registration system
+This shortcode requires two parameters, city and year, where the city is typically the organiser city and the year the event year.
+Please note this may be differ, please check with in your Pretix for the two names.
+
+```
+{{< tix city="belgium" year="antwerp-2024" >}}
 ```

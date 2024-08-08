@@ -38,7 +38,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: location
   - name: registration
     icon: "sign-in"
- # - name: program
+  - name: program
   - name: speakers
   - name: sponsor
   - name: contact
@@ -113,8 +113,15 @@ sponsors:
     level: gold
   - id: aikido-dev
     level: gold
+  - id: puppet-by-perforce
+    level: gold
+  - id: kangaroot
+    level: silver
+  - id: github
+    level: gold
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
+
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For

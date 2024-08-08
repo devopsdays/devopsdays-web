@@ -396,8 +396,8 @@ program:
   - title: "datadog-workshop"
     type: workshop
     date: 2024-07-11T00:00:00-06:00
-    start_time: "12:15"
-    end_time: "13:00"
+    start_time: "11:45"
+    end_time: "13:15"
 
   - title: "hareesh-iyer"
     type: talk
@@ -438,12 +438,6 @@ program:
     date: 2024-07-11T00:00:00-06:00
     start_time: "13:50"
     end_time: "14:40"
-
-  - title: "datadog-workshop"
-    type: workshop
-    date: 2024-07-11T00:00:00-06:00
-    start_time: "13:50"
-    end_time: "14:30"
 
   - title: "Beverages and Networking"
     type: custom
