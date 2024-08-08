@@ -126,9 +126,15 @@ sponsors:
   # silver sponsors
   - id: devex-connect
     level: silver
+  - id: checkmarx
+    level: silver
   - id: honeycomb
     level: silver
   - id: macstadium
+    level: silver
+  - id: quesma
+    level: silver
+  - id: riversafe
     level: silver
   - id: venafi
     level: silver
