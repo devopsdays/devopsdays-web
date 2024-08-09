@@ -9,14 +9,14 @@ program:
   date: "2024-09-05"
   start_time: "08:30"
   end_time: "09:30"
-- title: Welcome to Day 2
-  type: custom
-  date: "2024-09-05"
-  start_time: "09:30"
-  end_time: "09:40"
 - title: Welcome to DevOpsDays 15 years Anniversary Edition
   type: custom
   date: "2024-09-04"
+  start_time: "09:30"
+  end_time: "09:40"
+- title: Welcome to Day 2
+  type: custom
+  date: "2024-09-05"
   start_time: "09:30"
   end_time: "09:40"
 - title: ai-you-complete-me
@@ -69,14 +69,14 @@ program:
   date: "2024-09-04"
   start_time: "11:00"
   end_time: "11:20"
-- title: evolving-devops-teams-and-flexible-organizational-culture
-  type: talk
-  date: "2024-09-05"
-  start_time: "11:20"
-  end_time: "11:40"
 - title: devsecoops--15-years-of-devops-and-patching-is-still-horrible-but-should-you-care-
   type: talk
   date: "2024-09-04"
+  start_time: "11:20"
+  end_time: "11:40"
+- title: evolving-devops-teams-and-flexible-organizational-culture
+  type: talk
+  date: "2024-09-05"
   start_time: "11:20"
   end_time: "11:40"
 - title: culture-is-still-a-challenge
@@ -119,14 +119,14 @@ program:
   date: "2024-09-04"
   start_time: "14:00"
   end_time: "14:15"
-- title: Open Space Slot 1 Day 2
-  type: open-space
-  date: "2024-09-05"
-  start_time: "14:15"
-  end_time: "14:45"
 - title: Open Space Slot 1 Day 1
   type: open-space
   date: "2024-09-04"
+  start_time: "14:15"
+  end_time: "14:45"
+- title: Open Space Slot 1 Day 2
+  type: open-space
+  date: "2024-09-05"
   start_time: "14:15"
   end_time: "14:45"
 - title: Open Space Slot 2 Day 1
@@ -198,7 +198,7 @@ program:
   type: custom
   date: "2024-09-04"
   start_time: "18:00"
-  end_time: "23:00"
+  end_time: "21:00"
 ignites:
 - title: low-growth-devops
   type: ignite
@@ -220,6 +220,11 @@ ignites:
   date: "2024-09-05"
   start_time: "13:35"
   end_time: "13:40"
+- title: the-next-transformation-
+  type: ignite
+  date: "2024-09-05"
+  start_time: "13:40"
+  end_time: "13:45"
 - title: developer-experience-can-drive-business-growth
   type: ignite
   date: "2024-09-04"
