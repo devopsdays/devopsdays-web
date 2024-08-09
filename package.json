@@ -32,7 +32,7 @@
     "bootstrap": "^4.3.1",
     "jquery": "^3.6.0",
     "jssocials": "^1.5.0",
-    "netlify-cli": "^16.4.2",
+    "netlify-cli": "^17.22.1",
     "popper.js": "^1.15.0"
   },
   "engines": {
