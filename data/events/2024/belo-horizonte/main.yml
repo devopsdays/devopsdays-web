@@ -208,7 +208,7 @@ program:
     start_time: "09:00"
     end_time: "09:30"
 
-  - title: "Kenote - EM BREVE"
+  - title: "Keynote"
     type: custom
     date: 2024-09-14T08:00:00-03:00
     start_time: "09:30"
@@ -227,7 +227,7 @@ program:
     start_time: "10:30"
     end_time: "11:00"
   
-  - title: "Pausa do Café"
+  - title: "Pausa para Café"
     type: custom
     date: 2024-09-14T08:00:00-03:00
     start_time: "11:00"
