@@ -7,7 +7,7 @@ Description = "devopsdays Denver 2024"
 
 <div style="text-align:center;">
   <!-- {{< event_logo >}} -->
-  <img src="/events/2024-denver/dod24-transparent.png" width="600" />
+  <img src="/events/2024-denver/devopsdays_fullcolor_24.png" width="600" />
 </div>
 
 <br>
