@@ -150,37 +150,46 @@ program:
     type: custom
     date: 2024-08-19
     start_time: "12:00"
-    end_time: "12:30"
-  - title: "john-willis"
-    type: talk
-    background_color: "#8ad0d3"
-    date: 2024-08-19
-    start_time: "12:30"
-    end_time: "13:30"
+    end_time: "13:00"
   - title: "aleksandra-lemańska-workshop"
     type: talk
     background_color: "#8ad0d3"
     date: 2024-08-19
-    start_time: "13:30"
-    end_time: "14:30"
+    start_time: "13:00"
+    end_time: "13:55"
+  - title: "break"
+    type: custom
+    date: 2024-08-19
+    start_time: "13:55"
+    end_time: "14:00"
   - title: "sundaresh-r-iyer"
     type: talk
     background_color: "#8ad0d3"
     date: 2024-08-19
-    start_time: "14:30"
-    end_time: "15:30"
+    start_time: "14:00"
+    end_time: "14:55"
+  - title: "break"
+    type: custom
+    date: 2024-08-19
+    start_time: "14:55"
+    end_time: "15:00"
   - title: "matt-meyer"
     type: talk
     background_color: "#8ad0d3"
     date: 2024-08-19
-    start_time: "15:30"
-    end_time: "16:30"
+    start_time: "15:00"
+    end_time: "15:55"
+  - title: "break"
+    type: custom
+    date: 2024-08-19
+    start_time: "15:55"
+    end_time: "16:00"
   - title: "steve-hallman"
     type: talk
     background_color: "#8ad0d3"
     date: 2024-08-19
-    start_time: "16:30"
-    end_time: "17:30"
+    start_time: "16:00"
+    end_time: "17:00"
 
   - title: "Registration, Visit Sponsors"
     type: custom
@@ -310,7 +319,7 @@ program:
     date: 2024-08-21
     start_time: "09:55"
     end_time: "10:15"
-  - title: "michel-schildmeijer"
+  - title: "will-blackburn"
     type: talk
     date: 2024-08-21
     start_time: "10:15"
@@ -335,12 +344,12 @@ program:
     date: 2024-08-21
     start_time: "11:55"
     end_time: "13:00"
-  - title: "talk here"
+  - title: "special-guest"
     type: talk
     date: 2024-08-21
     start_time: "13:00"
     end_time: "13:30"
-  - title: "talk here"
+  - title: "special-guest"
     type: talk
     date: 2024-08-21
     start_time: "13:30"
