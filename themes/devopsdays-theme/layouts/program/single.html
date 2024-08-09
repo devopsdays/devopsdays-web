@@ -95,6 +95,22 @@
       {{- end -}}
     {{- end -}}
   <!-- new experimental program end -->
+
+  {{- if or $e.timeoffset $e.timezone -}}
+  <script>
+    var userLang = navigator.language || navigator.userLanguage;
+    var date = new Date();
+    var userTimeZone = Intl.DateTimeFormat().resolvedOptions().timeZone;
+    var userTimeAbbreviation = Intl.DateTimeFormat(userLang,{ timeZone: userTimeZone, timeZoneName: 'short' }).formatToParts().find(part => part.type==='timeZoneName').value;
+  </script>
+  {{- end -}}
+  {{- if $e.timezone -}}
+  <script>
+    var eventTimeOffset = (Intl.DateTimeFormat(userLang,{ timeZone: "{{ $e.timezone }}", timeZoneName: 'longOffset' }).formatToParts().find(part => part.type==='timeZoneName').value).slice(3,99);
+    var eventTimeAbbreviation = Intl.DateTimeFormat(userLang,{ timeZone: "{{ $e.timezone }}", timeZoneName: 'short' }).formatToParts().find(part => part.type==='timeZoneName').value;
+  </script>
+  {{- end -}}
+
   <div class="row">
     <div class="col">
       <div id="accordion" role="tablist" aria-multiselectable="true">
@@ -125,6 +141,33 @@
                             {{ .start_time }}
                             -
                             {{ .end_time }}
+                            {{- if $e.timezone -}}
+                            &nbsp;<script>document.write(eventTimeAbbreviation)</script>
+                            {{- end -}}
+                            {{- if or $e.timeoffset $e.timezone -}}
+                              <br>
+                              {{- if $e.timeoffset -}}
+                              <script>
+                                var localstarttime = new Date("{{- dateFormat "2006-01-02" ($.Scratch.Get "date") -}}T"+{{- .start_time -}}+":00"+{{- $e.timeoffset -}});
+                                var localendtime = new Date("{{- dateFormat "2006-01-02" ($.Scratch.Get "date") -}}T"+{{- .end_time -}}+":00"+{{- $e.timeoffset -}});
+                              </script>
+                              {{- end -}}
+                              {{- if not $e.timeoffset -}}
+                              <script>
+                                var localstarttime = new Date("{{- dateFormat "2006-01-02" ($.Scratch.Get "date") -}}T"+{{ .start_time }}+":00"+eventTimeOffset);
+                                var localendtime = new Date("{{- dateFormat "2006-01-02" ($.Scratch.Get "date") -}}T"+{{ .end_time }}+":00"+eventTimeOffset);
+                              </script>
+                              {{- end -}}
+                              <script>
+                                document.write("<strong>");
+                                document.write(String(localstarttime.getHours()).padStart(2,"0")+":"+String(localstarttime.getMinutes()).padStart(2,"0"));
+                                document.write("&nbsp;-&nbsp;");
+                                document.write(String(localendtime.getHours()).padStart(2,"0")+":"+String(localendtime.getMinutes()).padStart(2,"0"));
+                                document.write("&nbsp;");
+                                document.write(userTimeAbbreviation);
+                                document.write("</strong>");
+                              </script>
+                            {{- end -}}
                           </div>
                           <div class="col-lg-8 col-md-6 program-element {{ printf "program-%s" .type }}" {{ if .background_color }}style="background-color: {{ .background_color }}"{{end}}>
                             {{- if eq .type "custom" -}}
