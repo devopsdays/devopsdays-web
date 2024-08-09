@@ -28,7 +28,11 @@
                 {{- end -}}
               {{- end -}}
                 <li class="nav-item active">
-                  <a class="nav-link" href='{{$.Scratch.Get "url" }}'>{{ .name }}</a>
+                  {{ with (i18n .name)}}
+                    <a class="nav-link" href='{{$.Scratch.Get "url" }}'>{{ . }}</a>
+                  {{ else }}
+                    <a class="nav-link" href='{{$.Scratch.Get "url" }}'>{{ .name }}</a>
+                  {{ end }}
                 </li>
             {{- end -}}
           {{- end -}}
