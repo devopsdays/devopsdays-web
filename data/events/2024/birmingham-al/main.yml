@@ -146,7 +146,7 @@ program:
     date: 2024-08-19
     start_time: "09:00"
     end_time: "12:00"
-  - title: "Lunch Break"
+  - title: "Lunch Break - Pizza (GF/Vegan Options) is included"
     type: custom
     date: 2024-08-19
     start_time: "12:00"
@@ -191,7 +191,7 @@ program:
     start_time: "16:00"
     end_time: "17:00"
 
-  - title: "Registration, Visit Sponsors"
+  - title: "Registration, Visit Sponsors, ☕️ bar opens"
     type: custom
     date: 2024-08-20
     start_time: "08:00"
@@ -237,7 +237,7 @@ program:
     date: 2024-08-20
     start_time: "11:25"
     end_time: "11:55"
-  - title: "Lunch - Education Lobby"
+  - title: "Lunch Break - Catered Lunch Included"
     type: custom
     date: 2024-08-20
     start_time: "11:55"
@@ -293,7 +293,7 @@ program:
     start_time: "17:30"
     end_time: "18:00"
 
-  - title: "Registration, Visit Sponsors"
+  - title: "Registration, Visit Sponsors, ☕️ bar opens"
     type: custom
     date: 2024-08-21
     start_time: "08:00"
@@ -339,7 +339,7 @@ program:
     date: 2024-08-21
     start_time: "11:25"
     end_time: "11:55"
-  - title: "Lunch - Education Lobby"
+  - title: "Lunch Break - Catered Lunch Included"
     type: custom
     date: 2024-08-21
     start_time: "11:55"
