@@ -77,7 +77,7 @@ Description = "devopsdays Birmingham, AL 2024"
     <strong>Register</strong>
   </div>
   <div class = "col-md-3">
-   <a href="https://tickets.devopsdays.org/devopsdays-birmingham-al/2024/">Register</a> to attend the conference.
+   {{< event_link url-key="registration_link" text="Register to attend the conference!" >}}
   </div>
   <div class = "col-md-2">
     &nbsp;
@@ -136,7 +136,7 @@ Description = "devopsdays Birmingham, AL 2024"
 <div class = "row" style="padding-top: 15px">
   <div class= "col-md-6">
     <h2>New for 2024 - WORKSHOPS</h2>
-    <p>New this year, DevOpsDays Birmingham, AL will have workshops on August 19 at the Innovation Depo event space!<br />
+    <p>New this year, DevOpsDays Birmingham, AL will have workshops on August 19 at the Innovation Depot event space!<br />
     <b>ACCESS TO ALL WORKSHOPS IS INCLUDED WITH YOUR CONFERENCE TICKET.</b></p>
     <p>What are workshops? Designed to provide deep, practical learning, these workshops guide you through real-world scenarios using the latest tools and techniques. You'll actively engage in step-by-step exercises, from automating processes to optimizing infrastructure, all under the guidance of industry experts. Our workshops are crafted to offer more than just theory—they're interactive experiences where you’ll apply knowledge in real time, collaborate with peers, and leave with actionable skills you can immediately implement. Bring your laptop and prepare to jump in and learn something new. We will be providing pizza from Slice (including GF and Vegan options) for lunch.</p>
     <h2>New for 2024 - Lightning Talks</h2>
