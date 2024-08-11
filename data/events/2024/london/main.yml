@@ -126,6 +126,8 @@ sponsors:
   # silver sponsors
   - id: devex-connect
     level: silver
+  - id: checkly
+    level: silver
   - id: checkmarx
     level: silver
   - id: honeycomb
