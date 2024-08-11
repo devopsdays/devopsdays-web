@@ -108,6 +108,8 @@ sponsors:
     level: bronze
   - id: birmingham-area-software-enthusiasts
     level: community
+  - id: birmingham-women-in-tech
+    level: community
   # - id: tailscale
   #   level: silver
 
