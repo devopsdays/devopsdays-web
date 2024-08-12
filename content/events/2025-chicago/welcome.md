@@ -37,6 +37,11 @@ Description = "DevOpsDays Chicago is coming back in 2025! The group that brought
               <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Register
             </a>
           </div>
+          <div class = "d-flex p-2">
+            <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://talks.devopsdays.org/devopsdays-chicago-2025/cfp">
+              <i class="fa fa-microphone fa-lg"></i>&nbsp;&nbsp;&nbsp;Propose
+            </a>
+          </div>
         </div>
       </div>
     </div>
