@@ -130,6 +130,11 @@ sponsors:
     level: community
   - id: womeninlinux
     level: community
+  - id: observe
+    level: diamond
+  - id: gitlab
+    level: platinum
+    
   
 
  
