@@ -115,8 +115,32 @@ Description = "devopsdays Birmingham, AL 2024"
   <div class = "col-md-1">
     &nbsp;
   </div>
-
 </div>
+
+<div class = "row">
+  <div class = "col-md-1">
+    &nbsp;
+  </div>
+  <div class = "col-md-1">
+    <strong>Program</strong>
+  </div>
+  <div class = "col-md-3">
+    {{< event_link page="program" text="Check out our program!" >}}
+  </div>
+  <div class = "col-md-2">
+    &nbsp;
+  </div>
+  <div class = "col-md-1">
+    <strong>Speakers</strong>
+  </div>
+  <div class = "col-md-3">
+    {{< event_link page="speakers" text="Check out our speakers!" >}}
+  </div>
+  <div class = "col-md-1">
+    &nbsp;
+  </div>
+</div>
+
 <div class = "row">
   <div class = "col-md-3 col-sm-0">
     &nbsp;
@@ -142,7 +166,7 @@ Description = "devopsdays Birmingham, AL 2024"
     <h2>New for 2024 - Lightning Talks</h2>
     <p>Also new this year are lightning talks! Taking place on August 20, lightning talks are fast-paced, concise presentations where experts share key insights, tips, and trends in just 5 minutes! Each talk is a focused, high-energy session designed to deliver information quickly, making it an ideal way to learn about the latest developments, tools, and practices.
     <h2>General Sessions and Open Spaces</h2>
-    <p>Our general sessions, lightning talks, and open spaces will all be taking place at the beautiful Red Mountatin Theatre Arts Campus.</p>
+    <p>Our general sessions, lightning talks, and open spaces will all be taking place at the beautiful Red Mountain Theatre Arts Campus.</p>
     <p>Open Spaces: Open space topics and locations will be announced and done onsite. For more information on what open spaces are and how they work, see a great description <a href="/pages/open-space-format">here</a></p>
     <p>Food and Beverage: Baba Java is back again providing a wonderful coffee bar that opens at 8am every morning and runs throughout the day. Regular coffee is included with your ticket price and specialty coffees and teas are available for purchase. Breakfast is not provided; lunch will be catered by Tre Luna. Gluten Free and Vegetarian options will be available.</p>
     <p>Networking: We have multiple networking breaks scheduled throughout the day for you to mingle with other local engineers, talk with the sponsors and recruiters, or (in the afternoons) grab a drink at the RMT bar.</p>
