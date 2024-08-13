@@ -1,0 +1,61 @@
+name: Check Sponsors are Alphabetical
+
+on:
+  pull_request:
+    paths:
+      - 'data/events/*.yml'
+jobs:
+  check-sorting:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Install yq
+      run: sudo apt-get install -y yq
+
+    - name: Check if sponsors are sorted
+      run: |
+        #!/bin/bash
+
+        for file in $(git diff --name-only | grep -E 'data/events/*/.*\.yml'); do
+          sponsors=$(yq '.sponsors' $file)
+
+          platinum=$(echo $sponsors | yq '.[] | select(.level == "platinum")')
+          gold=$(echo $sponsors | yq '.[] | select(.level == "gold")')
+          silver=$(echo $sponsors | yq '.[] | select(.level == "silver")')
+          bronze=$(echo $sponsors | yq '.[] | select(.level == "bronze")')
+          community=$(echo $sponsors | yq '.[] | select(.level == "community")')
+
+          platinum_sorted=$(echo $platinum | jq 'sort_by(.id)' 2>/dev/null)
+          gold_sorted=$(echo $gold | jq 'sort_by(.id)' 2>/dev/null)
+          silver_sorted=$(echo $silver | jq 'sort_by(.id)' 2>/dev/null)
+          bronze_sorted=$(echo $bronze | jq 'sort_by(.id)' 2>/dev/null)
+          community_sorted=$(echo $community | jq 'sort_by(.id)' 2>/dev/null)
+
+          if [ "$platinum" != "$platinum_sorted" ]; then
+            echo "Platinum sponsors in $file are not sorted alphabetically by ID."
+            exit 1
+          fi
+
+          if [ "$gold" != "$gold_sorted" ]; then
+            echo "Gold sponsors in $file are not sorted alphabetically by ID."
+            exit 1
+          fi
+
+          if [ "$silver" != "$silver_sorted" ]; then
+            echo "Silver sponsors in $file are not sorted alphabetically by ID."
+            exit 1
+          fi
+
+          if [ "$bronze" != "$bronze_sorted" ]; then
+            echo "Bronze sponsors in $file are not sorted alphabetically by ID."
+            exit 1
+          fi
+
+          if [ "$community" != "$community_sorted" ]; then
+            echo "Community sponsors in $file are not sorted alphabetically by ID."
+            exit 1
+          fi
+        done
