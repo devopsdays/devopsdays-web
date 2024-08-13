@@ -3,7 +3,7 @@ name: Check Sponsors are Alphabetical
 on:
   pull_request:
     paths:
-      - 'data/events/*.yml'
+      - 'data/events/*/*.yml'
 jobs:
   check-sorting:
     runs-on: ubuntu-latest
