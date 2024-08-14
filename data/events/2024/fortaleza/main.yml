@@ -190,9 +190,12 @@ sponsors:
   - id: redhat
     level: gold
     url: https://www.redhat.com/
-  # - id: trust-control
-  #   level: platinum
-  #   url: https://www.trustcontrol.com.br/
+  - id: nutanix
+    level: platinum
+    url: https://www.nutanix.com/br
+  - id: clear-it
+    level: platinum
+    url: https://clearit.com.br/
   - id: deco
     level: platinum
     url: https://deco.cx/
@@ -226,9 +229,6 @@ sponsors:
   - id: rapaduratech
     level: community
     url: https://rapaduratech.com.br/
-  # - id: clear-it
-  #   level: community
-  #   url: https://clearit.com.br/  
   - id: grafana
     level: bronze
     url: https://grafana.com/
