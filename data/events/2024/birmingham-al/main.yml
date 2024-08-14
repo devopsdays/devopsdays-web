@@ -346,7 +346,7 @@ program:
     date: 2024-08-21
     start_time: "11:55"
     end_time: "13:00"
-  - title: "special-guest"
+  - title: "steve-hallman-talk"
     type: talk
     date: 2024-08-21
     start_time: "13:00"
