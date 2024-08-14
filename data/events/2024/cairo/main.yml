@@ -81,24 +81,26 @@ organizer_email: "cairo@devopsdays.org" # Put your organizer email address here
 sponsors:
  - id: cegedim
    level: platinum
- - id: itida-secc
-   level: corporate
- - id: atos
-   level: corporate
- - id: cegedim
-   level: corporate
- - id: dxctechnology
-   level: corporate
- - id: orange
-   level: corporate 
- - id: vois
-   level: corporate
- - id: cairo-university
-   level: academia
- - id: the-american-university-in-cairo
-   level: academia
- - id: egypt-university-of-informatics
-   level: academia
+ - id: archer
+   level: platinum
+ #- id: itida-secc
+ #  level: corporate
+ #- id: atos
+ #  level: corporate
+ #- id: cegedim
+ #  level: corporate
+ #- id: dxctechnology
+ #  level: corporate
+ #- id: orange
+ #  level: corporate 
+ #- id: vois
+ #  level: corporate
+ #- id: cairo-university
+ #  level: academia
+ #- id: the-american-university-in-cairo
+ #  level: academia
+ #- id: egypt-university-of-informatics
+ #  level: academia
  - id: foss
    level: community
    url: #
@@ -141,12 +143,12 @@ sponsor_levels:
   - id: silver
     label: Silver
     max: 0 # This is the same as omitting the max limit.
-  - id: corporate
-    label: "Corporate Organizers"
-    max: 1 # to prevent "join as" string from appearing
-  - id: academia
-    label: "Academia Organizers"
-    max: 1 # to prevent "join as" string from appearing
+  #- id: corporate
+  #  label: "Corporate Organizers"
+  #  max: 1 # to prevent "join as" string from appearing
+  #- id: academia
+  #  label: "Academia Organizers"
+  #  max: 1 # to prevent "join as" string from appearing
   - id: community
     label: Community
     max: 0
