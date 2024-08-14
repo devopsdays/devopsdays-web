@@ -90,28 +90,30 @@ sharing_image: "sharing_logo.png"
 sponsors:
   - id: fetch
     level: host
-  - id: nibuild
-    level: silver
-  - id: lynker
-    level: bronze
-  - id: portworx
+  - id: assessivate
     level: silver
   - id: fleetio
     level: silver
-  - id: assessivate
+  - id: nibuild
+    level: silver
+  - id: portworx
     level: silver
   - id: sparkhound
     level: silver
-  - id: itac-solutions
+  - id: tailscale
+    level: silver
+  - id: crystaldb
     level: bronze
   - id: digital-motion
+    level: bronze
+  - id: itac-solutions
+    level: bronze
+  - id: lynker
     level: bronze
   - id: birmingham-area-software-enthusiasts
     level: community
   - id: birmingham-women-in-tech
     level: community
-  # - id: tailscale
-  #   level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
