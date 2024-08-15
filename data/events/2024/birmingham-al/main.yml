@@ -286,15 +286,10 @@ program:
     date: 2024-08-20
     start_time: "16:30"
     end_time: "17:00"
-  - title: "Open Spaces #4"
-    type: "open-space"
-    date: 2024-08-20
-    start_time: "17:00"
-    end_time: "17:30"
   - title: "Mixing and Socializing"
     type: custom
     date: 2024-08-20
-    start_time: "17:30"
+    start_time: "17:00"
     end_time: "18:00"
 
   - title: "Registration, Visit Sponsors, ☕️ bar opens"
@@ -353,7 +348,7 @@ program:
     date: 2024-08-21
     start_time: "13:00"
     end_time: "13:30"
-  - title: "special-guest"
+  - title: "mikhail-kozorovitskiy"
     type: talk
     date: 2024-08-21
     start_time: "13:30"
@@ -388,20 +383,15 @@ program:
     date: 2024-08-21
     start_time: "16:15"
     end_time: "16:45"
-  - title: "Open Spaces #4"
-    type: "open-space"
-    date: 2024-08-21
-    start_time: "16:45"
-    end_time: "17:15"
   - title: "Main Stage Closing Remarks"
     type: custom
     date: 2024-08-21
-    start_time: "17:15"
-    end_time: "17:30"
+    start_time: "16:45"
+    end_time: "17:00"
   - title: "Mixing and Socializing"
     type: custom
     date: 2024-08-21
-    start_time: "17:30"
+    start_time: "17:00"
     end_time: "18:00"
 ignites:
   - title: "dwayne-mcdaniel-ignite"
