@@ -30,13 +30,13 @@ registration_link: "https://devopsdaysATL2025.eventbrite.com" # If you have a cu
 #
 # coordinates: "" # No longer used
 
-location: "atlanta" # Defaults to city, but you can make it the venue name.
+location: "The Historic Academny of Medicine" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
+location_address: "875 W Peachtree St NW, Atlanta, GA 30309" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
- # - name: location
+  - name: location
   - name: register
  # - name: program
  # - name: speakers
