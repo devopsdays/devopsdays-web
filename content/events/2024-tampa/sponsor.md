@@ -82,7 +82,7 @@ Please note, this package is not designed for recruiting companies. We aim to ta
         <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=D32495ZH962JU" target="_blank">Buy Now</a>
         </td>
         <td style="padding: 5px" align="center" valign="top"><b>Diamond</b><br>1 Left<br><br><br>
-        <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZWF76TZ9RUZ8E" target="_blank">Buy Now</a>
+        Sold Out</a>
         </td>
       </tr>
       <tr>
@@ -121,7 +121,7 @@ Please note, this package is not designed for recruiting companies. We aim to ta
         <td style="padding: 5px" align="center"><img width="25" src="/img/checkmark.png"></td>
       </tr>
       <tr>
-        <td>Logo on shirt*</td>
+        <td>Logo on shirt (must be submitted befor 8/15)</td>
         <td style="padding: 5px" align="center"></td>
         <td style="padding: 5px" align="center"><img width="25" src="/img/checkmark.png"></td>
         <td style="padding: 5px" align="center"><img width="25" src="/img/checkmark.png"></td>
