@@ -106,7 +106,11 @@ a.jssocials-share-link, a.event-cta-button {
 
 Thank you to everyone who participated in DevOpsDays Montréal 2024! 🙌 The event took place on May 27th and 28th at the Centre Mont-Royal, and it was an incredible gathering of professionals from across the industry. Whether you’re a developer, sysadmin, tester, or product manager, there was something for everyone.
 
+<<<<<<< HEAD
 📺 Relive the Experience: Did you miss any sessions or want to revisit the inspiring talks? Good news! You can catch all the action on our YouTube channel. From thought-provoking keynotes to practical workshops, there’s a wealth of knowledge waiting for you.
+=======
+📺 Relive the Experience: Did you miss any sessions or want to revisit the inspiring talks? Good news! You can catch all the action on our YouTube channel1. From thought-provoking keynotes to practical workshops, there’s a wealth of knowledge waiting for you.
+>>>>>>> 5ea5333d5d (Recap and link to videos added)
 https://www.youtube.com/playlist?list=PL2tIJL4fCPDMuNt5F7IQTAykCHHAPCnJT
 
 Remember, DevOps isn’t just about tools and processes—it’s about community, learning, and growth. Let’s continue building a vibrant DevOps community in Montreal! 🚀
