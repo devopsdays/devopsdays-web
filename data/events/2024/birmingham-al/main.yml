@@ -125,15 +125,10 @@ sponsor_levels:
   - id: host
     label: Host
     max: 2
-  - id: gold
-    label: Gold
-    max: 4
   - id: silver
     label: Silver
-    max: 6
   - id: bronze
     label: Bronze
-    max: 8
   - id: community
     label: Community
 
