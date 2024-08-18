@@ -97,6 +97,8 @@ sponsors:
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: mobia
     level: silver
+  - id: harness
+    level: raffle
   - id: arresteddevops
     level: community
   - id: kubecareers
@@ -145,5 +147,7 @@ sponsor_levels:
   #- id: coffee
   #  label: Coffee
   #  max: 1
+  - id: raffle
+    label: Raffle
   - id: community
     label: Community
