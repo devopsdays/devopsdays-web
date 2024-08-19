@@ -143,6 +143,9 @@ sponsors:
   - id: grafana
     level: bronze
 
+  - id: microsoft
+    level: bronze
+
   #Community
   - id: punkdodevops
     level: community
@@ -265,8 +268,8 @@ program:
     start_time: "14:45"
     end_time: "15:15"
 
-  - title: "TBA"
-    type: custom
+  - title: "daniel-silva"
+    type: talk
     date: 2024-08-24
     start_time: "15:15"
     end_time: "15:45"
@@ -284,8 +287,8 @@ program:
     start_time: "16:15"
     end_time: "16:45"
 
-  - title: "TBA"
-    type: custom
+  - title: "andre-fernandes"
+    type: talk
     date: 2024-08-24
     start_time: "16:45"
     end_time: "17:00"
