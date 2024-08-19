@@ -114,6 +114,8 @@ sponsors:
     level: community
   - id: birmingham-women-in-tech
     level: community
+  - id: 4me
+    level: drinks
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -125,17 +127,15 @@ sponsor_levels:
   - id: host
     label: Host
     max: 2
-  - id: gold
-    label: Gold
-    max: 4
   - id: silver
     label: Silver
-    max: 6
   - id: bronze
     label: Bronze
-    max: 8
   - id: community
     label: Community
+  - id: drinks
+    max: 1
+    label: Drinks
 
 program:
  #workshop day
