@@ -25,13 +25,13 @@ cfp_link: "https://www.papercall.io/devopsdays-fln-2024" # #if you have a custom
 # registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "false" #set this to true if you need to manually close registration before your registration end date
-# registration_link: # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.sympla.com.br/evento/devopsdays-florianopolis-2024/2588454" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
-coordinates: #"-27.54433253602623, -48.500123084657844" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: #"ACATE | Centro de Inovação" # Defaults to city, but you can make it the venue name.
-location_address: #"Rodovia SC 401, 4100 - Km4 - Saco Grande, Florianópolis - SC, 88032-005" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+coordinates: "-27.430616679650086, -48.4448074344942" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: Sapiens Parque
+location_address: Av. Luiz Boiteux Piazza, 1302 - Canasvieiras, Florianópolis - SC, 88056-000
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   # - name: propose
@@ -92,6 +92,7 @@ team_members: # Name is the only required field for team members.
     github: "gilmardeoliveira"
 
 organizer_email: "florianopolis@devopsdays.org"
+masthead_background: "header.jpeg"
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
