@@ -15,7 +15,10 @@ The Code of Conduct applies to all participants at a devopsdays Belgium event. I
 
 ### Report contact details
 Our Code of Conduct team members are:
-- To be determined
+- Yves Hannoulle  (organiszer)  he/hi  , EN/NL,  yves@hanoulle.be
+- Jos van Schouten (external/ ams organizer), he/him, EN/NL, jos.vanschouten@gmail.com, josvanschouten on Telegram
+- Feu Mourek (external), they/them, EN/DE, devopsdays_coc@feu-mourek.de, devopsdays_coc_feu on Telegram
+
 
 Our Code of Conduct team is available during all official events, including the speaker dinner and the social event(s), and stays sober throughout all events.
 
