@@ -103,11 +103,10 @@ Visando valorizar a participação de instituições na realização do evento, 
     </tr>
     <tr>
       <td>Inscrições para o evento*</td>
-      <td></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
+      <td>2</i></td>
+      <td>4</i></td>
+      <td>8</i></td>
+      <td>10</i></td>
     </tr>
     <tr>
       <td><b>Contribuição</b></td>
