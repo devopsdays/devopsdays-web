@@ -44,11 +44,11 @@ Description = "devopsdays Florianópolis 2024"
         <strong>Ingresso</strong>
       </div>
       <div class="col-md-6">
-        <!-- {{< event_link url-key="registration_link" text="Adquira seu ingresso!" >}} -->
+        {{< event_link url-key="registration_link" text="Adquira seu ingresso!" >}}
       </div>
     </div>
   </div>
 
 </div>
-<!-- 
-<img src="/events/2024-florianopolis/header.jpeg" class="img-fluid mx-auto">  -->
+
+<!-- <img src="/events/2024-florianopolis/header.jpeg" class="img-fluid mx-auto">  -->

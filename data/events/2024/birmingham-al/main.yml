@@ -114,6 +114,8 @@ sponsors:
     level: community
   - id: birmingham-women-in-tech
     level: community
+  - id: 4me
+    level: drinks
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -125,17 +127,15 @@ sponsor_levels:
   - id: host
     label: Host
     max: 2
-  - id: gold
-    label: Gold
-    max: 4
   - id: silver
     label: Silver
-    max: 6
   - id: bronze
     label: Bronze
-    max: 8
   - id: community
     label: Community
+  - id: drinks
+    max: 1
+    label: Drinks
 
 program:
  #workshop day
@@ -286,15 +286,10 @@ program:
     date: 2024-08-20
     start_time: "16:30"
     end_time: "17:00"
-  - title: "Open Spaces #4"
-    type: "open-space"
-    date: 2024-08-20
-    start_time: "17:00"
-    end_time: "17:30"
   - title: "Mixing and Socializing"
     type: custom
     date: 2024-08-20
-    start_time: "17:30"
+    start_time: "17:00"
     end_time: "18:00"
 
   - title: "Registration, Visit Sponsors, ☕️ bar opens"
@@ -353,7 +348,7 @@ program:
     date: 2024-08-21
     start_time: "13:00"
     end_time: "13:30"
-  - title: "special-guest"
+  - title: "seth-hollingsead"
     type: talk
     date: 2024-08-21
     start_time: "13:30"
@@ -388,20 +383,15 @@ program:
     date: 2024-08-21
     start_time: "16:15"
     end_time: "16:45"
-  - title: "Open Spaces #4"
-    type: "open-space"
-    date: 2024-08-21
-    start_time: "16:45"
-    end_time: "17:15"
-  - title: "Main Stage Closing Remarks"
+  - title: "Main Stage Closing Remarks and Raffle Drawings"
     type: custom
     date: 2024-08-21
-    start_time: "17:15"
-    end_time: "17:30"
+    start_time: "16:45"
+    end_time: "17:00"
   - title: "Mixing and Socializing"
     type: custom
     date: 2024-08-21
-    start_time: "17:30"
+    start_time: "17:00"
     end_time: "18:00"
 ignites:
   - title: "dwayne-mcdaniel-ignite"
