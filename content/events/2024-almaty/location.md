@@ -4,7 +4,13 @@ Type = "event"
 Description = "Location for devopsdays Almaty 2022"
 +++
 
-Watch this space for information about the venue including address, map/direction, parking/transit, and any hotel details.
+Seifullin Ave, 617, 5th floor, Conference Hall, Forum Event Space
+
+Park at the Forum Shopping Mall. There is parking available on the underground levels and around the center.
+Find the nearest elevator or escalator and go up to the fifth floor.
+Follow the signs to Forum Event Space.
+
+Make sure you allow enough time to park, find the hall, and arrive on time. If you get lost, there are information desks and boards on the first floor.
 
 <!-- Uncomment this only if you have set the coordinates for your location in the config yaml. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html -->
 {{< event_map >}}
