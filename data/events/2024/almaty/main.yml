@@ -75,6 +75,10 @@ sponsors:
     level: gold
   - id: vk-cloud
     level: gold
+  - id: softgile
+    level: digital
+  - id: oraclecloud
+    level: digital
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
