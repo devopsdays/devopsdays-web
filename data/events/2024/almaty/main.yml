@@ -63,6 +63,18 @@ organizer_email: "almaty@devopsdays.org" # Put your organizer email address here
 sponsors:
   - id: nova-cloud
     level: general
+  - id: pskz
+    level: gold
+  - id: yandexcloud
+    level: gold
+  - id: altel-digital
+    level: gold
+  - id: servercore
+    level: gold
+  - id: bank-rbk
+    level: gold
+  - id: vk-cloud
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -73,7 +85,7 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: general
     label: General
-    max: 0
+    max: 1
   - id: gold
     label: Gold
     max: 0 # This is the same as omitting the max limit.
