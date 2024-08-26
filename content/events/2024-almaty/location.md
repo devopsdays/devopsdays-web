@@ -1,7 +1,7 @@
 +++
 Title = "Location"
 Type = "event"
-Description = "Location for devopsdays Almaty 2022"
+Description = "Location for devopsdays Almaty 2024"
 +++
 
 Seifullin Ave, 617, 5th floor, Conference Hall, Forum Event Space
