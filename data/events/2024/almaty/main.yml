@@ -79,6 +79,8 @@ sponsors:
     level: digital
   - id: oraclecloud
     level: digital
+  - id: bintech
+    level: digital
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
