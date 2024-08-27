@@ -196,6 +196,8 @@ sponsors:
     level: silver
   - id: tailscale
     level: silver
+  - id: zealit
+    level: silver
   # - id: devopslive
   #   level: community
   # - id: addo
