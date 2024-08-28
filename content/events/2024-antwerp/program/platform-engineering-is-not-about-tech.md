@@ -9,6 +9,8 @@ speakers:
 
   - francesca-carta
 
+  - rhea-arora
+
 ---
 
 "What are we using for pipelines? Which infrastructure do we support? Is service mesh enabled?”. These types of questions - revolving on tech choices and implementation - currently occupy most of the conversations around platform engineering.
