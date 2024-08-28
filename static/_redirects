@@ -2,7 +2,7 @@
 /amsterdam/*		/events/2025-amsterdam/:splat		302
 /antwerp/*		/events/2024-antwerp/:splat		302
 /aracaju/*		/events/2024-aracaju/:splat		302
-/atlanta/*		/events/2023-atlanta/:splat		302
+/atlanta/*		/events/2025-atlanta/:splat		302
 /austin/cfp		https://talks.devopsdays.org/devopsdays-austin-2024/cfp 302
 /austin/*		/events/2024-austin/:splat		302
 /baku/*			/events/2019-baku/:splat		302
@@ -79,7 +79,7 @@
 /moscow/*		/events/2020-moscow/:splat		302
 /nairobi/*		/events/2024-nairobi/:splat		302
 /nashville/*		/events/2024-nashville/:splat		302
-/natal/*		/events/2020-natal/:splat		302
+/natal/*		/events/2024-natal/:splat		302
 /new-york-city/*	/events/2023-new-york-city/:splat	302
 /new-zealand/*		/events/2019-auckland/:splat		302
 /newcastle/*		/events/2018-newcastle/:splat		302
@@ -105,10 +105,10 @@
 /salt-lake-city/*	/events/2024-salt-lake-city/:splat	302
 /salvador/*		/events/2023-salvador/:splat		302
 /santa-maria/*		/events/2018-santa-maria/:splat		302
-/santiago/*		/events/2020-santiago/:splat		302
+/santiago/*		/events/2025-santiago/:splat		302
 /sao-paulo/cfp		https://talks.devopsdays.org/devopsdays-sao-paulo-2024/cfp 302
 /sao-paulo/*		/events/2024-sao-paulo/:splat		302
-/seattle/*		/events/2024-seattle/:splat		302
+/seattle/*		/events/2025-seattle/:splat		302
 /shanghai/*		/events/2020-shanghai/:splat		302
 /shenzhen/*		/events/2018-shenzhen/:splat		302
 /silicon-valley/*	/events/2018-silicon-valley/:splat	302

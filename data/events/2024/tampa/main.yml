@@ -41,9 +41,9 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     icon: "map-o"
     url: /events/2024-tampa/location
   - name: propose
-#  - name: registration
-#  - name: program
-#  - name: speakers
+  - name: registration
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -106,7 +106,38 @@ sponsors:
     level: community
   - id: dnsimple
     level: platinum
-
+  - id: dexian
+    level: gold
+  - id: harness
+    level: platinum
+  - id: coder
+    level: platinum
+  - id: dynatrace
+    level: diamond
+  - id: katrum
+    level: platinum
+  - id: hightechconnect
+    level: community
+  - id: tampabayai
+    level: community
+  - id: tampabayapple
+    level: community
+  - id: tampaccc
+    level: community
+  - id: tampabaytech
+    level: community
+  - id: tampajug
+    level: community
+  - id: womeninlinux
+    level: community
+  - id: observe
+    level: diamond
+  - id: gitlab
+    level: platinum
+  - id: axiom
+    level: platinum
+  - id: codiac
+    level: diamond
  
 #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 # - id: arresteddevops
@@ -124,7 +155,7 @@ sponsor_levels:
     max: 2
   - id: platinum
     label: Platinum
-    max: 8 # This is the same as omitting the max limit.
+    max: 8 
   - id: gold
     label: Gold
   - id: inkind

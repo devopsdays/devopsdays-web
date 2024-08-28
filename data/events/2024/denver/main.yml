@@ -75,10 +75,10 @@ team_members: # Name is the only required field for team members.
     employer: "Parry Labs"
     twitter: "ds_morse"
   - name: "Peter ONeil Jr"
-    employer: "WebRiot"
+    employer: "Teleport"
     twitter: "peteroneilljr"
   - name: "Leigh Capili"
-    employer: "Tanzu by Broadcom"
+    employer: "Flox"
     twitter: "capileigh"
   - name: "Mary Goodheart"
     employer: "VelocityGlobal"
@@ -104,11 +104,23 @@ sponsors:
     level: silver
   - id: kubefirst
     level: silver
+  - id: deviq
+    level: supporter
+  - id: duckduckgo
+    level: supporter
+  - id: checkmarx
+    level: supporter
+  - id: kloudfuse
+    level: supporter
+  - id: masterpoint
+    level: supporter
   - id: parrylabs
     level: supporter
   - id: pax8
     level: supporter
-  - id: deviq
+  - id: releaseteam
+    level: supporter
+  - id: tailscale
     level: supporter
   - id: webriot
     level: supporter
@@ -332,8 +344,6 @@ ignites:
   - title: "benjie-de-groot"
     date: 2024-09-17
   - title: "jessica-garson"
-    date: 2024-09-17
-  - title: "divine-odazie"
     date: 2024-09-17
   - title: "jj-asghar"
     date: 2024-09-17

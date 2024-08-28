@@ -114,18 +114,16 @@ sponsors:
     level: bronze
   - id: metrika-media
     level: bronze
+  - id: sngular-2023
+    level: bronze
+  - id: tinybird
+    level: bronze
   - id: speedyrails
     level: water-friut
-  - id: edd
-    level: collaborators
-  - id: diputacioncc
-    level: collaborators
   - id: kubecareers
-    level: collaborators
+    level: media-partner
   - id: kubeevents
-    level: collaborators
-  - id: azuanet
-    level: collaborators
+    level: media-partner
   - id: codemotion
     level: media-partner
     url: https://codemo.tech/partners
@@ -133,6 +131,18 @@ sponsors:
     level: media-partner
   - id: keepcoding-2024
     level: media-partner
+  - id: apiaddicts
+    level: media-partner
+  - id: edd
+    level: collaborators
+  - id: diputacioncc
+    level: collaborators
+  - id: azuanet
+    level: collaborators
+  - id: aws-user-groups-spain
+    level: collaborators
+  - id: flywire
+    level: collaborators
   - id: caceresdevops
     level: community
   - id: cacerestech
@@ -140,6 +150,10 @@ sponsors:
   - id: girls-in-tech-esp
     level: community
   - id: certiprof
+    level: community
+  - id: extrepython
+    level: community
+  - id: almeria-tech
     level: community
 #   - id: samplesponsorname
 #     level: gold
@@ -167,9 +181,9 @@ sponsor_levels:
     label: Bronze
   - id: water-friut
     label: "Water and fruit"
-  - id: collaborators
-    label: Collaborators
   - id: media-partner
     label: Media partner
+  - id: collaborators
+    label: Collaborators
   - id: community
     label: Community

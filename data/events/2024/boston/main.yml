@@ -93,6 +93,10 @@ sponsors:
     level: startupalley
   - id: atono
     level: startupalley
+  - id: cloudzero
+    level: platinum
+  - id: observe
+    level: platinum
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

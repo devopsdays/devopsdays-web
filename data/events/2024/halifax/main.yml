@@ -34,6 +34,7 @@ location_address: "6135 University Ave, Halifax, NS B3H 4P9, Canada" #Optional -
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
+  - name: workshop
   - name: location
   - name: registration
   - name: Schedule
@@ -96,6 +97,8 @@ sponsors:
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: mobia
     level: silver
+  - id: harness
+    level: raffle
   - id: arresteddevops
     level: community
   - id: kubecareers
@@ -112,6 +115,8 @@ sponsors:
     level: community 
   - id: gdg-halifax
     level: community 
+  - id: clc_halifax
+    level: community
   
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -142,5 +147,7 @@ sponsor_levels:
   #- id: coffee
   #  label: Coffee
   #  max: 1
+  - id: raffle
+    label: Raffle
   - id: community
     label: Community
