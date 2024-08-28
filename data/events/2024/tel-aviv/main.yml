@@ -242,6 +242,10 @@ sponsors:
     level: gold
   - id: finout
     level: gold
+  - id: bigpanda
+    level: gold
+  - id: quali
+    level: gold
   #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: velocitytech
     level: community
