@@ -161,7 +161,7 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/kevinmichaellong/"
 
   - name: "Kadi McKean"
-    employer: "Endor Labs"
+    employer: 
     twitter: "KadiGrigg"
     bio: ""
     image: "kadi-mckean.jpg"

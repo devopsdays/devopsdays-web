@@ -130,8 +130,14 @@ sponsors:
     level: community
   - id: womeninlinux
     level: community
-  
-
+  - id: observe
+    level: diamond
+  - id: gitlab
+    level: platinum
+  - id: axiom
+    level: platinum
+  - id: codiac
+    level: diamond
  
 #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 # - id: arresteddevops

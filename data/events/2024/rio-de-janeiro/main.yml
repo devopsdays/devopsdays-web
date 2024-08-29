@@ -81,7 +81,6 @@ team_members: # Name is the only required field for team members.
 
   - name: "Pedro Amaral Moreira"
     employer: "PagoNxt Merchant Solutions"
-    twitter: "predotaku"
     github: "pedroamaralm"
     linkedin: "https://www.linkedin.com/in/pedro-amaral-moreira/"
     image: "pedro-amorin.jpg"
@@ -142,6 +141,9 @@ sponsors:
     level: bronze
 
   - id: grafana
+    level: bronze
+
+  - id: microsoft
     level: bronze
 
   #Community
@@ -266,7 +268,7 @@ program:
     start_time: "14:45"
     end_time: "15:15"
 
-  - title: "bernardo-gomes-lankheet"
+  - title: "daniel-silva"
     type: talk
     date: 2024-08-24
     start_time: "15:15"
@@ -285,8 +287,8 @@ program:
     start_time: "16:15"
     end_time: "16:45"
 
-  - title: "TBA"
-    type: custom
+  - title: "andre-fernandes"
+    type: talk
     date: 2024-08-24
     start_time: "16:45"
     end_time: "17:00"
@@ -319,3 +321,9 @@ program:
     date: 2024-08-24
     start_time: "18:00"
     end_time: "18:30"
+
+  - title: "Assembléia DevOpsDays Brasil - Pontapé inicial"
+    type: custom
+    date: 2024-08-24
+    start_time: "19:00"
+    end_time: "20:00"
