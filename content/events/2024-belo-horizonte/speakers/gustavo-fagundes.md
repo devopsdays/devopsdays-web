@@ -7,4 +7,4 @@ linktitle = "gustavo-fagundes"
 
 +++
 
-A 6 anos trabalhando com diversas tecnologias cloud natives, AWS, Kubernetes, istio, Prometheus, grafana, entre outros. Atualmente estou como líder técnico em uma das frentes de plataformas no Inter.
+Líder Técnico da frente de API Gateway no Inter, Desenvolvedor Go, Especialista em Cloud, Kubernetes, Mesh e Observabilidade. Sou apaixonado pela troca de conhecimento e experiências, acredito que o conhecimento só vale a pena se compartilhado e que toda ciência é fruto desta troca.
