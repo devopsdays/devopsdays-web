@@ -2,9 +2,9 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Legacy vs. modern compliance: making the shift"
+Title = "How to win peers and influence managers"
 Type = "talk"
-Speakers = ["mazvydas-zabotka"]
+Speakers = ["konstantinas-jurgilas"]
 +++
 
 Fast pace 5 minute ignite talk 
