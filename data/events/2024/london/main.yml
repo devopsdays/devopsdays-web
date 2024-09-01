@@ -121,7 +121,7 @@ sponsors:
     level: gold
   - id: heroku
     level: gold
-  - id: zoho
+  - id: site24x7
     level: gold
   # silver sponsors
   - id: devex-connect
@@ -129,6 +129,8 @@ sponsors:
   - id: checkly
     level: silver
   - id: checkmarx
+    level: silver
+  - id: chainguard
     level: silver
   - id: honeycomb
     level: silver
@@ -150,6 +152,8 @@ sponsors:
   - id: github
     level: bronze
   - id: gitlab
+    level: bronze
+  - id: googlecloud
     level: bronze
   - id: oxa
     level: bronze
