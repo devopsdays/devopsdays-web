@@ -103,7 +103,7 @@
 /rome/*			/events/2012-italy/:splat		302
 /saint-louis/*		/events/2020-saint-louis/:splat		302
 /salt-lake-city/*	/events/2024-salt-lake-city/:splat	302
-/salvador/*		/events/2023-salvador/:splat		302
+/salvador/*		/events/2024-salvador/:splat		302
 /santa-maria/*		/events/2018-santa-maria/:splat		302
 /santiago/*		/events/2025-santiago/:splat		302
 /sao-paulo/cfp		https://talks.devopsdays.org/devopsdays-sao-paulo-2024/cfp 302
