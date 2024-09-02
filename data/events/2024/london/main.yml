@@ -278,7 +278,7 @@ program:
     start_time: "17:10"
     end_time: "18:10"
 
-  - title: "Evening event to be announced"
+  - title: "Evening event at local venue, announced during Keynote"
     type: custom
     date: 2024-09-26T00:00:00+01:00
     start_time: "18:30"
