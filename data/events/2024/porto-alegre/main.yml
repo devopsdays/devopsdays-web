@@ -86,6 +86,7 @@ team_members: # Name is the only required field for team members.
 
   - name: Gabriel Barbosa
     role: Analista de Infraestrutura Linux
+    bio: "Entusiasta de software livre, atualmente atuando como analista de Infraestrutura Linux na Interop, nas horas vagas corredor e ciclista e praticante de yoga. Formado em redes de computadores e atuando na área  há mais de 7 anos."
     twitter: https://twitter.com/ollemg
     github: https://github.com/ollemg
     linkedin: https://www.linkedin.com/in/ollemg
