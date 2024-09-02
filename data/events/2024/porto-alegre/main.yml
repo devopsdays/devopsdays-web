@@ -42,6 +42,10 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     icon: "map-marker"
     url: /events/2024-porto-alegre/location
 
+  - name: inscrições
+    icon: "ticket"
+    url: https://www.sympla.com.br/evento/devopsdays-porto-alegre-2024/2617074
+
   - name: patrocínio
     icon: "money"
     url: /events/2024-porto-alegre/sponsor

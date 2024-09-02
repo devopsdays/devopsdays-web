@@ -89,7 +89,7 @@ a.jssocials-share-link, a.event-cta-button {
 <!-- <img src="/events/2023-montreal/logo-square.jpg"> -->
 <p></p>
 <p><a href="" onclick="alert('EM BREVE!'); return false"><button>SUBMENTA SUA TALK</button></a></p>
-<p><a href="" onclick="alert('EM BREVE!'); return false"><button>INSCREVA-SE</button></a></p>
+<p><a href="https://www.sympla.com.br/evento/devopsdays-porto-alegre-2024/2617074"><button>INSCREVA-SE</button></a></p>
 <p><a href="../sponsor/"><button>SEJA UM SPONSOR</button></a></p>
 <p><a href="/events/2024-porto-alegre/contact"><button>CONTATO</button></a></p>
 <p><a href="https://maps.app.goo.gl/2u312zviparMRk6x9"><button>LOCALIZAÇÃO</button></a></p>
