@@ -80,6 +80,13 @@ team_members: # Name is the only required field for team members.
     linkedin: https://www.linkedin.com/in/gabrielaomoraes/
     image: gabriela-moraes.jpeg
 
+  - name: Gabriel Barbosa
+    role: Analista de Infraestrutura Linux
+    twitter: https://twitter.com/ollemg
+    github: https://github.com/ollemg
+    linkedin: https://www.linkedin.com/in/ollemg
+    image: gabriel-barbosa.jpeg
+
   - name: Lucas Mello
     role: Automation Engineer na SAP
     github: https://github.com/lbmello
