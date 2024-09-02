@@ -36,13 +36,13 @@ location: "Cáceres" # Defaults to city, but you can make it the venue name.
 location_address: "Ronda de San Francisco, 15, 10002 Cáceres" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
-    url: https://www.papercall.io/devopsdays-caceres-2024
+  # - name: propose
+  #   url: https://www.papercall.io/devopsdays-caceres-2024
   - name: location
   - name: registration
     url: https://www.eventbrite.es/e/devopsdays-caceres-2024-tickets-888206889717
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -104,28 +104,56 @@ organizer_email: "caceres@devopsdays.org" # Put your organizer email address her
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: seventhlab
+    level: silver
+  - id: worldline
+    level: silver
+  - id: viewnext
+    level: silver
   - id: speedyrails
     level: bronze
   - id: metrika-media
     level: bronze
+  - id: sngular-2023
+    level: bronze
+  - id: tinybird
+    level: bronze
   - id: speedyrails
     level: water-friut
+  - id: kubecareers
+    level: media-partner
+  - id: kubeevents
+    level: media-partner
+  - id: codemotion
+    level: media-partner
+    url: https://codemo.tech/partners
+  - id: devopsdays-kyiv
+    level: media-partner
+  - id: keepcoding-2024
+    level: media-partner
+  - id: apiaddicts
+    level: media-partner
   - id: edd
     level: collaborators
   - id: diputacioncc
     level: collaborators
-  - id: kubecareers
+  - id: azuanet
     level: collaborators
-  - id: kubeevents
+  - id: aws-user-groups-spain
     level: collaborators
-  - id: codemotion
-    level: media-partner
-    url: https://codemo.tech/partners
+  - id: flywire
+    level: collaborators
   - id: caceresdevops
     level: community
   - id: cacerestech
     level: community
   - id: girls-in-tech-esp
+    level: community
+  - id: certiprof
+    level: community
+  - id: extrepython
+    level: community
+  - id: almeria-tech
     level: community
 #   - id: samplesponsorname
 #     level: gold
@@ -153,9 +181,9 @@ sponsor_levels:
     label: Bronze
   - id: water-friut
     label: "Water and fruit"
-  - id: collaborators
-    label: Collaborators
   - id: media-partner
     label: Media partner
+  - id: collaborators
+    label: Collaborators
   - id: community
     label: Community

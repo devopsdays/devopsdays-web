@@ -149,7 +149,7 @@ sponsors:
     level: bronze
   - id: firehydrant
     level: bronze
-  - id: snyk
+  - id: snyk-before-20240621
     level: bronze
   - id: scale
     level: community

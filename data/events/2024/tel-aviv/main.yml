@@ -192,7 +192,7 @@ sponsors:
     level: platinum
   - id: couchbase
     level: platinum
-  - id: pulumi
+  - id: aws
     level: platinum
   - id: komodor
     level: gold
@@ -210,7 +210,11 @@ sponsors:
     level: gold
   - id: elastic
     level: gold
+  - id: perfectscale
+    level: gold
   - id: hetz
+    level: gold
+  - id: terasky-only
     level: gold
   - id: esl-cloudbees
     level: gold
@@ -226,7 +230,21 @@ sponsors:
     level: gold
   - id: redhat
     level: gold
-  - id: slimai
+  - id: castai
+    level: gold
+  - id: coralogix
+    level: gold
+  - id: bigdataboutique
+    level: gold
+  - id: hyperspace
+    level: gold
+  - id: wizards-vmw
+    level: gold
+  - id: finout
+    level: gold
+  - id: bigpanda
+    level: gold
+  - id: quali
     level: gold
   #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: velocitytech
@@ -238,8 +256,6 @@ sponsors:
   - id: apono
     level: community
   - id: tlvpartners
-    level: community
-  - id: bigdataboutique
     level: community
   - id: lunardev
     level: community

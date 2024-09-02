@@ -42,7 +42,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: registration
     url: https://tickets.devopsdays.org/devopsdays-dallas/2024/
   # - name: program
-  # - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -78,7 +78,7 @@ team_members: # Name is the only required field for team members.
 
   - name: "Jessica Sabugo"
     employer: "Istation"
-    bio: "Jessica is a DevOps Engineer. She has a deep interest in the DevOps culture and she keeps continuously learning. Her dream is to travel all over the world. She is currently part of the DevOps team at Istation where she delivers applications that support educators, empower kids and change lives."
+    bio: "Jessica is a Technology Leader at Capital One where she is passionate about mentoring and coaching others to achieve their career goals. She currently serves at the Chief of Staff for Card Tech Foundations which drives the horizontal capabilities for the entire Card Tech organization.  Prior to her current role, she led a Product Execution team focused on improving the internal developer experience through automation and standardization.  She has also held roles in Cloud Governance, Tech Strategy, Process Improvement, and Software Development. Throughout her career, she has been actively been involved in various Women in Tech organizations and currently is a leader within the Allies community. Outside of work, Jessica enjoys spending time with her daughter, catching up on (bad) reality TV, or giving out high-fives on Peloton.  Jessica has been a conference organizer since 2018."
     role: "Call For Papers, Run of Show, Entertainment"
     twitter: "jessica_sabugo"
     linkedin: "https://www.linkedin.com/in/jessica-sabugo-581ab658/"
@@ -186,6 +186,22 @@ sponsors:
     level: gold
   - id: rackn
     level: gold
+  - id: datadog
+    level: gold
+  - id: axiom
+    level: gold
+  - id: bmc
+    level: silver
+  - id: capitalone
+    level: gold
+  - id: tailscale
+    level: silver
+  - id: zealit
+    level: silver
+  - id: bmc
+    level: silver
+  - id: checkmarx
+    level: silver
   # - id: devopslive
   #   level: community
   # - id: addo

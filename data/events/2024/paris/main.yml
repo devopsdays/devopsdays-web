@@ -49,6 +49,9 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
+  - name: "Dina Abakkali"
+    employer: "Scaleway"
+    pronouns: "she/her"
   - name: "Jonathan Clarke"
     employer: "Rudder"
     pronouns: "he/him"

@@ -32,8 +32,7 @@ string_replace() {
   file=$3
 
   if [[ -w "${file}" ]] ; then
-    # sed -i'' should work for macos and linux equally.
-    sed -i'' "s/${escaped_lhs}/${escaped_rhs}/" "${file}"
+    sedcmd "s/${escaped_lhs}/${escaped_rhs}/" "${file}"
   else
     echo "WARNING: ${file} not writeable"
     return 1

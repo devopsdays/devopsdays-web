@@ -4,6 +4,7 @@ city: "Chicago" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdayschi" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "Devopsdays is coming to Chicago!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+sharing_image: "sharing.png"
 
 # All dates are in unquoted 2025-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2019-01-04T00:00:00+02:00
@@ -14,29 +15,30 @@ startdate: 2025-03-18T00:00:00-06:00 # The start date of your event. Leave blank
 enddate: 2025-03-18T00:00:00-06:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2024-08-05T00:00:00-06:00 # start accepting talk proposals.
+cfp_date_end: 2024-10-20T00:00:00-06:00 # close your call for proposals.
+cfp_date_announce: 2024-10-25T00:00:00-06:00 # inform proposers of status
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://talks.devopsdays.org/devopsdays-chicago-2025/cfp" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start: 2024-08-05T00:00:00-06:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2025-03-18T00:00:00-06:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://tickets.devopsdays.org/devopsdays-chicago/2025/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
 coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Chicago" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "233 S Wacker Dr, Chicago, IL 60606" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
-#  - name: location
- # - name: registration
+  - name: propose
+    url: https://talks.devopsdays.org/devopsdays-chicago-2025/cfp
+  - name: location
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
@@ -72,6 +74,13 @@ team_members: # Name is the only required field for team members.
     twitter: "dexhorthy"
     github: "dexhorthy"
     bio: "Dex is the CEO and co-founder of Metalytics.  Before that, he was hacking on cloud native tech at Replicated for almost 6 years. When he's not collaborating with software teams or deploying his blog on Kubernetes, he enjoys overcomplicated dinner prep and running the Chicago lakefront."
+  - name: "Sasha Czarkowski (Rosenbaum)"
+    employer: "Ergonautic"
+    image: "sasha-rosenbaum.jpg"
+    linkedin: "https://www.linkedin.com/in/sasha-rosenbaum/"
+    twitter: "DivineOps"
+    website: "https://www.sasharosenbaum.com/"
+    bio: "Sasha is Principal at a new venture, [Ergonautic](https://www.ergonautic.ly/). With a degree in Computer Science, an MBA, and two decades of experience across development, operations, product management, and technical sales, Sasha Rosenbaum brings a unique perspective to optimizing the organizational flow of work, bridging gaps with empathy and insight."
   - name: "Albert Cheung"
     image: "albert-cheung.jpg"
     linkedin: "http://www.linkedin.com/in/albcheung"
@@ -142,6 +151,12 @@ organizer_email: "chicago@devopsdays.org" # Put your organizer email address her
 sponsors:
 
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: redhat
+    level: platinum
+  - id: atono
+    level: gold
+  - id: honeycomb
+    level: gold
   - id: arresteddevops
     level: community
 
