@@ -116,6 +116,10 @@ sponsors:
     level: gold
   - id: elastic
     level: gold
+  - id: kuehnenagel
+    level: silver
+  - id: cleva
+    level: silver
   - id: relex
     level: bronze
   - id: devopsporto

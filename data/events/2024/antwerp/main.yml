@@ -124,9 +124,14 @@ sponsors:
   - id: open-future
     level: silver
   - id: pure-storage
-    level: bronze
+    level: silver
   - id: schubergphilis
     level: lanyard
+  - id: netways
+    level: bronze
+  - id: overmind
+    level: silver
+
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 

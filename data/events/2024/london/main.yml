@@ -138,7 +138,7 @@ sponsors:
     level: silver
   - id: riversafe
     level: silver
-  - id: venafi
+  - id: venafi-jetstack-consult
     level: silver
   # bronze sponsors
   - id: commify
