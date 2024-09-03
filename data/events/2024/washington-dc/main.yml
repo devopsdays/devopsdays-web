@@ -210,7 +210,7 @@ sponsors:
   - id: checkmarx
     level: gold
   - id: fairwinds
-    level: silver
+    level: gold
   - id: devopsdc-meetup
     level: community
   - id: fianu
