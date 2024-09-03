@@ -108,7 +108,7 @@ program:
   type: ignite
   date: "2024-09-04"
   start_time: "13:30"
-  end_time: "13:50"
+  end_time: "13:45"
 - title: Open Space Slot 1 Day 2
   type: open-space
   date: "2024-09-05"
@@ -225,23 +225,18 @@ ignites:
   date: "2024-09-05"
   start_time: "12:00"
   end_time: "12:05"
-- title: beyond-the-genai-+-llm-hype--leveraging-data-platforms-for-devops-success
+- title: continuously-update-everything
   type: ignite
   date: "2024-09-04"
   start_time: "13:30"
   end_time: "13:35"
-- title: continuously-update-everything
+- title: developer-experience-can-drive-business-growth
   type: ignite
   date: "2024-09-04"
   start_time: "13:35"
   end_time: "13:40"
-- title: developer-experience-can-drive-business-growth
+- title: never-ever-upgrade
   type: ignite
   date: "2024-09-04"
   start_time: "13:40"
   end_time: "13:45"
-- title: never-ever-upgrade
-  type: ignite
-  date: "2024-09-04"
-  start_time: "13:45"
-  end_time: "13:50"

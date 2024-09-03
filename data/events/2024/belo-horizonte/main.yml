@@ -171,8 +171,17 @@ organizer_email: "belo-horizonte@devopsdays.org" # Put your organizer email addr
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: forceone
+    level: platinum
+
   - id: aws
-    level: gold
+    level: gold    
+
+  - id: alurafiap
+    level: bronze
+
+  - id: unibh
+    level: community   
 
   - id: awsugmg
     level: community
