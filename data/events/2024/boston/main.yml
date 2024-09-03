@@ -207,13 +207,13 @@ program:
     date: 2024-10-22
     start_time: "9:15"
     end_time: "9:30"
-  - title: "Stay tuned for our Day 2 keynote speaker!"
-    type: custom
+  - title: "sara-gerion"
+    type: talk
     date: 2024-10-22
     start_time: "9:30"
     end_time: "10:00"
-  - title: "sara-gerion"
-    type: talk
+  - title: "Watch this space for our speaker!"
+    type: custom
     date: 2024-10-22
     start_time: "10:05"
     end_time: "10:35"
