@@ -207,8 +207,8 @@ program:
     date: 2024-10-22
     start_time: "9:15"
     end_time: "9:30"
-  - title: "laura-blersch"
-    type: talk
+  - title: "Stay tuned for our Day 2 keynote speaker!"
+    type: custom
     date: 2024-10-22
     start_time: "9:30"
     end_time: "10:00"
