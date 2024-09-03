@@ -140,7 +140,7 @@ sponsors:
     level: gold
   - id: threatstack
     level: platinum
-  - id: cloudzero
+  - id: cloudzero-before-20240903
     level: platinum
   - id: sensu
     level: platinum
