@@ -29,26 +29,21 @@ program:
   date: "2024-09-03"
   start_time: "11:00"
   end_time: "11:20"
-- title: optimizing-devopsdays-organizing-teams-for-fast-flow
-  type: talk
-  date: "2024-09-03"
-  start_time: "11:20"
-  end_time: "11:35"
 - title: devopsdays-in-brazil-from-the-first-dod-to-top2
   type: talk
   date: "2024-09-03"
-  start_time: "11:35"
-  end_time: "11:50"
+  start_time: "11:30"
+  end_time: "11:45"
 - title: using-foss-tooling-for-your-conference
   type: talk
   date: "2024-09-03"
-  start_time: "11:50"
-  end_time: "12:05"
+  start_time: "11:45"
+  end_time: "12:00"
 - title: Lunch
   type: custom
   date: "2024-09-03"
-  start_time: "12:20"
-  end_time: "13:50"
+  start_time: "12:00"
+  end_time: "13:30"
 - title: Open Space Opening
   type: custom
   date: "2024-09-03"
