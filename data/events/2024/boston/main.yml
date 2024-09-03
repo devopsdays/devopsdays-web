@@ -150,7 +150,7 @@ program:
     date: 2024-10-21
     start_time: "12:00"
     end_time: "13:30"
-  - title: "kanish-sharma"
+  - title: "elad-hirsch"
     type: talk
     date: 2024-10-21
     start_time: "13:30"
@@ -237,7 +237,7 @@ program:
     date: 2024-10-22
     start_time: "12:00"
     end_time: "13:30"
-  - title: "elad-hirsch"
+  - title: "kanish-sharma"
     type: talk
     date: 2024-10-22
     start_time: "13:30"
