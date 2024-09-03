@@ -215,6 +215,17 @@ sponsors:
     level: community
   - id: fianu
     level: platinum
+  - id: axiom
+    level: platinum
+  - id: progresschef
+    level: platinum
+  - id: redhat
+    level: gold
+  - id: tailscale
+    level: silver
+  - id: googlecloud
+    level: silver
+    
 
     #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 
