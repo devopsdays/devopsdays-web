@@ -45,6 +45,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     url: /events/2024-brasilia/conduct
   - name: contato
     url: /events/2024-brasilia/contact
+  - name: Patrocinadores
+    url: /events/2024-brasilia/sponsor
   # - name: Programação
   #   url: /events/2024-brasilia/program
 
