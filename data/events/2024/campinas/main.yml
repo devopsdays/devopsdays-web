@@ -43,6 +43,10 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     icon: "map-marker"
     url: /events/2024-campinas/location
 
+  - name: inscrições
+    icon: "ticket"
+    url: https://devopsdays-campinas.eventbrite.com.br
+
   - name: patrocínio
     icon: "money"
     url: /events/2024-campinas/sponsor
