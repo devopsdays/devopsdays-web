@@ -148,8 +148,8 @@ sponsor_levels:
     label: Media
 
 sponsors:
-  # - id: elastic
-  #   level: platinum
+  - id: jack-experts
+    level: platinum
   # - id: governo-pernambuco
   #   level: platinum
   # - id: espaco-cloud
