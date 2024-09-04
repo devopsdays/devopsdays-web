@@ -118,9 +118,9 @@ sponsors:
     level: gold
   - id: kuehnenagel
     level: silver
-  - id: cleva
-    level: silver
   - id: relex
+    level: bronze
+  - id: cleva
     level: bronze
   - id: devopsporto
     level: community
