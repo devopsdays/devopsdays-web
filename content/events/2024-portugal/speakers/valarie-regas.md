@@ -1,5 +1,5 @@
 +++
-Title = "Valerie Regas"
+Title = "Valarie Regas"
 website = "https://www.valarieregas.com/"
 linkedin = "https://www.linkedin.com/in/valarieregas/"
 twitter = "ValarieRegas"
