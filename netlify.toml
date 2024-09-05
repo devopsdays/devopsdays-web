@@ -36,6 +36,10 @@
     [headers.values]
     Access-Control-Allow-Origin = "*"
     
-    
+[[plugins]]
+  package = "netlify-plugin-cloudinary"
+
+  [plugins.inputs]
+  cloudName = "dd17ix71b"    
 #[[plugins]]
 # package = "netlify-plugin-hashfiles"
