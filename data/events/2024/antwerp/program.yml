@@ -59,14 +59,14 @@ program:
   date: "2024-09-04"
   start_time: "10:40"
   end_time: "11:00"
-- title: evolving-devops-teams-and-flexible-organizational-culture
-  type: talk
-  date: "2024-09-05"
-  start_time: "11:00"
-  end_time: "11:20"
 - title: devops-is-not-a-factory
   type: talk
   date: "2024-09-04"
+  start_time: "11:00"
+  end_time: "11:20"
+- title: evolving-devops-teams-and-flexible-organizational-culture
+  type: talk
+  date: "2024-09-05"
   start_time: "11:00"
   end_time: "11:20"
 - title: devsecoops--15-years-of-devops-and-patching-is-still-horrible-but-should-you-care-
@@ -83,7 +83,7 @@ program:
   type: ignite
   date: "2024-09-05"
   start_time: "11:40"
-  end_time: "12:05"
+  end_time: "12:00"
 - title: platform-engineering-is-not-about-tech
   type: talk
   date: "2024-09-04"
@@ -205,26 +205,21 @@ ignites:
   date: "2024-09-05"
   start_time: "11:40"
   end_time: "11:45"
-- title: why-motivation-is-so-important-burnout-vs-de-motivation
+- title: integer-programming-to-optimize-costs-in-kubernetes
   type: ignite
   date: "2024-09-05"
   start_time: "11:45"
   end_time: "11:50"
-- title: integer-programming-to-optimize-costs-in-kubernetes
+- title: all-good-ends-can-be-worked-out-by-good-means-or-how-to-do-open-source-enterprise-software-as-a-mature-org
   type: ignite
   date: "2024-09-05"
   start_time: "11:50"
   end_time: "11:55"
-- title: all-good-ends-can-be-worked-out-by-good-means-or-how-to-do-open-source-enterprise-software-as-a-mature-org
+- title: devops-and-baking
   type: ignite
   date: "2024-09-05"
   start_time: "11:55"
   end_time: "12:00"
-- title: devops-and-baking
-  type: ignite
-  date: "2024-09-05"
-  start_time: "12:00"
-  end_time: "12:05"
 - title: continuously-update-everything
   type: ignite
   date: "2024-09-04"
