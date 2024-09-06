@@ -91,7 +91,7 @@ team_members: # Name is the only required field for team members.
 
   - name: "Dara Aragão"
     linkedin: "https://www.linkedin.com/in/tatiana-dara-arag%C3%A3o"
-    image: "dara_aragao.jpeg"
+    image: "dara_aragao.jpg"
 
 organizer_email: "salvador@devopsdays.org" # Put your organizer email address here
 
