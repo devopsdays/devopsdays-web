@@ -189,6 +189,9 @@ sponsors:
   - id: mulheres_na_nuvem
     level: community
 
+  - id: 3dcomtech
+    level: community    
+
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -217,14 +220,14 @@ program:
     start_time: "09:00"
     end_time: "09:30"
 
-  - title: "Keynote"
-    type: custom
+  - title: "ana-cunha"
+    type: talk
     date: 2024-09-14T08:00:00-03:00
     start_time: "09:30"
     end_time: "10:00"
     background_color: "#BCE8DF"
 
-  - title: "robert-silva"
+  - title: "fabio-viana"
     type: talk
     date: 2024-09-14T08:00:00-03:00
     start_time: "10:00"
@@ -249,7 +252,7 @@ program:
     start_time: "11:30"
     end_time: "12:00"
   
-  - title: "paula-santos"
+  - title: "tulio-carvalhais"
     type: talk
     date: 2024-09-14T08:00:00-03:00
     start_time: "12:00"
