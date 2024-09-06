@@ -1,7 +1,7 @@
 +++
 Title = "John Willis"
-LinkedIn = ""
-pronouns = ""
+LinkedIn = "https://www.linkedin.com/in/johnwillisatlanta"
+pronouns = "he/him"
 image = ""
 type = "speaker"
 linktitle = "john-willis"
