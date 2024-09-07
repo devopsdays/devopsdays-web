@@ -15,7 +15,7 @@ Description = "DevOpsDays Los Angeles 2025"
   <p>
   DevOpsDaysLA offers opportunities to learn and share experiences about how the human factor enables, enhances, and optimizes automation, testing, security, platform engineering, reliability, organizational culture, CI/CD, DevOps practices, and career development. It is a part of the worldwide series of DevOpsDays events held annually, sanctioned, and supported by the DevOpsDays global core team.
   <p>
-  Relive the brilliance of our 2023 DevOps talks in our <a href="https://devopsdays.org/events/2023-los-angeles/program">video collection</a>. Immerse yourself in the wisdom shared by experts, rekindling innovative ideas and strategies. These timeless talks continue to illuminate the DevOps landscape.
+  Relive the brilliance of our 2024 DevOps talks in our <a href="https://devopsdays.org/events/2024-los-angeles/program">video collection</a>. Immerse yourself in the wisdom shared by experts, rekindling innovative ideas and strategies. These timeless talks continue to illuminate the DevOps landscape.
   <hr>
   </div>
   <div class = "col-md-6 push-md-4" id = "right-col">

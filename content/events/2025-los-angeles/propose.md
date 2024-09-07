@@ -10,6 +10,10 @@ Description = "Propose a talk for DevOpsDays Los Angeles 2025"
 {{< cfp_dates >}}
 <center><strong>DevOpsDaysLA 2025 Conference: 7th March 2025</strong></center>
 <hr>
+<center>
+  <h2><a href="https://www.socallinuxexpo.org/scale/22x/cfp" style="font-size: 1.5em; padding: 5 10px;text-decoration: none; border-radius: 5px;">>>> Submit your proposal here <<<</a></h2>
+</center>
+<hr>
 <p>
 Calling all SoCal DevOps enthusiasts and practitioners! DevOpsDaysLA is your platform to share and learn. 
 
