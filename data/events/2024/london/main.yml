@@ -121,7 +121,7 @@ sponsors:
     level: gold
   - id: heroku
     level: gold
-  - id: zoho
+  - id: site24x7
     level: gold
   # silver sponsors
   - id: devex-connect
@@ -129,6 +129,8 @@ sponsors:
   - id: checkly
     level: silver
   - id: checkmarx
+    level: silver
+  - id: chainguard
     level: silver
   - id: honeycomb
     level: silver
@@ -138,7 +140,7 @@ sponsors:
     level: silver
   - id: riversafe
     level: silver
-  - id: venafi
+  - id: venafi-jetstack-consult
     level: silver
   # bronze sponsors
   - id: commify
@@ -150,6 +152,8 @@ sponsors:
   - id: github
     level: bronze
   - id: gitlab
+    level: bronze
+  - id: googlecloud
     level: bronze
   - id: oxa
     level: bronze
@@ -278,7 +282,7 @@ program:
     start_time: "17:10"
     end_time: "18:10"
 
-  - title: "Evening event to be announced"
+  - title: "Evening event at local venue, announced during Keynote"
     type: custom
     date: 2024-09-26T00:00:00+01:00
     start_time: "18:30"
@@ -398,3 +402,6 @@ ignites:
     date: 2024-09-27T23:59:59+01:00
   - title: "anais-urlichs"
     date: 2024-09-27T23:59:59+01:00
+  - title: "john-willis"
+    date: 2024-09-27T23:59:59+01:00
+

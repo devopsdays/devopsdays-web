@@ -198,6 +198,8 @@ sponsors:
     level: silver
   - id: zealit
     level: silver
+  - id: checkmarx
+    level: silver
   # - id: devopslive
   #   level: community
   # - id: addo
