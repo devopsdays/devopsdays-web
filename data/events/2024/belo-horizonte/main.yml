@@ -225,7 +225,7 @@ program:
     date: 2024-09-14T08:00:00-03:00
     start_time: "09:30"
     end_time: "10:00"
-    background_color: "#BCE8DF"
+    background_color: "#d79afc"
 
   - title: "fabio-viana"
     type: talk
@@ -272,8 +272,8 @@ program:
     end_time: "14:30"
    
 
-  - title: "sulamita-dantas"
-    type: talk
+  - title: "Ignite Karaoke"
+    type: custom
     date: 2024-09-14T08:00:00-03:00
     start_time: "14:30"
     end_time: "15:00"
@@ -284,8 +284,8 @@ program:
     start_time: "15:00"
     end_time: "15:30"
 
-  - title: "Ignite Karaoke"
-    type: custom
+  - title: "sulamita-dantas"
+    type: talk
     date: 2024-09-14T08:00:00-03:00
     start_time: "15:30"
     end_time: "16:00"   
