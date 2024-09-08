@@ -11,7 +11,7 @@ Description = "Propose a talk for DevOpsDays Los Angeles 2025"
 <center><strong>DevOpsDaysLA 2025 Conference: 7th March 2025</strong></center>
 <hr>
 <center>
-  <h2><a href="https://www.socallinuxexpo.org/scale/22x/cfp" style="font-size: 1.5em; padding: 5 10px;text-decoration: none; border-radius: 5px;">>>> Submit your proposal here <<<</a></h2>
+  <h2><a href="https://www.socallinuxexpo.org/scale/22x/cfp" style="font-size: 1.5em; padding: 5 10px;text-decoration: none; border-radius: 5px;">&gt;&gt;&gt; Submit your proposal here &lt;&lt;&lt;</a></h2>
 </center>
 <hr>
 <p>
