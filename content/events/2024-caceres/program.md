@@ -116,33 +116,6 @@ If Open Space is new to you, you may be interested in <a href="/pages/open-space
     <tbody>
       <tr>
         <td>
-          <div class="time-slot">
-            <center>--</center>
-          </div>
-        </td>
-        <td>
-          <div class="special-activity">
-            <center></center>
-          </div>
-        </td>
-        <td>
-          <div class="separator">
-            <center></center>
-          </div>
-        </td>
-        <td>
-          <div class="time-slot">
-            <center>8:30 - 9:00</center>
-          </div>
-        </td>
-        <td>
-          <div class="special-activity">
-            <center>Coffee</center>
-          </div>
-        </td>
-      </tr>
-      <tr>
-        <td>
           <div class="time-slot keynote">
             <center>--</center>
           </div>
@@ -163,8 +136,8 @@ If Open Space is new to you, you may be interested in <a href="/pages/open-space
           </div>
         </td>
         <td>
-          <div class="special-activity keynote">
-            <center>Keynote</center>
+          <div class="special-activity">
+            <center>Coffee</center>
           </div>
         </td>
       </tr>
@@ -697,7 +670,7 @@ But is there a clear strategy behind them?</p>
             <a href="/events/2024-caceres/program/tik-tok">
               <center>
                 <p class="talk-title">TikTok 🤝 JavaScript</p>
-                <p class="talk-speakers">Jorge Baumann (One Beyond)</p>
+                <p class="talk-speakers">Jorge Baumann (Baumannzone)</p>
                 <div>
                   <i class="fa fa-language fa-lg"></i><span class="talk-language-level">Spanish</span>
                   <i class="fa fa-bar-chart fa-lg" style="margin-left: 15px;"></i><span class="talk-language-level">All</span>
