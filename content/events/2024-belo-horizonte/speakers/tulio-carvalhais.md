@@ -1,7 +1,7 @@
 +++
 Title = "Tulio Carvalhais"
 linkedin = "https://www.linkedin.com/in/tulio-henrique-cafe-carvalhais/" 
-image = "tulio-carvalhais.png"
+image = "tulio-carvalhais.jpeg"
 type = "speaker"
 linktitle = "tulio-carvalhais"
 
