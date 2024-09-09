@@ -2,9 +2,9 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "FinOps: da decisão técnica ao bolso"
+Title = "FinOps aprenda a otimizar seus custos na nuvem"
 Type = "talk"
-Speakers = ["paula-santos"]
+Speakers = ["tulio-carvalhais"]
 Slides = ""
 
 +++
