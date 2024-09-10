@@ -4,7 +4,6 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Let’s build & deploy a Magic 8-Ball App with Spin and WebAssembly"
 Type = "talk"
-Speakers = ["radu-matei"]
 +++
 Are you curious about WebAssembly and do you want to build a truly serverless app from scratch?
 
