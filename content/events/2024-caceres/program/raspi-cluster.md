@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Building the Largest Raspberry Pi Kubernetes PostgreSQL Cluster"
 Type = "talk"
-Speakers = ["guillermo-ruiz"]
+Speakers = ["guillermo-ruiz", "jorge-solorzano"]
 +++
 <link href="/events/2024-caceres/main.css" rel="stylesheet">
 <script src="/events/2024-caceres/main.js"></script>
