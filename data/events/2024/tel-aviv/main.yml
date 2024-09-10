@@ -192,6 +192,8 @@ sponsors:
     level: platinum
   - id: couchbase
     level: platinum
+  - id: aws
+    level: platinum
   - id: komodor
     level: gold
   - id: aerospike
@@ -208,7 +210,11 @@ sponsors:
     level: gold
   - id: elastic
     level: gold
+  - id: perfectscale
+    level: gold
   - id: hetz
+    level: gold
+  - id: terasky-only
     level: gold
   - id: esl-cloudbees
     level: gold
@@ -229,6 +235,16 @@ sponsors:
   - id: coralogix
     level: gold
   - id: bigdataboutique
+    level: gold
+  - id: hyperspace
+    level: gold
+  - id: wizards-vmw
+    level: gold
+  - id: finout
+    level: gold
+  - id: bigpanda
+    level: gold
+  - id: quali
     level: gold
   #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: velocitytech

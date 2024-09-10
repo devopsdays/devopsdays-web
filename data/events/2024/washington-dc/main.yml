@@ -161,7 +161,7 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/kevinmichaellong/"
 
   - name: "Kadi McKean"
-    employer: "Endor Labs"
+    employer: 
     twitter: "KadiGrigg"
     bio: ""
     image: "kadi-mckean.jpg"
@@ -210,11 +210,22 @@ sponsors:
   - id: checkmarx
     level: gold
   - id: fairwinds
-    level: silver
+    level: gold
   - id: devopsdc-meetup
     level: community
   - id: fianu
     level: platinum
+  - id: axiom
+    level: platinum
+  - id: progresschef
+    level: platinum
+  - id: redhat
+    level: gold
+  - id: tailscale
+    level: silver
+  - id: googlecloud
+    level: silver
+    
 
     #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 

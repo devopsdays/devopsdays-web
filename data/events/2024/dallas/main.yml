@@ -193,8 +193,12 @@ sponsors:
   - id: bmc
     level: silver
   - id: capitalone
-    level: silver
+    level: gold
   - id: tailscale
+    level: silver
+  - id: zealit
+    level: silver
+  - id: checkmarx
     level: silver
   # - id: devopslive
   #   level: community

@@ -1,7 +1,7 @@
 +++
 Talk_date = "2024-09-23"
-Talk_start_time = "10:10"
-Talk_end_time = "10:40"
+Talk_start_time = "09:45"
+Talk_end_time = "10:00"
 Title = "15 years of #devops , but what did we really learn?"
 Type = "talk"
 Speakers = ["kris-buytaert"]
