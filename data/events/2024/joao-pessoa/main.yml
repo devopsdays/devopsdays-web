@@ -153,13 +153,21 @@ organizer_email: "joao-pessoa@devopsdays.org" # Put your organizer email address
 sponsors:
   - id: hostdime
     level: platinum
+  - id: orbbi
+    level: platinum
   - id: uniesp
     level: gold
-  - id: linuxtips
+  - id: lunio
     level: gold
+  - id: linuxtips
+    level: silver
+  # - id: grafana
+  #   level: bronze
   - id: kubeevents
     level: community
   - id: kubecareers
+    level: community
+  - id: elastic
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
