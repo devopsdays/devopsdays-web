@@ -499,7 +499,22 @@ Whether you're a seasoned professional or just starting your journey in the worl
         </td>
         <td>
           <div class="special-activity keynote">
-            <center>Keynote</center>
+            <a href="/events/2024-caceres/program/keynote">
+              <center>
+                <p>Keynote</p>
+                <p class="keynote-title">Data, Models, and Code: How DevOps Guides the Journey Toward AI</p>
+                <p class="keynote-speakers">Diego Coy</p>
+              </center>
+              <div class="keynote-details-hover">
+                <h5>Talk description</h5>
+                <p>Creating and deploying AI models is no longer the odyssey it once was; we can all see that. However, setting sail toward the promising shores of AI remains a complex, costly, and laborious voyage that requires many hands on deck. Today, DevOps engineers are uniquely positioned to help streamline the journey that many organizations are embarking on as they pursue AI. Let’s talk about the main challenges faced by those who have decided to steer into the vast unknown in pursuit of greatness and how their experiences have helped chart a clearer course for those preparing to embark on their own voyage of discovery.</p>
+                <hr>
+                <h5>About the speaker</h5>
+                <p>Web developer with over 10 years of experience turned Developer Advocate currently acting as a bridge between technologists and the cloud world.
+
+Google Developer Expert in Web Technologies and Google Maps Platform, passionate about communities and sharing knowledge.</p>
+              </div>
+            </a>
           </div>
         </td>
         <td>
