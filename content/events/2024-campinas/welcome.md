@@ -89,7 +89,7 @@ a.jssocials-share-link, a.event-cta-button {
 <!-- <img src="/events/2023-montreal/logo-square.jpg"> -->
 <p></p>
 <p><a href="https://www.papercall.io/devopsdays-campinas"><button>SUBMENTA SUA TALK</button></a></p>
-<p><a href="" onclick="alert('EM BREVE!'); return false"><button>INSCREVA-SE</button></a></p>
+<p><a href="https://devopsdays-campinas.eventbrite.com.br"><button>INSCREVA-SE</button></a></p>
 <p><a href="../sponsor/"><button>SEJA UM PATROCINADOR</button></a></p>
 <p><a href="/events/2024-campinas/contact"><button>CONTATO</button></a></p>
 <p><a href="https://maps.app.goo.gl/VKNVH1sS3K9udGcq6"><button>LOCALIZAÇÃO</button></a></p>
