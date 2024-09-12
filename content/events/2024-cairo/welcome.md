@@ -8,7 +8,8 @@ Description = "DevOpsDays Cairo 2024"
 
 <p>&nbsp;</p>
 <p><strong>Date &amp; Time: </strong>Wednesday, Sep 25, 2024</p>
-<p>Follow us, adjust your calendar notifications and stay tuned!</p>
+<p>Follow us, adjust your calendar notifications and [stay tuned on conference Website!](https://secc.org.eg/English/MediaCenter/Events/Pages/DevOpsDays-Cairo-2024.aspx)
+</p>
 
 <div style="text-align:center;">
   {{< event_logo >}}
