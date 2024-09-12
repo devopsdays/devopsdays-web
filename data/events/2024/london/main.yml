@@ -121,6 +121,10 @@ sponsors:
     level: gold
   - id: heroku
     level: gold
+  - id: puppet
+    level: gold
+  - id: redhat
+    level: gold
   - id: site24x7
     level: gold
   # silver sponsors
@@ -140,9 +144,13 @@ sponsors:
     level: silver
   - id: riversafe
     level: silver
+  - id: scaleops
+    level: silver
   - id: venafi-jetstack-consult
     level: silver
   # bronze sponsors
+  - id: ai4ru
+    level: bronze
   - id: commify
     level: bronze
   - id: clearbank
@@ -156,6 +164,8 @@ sponsors:
   - id: googlecloud
     level: bronze
   - id: oxa
+    level: bronze
+  - id: plandek
     level: bronze
   - id: syntasso
     level: bronze
@@ -391,8 +401,6 @@ ignites:
     date: 2024-09-26T00:00:00+01:00
   # Day two
   - title: "olakunle-abiola"
-    date: 2024-09-27T23:59:59+01:00
-  - title: "emily-harrison"
     date: 2024-09-27T23:59:59+01:00
   - title: "lorenzo-turrino"
     date: 2024-09-27T23:59:59+01:00

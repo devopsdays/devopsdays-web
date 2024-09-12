@@ -157,6 +157,10 @@ sponsors:
     level: gold
   - id: honeycomb
     level: gold
+  - id: tailscale
+    level: gold
+  - id: oodleai
+    level: gold
   - id: arresteddevops
     level: community
 

@@ -1,5 +1,5 @@
 +++
-Title = "Rui Zhu"
+Title = "Rui (Christina) Zhu"
 image = "rui-zhu.jpg"
 type = "speaker"
 linktitle = "rui-zhu"
