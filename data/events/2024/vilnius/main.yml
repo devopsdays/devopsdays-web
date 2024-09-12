@@ -37,7 +37,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: program
  # - name: propose
  #   url: "https://talks.devopsdays.org/devopsdays-vilnius-2024/cfp"
-  - name: sponsor
+ # - name: sponsor
   - name: location
   - name: contact
   - name: conduct
@@ -375,10 +375,13 @@ ignites:
   - title: "darius-sabaliauskas"
     date: 2024-09-11
 
+  - title: "kris-buytaert-ignite"
+    date: 2024-09-11
+
   - title: "neringa-lenciauskaite"
     date: 2024-09-12
 
-  - title: "kris-buytaert-ignite"
+  - title: "dainius-aksinavicius"
     date: 2024-09-12
 
   - title: "konstantinas-jurgilas"
