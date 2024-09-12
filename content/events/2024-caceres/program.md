@@ -116,33 +116,6 @@ If Open Space is new to you, you may be interested in <a href="/pages/open-space
     <tbody>
       <tr>
         <td>
-          <div class="time-slot keynote">
-            <center>--</center>
-          </div>
-        </td>
-        <td>
-          <div class="special-activity">
-            <center></center>
-          </div>
-        </td>
-        <td>
-          <div class="separator">
-            <center></center>
-          </div>
-        </td>
-        <td>
-          <div class="time-slot">
-            <center>9:00 - 9:30</center>
-          </div>
-        </td>
-        <td>
-          <div class="special-activity">
-            <center>Coffee</center>
-          </div>
-        </td>
-      </tr>
-      <tr>
-        <td>
           <div class="time-slot talk">
             <center>--</center>
           </div>
@@ -330,7 +303,7 @@ Todos, porque decidieron "Diverse direction"...</p>
             <a href="/events/2024-caceres/program/raspi-cluster">
               <center>
                 <p class="talk-title">Building the Largest Raspberry Pi Kubernetes PostgreSQL Cluster</p>
-                <p class="talk-speakers">Guillermo Ruiz (AWS)</p>
+                <p class="talk-speakers">Guillermo Ruiz (AWS) and Jorge Solórzano (OnGres)</p>
                 <div>
                   <i class="fa fa-language fa-lg"></i><span class="talk-language-level">English</span>
                   <i class="fa fa-bar-chart fa-lg" style="margin-left: 15px;"></i><span class="talk-language-level">All</span>
@@ -340,8 +313,11 @@ Todos, porque decidieron "Diverse direction"...</p>
                 <h5>Talk description</h5>
                 <p>Imagine a cutting-edge IoT endeavor where 63 Raspberry Pis converge into a powerhouse of distributed computing prowess. Welcome to Stackgres: a groundbreaking open-source solution marrying Kubernetes orchestration with PostgreSQL's robustness. The mission? Redefine scalability, reliability, and performance benchmarks in IoT infrastructure. Dive into our journey of collaborative development, where we overcame challenges and embraced adventured to build this cluster.</p>
                 <hr>
-                <h5>About the speaker</h5>
+                <h5>About the speakers</h5>
+                <h6>Guillermo Ruiz</h6>
                 <p>Developer Advocate with roots in infrastructure and a passion for Observability, IoT, robotics and cybersecurity. Co-founder of a trailblazing startup and architect of services across leading cloud platforms. Bridging the gap between code and community.</p>
+                <h6>Jorge Solórzano</h6>
+                <p>Java developer, Postgres advocate, and Kubernetes enthusiast. IT specialist with a strong focus on Open Source technologies. A natural self-learner, always driven by curiosity and a passion for solving complex problems.</p>
               </div>
             </a>
           </div>
@@ -465,8 +441,8 @@ Aplica las mismas prácticas de seguridad a las máquinas virtuales que a los co
           <div class="program-talk">
             <a href="/events/2024-caceres/program/ai-boost">
               <center>
-                <p class="talk-title">How AI can boost our career development?</p>
-                <p class="talk-speakers">Rui Zhu (Meta)</p>
+                <p class="talk-title">Future Outlook of DevOps Engineers</p>
+                <p class="talk-speakers">Rui (Christina) Zhu (Meta)</p>
                 <div>
                   <i class="fa fa-language fa-lg"></i><span class="talk-language-level">English</span>
                   <i class="fa fa-bar-chart fa-lg" style="margin-left: 15px;"></i><span class="talk-language-level">All</span>
@@ -474,7 +450,11 @@ Aplica las mismas prácticas de seguridad a las máquinas virtuales que a los co
               </center>
               <div class="talk-details-hover">
                 <h5>Talk description</h5>
-                <p>Explore AI's transformative potential in hiring, highlighting its ability to enhance efficiency, candidate matching, and hire quality. address the crucial issues of diversity, inclusion, and equity, emphasizing the importance of preventing AI biases through diverse data, regular audits, transparency, and ethical guidelines.</p>
+                <p>Welcome to an insightful exploration of the future of DevOps Engineering. In this presentation, we'll delve into the evolving landscape of DevOps, examining the cutting-edge trends reshaping the field, the challenges that lie ahead, and the exciting opportunities emerging for professionals in this dynamic sector.
+
+From the rise of cloud-native environments and AI integration to the growing emphasis on sustainability and security, we'll uncover how these factors are transforming the role of DevOps engineers. We'll also discuss the skills that will be crucial for success in this rapidly changing environment and provide guidance on how to navigate your career in DevOps Engineering.
+
+Whether you're a seasoned professional or just starting your journey in the world of DevOps, this overview will equip you with valuable insights to thrive in the future of software development and IT operations integration.</p>
                 <hr>
                 <h5>About the speaker</h5>
                 <p>Born and raised in mainland China, have lived and worked across the globe  - Chengdu, Istanbul, Shanghai, Hong Kong, Dublin and London, have extensive experiences in talent attraction domain, currently working in Meta as their senior international talent partner, with DEI in my heart, strive to help bring equal opportunities to everyone.</p>
@@ -519,7 +499,22 @@ Aplica las mismas prácticas de seguridad a las máquinas virtuales que a los co
         </td>
         <td>
           <div class="special-activity keynote">
-            <center>Keynote</center>
+            <a href="/events/2024-caceres/program/keynote">
+              <center>
+                <p>Keynote</p>
+                <p class="keynote-title">Data, Models, and Code: How DevOps Guides the Journey Toward AI</p>
+                <p class="keynote-speakers">Diego Coy</p>
+              </center>
+              <div class="keynote-details-hover">
+                <h5>Talk description</h5>
+                <p>Creating and deploying AI models is no longer the odyssey it once was; we can all see that. However, setting sail toward the promising shores of AI remains a complex, costly, and laborious voyage that requires many hands on deck. Today, DevOps engineers are uniquely positioned to help streamline the journey that many organizations are embarking on as they pursue AI. Let’s talk about the main challenges faced by those who have decided to steer into the vast unknown in pursuit of greatness and how their experiences have helped chart a clearer course for those preparing to embark on their own voyage of discovery.</p>
+                <hr>
+                <h5>About the speaker</h5>
+                <p>Web developer with over 10 years of experience turned Developer Advocate currently acting as a bridge between technologists and the cloud world.
+
+Google Developer Expert in Web Technologies and Google Maps Platform, passionate about communities and sharing knowledge.</p>
+              </div>
+            </a>
           </div>
         </td>
         <td>
