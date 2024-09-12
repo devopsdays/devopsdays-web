@@ -81,6 +81,10 @@ sponsors:
     level: digital
   - id: bintech
     level: digital
+  - id: kubeevents
+    level: community
+  - id: kubecareers
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
