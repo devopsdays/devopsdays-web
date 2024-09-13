@@ -16,12 +16,14 @@
                  {{- $assetsfolder := (printf "assets/events/") -}}
                  {{- if (where (readDir $assetsfolder) "Name" $e.name) -}}
                      {{- $assetsorgfolder := (printf "assets/events/%s/organizers/" $e.name) -}}
-                     {{- if (where (readDir $assetsorgfolder) "Name" .image) -}}
-                         {{- $imagelocation := (printf "events/%s/organizers/%s" $e.name .image) -}}
-                         {{- $imageresource := resources.Get $imagelocation -}}
-                         {{- $imagefile := $imageresource.Fit "600x600 webp Lanczos q100" -}}
-                         <img class="card-img-top organizer-image" src='{{ $imagefile.RelPermalink }}' alt="{{ .name }}">
-                     {{- end -}}
+                     {{- if fileExists $assetsorgfolder -}}
+                      {{- if (where (readDir $assetsorgfolder) "Name" .image) -}}
+                          {{- $imagelocation := (printf "events/%s/organizers/%s" $e.name .image) -}}
+                          {{- $imageresource := resources.Get $imagelocation -}}
+                          {{- $imagefile := $imageresource.Fit "600x600 webp Lanczos q100" -}}
+                          <img class="card-img-top organizer-image" src='{{ $imagefile.RelPermalink }}' alt="{{ .name }}">
+                      {{- end -}}
+                    {{- end -}}
                  {{- else -}}
                      <img class="card-img-top organizer-image" src='{{ (printf "/events/%s/organizers/%s" $e.name .image) }}' alt="{{ .name }}">
                  {{- end -}}
