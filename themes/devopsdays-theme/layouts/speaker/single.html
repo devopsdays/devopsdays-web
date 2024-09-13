@@ -45,7 +45,6 @@
       {{- $assetsfolder := (printf "assets/events/") -}}
       {{- if (where (readDir $assetsfolder) "Name" $e.name) -}}
         {{- $assetspeakersfolder := (printf "assets/events/%s/speakers/" $e.name) -}}
-        {{ warnf "The speaker folder is %s" $assetspeakersfolder }}
 <!-- check if the speaker folder exists here -->
         {{- if fileExists $assetspeakersfolder -}}
           {{- if (where (readDir $assetspeakersfolder) "Name" .) -}}
