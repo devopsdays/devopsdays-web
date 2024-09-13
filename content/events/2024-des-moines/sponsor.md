@@ -101,8 +101,7 @@ The best thing to do is send engineers to interact with the experts at devopsday
           Pay via Wave
           </td>
           <td>
-              <a href="https://link.waveapps.com/swy99y-b87f64" target=”_blank”>
-                <img src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif"/></a></td>
+         </td>
           <td>
               <a href="https://link.waveapps.com/dy76m6-5tepfp" target=”_blank”>
                 <img src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif"/></a></td>
