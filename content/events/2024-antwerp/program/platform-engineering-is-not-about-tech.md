@@ -7,7 +7,7 @@ talk_end_time: ""
 speakers:
   - nicolò-cambiaso
 
-  - francesca-carta
+  - rhea-arora
 
 ---
 

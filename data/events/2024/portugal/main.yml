@@ -38,7 +38,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: propose
   - name: location
   - name: registration
- # - name: program
+  - name: program
   - name: speakers
   - name: sponsor
   - name: contact
@@ -116,7 +116,17 @@ sponsors:
     level: gold
   - id: elastic
     level: gold
+  - id: vodafone-pt
+    level: gold
+  - id: kuehnenagel
+    level: silver
+  - id: daimler
+    level: silver
   - id: relex
+    level: bronze
+  - id: cleva
+    level: bronze
+  - id: googlesre
     level: bronze
   - id: devopsporto
     level: community

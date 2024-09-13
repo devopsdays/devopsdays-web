@@ -17,3 +17,5 @@ This workshop will help you put the insights of the research framework into prac
 5. Set some goals
 
 By the end of this workshop you will have one improvement story to add to your backlog as you take the next step toward becoming an elite performing team. And, you'll be able to repeat the process with your own team in your quest to get better at getting better!
+
+[Slides](https://drive.google.com/file/d/13Spw4Kq8awgAW1B07I1aRaLgco8GM2Rx/view?usp=drive_link)

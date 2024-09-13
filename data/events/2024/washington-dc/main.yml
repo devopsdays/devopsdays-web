@@ -55,7 +55,7 @@ location: "American Red Cross, Washington, D.C."
 location_address: "1730 E St NW, Washington, DC 20006"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+# - name: propose
   - name: location
   - name: registration
   - name: program
@@ -161,7 +161,7 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/kevinmichaellong/"
 
   - name: "Kadi McKean"
-    employer: "Endor Labs"
+    employer: 
     twitter: "KadiGrigg"
     bio: ""
     image: "kadi-mckean.jpg"
@@ -205,6 +205,27 @@ sponsors:
     level: gold
   - id: flox
     level: platinum
+  - id: komodor
+    level: gold
+  - id: checkmarx
+    level: gold
+  - id: fairwinds
+    level: gold
+  - id: devopsdc-meetup
+    level: community
+  - id: fianu
+    level: platinum
+  - id: axiom
+    level: platinum
+  - id: progresschef
+    level: platinum
+#  - id: redhat
+#    level: gold
+  - id: tailscale
+    level: silver
+  - id: googlecloud
+    level: silver
+    
 
     #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 
@@ -218,13 +239,13 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: platinum
     label: Platinum
-    max: 6
+    max: 5
   - id: lanyard
     label: Lanyard
     max: 1
   - id: gold
     label: Gold
-    max: 4
+    max: 6
   - id: silver
     label: Silver
     max: 6

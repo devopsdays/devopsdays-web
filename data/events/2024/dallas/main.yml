@@ -186,8 +186,26 @@ sponsors:
     level: gold
   - id: rackn
     level: gold
+  - id: datadog
+    level: gold
+  - id: axiom
+    level: gold
   - id: bmc
     level: silver
+  - id: capitalone
+    level: gold
+  - id: firehydrant
+    level: gold
+  - id: tailscale
+    level: silver
+  - id: zealit
+    level: silver
+  - id: checkmarx
+    level: silver
+  - id: devitjobs
+    level: media
+  - id: gdgsolake
+    level: community
   # - id: devopslive
   #   level: community
   # - id: addo

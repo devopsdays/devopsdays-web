@@ -136,6 +136,7 @@ sponsors:
     level: bronze
   - id: atos
     level: gold
+    url: http://ch.atosconsulting.com/#!/competencies?section=methodologies
   - id: swisscom-before-20190117
     level: gold
     url: https://job.swisscom.ch/ict/de?showclose=1
