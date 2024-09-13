@@ -45,11 +45,15 @@
       {{- $assetsfolder := (printf "assets/events/") -}}
       {{- if (where (readDir $assetsfolder) "Name" $e.name) -}}
         {{- $assetspeakersfolder := (printf "assets/events/%s/speakers/" $e.name) -}}
-        {{- if (where (readDir $assetspeakersfolder) "Name" .) -}}
-          {{- $imagelocation := (printf "events/%s/speakers/%s" $e.name .) -}}
-          {{- $imageresource := resources.Get $imagelocation -}}
-          {{- $imagefile := $imageresource.Fit "600x600 webp Lanczos q100" -}}
-          <img src = '{{ $imagefile.RelPermalink }}' class="img-fluid" alt="{{ $.Title }}"/><br />
+        {{ warnf "The speaker folder is %s" $assetspeakersfolder }}
+<!-- check if the speaker folder exists here -->
+        {{- if fileExists $assetspeakersfolder -}}
+          {{- if (where (readDir $assetspeakersfolder) "Name" .) -}}
+            {{- $imagelocation := (printf "events/%s/speakers/%s" $e.name .) -}}
+            {{- $imageresource := resources.Get $imagelocation -}}
+            {{- $imagefile := $imageresource.Fit "600x600 webp Lanczos q100" -}}
+            <img src = '{{ $imagefile.RelPermalink }}' class="img-fluid" alt="{{ $.Title }}"/><br />
+          {{- end -}}
         {{- end -}}
       {{- else if ne . "" -}}
         <img src = '{{ (printf "/events/%s/speakers/%s" $e.name .) }}' class="img-fluid" alt="{{ $.Title }}"/><br />
