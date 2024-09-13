@@ -153,6 +153,10 @@ sponsor_levels:
 sponsors:
   - id: jack-experts
     level: platinum
+  - id: kubecareers
+    level: media
+  - id: kubeevents
+    level: media
   # - id: governo-pernambuco
   #   level: platinum
   # - id: espaco-cloud
