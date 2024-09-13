@@ -40,7 +40,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     url: /events/2024-belo-horizonte/location
   - name: Inscrições
     url: https://www.even3.com.br/devopsdays-belo-horizonte
- # - name: program
+  - name: GRADE DE PALESTRAS
+    url: /events/2024-belo-horizonte/program
  # - name: speakers
   - name: ENVIE SUA PALESTRA (CFP)
     url: https://www.papercall.io/devopsdaysbhz
@@ -63,7 +64,7 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/palomalataliza/"
     github: "shescloud"
     twitter: "shescloud_"
-    bio:  "Entusiasta de containers, fã de Cavaleiros do Zodíaco e apaixonada por compartilhar conhecimento. Com formação em Ciência da Computação pela Universidade FUMEC, atualmente estou aprimorando meus conhecimentos como pós-graduanda em Cloud Computing pela PUC Minas. Sou também uma AWS Community Builder, líder do AWS User Group MG, Docker Captain, Embaixadora do Women Techmakers, Organizadora do primeiro AWSomeWomenCommunity Summit Brasil e  co-fundadora do projeto Mulheres na Nuvem MG, dedicado a incentivar a presença feminina no setor de tecnologia e nuvem.<br><br>"
+    bio:  "Entusiasta de containers, fã de Cavaleiros do Zodíaco e apaixonada por compartilhar conhecimento. Com formação em Ciência da Computação pela Universidade FUMEC, atualmente estou aprimorando meus conhecimentos como pós-graduanda em Cloud Computing pela PUC Minas. Sou também uma AWS HERO, líder do AWS User Group MG, Docker Captain, Embaixadora do Women Techmakers, Organizadora do primeiro AWSomeWomenCommunity Summit Brasil e  co-fundadora do projeto Mulheres na Nuvem MG, dedicado a incentivar a presença feminina no setor de tecnologia e nuvem.<br><br>"
     image: "paloma.jpeg"
 
   - name: "Rafaela Vidotti"
@@ -170,14 +171,26 @@ organizer_email: "belo-horizonte@devopsdays.org" # Put your organizer email addr
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: forceone
+    level: platinum
+
   - id: aws
-    level: gold
+    level: gold    
+
+  - id: alurafiap
+    level: bronze
+
+  - id: unibh
+    level: community   
 
   - id: awsugmg
     level: community
 
   - id: mulheres_na_nuvem
     level: community
+
+  - id: 3dcomtech
+    level: community    
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -199,3 +212,105 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+
+program:
+  - title: "Credenciamento e Abertura"
+    type: custom
+    date: 2024-09-14T08:00:00-03:00
+    start_time: "09:00"
+    end_time: "09:30"
+
+  - title: "ana-cunha"
+    type: talk
+    date: 2024-09-14T08:00:00-03:00
+    start_time: "09:30"
+    end_time: "10:00"
+    background_color: "#d79afc"
+
+  - title: "fabio-viana"
+    type: talk
+    date: 2024-09-14T08:00:00-03:00
+    start_time: "10:00"
+    end_time: "10:30"
+
+  - title: "stephanie-chaia"
+    type: talk
+    date: 2024-09-14T08:00:00-03:00
+    start_time: "10:30"
+    end_time: "11:00"
+  
+  - title: "Pausa para Café"
+    type: custom
+    date: 2024-09-14T08:00:00-03:00
+    start_time: "11:00"
+    end_time: "11:30"
+    background_color: "#84C6B7"
+
+  - title: "tiago-miguel"
+    type: talk
+    date: 2024-09-14T08:00:00-03:00
+    start_time: "11:30"
+    end_time: "12:00"
+  
+  - title: "tulio-carvalhais"
+    type: talk
+    date: 2024-09-14T08:00:00-03:00
+    start_time: "12:00"
+    end_time: "12:30"
+
+  - title: "Almoço"
+    type: custom
+    date: 2024-09-14T08:00:00-03:00
+    start_time: "12:30"
+    end_time: "14:00"
+    background_color: "#84C6B7"
+
+  - title: "andre-brandao"
+    type: talk
+    date: 2024-09-14T08:00:00-03:00
+    start_time: "14:00"
+    end_time: "14:30"
+   
+
+  - title: "Ignite Karaoke"
+    type: custom
+    date: 2024-09-14T08:00:00-03:00
+    start_time: "14:30"
+    end_time: "15:00"
+
+  - title: "gustavo-fagundes"
+    type: talk
+    date: 2024-09-14T08:00:00-03:00
+    start_time: "15:00"
+    end_time: "15:30"
+
+  - title: "sulamita-dantas"
+    type: talk
+    date: 2024-09-14T08:00:00-03:00
+    start_time: "15:30"
+    end_time: "16:00"   
+
+  - title: "Pausa para Café"
+    type: custom
+    date: 2024-09-14T08:00:00-03:00
+    start_time: "16:00"
+    end_time: "16:30"   
+    background_color: "#84C6B7"
+
+  - title: "OpenSpace"
+    type: custom
+    date: 2024-09-14T08:00:00-03:00
+    start_time: "16:30"
+    end_time: "17:00"       
+
+  - title: "camila-martins"
+    type: talk
+    date: 2024-09-14T08:00:00-03:00
+    start_time: "17:00"
+    end_time: "17:30"
+
+  - title: "Encerramento"
+    type: custom
+    date: 2024-09-14T08:00:00-03:00
+    start_time: "17:30"
+    end_time: "18:00"      

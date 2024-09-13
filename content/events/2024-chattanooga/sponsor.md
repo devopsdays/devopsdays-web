@@ -4,7 +4,7 @@ Type = "event"
 Description = "Sponsor devopsdays Chattanooga 2024"
 +++
 
-We greatly value sponsors for this open event. If you are interested in sponsoring, see our <a href="https://www.canva.com/design/DAGJEfff434/naOfOEopxUPZvaHtJWg89g/edit?utm_content=DAGJEfff434&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">prospectus</a> for sponsorship levels and details. To lock in your sponsorship or if you have additional questions, please email us at [{{< email_organizers >}}].
+We greatly value sponsors for this open event. If you are interested in sponsoring, see our <a href="https://www.canva.com/design/DAGJEfff434/ibQY8USDKtwKoD_2fdvL-A/view?utm_content=DAGJEfff434&utm_campaign=designshare&utm_medium=link&utm_source=editor">prospectus</a> for sponsorship levels and details. To lock in your sponsorship or if you have additional questions, please email us at [{{< email_organizers >}}].
 
 <hr>
 

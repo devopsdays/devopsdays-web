@@ -12,11 +12,6 @@ h1.welcome-page { text-transform: initial; }
 
 <div style="height:20px"></div>
 
-<h3>Mark October 21st and 22nd on your calendars for DevOpsDays Boston 2024, returning to The Cyclorama at the Boston Center for the Arts! Ticket sales and our CFP are both open. Stay tuned while we finalize logistics around sponsorships.</h3>
-
-<div style="height:20px"></div>
-
-
 <div class="row">
   <div class="col-md-3">
     <div style="text-align:center;">{{< event_logo >}}</div>
@@ -38,10 +33,6 @@ h1.welcome-page { text-transform: initial; }
     <div class="row">
       <div class="col-md-2"><strong>Sponsors</strong></div>
       <div class="col-md-8">{{< event_link page="sponsor" text="Sponsor the conference!" >}}</div>
-    </div>
-    <div class="row">
-      <div class="col-md-2"><strong>Speakers</strong></div>
-      <div class="col-md-8"><a href="https://talks.devopsdays.org/devopsdays-boston-2024/cfp">Propose a talk!</a></div>
     </div>
     <div class="row">
       <div class="col-md-2"><strong>Contact</strong></div>

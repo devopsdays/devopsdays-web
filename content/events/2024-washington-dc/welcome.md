@@ -35,14 +35,14 @@ Description = "devopsdays washington dc 2024"
     </div>
   </div>
 
-  <div class = "row">
+  <!-- <div class = "row">
     <div class = "col-md-2">
       <strong>Propose</strong>
     </div>
     <div class = "col-md-8">
       {{< event_link url-key="cfp_link" text="Propose a talk!" >}}
     </div>
-  </div>
+  </div> -->
 
   <!-- <div class = "row">
     <div class = "col-md-2">
@@ -119,7 +119,10 @@ Description = "devopsdays washington dc 2024"
         {{< event_logo >}}
       </div>
   </div>
-
+  <div class="col-md-12">
+    <h2>This Year's Speakers</h2>
+      <script type="text/javascript" src="https://sessionize.com/api/v2/iyil0abm/view/SpeakerWall"></script>
+  </div>
   <div class="col-md-12">
     <h2>Who has attended?</h2>
     <p>
@@ -137,3 +140,4 @@ Description = "devopsdays washington dc 2024"
     </p> 
   </div>
 </div>
+

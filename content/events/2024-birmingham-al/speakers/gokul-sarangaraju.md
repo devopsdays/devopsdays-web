@@ -6,7 +6,7 @@ type = "speaker"
 linktitle = "gokul-sarangaraju"
 +++
 
-An accomplished Cloud Architect specializing in Object-Oriented Design and
-Analysis with extensive experience in the full life cycle of the software
-design process including requirements definition, prototyping, proof of
-concept, design and interface implementation.
+Gokul Sarangaraju is a Solutions Architect at AWS. He helps customers adopt AWS
+services and provides guidance in AWS cost and usage optimization. His areas of
+expertise include delivering solutions using cloud native technologies and
+architectures.

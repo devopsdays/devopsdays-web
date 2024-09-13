@@ -4,12 +4,12 @@ Type = "welcome"
 aliases = ["/events/2024-cairo/"]
 Description = "DevOpsDays Cairo 2024"
 +++
-<p style="text-align: left">DevOpsDays Cairo is a one-day event.<br />
-  For the 7<sup>th</sup> consecutive year, SECC/ITIDA is organizing DevOpsDays Cairo 2024 in cooperation with Cairo University, ATOS, DXC Technology, Cegedim, and Orange Labs.</p>
-<p><strong>Date &amp; Time:</strong><strong>&nbsp; </strong>Wednesday, Sep 25, 2024</p>
-<p><strong>Call for Proposals is Now Open!</strong></p>
-<p>Follow us, adjust your calendar notifications and stay tuned!</p>
+<p>DevOpsDays Cairo is a one-day event.<br />Cairo Conference is the Sole devopsdays Conference in the Arab Region.&nbsp;<br />For the 7<sup>th</sup> consecutive year, SECC/ITIDA is organizing DevOpsDays Cairo 2024 in cooperation with: ATOS, Cairo University, AUC, Cegedim, Egypt University of Informatics, DXC Technology, Orange Labs, and Vodafone Intelligent Solutions _VOIS.</p>
 
+<p>&nbsp;</p>
+<p><strong>Date &amp; Time: </strong>Wednesday, Sep 25, 2024</p>
+<p>Follow us, adjust your calendar notifications and <a href="https://secc.org.eg/English/MediaCenter/Events/Pages/DevOpsDays-Cairo-2024.aspx">stay tuned on conference Website!</a>
+</p>
 
 <div style="text-align:center;">
   {{< event_logo >}}

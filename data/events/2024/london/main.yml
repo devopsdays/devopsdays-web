@@ -109,23 +109,63 @@ organizer_email: "london@devopsdays.org" # Put your organizer email address here
 sponsors:
   # platinum sponsors
   # gold sponsors
-  - id: cloudsmith
+  - id: chef
     level: gold
-  - id: elastic
+  - id: cloudsmith
     level: gold
   - id: contrast_security
     level: gold
+  - id: eficode
+    level: gold
+  - id: elastic
+    level: gold
+  - id: heroku
+    level: gold
+  - id: puppet
+    level: gold
+  - id: redhat
+    level: gold
+  - id: site24x7
+    level: gold
   # silver sponsors
+  - id: devex-connect
+    level: silver
+  - id: checkly
+    level: silver
+  - id: checkmarx
+    level: silver
+  - id: chainguard
+    level: silver
+  - id: honeycomb
+    level: silver
   - id: macstadium
     level: silver
+  - id: quesma
+    level: silver
+  - id: riversafe
+    level: silver
+  - id: scaleops
+    level: silver
+  - id: venafi-jetstack-consult
+    level: silver
   # bronze sponsors
+  - id: ai4ru
+    level: bronze
   - id: commify
+    level: bronze
+  - id: clearbank
     level: bronze
   - id: dxw
     level: bronze
   - id: github
     level: bronze
+  - id: gitlab
+    level: bronze
+  - id: googlecloud
+    level: bronze
   - id: oxa
+    level: bronze
+  - id: plandek
     level: bronze
   - id: syntasso
     level: bronze
@@ -138,9 +178,9 @@ sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: platinum
-    label: Platinum
-    max: 1
+  # - id: platinum
+  #   label: Platinum
+  #   max: 1
   - id: gold
     label: Gold
     max: 10
@@ -192,7 +232,7 @@ program:
     start_time: "11:25"
     end_time: "11:55"
 
-  - title: "sasha-rosenbaum"
+  - title: "sorrel-harriet"
     type: talk
     date: 2024-09-26T00:00:00+01:00
     start_time: "12:00"
@@ -252,7 +292,7 @@ program:
     start_time: "17:10"
     end_time: "18:10"
 
-  - title: "Evening event to be announced"
+  - title: "Evening event at local venue, announced during Keynote"
     type: custom
     date: 2024-09-26T00:00:00+01:00
     start_time: "18:30"
@@ -357,15 +397,19 @@ ignites:
     date: 2024-09-26T00:00:00+01:00
   - title: "james-wynne"
     date: 2024-09-26T00:00:00+01:00
+  - title: "hannah-foxwell"
+    date: 2024-09-26T00:00:00+01:00
   # Day two
   - title: "olakunle-abiola"
-    date: 2024-09-27T23:59:59+01:00
-  - title: "emily-harrison"
     date: 2024-09-27T23:59:59+01:00
   - title: "lorenzo-turrino"
     date: 2024-09-27T23:59:59+01:00
   - title: "suzanne-daniels"
     date: 2024-09-27T23:59:59+01:00
   - title: "daiany-palacios"
+    date: 2024-09-27T23:59:59+01:00
+  - title: "anais-urlichs"
+    date: 2024-09-27T23:59:59+01:00
+  - title: "john-willis"
     date: 2024-09-27T23:59:59+01:00
 
