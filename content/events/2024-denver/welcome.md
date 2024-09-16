@@ -91,7 +91,7 @@ Description = "devopsdays Denver 2024"
     <strong>📺 Livestream: </strong>
   </div>
   <div class="col-md-4">
-    <a href="https://www.youtube.com/watch?v=TPzrdHNsvGE">Youtube</a>
+    <a href="https://www.youtube.com/watch?v=uV8KLBwLy5c">Youtube</a>
   </div>
 </div>
 
