@@ -325,7 +325,7 @@ Effective delegation is key to ensuring the smooth organization of your event. I
 
 Along with all of these tasks and responsibilities, you'll have to also manage lots of different usernames and passwords for various vendor sites, social media accounts, and so forth. You'll need a way to store all of this securely, centrally, and sanely.
 
-💡 **Vaultwarden** is an open source credential storage platform that can store usernames, passwords, MFA tokens, and so forth. It's compatible with the free Bitwarden clients (available for every device). The core organizers run an instance of Vaultwarden that is made _freely available_ to the DevOpsDays organizer community. If you're interested in setting up a secure, shared vault for your event, reach out in `#conference-services` on the global DevOpsDays Slack.
+💡 **Vaultwarden** is an open source credential storage platform that can store usernames, passwords, MFA tokens, and so forth. It's compatible with the free-to-use family of [Bitwarden clients](https://bitwarden.com/download/) (available for every device). The core organizers run an instance of Vaultwarden that is made _freely available_ to the DevOpsDays organizer community. If you're interested in setting up a secure, shared vault for your event, reach out in `#conference-services` on the global DevOpsDays Slack.
 
 ---
 
