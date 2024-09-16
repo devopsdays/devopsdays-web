@@ -218,8 +218,8 @@ program:
     date: 2024-10-22
     start_time: "9:30"
     end_time: "10:00"
-  - title: "Watch this space for our speaker!"
-    type: custom
+  - title: "sanjita-gupta"
+    type: talk
     date: 2024-10-22
     start_time: "10:05"
     end_time: "10:35"
