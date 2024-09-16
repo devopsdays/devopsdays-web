@@ -14,7 +14,6 @@ Platinum and Gold sponsors get a full table in the sponsor area where they can i
 The best thing to do is send engineers to interact with the experts at DevOpsDays Chicago on their own terms.
 
 <h2>Sponsorship Packages</h2>
-<i>All Platinum, Gold, and Bronze sponsorships paid before September 13th receive a $1000 discount</i> 
 <p>
 <p>
 
@@ -31,9 +30,9 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
   <tbody>
     <tr>
       <td>Price</td>
-      <td><strike>$10,000</strike> $9000</td>
-      <td><strike>$6,000</strike> $5000</td>
-      <td><strike>$2,000</strike> $1000</td>
+      <td>$10,000</td>
+      <td>$6,000</td>
+      <td>$2,000</td>
       <td>Free</td>
     </tr>
     <tr>
