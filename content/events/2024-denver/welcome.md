@@ -86,4 +86,13 @@ Description = "devopsdays Denver 2024"
   </div>
 </div>
 
+<div class="row">
+  <div class="col-md-2">
+    <strong>📺 Livestream: </strong>
+  </div>
+  <div class="col-md-4">
+    <a href="https://www.youtube.com/watch?v=TPzrdHNsvGE">Youtube</a>
+  </div>
+</div>
+
 <hr/>
