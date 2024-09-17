@@ -39,3 +39,4 @@
     
 #[[plugins]]
 # package = "netlify-plugin-hashfiles"
+ package = "netlify-plugin-cache-resources"
