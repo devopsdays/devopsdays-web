@@ -126,6 +126,10 @@ sponsors:
    level: technology
  - id: fixedsolutions
    level: technology
+ - id: paloaltonetworks
+   level: technology
+ - id: efinance
+   level: technology
  - id: foss
    level: community
    url: #
@@ -167,13 +171,13 @@ sponsor_levels:
     max: 1 # to prevent "join as" string from appearing
   - id: corporate
     label: "Corporate Organizers"
-    max: 1 # to prevent "join as" string from appearing
+    max: 2 # to prevent "join as" string from appearing
   - id: academia
     label: "Academia Organizers"
-    max: 1 # to prevent "join as" string from appearing
+    max: 2 # to prevent "join as" string from appearing
   - id: technology
     label: "Technology"
-    max: 1 # to prevent "join as" string from appearing
+    max: 2 # to prevent "join as" string from appearing
   - id: gold
     label: Gold
     max: 10
