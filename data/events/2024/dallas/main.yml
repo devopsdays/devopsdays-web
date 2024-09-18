@@ -196,6 +196,8 @@ sponsors:
     level: gold
   - id: firehydrant
     level: gold
+  - id: hashicorp
+    level: gold
   - id: tailscale
     level: silver
   - id: zealit
