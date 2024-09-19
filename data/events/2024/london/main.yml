@@ -280,16 +280,10 @@ program:
     start_time: "16:15"
     end_time: "17:00"
 
-  - title: "Day 1 Closing Remarks & Sponsor Raffle Giveaways"
-    type: custom
-    date: 2024-09-26T00:00:00+01:00
-    start_time: "17:00"
-    end_time: "17:10"
-
   - title: "Drinks Reception in the Sponsor Hall"
     type: custom
     date: 2024-09-26T00:00:00+01:00
-    start_time: "17:10"
+    start_time: "17:00"
     end_time: "18:10"
 
   - title: "Evening event at local venue, announced during Keynote"
