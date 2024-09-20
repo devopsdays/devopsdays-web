@@ -219,13 +219,13 @@ sponsors:
     level: platinum
   - id: progresschef
     level: platinum
-#  - id: redhat
-#    level: gold
   - id: tailscale
     level: silver
   - id: googlecloud
     level: silver
   - id: site24x7
+    level: gold
+  - id: redhat
     level: gold
     
 
