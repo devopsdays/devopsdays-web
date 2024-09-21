@@ -165,7 +165,7 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: platinum
     label: Platinum
-    max: 5
+    max: 2
   - id: governament
     label: "Governamental Organizer"
     max: 1 # to prevent "join as" string from appearing
@@ -178,12 +178,12 @@ sponsor_levels:
   - id: technology
     label: "Technology"
     max: 2 # to prevent "join as" string from appearing
-  - id: gold
-    label: Gold
-    max: 10
-  - id: silver
-    label: Silver
-    max: 0 # This is the same as omitting the max limit.
+  #- id: gold
+  #  label: Gold
+  #  max: 10
+  #- id: silver
+  #  label: Silver
+  #  max: 0 # This is the same as omitting the max limit.
   - id: community
     label: Community
-    max: 0
+    max: 2
