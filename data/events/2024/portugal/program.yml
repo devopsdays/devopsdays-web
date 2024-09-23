@@ -84,7 +84,7 @@ program:
   type: custom
   date: "2024-09-23"
   start_time: "17:30"
-  end_time: "17:345"
+  end_time: "17:45"
 
 # Day 2
 - title: Registration
