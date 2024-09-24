@@ -85,3 +85,6 @@ hugo.log
 
 # we don't use yarn
 yarn.lock
+
+# hugo rendering folder
+resources/_gen/
