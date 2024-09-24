@@ -196,6 +196,10 @@ sponsors:
     level: gold
   - id: firehydrant
     level: gold
+  - id: hashicorp
+    level: gold
+  - id: codiac
+    level: gold
   - id: tailscale
     level: silver
   - id: zealit
@@ -206,6 +210,8 @@ sponsors:
     level: media
   - id: gdgsolake
     level: community
+  - id: twc
+    level: npo
   # - id: devopslive
   #   level: community
   # - id: addo
@@ -225,8 +231,6 @@ sponsors:
   # - id: npusa
   #   level: npo
   # - id: shpedfw
-  #   level: npo
-  # - id: twc
   #   level: npo
   # - id: dfwlivestream
   #   level: media

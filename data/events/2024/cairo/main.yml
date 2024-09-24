@@ -36,7 +36,7 @@ location: "The Nile Ritz-Carlton, Cairo" # Defaults to city, but you can make it
 location_address: "The Nile Ritz-Carlton, Cairo" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+#  - name: propose
 #  - name: location
 #  - name: local
   - name: registration
@@ -126,6 +126,10 @@ sponsors:
    level: technology
  - id: fixedsolutions
    level: technology
+ - id: paloaltonetworks
+   level: technology
+ - id: efinance
+   level: technology
  - id: foss
    level: community
    url: #
@@ -161,25 +165,25 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: platinum
     label: Platinum
-    max: 5
+    max: 2
   - id: governament
     label: "Governamental Organizer"
     max: 1 # to prevent "join as" string from appearing
   - id: corporate
     label: "Corporate Organizers"
-    max: 1 # to prevent "join as" string from appearing
+    max: 2 # to prevent "join as" string from appearing
   - id: academia
     label: "Academia Organizers"
-    max: 1 # to prevent "join as" string from appearing
+    max: 2 # to prevent "join as" string from appearing
   - id: technology
     label: "Technology"
-    max: 1 # to prevent "join as" string from appearing
-  - id: gold
-    label: Gold
-    max: 10
-  - id: silver
-    label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    max: 2 # to prevent "join as" string from appearing
+  #- id: gold
+  #  label: Gold
+  #  max: 10
+  #- id: silver
+  #  label: Silver
+  #  max: 0 # This is the same as omitting the max limit.
   - id: community
     label: Community
-    max: 0
+    max: 2
