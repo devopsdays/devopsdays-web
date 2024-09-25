@@ -12,13 +12,9 @@ Description = "Location for DevOps Days Boston 2024"
 * <a href="https://maps.app.goo.gl/wTCov3QKvdeAtxVw5" target="_blank">Cyclorama on Google Maps</a>
 * [How to get there](#how-to-get-there)
     * Public Transportation
-        * [MBTA Orange Line to Back Bay Station]
-        * [MBTA Green Line to Copley]
-        * [MBTA Silver Line SL4 & SL5]
-        * [MBTA Bus #43]
     * Parking Options around Cyclorama
 * [Accommodations (Hotels and Lodging)](#accommodations)
-* [Venue Website](http://www.bcaonline.org/venues/cyclorama.html)
+* <a href="https://bostonarts.org/venue/the-cyclorama/" target="_blank">Venue Website</a>
 
 <div style="min-width:400px; max-width:40em;">
 
@@ -28,7 +24,7 @@ Description = "Location for DevOps Days Boston 2024"
 
 </div>
 <div style="order:2;flex-grow:2;align-self:flex-end;">
-<img src="https://cdn10.bostonmagazine.com/wp-content/uploads/sites/2/2018/11/ess_landmark2.jpg" style="min-width:400px; max-height: 30em; max-width:90vw; margin-left:1em; border-radius: 2%;" />
+<img src="https://cdn10.bostonmagazine.com/wp-content/uploads/sites/2/2018/11/ess_landmark2.jpg" style="min-width:400px; max-height: 25em; max-width:90vw; margin-left:1em; border-radius: 2%;" />
 
 </div>
 </div>
