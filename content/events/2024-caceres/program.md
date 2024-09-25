@@ -441,7 +441,7 @@ Aplica las mismas prácticas de seguridad a las máquinas virtuales que a los co
           <div class="program-talk">
             <a href="/events/2024-caceres/program/ai-boost">
               <center>
-                <p class="talk-title">Future Outlook of DevOps Engineers</p>
+                <p class="talk-title">Future Outlook of Site Reliability Engineers</p>
                 <p class="talk-speakers">Rui (Christina) Zhu (Meta)</p>
                 <div>
                   <i class="fa fa-language fa-lg"></i><span class="talk-language-level">English</span>
