@@ -4,26 +4,35 @@ Type = "event"
 Description = "Location for DevOps Days Boston 2024"
 +++
 
-## [The Cyclorama at Boston Center for the Arts](http://www.bcaonline.org/venues/cyclorama.html) - 539 Tremont St, Boston, MA 02116
+<span style="font-size:1.8em;">The Cyclorama at Boston Center for the Arts - 539 Tremont St, Boston, MA 02116</span>
 
-The Cyclorama at Boston Center for the Arts is an impressive and historic venue located in the stylish South End neighborhood of Boston. Surrounded by the largest collection of Victorian brownstones in New England and representing the height of urban industrial chic, the Cyclorama offers inspiration and limitless possibilities for all kinds of events.
+<div style="display:flex;flex-direction:row;flex-wrap:wrap;align-content:stretch;align-items:center;">
+<div style="order:1;flex-grow:1;">
 
-Featuring a dazzling copper skylight dome atop a round, brick-lined 23,000-square foot space, the Cyclorama can host from 100 to 1000 guests (up to 875 seated).
-<img style="max-width: 500px;margin: 0px 25px 25px 0px" src="/events/2017-boston/cycloramaskylight.jpg">
+* <a href="https://maps.app.goo.gl/wTCov3QKvdeAtxVw5" target="_blank">Cyclorama on Google Maps</a>
+* [How to get there](#how-to-get-there)
+    * Public Transportation
+    * Parking Options around Cyclorama
+* [Accommodations (Hotels and Lodging)](#accommodations)
+* <a href="https://bostonarts.org/venue/the-cyclorama/" target="_blank">Venue Website</a>
 
-The elegant simplicity of the building, which was opened in 1884 and is included on the National Register of Historic Places, makes a stunning statement on its own.
+<div style="min-width:400px; max-width:40em;">
 
-### Here's what [Wikipedia has to say about it](https://en.wikipedia.org/wiki/Cyclorama_Building):
+*Note: a seasonal Boston event called "The Head of the Charles Regatta" from 10/18 (Friday) to 10/20 (Sunday) is causing some elevated pricing in hotels around the area. As such, our organizers have compiled [a list of options by locality](#accommodations) to the DevOpsDays Boston event venue (the Cyclorama on Tremont St., Back Bay) to assist in your search for appropriate accommodations.*
 
-The Classical Revival style Victorian building was commissioned by Charles F. Willoughby's Boston Cyclorama Company to house the Cyclorama of the Battle of Gettysburg, a 400-by-50 foot cyclorama painting of the Battle of Gettysburg. It was designed by Charles A. Cummings and Willard T. Sears. The central space is a 127'-diameter steel-trussed dome which, when it was built, was the largest dome in the country after the United States Capitol building. Visitors entered through the crenelated archway, proceeded along a dark winding passage, and then ascended a winding staircase to an elevated viewing platform. Skylights lit the scene by day, and it was illuminated by a system of 25 arc lamps by night.[2]
+</div>
 
-In 1889, a new cyclorama painting Custer's Last Fight, was installed, but by 1890, the fashion for cycloramas had ended, and the new owner of the building, John Gardner (father-in-law of Isabella Stewart Gardner), converted it to a venue for popular entertainment, including a carousel, roller skating, boxing tournaments (including an 1894 fight of John L. Sullivan), horseback riding, bicycling, and so on.
+</div>
+<div style="order:2;flex-grow:2;align-self:flex-end;">
+<img src="https://cdn10.bostonmagazine.com/wp-content/uploads/sites/2/2018/11/ess_landmark2.jpg" style="min-width:400px; max-height: 25em; max-width:90vw; margin-left:1em; border-radius: 2%;" />
 
-By 1899, it had become an industrial space, used by the New England Electric Vehicle Company, the Tremont Garage, the Buick Automobile Agency, and Albert Champion Company. Albert Champion is said to have invented the spark plug here before he moved to Flint, Michigan.
+</div>
+</div>
+<div style="clear:both;"></div>
 
-When the Boston Flower Exchange bought the building in 1923, it added a new entrance and covered central dome with a skylight. The Flower Exchange occupied the building until 1970.
-
+<a name="how-to-get-there"></a>
 # How to get there
+
 ## Public Transportation
 The BCA is easily accessible by public transportation.
 
@@ -64,3 +73,25 @@ $17 All day Saturdays and Sundays – Visit the Calderwood Pavilion Box Office t
 There are two open parking lots on Berkeley Street at Columbus Avenue. Open until 10pm.
 
 {{< event_map >}}
+
+<a name="accommodations"></a>
+# Accommodations
+
+* <a href="https://www.airbnb.com/s/Back-Bay--Boston--Massachusetts--United-States/homes?tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=one_week&monthly_start_date=2024-10-01&monthly_length=3&monthly_end_date=2025-01-01&price_filter_input_type=0&channel=EXPLORE&query=Back%20Bay%2C%20Boston%2C%20MA&date_picker_type=calendar&place_id=ChIJsfUV-A5644kRxFubWZLMo7w&checkin=2024-10-20&checkout=2024-10-23&adults=1&search_mode=regular_search&price_filter_num_nights=3&flexible_date_search_filter_type=0&search_type=unknown" target="_blank">AirBnB Options</a>
+* Hotels and Lodging Options
+
+
+## Hotels and Lodging Options
+
+| Business Name / Link | Relative Price Range | Travel Time to Cyclorama |
+| --------------------------- |:----:| ----:|
+| [The Revolution Hotel](https://www.hotelsone.com/boston-hotels-us/the-revolution-hotel.html) | $$ | 2 min |
+| [Four Points Sheraton, Newton](https://www.marriott.com/en-us/hotels/bospn-four-points-boston-newton/overview/) | $$ | 30 min |
+| [The Arcadian, Brookline](https://www.sonder.com/destinations/boston/bos-beac1200-166/c35887) | $$ | 30 min |
+| [Hampton Inn & Suites Boston/Cambridge](https://www.ihg.com/holidayinnexpress/hotels/us/en/boston/boshj/hoteldetail) | $$$ | 30 min
+| [The Inn at Longwood Medical](https://www.guestreservations.com/the-inn-at-longwood/booking) | $$$ | 30 min |
+| [Holiday In Express & Suites: Boston - Cambridge](https://www.ihg.com/holidayinnexpress/hotels/us/en/cambridge/boscb/hoteldetail?cm_mmc=GoogleMaps-_-EX-_-US-_-BOSCB) | $$$ | 30 min |
+| [Studio Allston Hotel](https://www.hotelstudioallston.com/) | $$$ | 15-30 min (via rideshare) |
+| [The Maverick at Fenway](https://www.hotelstudioallston.com/) | $$$ | 30 min |
+| [HI Boston](https://www.hostelworld.com/st/hostels/p/54929/hi-boston) (Hostel) | $ | 15 min |
+
