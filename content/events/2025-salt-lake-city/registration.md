@@ -1,7 +1,7 @@
 +++
 Title = "Registration"
 Type = "event"
-Description = "Registration for devopsdays Salt Lake City 2024"
+Description = "Registration for devopsdays Salt Lake City 2025"
 +++
 
 Watch this space for information about registration!

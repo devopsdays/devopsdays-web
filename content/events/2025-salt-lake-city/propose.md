@@ -1,7 +1,7 @@
 +++
 Title = "Propose"
 Type = "event"
-Description = "Propose a talk for devopsdays Salt Lake City 2024"
+Description = "Propose a talk for devopsdays Salt Lake City 2025"
 +++
 
 <!-- Watch this space for information about proposals! -->
@@ -10,13 +10,13 @@ Description = "Propose a talk for devopsdays Salt Lake City 2024"
 
 <hr>
 
-Salt Lake City DevOps Days March 2024
+Salt Lake City DevOps Days March 2025
 
-Northern Utah is proud to host the sixth annual Salt Lake City DevOps Days. This event has led the conversation in the state as far as DevOps organizational practices and tooling. In 2024 the theme will be "DevOps is Dead, Evolving DevOps".
+Northern Utah is proud to host the sixth annual Salt Lake City DevOps Days. This event has led the conversation in the state as far as DevOps organizational practices and tooling. In 2025 the theme will be "DevOps is Dead, Evolving DevOps".
 
-The upcoming SLC DevOps Days conference in 2024 has chosen a bold and thought-provoking theme: “DevOps is Dead, Evolving DevOps” This theme aims to challenge traditional notions and stir up discussions within the Salt Lake City DevOps community about the future of this widely adopted methodology. SLC DevOps Days, known for fostering innovation and exploring emerging trends, seeks to push the boundaries of conventional thinking by examining the current state of DevOps and its potential evolution. The theme “DevOps is Dead, Evolving DevOps” does not suggest the complete abandonment of DevOps principles and practices but instead proposes an introspective examination of its limitations, adaptability, and relevance in an ever-changing technological landscape. The conference aims to provoke critical thinking by questioning established methodologies, encouraging participants to explore alternative approaches, and challenging the status quo.
+The upcoming SLC DevOps Days conference in 2025 has chosen a bold and thought-provoking theme: “DevOps is Dead, Evolving DevOps” This theme aims to challenge traditional notions and stir up discussions within the Salt Lake City DevOps community about the future of this widely adopted methodology. SLC DevOps Days, known for fostering innovation and exploring emerging trends, seeks to push the boundaries of conventional thinking by examining the current state of DevOps and its potential evolution. The theme “DevOps is Dead, Evolving DevOps” does not suggest the complete abandonment of DevOps principles and practices but instead proposes an introspective examination of its limitations, adaptability, and relevance in an ever-changing technological landscape. The conference aims to provoke critical thinking by questioning established methodologies, encouraging participants to explore alternative approaches, and challenging the status quo.
 
-https://sessionize.com/slcdod2024/
+https://sessionize.com/slcdod2025/
 
 <hr>
 
@@ -41,7 +41,7 @@ Choosing talks is part art, part science; here are some factors we consider when
 
 <hr>
 
-<strong>How to submit a proposal:</strong> https://sessionize.com/slcdod2024/
+<strong>How to submit a proposal:</strong> https://sessionize.com/slcdod2025/
 
 LOOKING FOR:
 <ol>
