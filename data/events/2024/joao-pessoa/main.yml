@@ -19,7 +19,7 @@ cfp_date_start: 2024-05-15T10:00:00-03:00 # start accepting talk proposals.
 cfp_date_end: 2024-08-02T07:00:00-03:00 # close your call for proposals.
 
 #cfp_date_announce: 2024-08-27T08:00:00-03:00 # inform proposers of status
-cfp_open: "true"
+cfp_open: "false"
 cfp_link: "https://talks.devopsdays.org/devopsdays-jo-o-pessoa-2024/cfp" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 #registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
@@ -45,7 +45,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: contact
   - name: conduct-pt-br
  # - name: program
- # - name: speakers
+  - name: speakers
 
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
@@ -57,6 +57,7 @@ team_members: # Name is the only required field for team members.
 
   - name: "Adrieny Dantas"
     pronouns: "Ela/Dela"
+    role: "DevOps Engineer"
     employer: "NEON"
     bio: "Quase 5 anos no mundo de TI e 3 como DevOps, gosto de resolver bugs e amo gatos!"
     github: “adrienyds”
@@ -82,8 +83,8 @@ team_members: # Name is the only required field for team members.
 
   - name: "Carlos Bezerra"
     pronouns: "Ele/Dele"
-    role: ""
-    employer: "Conta Simples"
+    role: "DevOps Engineer"
+    employer: "Gupy"
     bio: "Profissional de TI com mais de 15 anos de experiência, especializado em projetos de Infraestrutura de TI, arquitetura de sistemas, implantação em nuvem, micro serviços, automatização utilizando Phyton, Bash e Powershell, além de experiencia com gerenciamento de times de DevOps/Plataforma e infraestrutura, palestrante, mentor e organizador do DevOpsDays João Pessoa."
     github: "cdiegoo"
     facebook: ""
@@ -108,8 +109,8 @@ team_members: # Name is the only required field for team members.
 
   - name: "Gian Cavalcante"
     pronouns: "Ele/Dele"
-    role: ""
-    employer: "SPIRITSEC"
+    role: "Site Reliability Engineer"
+    employer: "Magalu Cloud"
     bio: "Sou apaixonado por Linux a mais de 10 anos, defensor de software livre e fomentador de comunidades. Trabalho com devops desde 2019 e em 2022 mergulhei de cabeça nos DevOpsDays, fui organizador do devopsdays de Vitória 2022, e atualmente componho as organizações dos DevOpsDays de Natal, Vitória e São Paulo."
     github: "gianlcl"
     facebook: ""
@@ -134,7 +135,7 @@ team_members: # Name is the only required field for team members.
 
   - name: "Marcelo Freire"
     pronouns: "Ele/Dele"
-    role: ""
+    role: "Site Reliability Engineer"
     employer: "Storyblok"
     bio: "DevOps na Storyblok, ama containers , infraestrutura como código. Corredor Amador, Maratonista, Otaku e Vegano."
     github: ""
@@ -150,11 +151,24 @@ organizer_email: "joao-pessoa@devopsdays.org" # Put your organizer email address
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: hostdime
+    level: platinum
+  - id: orbbi
+    level: platinum
   - id: uniesp
     level: gold
+  - id: lunio
+    level: gold
+  - id: linuxtips
+    level: silver
+  # - id: grafana
+  #   level: bronze
   - id: kubeevents
     level: community
   - id: kubecareers
+    level: community
+  - id: elastic
+    level: community
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

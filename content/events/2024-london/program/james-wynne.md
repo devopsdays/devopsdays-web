@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "SRE and the mental health of your team"
+Title = "SRE & Team Health"
 Type = "talk"
 Speakers = ["james-wynne"]
 +++
