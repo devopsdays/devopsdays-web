@@ -1,7 +1,7 @@
 +++
 Title = "Tracy Bannon"
 Twitter = ""
-linkedin = "https://www.linkedin.com/in/andrewclayshafer/"
+linkedin = "https://www.linkedin.com/in/tracylbannon/"
 Website = ""
 image = "tracy-bannon.jpg"
 type = "speaker"

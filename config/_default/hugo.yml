@@ -99,3 +99,23 @@ minify:
       precision: 0
     xml:
       keepWhitespace: false
+
+build:
+  buildStats:
+    disableClasses: true
+    disableIDs: true
+    disableTags: true
+    enable: true
+  cacheBusters:
+    - source: (postcss|tailwind)\.config\.js
+      target: (css|styles|scss|sass)
+  noJSConfigInAssets: false
+  useResourceCacheWhen: fallback
+
+caches:
+  assets:
+    dir: ":resourceDir/_gen"
+    maxAge: -1
+  images:
+    dir: ":resourceDir/_gen"
+    maxAge: -1
