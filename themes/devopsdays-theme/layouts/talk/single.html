@@ -149,10 +149,23 @@
     {{- with $p -}}
        {{- if isset .Params "image" -}}
           {{- if ne .Params.image "" -}}
-            <img src = '{{ (printf "/events/%s/speakers/%s" $e.name .Params.image)  }}' class='img-fluid' alt='{{ $.Scratch.Get "speakername" }}'><br /><br />
-          {{- end -}}
+            {{- $assetsfolder := (printf "assets/events/") -}}
+            {{- if (where (readDir $assetsfolder) "Name" $e.name) -}}
+              {{- $assetspeakersfolder := (printf "assets/events/%s/speakers/" $e.name) -}}
+              {{- if fileExists $assetspeakersfolder -}}
+                {{- if (where (readDir $assetspeakersfolder) "Name" .Params.image) -}}
+                  {{- $imagelocation := (printf "events/%s/speakers/%s" $e.name .Params.image) -}}
+                  {{- $imageresource := resources.Get $imagelocation -}}
+                  {{- $imagefile := $imageresource.Fit "600x600 webp Lanczos q100" -}}
+                  <img src = '{{ $imagefile.RelPermalink }}' class="img-fluid" alt="{{ $.Scratch.Get "speakername" }}"/><br />
+                {{- end -}}
+              {{- end -}}
+            {{ else }}
+              <img src = '{{ (printf "/events/%s/speakers/%s" $e.name .Params.image)  }}' class='img-fluid' alt='{{ $.Scratch.Get "speakername" }}'><br /><br />
+            {{- end -}}
           {{- else -}}
             <img src = "/img/speaker-default.jpg" class='img-fluid'  alt='{{ $.Scratch.Get "speakername" }}'><br /><br />
+          {{- end -}}
         {{- end -}}
           <h4 class="talk-page"><a href = '{{ (printf "/events/%s/speakers/%s" $e.name ($.Scratch.Get "speakername")) }}'}>
             {{ .Title }}

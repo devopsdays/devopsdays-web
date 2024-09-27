@@ -74,13 +74,17 @@ sponsors:
   - id: devops-latam
     level: diamond
   - id: sigitat
-    level: diamond
-  - id: oracle
+#    level: diamond
+#  - id: oracle
     level: diamond
   - id: fluidattacks
     level: diamond
+  - id: manage-engine
+    level: diamond
   - id: certjoin
     level: community
+  - id: tribuiacolombia
+    level: community  
   - id: softtek
     level: platinum
   - id: elastic

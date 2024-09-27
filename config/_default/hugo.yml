@@ -60,3 +60,23 @@ params:
   Linkedin: http://www.linkedin.com/groups?home=&gid=2445279
   Groups: http://groups.google.com/group/devopsdays
   GoogleMapsAPI: AIzaSyA1WhgJirbPSYxMCWRD14IP90A4yLY4vxE
+
+build:
+  buildStats:
+    disableClasses: true
+    disableIDs: true
+    disableTags: true
+    enable: true
+  cacheBusters:
+    - source: (postcss|tailwind)\.config\.js
+      target: (css|styles|scss|sass)
+  noJSConfigInAssets: false
+  useResourceCacheWhen: fallback
+
+caches:
+  assets:
+    dir: ":resourceDir/_gen"
+    maxAge: -1
+  images:
+    dir: ":resourceDir/_gen"
+    maxAge: -1
