@@ -1,15 +1,15 @@
 +++
 Title = "Sponsor"
 Type = "event"
-Description = "Sponsor devopsdays Salt Lake City 2024"
+Description = "Sponsor devopsdays Salt Lake City 2025"
 +++
 
 
 <br><br><br>
 <div class = "col-md-12 push-md-12">
-  <h1 style="text-align: center;"><a href="https://slcdevopsdays.org/wp-content/uploads/2024/01/SLC_DevOps_Days_2024_Sponsor_Prospectus.pdf" style="font-size: 42px;">Sponsor the conference!</a></h1>
+  <h1 style="text-align: center;"><a href="https://slcdevopsdays.org/wp-content/uploads/2025/01/SLC_DevOps_Days_2025_Sponsor_Prospectus.pdf" style="font-size: 42px;">Sponsor the conference!</a></h1>
   <div style="text-align: center;">We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].</div>
-  <div style="text-align: center"><a href="https://slcdevopsdays.org/wp-content/uploads/2024/01/SLC_DevOps_Days_2024_Sponsor_Prospectus.pdf" style="font-size: 20px;">➡️ Download Our Sponsor Prospectus PDF ⬅️</a></div>
+  <div style="text-align: center"><a href="https://slcdevopsdays.org/wp-content/uploads/2025/01/SLC_DevOps_Days_2025_Sponsor_Prospectus.pdf" style="font-size: 20px;">➡️ Download Our Sponsor Prospectus PDF ⬅️</a></div>
 </div>
 <hr>
 <br><br><br>

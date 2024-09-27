@@ -1,22 +1,15 @@
 +++
-Title = "DevOpsDays SLC 2024"
+Title = "DevOpsDays SLC 2025"
 Type = "welcome"
-aliases = [
-    "/events/2024-salt-lake-city/",
-    "/events/2024-salt-lake-city/location/",
-    "/events/2024-salt-lake-city/program/",
-    "/events/2024-salt-lake-city/propose/",
-    "/events/2024-salt-lake-city/registration/",
-    "/events/2024-salt-lake-city/sponsor/"
-    ]
-Description = "DevOpsDays SLC 2024"
+aliases = ["/events/2025-salt-lake-city/"]
+Description = "DevOpsDays SLC 2025"
 +++
 
 <br><br><br>
 <div class = "col-md-12 push-md-12">
-  <h1 style="text-align: center;"><a href="https://slcdevopsdays.org/wp-content/uploads/2024/01/SLC_DevOps_Days_2024_Sponsor_Prospectus.pdf" style="font-size: 42px;">Sponsor the conference!</a></h1>
+  <h1 style="text-align: center;"><a href="https://slcdevopsdays.org/wp-content/uploads/2025/01/SLC_DevOps_Days_2025_Sponsor_Prospectus.pdf" style="font-size: 42px;">Sponsor the conference!</a></h1>
   <div style="text-align: center;">We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].</div>
-  <div style="text-align: center"><a href="https://slcdevopsdays.org/wp-content/uploads/2024/01/SLC_DevOps_Days_2024_Sponsor_Prospectus.pdf" style="font-size: 20px;">➡️ Download Our Sponsor Prospectus PDF ⬅️</a></div>
+  <div style="text-align: center"><a href="https://slcdevopsdays.org/wp-content/uploads/2025/01/SLC_DevOps_Days_2025_Sponsor_Prospectus.pdf" style="font-size: 20px;">➡️ Download Our Sponsor Prospectus PDF ⬅️</a></div>
 </div>
 <hr>
 <br><br><br>
@@ -24,18 +17,18 @@ Description = "DevOpsDays SLC 2024"
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
 </div> -->
-<h1>Salt Lake City DevOpsDays 2024</h1>
+<h1>Salt Lake City DevOpsDays 2025</h1>
 <hr>
 <h2>DevOpsDays is looking forward to our next event in Salt Lake City!</h2>
 <br><br>
 <span>Every year, we look forward to connecting with our local DevOps community at SLC DevOps Days; Sharing and learning from experts in our community, and working with DevOps thought leaders that visit our event. After several years of uncertainty around large gatherings, we are very excited to bring this event back to the Salt Lake City area and our local technology community. 
 
-Notice: This event has been rescheduled for Q2 of 2025.
+More information forthcoming - will update soon!
 </span>
 
 
 
-<!-- <h4>Our CFP is now open! Check it out here: https://www.papercall.io/slcdod2024</h4> -->
+<!-- <h4>Our CFP is now open! Check it out here: https://www.papercall.io/slcdod2025</h4> -->
 <br><hr><br>
 <div class="row">
     <div class="col-md-6">
@@ -90,6 +83,6 @@ Notice: This event has been rescheduled for Q2 of 2025.
 <h3>Looking forward to you joining us for our upcoming event in the Silicon Slopes!</h3>
 <h4>The conference for organizational excellence</h4>
 <!-- <a href="../registration" class="btn btn-info">Register!</a> <a href="../sponsor" class="btn btn-info">Sponsor DevOpsDays SLC!</a><br>
-Come join us on June 1 - 2, 2024 and find out how to level your expertise with those of us who strive for operational nirvana. -->
+Come join us on June 1 - 2, 2025 and find out how to level your expertise with those of us who strive for operational nirvana. -->
 <br>
 <br>
