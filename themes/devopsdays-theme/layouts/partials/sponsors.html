@@ -83,7 +83,7 @@
                     {{- $imagefile := $imageresource.Fit "300x300 webp Lanczos q100" -}}
                     <img src = "{{ $imagefile.RelPermalink }}" alt = "{{ $s.name }}" title = "{{ $s.name }}" class="img-fluid">
                   {{- else -}}
-                  {{- warnf "No image file found in assets directory for %s" .id -}}
+                  {{- warnf "No image file found in assets directory for %s. Please copy it to %s for best performance." .id $assetdir -}}
                     <img src = "/img/sponsors/{{ .id }}.png" alt = "{{ $s.name }}" title = "{{ $s.name }}" class="img-fluid">
                   {{- end -}}
                 </a>
