@@ -68,6 +68,9 @@ fi
 # Set logo
 
 if [ $logo ]; then
+  if [ ! -d ../assets/sponsors/$sponsor_initial/]; then
+    mkdir -p ../assets/sponsors/$sponsor_initial/
+  fi
   cp "$logo" ../assets/sponsors/$sponsor_initial/$sponsor_slug.png
 else
   echo "Set the sponsor logo at ../assets/sponsors/$sponsor_initial/$sponsor_slug.png before submitting PR."
