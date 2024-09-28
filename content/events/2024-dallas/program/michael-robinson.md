@@ -2,9 +2,9 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Data and Minimal Human Interaction in DevOps"
+Title = "Resilence in the Cloud Era (Speed, Agility, Innovation)"
 Type = "talk"
-Speakers = ["paul-grizzaffi"]
+Speakers = ["michael-robinson"]
 Youtube = ""
 Vimeo = ""
 Speakerdeck = ""

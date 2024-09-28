@@ -2,9 +2,9 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Data and Minimal Human Interaction in DevOps"
+Title = "5 Reasons You Are Struggling to Debug"
 Type = "talk"
-Speakers = ["paul-grizzaffi"]
+Speakers = ["roxane-fischer"]
 Youtube = ""
 Vimeo = ""
 Speakerdeck = ""

@@ -1,6 +1,16 @@
----
-title: "TBD"
-Type: "talk"
-Speakers: ["andrew-clay-shafer"]
----
++++
+Talk_date = ""
+Talk_start_time = ""
+Talk_end_time = ""
+Title = ""
+Type = "talk"
+Speakers = ["andrew-clay-shafer"]
+Youtube = ""
+Vimeo = ""
+Speakerdeck = ""
+Slideshare = ""
+Slides = ""
+Website = ""
++++
 
+##### TALK ABSTRACT
