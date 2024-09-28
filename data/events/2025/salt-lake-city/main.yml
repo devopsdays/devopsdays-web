@@ -1,5 +1,5 @@
-name: "2024-salt-lake-city" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
-year: "2024" # The year of the event. Make sure it is in quotes.
+name: "2025-salt-lake-city" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2025" # The year of the event. Make sure it is in quotes.
 city: "Salt Lake City" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaysslc" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 event_logo: "logo-square.jpg"
@@ -15,18 +15,17 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 
 # startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
 # enddate:   # The end date of your event. Leave blank if you don't have a venue reserved yet.
-# startdate: 2024-03-13T08:00:00-06:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-cancel: "true"
+# startdate: 2025-03-13T08:00:00-06:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
 startdate: # The start date of your event. Leave blank if you don't have a venue reserved yet.
-# enddate: 2024-03-14T18:00:00-06:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+# enddate: 2025-03-14T18:00:00-06:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 enddate: # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2023-09-02T00:00:00-06:00  # start accepting talk proposals.
-cfp_date_end: 2023-11-06T23:59:59-06:00 # close your call for proposals.
-cfp_date_announce: 2024-01-08T07:00:00-06:00 # inform proposers of status
+cfp_date_start:  # start accepting talk proposals.
+cfp_date_end:  # close your call for proposals.
+cfp_date_announce:  # inform proposers of status
 cfp_open: "false"
-cfp_link: "https://sessionize.com/slcdod2024/"   #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://sessionize.com/slcdod2025/"   #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 # registration_date_start: 2023-01-28T07:01:00-06:00   # start accepting registration. Leave blank if registration is not open yet
 # registration_date_end: 2023-06-01T01:59:59-06:00     # close registration. Leave blank if registration is not open yet.
@@ -118,7 +117,7 @@ organizer_email: "salt-lake-city@devopsdays.org" # Put your organizer email addr
   #  level: community
   #  url: "https://www.sponsorsurl.com/" # Use this if you need to over-ride a sponsor URL.
 
-sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
