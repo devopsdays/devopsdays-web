@@ -41,6 +41,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: conduct
   - name: contact
   - name: location
+  - name: register
+    url: "https://ti.to/devopsdaysbos/2024"
   - name: program
   - name: speakers
   - name: sponsor
@@ -101,6 +103,12 @@ sponsors:
     level: platinum
   - id: oodleai
     level: platinum
+  - id: scaleops
+    level: platinum
+  - id: observe
+    level: snacks
+  - id: atomiccoffeeroasters
+    level: coffee
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -113,6 +121,12 @@ sponsor_levels:
     label: Platinum
   - id: startupalley
     label: Startup Alley
+  - id: snacks
+    label: Snacks
+    max: 1
+  - id: coffee
+    label: Coffee
+    max: 1
 
 program:
 # Day 1

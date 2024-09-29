@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Future Outlook of DevOps Engineers"
+Title = "Future Outlook of Site Reliability Engineers"
 Type = "talk"
 Speakers = ["rui-zhu"]
 +++

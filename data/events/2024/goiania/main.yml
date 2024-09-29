@@ -118,6 +118,7 @@ sponsors:
     level: gold
   - id: saveincloud
     level: gold
+    url: https://saveincloud.com/pt/solucoes-cloud/cloud-containers/cloud-kubernetes/
   - id: aws-user-group-goiania
     level: community
   - id: devopsgo
