@@ -161,7 +161,13 @@ sponsors:
     level: gold
   - id: oodleai
     level: gold
+  - id: nvisia
+    level: gold
   - id: arresteddevops
+    level: community
+  - id: kubecareers
+    level: community
+  - id: kubeevents
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
