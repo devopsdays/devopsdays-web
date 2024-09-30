@@ -22,8 +22,8 @@
                         {{- if (where (readDir "assets/events") "Name" ($.Scratch.Get "subdir")) -}}
                             {{- warnf "in the assets directory for %s" ($.Scratch.Get "subdir") -}}
                             <!-- get the logo for front page here -->
-                            {{- if (where (readDir ($.Scratch.Get "assetsdir")) "Name" "logo-square.jpg") -}}
-                                {{- $.Scratch.Set "squarelogofile" "logo-square.jpg" -}}
+                            {{- if (where (readDir ($.Scratch.Get "assetsdir")) "Name" "logo-square.png") -}}
+                                {{- $.Scratch.Set "squarelogofile" "logo-square.png" -}}
                             {{- else -}}
                                 {{- if (where (readDir ($.Scratch.Get "assetsdir")) "Name" "logo.png") -}}
                                     {{- $.Scratch.Set "squarelogofile" "logo.png" -}}
