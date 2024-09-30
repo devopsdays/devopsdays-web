@@ -104,6 +104,8 @@ organizer_email: "caceres@devopsdays.org" # Put your organizer email address her
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: fundecyt
+    level: gold
   - id: seventhlab
     level: silver
   - id: worldline
