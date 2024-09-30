@@ -3,7 +3,7 @@ Title = "Priya Ananthasankar"
 Twitter = ""
 linkedin = ""
 Website = ""
-image = ""
+image = "priya-ananthasankar.png"
 type = "speaker"
 linktitle = "priya-ananthasankar"
 +++

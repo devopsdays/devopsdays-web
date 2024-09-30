@@ -202,15 +202,21 @@ sponsors:
     level: gold
   - id: gmfinancial
     level: gold
+  - id: scaleops
+    level: gold
   - id: tailscale
     level: silver
   - id: zealit
     level: silver
   - id: checkmarx
     level: silver
+  - id: redgate
+    level: silver
   - id: devitjobs
     level: media
   - id: gdgsolake
+    level: community
+  - id: cncf-dfw
     level: community
   - id: twc
     level: npo
@@ -228,8 +234,8 @@ sponsors:
   #   level: community
   # - id: women-who-code-dfw
   #   level: community
-  # - id: redhatmug
-  #   level: community
+  - id: rhug
+    level: community
   # - id: npusa
   #   level: npo
   # - id: shpedfw
