@@ -3,7 +3,7 @@ Title = "Michael Robinson"
 Twitter = ""
 linkedin = "https://www.linkedin.com/in/mrobinson2/"
 Website = ""
-image = "michael-robinson.jpg"
+image = ""
 type = "speaker"
 linktitle = "michael-robinson"
 +++
