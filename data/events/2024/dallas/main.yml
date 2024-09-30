@@ -424,7 +424,7 @@ program:
     date: 2024-10-10
     start_time: "13:30"
     end_time: "13:45"
-  - title: "Who is here"
+  - title: "jered-sutton"
     type: talk
     date: 2024-10-10
     start_time: "13:45"
@@ -440,7 +440,7 @@ program:
     start_time: "14:45"
     end_time: "15:30"
   - title: "Speaker Discussion Panel"
-    type: talk
+    type: custom
     date: 2024-10-10
     start_time: "15:30"
     end_time: "16:15"
@@ -467,5 +467,5 @@ ignites:
     date: 2024-10-10
   - title: "talk 4"
     date: 2024-10-10
-  - title: "talk 5"
+  - title: "michael-robinson"
     date: 2024-10-10
