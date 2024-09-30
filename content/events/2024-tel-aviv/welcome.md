@@ -20,7 +20,7 @@ Description = "devopsdays Tel Aviv 2024"
 <div style="text-align:center; width:700;">
            <!--  <h1><span style="text-transform: uppercase; text-align: center;">JOIN US FOR A</span> <span style="text-transform: uppercase; color: orange; text-align: center; font family: creepster">SPOOKY </span>DEVOPSDAYS TLV </h1> -->
              <h4> JOIN US OCTOBER 30-31, 2024 AT EXPO TLV FOR OUR 10TH ANNIVERSAY EVENT!</h4>        
-            <p> Check out the <a href="https://tlvcommunity.dev/devopsdays/agenda-2023" target="_blank">Event Program</a> and register to join us!</p>
+            <p> Check out the <a href="https://tlvcommunity.dev/devopsdays/agenda-2024" target="_blank">Event Program</a> and register to join us!</p>
             <p><a href="https://tlvcommunity.dev/devopsdays#register" target="_blank"> 👉🏽 REGISTER HERE!</a></h3>
             <h2>LOOKING FORWARD TO SEEING YOU AT OUR SPOOKY HALLOWEEN & 10TH ANNIVERSARY CELEBRATION!</h2>
              <p style="text-align:center"><img src="https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,quality=75,width=960,height=480/event-covers/zy/5e297355-a1df-4b0a-8bbe-0d2cfa503b2f" width="80%"></p>

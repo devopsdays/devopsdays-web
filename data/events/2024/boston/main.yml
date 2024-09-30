@@ -140,8 +140,8 @@ program:
     date: 2024-10-21
     start_time: "9:15"
     end_time: "9:30"
-  - title: "sabrina-battiston"
-    type: talk
+  - title: "Coming soon!"
+    type: custom
     date: 2024-10-21
     start_time: "9:30"
     end_time: "10:00"
