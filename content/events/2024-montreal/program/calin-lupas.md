@@ -43,3 +43,5 @@ Rejoignez notre présentation engageante sur le DevSecOps et devenez un héros d
 Repartez bien munis de recommandations pratiques pour vous lancer ou améliorer votre propre voyage DevSecOps.
 
 Rejoignez notre session et montez d'un cran votre niveau de jeu DevSecOps !
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mLSfUFOU4sk?si=yzLSMuAqoGHVAQQZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

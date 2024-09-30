@@ -18,3 +18,5 @@ This talk envisions what comes after Platform Engineering, by drawing from the p
 * What key skills will the new teams be focused on, and how can we prepare them?
 
 Join Adriana and Renata as they provide a vision of what lies beyond Platform Engineering, in this exciting journey of innovation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a8eomJYDJ88?si=CoV9BbNn5DmFdUaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -18,3 +18,5 @@ Whether they're leaping from the pages in a single bound or soaring off the scre
 If we take the time to really listen, we discover relevant and compelling examples of how to handle all types of real-world challenges, including the ones we face in tech.
 
 In this talk, I'll unmask tech problems masquerading as two-dimensional comic book villains; unlock the x-ray vision to analyze their true nature; and unleash the inner strength needed to defeat them.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_Wd_cNTzrEY?si=4ryzz_afcYVd76tn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

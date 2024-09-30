@@ -14,3 +14,5 @@ IT departments toil away tirelessly to just keep the infrastructure online, thei
 Despite this (or perhaps because of this) it's incredibly difficult for IT to convince the business to fund any investment in paying down the technical debt, or improving the platform and reliability.
 
 In this talk Sasha will frame this into the three pillars of Tech Excellence (reduction of tech debt), Platform Engineering, and Reliability (SRE) on which innovation can thrive. She will show how when you make strategic investments in these pillars so you can free your people from keeping the lights on to where innovation happens and value is created.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-4a-7QseKVI?si=8Dslry3NtDP4zSPj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
