@@ -3,7 +3,7 @@ Title = "Gregory Lind"
 Twitter = "radtherapydev"
 linkedin = "https://www.linkedin.com/in/greglind/"
 Website = "https://www.radicaltherapy.dev/"
-image = "gregory-lind.jpg"
+image = "gregory-lind.png"
 type = "speaker"
 linktitle = "gregory-lind"
 +++
