@@ -205,6 +205,8 @@ sponsors:
     level: silver
   - id: redgate
     level: silver
+  - id: pagerduty
+    level: silver
   - id: devitjobs
     level: media
   - id: gdgsolake
