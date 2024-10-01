@@ -214,9 +214,9 @@ sponsors:
     level: gold
   - id: hetz
     level: gold
-  - id: terasky-only
+  - id: terasky
     level: gold
-  - id: esl-cloudbees
+  - id: cloudbees
     level: gold
   - id: appsflyer
     level: gold
@@ -246,27 +246,35 @@ sponsors:
     level: gold
   - id: quali
     level: gold
+  - id: honeybook
+    level: gold
   #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: velocitytech
     level: community
+  - id: draftt
+    level: community
+  - id: jit
+    level: community
+  - id: lunardev
+    level: community
+  - id: tlvpartners
+    level: community
   - id: hetz
+    level: community
+  - id: devinterrupted
+    level: community
+  - id: iacpodcast
     level: community
   - id: aerospike
     level: community
   - id: apono
     level: community
-  - id: tlvpartners
-    level: community
-  - id: lunardev
-    level: community
   - id: statscraft
-    level: community
-  - id: opsschool
-    level: community
-  - id: devinterrupted
     level: community
   - id: cloudnativeil
     level: community
+  - id: opsschool
+    level: community 
   - id: owasp
     level: community
   - id: appleseeds
