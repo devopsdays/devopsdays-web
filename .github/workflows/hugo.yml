@@ -39,18 +39,7 @@ jobs:
           extended: true
 
       - name: Build Hugo
-        run: hugo -v
-
-      - uses: actions/setup-node@v3
-        name: Setup Node
-        with:
-          node-version: ${{ env.NODE_VERSION }}
-
-      - run: npm ci
-        name: Run npm ci
-
-      - name: Test through minifying
-        run: gulp min-html
+        run: hugo --environment=production --minify --templateMetrics --logLevel info
 
   # test-windows:
   #   needs: lint
