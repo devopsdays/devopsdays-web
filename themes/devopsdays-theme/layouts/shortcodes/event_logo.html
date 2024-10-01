@@ -5,7 +5,7 @@
   {{- if (where (readDir ($.Scratch.Get "assetsdir")) "Name" "logo.png") -}} 
     {{- $imagelocation := (printf "events/%s/logo.png" $e.name) -}}
     {{- $imageresource := resources.Get $imagelocation -}}
-    {{- $imagefile := $imageresource.Fit "600x600 webp Lanczos q100" -}}
+    {{- $imagefile := $imageresource.Resize "600 webp Lanczos q100" -}}
     <img alt="devopsdays {{ $e.city }} {{ $e.year }}" src='{{ $imagefile.RelPermalink }}' class="welcome-page-event-logo"/>
   {{- end -}}
   {{- else if (where (readDir "static/events") "Name" $e.name) -}}
