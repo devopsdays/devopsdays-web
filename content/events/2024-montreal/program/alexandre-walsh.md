@@ -12,3 +12,5 @@ Livrer plus vite, être plus prévisible, réduire les retards de livraison: c�
 Dans cette présentation, je ferai le lien entre ce que la science dit sur la productivité et la livraison en continu (Continuous Delivery). J'expliquerais comment c'est gagnant-gagnant pour tout le monde de miser sur l'excellence technique, et le ROI économique d'une évolution vers de meilleures pratiques DevOps!
 
 L'amélioration continue, ce n'est pas toujours sexy, mais c'est payant!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZUqETC9EJ-c?si=NSDwi8XNAD2hxyEL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
