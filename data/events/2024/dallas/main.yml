@@ -77,9 +77,9 @@ team_members: # Name is the only required field for team members.
     image: "jessica-clark.jpg"
 
   - name: "Jessica Sabugo"
-    employer: "Istation"
-    bio: ""
-    role: "Call For Papers, Run of Show, Entertainment"
+    employer: ""
+    bio: "Jessica is a passionate DevOps Engineer with a background in test automation and a strong commitment to the DevOps culture. Since 2019, she has been an active organizer of DevOpsDays Dallas, where she leverages her enthusiasm for community engagement and collaboration. Jessica thrives on continuous learning and enjoys exploring new technologies. She is an avid traveler and finds great joy in the DevOpsDays community, believing in the power of connection and teamwork to drive impactful change in the tech industry."
+    role: "Social Media, Run of Show"
     twitter: "jessica_sabugo"
     linkedin: "https://www.linkedin.com/in/jessica-sabugo-581ab658/"
     image: "jessica-sabugo.jpg"
