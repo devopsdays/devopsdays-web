@@ -37,11 +37,11 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: propose
  # - name: location
   - name: registration
-    url: "https://tlvcommunity.dev/devopsdays#register"
+    url: "https://app.icount.co.il/m/0a17a/c82642p21u64ac1b12f?lng=en"
   - name: program
-    url: "https://tlvcommunity.dev/devopsdays/agenda-2023"
+    url: "https://tlvcommunity.dev/devopsdays/agenda-2024"
   - name: speakers
-    url: "https://tlvcommunity.dev/devopsdays/speakers-2023"
+    url: "https://tlvcommunity.dev/devopsdays/speakers-2024"
   - name: sponsor
   - name: contact
   - name: conduct
