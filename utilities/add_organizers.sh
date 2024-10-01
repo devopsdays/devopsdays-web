@@ -78,9 +78,9 @@ read -p "Enter path to organizer image as jpg (return to skip): " organizerimage
 [ -z "${organizerimage}" ] && organizerimage=''
 
 if [ $organizerimage ]; then
-  cp "$organizerimage" ../static/events/$event_slug/organizers/$organizer_slug.jpg
+  cp "$organizerimage" ../assets/events/$event_slug/organizers/$organizer_slug.jpg
 else
-  echo "Put organizer image at ../static/events/$event_slug/organizers/$organizer_slug.jpg before creating the pull request, if desired."
+  echo "Put organizer image at ../assets/events/$event_slug/organizers/$organizer_slug.jpg before creating the pull request, if desired."
 fi
 
 ####################
