@@ -149,19 +149,19 @@ Sponsors are encouraged to represent themselves by actively participating and en
     </tr>
     <tr>
       <th><b># Available Packages</b></th>
-      <td bgcolor="#FFE8A3"><center><font color="red">SOLD OUT</font></center></td>
-      <td bgcolor="#E5E5E5"><center><font color="red">SOLD OUT</font></center></td>
-      <td bgcolor="#FFBB7F"><center><font color="red">SOLD OUT</font></center></td>
-      <td bgcolor="#85cdad"><center><font color="red">SOLD OUT</font></center></td>
-      <td bgcolor="#8bc2d6"><center><font color="red">SOLD OUT</font></center></td>
-      <td bgcolor="#8bc2d6"><center><font color="red">SOLD OUT</font></center></td>
-      <td bgcolor="#8bc2d6"><center><font color="red">SOLD OUT</font></center></td>
+      <td bgcolor="#FFE8A3"><center>5</center></td>
+      <td bgcolor="#E5E5E5"><center>3</center></td>
+      <td bgcolor="#FFBB7F"><center>UNLIMITED</center></td>
+      <td bgcolor="#85cdad"><center>SOLD OUT</center></td>
+      <td bgcolor="#8bc2d6"><center>1</center></td>
+      <td bgcolor="#8bc2d6"><center>1</center></td>
+      <td bgcolor="#8bc2d6"><center>1</center></td>
     </tr>
     <tr>
       <th><b>Price (CHF excl. 7.7% VAT)</b></th>
       <td bgcolor="#FFE8A3"><center>8'000.-</center></td>
       <td bgcolor="#E5E5E5"><center>5'000.-</center></td>
-      <td bgcolor="#FFBB7F"><center>1'000.-</center></td>
+      <td bgcolor="#FFBB7F"><center>750.-</center></td>
       <td bgcolor="#85cdad"><center>4'000.-</center></td>
       <td bgcolor="#8bc2d6"><center>4'000.-</center></td>
       <td bgcolor="#8bc2d6"><center>4'000.-</center></td>
@@ -179,7 +179,7 @@ Sponsors are encouraged to represent themselves by actively participating and en
 
 DevOpsDays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
 
-### Sponsoring DevOpsDays next year
+### Sponsoring future DevOpsDays 
 
 Thanks for your interest in sponsoring our conference! In the last years our sponsorship packages got sold out very quick, as we sell them on a first-come, first-serve order.
 If you want to be informed, when we publish our sponsorship packages for the next conference, so that you are ahead of the crowd, please register yourself to our sponsor mailling list below: 
@@ -225,6 +225,7 @@ If you want to be informed, when we publish our sponsorship packages for the nex
 	<input type="text" value="" name="MMERGE6" class="required" id="mce-MMERGE6" required>
 	<span id="mce-MMERGE6-HELPERTEXT" class="helper_text"></span>
 </div>
+
 <div id="mergeRow-gdpr" class="mergeRow gdpr-mergeRow content__gdprBlock mc-field-group">
     <div class="content__gdpr">
         <label>Marketing Permissions</label>
