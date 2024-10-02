@@ -149,11 +149,11 @@ organizer_email: "porto-alegre@devopsdays.org" # Put your organizer email addres
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: Tecnopuc
+  - id: tecnopuc
     level: platinum
-  - id: Grafana
+  - id: grafana
     level: bronze
-  - id: Timescale
+  - id: timescale
     level: bronze
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   # - id: arresteddevops
