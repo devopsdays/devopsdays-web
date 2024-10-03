@@ -450,11 +450,7 @@ Aplica las mismas prácticas de seguridad a las máquinas virtuales que a los co
               </center>
               <div class="talk-details-hover">
                 <h5>Talk description</h5>
-                <p>Welcome to an insightful exploration of the future of DevOps Engineering. In this presentation, we'll delve into the evolving landscape of DevOps, examining the cutting-edge trends reshaping the field, the challenges that lie ahead, and the exciting opportunities emerging for professionals in this dynamic sector.
-
-From the rise of cloud-native environments and AI integration to the growing emphasis on sustainability and security, we'll uncover how these factors are transforming the role of DevOps engineers. We'll also discuss the skills that will be crucial for success in this rapidly changing environment and provide guidance on how to navigate your career in DevOps Engineering.
-
-Whether you're a seasoned professional or just starting your journey in the world of DevOps, this overview will equip you with valuable insights to thrive in the future of software development and IT operations integration.</p>
+                <p>The talk covers the history of SRE, from its origins at Google to its industry-wide adoption, including Meta's Production Engineering approach. Rui discusses key trends shaping the field, including cloud-native technologies, AI integration, edge computing, security practices, and sustainability. The presentation explores challenges facing SREs, such as the skills gap and evolving security landscape, while highlighting opportunities for innovation and growth. Rui provides practical strategies for career advancement in SRE, emphasizing continuous learning, community engagement, personal branding, and embracing challenges. The talk concludes with insights into the positive job outlook for SREs and the importance of adaptability in shaping technology's future.</p>
                 <hr>
                 <h5>About the speaker</h5>
                 <p>Born and raised in mainland China, have lived and worked across the globe  - Chengdu, Istanbul, Shanghai, Hong Kong, Dublin and London, have extensive experiences in talent attraction domain, currently working in Meta as their senior international talent partner, with DEI in my heart, strive to help bring equal opportunities to everyone.</p>
