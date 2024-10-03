@@ -6,6 +6,7 @@ talk_start_time: ""
 talk_end_time: ""
 speakers:
   - nathen-harvey
+Youtube: "3GocMsbV6aY"
 
 ---
 
