@@ -20,10 +20,24 @@
                         {{- $.Scratch.Set "assetsdir" (printf "assets/events/%s/" ($.Scratch.Get "subdir")) -}}
                         {{- $.Scratch.Set "contentdir" (printf "static/events/%s/" ($.Scratch.Get "subdir")) -}}
                         {{- if (where (readDir "assets/events") "Name" ($.Scratch.Get "subdir")) -}}
-                            {{- if (where (readDir ($.Scratch.Get "assetsdir")) "Name" "logo.png") -}}
-                                {{- $imagelocation := (printf "events/%s/logo.png" .name) -}}
+                            {{- warnf "in the assets directory for %s" ($.Scratch.Get "subdir") -}}
+                            <!-- get the logo for front page here -->
+                            {{- if (where (readDir ($.Scratch.Get "assetsdir")) "Name" "logo-square.png") -}}
+                                {{- $.Scratch.Set "squarelogofile" "logo-square.png" -}}
+                            {{- else -}}
+                                {{- if (where (readDir ($.Scratch.Get "assetsdir")) "Name" "logo.png") -}}
+                                    {{- $.Scratch.Set "squarelogofile" "logo.png" -}}
+                                {{- else -}}
+                                    {{- $.Scratch.Set "squarelogofile" "" -}}
+                                {{- end -}}
+                            {{- end -}}
+                            {{- warnf "Value of the squarelogofile is %s" ($.Scratch.Get "squarelogofile") -}}
+
+                            {{- if ($.Scratch.Get "squarelogofile") -}}
+                                {{- $imagelocation := (printf "events/%s/%s" .name ($.Scratch.Get "squarelogofile")) -}}
+                                {{- warnf "Processing %s" ($.Scratch.Get "imagelocation") -}}
                                 {{- $imageresource := resources.Get $imagelocation -}}
-                                {{- $imagefile := $imageresource.Fit "236x236 webp Lanczos q100" -}}
+                                {{- $imagefile := $imageresource.Fill "236x236 webp Lanczos q100 Center" -}}
                                 <a href='{{ (printf "/events/%s" .name) }}'><img src='{{ $imagefile.RelPermalink  }}' class="img-fluid" alt="devopsdays {{ .city }}"/></a>
                                 {{- $.Scratch.Set "logo" "set" -}}
                             {{- end -}}

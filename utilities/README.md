@@ -20,7 +20,8 @@ Use [add_new_event.sh](add_new_event.sh) to add a new event. This is year-specif
 1. The script will create a data file for your event in `data/events/yyyy-city.yml`. This is where you will configure many of your updates and customizations. In particular, you need to list your local organizer team here.
 1. The script will populate your event directory in `content/events/yyyy-city` with default content. You should edit it as desired.
 1. The script will add or update your entry in `static/_redirects`. This allows you to use the url `https://devopsdays.org/city-name` to point to your current-year event.
-1. Once you have created a logo graphic, place it in `assets/events/yyyy-city/logo.png`. (The file MUST be called `logo.png`.) The sample welcome page has a commented-out element to display a logo named in this way. For front-page use, you also need a square version in `assets/events/yyyy-city/logo-square.jpg`.
+1. Once you have created a logo graphic, place it in `assets/events/yyyy-city/logo.png`. (The file MUST be called `logo.png`.) The sample welcome page has a commented-out element to display a logo named in this way.
+1. The image used for your event on the front page of the site will be the image located in `assets/events/yyyy-city/logo.png`, which will be cropped automatically cropped to square. If you want to override this, you can place a square image in `assets/events/yyyy-city/logo-square.png`.
 
 ## Google Analytics
 
