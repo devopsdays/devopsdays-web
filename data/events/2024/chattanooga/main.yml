@@ -104,3 +104,5 @@ sponsor_levels:
     max: 10
   - id: bronze
     label: Bronze
+  - id: partner
+    label: Partner
