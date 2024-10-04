@@ -21,6 +21,8 @@
                       {{- $imagefile := $imageresource.Fit "600x600 webp Lanczos q100" -}}
                       <img src = '{{ $imagefile.RelPermalink }}' class="speakers-page" alt="{{ $.Title }}"/><br />
                   {{- end -}}
+                {{- else -}}
+                  <img src = '{{ (printf "/events/%s/speakers/%s" $e.name .) }}' class="speakers-page" alt="{{ $.Title }}"/><br />
                 {{- end -}}
             {{- else if ne . "" -}}
                 <img src = '{{ (printf "/events/%s/speakers/%s" $e.name .) }}' class="speakers-page" alt="{{ $.Title }}"/><br />
