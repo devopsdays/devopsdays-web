@@ -10,8 +10,8 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2024-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2024-12-07T08:00:00-03:00
+enddate:  2024-12-07T18:00:00-03:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  2024-10-07T00:00:00-03:00
@@ -24,7 +24,7 @@ registration_date_start: # start accepting registration. Leave blank if registra
 registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://dodssa2024.eventize.com.br/index.php?pagina=4" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -32,7 +32,7 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 location: "Salvador" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
+location_address: "Avenida Luís Viana Filho, 3100 - 3146 Pituaçu - Imbuí, Salvador - BA, 41720-200" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
