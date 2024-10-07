@@ -1,6 +1,6 @@
 +++
 City = "Eindhoven"
-Year = "2023"
+Year = "2025"
 Title = "Location"
 Type = "event"
 Description = "Location for devopsdays Eindhoven 2025"
