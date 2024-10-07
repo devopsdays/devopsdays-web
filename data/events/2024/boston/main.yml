@@ -102,13 +102,15 @@ sponsors:
   - id: observe
     level: platinum
   - id: oodleai
-    level: platinum
+    level: startupalley
   - id: scaleops
     level: platinum
   - id: observe
     level: snacks
   - id: atomiccoffeeroasters
     level: coffee
+  - id: dryrun-security
+    level: startupalley
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

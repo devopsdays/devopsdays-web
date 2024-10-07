@@ -6,7 +6,7 @@ talk_start_time: ""
 talk_end_time: ""
 speakers:
   - dirk-lehmann
-
+Youtube: "jSVNAi0oEcg"
 ---
 
 SAP has ~30.000 people working in it's development organization, with >1000 products on their price list using various technology stacks. How to increase developer productivity at this scale?
