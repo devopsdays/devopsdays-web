@@ -32,7 +32,7 @@ registration_link: "https://dodssa2024.eventize.com.br/index.php?pagina=4" # If 
 
 location: "Salvador" # Defaults to city, but you can make it the venue name.
 #
-location_address: "Avenida Luís Viana Filho, 3100 - 3146 Pituaçu - Imbuí, Salvador - BA, 41720-200" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
+
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
