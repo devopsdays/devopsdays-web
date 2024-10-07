@@ -115,7 +115,7 @@ Description = "devopsdays Eindhoven 2025 will take place October 2nd and 3rd, 20
       <br><br>
       devopsdays Eindhoven brings development, operations, QA, InfoSec, management, and leadership together to discuss the culture and tools to make better organizations and products. 
       <br><br>
-      We expect 250 people this year and will be holding the event on October 11-12, 2023 at the <a href="/events/2023-Eindhoven/location">High Tech Campus Eindhoven</a>. Attendees will be required to follow local government policies & mandates regarding vaccination status & ability to attend.
+      We expect 250 people this year and will be holding the event on October 2-3, 2025 at the <a href="/events/2025-Eindhoven/location">High Tech Campus Eindhoven</a>. Attendees will be required to follow local government policies & mandates regarding vaccination status & ability to attend.
       <br><br>
       The format of devopsdays Eindhoven includes a single track of 30 minute talks in the morning of each event, followed by Ignite talks (5 minute, auto forwarding). We spend the rest of the afternoon in Open Spaces, which are considered a key portion of the event. For those not interested in the Open Spaces, we continue offering the single track around a specific theme (previously around Security and HumanOps).
     </div>
