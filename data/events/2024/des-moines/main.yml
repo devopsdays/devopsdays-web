@@ -112,6 +112,8 @@ sponsors:
     level: gold
   - id: gitguardian
     level: community
+  - id: ellofant
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
