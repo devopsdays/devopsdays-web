@@ -1,7 +1,6 @@
 theme: devopsdays-theme
 baseURL: https://www.devopsdays.org/
 languageCode: en-us
-GoogleAnalytics: UA-9713393-1
 title: DevOpsDays
 buildDrafts: false
 canonifyURLs: false
@@ -119,3 +118,7 @@ caches:
   images:
     dir: ":resourceDir/_gen"
     maxAge: -1
+
+services:
+  googleanalytics:
+      ID: UA-9713393-1
