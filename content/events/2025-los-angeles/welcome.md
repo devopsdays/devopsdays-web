@@ -5,6 +5,12 @@ aliases = ["/events/2025-los-angeles/"]
 Description = "DevOpsDays Los Angeles 2025"
 +++
 <br>
+
+<center>
+  <h2><a href="https://www.socallinuxexpo.org/scale/22x/cfp" style="font-size: 1.5em; padding: 5 10px;text-decoration: none; border-radius: 5px;">&gt;&gt;&gt; Submit your proposal here &lt;&lt;&lt;</a></h2>
+</center>
+<br>
+
 <div class = "row" id = "main-row">
   <div class = "col-md-6 push-md-8" id = "left-col">
     <h3>What is DevOpsDaysLA?</h3>
@@ -35,6 +41,15 @@ Description = "DevOpsDays Los Angeles 2025"
   </div>
   <div class = "col-md-8">
     {{< event_start >}} - {{< event_end >}}
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Propose</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
 </div>
 
