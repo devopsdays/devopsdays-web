@@ -26,7 +26,7 @@ Description = "devopsdays Eindhoven 2025 will take place October 2nd and 3rd, 20
     {{< event_location >}}
   </div>
 </div>
-
+<!-- 
 <div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
@@ -34,7 +34,7 @@ Description = "devopsdays Eindhoven 2025 will take place October 2nd and 3rd, 20
   <div class = "col-md-8">
     {{< event_link page="registration" text="Register to attend the conference!" >}}
   </div>
-</div>
+</div> -->
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -45,23 +45,23 @@ Description = "devopsdays Eindhoven 2025 will take place October 2nd and 3rd, 20
   </div>
 </div> -->
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
     View the {{< event_link page="program" text="program." >}}
   </div>
-</div>
+</div> -->
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
-</div>
+</div> -->
 
 <div class = "row">
   <div class = "col-md-2">
