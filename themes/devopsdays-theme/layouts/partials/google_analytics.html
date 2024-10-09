@@ -1,7 +1,7 @@
 <!-- Google Analytics -->
 <script>
 window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-ga('create', '{{ $.Site.GoogleAnalytics }}', 'auto');
+ga('create', '{{ $.Site.Config.Services.GoogleAnalytics.ID }}', 'auto');
 ga('send', 'pageview');
 {{ if or (eq .Type "welcome") (eq .Type "event") (eq .Type "speaker") (eq .Type "speakers") (eq .Type "talk") (eq .Type "program")}}
   {{- $e := partial "functions/get-event-data" . -}}
