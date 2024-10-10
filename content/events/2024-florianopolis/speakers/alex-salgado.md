@@ -1,11 +1,11 @@
 +++
-Title = "João Brito"
-Linkedin = "https://www.linkedin.com/in/ruan-carlos-gon%C3%A7alves-47609412a/"
+Title = "Alex Salgado"
+Linkedin = "https://www.linkedin.com/in/alex-salgado/"
 Website = ""
-Twitter = ""
-image = "joao-brito.jpg"
+Twitter = "http://twitter.com/alexsalgadoprof"
+image = "alex-salgado.jpeg"
 type = "speaker"
-linktitle = "joao-brito"
+linktitle = "alex-salgado"
 +++
 
-CTO na Getup, seu host favorito do Kubicast, um sysadmin de formação, mas acima de tudo em formação. Atuou em grandes empresas com hosting e monitoração de sistemas críticos, mas encontrou nas startups o encaixe perfeito para crescer e se realizar profissionalmente. Na Getup desde 2016 é o palestrinha de Kubernetes. Alcançou um novo patamar profissional, onde integra e entrega o que há de melhor e mais ágil em infraestrutura, impactando colegas e o setor de TI.
+Alex Salgado é Developer Advocate na Elastic, com 25+ anos em desenvolvimento de software em grandes empresas e startups, além de 9 anos como professor universitário. Atualmente, cursa o doutorado em robótica para veleiro autônomo, explorando visão computacional com IA.
