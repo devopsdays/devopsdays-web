@@ -116,3 +116,11 @@ sponsor_levels:
   - id: coffee
     label: Coffee Break
   - id: community
+
+sponsors:
+  - id: kubecareers
+    level: media
+    url: https://kube.careers/
+  - id: kubeevents
+    level: media
+    url: https://kube.events/
