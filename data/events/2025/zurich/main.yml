@@ -137,6 +137,8 @@ organizer_email: "zurich@devopsdays.org" # Put your organizer email address here
 sponsors:
 - id: businessmap
   level: partner
+- id: hostpoint
+  level: partner
 - id: digicomp
   level: partner
 - id: powercoders
@@ -147,10 +149,17 @@ sponsors:
   level: community
 - id: girlscodetoo
   level: community
-- id: hostpoint
-  level: partner
+- id: infomaniak
+  level: gold
+- id: vshn
+  level: gold
+- id: infometis 
+  level: silver
+- id: zkb 
+  level: silver
 - id: cloudscalech
   level: event
+
 
 sponsors_accepted: "no" # Whether you want "Become a XXX Sponsor!" link
 

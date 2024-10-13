@@ -102,7 +102,7 @@ organizer_email: "geneva@devopsdays.org" # Put your organizer email address here
 sponsors:
   - id: veeam
     level: silver
-  - id: infomaniak
+  - id: infomaniak-before-20241013
     level: gold
   - id: hidora
     level: gold
