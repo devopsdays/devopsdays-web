@@ -127,11 +127,9 @@ a.jssocials-share-link, a.event-cta-button {
 
 <br><br>
 <p></p>
-<!-- <p><a href="https://talks.devopsdays.org/devopsdays-jo-o-pessoa-2024/cfp" target="_blank"><button type="button">ENVIE SUA PALESTRA</button></a></p> -->
-<p><a href="" onclick="alert('EM BREVE!'); return false"><button>ENVIE SUA PALESTRA</button></a></p>
+<p><a href="https://talks.devopsdays.org/devopsdays-natal-2024/cfp" target="_blank"><button>ENVIE SUA PALESTRA</button></a></p>
 <p><a href="" onclick="alert('EM BREVE!'); return false"><button>INSCREVA-SE</button></a></p>
-<!-- <p><a href="../sponsor/"><button>SEJA UM SPONSOR</button></a></p> -->
-<p><a href="" onclick="alert('EM BREVE!'); return false"><button>SEJA UM SPONSOR</button></a></p>
+<p><a href="../sponsor/"><button>SEJA UM SPONSOR</button></a></p>
 <p><a href="/events/2024-natal/contact/"><button>CONTATO</button></a></p>
 <p><a href="https://www.google.com/maps/place/Av.+Lima+e+Silva,+76+-+Lagoa+Nova,+Natal+-+RN,+59062-300/@-5.8249496,-35.214159,17z/data=!3m1!4b1!4m6!3m5!1s0x7b2ff8ba9b2634f:0x60f17ef1283a13a2!8m2!3d-5.8249496!4d-35.2115841!16s%2Fg%2F11b8v5zz50?entry=ttu" target="_blank"><button type="button">LOCALIZAÇÃO</button></a></p>
 </div>
