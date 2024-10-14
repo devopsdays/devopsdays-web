@@ -15,6 +15,8 @@ masthead_background: "background.png"
 startdate: 2024-09-26T00:00:00+01:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
 enddate: 2024-09-27T00:00:00+01:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
+timezone: "Europe/London"
+
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2023-09-22T00:00:00+01:00 # start accepting talk proposals.
 cfp_date_end: 2024-05-24T23:59:59+01:00 # close your call for proposals.
@@ -36,13 +38,13 @@ location: "London" # Defaults to city, but you can make it the venue name.
 location_address: "QEII Centre, Broad Sanctuary, Westminster"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: registration
+  # - name: registration
   # - name: propose
   - name: program
   - name: speakers
   - name: location
   - name: accessibility
-  - name: sponsor
+  # - name: sponsor
   - name: contact
   - name: conduct
 #  - name: subscribe
@@ -109,6 +111,8 @@ organizer_email: "london@devopsdays.org" # Put your organizer email address here
 sponsors:
   # platinum sponsors
   # gold sponsors
+  - id: chef
+    level: gold
   - id: cloudsmith
     level: gold
   - id: contrast_security
@@ -119,23 +123,51 @@ sponsors:
     level: gold
   - id: heroku
     level: gold
+  - id: puppet
+    level: gold
+  - id: redhat
+    level: gold
+  - id: site24x7
+    level: gold
   # silver sponsors
   - id: devex-connect
+    level: silver
+  - id: checkly
+    level: silver
+  - id: checkmarx
+    level: silver
+  - id: chainguard
     level: silver
   - id: honeycomb
     level: silver
   - id: macstadium
     level: silver
-  - id: venafi
+  - id: quesma
+    level: silver
+  - id: riversafe
+    level: silver
+  - id: scaleops
+    level: silver
+  - id: venafi-jetstack-consult
     level: silver
   # bronze sponsors
+  - id: ai4ru
+    level: bronze
   - id: commify
+    level: bronze
+  - id: clearbank
     level: bronze
   - id: dxw
     level: bronze
   - id: github
     level: bronze
+  - id: gitlab
+    level: bronze
+  - id: googlecloud
+    level: bronze
   - id: oxa
+    level: bronze
+  - id: plandek
     level: bronze
   - id: syntasso
     level: bronze
@@ -250,19 +282,13 @@ program:
     start_time: "16:15"
     end_time: "17:00"
 
-  - title: "Day 1 Closing Remarks & Sponsor Raffle Giveaways"
-    type: custom
-    date: 2024-09-26T00:00:00+01:00
-    start_time: "17:00"
-    end_time: "17:10"
-
   - title: "Drinks Reception in the Sponsor Hall"
     type: custom
     date: 2024-09-26T00:00:00+01:00
-    start_time: "17:10"
+    start_time: "17:00"
     end_time: "18:10"
 
-  - title: "Evening event to be announced"
+  - title: "Evening event at local venue, announced during Keynote"
     type: custom
     date: 2024-09-26T00:00:00+01:00
     start_time: "18:30"
@@ -367,10 +393,10 @@ ignites:
     date: 2024-09-26T00:00:00+01:00
   - title: "james-wynne"
     date: 2024-09-26T00:00:00+01:00
+  - title: "john-willis"
+    date: 2024-09-26T00:00:00+01:00
   # Day two
   - title: "olakunle-abiola"
-    date: 2024-09-27T23:59:59+01:00
-  - title: "emily-harrison"
     date: 2024-09-27T23:59:59+01:00
   - title: "lorenzo-turrino"
     date: 2024-09-27T23:59:59+01:00
@@ -380,4 +406,5 @@ ignites:
     date: 2024-09-27T23:59:59+01:00
   - title: "anais-urlichs"
     date: 2024-09-27T23:59:59+01:00
-
+  - title: "hannah-foxwell"
+    date: 2024-09-27T23:59:59+01:00

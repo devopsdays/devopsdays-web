@@ -12,3 +12,5 @@ Dans le paysage en constante évolution des plateformes cloud-native, la respons
 Cette présentation discutera comment tout cela peut être réalisé avec les technologies existantes faisant partie du CNCF, et l’écart actuel observé dans l’écosystème Kubernetes. Nous détaillerons également certains scénarios réels où ceci est appliqué.
 
 Rejoignez le mouvement de la durabilité !
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Pgql-pug-CI?si=HAdQQQU1cWrkYjBa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

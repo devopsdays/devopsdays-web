@@ -6,7 +6,7 @@ talk_start_time: ""
 talk_end_time: ""
 speakers:
   - sasha-czarkwoski-(rosenbaum)
-
+Youtube: "N1-4HbjL44k"
 ---
 
 In todays tech environment, both people and organizations must continuously learn and adapt to be successful. Yet study after study shows that learning is difficult for most organizations.

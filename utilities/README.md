@@ -20,7 +20,8 @@ Use [add_new_event.sh](add_new_event.sh) to add a new event. This is year-specif
 1. The script will create a data file for your event in `data/events/yyyy-city.yml`. This is where you will configure many of your updates and customizations. In particular, you need to list your local organizer team here.
 1. The script will populate your event directory in `content/events/yyyy-city` with default content. You should edit it as desired.
 1. The script will add or update your entry in `static/_redirects`. This allows you to use the url `https://devopsdays.org/city-name` to point to your current-year event.
-1. Once you have created a logo graphic, place it in `static/events/yyyy-city/logo.png`. (The file MUST be called `logo.png`.) The sample welcome page has a commented-out element to display a logo named in this way. For front-page use, you also need a square version in `static/events/yyyy-city/logo-square.jpg`.
+1. Once you have created a logo graphic, place it in `assets/events/yyyy-city/logo.png`. (The file MUST be called `logo.png`.) The sample welcome page has a commented-out element to display a logo named in this way.
+1. The image used for your event on the front page of the site will be the image located in `assets/events/yyyy-city/logo.png`, which will be cropped automatically cropped to square. If you want to override this, you can place a square image in `assets/events/yyyy-city/logo-square.png`.
 
 ## Google Analytics
 
@@ -30,7 +31,7 @@ If you have set up a Google Analytics v4 or newer account for tracking your spec
 
 ### Event Square Logo
 
-To customize the logo that appears on the root of devopsdays.org, place a square file (jpg format only) in `static/events/yyyy-city`. It must be named `logo-square.jpg` and should be at minimum 300px x 300px, but optimally should be 600px x 600px. Note that in the preview (without gulp processing), non-square files will appear to be okay. However, once processed for production, they will be stretched to be square.
+To customize the logo that appears on the root of devopsdays.org, place a square file (jpg format only) in `assets/events/yyyy-city`. It must be named `logo-square.jpg` and should be at minimum 300px x 300px, but optimally should be 600px x 600px. Note that in the preview (without gulp processing), non-square files will appear to be okay. However, once processed for production, they will be stretched to be square.
 
 ### Reference Content
 
@@ -94,7 +95,7 @@ See [Pivotal logo update](https://github.com/devopsdays/devopsdays-web/pull/6501
 Use [add_sponsors.sh](add_sponsors.sh) to easily add new sponsors. (Only do this if the sponsor doesn't already exist.)
 
 1. Sponsors need a file in the data directory, as such: `data/sponsors/sponsorname.yml`. Before creating a new one, look to see if there is an old one, possibly with a date prepended. If it has the right URL and logo, you should use it instead of creating a new one.
-1. Put the images for your sponsors in the `static/img/sponsors` directory. They need to be PNG files and named exactly after the name of the sponsor in your event file (and the corresponding sponsor data file), i.e., `static/img/sponsors/sponsorname.png`.
+1. Put the images for your sponsors in the `assets/sponsors/FIRST_INITIAL/` directory. They need to be PNG files and named exactly after the name of the sponsor in your event file (and the corresponding sponsor data file), i.e., `assets/sponsors/s/sponsorname.png`.
 1. Add the new sponsor to your event's datafile with the appropriate level.
 
 See [contrib/make_sponsors.rb](make_sponsors.rb) for another option.
@@ -115,7 +116,7 @@ All logos will be resized at release time, to 200px wide. Versions for high-dens
 
 See the example local organizer team members listed in the generated data file found in `data/events/201?-yourcity.yml`. To generate the  `team_members: ` section you can use [add_organizers.sh](add_organizers.sh).
 
-The organizer photo must be in JPG format, and should be a minimum 300px x 300px, but optimally 600px x 600px. These images should be placed in the `static/events/yyyy-city/organizers` directory (which the `add_organizers.sh` script will do).
+The organizer photo must be in JPG format, and should be a minimum 300px x 300px, but optimally 600px x 600px. These images should be placed in the `assets/events/yyyy-city/organizers` directory (which the `add_organizers.sh` script will do).
 
 Any PRs adding a new local organizer will need to be accompanied by an email to `info@devopsdays.org` with their full name and email address. We merge the PR at the same time as adding them to email lists and Slack, so if you aren't ready to send that email, merging your PR will be delayed until we have that info.
 

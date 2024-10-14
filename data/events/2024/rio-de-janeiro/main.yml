@@ -13,6 +13,9 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 startdate: 2024-08-24T09:00:00-03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
 enddate: 2024-08-24T18:00:00-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
+timezone: "America/Sao_Paulo"
+timeoffset: "-0300"
+
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2024-04-22T00:00:00-03:00 # start accepting talk proposals.
 cfp_date_end: 2024-05-26T00:00:00-03:00 # close your call for proposals.
@@ -81,18 +84,9 @@ team_members: # Name is the only required field for team members.
 
   - name: "Pedro Amaral Moreira"
     employer: "PagoNxt Merchant Solutions"
-    twitter: "predotaku"
     github: "pedroamaralm"
     linkedin: "https://www.linkedin.com/in/pedro-amaral-moreira/"
     image: "pedro-amorin.jpg"
-
-  - name: "Giovanni Martins"
-    employer: "Conviso Application Security"
-    twitter: "giovannistultus"
-    github: "giovannism20"
-    linkedin: "Giovanni Martins"
-    website: "https://giovannimartins.dev/"
-    image: "giovanni-martinss.jpg"
 
   - name: "Carol Pinheiro"
     employer: "Digisystem"
@@ -111,13 +105,6 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/cardosocrica/"
     website: "https://www.instagram.com/fluxxoramadesign?igsh=MTBpZDFrbXJpcDcwZQ=="
     image: "cris-cardoso.jpg"
-
-  - name: "Paloma Lataliza"
-    employer: "Claro Brasil"
-    twitter: "shescloud_"
-    linkedin: "https://www.linkedin.com/in/palomalataliza/"
-    website: "https://www.shescloud.me/"
-    image: "paloma-lataliza.jpg"
 
 organizer_email: "contato@devopsdays.rio.br" # Put your organizer email address here
 
@@ -154,6 +141,12 @@ sponsors:
     level: bronze
 
   - id: veecode
+    level: bronze
+
+  - id: grafana
+    level: bronze
+
+  - id: microsoft
     level: bronze
 
   #Community
@@ -278,7 +271,7 @@ program:
     start_time: "14:45"
     end_time: "15:15"
 
-  - title: "bernardo-gomes-lankheet"
+  - title: "daniel-silva"
     type: talk
     date: 2024-08-24
     start_time: "15:15"
@@ -297,8 +290,8 @@ program:
     start_time: "16:15"
     end_time: "16:45"
 
-  - title: "TBA"
-    type: custom
+  - title: "andre-fernandes"
+    type: talk
     date: 2024-08-24
     start_time: "16:45"
     end_time: "17:00"
@@ -331,3 +324,9 @@ program:
     date: 2024-08-24
     start_time: "18:00"
     end_time: "18:30"
+
+  - title: "Assembléia DevOpsDays Brasil - Pontapé inicial"
+    type: custom
+    date: 2024-08-24
+    start_time: "19:00"
+    end_time: "20:00"

@@ -98,17 +98,17 @@ string_replace "ABSTRACT" "${abstract}" "${talkfile}"
 #
 
 # if speaker image is already in expected location
-if [[ -f "../static/events/$event_slug/speakers/$speaker_slug.png" ]] ; then
+if [[ -f "../assets/events/$event_slug/speakers/$speaker_slug.png" ]] ; then
   string_replace "image = \"\"" "image = \"${speaker_slug}.png\"" "${speakerfile}"
   echo "found ${speaker_slug}.png, using"
 else
   read -p "Enter path to speaker image PNG: " speakerimage
   if [[ -n "${speakerimage}" ]] && [[ -f "${speakerimage}" ]] ; then
-    cp -v "${speakerimage}" "../static/events/${event_slug}/speakers/${speaker_slug}.png"
+    cp -v "${speakerimage}" "../assets/events/${event_slug}/speakers/${speaker_slug}.png"
     string_replace "image = \"\"" "image = \"${speaker_slug}.png\"" "${speakerfile}"
   else
     echo "no image used.   If desired:
-      1. Copy PNG into ../static/events/${event_slug}/speakers/${speaker_slug}.png
+      1. Copy PNG into ../assets/events/${event_slug}/speakers/${speaker_slug}.png
       2. update ${speakerfile}, changing image = \"${speaker_slug}.png\"
       before creating your Pull Request.
       "

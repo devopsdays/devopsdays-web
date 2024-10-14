@@ -10,5 +10,6 @@ The <a href="https://cybercity.lt/">Cyber City </a> will host devopsdays Vilnius
 Cyber City #B <br>
 [Švitrigailos g. 34, 03230 Vilnius](https://maps.app.goo.gl/zANxN8vqw84m8Z5t8)
 
+<p><img alt="Cyber city event space" src="/events/2024-vilnius/cybercity.png" class="img-fluid logo"></p>
 
-{{< event_map >}}
+<p>{{< event_map >}}</p>

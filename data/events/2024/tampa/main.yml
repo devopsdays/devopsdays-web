@@ -40,7 +40,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: location
     icon: "map-o"
     url: /events/2024-tampa/location
-  - name: propose
+#  - name: propose
   - name: registration
   - name: program
   - name: speakers
@@ -130,8 +130,18 @@ sponsors:
     level: community
   - id: womeninlinux
     level: community
-  
-
+  - id: observe
+    level: diamond
+  - id: gitlab
+    level: platinum
+  - id: axiom
+    level: platinum
+  - id: codiac
+    level: diamond
+  - id: flox
+    level: platinum
+  - id: tampabaytechies
+    level: community
  
 #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 # - id: arresteddevops

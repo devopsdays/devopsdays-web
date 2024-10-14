@@ -224,7 +224,7 @@ sponsors:
     level: gold
   - id: newrelic-before-20220808
     level: gold 
-  - id: heroku
+  - id: heroku-before-20240808
     level: bronze
   - id: mavenwave
     level: gold 

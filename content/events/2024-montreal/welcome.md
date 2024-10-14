@@ -98,9 +98,24 @@ a.jssocials-share-link, a.event-cta-button {
 
 <div class="sidebar">
 
+
 **English** (Français suive)
 
 <p>
+🎉 DevOpsDays Montréal 2024: A Recap! 🎉
+
+Thank you to everyone who participated in DevOpsDays Montréal 2024! 🙌 The event took place on May 27th and 28th at the Centre Mont-Royal, and it was an incredible gathering of professionals from across the industry. Whether you’re a developer, sysadmin, tester, or product manager, there was something for everyone.
+
+📺 Relive the Experience: Did you miss any sessions or want to revisit the inspiring talks? Good news! You can catch all the action on our YouTube channel. From thought-provoking keynotes to practical workshops, there’s a wealth of knowledge waiting for you. 
+https://www.youtube.com/playlist?list=PL2tIJL4fCPDMuNt5F7IQTAykCHHAPCnJT
+
+Remember, DevOps isn’t just about tools and processes—it’s about community, learning, and growth. Let’s continue building a vibrant DevOps community in Montreal! 🚀
+
+Stay tuned for updates on future events, and thank you for being part of DevOpsDays Montréal 2024! 🎊
+</p>
+
+
+<!-- <p>
 DevOpsDays is a series of technical conferences focused on the topics of software development, IT infrastructure operations, and the intersection between them. Our events bring together professionals from across the industry to discuss the latest trends, best practices, and challenges facing the DevOps community.
 </p>
 <p>
@@ -114,11 +129,22 @@ You'll have the chance to learn from experts in the field, share your own experi
 </p>
 <p>
 Whether you're a seasoned veteran or just starting to explore the world of DevOps, there's a place for you at DevOpsDays Montreal. Thanks for your interest, and we look forward to seeing you on May 27th and 28th!
-</p>
+</p> -->
 
 **Français**
 
-<p>
+🎉 DevOpsDays Montréal 2024 : Un Résumé ! 🎉
+
+Un immense merci à tous ceux qui ont participé à DevOpsDays Montréal 2024 ! 🙌 L’événement s’est déroulé les 27 et 28 mai au Centre Mont-Royal, et ce fut une rencontre incroyable de professionnels venus de tous les horizons. Que vous soyez développeur, administrateur système, testeur ou chef de produit, il y avait quelque chose pour chacun.
+
+📺 Revivez l’Expérience : Vous avez manqué des sessions ou souhaitez revoir les conférences inspirantes ? Bonne nouvelle ! Vous pouvez retrouver toute l’action sur notre chaîne YouTube. Des discours captivants aux ateliers pratiques, il y a une mine de connaissances qui vous attend. 
+https://www.youtube.com/playlist?list=PL2tIJL4fCPDMuNt5F7IQTAykCHHAPCnJT
+
+Rappelez-vous, DevOps ne se résume pas qu’à des outils et des processus, c’est aussi une communauté, un apprentissage et une croissance. Continuons à construire une communauté DevOps dynamique à Montréal ! 🚀
+
+Restez à l’affût des prochains événements, et merci d’avoir fait partie de DevOpsDays Montréal 2024 ! 🎊
+
+<!-- <p>
 DevOpsDays Montréal est une série de conférences axées sur le développement logiciel, les opérations d’infrastructure informatique, et la synergie entre les deux. Nos événements rassemblent des professionnels de toute l’industrie pour discuter des dernières tendances, des meilleures pratiques et des défis auxquels la communauté DevOps est confrontée. 
 </p>
 <p>
@@ -132,7 +158,7 @@ Vous aurez l’occasion d’apprendre des experts du domaine, de partager vos pr
 </p>
 <p>
 Que vous soyez un vétéran aguerri ou que vous commenciez tout juste à explorer le monde du DevOps, il y a une place pour vous aux DevOpsDays Montréal. Merci de votre intérêt, et nous avons hâte de vous voir les 27 et 28 mai prochains!
-</p>
+</p> -->
 
 </div>
 </div>

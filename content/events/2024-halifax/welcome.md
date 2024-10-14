@@ -82,10 +82,11 @@ Description = "DevOpsDays Halifax 2024"
       {{< event_logo >}}
     </div>
     <div class="text">
-      <p>DevOpsDays Halifax is bringing DevOpsDays to the Atlantic Canada for the first time! Our CfP is now closed and we just announced our <a href="https://talks.devopsdays.org/devopsdays-halifax-2024/speaker/">three amazing keynote speakers</a>. Check out the <a href="https://tickets.devopsdays.org/devopsdays-halifax/2024/">registration page</a> to purchase your ticket.</p>
-      <p>Our event will feature a variety of presentations, discussions, and networking opportunities, all centered around the themes of collaboration, automation, measurement, and sharing.</p>
-      <p>You'll have the chance to learn from experts in the field, share your own experiences, and connect with like-minded professionals from around the region. We hope you'll join us for this exciting event and help us build a stronger, more vibrant DevOps community in Halifax.</p>
+      <p>DevOpsDays Halifax is bringing DevOpsDays to Atlantic Canada for the first time! Our CfP is now closed and we just announced our <a href="https://talks.devopsdays.org/devopsdays-halifax-2024/speaker/">amazing speakers</a>. Check out the <a href="https://tickets.devopsdays.org/devopsdays-halifax/2024/">registration page</a> to purchase your ticket.</p>
+      <p>DevOpsDays Halifax, taking place on August 21 and 22, 2024, at the Scotiabank Lecture Hall, is set to be a landmark event in the region's tech landscape. With a range of topics from software development and DevOps to machine learning and community management, the conference promises insightful presentations, engaging discussions, and valuable networking opportunities.</p>
+      <p>Don't miss sessions on cutting-edge topics such as Cloud Native, Serverless Computing, Artificial Intelligence, and more, presented by industry experts. The event will also feature Open Spaces, allowing for in-depth discussions and personalized learning experiences.</p>
       <p>Whether you're a seasoned veteran or just starting to explore the world of DevOps, there's a place for you at DevOpsDays Halifax. Thanks for your interest, and we look forward to seeing you!</p>
+      <p>By attending this event, you agree to the <a href="/devopsdays-halifax-2024/code-of-conduct">DevOpsDays Halifax Code of Conduct</a>.</p>
     </div>
   </div>
   <div class="buttons">
@@ -95,6 +96,7 @@ Description = "DevOpsDays Halifax 2024"
     <a href="https://talks.devopsdays.org/devopsdays-halifax-2024/speaker/"><button>Check Out Our Speakers</button></a>
     <a href="../workshop/"><button>Preconference Workshop</button></a> 
     <a href="../sponsor/"><button>Become a Sponsor</button></a>
+    <a href="../conduct/"><button>Code of Conduct</button></a>
     <a href="../contact/"><button>Contact Us</button></a>
   </div>
 </div>

@@ -4,7 +4,7 @@ on: [pull_request]
 
 env:
   NODE_VERSION: 16
-  HUGO_VERSION: 0.123.3
+  HUGO_VERSION: 0.126.1
 
 jobs:
   lint:
@@ -33,24 +33,13 @@ jobs:
           fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
 
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
+        uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: ${{ env.HUGO_VERSION }}
-          # extended: true
+          extended: true
 
       - name: Build Hugo
-        run: hugo -v
-
-      - uses: actions/setup-node@v3
-        name: Setup Node
-        with:
-          node-version: ${{ env.NODE_VERSION }}
-
-      - run: npm ci
-        name: Run npm ci
-
-      - name: Test through minifying
-        run: gulp min-html
+        run: hugo --environment=production --minify --templateMetrics --logLevel info
 
   # test-windows:
   #   needs: lint

@@ -33,6 +33,7 @@ echo "Adding new sponsors; use CTRL+C to stop..."
 # Gather info
 read -p "Enter sponsor name: " sponsorname
 sponsor_slug=$(echo $sponsorname | tr '-' ' ' | tr -dc '[:alnum:][:blank:]' | tr '[:upper:]' '[:lower:]'| tr 'āáǎàãâēéěèīíǐìōóǒòöūúǔùǖǘǚǜü' 'aaaaaaeeeeiiiiooooouuuuuuuuu' | tr ' ' '-')
+sponsor_initial=$(echo "${sponsor_slug}" | cut -c 1)
 
 # set default sponsor yaml file
 sponsorfile="../data/sponsors/$sponsor_slug.yml"
@@ -67,9 +68,12 @@ fi
 # Set logo
 
 if [ $logo ]; then
-  cp "$logo" ../static/img/sponsors/$sponsor_slug.png
+  if [ ! -d ../assets/sponsors/$sponsor_initial/]; then
+    mkdir -p ../assets/sponsors/$sponsor_initial/
+  fi
+  cp "$logo" ../assets/sponsors/$sponsor_initial/$sponsor_slug.png
 else
-  echo "Set the sponsor logo at ../static/img/sponsors/$sponsor_slug.png before submitting PR."
+  echo "Set the sponsor logo at ../assets/sponsors/$sponsor_initial/$sponsor_slug.png before submitting PR."
 fi
 
 echo "Add this to ../data/events/"$year"/"$city_slug"/main.yml under sponsors:"

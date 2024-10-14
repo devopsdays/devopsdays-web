@@ -90,26 +90,32 @@ sharing_image: "sharing_logo.png"
 sponsors:
   - id: fetch
     level: host
-  - id: nibuild
-    level: silver
-  - id: lynker
-    level: bronze
-  - id: portworx
+  - id: assessivate
     level: silver
   - id: fleetio
     level: silver
-  - id: assessivate
+  - id: nibuild
+    level: silver
+  - id: portworx
     level: silver
   - id: sparkhound
     level: silver
-  - id: itac-solutions
+  - id: tailscale
+    level: silver
+  - id: crystaldb
     level: bronze
   - id: digital-motion
     level: bronze
+  - id: itac-solutions
+    level: bronze
+  - id: lynker
+    level: bronze
   - id: birmingham-area-software-enthusiasts
     level: community
-  # - id: tailscale
-  #   level: silver
+  - id: birmingham-women-in-tech
+    level: community
+  - id: 4me
+    level: drinks
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -121,17 +127,15 @@ sponsor_levels:
   - id: host
     label: Host
     max: 2
-  - id: gold
-    label: Gold
-    max: 4
   - id: silver
     label: Silver
-    max: 6
   - id: bronze
     label: Bronze
-    max: 8
   - id: community
     label: Community
+  - id: drinks
+    max: 1
+    label: Drinks
 
 program:
  #workshop day
@@ -146,43 +150,52 @@ program:
     date: 2024-08-19
     start_time: "09:00"
     end_time: "12:00"
-  - title: "Lunch Break"
+  - title: "Lunch Break - Pizza (GF/Vegan Options) is included"
     type: custom
     date: 2024-08-19
     start_time: "12:00"
-    end_time: "12:30"
-  - title: "john-willis"
-    type: talk
-    background_color: "#8ad0d3"
-    date: 2024-08-19
-    start_time: "12:30"
-    end_time: "13:30"
+    end_time: "13:00"
   - title: "aleksandra-lemańska-workshop"
     type: talk
     background_color: "#8ad0d3"
     date: 2024-08-19
-    start_time: "13:30"
-    end_time: "14:30"
+    start_time: "13:00"
+    end_time: "13:55"
+  - title: "break"
+    type: custom
+    date: 2024-08-19
+    start_time: "13:55"
+    end_time: "14:00"
   - title: "sundaresh-r-iyer"
     type: talk
     background_color: "#8ad0d3"
     date: 2024-08-19
-    start_time: "14:30"
-    end_time: "15:30"
+    start_time: "14:00"
+    end_time: "14:55"
+  - title: "break"
+    type: custom
+    date: 2024-08-19
+    start_time: "14:55"
+    end_time: "15:00"
   - title: "matt-meyer"
     type: talk
     background_color: "#8ad0d3"
     date: 2024-08-19
-    start_time: "15:30"
-    end_time: "16:30"
+    start_time: "15:00"
+    end_time: "15:55"
+  - title: "break"
+    type: custom
+    date: 2024-08-19
+    start_time: "15:55"
+    end_time: "16:00"
   - title: "steve-hallman"
     type: talk
     background_color: "#8ad0d3"
     date: 2024-08-19
-    start_time: "16:30"
-    end_time: "17:30"
+    start_time: "16:00"
+    end_time: "17:00"
 
-  - title: "Registration, Visit Sponsors"
+  - title: "Registration, Visit Sponsors, ☕️ bar opens"
     type: custom
     date: 2024-08-20
     start_time: "08:00"
@@ -228,7 +241,7 @@ program:
     date: 2024-08-20
     start_time: "11:25"
     end_time: "11:55"
-  - title: "Lunch - Education Lobby"
+  - title: "Lunch Break - Catered Lunch Included"
     type: custom
     date: 2024-08-20
     start_time: "11:55"
@@ -273,18 +286,13 @@ program:
     date: 2024-08-20
     start_time: "16:30"
     end_time: "17:00"
-  - title: "Open Spaces #4"
-    type: "open-space"
-    date: 2024-08-20
-    start_time: "17:00"
-    end_time: "17:30"
   - title: "Mixing and Socializing"
     type: custom
     date: 2024-08-20
-    start_time: "17:30"
+    start_time: "17:00"
     end_time: "18:00"
 
-  - title: "Registration, Visit Sponsors"
+  - title: "Registration, Visit Sponsors, ☕️ bar opens"
     type: custom
     date: 2024-08-21
     start_time: "08:00"
@@ -310,7 +318,7 @@ program:
     date: 2024-08-21
     start_time: "09:55"
     end_time: "10:15"
-  - title: "michel-schildmeijer"
+  - title: "will-blackburn"
     type: talk
     date: 2024-08-21
     start_time: "10:15"
@@ -330,17 +338,17 @@ program:
     date: 2024-08-21
     start_time: "11:25"
     end_time: "11:55"
-  - title: "Lunch - Education Lobby"
+  - title: "Lunch Break - Catered Lunch Included"
     type: custom
     date: 2024-08-21
     start_time: "11:55"
     end_time: "13:00"
-  - title: "talk here"
+  - title: "steve-hallman-talk"
     type: talk
     date: 2024-08-21
     start_time: "13:00"
     end_time: "13:30"
-  - title: "talk here"
+  - title: "seth-hollingsead"
     type: talk
     date: 2024-08-21
     start_time: "13:30"
@@ -375,20 +383,15 @@ program:
     date: 2024-08-21
     start_time: "16:15"
     end_time: "16:45"
-  - title: "Open Spaces #4"
-    type: "open-space"
-    date: 2024-08-21
-    start_time: "16:45"
-    end_time: "17:15"
-  - title: "Main Stage Closing Remarks"
+  - title: "Main Stage Closing Remarks and Raffle Drawings"
     type: custom
     date: 2024-08-21
-    start_time: "17:15"
-    end_time: "17:30"
+    start_time: "16:45"
+    end_time: "17:00"
   - title: "Mixing and Socializing"
     type: custom
     date: 2024-08-21
-    start_time: "17:30"
+    start_time: "17:00"
     end_time: "18:00"
 ignites:
   - title: "dwayne-mcdaniel-ignite"

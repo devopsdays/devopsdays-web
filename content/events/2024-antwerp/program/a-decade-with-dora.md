@@ -6,6 +6,7 @@ talk_start_time: ""
 talk_end_time: ""
 speakers:
   - nathen-harvey
+Youtube: "3GocMsbV6aY"
 
 ---
 
@@ -23,3 +24,5 @@ This session will explore some of DORA's key findings including:
 We will also look at the future of DORA and whether it inform our adoption of new technologies like AI and practices like Platform Engineering.
 
 Join us for success stories, cautionary tales, and advice about how to leverage DORA to help your team get better at getting better.
+
+[Slides](https://drive.google.com/file/d/1l2zupP2u2Qj-8CQsausgMTYxbIXTleFy/view?usp=drive_link)

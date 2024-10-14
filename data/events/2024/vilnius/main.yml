@@ -37,7 +37,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: program
  # - name: propose
  #   url: "https://talks.devopsdays.org/devopsdays-vilnius-2024/cfp"
-  - name: sponsor
+ # - name: sponsor
   - name: location
   - name: contact
   - name: conduct
@@ -206,12 +206,11 @@ program:
     start_time: "13:15"
     end_time: "13:50"
 
-  - title: "Ignites"
+  - title: "Ignites - Day 1"
     type: ignite
     date: 2024-09-11
     start_time: "13:50"
     end_time: "14:20"
-    comments: "TBA"
 
   - title: "Open Space Opening"
     type: open-space
@@ -315,12 +314,11 @@ program:
     start_time: "13:15"
     end_time: "13:50"
 
-  - title: "Ignites"
+  - title: "Ignites - Day 2"
     type: ignite
     date: 2024-09-12
     start_time: "13:50"
     end_time: "14:20"
-    comments: "TBA"
 
   - title: "Open Space Opening"
     type: open-space
@@ -364,10 +362,30 @@ program:
     start_time: "16:45"
     end_time: "17:00"
 
-# Ignites
 ignites:
-  - title: "TBA"
+  - title: "heather-thacker"
     date: 2024-09-11
 
-  - title: "TBA"
+  - title: "janis-orlovs"
+    date: 2024-09-11
+
+  - title: "ott-salmar"
+    date: 2024-09-11
+
+  - title: "darius-sabaliauskas"
+    date: 2024-09-11
+
+  - title: "kris-buytaert-ignite"
+    date: 2024-09-11
+
+  - title: "neringa-lenciauskaite"
+    date: 2024-09-12
+
+  - title: "dainius-aksinavicius"
+    date: 2024-09-12
+
+  - title: "konstantinas-jurgilas"
+    date: 2024-09-12
+
+  - title: "magnus-kulke-ignite"
     date: 2024-09-12

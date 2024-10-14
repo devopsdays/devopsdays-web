@@ -39,8 +39,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   # - name: propose
   #   url: https://www.papercall.io/devopsdays-caceres-2024
   - name: location
-  - name: registration
-    url: https://www.eventbrite.es/e/devopsdays-caceres-2024-tickets-888206889717
+  # - name: registration
+  #   url: https://www.eventbrite.es/e/devopsdays-caceres-2024-tickets-888206889717
   - name: program
   - name: speakers
   - name: sponsor
@@ -104,6 +104,8 @@ organizer_email: "caceres@devopsdays.org" # Put your organizer email address her
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: fundecyt
+    level: gold
   - id: seventhlab
     level: silver
   - id: worldline
@@ -117,6 +119,8 @@ sponsors:
   - id: sngular-2023
     level: bronze
   - id: tinybird
+    level: bronze
+  - id: kopernicus
     level: bronze
   - id: speedyrails
     level: water-friut

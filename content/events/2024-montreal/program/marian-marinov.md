@@ -17,3 +17,5 @@ If you have questions regarding cGroups, Namespaces, network connection options 
 
 Participants are expected to be able to use SSH to executed commands on remote machines.
 If you plan to build this on your computer a VM with recent Ubuntu will be preferable.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EEmwvGc3Sck?si=8_lDr7-Q1pULFH54" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

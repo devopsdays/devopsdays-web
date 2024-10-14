@@ -37,11 +37,11 @@ location: "Plano Event Center" # Defaults to city, but you can make it the venue
 location_address: "2000 East Spring Creek Parkway, Plano, TX 75074" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+  # - name: propose
   - name: location
   - name: registration
     url: https://tickets.devopsdays.org/devopsdays-dallas/2024/
-  # - name: program
+  - name: program
   - name: speakers
   - name: sponsor
   - name: contact
@@ -71,15 +71,15 @@ team_members: # Name is the only required field for team members.
 
   - name: "Jessica Clark"
     employer: "Capital One"
-    bio: "Jessica is currently a Scrum Master and Cloud Governance lead at Capital One Auto Finance, where she has spent the past 8 years holding various roles in the technology organization. This is her first year as an organizer for DevOpsDays Dallas."
+    bio: "Jessica is a Technology Leader at Capital One where she is passionate about mentoring and coaching others to achieve their career goals. She currently serves at the Chief of Staff for Card Tech Foundations which drives the horizontal capabilities for the entire Card Tech organization.  Prior to her current role, she led a Product Execution team focused on improving the internal developer experience through automation and standardization.  She has also held roles in Cloud Governance, Tech Strategy, Process Improvement, and Software Development. Throughout her career, she has been actively been involved in various Women in Tech organizations and currently is a leader within the Allies community. Outside of work, Jessica enjoys spending time with her daughter, catching up on (bad) reality TV, or giving out high-fives on Peloton.  Jessica has been a conference organizer since 2018."
     role: "Call For Papers"
     linkedin: "https://www.linkedin.com/in/jessica-clark-7248526/"
     image: "jessica-clark.jpg"
 
   - name: "Jessica Sabugo"
-    employer: "Istation"
-    bio: "Jessica is a Technology Leader at Capital One where she is passionate about mentoring and coaching others to achieve their career goals. She currently serves at the Chief of Staff for Card Tech Foundations which drives the horizontal capabilities for the entire Card Tech organization.  Prior to her current role, she led a Product Execution team focused on improving the internal developer experience through automation and standardization.  She has also held roles in Cloud Governance, Tech Strategy, Process Improvement, and Software Development. Throughout her career, she has been actively been involved in various Women in Tech organizations and currently is a leader within the Allies community. Outside of work, Jessica enjoys spending time with her daughter, catching up on (bad) reality TV, or giving out high-fives on Peloton.  Jessica has been a conference organizer since 2018."
-    role: "Call For Papers, Run of Show, Entertainment"
+    employer: ""
+    bio: "Jessica is a passionate DevOps Engineer with a background in test automation and a strong commitment to the DevOps culture. Since 2019, she has been an active organizer of DevOpsDays Dallas, where she leverages her enthusiasm for community engagement and collaboration. Jessica thrives on continuous learning and enjoys exploring new technologies. She is an avid traveler and finds great joy in the DevOpsDays community, believing in the power of connection and teamwork to drive impactful change in the tech industry."
+    role: "Social Media, Run of Show"
     twitter: "jessica_sabugo"
     linkedin: "https://www.linkedin.com/in/jessica-sabugo-581ab658/"
     image: "jessica-sabugo.jpg"
@@ -117,14 +117,7 @@ team_members: # Name is the only required field for team members.
     website: "https://www.capitalone.com/"
     github: "https://github.com/mandersen94/"
     image: "mark-andersen.jpg"
-
-  - name: "Najwan Abdul Wahab"
-    employer: "Citi"
-    bio: "Najwan Abdul Wahab has over 15 years professional experience spanning 12 in Financial Services in the United States across Operations Management, Data & Analytics, Enterprise Transformation and Digital Product Management; and 3 in Oil & Gas specializing in Offshore Engineering in the United Arab Emirates. She started her DevOps journey volunteering for the DevOpsDays Dallas conference in 2022 and is now joining the team as a local organizer for 2023 (and beyond)."
-    role: "Social Media, Community Outreach, Non-Profit Outreach"
-    linkedin: "https://www.linkedin.com/in/najwan-a-b789b924/"
-    image: "najwan.png"
-
+  
   - name: "Paula Lipnick"
     employer: "JP Morgan Chase"
     bio: "Paula has had the opportunity to be a part of innovative organizations for over 10 years, and she enjoys continuously improving processes to increase long-term business value. Currently, Paula is a Product Agility Lead at JP Morgan Chase.\n\nAlso, Paula is a huge fan of the benefits and measurable impacts that are created using DevOps, Agile, and Lean practices. She volunteered at DevOpsDays DFW in 2022, and she is overjoyed to join the Organizer Team for DevOpsDays DFW in 2023. \n\nAlso, Paula holds a Professional Scrum Master Certification, Project Management Professional Certification, MBA with a concentration in Business Intelligence and Accounting, and a Bachelor of Science in Finance. In addition, Paula loves volunteering in the community, hiking, and surfing anytime she is close to the ocean."
@@ -188,10 +181,40 @@ sponsors:
     level: gold
   - id: datadog
     level: gold
+  - id: axiom
+    level: gold
   - id: bmc
     level: silver
   - id: capitalone
+    level: gold
+  - id: firehydrant
+    level: gold
+  - id: hashicorp
+    level: gold
+  - id: codiac
+    level: gold
+  - id: gmfinancial
+    level: gold
+  - id: scaleops
+    level: gold
+  - id: tailscale
     level: silver
+  - id: zealit
+    level: silver
+  - id: checkmarx
+    level: silver
+  - id: redgate
+    level: silver
+  - id: pagerduty
+    level: silver
+  - id: devitjobs
+    level: media
+  - id: gdgsolake
+    level: community
+  - id: cncf-dfw
+    level: community
+  - id: twc
+    level: npo
   # - id: devopslive
   #   level: community
   # - id: addo
@@ -206,16 +229,16 @@ sponsors:
   #   level: community
   # - id: women-who-code-dfw
   #   level: community
-  # - id: redhatmug
-  #   level: community
+  - id: rhug
+    level: community
   # - id: npusa
   #   level: npo
   # - id: shpedfw
   #   level: npo
-  # - id: twc
-  #   level: npo
-  # - id: dfwlivestream
-  #   level: media
+  - id: dfwlivestream
+    level: media
+  - id: zealit
+    level: coffee
   # - id: slido
   #   level: media
 
@@ -251,200 +274,201 @@ sponsor_levels:
   - id: community
     label: Community
     max: 10
-# program:
-#   - title: "Registration & Breakfast"
-#     type: custom
-#     date: 2024-10-09
-#     start_time: "08:00"
-#     end_time: "08:45"
-#   - title: "Intro and Code of Conduct"
-#     type: custom
-#     date: 2024-10-09
-#     start_time: "08:45"
-#     end_time: "09:00"
-#   - title: "anne-johnston"
-#     type: talk
-#     date: 2024-10-09
-#     start_time: "09:00"
-#     end_time: "09:45"
-#   - title: "brad-taylor"
-#     type: talk
-#     date: 2024-10-09
-#     start_time: "09:45"
-#     end_time: "10:15"
-#   - title: "Break"
-#     type: custom
-#     date: 2024-10-09
-#     start_time: "10:15"
-#     end_time: "10:30"
-#   - title: "paula-lipnick"
-#     type: talk
-#     date: 2024-10-09
-#     start_time: "10:30"
-#     end_time: "11:00"
-#   - title: "Sponsors"
-#     type: custom
-#     date: 2024-10-09
-#     start_time: "11:00"
-#     end_time: "11:30"
-#   - title: "topo-pal"
-#     type: talk
-#     date: 2024-10-09
-#     start_time: "11:30"
-#     end_time: "12:00"
-#   - title: "Lunch (catered) | Open Space - Overview"
-#     type: custom
-#     date: 2024-10-09
-#     start_time: "12:00"
-#     end_time: "12:45"
-#   - title: "noelle-russell"
-#     type: talk
-#     date: 2024-10-09
-#     start_time: "12:45"
-#     end_time: "13:30"
-#   - title: "Sponsors"
-#     type: custom
-#     date: 2024-10-09
-#     start_time: "13:30"
-#     end_time: "13:50"
-#   - title: "lee-barnes"
-#     type: talk
-#     date: 2024-10-09
-#     start_time: "13:50"
-#     end_time: "14:20"
-#   - title: "Open Space - Topic Proposals & Selection"
-#     type: open-space
-#     date: 2024-10-09
-#     start_time: "14:20"
-#     end_time: "14:30"
-#   - title: "Open Space Day 1"
-#     type: open-space
-#     date: 2024-10-09
-#     start_time: "14:30"
-#     end_time: "15:15"
-#   - title: "Break"
-#     type: custom
-#     date: 2024-10-09
-#     start_time: "15:15"
-#     end_time: "15:30"
-#   - title: "tonya-guadiz"
-#     type: talk
-#     date: 2024-10-09
-#     start_time: "15:30"
-#     end_time: "16:15"
-#   - title: "Show & Tell what will be raffled on the 30th"
-#     type: custom
-#     date: 2024-10-09
-#     start_time: "16:15"
-#     end_time: "16:20"
-#   - title: "Close Day & Logistics"
-#     type: custom
-#     date: 2024-10-09
-#     start_time: "16:20"
-#     end_time: "16:30"
-#   - title: "Social Networking - Happy Hour"
-#     type: custom
-#     date: 2024-10-09
-#     start_time: "16:30"
-#     end_time: "19:00"
 
-#   - title: "Registration & Breakfast"
-#     type: custom
-#     date: 2024-10-10
-#     start_time: "08:00"
-#     end_time: "08:45"
-#   - title: "Welcome"
-#     type: custom
-#     date: 2024-10-10
-#     start_time: "08:45"
-#     end_time: "09:00"
-#   - title: "farrah-campbell"
-#     type: talk
-#     date: 2024-10-10
-#     start_time: "09:00"
-#     end_time: "09:45"
-#   - title: "seth-eliot"
-#     type: talk
-#     date: 2024-10-10
-#     start_time: "09:45"
-#     end_time: "10:15"
-#   - title: "Break"
-#     type: custom
-#     date: 2024-10-10
-#     start_time: "10:15"
-#     end_time: "10:30"
-#   - title: "don-mike"
-#     type: talk
-#     date: 2024-10-10
-#     start_time: "10:30"
-#     end_time: "11:00"
-#   - title: "Sponsors"
-#     type: custom
-#     date: 2024-10-10
-#     start_time: "11:00"
-#     end_time: "11:30"
-#   - title: "Ignite Talks"
-#     type: ignite
-#     date: 2024-10-10
-#     start_time: "11:30"
-#     end_time: "12:00"
-#   - title: "Lunch (catered) | Open Space - Overview"
-#     type: custom
-#     date: 2024-10-10
-#     start_time: "12:00"
-#     end_time: "12:45"
-#   - title: "john-willis"
-#     type: talk
-#     date: 2024-10-10
-#     start_time: "12:45"
-#     end_time: "13:30"
-#   - title: "Sponsors"
-#     type: custom
-#     date: 2024-10-10
-#     start_time: "13:30"
-#     end_time: "13:45"
-#   - title: "ben-tim"
-#     type: talk
-#     date: 2024-10-10
-#     start_time: "13:45"
-#     end_time: "14:30"
-#   - title: "Open Space - Topic Proposals & Selection"
-#     type: open-space
-#     date: 2024-10-10
-#     start_time: "14:30"
-#     end_time: "14:45"
-#   - title: "Break Sponsor's Raffle Giveaway"
-#     type: custom
-#     date: 2024-10-10
-#     start_time: "14:45"
-#     end_time: "15:30"
-#   - title: "Open Space Day 2"
-#     type: open-space
-#     date: 2024-10-10
-#     start_time: "15:30"
-#     end_time: "16:15"
-#     # custom_url: "https://youtu.be/CDbYfRHfp3U"
-#   - title: "Organizers Recognition"
-#     type: custom
-#     date: 2024-10-10
-#     start_time: "16:15"
-#     end_time: "16:20"
-#   - title: "Closing, Organizer's Raffle Giveaway & Farewell"
-#     type: custom
-#     date: 2024-10-10
-#     start_time: "16:20"
-#     end_time: "17:00"
+program:
+  - title: "Registration & Breakfast"
+    type: custom
+    date: 2024-10-09
+    start_time: "08:00"
+    end_time: "08:45"
+  - title: "Intro and Code of Conduct"
+    type: custom
+    date: 2024-10-09
+    start_time: "08:45"
+    end_time: "09:00"
+  - title: "tracy-bannon"
+    type: talk
+    date: 2024-10-09
+    start_time: "09:00"
+    end_time: "09:45"
+  - title: "paul-grizzaffi"
+    type: talk
+    date: 2024-10-09
+    start_time: "09:45"
+    end_time: "10:15"
+  - title: "Break"
+    type: custom
+    date: 2024-10-09
+    start_time: "10:15"
+    end_time: "10:30"
+  - title: "leslie-martinich"
+    type: talk
+    date: 2024-10-09
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "Sponsors"
+    type: custom
+    date: 2024-10-09
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "robert-kelly"
+    type: talk
+    date: 2024-10-09
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch (catered) | Open Space - Overview"
+    type: custom
+    date: 2024-10-09
+    start_time: "12:00"
+    end_time: "12:45"
+  - title: "andrew-clay-shafer"
+    type: talk
+    date: 2024-10-09
+    start_time: "12:45"
+    end_time: "13:30"
+  - title: "Sponsors"
+    type: custom
+    date: 2024-10-09
+    start_time: "13:30"
+    end_time: "13:50"
+  - title: "sean-sparkman"
+    type: talk
+    date: 2024-10-09
+    start_time: "13:50"
+    end_time: "14:20"
+  - title: "Open Space - Topic Proposals & Selection"
+    type: open-space
+    date: 2024-10-09
+    start_time: "14:20"
+    end_time: "14:30"
+  - title: "Open Space Day 1 - Session 1"
+    type: open-space
+    date: 2024-10-09
+    start_time: "14:30"
+    end_time: "15:15"
+  - title: "Break"
+    type: custom
+    date: 2024-10-09
+    start_time: "15:15"
+    end_time: "15:30"
+  - title: "Open Space Day 1 - Session 2"
+    type: open-space
+    date: 2024-10-09
+    start_time: "15:30"
+    end_time: "16:15"
+  - title: "Show & Tell what will be raffled on the 10th"
+    type: custom
+    date: 2024-10-09
+    start_time: "16:15"
+    end_time: "16:20"
+  - title: "Close Day & Logistics"
+    type: custom
+    date: 2024-10-09
+    start_time: "16:20"
+    end_time: "16:30"
+  - title: "Social Networking - Happy Hour"
+    type: custom
+    date: 2024-10-09
+    start_time: "16:30"
+    end_time: "19:00"
 
-# ignites:
-#   #  - title: "ignite-talks"
-#   #    date: 2024-10-10
-#   - title: "karl-katzke"
-#     date: 2024-10-10
-#   - title: "james-thomas"
-#     date: 2024-10-10
-#   - title: "aly-ibrahim"
-#     date: 2024-10-10
-#   - title: "john-paul-herold"
-#     date: 2024-10-10
-#   - title: "laura-santamaria"
-#     date: 2024-10-10
+  - title: "Registration & Breakfast"
+    type: custom
+    date: 2024-10-10
+    start_time: "08:00"
+    end_time: "08:45"
+  - title: "Welcome"
+    type: custom
+    date: 2024-10-10
+    start_time: "08:45"
+    end_time: "09:00"
+  - title: "raj-iyer"
+    type: talk
+    date: 2024-10-10
+    start_time: "09:00"
+    end_time: "09:45"
+  - title: "priya-ananthasankar"
+    type: talk
+    date: 2024-10-10
+    start_time: "09:45"
+    end_time: "10:15"
+  - title: "Break"
+    type: custom
+    date: 2024-10-10
+    start_time: "10:15"
+    end_time: "10:30"
+  - title: "eric-smalling"
+    type: talk
+    date: 2024-10-10
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "Sponsors"
+    type: custom
+    date: 2024-10-10
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "Ignite Talks"
+    type: ignite
+    date: 2024-10-10
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch (catered) | Open Space - Overview"
+    type: custom
+    date: 2024-10-10
+    start_time: "12:00"
+    end_time: "12:45"
+  - title: "nora-jones"
+    type: talk
+    date: 2024-10-10
+    start_time: "12:45"
+    end_time: "13:30"
+  - title: "Open Space - Topic Proposals & Selection"
+    type: open-space
+    date: 2024-10-10
+    start_time: "13:30"
+    end_time: "13:45"
+  - title: "jered-sutton"
+    type: talk
+    date: 2024-10-10
+    start_time: "13:45"
+    end_time: "14:30"
+  - title: "Break"
+    type: custom
+    date: 2024-10-10
+    start_time: "14:30"
+    end_time: "14:45"
+  - title: "Open Space Day 2"
+    type: open-space
+    date: 2024-10-10
+    start_time: "14:45"
+    end_time: "15:30"
+  - title: "Speaker Discussion Panel"
+    type: custom
+    date: 2024-10-10
+    start_time: "15:30"
+    end_time: "16:15"
+    # custom_url: "https://youtu.be/CDbYfRHfp3U"
+  - title: "Organizers Recognition"
+    type: custom
+    date: 2024-10-10
+    start_time: "16:15"
+    end_time: "16:20"
+  - title: "Closing, Organizer's Raffle Giveaway & Farewell"
+    type: custom
+    date: 2024-10-10
+    start_time: "16:20"
+    end_time: "17:00"
+
+ignites:
+  #  - title: "ignite-talks"
+  #    date: 2024-10-10
+  - title: "roxane-fischer"
+    date: 2024-10-10
+  - title: "faisal-alnahhas"
+    date: 2024-10-10
+  - title: "joseph-clay"
+    date: 2024-10-10
+  - title: "aditya-singh"
+    date: 2024-10-10
+  - title: "michael-robinson"
+    date: 2024-10-10

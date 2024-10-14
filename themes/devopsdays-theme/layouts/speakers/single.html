@@ -11,11 +11,24 @@
 
       <a href = "{{ .Permalink }}">
         {{- with .Params.image -}}
-          {{- if ne . "" -}}
-            <img src = '{{ (printf "/events/%s/speakers/%s" $e.name .) }}' class="speakers-page" alt="{{ $.Title }}"/><br />
-          {{- end -}}
-          {{- else -}}
-            <img src = "/img/speaker-default.jpg" class="speakers-page"  alt="{{ .Title }}"/><br />
+            {{- $assetsfolder := (printf "assets/events/") -}}
+            {{- if (where (readDir $assetsfolder) "Name" $e.name) -}}
+                {{- $assetspeakersfolder := (printf "assets/events/%s/speakers/" $e.name) -}}
+                {{- if fileExists $assetspeakersfolder -}}
+                  {{- if (where (readDir $assetspeakersfolder) "Name" .) -}}
+                      {{- $imagelocation := (printf "events/%s/speakers/%s" $e.name .) -}}
+                      {{- $imageresource := resources.Get $imagelocation -}}
+                      {{- $imagefile := $imageresource.Fit "600x600 webp Lanczos q100" -}}
+                      <img src = '{{ $imagefile.RelPermalink }}' class="speakers-page" alt="{{ $.Title }}"/><br />
+                  {{- end -}}
+                {{- else -}}
+                  <img src = '{{ (printf "/events/%s/speakers/%s" $e.name .) }}' class="speakers-page" alt="{{ $.Title }}"/><br />
+                {{- end -}}
+            {{- else if ne . "" -}}
+                <img src = '{{ (printf "/events/%s/speakers/%s" $e.name .) }}' class="speakers-page" alt="{{ $.Title }}"/><br />
+            {{- else -}}
+                <img src = "/img/speaker-default.jpg" class="speakers-page"  alt="{{ .Title }}"/><br />
+            {{- end -}}
         {{- end -}}
       </a>
 
@@ -44,7 +57,18 @@
     {{- range $fname, $s := index .Site.Data.speakers (print (chomp $e.year)) (substr $e.name 5) -}}
       <div class="row">
         <div class="col-md-12 col-lg-3">
-            <img alt = "{{ $s.name }}" src = "{{ (printf "/events/%s/speakers/%s.jpg" $e.name $fname) }}" class="speakers-page old-speaker">
+            {{- $assetsfolder := (printf "assets/events/") -}}
+            {{- if (where (readDir $assetsfolder) "Name" $e.name) -}}
+                {{- $assetspeakersfolder := (printf "assets/events/%s/speakers/" $e.name) -}}
+                {{- if (where (readDir $assetspeakersfolder) "Name" $fname) -}}
+                    {{- $imagelocation := (printf "events/%s/speakers/%s" $e.name $fname) -}}
+                    {{- $imageresource := resources.Get $imagelocation -}}
+                    {{- $imagefile := $imageresource.Fit "600x600 webp Lanczos q100" -}}
+                    <img src = '{{ $imagefile.RelPermalink }}' class="speakers-page old-speaker" alt="{{ $s.name }}"/><br />
+                {{- end -}}
+            {{- else -}}
+                <img alt = "{{ $s.name }}" src = "{{ (printf "/events/%s/speakers/%s.jpg" $e.name $fname) }}" class="speakers-page old-speaker">
+            {{- end -}}
         </div>
         <div class= "col-md-12 col-lg-9 old-speaker-bio speakers-page">
           <h3><a href="{{ (printf "/events/%s/program/%s" $e.name $fname) }}">{{ $s.name }}</a></h3>
