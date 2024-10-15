@@ -111,9 +111,9 @@ a.jssocials-share-link, a.event-cta-button {
 {{< event_logo >}}
 <!-- <img src="/events/2023-montreal/logo-square.jpg"> -->
 <p></p>
-<p><a href="" onclick="alert('EM BREVE!'); return false"><button>SUBMENTA SUA TALK</button></a></p>
-<p><a href="" onclick="alert('EM BREVE!'); return false"><button>INSCREVA-SE</button></a></p>
-<p><a href="/events/2024-maceio/sponsor"><button>SEJA UM SPONSOR</button></a></p>
+<p><a href="https://www.papercall.io/devopsdaysmaceio2024"><button>SUBMENTA SUA PALESTRA</button></a></p>
+<p><a href="https://www.sympla.com.br/evento/devopsdays-maceio-2024/2628162"><button>INSCREVA-SE</button></a></p>
+<p><a href="/events/2024-maceio/sponsor"><button>SEJA UM PATROCINADOR</button></a></p>
 <p><a href="/events/2024-maceio/contact"><button>CONTATO</button></a></p>
 <p><a href="https://www.google.com/maps/place/Centro+de+Forma%C3%A7%C3%A3o+Profissional+Gustavo+Paiva+(Senai+-+Po%C3%A7o)/@-9.660776,-35.7259411,17z/data=!4m14!1m7!3m6!1s0x701459e6ce6e737:0x6a09fd3dd100da11!2sCentro+de+Forma%C3%A7%C3%A3o+Profissional+Gustavo+Paiva+(Senai+-+Po%C3%A7o)!8m2!3d-9.660776!4d-35.7233662!16s%2Fg%2F1td1dlzb!3m5!1s0x701459e6ce6e737:0x6a09fd3dd100da11!8m2!3d-9.660776!4d-35.7233662!16s%2Fg%2F1td1dlzb?entry=ttu&g_ep=EgoyMDI0MDgyOC4wIKXMDSoASAFQAw%3D%3D"><button>LOCALIZAÇÃO</button></a></p>
 <br>
@@ -122,7 +122,6 @@ a.jssocials-share-link, a.event-cta-button {
   <a class="social-button" href='https://www.instagram.com/dodmaceio/' target="_blank"><i class="fa fa-instagram fa-fw"></i> Instagram </a>
   <a class="social-button" href='https://www.linkedin.com/company/devopsdays-maceio/' target="_blank"><i class="fa fa-linkedin fa-fw"></i> Linkedin </a>
   <a class="social-button" href='https://t.me/+3U8wbFc4vy84MDEx' target="_blank"><i class="fa fa-telegram fa-fw"></i> Telegram </a>
-  <a class="social-button" href='https://twitter.com/devopsdaysmaceio/' target="_blank"><i class="fa fa-twitter fa-fw "></i> Twitter </a>
 </div>  
 </div>
 
