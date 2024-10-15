@@ -20,8 +20,8 @@ Description = "DevOpsDays Natal 2024"
   justify-content: center;
   align-items: center;
   background-color: ;
-  margin: 0em;
-  padding: 0em;
+  margin: 3em;
+  padding: 3em;
   gap: 3em;
   border-radius: 2px;
 }
