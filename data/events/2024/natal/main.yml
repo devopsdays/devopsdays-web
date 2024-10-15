@@ -127,8 +127,8 @@ team_members: # Name is the only required field for team members.
   
   - name: "Ivan Álisson C N Lima"
     pronouns: "Ele/Dele"
-    employer: ""
-    bio: ""
+    employer: "Invillia"
+    bio: "Formado em TI e especialista em Business Intelligence e Analytics pela UFRN e TRE/RN. Tenho paixão por tecnologia, pesquisa e ensino."
     github: "bombermal"
     linkedin: "https://www.linkedin.com/in/ivanalisson/"
     website: ""
