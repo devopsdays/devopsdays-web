@@ -85,12 +85,12 @@ Description = "DevOpsDays Paris 2024"
 
 {{< event_twitter >}}
 
-## Pour plus d'informations, veuillez visiter notre site principal : https://www.devopsrex.fr/
+## Pour plus d'informations, veuillez visiter notre site principal : <a href="https://www.devopsrex.fr/">devopsREX.fr</a>
 
 <br>
 <br>
 <div>Après une courte pause, DevOpsDays / DevOps REX revient à Paris en 2024 ! Nous serons colocalisés avec <a href="https://www.opensource-experience.com/fr/">Open Source Experience</a> en décembre.<br>
-**La langue principale de cette conférence sera le français.**</div>
+<b>La langue principale de cette conférence sera le français.</b></div>
 <br>
 <div><i>(en)</i> After a short hiatus, DevOpsDays / DevOps REX is coming back to Paris in 2024! We'll be colocating with the <a href="https://www.opensource-experience.com/en/">Open Source Experience</a> in December.<br>
-**The principal language of this conference will be French.**</div>
+<b>The principal language of this conference will be French.</b></div>
