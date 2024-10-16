@@ -149,7 +149,19 @@ sponsors:
     url: https://www.bosch.com.br/ # Use this if you need to over-ride a sponsor URL.
   - id: cps1
     level: gold
+  - id: aws
+    level: bronze
   - id: lhc
+    level: community
+  - id: unisal
+    level: community
+  - id: betech
+    level: community
+  - id: novatec
+    level: community
+  - id: 3dcomtech
+    level: community
+  - id: aws-user-group-campinas
     level: community
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
