@@ -69,8 +69,7 @@ Description = "devopsdays Aarhus 2025"
   </div>
   <div class="col-md-6">
     <div style="text-align:center;">
-      <!-- this does not seem to work {{< event_logo>}} -->
-      <img alt="devopsdays aarhus 2025" src='/events/2025-aarhus/logo.png' class="welcome-page-event-logo"/>
+      {{< event_logo>}}
     </div>
   </div>
 </div>
