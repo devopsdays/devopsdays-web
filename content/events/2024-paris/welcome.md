@@ -32,7 +32,8 @@ Description = "DevOpsDays Paris 2024"
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="registration" text="Commandez votre pass !" >}}
+    <a href="https://www.devopsrex.fr/fr/inscription">Commandez votre pass !</a>
+    <!-- {{< event_link page="registration" text="Commandez votre pass !" >}} -->
   </div>
 </div>
 
