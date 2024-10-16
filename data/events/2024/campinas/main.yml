@@ -34,10 +34,10 @@ location: "Unisal - Campus São José" # Defaults to city, but you can make it t
 location_address: "Av. Almeida Garret, 267 - Jd. Nossa Senhora Auxiliadora, Campinas - SP" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
- # - name: registration
- # - name: program
- # - name: speakers
+  # - name: propose
+  # - name: registration
+  # - name: program
+  # - name: speakers
 
   - name: local
     icon: "map-marker"
@@ -50,7 +50,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: patrocínio
     icon: "money"
     url: /events/2024-campinas/sponsor
-  
+
   - name: Chamadas (C4P)
     icon: "paper-plane-o"
     url: https://www.papercall.io/devopsdays-campinas
@@ -65,7 +65,6 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
-
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
@@ -124,8 +123,14 @@ team_members: # Name is the only required field for team members.
     github: "https://github.com/rennerocha"
     linkedin: "https://www.linkedin.com/in/rennerocha/"
     website: "https://rennerocha.com/"
-
-
+  - name: "Erik Henrique"
+    role: "Full-Stack Developer"
+    twitter: "theer1k"
+    bio: "Desenvolvedor Full-Stack, formado pela UNISAL com expertise em tecnologias web e desenvolvimento de interface usuário, cursando especialização em GoLang pela FullCycle se aprofundando em arquitetura e soluções na nuvem. Atualmente trabalha como frontend na Canon Medical Systems Brasil."
+    image: "erik.jpg"
+    github: "https://github.com/theer1k"
+    linkedin: "https://www.linkedin.com/in/erikhenriquealvescunha/"
+    website: "https://www.indianboy.com.br/"
 
 organizer_email: "campinas@devopsdays.org" # Put your organizer email address here
 
@@ -140,7 +145,7 @@ sponsors:
   - id: lhc
     level: community
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -151,7 +156,7 @@ sponsor_levels:
     label: Platinum
   - id: gold
     label: Gold
-#    max: 10
+  #    max: 10
   - id: silver
     label: Silver
     max: 0 # This is the same as omitting the max limit.
