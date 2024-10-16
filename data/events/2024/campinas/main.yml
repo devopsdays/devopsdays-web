@@ -36,8 +36,11 @@ location_address: "Av. Almeida Garret, 267 - Jd. Nossa Senhora Auxiliadora, Camp
 nav_elements: # List of pages you want to show up in the navigation of your page.
   # - name: propose
   # - name: registration
-  # - name: program
   # - name: speakers
+
+  - name: programação
+    icon: "calendar"
+    url: /events/2024-campinas/program
 
   - name: local
     icon: "map-marker"
@@ -50,6 +53,10 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: patrocínio
     icon: "money"
     url: /events/2024-campinas/sponsor
+
+  - name: palestrantes
+    icon: "microphone"
+    url: /events/2024-campinas/speakers
 
   - name: Chamadas (C4P)
     icon: "paper-plane-o"
@@ -146,6 +153,87 @@ sponsors:
     level: community
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
+
+program:
+  - title: "Credenciamento e coffee"
+    type: custom
+    date: 2024-10-19T08:00:00-03:00
+    start_time: "09:00"
+    end_time: "09:40"
+  - title: "Abertura"
+    type: custom
+    date: 2024-10-19T08:00:00-03:00
+    start_time: "09:50"
+    end_time: "10:00"
+    background_color: "#0082AB"
+  - title: "patricia-tozi"
+    type: talk
+    date: 2024-10-19T08:00:00-03:00
+    start_time: "10:00"
+    end_time: "10:50"
+    background_color: "#FF8300"
+  - title: "renicius-pagotto"
+    type: talk
+    date: 2024-10-19T08:00:00-03:00
+    start_time: "10:50"
+    end_time: "11:30"
+  - title: "bianca-veit"
+    type: talk
+    date: 2024-10-19T08:00:00-03:00
+    start_time: "11:30"
+    end_time: "12:10"
+  - title: "Almoço"
+    type: custom
+    date: 2024-10-19T08:00:00-03:00
+    start_time: "12:10"
+    end_time: "13:40"
+  - title: "Ignite Karaoke"
+    type: open-space
+    date: 2024-10-19T08:00:00-03:00
+    start_time: "13:10"
+    end_time: "13:40"
+  - title: "julia-pedrosa"
+    type: talk
+    date: 2024-10-19T08:00:00-03:00
+    start_time: "13:40"
+    end_time: "14:20"
+  - title: "lucas-ribeiro"
+    type: talk
+    date: 2024-10-19T08:00:00-03:00
+    start_time: "14:20"
+    end_time: "15:00"
+  - title: "levi-leopoldino"
+    type: talk
+    date: 2024-10-19T08:00:00-03:00
+    start_time: "15:00"
+    end_time: "15:40"
+    background_color: "#FF8300"
+  - title: "Coffee Break"
+    type: custom
+    date: 2024-10-19T08:00:00-03:00
+    start_time: "15:40"
+    end_time: "16:10"
+  - title: "Open Space"
+    type: open-space
+    date: 2024-10-19T08:00:00-03:00
+    start_time: "16:10"
+    end_time: "16:50"
+  - title: "marivone-araujo"
+    type: talk
+    date: 2024-10-19T08:00:00-03:00
+    start_time: "16:50"
+    end_time: "17:30"
+  - title: "julia-lamenza"
+    type: talk
+    date: 2024-10-19T08:00:00-03:00
+    start_time: "17:30"
+    end_time: "18:10"
+    background_color: "#FF8300"
+  - title: "Encerramento"
+    type: custom
+    date: 2024-10-19T08:00:00-03:00
+    start_time: "18:10"
+    end_time: "18:20"
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
