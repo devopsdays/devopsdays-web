@@ -3,8 +3,8 @@
 /antwerp/*		/events/2024-antwerp/:splat		302
 /aracaju/*		/events/2024-aracaju/:splat		302
 /atlanta/*		/events/2025-atlanta/:splat		302
-/austin/cfp		https://talks.devopsdays.org/devopsdays-austin-2024/cfp 302
-/austin/*		/events/2024-austin/:splat		302
+/austin/cfp		https://talks.devopsdays.org/devops2025-austin-2024/cfp 302
+/austin/*		/events/2025-austin/:splat		302
 /baku/*			/events/2019-baku/:splat		302
 /baltimore/*		/events/2024-baltimore/:splat		302
 /barcelona/*		/events/2013-barcelona/:splat		302
