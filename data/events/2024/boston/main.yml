@@ -113,6 +113,8 @@ sponsors:
     level: startupalley
   - id: groundcover
     level: platinum
+  - id: qmcloud
+    level: startupalley
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

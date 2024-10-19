@@ -13,7 +13,15 @@ Description = "DevOpsDays Los Angeles 2025"
 
 <div class = "row" id = "main-row">
   <div class = "col-md-6 push-md-8" id = "left-col">
-    <h3>What is DevOpsDaysLA?</h3>
+  <h3>Propose a Talk for DevOpsDaysLA</h3>
+  <hr>
+  <p>
+  Calling all SoCal DevOps enthusiasts and practitioners! DevOpsDaysLA is your platform to share, learn, and shape the future of our community. DevOps is a collaborative approach that unites development (Dev) and operations (Ops) teams to streamline the software development lifecycle, ensuring faster, more reliable delivery of high-quality applications. It emphasizes automation, continuous integration/continuous delivery (CI/CD), and a culture of collaboration and shared responsibility to achieve seamless, efficient processes from coding to deployment.
+  </p>
+  <p>
+  We’re seeking diverse, relevant, and forward-thinking presentations that explore the many facets of DevOps today—and tomorrow. Whether it’s the integration of AI into DevOps practices, career upleveling talks, supporting the mental health of DevOps practitioners, or insights into Platform Engineering and SRE, we want to hear how you’re advancing the field. We’re especially interested in presentations that enhance careers, share innovative solutions, and showcase cool things that help you do your job better. Join us and be a part of the global DevOpsDays series, contributing to the vibrant SoCal DevOps tech community. Your voice matters, and we can't wait to hear it! Submit your proposal today and make DevOpsDaysLA 2025 the most impactful event yet! For more details see the {{< event_link page="propose" text="DevOpsDaysLA Event Page!" >}}
+  </p>
+  <h3>What is DevOpsDaysLA?</h3>
   <hr>
   <p>
   DevOpsDaysLA is Southern California’s only annual conference focused on the practice of DevOps - a proven, joint approach that emphasizes the need for collaboration between the Software Development (Dev) and Operations/IT Infrastructure (Ops) teams within an organization to continually deliver high-quality solutions.
