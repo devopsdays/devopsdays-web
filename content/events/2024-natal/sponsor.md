@@ -1,5 +1,5 @@
 +++
-Title = "Sponsor"
+Title = "Patrocínio"
 Type = "event"
 Description = "Patrocínio - DevOpsDays Natal 2024"
 +++
@@ -8,7 +8,7 @@ Valorizamos muito os patrocinadores deste evento aberto. Se você estiver intere
 
 <hr>
 <div>
-<h2>[PT-BR] Proposta de Apoio</h2>
+<h2><a href="https://drive.google.com/file/d/1EuM8uU4Gq4wD8Rvn8N6OJKHU0NXiP43O/view?usp=sharing" target="_blank">[PT-BR] Proposta de Apoio</a></h2>
 <p>
 Os nossos parceiros são encorajados a assumirem uma postura de participação ativa, se engajarem com os participantes e a sugerirem temas para os open spaces, sessões auto-organizadas abertas para discussões revelantes. <strong>Queremos que nossos parceiros se envolvam no evento!</strong>
 </p>
@@ -98,5 +98,5 @@ Visando valorizar a participação de instituições na realização do evento, 
 </div>
 <div>
   <p><strong>COMUNIDADE:</strong> Apoiadores que contribuiram com algum beneficio para o público ou quantia de
-  até R$ 500,00 terão direito à divulgação nas redes sociais e 1 inscrição para o evento.</p>
+  até R$ 1000,00 terão direito à divulgação nas redes sociais e 1 inscrição para o evento.</p>
 </div>
