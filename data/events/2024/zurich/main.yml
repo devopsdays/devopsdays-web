@@ -136,7 +136,7 @@ organizer_email: "zurich@devopsdays.org" # Put your organizer email address here
 sponsors:
 - id: businessmap
   level: community
-- id: zhlke
+- id: zuhlke
   level: event
 - id: avega
   level: event
@@ -162,7 +162,7 @@ sponsors:
   level: event
 - id: zkb
   level: gold
-- id: amanox
+- id: amanox-before-20241020
   level: bronze
 - id: vshn-before-20241013
   level: gold
