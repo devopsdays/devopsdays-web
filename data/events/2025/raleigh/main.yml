@@ -103,7 +103,7 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/carlottacs8620/"
     image: "carlotta-sepulveda.jpg"
   - name: "Shawn Taylor"
-    linkedin: https://www.linkedin.com/in/taylorshawn/
+    linkedin: "https://www.linkedin.com/in/taylorshawn/"
     image: "shawn-taylor.jpg"
 
 organizer_email: "raleigh@devopsdays.org" # Put your organizer email address here
