@@ -102,6 +102,9 @@ team_members: # Name is the only required field for team members.
   - name: Carlotta Sepulveda
     linkedin: "https://www.linkedin.com/in/carlottacs8620/"
     image: "carlotta-sepulveda.jpg"
+  - name: "Shawn Taylor"
+    linkedin: "https://www.linkedin.com/in/taylorshawn/"
+    image: "shawn-taylor.jpg"
 
 organizer_email: "raleigh@devopsdays.org" # Put your organizer email address here
 
@@ -112,6 +115,10 @@ sponsors:
   #   level: gold
   #   url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
+    level: community
+  - id: kubecareers
+    level: community
+  - id: kubeevents
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
