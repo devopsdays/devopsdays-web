@@ -108,7 +108,7 @@ Description = "DevopsDays Geneva 2025"
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
 </div> -->
-
+<!-- 
 <div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>
@@ -116,6 +116,18 @@ Description = "DevopsDays Geneva 2025"
   <div class = "col-md-8">
     {{< event_link page="sponsor" text="Sponsor the conference!" >}}
   </div>
+</div>-->
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Newsletter</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_link page="newsletter" text="Subscribe to our newsletter for the next news !" >}}
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-2"><strong>LinkedIn</strong></div>
+  <div class="col-md-8"><a href="https://www.linkedin.com/company/devopsdays-geneva" target="blank">Subscribe to our LinkedIn Page for Updates!</a></div>
 </div>
 
 <div class = "row">

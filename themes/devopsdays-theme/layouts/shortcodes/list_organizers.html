@@ -13,7 +13,23 @@
               {{ end }}
             </div>
             {{- if .image -}}
-              <img class="card-img-top organizer-image" src='{{ (printf "/events/%s/organizers/%s" $e.name .image) }}' alt="{{ .name }}">
+                 {{- $assetsfolder := (printf "assets/events/") -}}
+                 {{- if (where (readDir $assetsfolder) "Name" $e.name) -}}
+                     {{- $assetsorgfolder := (printf "assets/events/%s/organizers/" $e.name) -}}
+                     {{- if fileExists $assetsorgfolder -}}
+                      {{- if (where (readDir $assetsorgfolder) "Name" .image) -}}
+                          {{- $imagelocation := (printf "events/%s/organizers/%s" $e.name .image) -}}
+                          {{- $imageresource := resources.Get $imagelocation -}}
+                          {{- $imagefile := $imageresource.Fit "600x600 webp Lanczos q100" -}}
+                          <img class="card-img-top organizer-image" src='{{ $imagefile.RelPermalink }}' alt="{{ .name }}">
+                      {{- end -}}
+                    {{- else -}}
+                      <img class="card-img-top organizer-image" src='{{ (printf "/events/%s/organizers/%s" $e.name .image) }}' alt="{{ .name }}">
+
+                    {{- end -}}
+                 {{- else -}}
+                     <img class="card-img-top organizer-image" src='{{ (printf "/events/%s/organizers/%s" $e.name .image) }}' alt="{{ .name }}">
+                 {{- end -}}
             {{- end -}}
             <div class = "card-block">
               {{- if .employer -}}
@@ -26,26 +42,32 @@
               </p>
                 {{- if .twitter -}}
                   {{- $twitter := replace .twitter "@" "" -}}
-                  <a href="https://twitter.com/{{ $twitter }}" class="card-link"><i class="fa fa-twitter fa-2x" aria-hidden="true"></i></a>&nbsp;
+                  <a href="https://twitter.com/{{ $twitter }}" class="card-link"><i class="fa-brands fa-twitter fa-2x" aria-hidden="true"></i></a>&nbsp;
                 {{- end -}}
                 {{- if .website -}}
-                    <a href = "{{ .website }}"><i class="fa fa-home fa-2x" aria-hidden="true"></i></a>&nbsp;
+                    <a href = "{{ .website }}"><i class="fa-solid fa-house fa-2x" aria-hidden="true"></i></a>&nbsp;
                 {{- end -}}
                 {{- if .facebook -}}
-                    <a href = "{{ .facebook }}"><i class="fa fa-facebook-official fa-2x" aria-hidden="true"></i></a>&nbsp;
+                    <a href = "{{ .facebook }}"><i class="fa-brands fa-facebook fa-2x" aria-hidden="true"></i></a>&nbsp;
                 {{- end -}}
                 {{- if .linkedin -}}
-                    <a href = "{{ .linkedin }}"><i class="fa fa-linkedin fa-2x" aria-hidden="true"></i></a>&nbsp;
+                    <a href = "{{ .linkedin }}"><i class="fa-brands fa-linkedin fa-2x" aria-hidden="true"></i></a>&nbsp;
                 {{- end -}}
                 {{- if .github -}}
-                    <a href = "https://github.com/{{ .github }}"><i class="fa fa-github fa-2x" aria-hidden="true"></i></a>&nbsp;
+                    <a href = "https://github.com/{{ .github }}"><i class="fa-brands fa-github fa-2x" aria-hidden="true"></i></a>&nbsp;
                 {{- end -}}
                 {{- if .gitlab -}}
                     <a href = "https://gitlab.com/{{ .gitlab}}"><i class="fa fa-gitlab fa-2x" aria-hidden="true"></i></a>&nbsp;
                 {{- end -}}
+                {{- if .twitch -}}
+                  <a href = "https://twitch.tv/{{ .twitch }}"><i class="fa fa-twitch fa-2x" aria-hidden="true"></i></a>&nbsp;
+                {{- end -}}
                 {{- if .mastodon -}}
-                    <a href = "{{ .mastodon }}"><i class="fab fa-mastodon fa-2x" aria-hidden="true"></i></a>&nbsp;
-                    {{- end -}}
+                  <a href = "{{ .mastodon }}"><i class="fa-brands fa-mastodon fa-2x" aria-hidden="true"></i></a>&nbsp;
+                {{- end -}}
+                {{- if .bluesky -}}
+                  <a href = "{{ .bluesky }}"><i class="fa-brands fa-bluesky fa-2x" aria-hidden="true"></i></a>&nbsp;
+                {{- end -}}
             </div>
           </div>
         </div>

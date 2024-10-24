@@ -6,9 +6,8 @@ talk_start_time: ""
 talk_end_time: ""
 speakers:
   - nicolò-cambiaso
-
-  - francesca-carta
-
+  - rhea-arora
+Youtube: "D5wCbwu_-YE"
 ---
 
 "What are we using for pipelines? Which infrastructure do we support? Is service mesh enabled?”. These types of questions - revolving on tech choices and implementation - currently occupy most of the conversations around platform engineering.

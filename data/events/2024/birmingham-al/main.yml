@@ -10,7 +10,7 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2024-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: 2024-08-19T08:00:00-17:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2024-08-19T08:45:00-17:30 # The start date of your event. Leave blank if you don't have a venue reserved yet.
 enddate: 2024-08-21T08:00:00-17:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
@@ -20,7 +20,7 @@ cfp_date_announce: 2024-01-30T00:00:00-06:00 # inform proposers of status
 
 cfp_link: "https://talks.devopsdays.org/devopsdays-birmingham-al-2024/cfp" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: 2023-07-20T00:00:00-05:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_start: 2023-07-20 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 registration_date_end: 2024-08-21T10:00:00-05:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
@@ -90,26 +90,32 @@ sharing_image: "sharing_logo.png"
 sponsors:
   - id: fetch
     level: host
-  - id: nibuild
-    level: silver
-  - id: lynker
-    level: bronze
-  - id: portworx
+  - id: assessivate
     level: silver
   - id: fleetio
     level: silver
-  - id: assessivate
+  - id: nibuild
+    level: silver
+  - id: portworx
     level: silver
   - id: sparkhound
     level: silver
-  - id: itac-solutions
+  - id: tailscale
+    level: silver
+  - id: crystaldb
     level: bronze
   - id: digital-motion
     level: bronze
+  - id: itac-solutions
+    level: bronze
+  - id: lynker
+    level: bronze
   - id: birmingham-area-software-enthusiasts
     level: community
-  # - id: tailscale
-  #   level: silver  
+  - id: birmingham-women-in-tech
+    level: community
+  - id: 4me
+    level: drinks
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -121,206 +127,280 @@ sponsor_levels:
   - id: host
     label: Host
     max: 2
-  - id: gold
-    label: Gold
-    max: 4
   - id: silver
     label: Silver
-    max: 6
   - id: bronze
     label: Bronze
-    max: 8
   - id: community
     label: Community
+  - id: drinks
+    max: 1
+    label: Drinks
 
 program:
  #workshop day
   - title: "Kick off of Workshops at Innovation Depot"
     type: custom
-    date: 2024-08-19T00:00:00-05:00
+    date: 2024-08-19
+    start_time: "08:45"
+    end_time: "09:00"
+  - title: "michael-kosir"
+    type: talk
+    background_color: "#8ad0d3"
+    date: 2024-08-19
     start_time: "09:00"
-    end_time: "09:10"
-  - title: "Lunch Break"
+    end_time: "12:00"
+  - title: "Lunch Break - Pizza (GF/Vegan Options) is included"
     type: custom
-    date: 2024-08-19T00:00:00-05:00
-    start_time: "11:30"
-    end_time: "12:30"
-  - title: "Workshop Closeout"
+    date: 2024-08-19
+    start_time: "12:00"
+    end_time: "13:00"
+  - title: "aleksandra-lemańska-workshop"
+    type: talk
+    background_color: "#8ad0d3"
+    date: 2024-08-19
+    start_time: "13:00"
+    end_time: "13:55"
+  - title: "break"
     type: custom
-    date: 2024-08-19T00:00:00-05:00
+    date: 2024-08-19
+    start_time: "13:55"
+    end_time: "14:00"
+  - title: "sundaresh-r-iyer"
+    type: talk
+    background_color: "#8ad0d3"
+    date: 2024-08-19
+    start_time: "14:00"
+    end_time: "14:55"
+  - title: "break"
+    type: custom
+    date: 2024-08-19
+    start_time: "14:55"
+    end_time: "15:00"
+  - title: "matt-meyer"
+    type: talk
+    background_color: "#8ad0d3"
+    date: 2024-08-19
+    start_time: "15:00"
+    end_time: "15:55"
+  - title: "break"
+    type: custom
+    date: 2024-08-19
+    start_time: "15:55"
+    end_time: "16:00"
+  - title: "steve-hallman"
+    type: talk
+    background_color: "#8ad0d3"
+    date: 2024-08-19
     start_time: "16:00"
-    end_time: "16:10"
+    end_time: "17:00"
 
-  - title: "Registration, Breakfast, Visit Sponsors"
+  - title: "Registration, Visit Sponsors, ☕️ bar opens"
     type: custom
-    date: 2024-08-20T00:00:00-05:00
+    date: 2024-08-20
     start_time: "08:00"
     end_time: "08:45"
   - title: "Opening Welcome"
     type: custom
-    date: 2024-08-20T00:00:00-05:00
+    date: 2024-08-20
     start_time: "08:45"
     end_time: "09:00"
   - title: "From our Sponsors"
     type: custom
-    date: 2024-08-20T00:00:00-05:00
+    date: 2024-08-20
     start_time: "09:00"
     end_time: "09:10"
-  - title: "Keynote"
-    type: custom
-    date: 2024-08-20T00:00:00-05:00
+  - title: "ken-mugrage"
+    type: talk
+    date: 2024-08-20
     start_time: "09:10"
     end_time: "09:55"
     background_color: "#d5c5ef"
   - title: "Break - Visit Sponsors"
     type: custom
-    date: 2024-08-20T00:00:00-05:00
-    start_time: "10:00"
-    end_time: "10:20"
-  - title: "Talk 1"
+    date: 2024-08-20
+    start_time: "09:55"
+    end_time: "10:15"
+  - title: "mauro-morales"
+    type: talk
+    date: 2024-08-20
+    start_time: "10:15"
+    end_time: "10:45"
+  - title: "dan-cook"
+    type: talk
+    date: 2024-08-20
+    start_time: "10:45"
+    end_time: "11:15"
+  - title: "Break"
     type: custom
-    date: 2024-08-20T00:00:00-05:00
-    start_time: "10:20"
-    end_time: "10:50"
-  - title: "Talk 2"
+    date: 2024-08-20
+    start_time: "11:15"
+    end_time: "11:25"
+  - title: "ben-goodman"
+    type: talk
+    date: 2024-08-20
+    start_time: "11:25"
+    end_time: "11:55"
+  - title: "Lunch Break - Catered Lunch Included"
     type: custom
-    date: 2024-08-20T00:00:00-05:00
-    start_time: "10:50"
-    end_time: "11:20"
-  - title: "Talk 3"
-    type: custom
-    date: 2024-08-20T00:00:00-05:00
-    start_time: "11:20"
-    end_time: "11:50"
-  - title: "Lunch - Education Lobby"
-    type: custom
-    date: 2024-08-20T00:00:00-05:00
-    start_time: "11:50"
+    date: 2024-08-20
+    start_time: "11:55"
     end_time: "13:00"
   - title: "Ignite Talks"
-    type: custom
-    date: 2024-08-20T00:00:00-05:00
+    type: ignite
+    date: 2024-08-20
     start_time: "13:00"
-    end_time: "13:25"
-  - title: "Talk 4"
-    type: custom
-    date: 2024-08-20T00:00:00-05:00
+    end_time: "13:30"
+  - title: "gokul-sarangaraju"
+    type: talk
+    date: 2024-08-20
     start_time: "13:30"
     end_time: "14:00"
-  - title: "Talk 5"
+  - title: "Open Space Opening"
     type: custom
-    date: 2024-08-20T00:00:00-05:00
+    date: 2024-08-20
     start_time: "14:00"
-    end_time: "14:30"
+    end_time: "14:35"
   - title: "Break - Visit Sponsors - Bars Open 🍻"
     type: custom
-    date: 2024-08-20T00:00:00-05:00
-    start_time: "14:30"
+    date: 2024-08-20
+    start_time: "14:35"
     end_time: "15:00"
   - title: "Open Spaces #1"
     type: "open-space"
-    date: 2024-08-20T00:00:00-05:00
+    date: 2024-08-20
     start_time: "15:00"
     end_time: "15:30"
   - title: "Open Spaces #2"
     type: "open-space"
-    date: 2024-08-20T00:00:00-05:00
+    date: 2024-08-20
     start_time: "15:30"
     end_time: "16:00"
   - title: "Break - Visit Sponsors"
     type: custom
-    date: 2024-08-20T00:00:00-05:00
+    date: 2024-08-20
     start_time: "16:00"
     end_time: "16:30"
   - title: "Open Spaces #3"
     type: "open-space"
-    date: 2024-08-20T00:00:00-05:00
+    date: 2024-08-20
     start_time: "16:30"
     end_time: "17:00"
-  - title: "Open Spaces #4"
-    type: "open-space"
-    date: 2024-08-20T00:00:00-05:00
-    start_time: "17:00"
-    end_time: "17:30"
-  - title: "Mingling / Sponsor Socializing / Drinking"
+  - title: "Mixing and Socializing"
     type: custom
-    date: 2024-08-20T00:00:00-05:00
-    start_time: "17:30"
+    date: 2024-08-20
+    start_time: "17:00"
     end_time: "18:00"
 
-  - title: "Registration, Breakfast, Visit Sponsors"
+  - title: "Registration, Visit Sponsors, ☕️ bar opens"
     type: custom
-    date: 2024-08-21T00:00:00-05:00
+    date: 2024-08-21
     start_time: "08:00"
-    end_time: "08:40"
-  - title: "Day 2 Opening"
+    end_time: "08:45"
+  - title: "Opening Welcome"
     type: custom
-    date: 2024-08-21T00:00:00-05:00
+    date: 2024-08-21
     start_time: "08:45"
     end_time: "09:00"
-  - title: "Keynote"
+  - title: "From our Sponsors"
     type: custom
-    date: 2024-08-21T00:00:00-05:00
+    date: 2024-08-21
     start_time: "09:00"
-    end_time: "09:45"
+    end_time: "09:10"
+  - title: "chad-mcelligott"
+    type: talk
+    date: 2024-08-21
+    start_time: "09:10"
+    end_time: "09:55"
     background_color: "#d5c5ef"
   - title: "Break - Visit Sponsors"
     type: custom
-    date: 2024-08-21T00:00:00-05:00
-    start_time: "10:00"
-    end_time: "10:20"
-  - title: "Talk 6"
+    date: 2024-08-21
+    start_time: "09:55"
+    end_time: "10:15"
+  - title: "will-blackburn"
+    type: talk
+    date: 2024-08-21
+    start_time: "10:15"
+    end_time: "10:45"
+  - title: "dwayne-mcdaniel"
+    type: talk
+    date: 2024-08-21
+    start_time: "10:45"
+    end_time: "11:15"
+  - title: "Break"
     type: custom
-    date: 2024-08-21T00:00:00-05:00
-    start_time: "10:20"
-    end_time: "10:50"
-  - title: "Talk 7"
+    date: 2024-08-21
+    start_time: "11:15"
+    end_time: "11:25"
+  - title: "david-hawthorne"
+    type: talk
+    date: 2024-08-21
+    start_time: "11:25"
+    end_time: "11:55"
+  - title: "Lunch Break - Catered Lunch Included"
     type: custom
-    date: 2024-08-21T00:00:00-05:00
-    start_time: "10:50"
-    end_time: "11:20"
-  - title: "Talk 8"
-    type: custom
-    date: 2024-08-21T00:00:00-05:00
-    start_time: "11:20"
-    end_time: "11:50"
-  - title: "Lunch - Education Lobby"
-    type: custom
-    date: 2024-08-21T00:00:00-05:00
-    start_time: "11:50"
+    date: 2024-08-21
+    start_time: "11:55"
     end_time: "13:00"
-  - title: "Ignite Takls"
-    type: custom
-    date: 2024-08-21T00:00:00-05:00
+  - title: "steve-hallman-talk"
+    type: talk
+    date: 2024-08-21
     start_time: "13:00"
-    end_time: "13:20"
-  - title: "Talk 9"
+    end_time: "13:30"
+  - title: "seth-hollingsead"
+    type: talk
+    date: 2024-08-21
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space Opening"
     type: custom
-    date: 2024-08-21T00:00:00-05:00
-    start_time: "13:20"
-    end_time: "13:50"
-  - title: "Main Stage Closing Remarks"
-    type: custom
-    date: 2024-08-21T00:00:00-05:00
+    date: 2024-08-21
     start_time: "14:00"
-    end_time: "14:45"
+    end_time: "14:15"
   - title: "Break - Visit Sponsors - Bars Open 🍻"
     type: custom
-    date: 2024-08-21T00:00:00-05:00
-    start_time: "14:45"
-    end_time: "15:00"
+    date: 2024-08-21
+    start_time: "14:15"
+    end_time: "14:45"
   - title: "Open Spaces #1"
     type: "open-space"
-    date: 2024-08-21T00:00:00-05:00
-    start_time: "15:00"
-    end_time: "15:30"
+    date: 2024-08-21
+    start_time: "14:45"
+    end_time: "15:15"
   - title: "Open Spaces #2"
     type: "open-space"
-    date: 2024-08-21T00:00:00-05:00
-    start_time: "15:30"
-    end_time: "16:00"
+    date: 2024-08-21
+    start_time: "15:15"
+    end_time: "15:45"
+  - title: "Break - Visit Sponsors"
+    type: custom
+    date: 2024-08-21
+    start_time: "15:45"
+    end_time: "16:15"
+  - title: "Open Spaces #3"
+    type: "open-space"
+    date: 2024-08-21
+    start_time: "16:15"
+    end_time: "16:45"
+  - title: "Main Stage Closing Remarks and Raffle Drawings"
+    type: custom
+    date: 2024-08-21
+    start_time: "16:45"
+    end_time: "17:00"
   - title: "Mixing and Socializing"
     type: custom
-    date: 2024-08-21T00:00:00-05:00
-    start_time: "16:00"
-    end_time: "17:30"
+    date: 2024-08-21
+    start_time: "17:00"
+    end_time: "18:00"
+ignites:
+  - title: "dwayne-mcdaniel-ignite"
+    date: 2024-08-20
+  - title: "justin-reock"
+    date: 2024-08-20
+  - title: "demethria-ramseur"
+    date: 2024-08-20
+  - title: "dan-cook-ignite"
+    date: 2024-08-20
+  - title: "aleksandra-lemańska"
+    date: 2024-08-20

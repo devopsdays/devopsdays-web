@@ -15,7 +15,7 @@ enddate: 2024-11-15T23:59:59-05:00 # The end date of your event. Leave blank if 
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2024-06-28 # start accepting talk proposals.
-cfp_date_end: 2024-08-01 # close your call for proposals.
+cfp_date_end: 2024-08-07 # close your call for proposals.
 cfp_date_announce: 2024-08-15 # inform proposers of status
 
 cfp_link: "https://sessionize.com/chattanooga-devopsdays-2024/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
@@ -77,7 +77,15 @@ sponsors:
   # - id: arresteddevops
   #   level: community
   - id: chatech
+    level: partner
+  - id: tva
     level: gold
+  - id: bcbst
+    level: gold
+  - id: tek-systems
+    level: silver
+  - id: chattanooga-area-chamber
+    level: partner
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -96,3 +104,5 @@ sponsor_levels:
     max: 10
   - id: bronze
     label: Bronze
+  - id: partner
+    label: Partner

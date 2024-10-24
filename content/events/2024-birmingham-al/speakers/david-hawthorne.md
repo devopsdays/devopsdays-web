@@ -1,16 +1,20 @@
 +++
 Title = "David Hawthorne"
-Twitter = ""
-linkedin = ""
 image = "david-hawthorne.png"
 type = "speaker"
 linktitle = "david-hawthorne"
+Website = "https://davidhawthorne.com"
+Linkedin = "https://www.linkedin.com/in/david-hawthorne-0401b5a/"
+Pronouns = "He/Him"
+Twitter = "shellninja"
 +++
 
-David Hawthorne is Director of Cloud Engineering for O3 Solutions, a
-Birmingham, AL-based company developing SaaS software for the industrial
-construction sector. A technology factotum, David has been a Systems
-Administrator, Data Architect, and Lead Developer, building a skill set
-spanning multiple domains. He is dedicated to fostering next generation of tech
-professionals and exploring advancements in DevOps practices, cloud computing,
-and optimization.
+David Hawthorne is the Director of Cloud Engineering at O3 Solutions, a
+Birmingham, AL-based company that develops advanced SaaS products for the
+industrial construction sector. With over 20 years of experience in the tech
+industry, David has held a variety of roles, including administration,
+development, and data & software architecture, cultivating a rich and diverse
+skill set. Known for his versatility and expertise, he is dedicated to
+mentoring the next generation of tech professionals and is passionate about
+driving innovations in cloud technology, development practices, and system
+optimization.

@@ -184,15 +184,6 @@ Sponsorship Packages
 </td>
 </tr>
 <tr>
-<th scope="row">Open Spaces</th>
-<td>
-<center>1</center>
-</td>
-<td>
-<center>$2,000</center>
-</td>
-</tr>
-<tr>
 <th scope="row">Snacks</th>
 <td>
 <center>4</center>

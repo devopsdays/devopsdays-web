@@ -36,11 +36,11 @@ location: "Alte Kaserne Winterthur" # Defaults to city, but you can make it the 
 location_address: "Technikumstrasse 8, 8400 Winterthur, Switzerland" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-#  - name: propose
+- name: propose
 #- name: program
 #- name: speakers
 - name: location
-#- name: sponsor
+- name: sponsor
 - name: diversity
   #- name: registration
 - name: contact
@@ -96,12 +96,6 @@ team_members: # Name is the only required field for team members.
   bio: "Flavio is a passionate advocate for DevOps and MLOps (DevOps for Machine Learning), bringing with him a dynamic enthusiasm for these transformative methodologies. With a rich background in engineering, Flavio is also deeply involved in the practical application of these principles, helping customers realize the benefits of how DevOps and MLOps revolutionizes the way we think about and execute software development and operations."
   linkedin: "https://www.linkedin.com/in/flavio-monigatti-5065076/"
   image: "flavio-monigatti.jpg"
-- name: "Zoltan Vitus"
-  twitter: "vituszoli2"
-  employer: "Federal Office of Information Technology"
-  bio: "Experienced agile coach, SAFe Program consultant with a demonstrated history of working in the information technology and services industry. Skilled in agile coaching and leadership, enterprise architecture management, portfolio management and IT strategy."
-  linkedin: "https://www.linkedin.com/in/zoltan-vitus-828abb/"
-  image: "zoltan-vitus.jpg"
 - name: "Nadine Broghammer"
   twitter: ""
   employer: "ERNI Schweiz AG"
@@ -143,7 +137,11 @@ organizer_email: "zurich@devopsdays.org" # Put your organizer email address here
 sponsors:
 - id: businessmap
   level: partner
+- id: hostpoint
+  level: partner
 - id: digicomp
+  level: partner
+- id: puresivefilms
   level: partner
 - id: powercoders
   level: community
@@ -153,8 +151,21 @@ sponsors:
   level: community
 - id: girlscodetoo
   level: community
-- id: hostpoint
-  level: partner
+- id: infomaniak
+  level: gold
+- id: vshn
+  level: gold
+- id: infometis 
+  level: silver
+- id: zkb 
+  level: silver
+- id: 4data 
+  level: silver
+- id: cloudscalech
+  level: event
+- id: amanox
+  level: bronze
+
 
 sponsors_accepted: "no" # Whether you want "Become a XXX Sponsor!" link
 

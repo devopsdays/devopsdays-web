@@ -41,6 +41,10 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: conduct
   - name: contact
   - name: location
+  - name: register
+    url: "https://ti.to/devopsdaysbos/2024"
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: "Health and Safety"
     url: "/events/2024-boston/health-and-safety"
@@ -93,6 +97,24 @@ sponsors:
     level: startupalley
   - id: atono
     level: startupalley
+  - id: cloudzero
+    level: platinum
+  - id: observe
+    level: platinum
+  - id: oodleai
+    level: startupalley
+  - id: scaleops
+    level: platinum
+  - id: observe
+    level: snacks
+  - id: atomiccoffeeroasters
+    level: coffee
+  - id: dryrun-security
+    level: startupalley
+  - id: groundcover
+    level: platinum
+  - id: qmcloud
+    level: startupalley
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -105,3 +127,184 @@ sponsor_levels:
     label: Platinum
   - id: startupalley
     label: Startup Alley
+  - id: snacks
+    label: Snacks
+    max: 1
+  - id: coffee
+    label: Coffee
+    max: 1
+
+program:
+# Day 1
+  - title: "Registration"
+    type: custom
+    date: 2024-10-21
+    start_time: "8:00"
+    end_time: "9:00"
+  - title: Introduction
+    type: custom
+    date: 2024-10-21
+    start_time: "9:15"
+    end_time: "9:30"
+  - title: "sara-gerion"
+    type: talk
+    date: 2024-10-21
+    start_time: "9:30"
+    end_time: "10:00"
+  - title: "whitney-lovelace"
+    type: talk
+    date: 2024-10-21
+    start_time: "10:05"
+    end_time: "10:35"
+  - title: "Break"
+    type: custom
+    date: 2024-10-21
+    start_time: "10:35"
+    end_time: "10:50"
+  - title: "eran-kampf"
+    type: talk
+    date: 2024-10-21
+    start_time: "10:50"
+    end_time: "11:20"
+  - title: "natalie-lunbeck"
+    type: talk
+    date: 2024-10-21
+    start_time: "11:25"
+    end_time: "11:55"
+  - title: "Lunch"
+    type: custom
+    date: 2024-10-21
+    start_time: "12:00"
+    end_time: "13:30"
+  - title: "elad-hirsch"
+    type: talk
+    date: 2024-10-21
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space Proposals"
+    type: custom
+    date: 2024-10-21
+    start_time: "14:05"
+    end_time: "14:35"
+  - title: "Break"
+    type: custom
+    date: 2024-10-21
+    start_time: "14:35"
+    end_time: "14:50"
+  - title: "Open Spaces - Block 1"
+    type: custom
+    date: 2024-10-21
+    start_time: "14:50"
+    end_time: "15:20"
+  - title: "Break"
+    type: custom
+    date: 2024-10-21
+    start_time: "15:20"
+    end_time: "15:35"
+  - title: "Open Spaces - Block 2"
+    type: custom
+    date: 2024-10-21
+    start_time: "15:35"
+    end_time: "16:05"
+  - title: "Break"
+    type: custom
+    date: 2024-10-21
+    start_time: "16:05"
+    end_time: "16:20"
+  - title: "Open Spaces - Block 3"
+    date: 2024-10-21
+    type: custom
+    start_time: "16:20"
+    end_time: "16:50"
+  - title: "Day 1 Wrap-up"
+    type: custom
+    date: 2024-10-21
+    start_time: "16:50"
+    end_time: "17:00"
+
+# Day 2
+  - title: "Registration"
+    type: custom
+    date: 2024-10-22
+    start_time: "8:00"
+    end_time: "9:00"
+  - title: Introduction
+    type: custom
+    date: 2024-10-22
+    start_time: "9:15"
+    end_time: "9:30"
+  - title: "sanjita-gupta"
+    type: talk
+    date: 2024-10-22
+    start_time: "9:30"
+    end_time: "10:00"
+  - title: "kanish-sharma"
+    type: talk
+    date: 2024-10-22
+    start_time: "10:05"
+    end_time: "10:35"
+  - title: "Break"
+    type: custom
+    date: 2024-10-22
+    start_time: "10:35"
+    end_time: "10:50"
+  - title: "nikunj-doshi"
+    type: talk
+    date: 2024-10-22
+    start_time: "10:50"
+    end_time: "11:20"
+  - title: "jim-peluso"
+    type: talk
+    date: 2024-10-22
+    start_time: "11:25"
+    end_time: "11:55"
+  - title: "Lunch"
+    type: custom
+    date: 2024-10-22
+    start_time: "12:00"
+    end_time: "13:30"
+  - title: "Lightning Talks"
+    type: custom
+    date: 2024-10-22
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space Proposals"
+    type: custom
+    date: 2024-10-22
+    start_time: "14:05"
+    end_time: "14:35"
+  - title: "Break"
+    type: custom
+    date: 2024-10-22
+    start_time: "14:35"
+    end_time: "14:50"
+  - title: "Open Spaces - Block 4"
+    type: custom
+    date: 2024-10-22
+    start_time: "14:50"
+    end_time: "15:20"
+  - title: "Break"
+    type: custom
+    date: 2024-10-22
+    start_time: "15:20"
+    end_time: "15:35"
+  - title: "Open Spaces - Block 5"
+    type: custom
+    date: 2024-10-22
+    start_time: "15:35"
+    end_time: "16:05"
+  - title: "Break"
+    type: custom
+    date: 2024-10-22
+    start_time: "16:05"
+    end_time: "16:20"
+  - title: "Open Spaces - Block 6"
+    date: 2024-10-22
+    type: custom
+    start_time: "16:20"
+    end_time: "16:50"
+  - title: "Day 1 Wrap-up"
+    type: custom
+    date: 2024-10-22
+    start_time: "16:50"
+    end_time: "17:00"

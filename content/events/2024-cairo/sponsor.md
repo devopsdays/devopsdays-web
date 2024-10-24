@@ -5,7 +5,7 @@ Description = "Sponsor devopsdays Cairo 2024"
 +++
 
 
-<p>We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].</p>
+<p><h3>Sponsorship opportunity is now closed. Thank you for your interest</h3></p>
 
 <p style="margin:0in 0in 0.0001pt;"><span style="font-family:Calibri, sans-serif;font-size:11pt;"></span></p>
 <figure class="table" style="width:90.94%;">

@@ -86,8 +86,8 @@ The best thing to do is send engineers to interact with the experts at devopsday
       </tr>
       <tr>
           <td class="label">Remaining Sponsorhips (First come first serve)</td>
-          <td class="platinum">1 of 1</td>
-          <td class="gold">6 of 11</td>
+          <td class="platinum">0 of 1</td>
+          <td class="gold">7 of 11</td>
           <td class="silver">Unlimited</td>
       </tr>
       <tr>
@@ -101,8 +101,7 @@ The best thing to do is send engineers to interact with the experts at devopsday
           Pay via Wave
           </td>
           <td>
-              <a href="https://link.waveapps.com/swy99y-b87f64" target=”_blank”>
-                <img src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif"/></a></td>
+         </td>
           <td>
               <a href="https://link.waveapps.com/dy76m6-5tepfp" target=”_blank”>
                 <img src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif"/></a></td>

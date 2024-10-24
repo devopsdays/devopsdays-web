@@ -38,7 +38,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: propose
   - name: location
   - name: registration
- # - name: program
+  - name: program
   - name: speakers
   - name: sponsor
   - name: contact
@@ -116,7 +116,23 @@ sponsors:
     level: gold
   - id: elastic
     level: gold
+  - id: vodafone-pt
+    level: gold
+  - id: natixis
+    level: gold
+  - id: blip
+    level: gold
+  - id: kuehnenagel
+    level: silver
+  - id: daimler
+    level: silver
   - id: relex
+    level: bronze
+  - id: cleva
+    level: bronze
+  - id: googlesre
+    level: bronze
+  - id: devscope
     level: bronze
   - id: devopsporto
     level: community
@@ -133,9 +149,6 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: platinum
-    label: Platinum
-    max: 2
   - id: gold
     label: Gold
     max: 4

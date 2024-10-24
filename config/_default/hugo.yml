@@ -1,7 +1,6 @@
 theme: devopsdays-theme
 baseURL: https://www.devopsdays.org/
 languageCode: en-us
-GoogleAnalytics: UA-9713393-1
 title: DevOpsDays
 buildDrafts: false
 canonifyURLs: false
@@ -60,3 +59,66 @@ params:
   Linkedin: http://www.linkedin.com/groups?home=&gid=2445279
   Groups: http://groups.google.com/group/devopsdays
   GoogleMapsAPI: AIzaSyA1WhgJirbPSYxMCWRD14IP90A4yLY4vxE
+
+minify:
+  disableCSS: false
+  disableHTML: false
+  disableJS: false
+  disableJSON: false
+  disableSVG: false
+  disableXML: false
+  minifyOutput: true
+  tdewolff:
+    css:
+      inline: true
+      keepCSS2: true
+      precision: 0
+    html:
+      keepComments: false
+      keepConditionalComments: false
+      keepDefaultAttrVals: true
+      keepDocumentTags: true
+      keepEndTags: true
+      keepQuotes: false
+      keepSpecialComments: false
+      keepWhitespace: false
+      templateDelims:
+      - ""
+      - ""
+    js:
+      keepVarNames: false
+      precision: 0
+      version: 2022
+    json:
+      keepNumbers: false
+      precision: 0
+    svg:
+      inline: false
+      keepComments: false
+      precision: 0
+    xml:
+      keepWhitespace: false
+
+build:
+  buildStats:
+    disableClasses: true
+    disableIDs: true
+    disableTags: true
+    enable: true
+  cacheBusters:
+    - source: (postcss|tailwind)\.config\.js
+      target: (css|styles|scss|sass)
+  noJSConfigInAssets: false
+  useResourceCacheWhen: fallback
+
+caches:
+  assets:
+    dir: ":resourceDir/_gen"
+    maxAge: -1
+  images:
+    dir: ":resourceDir/_gen"
+    maxAge: -1
+
+services:
+  googleanalytics:
+      ID: UA-9713393-1

@@ -17,6 +17,9 @@ Description = "Registration for devopsdays Tampa Bay 2024"
           <a class="btn btn-secondary btn-block" href="/events/2024-tampa/registration"> <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Get a ticket</a>
         </div>
         <div class="p-2">
+          <a class="btn btn-secondary btn-block" href="http://www.devopsdays.org/events/2024-tampa/program/"> <i class="fa fa-microphone"></i>&nbsp;&nbsp;&nbsp;Keynote and Program</a>
+        </div>
+        <div class="p-2">
           <a class="btn btn-secondary btn-block" href="https://www.linkedin.com/company/40652911"> <i class="fa fa-linkedin fa-lg"></i>&nbsp;&nbsp;
             &nbsp; Follow us on LinkedIn</a>
         </div>

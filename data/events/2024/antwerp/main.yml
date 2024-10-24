@@ -119,6 +119,19 @@ sponsors:
     level: silver
   - id: github
     level: gold
+  - id: tergos_be
+    level: bronze
+  - id: open-future
+    level: silver
+  - id: pure-storage
+    level: silver
+  - id: schubergphilis
+    level: lanyard
+  - id: netways
+    level: bronze
+  - id: overmind
+    level: silver
+
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -128,9 +141,9 @@ sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: platinum
-    label: Platinum
-    max: 1
+  #  - id: platinum
+  #  label: Platinum
+  #  max: 1
   - id: gold
     label: Gold
     max: 8
@@ -143,7 +156,7 @@ sponsor_levels:
   - id: bronze
     label: Bronze
     max: 10
-  - id: community
-    label: Community
-  - id: sticker
-    label: Stickers
+  #- id: community
+  #  label: Community
+  #- id: sticker
+  #  label: Stickers

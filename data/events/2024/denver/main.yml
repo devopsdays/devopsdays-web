@@ -10,8 +10,10 @@ ga_tracking_id: "G-9SR9GD94E0" # If you have your own Google Analytics tracking 
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2024-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate:  2024-09-16 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  2024-09-17 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate:  2024-09-16T08:00:59-06:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  2024-09-17T23:59:59-06:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+timeoffset: "-0600"
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2023-10-31T23:59:59-06:00 # start accepting talk proposals.
@@ -65,8 +67,6 @@ team_members: # Name is the only required field for team members.
   - name: "Matt Knox"
     twitter: "mknox42"
     employer: "Splunk"
-  - name: "Jason Sharp"
-    twitter: "1971hemicuda"
   - name: "Keri Melich"
     employer: "DuckDuckGo"
     twitter: "themightymuppet"
@@ -75,16 +75,11 @@ team_members: # Name is the only required field for team members.
     employer: "Parry Labs"
     twitter: "ds_morse"
   - name: "Peter ONeil Jr"
-    employer: "WebRiot"
+    employer: "Teleport"
     twitter: "peteroneilljr"
   - name: "Leigh Capili"
-    employer: "Tanzu by Broadcom"
+    employer: "Flox"
     twitter: "capileigh"
-  - name: "Mary Goodheart"
-    employer: "VelocityGlobal"
-  - name: "Ed Schaefer"
-    employer: "Agile Ideation Coaching & Consulting"
-    twitter: "agileideation"
   - name: "Mike Nabhan"
     employer: "Akamai"
 organizer_email: "denver@devopsdays.org"
@@ -104,11 +99,31 @@ sponsors:
     level: silver
   - id: kubefirst
     level: silver
+  - id: crystaldb
+    level: supporter
+  - id: deviq
+    level: supporter
+  - id: duckduckgo
+    level: supporter
+  - id: checkmarx
+    level: supporter
+  - id: focusedlabs
+    level: supporter
+  - id: kloudfuse
+    level: supporter
+  - id: masterpoint
+    level: supporter
+  - id: mogenius
+    level: supporter
   - id: parrylabs
     level: supporter
   - id: pax8
     level: supporter
-  - id: deviq
+  - id: platonicsystems
+    level: supporter
+  - id: releaseteam
+    level: supporter
+  - id: tailscale
     level: supporter
   - id: webriot
     level: supporter
@@ -315,6 +330,12 @@ program:
     date: 2024-09-17
     start_time: "17:30"
     end_time: "18:00"
+  - title: "Community Happy Hour @ Improper City"
+    background_color: "#b39eff"
+    type: custom
+    date: 2024-09-17
+    start_time: "18:00"
+    end_time: "late"
 
 ignites:
   - title: "dan-cook"
@@ -332,8 +353,6 @@ ignites:
   - title: "benjie-de-groot"
     date: 2024-09-17
   - title: "jessica-garson"
-    date: 2024-09-17
-  - title: "divine-odazie"
     date: 2024-09-17
   - title: "jj-asghar"
     date: 2024-09-17
