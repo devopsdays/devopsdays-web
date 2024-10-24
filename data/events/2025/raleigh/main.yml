@@ -23,8 +23,8 @@ cfp_link: "https://forms.gle/Pxqg1zmoRHHEDWDJ9" # if you have a custom link for 
 # registration_date_start: 2024-04-10T08:00:00-04:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 # registration_date_end: 2025-04-16T08:00:00-04:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
-registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-# registration_link: "https://www.eventbrite.com/e/devopsdays-raleigh-2024-tickets-615268222817?aff=ebdsoporgprofile" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+# registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+# registration_link: "https://tickets.devopsdays.org/devopsdays-raleigh/2025/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Background
 masthead_background: "raleigh_skyline_sunset.jpg"
