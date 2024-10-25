@@ -64,7 +64,7 @@ Description = "DevopsDays Geneva 2025"
 
 
 <div style="text-align:center;">
-  <img src="/events/2025-geneva/banner.png" alt="Geneva 2025 Banner">
+  <img src="/events/2025-geneva/geneva-banner.png" alt="Geneva 2025 Banner">
 </div>
 <br>
 <br>
