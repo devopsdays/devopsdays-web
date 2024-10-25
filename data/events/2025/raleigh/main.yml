@@ -39,8 +39,8 @@ location_address: "1101 Gorman Street, Raleigh, NC 27606" #Optional - use the st
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
   - name: location
-  # - name: registration
-    # url: "https://www.eventbrite.com/e/devopsdays-raleigh-2024-tickets-615268222817?aff=ebdsoporgprofile"
+  - name: registration
+    url: "https://tickets.devopsdays.org/devopsdays-raleigh/2025/"
   # - name: program
   # - name: speakers
   - name: sponsor
