@@ -133,11 +133,18 @@ team_members: # Name is the only required field for team members.
   - name: "Erik Henrique"
     role: "Full-Stack Developer"
     twitter: "theer1k"
-    bio: "Desenvolvedor Full-Stack, formado pela UNISAL com expertise em tecnologias web e desenvolvimento de interface usuário, cursando especialização em GoLang pela FullCycle se aprofundando em arquitetura e soluções na nuvem. Atualmente trabalha como frontend na Canon Medical Systems Brasil."
+    bio: "Desenvolvedor Full-Stack com expertise em tecnologias web e desenvolvimento de interface usuário, se aprofundando em arquitetura e soluções na nuvem."
     image: "erik.jpg"
     github: "https://github.com/theer1k"
     linkedin: "https://www.linkedin.com/in/erikhenriquealvescunha/"
     website: "https://www.indianboy.com.br/"
+  - name: "Douglas Esteves"
+    role: "Profissional de Tecnologia da Informação na UNICAMP"
+    bio: "Membro e Organizador do Laboratório Hacker de Campinas. Entusiasta em Internet das Coisas, ferramentas de monitoramento e Hardware Aberto."
+    image: "douglas.jpg"
+    github: "https://github.com/EstevesDouglas/"
+    linkedin: "https://www.linkedin.com/in/douglasesteves/"
+    website: "https://douglasesteves.eng.br/"
 
 organizer_email: "campinas@devopsdays.org" # Put your organizer email address here
 
