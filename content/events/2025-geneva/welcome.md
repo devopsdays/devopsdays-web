@@ -53,7 +53,9 @@ Description = "DevopsDays Geneva 2025"
 
 Dive into two days packed with talks, workshops, and open spaces led by global DevOps and digital transformation experts. Discover the latest practices, tools, and strategies that help companies thrive in a world of constant change.<br><br>
 
-This is your chance to connect, learn, and grow with a vibrant, passionate community! Explore DevSecOps trends, integration challenges, and the essential team transformations needed for success.
+This is your chance to connect, learn, and grow with a vibrant, passionate community! Explore DevSecOps trends, integration challenges, and the essential team transformations needed for success.<br><br>
+
+Be part of a unique event where every session empowers you to drive impact and serve your customers better!
     </div>
 </div>
 
