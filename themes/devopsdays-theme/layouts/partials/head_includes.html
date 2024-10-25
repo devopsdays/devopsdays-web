@@ -5,7 +5,14 @@
 {{- if eq .Type "speaking" -}}
   <link href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css" rel="stylesheet">
 {{- end -}}
-<script src="https://kit.fontawesome.com/f6f25dc1e1.js" crossorigin="anonymous"></script>
+{{/*  <script src="https://kit.fontawesome.com/f6f25dc1e1.js" crossorigin="anonymous"></script>  */}}
+  <!-- Loading the v6 core styles and the Solid and Brands styles -->
+  <link href="/fontawesome/css/fontawesome.min.css" rel="stylesheet" />
+  <link href="/fontawesome/css/brands.min.css" rel="stylesheet" />
+  <link href="/fontawesome/css/solid.min.css" rel="stylesheet" />
+
+  <!-- update existing v4 CSS to use v6 icons and assets -->
+  <link href="/fontawesome/css/v4-font-face.min.css" rel="stylesheet" />
 
 <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
 <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">

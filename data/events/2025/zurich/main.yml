@@ -141,6 +141,8 @@ sponsors:
   level: partner
 - id: digicomp
   level: partner
+- id: puresivefilms
+  level: partner
 - id: powercoders
   level: community
 - id: belikegrace
@@ -157,8 +159,12 @@ sponsors:
   level: silver
 - id: zkb 
   level: silver
+- id: 4data 
+  level: silver
 - id: cloudscalech
   level: event
+- id: amanox
+  level: bronze
 
 
 sponsors_accepted: "no" # Whether you want "Become a XXX Sponsor!" link
