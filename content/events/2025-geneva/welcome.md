@@ -48,7 +48,7 @@ Description = "DevopsDays Geneva 2025"
   }
 </style>
 <div class="row">
-    <div class="col-12">
+    <div class="col-12" style="text-align:center;">
  Join the 6th DevOpsDays Geneva on May 19-20, 2025, at the Haute École de Gestion in Geneva!<br><br>
 
 Dive into two days packed with talks, workshops, and open spaces led by global DevOps and digital transformation experts. Discover the latest practices, tools, and strategies that help companies thrive in a world of constant change.<br><br>
