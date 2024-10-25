@@ -69,6 +69,8 @@ team_members: # Name is the only required field for team members.
     image: matthieu.jpg
     bio: "Matthieu Robin is CEO at Hidora, an experienced strategic leader, a former system administrator who had managed and configured more environments manually than anyone on the planet and after understanding that it could be done in several clicks established Hidora SA. He regularly speaks at conferences and helps companies to optimize business processes using DevOps."
   - name: "Elisabetta Pagliar"
+    employer: "Pictet"
+    website: "https://www.pictet.com"
     linkedin: "https://www.linkedin.com/in/elisabetta-pagliar-a961bba4/"
     image: elisabetta.jpg
     bio: "Elisabetta is an enthusiastic IT professional with a background in Machine Learning and a keen interest in cybersecurity. She has worked with various companies, building a solid technical foundation while raising awareness about the lack of female role models in the tech industry. Driven by a commitment to empowering the next generation of female leaders in tech, Elisabetta actively participates in events focused on women’s empowerment in technology. She understands and appreciates the power of social media, staying current with the latest trends to effectively engage diverse audiences. Having traveled extensively across Europe and beyond, she brings a rich multicultural and fresh perspective that helps her create a significant impact on a broader audience"
