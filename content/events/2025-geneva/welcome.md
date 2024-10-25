@@ -49,16 +49,11 @@ Description = "DevopsDays Geneva 2025"
 </style>
 <div class="row">
     <div class="col-12">
-        The 6th Edition of DevOpsDays event in French-speaking Switzerland will take place on <b>May 19th and 20th 2025</b> in Geneva!
-        <br><br>
-        This 6th DevOpsDays Geneva edition, organised by a team of DevOps enthusiasts, will be held at the Haute Ecole de Gestion in Geneva.
-        The program will be a mix of conferences, workshops and openspaces, led by worldwide DevOps and digital transformation experts.
-        <br><br>
-        Join this event for two days of updates and exchanges with passionate people willing to learn and share their experiences. A unique and intense networking and learning occasion.
-        In the current context of constant evolution and change, companies must adapt and review their strategy and process to gain flexibility and remain competitive. The DevOps culture is a combination of philosophies, methodologies, practices and tools. It is frequently combined with agile methods and when it benefits from the scalability of cloud computing, it allows businesses to accelerate the  delivery of their applications , services or products; hence, to better answer the needs of their customers.
-        <br><br>
-        DevOpsDays Geneva speakers will present not only practical applications of the DevOps culture in business, but also DevOps security integration challenges (DevSecOps) and the necessary change to be driven within teams to ensure the success of these new practices.
-        <br>
+ Join the 6th DevOpsDays Geneva on May 19-20, 2025, at the Haute École de Gestion in Geneva!<br><br>
+
+Dive into two days packed with talks, workshops, and open spaces led by global DevOps and digital transformation experts. Discover the latest practices, tools, and strategies that help companies thrive in a world of constant change.<br><br>
+
+This is your chance to connect, learn, and grow with a vibrant, passionate community! Explore DevSecOps trends, integration challenges, and the essential team transformations needed for success.
     </div>
 </div>
 
