@@ -31,6 +31,16 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
 
 <strong>Note:</strong> We do not share attendee lists.
 
+<div style="text-align: center"><a href="/events/2025-los-angeles/devopsdayla2025_sponsor.pdf" style="font-size: 42px;">➡️ Download Our Sponsor Prospectus PDF ⬅️</a></div>
+
+<h3>Exclusive Sponsorships</h3>
+
+<img alt="Exclusive Sponsorships" src="/events/2025-los-angeles/exclusive_sponsorships.png" style="width:60%">
+
+<h3>Sponsorship Packages</h3>
+
+<img alt="Exclusive Sponsorships" src="/events/2025-los-angeles/sponsorship_packages.jpg" style="width:60%">
+
 
 <hr>
 <style>
