@@ -23,7 +23,7 @@ cfp_date_announce: 2024-03-31
 cfp_link: "https://devopsdays.pl/call-for-papers-2024/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2024-03-31T09:00:00+02:00
-registration_date_end: 2023-11-06T19:00:00+02:00
+registration_date_end: 2024-11-06T19:00:00+02:00
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://eventory.cc/event/devopsdays-warsaw-2024/tickets" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -39,7 +39,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: propose
  # - name: location
   - name: registration
- # - name: program
+  - name: program
+    url: "https://devopsdays.pl/#schedule"
  # - name: speakers
   - name: sponsor
   - name: contact
