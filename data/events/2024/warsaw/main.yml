@@ -113,14 +113,63 @@ sponsors:
   - id: elastic
     level: platinum
     url: https://www.elastic.co
+  - id: spacelift
+    level: gold_partner
   - id: googlecloud
     level: partner
   - id: tameshi
+    level: partner
+  - id: clari
+    level: partner
+  - id: ergo
+    level: partner
+  - id: flox
     level: partner
   - id: kubeevents
     level: media
   - id: kubecareers
     level: media
+  - id: challenge-rocket
+    level: media
+  - id: cloudowski
+    level: media
+  - id: crossweb
+    level: media
+  - id: it-leaders
+    level: media
+  - id: justjoinit
+    level: media
+  - id: programista
+    level: media
+  - id: megapraca
+    level: media
+  - id: radio17
+    level: media
+  - id: solidjobs
+    level: media
+  - id: teoriabiznesu
+    level: media
+  - id: testerzypl
+    level: media
+  - id: wkontenerach
+    level: media
+  - id: asiwroclaw
+    level: community
+  - id: future
+    level: community
+  - id: jesien-linuksowa
+    level: community
+  - id: cloud-native-group-krakow
+    level: community
+  - id: akskonsultant
+    level: community
+  - id: secopspolska
+    level: community
+  - id: sysopspolska
+    level: community
+  - id: wearedevelopers
+    level: community
+
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -131,8 +180,10 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: platinum
     label: Platinum Partner
+  - id: gold_partner
+    label: Gold Parner
   - id: partner
-    label: Partner
+    label: Partners
 #    max: 10
 #  - id: silver
 #    label: Silver
