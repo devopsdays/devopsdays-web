@@ -20,8 +20,8 @@ cfp_date_announce: 2024-11-17T00:00:00-03:00
 
 cfp_link: "https://talks.devopsdays.org/devopsdays-salvador-2025/cfp"
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start: 2024-09-07T08:00:00-03:00
+registration_date_end: 2024-12-07T08:00:00-03:00
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://dodssa2024.eventize.com.br/index.php?pagina=4" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -34,21 +34,19 @@ sharing_image: "ssa-sharing.jpg"
 # coordinates: "" # No longer used
 
 location: "Salvador" # Defaults to city, but you can make it the venue name.
-#
-
+location_address: "Avenida Professor Pinto de Aguiar, 2589 - Pituaçu, Salvador - BA, 41740-090"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+  - name: CFP
+    url: https://talks.devopsdays.org/devopsdays-salvador-2025/cfp
   - name: location
-  - name: registration
-  # - name: program
-  # - name: speakers
+  - name: ticket
+    url: https://dodssa2024.eventize.com.br/index.php?pagina=4
   - name: sponsor
   - name: contact
-  - name: conduct
-# - name: example
-#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
-#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+  - name: conduct-pt-br
+ # - name: program
+  - name: speakers
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
