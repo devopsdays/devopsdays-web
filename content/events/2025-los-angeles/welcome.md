@@ -7,8 +7,9 @@ Description = "DevOpsDays Los Angeles 2025"
 <br>
 
 <center>
-  <h2><a href="https://www.socallinuxexpo.org/scale/22x/cfp" style="font-size: 1.5em; padding: 5 10px;text-decoration: none; border-radius: 5px;">&gt;&gt;&gt; Submit your proposal here &lt;&lt;&lt;</a></h2>
+  <h2><a href="https://www.socallinuxexpo.org/scale/22x/cfp" style="font-size: 1.5em; padding: 5 10px;text-decoration: none; border-radius: 5px;">➡️ Submit your proposal here ⬅️</a></h2>
 </center>
+  <div style="text-align: center"><a href="https://assets.devopsdays.org/events/2025/los-angeles/devopsdayla2025_sponsor.pdf" style="font-size: 42px;">➡️ Download Our Sponsor Prospectus PDF ⬅️</a></div>
 <br>
 
 <div class = "row" id = "main-row">
