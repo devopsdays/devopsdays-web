@@ -12,8 +12,8 @@ masthead_background: "chileeventcenter.jpg"
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2025-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: 2025-09-05T00:00:00-08:30 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2025-09-05T00:00:00-19:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2025-09-05T08:30:00-03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2025-09-05T19:00:00-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  # start accepting talk proposals.
@@ -39,6 +39,8 @@ location_address: "Av. Vicuña Mackenna 3864, 7820091 Santiago, Macul, Región M
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
   - name: location
+  - name: Spanish
+    url: "https://devopsdayschile.cl"  
  # - name: registration
  # - name: program
  # - name: speakers
@@ -61,9 +63,9 @@ team_members: # Name is the only required field for team members.
   - name: "Sergio  Canales"
     image: "sergiocanales.png"  
   - name: "Juan Jose Mendez"
-    image: "juanjosemendez.png"
+    image: "juanjosemendez.jpg"
   - name: "Francisco Meneses"
-    image: "franciscomeneses.png"
+    image: "franciscomeneses.jpg"
 
 organizer_email: "santiago@devopsdays.org" # Put your organizer email address here
 
@@ -85,13 +87,12 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Gold
-#    max: 10
+    max: 10
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    max: 10 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
+    max: 10
   - id: community
     label: Community
-  - id: host
-    label: Gold
