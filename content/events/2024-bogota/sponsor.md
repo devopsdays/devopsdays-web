@@ -1,45 +1,66 @@
 +++
-Title = "Patrocinadores"
+Title = "Sponsor"
 Type = "event"
-Description = "Patrocinadores DevOpsDays Santiago 2025"
+Description = "Sponsor devopsdays Bogotá 2024"
 +++
 
-Valoramos enormemente a los patrocinadores para este evento abierto. Si está interesado en patrocinar, envíenos un correo electrónico a [{{< email_organizers >}}].
+We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
 
 <hr>
 
-DevOpsDays es una conferencia autoorganizada para profesionales que depende de los patrocinios. No tenemos cabinas de proveedores, vendemos presentaciones de productos o distribuimos las listas de contactos de los asistentes. Los patrocinadores tienen la oportunidad de realizar presentaciones breves durante el programa y obtendrán reconocimiento en el sitio web y redes sociales antes, durante y después del evento. Se alienta a los patrocinadores a participar activamente y a interactuar con los asistentes como colegas. Esta es una conferencia centrada en la comunidad, por lo que el marketing excesivo podría ser contraproducente para causar una buena impresión en los asistentes.
-
+devopsdays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
 <p>
-Los patrocinadores Gold obtienen una mesa completa y los patrocinadores Silver una mesa compartida donde pueden interactuar con los interesados durante los descansos.
-</p>
+Gold sponsors get a full table and Silver sponsors a shared table where they can interact with those interested to come visit during breaks. All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
+<p>
+The best thing to do is send engineers to interact with the experts at devopsdays on their own terms.
+<p>
 
-## Paquetes de patrocinio "PREVENTA" (20% de descuento)
+<!--
+<hr/>
 
-| Beneficio                                                                              | Gold / Azul  | Silver / Blanco  | Bronze / Rojo | Medios de comunicación | Training Sponsor |
-|----------------------------------------------------------------------------------------|--------------|------------------|---------------|------------------------|------------------|
-| **Precio del paquete**                                                                 | USD 4000     | USD 2000         | USD 1000      | -                      | -                |
-| **Entradas de cortesía**                                                               | 5            | 3                | 2             | 2                      | 5                |
-| Logo de la marca en el sitio oficial del evento, web global de DevOpsDays.org          | ✔            | ✔                | ✔             | ✔                      | ✔                |
-| Reconocimiento en redes sociales (Twitter, LinkedIn, Facebook, etc.)                   | ✔            | ✔                | ✔             | ✔                      | ✔                |
-| Mención del presentador al inicio del evento                                           | ✔            | ✔                | -             | ✔                      | ✔                |
-| Diapositiva dedicada con tu logo durante los descansos                                 | ✔            | -                | -             | -                      | ✔                |
-| Logo de la marca en el banner de registro del evento                                   | ✔            | ✔                | ✔             | -                      | ✔                |
-| Stand 3x3mts para obsequios, marketing y personal                                      | ✔            | -                | -             | -                      | ✔                |
-| Logo en correos de comunicación a los participantes del evento                         | ✔            | ✔                | ✔             | ✔                      | ✔                |
-| Etiqueta de la empresa en publicaciones en redes sociales                              | ✔            | ✔                | ✔             | -                      | ✔                |
-| Descuento en entradas (20% hasta 15 entradas adicionales)                              | ✔            | -                | -             | -                      | ✔                |
-| Posibilidad de organizar un sorteo en el escenario central                             | ✔            | -                | -             | -                      | ✔                |
-| Presentación de hasta 5 minutos en el escenario central (video o discurso)             | ✔            | -                | -             | -                      | ✔                |
-| Sala de demostración para presentaciones/talleres (de 30 min a 1 hora)                 | ✔            | -                | -             | -                      | ✔                |
-| Logo en el cordón de las acreditaciones                                                | ✔            | ✔                | ✔             | -                      | ✔                |
-| Presentación de hasta 1 minuto en el escenario central (video o discurso)              | -            | ✔                | -             | -                      | -                |
-| Mesa para obsequios, marketing y dotación de personal                                  | -            | ✔                | -             | -                      | -                |
-| Descuento en entradas (10% hasta 15 entradas adicionales)                              | -            | ✔                | -             | -                      | -                |
-| Mesa para obsequios, marketing y personal                                              | -            | ✔                | -             | -                      | -                |
-| Diapositiva compartida con tu logo durante los descansos                               | -            | ✔                | -             | -                      | -                |
+<div style="width:590px">
+<table border=1 cellspacing=1>
+  <tr>
+    <th><i>packages</i></th>
+    <th><center><b><u>Bronze<br />1000 usd</u></center></b></th>
+    <th><center><b><u>Silver<br />3000 usd</u></center></b></th>
+    <th><center><b><u>Gold<br />5000 usd</u></center></b></th>
+    <th></th>
+  </tr>
+<tr><td>2 included tickets</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
+<tr><td>logo on event website</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
+<tr><td>logo on shared slide, rotating during breaks</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
+<tr><td>logo on all email communication</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
+<tr><td>logo on its own slide, rotating during breaks</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
+<tr><td>1 minute pitch to full audience (including streaming audience)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr></tr>
+<tr><td>2 additional tickets (4 in total)</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
+<tr><td>4 additional tickets (6 in total)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
+<tr><td>shared table for swag</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
+<tr><td>booth/table space</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
+</table>
+<hr/>
+There are also opportunities for exclusive special sponsorships. We'll have sponsors for various events with special privileges for the sponsors of these events. If you are interested in special sponsorships or have a creative idea about how you can support the event, send us an email.
+<br/>
+<br/>
 
-<hr>
+<br>
+<br>
+<table border=1 cellspacing=1>
+  <tr>
+    <th><i>Sponsor FAQ</i></th>
+    <th><center><b>Answers to questions frequently asked by sponsors&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</center></b></th>
+    <th></th>
+  </tr>
+<tr><td>What dates/times can we set up and tear down?</td><td></td></tr>
+<tr><td>How do we ship to the venue?</td><td></td></tr>
+<tr><td>How do we ship from the venue?</td><td></td></tr>
+<tr><td>Whom should we send?</td><td></td></tr>
+<tr><td>What should we expect regarding electricity? (how much, any fees, etc)</td><td></td></tr>
+<tr><td>What should we expect regarding WiFi? (how much, any fees, etc)</td><td></td></tr>
+<tr><td>How do we order additional A/V equipment?</td><td></td></tr>
+<tr><td>Additional important details</td><td></td></tr>
+</table>
+</div>
 
-Existen también oportunidades para patrocinios especiales y exclusivos. Si tienes alguna idea creativa para apoyar el evento o deseas discutir oportunidades de patrocinio especial, envíanos un correo electrónico a [{{< email_organizers >}}].
-
+-->
+<hr/>
