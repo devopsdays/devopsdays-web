@@ -11,10 +11,6 @@ Valoramos enormemente los patrocinadores para este evento abierto. Si está inte
 DevOpsdays es una conferencia autoorganizada para profesionales que depende de los patrocinios. No tenemos cabinas de proveedores, vendemos presentaciones de productos o distribuimos las listas de contactos de los asistentes. Los patrocinadores tienen la oportunidad de tener lanzamientos cortos de elevadores durante el programa y obtendrán reconocimiento en el sitio web y las redes sociales antes, durante y después del evento. Se alienta a los patrocinadores a representarse a sí mismos participando y participando activamente con los asistentes como compañeros. Cualquier asistente también tiene la oportunidad de demostrar productos/proyectos como parte de una sesión de espacio abierto.
 <p>
 Los patrocinadores de oro obtienen una mesa completa y patrocinadores plateados una mesa compartida donde pueden interactuar con los interesados ​​en visitar durante los descansos. Todos los asistentes pueden proponer cualquier tema que deseen durante los espacios abiertos, pero esta es una conferencia centrada en la comunidad, por lo que el marketing pesado probablemente funcionará en su contra cuando intente causar una buena impresión en los asistentes.
-<p>
-Lo mejor que puede hacer es enviar ingenieros para interactuar con los expertos en DevOpsdays en sus propios términos.
-<p>
-
 <!--
 <hr/>
 
