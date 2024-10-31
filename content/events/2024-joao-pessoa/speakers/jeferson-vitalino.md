@@ -2,7 +2,7 @@
 Title = "Jeferson Vitalino"
 Twitter = "badtux_"
 linkedin = "jefersonfernando"
-image = ""
+image = "jeferson-vitalino.png"
 type = "speaker"
 linktitle = "jeferson-vitalino"
 
