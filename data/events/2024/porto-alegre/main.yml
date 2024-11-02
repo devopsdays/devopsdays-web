@@ -149,8 +149,14 @@ organizer_email: "porto-alegre@devopsdays.org" # Put your organizer email addres
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: dot
+    level: platinum
   - id: tecnopuc
     level: platinum
+  - id: ntconsult
+    level: silver
+  - id: adp
+    level: bronze
   - id: grafana
     level: bronze
   - id: timescale
