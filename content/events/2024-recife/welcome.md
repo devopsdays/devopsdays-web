@@ -40,7 +40,7 @@ Description = "DevOpsDays Recife 2024"
         <strong>CFP</strong>
       </div>
       <div class="col-md-6">
-        {{< event_link url-key="cfp_link" text="Submeta a sua talk!" >}}
+        Encerrado!
       </div>
     </div>
     <div class="row">
