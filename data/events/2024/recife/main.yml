@@ -119,8 +119,6 @@ sponsor_levels:
     max: 5
   - id: community
     label: Comunidade
-  - id: media
-    label: Media
 
 sponsors:
    - id: elastic
