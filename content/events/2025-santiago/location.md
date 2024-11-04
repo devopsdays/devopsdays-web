@@ -4,23 +4,22 @@ Type = "event"
 Description = "Ubicación del evento DevOpsDays Santiago de Chile 2025"
 +++
 
-# Ubicación del Evento DevOpsDays Santiago de Chile 2025
+# DevOpsDays Santiago de Chile 2025 sera en la Universidad Inacap Santiago sur
 
 En este espacio encontrarás información sobre la sede del evento, incluyendo la dirección, opciones de transporte, estacionamiento, y recomendaciones de alojamiento.
 
 ## Dirección del Evento
-**Centro de Convenciones Santiago**
+**Inacap Santiago Sur**
 - Av. Vicuña Mackenna 3864
 - Santiago, Macul, Región Metropolitana
+  (Metro Camino Agricola)
 
-## Mapa y Direcciones
-Pronto incluiremos un mapa interactivo para ayudarte a ubicar fácilmente el lugar del evento y las rutas recomendadas para llegar.
 
 <!-- Descomenta la línea de abajo si tienes configuradas las coordenadas en el archivo de configuración yaml -->
 {{< event_map >}}
 
 ## Opciones de Estacionamiento y Transporte Público
-- **Estacionamiento:** El Centro de Convenciones cuenta con estacionamiento para asistentes. Se recomienda llegar temprano ya que el espacio es limitado.
+- **Estacionamiento:** La universidad cuenta con estacionamiento para asistentes. Se recomienda llegar temprano ya que el espacio es limitado.
 - **Transporte Público:** Las estaciones de metro más cercanas son "Estación Camino Agricola" (Línea 5) a menos de 02 minutos a pie.
 - **Transporte en bicicleta:** El centro cuenta con estacionamiento para bicicletas en la entrada principal.
 
