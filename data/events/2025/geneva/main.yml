@@ -2,11 +2,11 @@ name: "2025-geneva" # The name of the event. Four digit year with the city name 
 year: "2025" # The year of the event. Make sure it is in quotes.
 city: "geneva" # The displayed city name of the event. Capitalize it.
 event_twitter: "DevopsdaysGe" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-event_logo: "logo-square.png"
-#masthead_background: "geneva-banner.png"
-sharing_image: "logo-square.png"
+event_logo: "logo.png"
+masthead_background: "geneva-banner-masthead.png"
+sharing_image: "logo.png"
 
-description: "Devopsdays is coming to Geneva!" # Edit this to suit your preferences
+description: "DevOpsDays is coming to Geneva!" # Edit this to suit your preferences
 ga_tracking_id: "UA-85366825-4" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2025-MM-DDTHH:MM:SS+TZ:TZ, like this:
@@ -43,7 +43,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: registration
  # - name: program
  # - name: speakers
-#  - name: sponsor
+  - name: sponsor
   - name: newsletter
   - name: contact
   - name: conduct
@@ -68,6 +68,12 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/robinmatthieu/"
     image: matthieu.jpg
     bio: "Matthieu Robin is CEO at Hidora, an experienced strategic leader, a former system administrator who had managed and configured more environments manually than anyone on the planet and after understanding that it could be done in several clicks established Hidora SA. He regularly speaks at conferences and helps companies to optimize business processes using DevOps."
+  - name: "Elisabetta Pagliar"
+    employer: "Pictet"
+    website: "https://www.pictet.com"
+    linkedin: "https://www.linkedin.com/in/elisabetta-pagliar-a961bba4/"
+    image: elisabetta.jpg
+    bio: "Elisabetta is an enthusiastic IT professional with a background in Machine Learning and a passion for cybersecurity. She has built a solid technical foundation while advocating for more female role models in the tech industry. Elisabetta is committed  to empowering the next generation of women in tech and she actively participates in events focused on women’s empowerment. She leverages the power of social media, staying updated on trends to engage diverse audiences effectively. With extensive travel across Europe and beyond, she brings a fresh multicultural perspective that enables her to make a significant impact on a broader audience."
   - name: "Frédéric Deniger"
     employer: "Value IT Swiss"
     website: "https://valueit.ch/"
@@ -112,10 +118,9 @@ sponsor_levels:
     max: 1
   - id: silver
     label: Silver
-    max: 8
+    max: 9
   - id: bronze
     label: Bronze
-    max: 1
   - id: mic
     label: Mic
     max: 1

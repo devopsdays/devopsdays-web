@@ -146,7 +146,7 @@ sponsor_levels:
     label: Silver
     max: 5
   - id: community
-    label: Comunidade
+    label: Bronze
   - id: media
     label: Media
 
@@ -157,6 +157,12 @@ sponsors:
     level: media
   - id: kubeevents
     level: media
+  - id: suse
+    level: community
+  - id: 4linux
+    level: silver
+  - id: linuxtips
+    level: silver
   # - id: governo-pernambuco
   #   level: platinum
   # - id: espaco-cloud
