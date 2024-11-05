@@ -47,10 +47,21 @@ Description = "DevopsDays Geneva 2025"
     max-height: 70px;
   }
 </style>
+<div class="row">
+    <div class="col-12" style="text-align:center;">
+ <p>Join the 6th DevOpsDays Geneva on May 19-20, 2025, at the Haute École de Gestion in Geneva!</p><br>
+
+<p>Dive into two days packed with talks, workshops, and open spaces led by global DevOps and digital transformation experts. Discover the latest practices, tools, and strategies that help companies thrive in a world of constant change.</p>
+
+<p>This is your chance to connect, learn, and grow with a vibrant, passionate community! Explore DevSecOps trends, integration challenges, and the essential team transformations needed for success.</p>
+
+<p>Be part of a unique event where every session empowers you to drive impact and serve your customers better!</p>
+    </div>
+</div>
 
 
 <div style="text-align:center;">
-  {{< event_logo >}}
+  <img src="/events/2025-geneva/geneva-banner.png" alt="Geneva 2025 Banner">
 </div>
 <br>
 <br>
@@ -64,14 +75,14 @@ Description = "DevopsDays Geneva 2025"
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -108,7 +119,6 @@ Description = "DevopsDays Geneva 2025"
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
 </div> -->
-<!-- 
 <div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>
@@ -116,7 +126,7 @@ Description = "DevopsDays Geneva 2025"
   <div class = "col-md-8">
     {{< event_link page="sponsor" text="Sponsor the conference!" >}}
   </div>
-</div>-->
+</div>      
 <div class = "row">
   <div class = "col-md-2">
     <strong>Newsletter</strong>
