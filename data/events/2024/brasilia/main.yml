@@ -163,6 +163,8 @@ sponsors:
     level: silver
   - id: linuxtips
     level: silver
+  - id: pointer
+    level: gold
   # - id: governo-pernambuco
   #   level: platinum
   # - id: espaco-cloud
