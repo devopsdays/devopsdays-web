@@ -1,66 +1,196 @@
 +++
-Title = "Sponsor"
+Title = "Patrocinadores"
 Type = "event"
-Description = "Sponsor Devopsdays Santiago 2025"
+Description = "Patrocinadores DevOpsDays Santiago 2025"
 +++
 
-Valoramos enormemente los patrocinadores para este evento abierto. Si está interesado en patrocinar, envíenos un correo electrónico a [{{< email_organizers >}}].
+Para patrocinar la conferencia, envíanos un correo electrónico a [santiago@devopsdays.org](mailto:santiago@devopsdays.org).
 
-<hr>
+---
 
-DevOpsdays es una conferencia autoorganizada para profesionales que depende de los patrocinios. No tenemos cabinas de proveedores, vendemos presentaciones de productos o distribuimos las listas de contactos de los asistentes. Los patrocinadores tienen la oportunidad de tener lanzamientos cortos de elevadores durante el programa y obtendrán reconocimiento en el sitio web y las redes sociales antes, durante y después del evento. Se alienta a los patrocinadores a representarse a sí mismos participando y participando activamente con los asistentes como compañeros. Cualquier asistente también tiene la oportunidad de demostrar productos/proyectos como parte de una sesión de espacio abierto.
-<p>
-Los patrocinadores de oro obtienen una mesa completa y patrocinadores plateados una mesa compartida donde pueden interactuar con los interesados ​​en visitar durante los descansos. Todos los asistentes pueden proponer cualquier tema que deseen durante los espacios abiertos, pero esta es una conferencia centrada en la comunidad, por lo que el marketing pesado probablemente funcionará en su contra cuando intente causar una buena impresión en los asistentes.
-<p>
-Lo mejor que puede hacer es enviar ingenieros para interactuar con los expertos en DevOpsdays en sus propios términos.
-<p>
+### Únete a la comunidad DevOps
 
-<!--
-<hr/>
+**DevOpsDays Santiago** es una conferencia comunitaria de tecnología organizada por profesionales para promover la colaboración en DevOps, gestión de IT y cultura tecnológica. Únete para conectar con profesionales de DevOps y tecnología de Chile y la región.
 
-<div style="width:590px">
-<table border=1 cellspacing=1>
-  <tr>
-    <th><i>packages</i></th>
-    <th><center><b><u>Bronze<br />1000 usd</u></center></b></th>
-    <th><center><b><u>Silver<br />3000 usd</u></center></b></th>
-    <th><center><b><u>Gold<br />5000 usd</u></center></b></th>
-    <th></th>
-  </tr>
-<tr><td>2 included tickets</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on event website</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on shared slide, rotating during breaks</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on all email communication</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on its own slide, rotating during breaks</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>1 minute pitch to full audience (including streaming audience)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr></tr>
-<tr><td>2 additional tickets (4 in total)</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td>4 additional tickets (6 in total)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>shared table for swag</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td>booth/table space</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-</table>
-<hr/>
-There are also opportunities for exclusive special sponsorships. We'll have sponsors for various events with special privileges for the sponsors of these events. If you are interested in special sponsorships or have a creative idea about how you can support the event, send us an email.
-<br/>
-<br/>
+---
 
-<br>
-<br>
-<table border=1 cellspacing=1>
-  <tr>
-    <th><i>Sponsor FAQ</i></th>
-    <th><center><b>Answers to questions frequently asked by sponsors&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</center></b></th>
-    <th></th>
-  </tr>
-<tr><td>What dates/times can we set up and tear down?</td><td></td></tr>
-<tr><td>How do we ship to the venue?</td><td></td></tr>
-<tr><td>How do we ship from the venue?</td><td></td></tr>
-<tr><td>Whom should we send?</td><td></td></tr>
-<tr><td>What should we expect regarding electricity? (how much, any fees, etc)</td><td></td></tr>
-<tr><td>What should we expect regarding WiFi? (how much, any fees, etc)</td><td></td></tr>
-<tr><td>How do we order additional A/V equipment?</td><td></td></tr>
-<tr><td>Additional important details</td><td></td></tr>
+<div class="table-responsive">
+<table class="table table-bordered table-hover table-responsive-md">
+<thead class="thead-light">
+<tr>
+<th scope="col">Paquetes de Patrocinio "PREVENTA" - 20% de descuento</th>
+<th scope="col"></th>
+<th scope="col"><center>Gold / Azul</center></th>
+<th scope="col"><center>Silver / Blanco</center></th>
+<th scope="col"><center>Bronze / Rojo</center></th>
+<th scope="col"><center>Medios de Comunicación</center></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row">Precio del Paquete</th>
+<td></td>
+<td><center>USD 4000</center></td>
+<td><center>USD 2000</center></td>
+<td><center>USD 1000</center></td>
+<td></td>
+</tr>
+<tr>
+<th scope="row">Entradas de cortesía</th>
+<td></td>
+<td><center>5</center></td>
+<td><center>3</center></td>
+<td><center>2</center></td>
+<td><center>2</center></td>
+</tr>
+<tr>
+<th scope="row">Logo en el sitio web del evento y DevOpsDays.org</th>
+<td></td>
+<td><center>✔</center></td>
+<td><center>✔</center></td>
+<td><center>✔</center></td>
+<td><center>✔</center></td>
+</tr>
+<tr>
+<th scope="row">Reconocimiento en redes sociales (Twitter, LinkedIn, Facebook, etc.)</th>
+<td></td>
+<td><center>✔</center></td>
+<td><center>✔</center></td>
+<td><center>✔</center></td>
+<td><center>✔</center></td>
+</tr>
+<tr>
+<th scope="row">Mención del presentador al inicio del evento</th>
+<td></td>
+<td><center>✔</center></td>
+<td><center>✔</center></td>
+<td></td>
+<td><center>✔</center></td>
+</tr>
+<tr>
+<th scope="row">Diapositiva dedicada con tu logo durante los descansos</th>
+<td></td>
+<td><center>✔</center></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th scope="row">Logo en el banner de registro del evento</th>
+<td></td>
+<td><center>✔</center></td>
+<td><center>✔</center></td>
+<td><center>✔</center></td>
+<td></td>
+</tr>
+<tr>
+<th scope="row">Stand de 3x3 mts para obsequios, marketing y personal</th>
+<td></td>
+<td><center>✔</center></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th scope="row">Logo en correos de comunicación a participantes</th>
+<td></td>
+<td><center>✔</center></td>
+<td><center>✔</center></td>
+<td><center>✔</center></td>
+<td><center>✔</center></td>
+</tr>
+<tr>
+<th scope="row">Etiqueta de la empresa en publicaciones en redes sociales</th>
+<td></td>
+<td><center>✔</center></td>
+<td><center>✔</center></td>
+<td><center>✔</center></td>
+<td></td>
+</tr>
+<tr>
+<th scope="row">Descuento en entradas (20% hasta 15 entradas adicionales)</th>
+<td></td>
+<td><center>✔</center></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th scope="row">Posibilidad de organizar un sorteo en el escenario central</th>
+<td></td>
+<td><center>✔</center></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th scope="row">Presentación de hasta 5 minutos en el escenario central (video o discurso)</th>
+<td></td>
+<td><center>✔</center></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th scope="row">Sala de demostración para presentaciones y talleres (30 min a 1 hora)</th>
+<td></td>
+<td><center>✔</center></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th scope="row">Logo en el cordón de las acreditaciones</th>
+<td></td>
+<td><center>✔</center></td>
+<td><center>✔</center></td>
+<td><center>✔</center></td>
+<td></td>
+</tr>
+<tr>
+<th scope="row">Presentación de hasta 1 minuto en el escenario central (video o discurso)</th>
+<td></td>
+<td></td>
+<td><center>✔</center></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th scope="row">Mesa para obsequios, marketing y dotación de personal</th>
+<td></td>
+<td></td>
+<td><center>✔</center></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th scope="row">Descuento en entradas (10% hasta 15 entradas adicionales)</th>
+<td></td>
+<td></td>
+<td><center>✔</center></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th scope="row">Mesa para obsequios, marketing y personal</th>
+<td></td>
+<td></td>
+<td><center>✔</center></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th scope="row">Diapositiva compartida con tu logo durante los descansos</th>
+<td></td>
+<td></td>
+<td><center>✔</center></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
 </table>
 </div>
 
--->
-<hr/>
+---
+
+Existen también oportunidades para patrocinios especiales y exclusivos. Si tienes alguna idea creativa para apoyar el evento o deseas discutir oportunidades de patrocinio especial, envíanos un correo electrónico a [{{< email_organizers >}}].
