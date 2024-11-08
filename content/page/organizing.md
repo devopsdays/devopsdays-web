@@ -234,7 +234,7 @@ Today, we have the means and logistics in place to handle financial transactions
 
 We actively encourage feedback on this from the local event organisers—especially from locations outside of our initial two regions. We further understand that local events may have no familiarity with such processes, and we encourage discussion on how we can make sure this is not an undue burden to your organising tasks.
 
-#### Sustainability Donation FAQs
+### Sustainability Donation FAQs
 
 Q: Our location doesn’t use USD or a European currency—what do we do?<br>
 A: For now, nothing. We’ll contact events individually as we build out our capacity to accept worldwide currencies.
