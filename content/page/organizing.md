@@ -227,7 +227,7 @@ This will help us pay for the following:
 
 We will continue to provide all of these tools and services to the entire DevOpsDays community. By accepting donations in this fashion, we can ensure a healthy future for events around the world, regardless of their location or situation.
 
-Today, we have the means and logistics in place to handle financial transactions in USD in the United States of America via ConferenceOps, and in official European currencies within the European Union via the Stichting DevOps Foundation. For this reason, we will be asking DevOpsDays events in those regions to participate in this sustainability programme from 1 January 2025. Events in other regions will be onboarded as we build out our capacity to manage them. 
+Currently, we have the means and logistics in place to handle financial transactions in USD in the United States of America via ConferenceOps, and in official European currencies within the European Union via the Stichting DevOps Foundation. For this reason, we will be asking DevOpsDays events in those regions to participate in this sustainability programme from 1 January 2025. Events in other regions will be onboarded as we build out our capacity to manage them. 
 
  * ConferenceOps: email Laura Wickett ([laura@conferenceops.com](laura@conferenceops.com)) for banking details
  * Stichting DevOps Foundation [banking details](https://devops.foundation/)
