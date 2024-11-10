@@ -232,7 +232,6 @@ Today, we have the means and logistics in place to handle financial transactions
  * ConferenceOps: email Laura Wickett ([laura@conferenceops.com](laura@conferenceops.com)) for banking details
  * Stichting DevOps Foundation [banking details](https://devops.foundation/)
 
-We actively encourage feedback on this from the local event organisers—especially from locations outside of our initial two regions. We further understand that local events may have no familiarity with such processes, and we encourage discussion on how we can make sure this is not an undue burden to your organising tasks.
 
 ### Sustainability Donation FAQs
 
