@@ -98,7 +98,7 @@ The code of conduct must include the following:
   - Why: Marketing is tricky, especially as a new event in a world where social media is quickly changing. Be sure to check out the [Visibility](#visibility) section for some tips and tricks.
 * **T-6.5 Months to Event:** Ensure registration opens
   - Why: The more time the registration is open, the more potential visibility it gets. Be sure to checkout the [Setting Up Registration](#setting-up-registration) section for more information.
-* **T-5 months before Event:** Pay sustainability donation
+* **T-5 months before Event:** Contribute "sustainability donation"
   - Why: Once you have started selling tickets, you should have the liquidity to make this donation, to [help devopsdays itself continue to operate](#sustainability-donation).
 * **T-4.5 months before Event:** Initiate voting of submissions with the organizers
   - Why: Certain speakers submit to multiple events, require notice to their employers and/or require (international) travel. Getting voting done, on time, and in advance, allows those individuals to arrange the needful. Visit [Setting Your Program](#setting-your-program) for more information.
