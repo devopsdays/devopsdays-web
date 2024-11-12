@@ -32,7 +32,7 @@ Description = "devopsdays Aarhus 2025"
       throughout the conference. What's not to love?
     </p>
     <h3>Tickets</h3>
-    <p>Tickets will be available soon!</p>
+    <p><a href="https://devopsdaysdenmark.ticketbutler.io/e/devopsdays-aarhus-2025/">Registration is open</a></p>
     <div class="row">
       <div class="col-md-2">
         <strong>Dates</strong>
