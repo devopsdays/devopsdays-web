@@ -154,7 +154,7 @@ program:
     date: 2024-11-16
     start_time: "10:10"
     end_time: "10:45"
-  - title: "thiago-finardi"
+  - title: "mateus-leonardi"
     type: talk
     date: 2024-11-16
     start_time: "10:45"
@@ -189,7 +189,7 @@ program:
     date: 2024-11-16
     start_time: "14:30"
     end_time: "15:05"
-  - title: "robert-silva"
+  - title: "thiago-finardi"
     type: talk
     date: 2024-11-16
     start_time: "15:05"
@@ -199,7 +199,7 @@ program:
     date: 2024-11-16
     start_time: "15:40"
     end_time: "16:15"
-  - title: "joao-brito"
+  - title: "pery-lemke"
     type: talk
     date: 2024-11-16
     start_time: "16:15"
