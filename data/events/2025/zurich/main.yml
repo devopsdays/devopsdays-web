@@ -165,7 +165,10 @@ sponsors:
   level: event
 - id: amanox
   level: bronze
-
+- id: eficode 
+  level: event
+- id: cognizant 
+  level: bronze
 
 sponsors_accepted: "no" # Whether you want "Become a XXX Sponsor!" link
 
