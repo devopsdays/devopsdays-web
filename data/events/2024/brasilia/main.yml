@@ -165,6 +165,8 @@ sponsors:
     level: silver
   - id: pointer
     level: gold
+  - id: hub-connect
+    level: community
   # - id: governo-pernambuco
   #   level: platinum
   # - id: espaco-cloud
