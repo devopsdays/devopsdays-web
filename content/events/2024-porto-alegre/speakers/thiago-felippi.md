@@ -1,7 +1,7 @@
 +++
 Title = "Thiago Felippi"
 linkedin = ""
-image = ""
+image = "thiago-felippi.jpeg"
 Twitter = ""
 type = "speaker"
 linktitle = "thiago-felippi"
