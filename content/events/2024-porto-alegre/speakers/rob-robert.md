@@ -1,7 +1,7 @@
 +++
 Title = "Rob Robert"
 linkedin = ""
-image = ""
+image = "rob-robert.jpeg"
 Twitter = ""
 type = "speaker"
 linktitle = "rob-robert"

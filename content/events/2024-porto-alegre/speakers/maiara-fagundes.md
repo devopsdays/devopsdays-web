@@ -1,7 +1,7 @@
 +++
 Title = "Maiara Fagundes"
 linkedin = ""
-image = ""
+image = "maiara-fagundes.jpeg"
 Twitter = ""
 type = "speaker"
 linktitle = "maiara-fagundes"

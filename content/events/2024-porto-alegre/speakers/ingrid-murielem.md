@@ -1,7 +1,7 @@
 +++
 Title = "Ingrid Murielem"
 linkedin = "https://www.linkedin.com/in/ingridmurielem/"
-image = ""
+image = "ingrid-murielem.jpeg"
 Twitter = ""
 type = "speaker"
 linktitle = "ingrid-murielem"

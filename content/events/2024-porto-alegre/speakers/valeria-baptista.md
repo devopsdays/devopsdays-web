@@ -1,7 +1,7 @@
 +++
 Title = "Valéria Baptista"
 linkedin = ""
-image = ""
+image = "valeria-baptista.jpeg"
 Twitter = ""
 type = "speaker"
 linktitle = "valeria-baptista"

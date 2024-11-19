@@ -1,7 +1,7 @@
 +++
 Title = "Deise Santos de Oliveira"
 linkedin = ""
-image = ""
+image = "deise-oliveira.jpeg"
 Twitter = ""
 type = "speaker"
 linktitle = "deise-oliveira"

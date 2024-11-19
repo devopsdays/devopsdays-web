@@ -1,7 +1,7 @@
 +++
 Title = "Diego Cardoso"
 linkedin = ""
-image = ""
+image = "diego-cardoso.jpeg"
 Twitter = ""
 type = "speaker"
 linktitle = "diego-cardoso"

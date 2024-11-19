@@ -1,7 +1,7 @@
 +++
 Title = "Clayton Cavaleiro Santos da Silva"
 linkedin = ""
-image = ""
+image = "clayton-cavaleiro.jpeg"
 Twitter = ""
 type = "speaker"
 linktitle = "clayton-cavaleiro"
