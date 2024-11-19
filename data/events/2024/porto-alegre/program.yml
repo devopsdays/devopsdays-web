@@ -20,7 +20,7 @@ program:
     start_time: "10:00"
     end_time: "10:30"
     background_color: "#FF8300"
-  - title: "lucas-mata"
+  - title: "lucas-ribeiro"
     type: talk
     date: "2024-11-30"
     start_time: "10:30"
@@ -46,7 +46,7 @@ program:
     date: "2024-11-30"
     start_time: "13:30"
     end_time: "13:45"
-  - title: "ingrid-murielen"
+  - title: "ingrid-murielem"
     type: talk
     date: "2024-11-30"
     start_time: "13:45"
@@ -57,7 +57,7 @@ program:
     date: "2024-11-30"
     start_time: "14:15"
     end_time: "14:45"
-  - title: "valeria-batista"
+  - title: "valeria-baptista"
     type: talk
     date: "2024-11-30"
     start_time: "14:40"
@@ -68,7 +68,7 @@ program:
     date: "2024-11-30"
     start_time: "15:15"
     end_time: "15:45"
-  - title: "thiago-filippi"
+  - title: "thiago-felippi"
     type: talk
     date: "2024-11-30"
     start_time: "15:45"
