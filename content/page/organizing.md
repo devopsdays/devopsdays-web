@@ -211,7 +211,9 @@ First, a recommendation: Have a tiered budget for a Good, Better, Best. A Good v
 
 However you set up that tiered system for your event, have some go/no-go dates in mind for deciding when you can do each one. A Good vs Better event call might come in the month leading up to your event when you evaluate how much sponsorship money you have gotten in. This is why we say 80%+ of your event budget should come from sponsorship funds! If you set yourself up this way, you know you can put on a good event for the community regardless of how many people actually come, avoiding the need to cancel. Some cities might not have the luxury of having a Good version that is doable because all of the event venues are huge and require food and beverage contracts, for example, but if you can do it, do so.
 
-### Sustainability Donation
+---
+
+## Sustainability Donation
 
 🆕 New in 2025
 

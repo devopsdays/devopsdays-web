@@ -90,12 +90,12 @@ Description = "DevOpsDays Brasília 2024"
         Redes sociais:
       </h4>
       <div class="d-flex flex-row">
-        <!--div style="witdh: auto; padding-right: 1em;">
-          <a target="_blank" style="text-align:left;" class="btn btn-secondary btn-block" href="https://www.linkedin.com/company/devopsdaysrec/"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
-        </div-->
         <div style="witdh: auto; padding-right: 1em;">
-          <a target="_blank" style="text-align:left;" class="btn btn-secondary btn-block" href="https://twitter.com/devopsdaysbsb/"><i class="fa fa-twitter fa-fw "></i> Twitter </a>
+          <a target="_blank" style="text-align:left;" class="btn btn-secondary btn-block" href="https://www.linkedin.com/company/devopsdaysbsb"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
         </div>
+        <!--div style="witdh: auto; padding-right: 1em;">
+          <a target="_blank" style="text-align:left;" class="btn btn-secondary btn-block" href="https://twitter.com/devopsdaysbsb/"><i class="fa fa-twitter fa-fw "></i> Twitter </a>
+        </div-->
         <div style="witdh: auto; padding-right: 1em;">
           <a target="_blank" style="text-align:left;" class="btn btn-secondary btn-block" href="https://www.instagram.com/devopsdaysbsb/"> <i class="fa fa-instagram fa-fw"></i>&nbsp; Instagram</a>
         </div>
