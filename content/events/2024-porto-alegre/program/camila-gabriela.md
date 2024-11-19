@@ -4,5 +4,5 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "TBA"
 Type = "talk"
-speakers = ["gabriela-moraes", "camilla-martins"]
+speakers = ["camilla-martins", "gabriela-moraes"]
 +++
