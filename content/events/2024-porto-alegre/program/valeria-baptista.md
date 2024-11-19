@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "DevOps Security com Microsoft Defender for Cloud: Protegendo Deploys na Nuvem de A a Z"
+Title = "Escalando as operações do seu negócio com Kubernetes na nuvem"
 Type = "talk"
 Speakers = ["valeria-baptista"]
 +++
