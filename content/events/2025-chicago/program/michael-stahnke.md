@@ -7,4 +7,7 @@ Type = "talk"
 Speakers = ["michael-stahnke"]
 +++
 
+The core metrics for measuring team effectiveness with DevOps have been around quite a while now and they’re a great starting point. What measurements matter after those are established? What should software delivery metrics be telling us?
+
+In this ignite talk, I’ll pull out some research from time leading engineering at Puppet, CircleCI and Flox to talk about some different measurements that should help elevate your teams. I'll share insights around measuring time to spin-up for engineers, looking at team and departmental throughput, and measuring the effectiveness of your engineering platform.
 
