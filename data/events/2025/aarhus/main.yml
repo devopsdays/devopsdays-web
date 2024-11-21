@@ -103,6 +103,8 @@ organizer_email: "aarhus@devopsdays.org" # Put your organizer email address here
 sponsors:
   - id: eficode
     level: gold
+  - id: systematic
+    level: silver
   - id: destination-aarhus
     level: community
 
