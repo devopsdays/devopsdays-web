@@ -99,6 +99,9 @@ Description = "DevOpsDays Brasília 2024"
         <div style="witdh: auto; padding-right: 1em;">
           <a target="_blank" style="text-align:left;" class="btn btn-secondary btn-block" href="https://www.instagram.com/devopsdaysbsb/"> <i class="fa fa-instagram fa-fw"></i>&nbsp; Instagram</a>
         </div>
+        <div style="witdh: auto; padding-right: 1em;">
+          <a target="_blank" style="text-align:left;" class="btn btn-secondary btn-block" href="https://chat.whatsapp.com/Bbdt3KoyS2pDEt09HGJ7zi"> <i class="fa fa-whatsapp fa-fw"></i>&nbsp; Whatsapp</a>
+        </div>
       </div>
     </div>
   </div> 
