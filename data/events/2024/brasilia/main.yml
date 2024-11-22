@@ -88,6 +88,8 @@ team_members: # Name is the only required field for team members.
   - name: "Marcus Castelar"
     employer: "Globant"
     image: "marcus.jpg"
+    bio: "DevOps | Cloud (Azure/AWS) | Kubernetes (CKAD/CKA) | SRE"
+    linkedin: "https://www.linkedin.com/in/marcusbrito/"
 
   - name: "Wander Macedo da Silva"
     employer: "G4F/Global Hitss"
