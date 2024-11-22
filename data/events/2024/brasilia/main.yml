@@ -175,21 +175,94 @@ sponsors:
   #   level: gold
   # - id: novatec
   #   level: community
-#program:
-# - title: "Credenciamento"
-#   type: custom
-#   date: 2022-12-10T00:09:00-03:00
-#   start_time: "08:15"
-#   end_time: "10:00"
+program:
+  - title: "Credenciamento"
+    type: custom
+    date: 2024-11-23
+    start_time: "08:00"
+    end_time: "09:00"
 
-# - title: "marylia-gutierrez"
-#   type: talk
-#   date: 2022-12-10T00:09:00-03:00
-#   start_time: "09:00"
-#   end_time: "09:30"
+  - title: "Abertura"
+    type: custom
+    date: 2024-11-23
+    start_time: "09:00"
+    end_time: "09:30"
+    background-color: #93ff97
 
-# - title: "Open Spaces 💬 / Cofee Break ☕️"
-#   type: open-space
-#   date: 2022-12-10T00:09:00-03:00
-#   start_time: "15:00"
-#   end_time: "15:30"
+  - title: "americo-junior"
+    type: talk
+    date: 2024-11-23
+    start_time: "09:30"
+    end_time: "10:00"
+
+  - title: "clayton-cavaleiro"
+    type: talk
+    date: 2024-11-23
+    start_time: "10:00"
+    end_time: "10:30"
+
+  - title: "Coffe Break"
+    type: custom
+    date: 2024-11-23
+    start_time: "10:30"
+    end_time: "11:10"
+
+  - title: "levi-leopoldino"
+    type: talk
+    date: 2024-11-23
+    start_time: "11:10"
+    end_time: "11:40"
+
+  - title: "joao-neto"
+    type: talk
+    date: 2024-11-23
+    start_time: "11:40"
+    end_time: "12:10"
+
+  - title: "Almoço"
+    type: custom
+    date: 2024-11-23
+    start_time: "12:10"
+    end_time: "13:40"
+
+  - title: "Open Space"
+    type: open-space
+    date: 2024-11-23
+    start_time: "13:40"
+    end_time: "14:30"
+
+  - title: "daniel-rodrigues"
+    type: talk
+    date: 2024-11-23
+    start_time: "14:30"
+    end_time: "15:00"
+
+  - title: "odilon-junior"
+    type: talk
+    date: 2024-11-23
+    start_time: "15:00"
+    end_time: "15:30"
+
+  - title: "Coffe Break"
+    type: custom
+    date: 2024-11-23
+    start_time: "15:30"
+    end_time: "16:10"
+
+  - title: "paulo-santiago"
+    type: talk
+    date: 2024-11-23
+    start_time: "16:10"
+    end_time: "16:40"
+
+  - title: "danilo-dorgam"
+    type: talk
+    date: 2024-11-23
+    start_time: "17:10"
+    end_time: "17:40"
+
+  - title: "Encerramento, sorteios e agradecimentos"
+    type: custom
+    date: 2024-11-23
+    start_time: "17:40"
+    end_time: "18:30"
