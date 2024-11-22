@@ -12,3 +12,5 @@ You’ve just been told by HR that you are no longer a part of their organizatio
 Unemployment is a scary situation. You’re dealing with emotions and uncertainty. You don’t know if you’ll be out of work for days, weeks, or months.
 
 Fortunately, unemployment is survivable. In this session, I’ll share my own experiences (and perhaps we’ll talk about some of yours) with unemployment, and how I managed to get through the tough times. We’ll discuss emotional impact, the job hunt, and things you can do to get yourself through this tough time. Hopefully, you’ll land on your feet once again before long!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gFgcyH6ANGk?si=CGcQ3nJ3E6_G4ojt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

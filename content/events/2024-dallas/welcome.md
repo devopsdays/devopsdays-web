@@ -7,8 +7,8 @@ Description = "devopsdays Dallas 2024"
 
 <!-- <div class = "row" style="background: #ed0b07; color: #ffffff; padding: 20px; margin: 20px; font-size: 16px"> -->
 <div style="text-align:center;" >
-  <!-- {{< event_logo >}} -->
-  <!-- <p><img alt="DevOpsDays Dallas 2024" src="/events/2024-dallas/logo.png" class="img-fluid"></p> -->
+  {{< event_logo >}}
+  <!-- <p><img alt="DevOpsDays Dallas 2024" src="static/events/2024-dallas/logo.jpg" class="img-fluid"></p> -->
 </div>
 <br>
 <!-- <div class = "row">
@@ -57,30 +57,30 @@ But what will make our event HYBRID and give our remote audience the closest to 
     <a href="https://tickets.devopsdays.org/devopsdays-dallas/2024/">Register to attend the conference!</a>
   </div>
 </div>
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
-</div>
-<!-- <div class = "row">
+</div> -->
+<div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
     View the {{< event_link page="program" text="program." >}}
   </div>
-</div> -->
-<!-- <div class = "row">
+</div>
+<div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
-</div> -->
+</div>
 <div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>

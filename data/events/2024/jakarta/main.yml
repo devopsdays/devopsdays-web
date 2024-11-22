@@ -24,7 +24,7 @@ registration_link: "https://www.devopsdaysjkt.org" # If you have a custom regist
 # Location
 #
 coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Menara BRILiaN, 3rd Floor. Jl. Gatot Subroto No. 177A, Jakarta - Indonesia" # Defaults to city, but you can make it the venue name.
+location: "Birawa Assembly Hall, Bidakara, Jl. Gatot Subroto No.8 Menteng Dalam, Tebet, Jakarta 12870, Indonesia" # Defaults to city, but you can make it the venue name.
 #
 #location_address: "Online conference platform" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
@@ -92,8 +92,8 @@ organizer_email: "jakarta@devopsdays.org" # Put your organizer email address her
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id:  bri
-    level: track
+  - id:  fordigi
+    level: supported
   - id:  f5
     level: platinum
   - id:  opentext
@@ -102,21 +102,31 @@ sponsors:
     level: platinum
   - id:  couchbase
     level: platinum
+  - id:  aws
+    level: platinum
   - id:  naradacode
     level: platinum
-  - id: grafanabr
+  - id: grafana
+    level: silver
+  - id: pingcap
     level: silver
   - id: itg
     level: gold
   - id: aiven
+    level: gold
+  - id: veeam
+    level: gold
+  - id: snyk
+    level: gold
+  - id: yugabytedb
+    level: gold
+  - id: hashicorp
     level: gold
   - id: devops-indonesia
     level: community
   - id: bncc
     level: community
   - id: jvm
-    level: community
-  - id: itilindonesia
     level: community
   - id: petanikode
     level: community
@@ -134,6 +144,8 @@ sponsors:
     level: media
   - id: girlskode
     level: media
+  - id: event-jakarta
+    level: media
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -141,8 +153,8 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: track
-    label: Ultimate
+  - id: supported
+    label: Supported
     max: 1
   - id: platinum
     label: Platinum

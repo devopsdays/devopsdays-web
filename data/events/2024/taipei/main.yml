@@ -70,11 +70,17 @@ organizer_email: "taipei@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: cloudflare
+    level: platinum
   - id: extremedata 
     level: platinum
   - id: gitlab
     level: platinum
   - id: cm-security
+    level: gold
+  - id: hashicorp
+    level: gold
+  - id: omniwaresoft
     level: gold
   - id: shopline
     level: gold
@@ -94,6 +100,13 @@ sponsors:
     level: bronze
   - id: hackmd
     level: community
+  - id: devopsdaystokyo2024
+    level: community
+  - id: klickklack
+    level: community
+  - id: tlbc
+    level: community
+
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 #  - id: arresteddevops
 #   level: community

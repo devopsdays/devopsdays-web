@@ -10,10 +10,10 @@ Description = "Sponsor DevOpsDays Tampa Bay 2024"
     <img alt="DevOpsDays Tampa Bay 2024" src="/events/2024-tampa/logo.png" class="img-fluid">
     <div class="d-flex flex-row">
       <div class="col-md-12">
-        <!-- <div class="p-2">
-          <a target="_blank" class="btn btn-secondary btn-block" href="https://www.eventbrite.com/e/devopsdays-tampa-bay-2024-tickets-635898929817"> <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;
+        <div class="p-2">
+          <a target="_blank" class="btn btn-secondary btn-block" href="https://www.eventbrite.com/e/devopsdays-tampa-bay-2024-tickets-916773974637"> <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;
             &nbsp; Purchase a Ticket</a>
-        </div> -->
+        </div>
         <div class="p-2">
           <a class="btn btn-secondary btn-block" href="https://sessionize.com/devops-days-tampa-bay-2024"> <i class="fa fa-microphone"></i>&nbsp;&nbsp;&nbsp;Propose a Talk</a>
         </div>
@@ -82,7 +82,7 @@ Please note, this package is not designed for recruiting companies. We aim to ta
         <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=D32495ZH962JU" target="_blank">Buy Now</a>
         </td>
         <td style="padding: 5px" align="center" valign="top"><b>Diamond</b><br>1 Left<br><br><br>
-        <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZWF76TZ9RUZ8E" target="_blank">Buy Now</a>
+        Sold Out</a>
         </td>
       </tr>
       <tr>
@@ -121,7 +121,7 @@ Please note, this package is not designed for recruiting companies. We aim to ta
         <td style="padding: 5px" align="center"><img width="25" src="/img/checkmark.png"></td>
       </tr>
       <tr>
-        <td>Logo on shirt*</td>
+        <td>Logo on shirt (must be submitted befor 8/15)</td>
         <td style="padding: 5px" align="center"></td>
         <td style="padding: 5px" align="center"><img width="25" src="/img/checkmark.png"></td>
         <td style="padding: 5px" align="center"><img width="25" src="/img/checkmark.png"></td>

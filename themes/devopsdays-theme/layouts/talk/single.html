@@ -149,49 +149,72 @@
     {{- with $p -}}
        {{- if isset .Params "image" -}}
           {{- if ne .Params.image "" -}}
-            <img src = '{{ (printf "/events/%s/speakers/%s" $e.name .Params.image)  }}' class='img-fluid' alt='{{ $.Scratch.Get "speakername" }}'><br /><br />
-          {{- end -}}
+            {{- $assetsfolder := (printf "assets/events/") -}}
+            {{- if (where (readDir $assetsfolder) "Name" $e.name) -}}
+              {{- $assetspeakersfolder := (printf "assets/events/%s/speakers/" $e.name) -}}
+              {{- if fileExists $assetspeakersfolder -}}
+                {{- if (where (readDir $assetspeakersfolder) "Name" .Params.image) -}}
+                  {{- $imagelocation := (printf "events/%s/speakers/%s" $e.name .Params.image) -}}
+                  {{- $imageresource := resources.Get $imagelocation -}}
+                  {{- $imagefile := $imageresource.Fit "600x600 webp Lanczos q100" -}}
+                  <img src = '{{ $imagefile.RelPermalink }}' class="img-fluid" alt="{{ $.Scratch.Get "speakername" }}"/><br />
+                {{- end -}}
+              {{- end -}}
+            {{ else }}
+              <img src = '{{ (printf "/events/%s/speakers/%s" $e.name .Params.image)  }}' class='img-fluid' alt='{{ $.Scratch.Get "speakername" }}'><br /><br />
+            {{- end -}}
           {{- else -}}
             <img src = "/img/speaker-default.jpg" class='img-fluid'  alt='{{ $.Scratch.Get "speakername" }}'><br /><br />
+          {{- end -}}
         {{- end -}}
           <h4 class="talk-page"><a href = '{{ (printf "/events/%s/speakers/%s" $e.name ($.Scratch.Get "speakername")) }}'}>
             {{ .Title }}
           </a></h4>
         {{- if isset .Params "twitter" -}}
           {{- if ne .Params.twitter "" -}}
-            <a href = "https://twitter.com/{{ .Params.twitter }}"><i class="fa fa-twitter fa-2x" aria-hidden="true"></i>&nbsp;</a>
+            <a href = "https://twitter.com/{{ .Params.twitter }}"><i class="fa-brands fa-twitter fa-2x" aria-hidden="true"></i>&nbsp;</a>
           {{- end -}}
         {{- end -}}
         {{- if isset .Params "website" -}}
           {{- if ne .Params.website "" -}}
-            <a href = "{{ .Params.website }}"><i class="fa fa-home fa-2x" aria-hidden="true"></i>&nbsp;</a>
+            <a href = "{{ .Params.website }}"><i class="fa-solid fa-house fa-2x" aria-hidden="true"></i>&nbsp;</a>
           {{- end -}}
         {{- end -}}
     {{- if isset .Params "facebook" -}}
       {{- if ne .Params.facebook "" -}}
-        <a href = "{{ .Params.facebook }}"><i class="fa fa-facebook-official fa-2x" aria-hidden="true"></i>&nbsp;</a>
+        <a href = "{{ .Params.facebook }}"><i class="fa-brands fa-facebook fa-2x" aria-hidden="true"></i>&nbsp;</a>
       {{- end -}}
     {{- end -}}
     {{- if isset .Params "linkedin" -}}
       {{- if ne .Params.linkedin "" -}}
-        <a href = "{{ .Params.linkedin }}"><i class="fa fa-linkedin fa-2x" aria-hidden="true"></i>&nbsp;</a>
+        <a href = "{{ .Params.linkedin }}"><i class="fa-brands fa-linkedin fa-2x" aria-hidden="true"></i>&nbsp;</a>
       {{- end -}}
     {{- end -}}
     {{- if isset .Params "github" -}}
       {{- if ne .Params.github "" -}}
-        <a href = "https://github.com/{{ .Params.github }}"><i class="fa fa-github fa-2x" aria-hidden="true"></i>&nbsp;</a>
+        <a href = "https://github.com/{{ .Params.github }}"><i class="fa-brands fa-github fa-2x" aria-hidden="true"></i>&nbsp;</a>
       {{- end -}}
     {{- end -}}
     {{- if isset .Params "pronouns" -}}
       {{- if ne .Params.pronouns "" -}}
-        <a href = "https://pronoun.is/{{ .Params.pronouns }}"><i class="fa fa-user fa-2x" aria-hidden="true"></i>&nbsp;</a>
+        <a href = "https://pronoun.is/{{ .Params.pronouns }}"><i class="fa-solid fa-user fa-2x" aria-hidden="true"></i>&nbsp;</a>
       {{- end -}}
     {{- end -}}
     {{- if isset .Params "twitch" -}}
       {{- if ne .Params.twitch "" -}}
-        <a href = "https://twitch.tv/{{ .Params.twitch }}"><i class="fa fa-twitch fa-2x" aria-hidden="true"></i>&nbsp;</a>
+        <a href = "https://twitch.tv/{{ .Params.twitch }}"><i class="fa-brands fa-twitch fa-2x" aria-hidden="true"></i>&nbsp;</a>
       {{- end -}}
     {{- end -}}
+    {{- if isset .Params "mastodon" -}}
+    {{- if ne .Params.mastodon "" -}}
+      <a href = "{{ .Params.mastodon }}"><i class="fa-brands fa-mastodon fa-2x" aria-hidden="true"></i>&nbsp;</a>
+    {{- end -}}
+  {{- end -}}
+  {{- if isset .Params "bluesky" -}}
+  {{- if ne .Params.bluesky "" -}}
+    <a href = "{{ .Params.bluesky }}"><i class="fa-brands fa-bluesky fa-2x" aria-hidden="true"></i>&nbsp;</a>
+  {{- end -}}
+{{- end -}}
 
     <br />
           <span class="talk-page content-text">

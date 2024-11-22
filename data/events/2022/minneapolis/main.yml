@@ -140,7 +140,7 @@ sponsors:
     level: platinum
   - id: datadog
     level: silver
-  - id: snyk
+  - id: snyk-before-20240621
     level: gold
   - id: couchbase
     level: silver
