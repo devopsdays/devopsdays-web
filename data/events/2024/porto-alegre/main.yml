@@ -53,6 +53,14 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: Chamadas (C4P)
     icon: "paper-plane-o"
     url: https://www.papercall.io/devopsdayspoa2023
+  
+  - name: programação
+    icon: "calendar"
+    url: /events/2024-porto-alegre/program
+
+  - name: palestrantes
+    icon: "microphone"
+    url: /events/2024-porto-alegre/speakers
 
   - name: contato
     icon: "envelope-o"
