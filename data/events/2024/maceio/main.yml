@@ -42,7 +42,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: conduct-pt-br
   - name: sponsor
   - name: contact
- # - name: program
+  - name: program
   # - name: speakers
   #   url: /events/2024-maceio/welcome
  # - name: propose
@@ -130,3 +130,92 @@ sponsors:
 # Community
 - id: senai-al
   level: community
+
+
+program:
+  - title: "Recepção / Credenciamento dos participantes"
+    type: custom
+    date: 2024-11-30
+    start_time: "09:00"
+    end_time: "09:00"
+  - title: "Abertura do evento e boas-vindas"
+    type: custom
+    date: 2024-11-30
+    start_time: "09:30"
+    end_time: "09:55"
+  - title: "Coffee break matutino"
+    type: custom
+    date: 2024-11-30
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "erivaldo"
+    type: talk
+    date: 2024-11-30
+    start_time: "10:30"
+    end_time: "10:55"
+    background_color: "#cc99ff"
+  - title: "guilherme"
+    type: talk
+    date: 2024-11-30
+    start_time: "11:00"
+    end_time: "11:25"
+  - title: "lara"
+    type: talk
+    date: 2024-11-30
+    start_time: "11:30"
+    end_time: "11:55"
+  - title: "tony"
+    type: talk
+    date: 2024-11-30
+    start_time: "12:00"
+    end_time: "12:25"
+  - title: "Almoço"
+    type: custom
+    date: 2024-11-30
+    start_time: "12:30"
+    end_time: "13:50"
+  - title: "Retorno almoço / Reabertura do evento"
+    type: custom
+    date: 2024-11-30
+    start_time: "13:50"
+    end_time: "13:55"
+  - title: "daniel"
+    type: talk
+    date: 2024-11-30
+    start_time: "14:00"
+    end_time: "14:25"
+  - title: "baltazar"
+    type: talk
+    date: 2024-11-30
+    start_time: "14:30"
+    end_time: "14:55"
+  - title: "marcello"
+    type: talk
+    date: 2024-11-30
+    start_time: "15:00"
+    end_time: "15:25"
+  - title: "lucas"
+    type: talk
+    date: 2024-11-30
+    start_time: "15:30"
+    end_time: "15:55"
+  - title: "Coffee break vespertino"
+    type: custom
+    date: 2024-11-30
+    start_time: "16:00"
+    end_time: "16:30"
+  - title: "vinicius"
+    type: talk
+    date: 2024-11-30
+    start_time: "16:30"
+    end_time: "16:55"
+  - title: "carlos"
+    type: talk
+    date: 2024-11-30
+    start_time: "17:00"
+    end_time: "17:25"
+  - title: "Encerramento"
+    type: custom
+    date: 2024-11-30
+    start_time: "17:30"
+    end_time: "18:00"
