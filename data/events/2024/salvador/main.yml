@@ -37,16 +37,16 @@ location: "Salvador" # Defaults to city, but you can make it the venue name.
 location_address: "Avenida Professor Pinto de Aguiar, 2589 - Pituaçu, Salvador - BA, 41740-090"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: CFP
-    url: https://talks.devopsdays.org/devopsdays-salvador-2025/cfp
+  # - name: CFP
+  #   url: https://talks.devopsdays.org/devopsdays-salvador-2025/cfp
   - name: location
   - name: ticket
     url: https://dodssa2024.eventize.com.br/index.php?pagina=4
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct-pt-br
- # - name: program
-  - name: speakers
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
@@ -120,3 +120,99 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2024-12-07T08:00:00-03:00
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Abertura"
+    type: custom
+    date: 2024-12-07T08:00:00-03:00
+    start_time: "09:00"
+    end_time: "09:30"
+  - title: "camilla-martins"
+    type: talk
+    date: 2024-12-07T08:00:00-03:00
+    start_time: "09:30"
+    end_time: "10:00"
+  - title: "giovana-do-nascimento-pena"
+    type: talk
+    date: 2024-12-07T08:00:00-03:00
+    start_time: "10:00"
+    end_time: "10:20"
+  - title: "lucas-ribeiro-mata"
+    type: talk
+    date: 2024-12-07T08:00:00-03:00
+    start_time: "10:20"
+    end_time: "10:40"
+  - title: "Coffee Break"
+    type: custom
+    date: 2024-12-07T08:00:00-03:00
+    start_time: "10:40"
+    end_time: "11:00"
+  - title: "everton-mendonca-de-jesus"
+    type: talk
+    date: 2024-12-07T08:00:00-03:00
+    start_time: "11:00"
+    end_time: "11:20"
+  - title: "lara-xavier"
+    type: talk
+    date: 2024-12-07T08:00:00-03:00
+    start_time: "11:20"
+    end_time: "11:40"
+  - title: "Almoço"
+    type: custom
+    date: 2024-12-07T08:00:00-03:00
+    start_time: "11:40"
+    end_time: "13:30"
+  - title: "Ignite Karaoke"
+    type: custom
+    date: 2024-12-07T08:00:00-03:00
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "waldemar"
+    type: talk
+    date: 2024-12-07T08:00:00-03:00
+    start_time: "14:00"
+    end_time: "14:30"
+  - title: "eduardo-paim"
+    type: talk
+    date: 2024-12-07T08:00:00-03:00
+    start_time: "14:30"
+    end_time: "14:50"
+  - title: "rafael-levi-batista-costa"
+    type: talk
+    date: 2024-12-07T08:00:00-03:00
+    start_time: "14:50"
+    end_time: "15:10"
+  - title: "Coffee Break"
+    type: custom
+    date: 2024-12-07T08:00:00-03:00
+    start_time: "15:10"
+    end_time: "15:30"
+  - title: "Open Spaces"
+    type: custom
+    date: 2024-12-07T08:00:00-03:00
+    start_time: "15:40"
+    end_time: "16:20"
+  - title: "clayton-cavaleiro"
+    type: talk
+    date: 2024-12-07T08:00:00-03:00
+    start_time: "16:20"
+    end_time: "16:40"
+  - title: "tbd"
+    type: talk
+    date: 2024-12-07T08:00:00-03:00
+    start_time: "16:40"
+    end_time: "17:00"
+  - title: "camila-viana"
+    type: talk
+    date: 2024-12-07T08:00:00-03:00
+    start_time: "17:00"
+    end_time: "17:30"
+  - title: "Closing"
+    type: custom
+    date: 2024-12-07T08:00:00-03:00
+    start_time: "17:30"
+    end_time: "18:00"
