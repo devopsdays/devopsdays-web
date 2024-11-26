@@ -118,6 +118,8 @@ sponsor_levels:
   - id: community
 
 sponsors:
+  - id: devzero
+    level: gold
   - id: kubecareers
     level: media
     url: https://kube.careers/
