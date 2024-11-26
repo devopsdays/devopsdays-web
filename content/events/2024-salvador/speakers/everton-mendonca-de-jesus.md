@@ -4,7 +4,7 @@ Twitter = ""
 linkedin = ""
 image = "everton-mendonca-de-jesus.jpeg"
 type = "speaker"
-linktitle = "everton-mendonça-de-jesus"
+linktitle = "everton-mendonca-de-jesus"
 
 +++
 
