@@ -1,10 +1,10 @@
 +++
-Title = "Lucas Ribeiro Mata"
+Title = "Jonathan Pericoco"
 linkedin = ""
-image = "lucas-ribeiro.jpeg"
+image = "jonathan-pericoco.jpeg"
 Twitter = ""
 type = "speaker"
-linktitle = "lucas-ribeiro"
+linktitle = "jonathan-pericoco.md"
 +++
 
 Engenheiro mecânico formado pela Escola Politécnica da UFRJ, com mestrado em engenharia elétrica pela Escola Politécnica da USP e pela University of Twente. Desde 2019, atua de forma interdisciplinar no desenvolvimento de projetos de P&D no Centro Interdisciplinar em Tecnologias Interativas da Universidade de São Paulo (CITI-USP), com foco em soluções de Internet das Coisas (IoT) e visão computacional.
