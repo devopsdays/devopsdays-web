@@ -4,7 +4,7 @@ Type = "event"
 Description = "Sponsor DevOpsDays Prague 2025"
 +++
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
+We greatly value sponsors for this open event.  If you are interested in sponsoring, please <a href="mailto:sponsors@devopsdays.cz?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Prague%202025">send us an email</a>.
 
 <hr>
 
@@ -15,8 +15,138 @@ Gold sponsors get a full table and Silver sponsors a shared table where they can
 The best thing to do is send engineers to interact with the experts at DevOpsDays on their own terms.
 <p>
 
-<!--
 <hr/>
+
+<center><h3>Sponsor Packages</h3></center>
+
+<div align="center">
+<table border=1 cellspacing=1 cellpadding=10>
+  <tr>
+    <th></th>
+    <th><center>Community</center></th>
+    <th><center>Gold</center></th>
+    <th><center>Silver</center></th>
+    <th><center>Bronze</center></th>
+    <th><center>Lanyard</center></th>
+  </tr>
+  <tr>
+    <td>Price</td>
+    <td><center>FREE</center></td>
+    <td><center>4000&nbsp;EUR</center></td>
+    <td><center>2500&nbsp;EUR</center></td>
+    <td><center>1200&nbsp;EUR</center></td>
+    <td><center>3000&nbsp;EUR</center></td>
+  </tr>
+  <tr>
+    <td>Number available</td>
+    <td bgcolor="#d9ead3">∞</td>
+    <td bgcolor="#d9ead3">4</td>
+    <td bgcolor="#d9ead3">10</td>
+    <td bgcolor="#d9ead3">∞</td>
+    <td bgcolor="#d9ead3">1</td>
+  </tr>
+  <tr>
+    <td>Tickets included</td>
+    <td bgcolor="#d9ead3">1</td>
+    <td bgcolor="#d9ead3">6</td>
+    <td bgcolor="#d9ead3">4</td>
+    <td bgcolor="#d9ead3">2</td>
+    <td bgcolor="#d9ead3">4</td>
+  </tr>
+  <tr>
+    <td>Discount for additional tickets</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Booth</td>
+    <td>&nbsp;</td>
+    <td bgcolor="#d9ead3">large</td>
+    <td bgcolor="#d9ead3">small</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Banner/roll-up on the main stage</td>
+    <td>&nbsp;</td>
+    <td bgcolor="#d9ead3">1</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td bgcolor="#d9ead3">1</td>
+  </tr>
+  <tr>
+    <td>On stage pitch</td>
+    <td>&nbsp;</td>
+    <td bgcolor="#d9ead3">1min</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Logo on a dedicated slide during breaks</td>
+    <td>&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Logo on a shared slide during breaks</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Special perk</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td bgcolor="#d9ead3">Logo on Lanyard</td>
+  </tr>
+  <tr>
+    <td>Logo in newsletters</td>
+    <td>&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Placement of company logo on social media</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Logo on the event page</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Swags bag insert</td>
+    <td>&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
+  </tr>
+</table>
+</div>
+<hr/>
+
+<!--
+
 
 <div style="width:590px">
 <table border=1 cellspacing=1>
