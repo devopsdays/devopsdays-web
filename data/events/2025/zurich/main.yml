@@ -43,7 +43,7 @@ nav_elements:
 - name: location
 - name: sponsor
 - name: diversity
-  #- name: registration
+- name: registration
 - name: contact
 - name: conduct
 # - name: example
