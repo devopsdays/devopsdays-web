@@ -35,7 +35,8 @@ location: "Alte Kaserne Winterthur" # Defaults to city, but you can make it the 
 #
 location_address: "Technikumstrasse 8, 8400 Winterthur, Switzerland" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
-nav_elements: # List of pages you want to show up in the navigation of your page.
+nav_elements:
+# List of pages you want to show up in the navigation of your page.
 - name: propose
 #- name: program
 #- name: speakers
@@ -51,7 +52,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 
 # These are the same people you have on the mailing list and Slack channel.
-team_members: # Name is the only required field for team members.
+team_members:
+# Name is the only required field for team members.
 - name: "Martin Thalmann"
   twitter: "martin_thalmann"
   employer: "monum GmbH"
@@ -150,21 +152,25 @@ sponsors:
   level: gold
 - id: bit
   level: gold
-- id: infometis 
+- id: redgate
+  level: gold
+- id: elastic
+  level: gold
+- id: infometis
   level: silver
-- id: zkb 
+- id: zkb
   level: silver
-- id: 4data 
+- id: 4data
   level: silver
 - id: cloudscalech
   level: event
 - id: amanox
   level: bronze
-- id: eficode 
+- id: eficode
   level: event
-- id: cognizant 
+- id: cognizant
   level: bronze
-- id: dbi-services 
+- id: dbi-services
   level: bronze
 
 sponsors_accepted: "no" # Whether you want "Become a XXX Sponsor!" link
