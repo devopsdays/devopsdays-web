@@ -16,16 +16,16 @@ enddate: 2025-03-13T23:59:59+02:00 # The end date of your event. Leave blank if 
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2024-10-01T00:00:00+02:00 # start accepting talk proposals.
-cfp_date_end: 2025-01-15T23:59:59+02:00 # close your call for proposals.
+cfp_date_end: 2024-11-30T23:59:59+02:00 # close your call for proposals.
 cfp_date_announce: 2024-10-01T00:00:00+02:00 # inform proposers of status
 
-cfp_open: "false"
+cfp_open: "false" 
 cfp_link: "https://sessionize.com/devopsdays-zurich-2025/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: 2024-11-08T00:00:00+02:00
+registration_date_start: 2024-12-01T00:00:00+02:00
 registration_date_end: 2025-03-12T00:00:00+02:00
 
-registration_closed: "true" #set this to true if you need to manually close registration before your registration end date
+registration_closed: "false" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://ti.to/dod/dodzh2025" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
@@ -35,14 +35,15 @@ location: "Alte Kaserne Winterthur" # Defaults to city, but you can make it the 
 #
 location_address: "Technikumstrasse 8, 8400 Winterthur, Switzerland" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
-nav_elements: # List of pages you want to show up in the navigation of your page.
-- name: propose
+nav_elements:
+# List of pages you want to show up in the navigation of your page.
+#- name: propose
 #- name: program
 #- name: speakers
 - name: location
 - name: sponsor
 - name: diversity
-  #- name: registration
+- name: registration
 - name: contact
 - name: conduct
 # - name: example
@@ -51,7 +52,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 
 # These are the same people you have on the mailing list and Slack channel.
-team_members: # Name is the only required field for team members.
+team_members:
+# Name is the only required field for team members.
 - name: "Martin Thalmann"
   twitter: "martin_thalmann"
   employer: "monum GmbH"
@@ -150,21 +152,25 @@ sponsors:
   level: gold
 - id: bit
   level: gold
-- id: infometis 
+- id: redgate
+  level: gold
+- id: elastic
+  level: gold
+- id: infometis
   level: silver
-- id: zkb 
+- id: zkb
   level: silver
-- id: 4data 
+- id: 4data
   level: silver
 - id: cloudscalech
   level: event
 - id: amanox
   level: bronze
-- id: eficode 
+- id: eficode
   level: event
-- id: cognizant 
+- id: cognizant
   level: bronze
-- id: dbi-services 
+- id: dbi-services
   level: bronze
 
 sponsors_accepted: "no" # Whether you want "Become a XXX Sponsor!" link
