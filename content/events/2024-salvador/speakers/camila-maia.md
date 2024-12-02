@@ -1,10 +1,10 @@
 +++
-Title = "Camila Viana"
+Title = "Camila Maia"
 Twitter = ""
 linkedin = ""
 image = "tbd.jpeg"
 type = "speaker"
-linktitle = "camila-viana"
+linktitle = "camila-maia"
 
 +++
 
