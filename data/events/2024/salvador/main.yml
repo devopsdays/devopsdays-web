@@ -102,6 +102,12 @@ sponsors:
     level: community
   - id: linuxtips
     level: community
+  - id: ntopus
+    level: silver
+  - id: cubos
+    level: silver
+  - id: solutis
+    level: silver
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
