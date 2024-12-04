@@ -4,7 +4,7 @@ Type = "event"
 Description = "Sponsor DevOpsDays Kansas City 2025"
 +++
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
+We greatly value sponsors for this open event. If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}]. We are always open to discussing custom packages for sponsorships or collaboration, and with us **co-locating with KCDC for 2025 there are some opportunites to reach a wider audience**.
 
 <hr>
 
@@ -15,7 +15,7 @@ Gold sponsors get a full table and Silver sponsors a shared table where they can
 The best thing to do is send engineers to interact with the experts at DevOpsDays on their own terms.
 <p>
 
-<h3 style="color: red;">Sponsorship Prospectus coming soon!</h3>
+<h3><a href="https://drive.google.com/file/d/1Yb8JkH0wRZBL2op3QCLvF-Ua6lhmEFRe/view?usp=drive_link">2025 Sponsorship Prospectus available!</a></h3>
 
 <!--
 <hr/>

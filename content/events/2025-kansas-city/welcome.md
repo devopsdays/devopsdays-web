@@ -21,19 +21,20 @@ Description = "DevOpsDays Kansas City, after a successful return in 2024, is bac
           <div class = "row justify-content-center">
             <div class = "d-flex p-2">
               <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="/events/2025-kansas-city/sponsor">
-                <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor
+                <i class="fa-solid fa-handshake-angle"></i>&nbsp;&nbsp;&nbsp;Sponsor
               </a>
             </div>
             <div class = "d-flex p-2">
               <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="/events/2025-kansas-city/contact">
-                <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Contact
+                <i class="fa-solid fa-user"></i>&nbsp;&nbsp;&nbsp;Contact
               </a>
             </div>
-            <!-- <div class = "d-flex p-2">
-                <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://tickets.devopsdays.org/devopsdays-kansascity/2025/">
-                  <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Register
+            <div class = "d-flex p-2">
+                <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://lists.devopsdays.org/subscription?f=TYbgJMtfqomf8uYARrTHhqAKoinSX763iDCLAvdcUFPDW2aF7J7EY53W1TeVcYoawk
+                ">
+                  <i class="fa-solid fa-envelope"></i>&nbsp;&nbsp;&nbsp;Subscribe to the Mailing List
                 </a>
-            </div> -->
+            </div>
             <!-- <div class = "d-flex p-2">
               <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://talks.devopsdays.org/devopsdays-kc-2025/cfp">
                 <i class="fa fa-microphone fa-lg"></i>&nbsp;&nbsp;&nbsp;Propose
