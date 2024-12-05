@@ -120,6 +120,10 @@ sponsor_levels:
 sponsors:
   - id: devzero
     level: gold
+  - id: honeycomb
+    level: gold
+  - id: semaphore
+    level: gold
   - id: kubecareers
     level: media
     url: https://kube.careers/
