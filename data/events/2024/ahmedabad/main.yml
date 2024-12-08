@@ -58,12 +58,16 @@ team_members: # Name is the only required field for team members.
   - name: "Darpan Amre"
     linkedin: "https://www.linkedin.com/in/darpan-ketan-amre-04b27a1a2/"
     twitter: "AmreDarpan"
-  - name: "Mehul Patel"
-    linkedin: "https://www.linkedin.com/in/nomadicmehul"
-    twitter: "NomadicMehul"
   - name: "Neel Shah"
     linkedin: "https://www.linkedin.com/in/neelcshah/"
     twitter: "shahneel2409"
+  - name: "Anshul Patel"
+    linkedin: "https://www.linkedin.com/in/anshul-patel-29a95635"
+  - name: "Dharmit Shah"
+    linkedin: "https://www.linkedin.com/in/dharmitshah/"
+    twitter: "dharm1t"
+  - name: "Omshree Butani"
+    linkedin: "https://www.linkedin.com/in/omshree-butani"
 
 organizer_email: "ahmedabad@devopsdays.org" # Put your organizer email address here
 
