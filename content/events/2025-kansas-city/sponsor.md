@@ -17,34 +17,32 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
 
 <h3><a href="https://drive.google.com/file/d/1Yb8JkH0wRZBL2op3QCLvF-Ua6lhmEFRe/view?usp=drive_link">2025 Sponsorship Prospectus available!</a></h3>
 
-<!--
 <hr/>
 
-<div style="width:590px">
-<table border=1 cellspacing=1>
+<div>
+<table border=1 cellspacing=1 width="50%">
   <tr>
-    <th><i>packages</i></th>
-    <th><center><b><u>Bronze<br />1000 usd</u></center></b></th>
-    <th><center><b><u>Silver<br />3000 usd</u></center></b></th>
-    <th><center><b><u>Gold<br />5000 usd</u></center></b></th>
+    <th><i>Packages</i></th>
+    <th bgcolor="gold"><center><b><u>Gold<br />$6000 usd</u></center></b></th>
+    <th bgcolor="silver"><center><b><u>Silver<br />$4000 usd</u></center></b></th>
     <th></th>
   </tr>
-<tr><td>2 included tickets</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on event website</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on shared slide, rotating during breaks</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on all email communication</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on its own slide, rotating during breaks</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>1 minute pitch to full audience (including streaming audience)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr></tr>
-<tr><td>2 additional tickets (4 in total)</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td>4 additional tickets (6 in total)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>shared table for swag</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td>booth/table space</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
+<tr align="center"><th>Tickets included</td><td bgcolor="gold">4</td><td bgcolor="silver">2</td></tr>
+<tr align="center"><th>Logo on event website</td><td bgcolor="gold">&nbsp;</td><td bgcolor="silver">&nbsp;</td></tr>
+<tr align="center"><th>Logo on all marketing materials (incl. emails)</td><td bgcolor="gold">&nbsp;</td><td bgcolor="silver">&nbsp;</td></tr>
+<tr align="center"><th>Logo on shared slide, rotating during breaks</td><td>&nbsp;</td><td bgcolor="silver">&nbsp;</td></tr>
+<tr align="center"><th>Logo on its own slide, rotating during breaks</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
+<tr align="center"><th>Logo on banners</td><td bgcolor="gold">&nbsp;</td><td bgcolor="silver">&nbsp;</td></tr>
+<tr align="center"><th>Dedicated table in sponsor area</td><td bgcolor="gold">High priority</td><td bgcolor="silver">Standard</td></tr>
+<tr align="center"><th>3 minute pitch to full audience</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
+<tr align="center"><th>1 minute pitch to full audience</td><td>&nbsp;</td><td bgcolor="silver">&nbsp;</td></tr>
 </table>
 <hr/>
 There are also opportunities for exclusive special sponsorships. We'll have sponsors for various events with special privileges for the sponsors of these events. If you are interested in special sponsorships or have a creative idea about how you can support the event, send us an email.
 <br/>
 <br/>
 
+<!--
 <br>
 <br>
 <table border=1 cellspacing=1>
