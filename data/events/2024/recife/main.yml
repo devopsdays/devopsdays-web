@@ -64,6 +64,12 @@ team_members: # Name is the only required field for team members.
     bio: ""
     linkedin: "https://www.linkedin.com/in/fabioqcorreia"
 
+  - name: "Henrique Cordeiro"
+    employer: "Avantsoft"
+    image: "henrique-cordeiro.png"
+    bio: ""
+    linkedin: "https://www.linkedin.com/in/henrique-cordeiro-pereira/"
+
   - name: "Lucas Assad"
     employer: "Ustore"
     image: "lucas-assad.jpg" 
