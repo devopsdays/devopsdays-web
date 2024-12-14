@@ -7,8 +7,8 @@ talk_end_time = "9:55"
 Title = "Concept to Code to Runtime - Simplify, Enable, Exploit"
 Type = "talk"
 Speakers = ["srivatsan-ta"]
-youtube = ""
-speakerdeck = ""
+youtube = "K4_jfYDO7K4"
+speakerdeck = "https://speakerdeck.com/devopsdayssg/concept-to-code-to-run-simplify-enable-exploit"
 sharing_image = "2024-srivatsan-ta.jpg"
 +++
 

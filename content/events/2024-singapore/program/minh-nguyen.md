@@ -7,8 +7,8 @@ talk_end_time = "14:35"
 Title = "Code Strong, Hack-Proof: Elevate DevOps Journey with API Security, Containers, and Traffic!"
 Type = "talk"
 Speakers = ["minh-nguyen"]
-youtube = ""
-speakerdeck = ""
+youtube = "NaYysB6odiA"
+speakerdeck = "https://speakerdeck.com/devopsdayssg/minh-nguyen-code-strong-hack-proof-elevate-devops-journey-with-api-security-containers-and-traffic"
 +++
 
 ### Ignite
