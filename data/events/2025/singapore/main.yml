@@ -1,6 +1,7 @@
 name: "2025-singapore" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2025" # The year of the event. Make sure it is in quotes.
 city: "singapore" # The displayed city name of the event. Capitalize it.
+event_logo: "logo-square.png"
 event_twitter: "devopsdaysSG" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "Devopsdays Singapore is on 14-15 May, 2025" # Edit this to suit your preferences
 ga_tracking_id: "UA-157812456-1" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
