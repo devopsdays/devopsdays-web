@@ -7,7 +7,7 @@ talk_end_time = "14:05"
 Title = "Preventing Cloud Security Misconfigurations and Application Vulnerabilities"
 Type = "talk"
 Speakers = ["pas-apicella"]
-youtube = ""
+youtube = "NaYysB6odiA"
 speakerdeck = ""
 sharing_image = "2024-pas-apicella.png"
 +++

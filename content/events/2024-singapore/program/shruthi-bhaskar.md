@@ -7,8 +7,8 @@ talk_end_time = "14:10"
 Title = "Harnessing Generative AI in Tech Pipelines"
 Type = "talk"
 Speakers = ["shruthi-bhaskar"]
-youtube = ""
-speakerdeck = ""
+youtube = "qXoZ2P7t1TI"
+speakerdeck = "https://speakerdeck.com/devopsdayssg/harnessing-generative-ai-in-tech-pipelines-by-shruthi-bhaskar"
 sharing_image = "2024-shruthi-bhaskar.jpg"
 +++
 

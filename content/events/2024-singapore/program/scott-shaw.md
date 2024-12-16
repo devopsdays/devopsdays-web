@@ -7,7 +7,7 @@ talk_end_time = "9:55"
 Title = "Engineering Platforms Evolved"
 Type = "talk"
 Speakers = ["scott-shaw"]
-youtube = ""
+youtube = "b9O4BvUfOic"
 speakerdeck = ""
 sharing_image = "2024-scott-shaw.jpg"
 +++
