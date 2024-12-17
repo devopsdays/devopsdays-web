@@ -35,8 +35,6 @@ Description = "devopsdays Aarhus 2025"
     <p>
       Share your ideas, experiences, or stories in the DevOps space. <a href="https://sessionize.com/devopsdays-aarhus-2025/">Submit your talk proposal and join the conversation!</a>
     </p>
-    <h3>Call for Speakers</h3>
-    <p><a href="https://devopsdaysdenmark.ticketbutler.io/e/devopsdays-aarhus-2025/">Registration is open</a></p>
     <h3>Tickets</h3>
     <p><a href="https://devopsdaysdenmark.ticketbutler.io/e/devopsdays-aarhus-2025/">Registration is open</a></p>
     <div class="row">
