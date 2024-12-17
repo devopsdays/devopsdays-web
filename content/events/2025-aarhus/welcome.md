@@ -31,6 +31,10 @@ Description = "devopsdays Aarhus 2025"
       There will also be ample opportunities for open-space discussions and networking
       throughout the conference. What's not to love?
     </p>
+    <h3>Want to Speak at DevOpsDays Aarhus?</h3>
+    <p>
+      Share your ideas, experiences, or stories in the DevOps space. <a href="https://sessionize.com/devopsdays-aarhus-2025/">Submit your talk proposal and join the conversation!</a>
+    </p>
     <h3>Tickets</h3>
     <p><a href="https://devopsdaysdenmark.ticketbutler.io/e/devopsdays-aarhus-2025/">Registration is open</a></p>
     <div class="row">
