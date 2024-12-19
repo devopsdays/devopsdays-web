@@ -124,6 +124,8 @@ sponsors:
     level: gold
   - id: semaphore
     level: gold
+  - id: stateful
+    level: silver
   - id: kubecareers
     level: media
     url: https://kube.careers/
