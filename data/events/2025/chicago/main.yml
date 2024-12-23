@@ -169,6 +169,10 @@ sponsors:
     level: gold  
   - id: relativity
     level: gold
+  - id: fusion-auth
+    level: gold
+  - id: cortex
+    level: gold
   - id: arresteddevops
     level: community
   - id: kubecareers
