@@ -118,6 +118,8 @@ sponsor_levels:
   - id: community
 
 sponsors:
+  - id: akamai
+    level: gold
   - id: devzero
     level: gold
   - id: honeycomb
