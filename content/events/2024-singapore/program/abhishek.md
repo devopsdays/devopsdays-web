@@ -8,8 +8,8 @@ talk_end_time = "14:15"
 Title = "Progressive Delivery with Argo Rollouts: The Future of Deployments"
 Type = "talk"
 Speakers = ["abhishek"]
-youtube = ""
-speakerdeck = ""
+youtube = "NaYysB6odiA"
+speakerdeck = "https://speakerdeck.com/devopsdayssg/progressive-delivery-with-rollouts"
 sharing_image = "2024-abhishek.jpg"
 +++
 
