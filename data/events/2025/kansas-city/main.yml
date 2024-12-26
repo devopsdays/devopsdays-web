@@ -137,17 +137,17 @@ sponsor_levels:
     max: 10 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
-  - id: technology
-    label: Technology
-    max: 2
-  - id: social-event
-    label: Social Event
-    max: 2
-  - id: lanyards
-    label: Lanyards
-    max: 2
+  # - id: technology
+  #   label: Technology
+  #   max: 2
+  # - id: social-event
+  #   label: Social Event
+  #   max: 2
+  # - id: lanyards
+  #   label: Lanyards
+  #   max: 2
   - id: coffee
-    label: Coffee
+    label: Coffee & Breaks
     max: 2
   - id: corporate
     label: Corporate
