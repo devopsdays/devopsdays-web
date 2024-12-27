@@ -10,7 +10,7 @@ Meta Infrastructure Team
 </h3>
 
 <p>
-Nothing yet
+
 </p>
 
 <style>

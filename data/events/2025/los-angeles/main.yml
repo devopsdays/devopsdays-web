@@ -17,7 +17,7 @@ enddate: 2025-03-07T22:00:00-08:00 # The end date of your event. Leave blank if 
 cfp_date_start: 2024-08-20T00:00:00-08:00  # start accepting talk proposals.
 cfp_date_end:  2024-11-01T00:00:00-08:00 # close your call for proposals.
 cfp_date_announce: 2024-12-01T00:00:00-08:00 # inform proposers of status
-cfp_open: "true"
+cfp_open: "false"
 
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
@@ -44,9 +44,9 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     url: https://register.socallinuxexpo.org/reg6/
   #- name: CFP
   #  url: https://www.socallinuxexpo.org/scale/22x/cfp
-  #- name: registration
-  #- name: program
-  #- name: speakers
+  - name: registration
+  - name: program
+  - name: speakers
   #- name: propose
   - name: volunteer
   - name: sponsor
@@ -134,3 +134,65 @@ sponsors:
   - id: kubeevents
     level: media
     url: https://kube.events/
+
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2025-03-07T00:00:00-08:00
+    start_time: "09:00"
+    end_time: "10:00"
+  - title: "kathryn-bouskill"
+    type: talk
+    date: 2025-03-07T00:00:00-08:00
+    start_time: "10:00"
+    end_time: "10:45"
+  - title: "patrice-lindo"
+    type: talk
+    date: 2025-03-07T00:00:00-08:00
+    start_time: "11:00"
+    end_time: "11:45"
+  - title: "Open Spaces"
+    type: custom
+    date: 2025-03-07T00:00:00-08:00
+    start_time: "12:00"
+    end_time: "13:30"
+  - title: "sara-huddleston"
+    type: talk
+    date: 2025-03-07T00:00:00-08:00
+    start_time: "13:30"
+    end_time: "13:45"
+  - title: "justin-reock"
+    type: talk
+    date: 2025-03-07T00:00:00-08:00
+    start_time: "13:45"
+    end_time: "14:00"
+  - title: "ben-rockwood"
+    type: talk
+    date: 2025-03-07T00:00:00-08:00
+    start_time: "14:00"
+    end_time: "14:45"
+  - title: "heather-osborn"
+    type: talk
+    date: 2025-03-07T00:00:00-08:00
+    start_time: "15:00"
+    end_time: "15:15"
+  - title: "annie-hedgpeth"
+    type: talk
+    date: 2025-03-07T00:00:00-08:00
+    start_time: "15:15"
+    end_time: "15:30"
+  - title: "rob-fletcher"
+    type: talk
+    date: 2025-03-07T00:00:00-08:00
+    start_time: "15:30"
+    end_time: "15:45"
+  - title: "zoe-chalfant"
+    type: talk
+    date: 2025-03-07T00:00:00-08:00
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "scott-bly"
+    type: talk
+    date: 2025-03-07T00:00:00-08:00
+    start_time: "17:00"
+    end_time: "17:45"

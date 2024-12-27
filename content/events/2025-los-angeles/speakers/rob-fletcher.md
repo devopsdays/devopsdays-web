@@ -1,8 +1,8 @@
 +++
-Title = "Debo Ray"
+Title = "Rob Fletcher"
 type = "speaker"
-image = "debo-ray.jpg"
-linktitle = "debo-ray"
+image = "rob-fletcher.jpg"
+linktitle = "rob-fletcher"
 +++
 <h3>
 Co-Founder, COO
