@@ -59,7 +59,7 @@ Description = "DevOpsDays Los Angeles 2025"
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="program" text="Check out our program" >}}
+    {{< event_link page="program" text="Check out the program!" >}}
   </div>
 </div>
 
