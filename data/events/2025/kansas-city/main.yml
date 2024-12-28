@@ -12,8 +12,8 @@ sharing_image: "" # This is the image that shows up when you share the event on 
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2025-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: 2025-08-13T00:00:00-06:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2025-08-13T00:00:00-06:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2025-08-13T08:00:00-06:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2025-08-13T17:00:00-06:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  # start accepting talk proposals.
@@ -99,7 +99,7 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://ben.sc/linkedin"
     github: "https://ben.sc/github"
     image: "ben-dechrai.png"
-    bio: "Ben Dechrai is a technologist with a strong focus on security and privacy. At 11 years old he wrote software to stop his parents from breaking the family PC, and now he works as a developer advocate at Sonar, helping developers avoid breaking the internet through better security and coding practices. He enjoys helping others find the joy of problem-solving and experimentation."
+    bio: "Ben Dechrai is a technologist with a strong focus on security and privacy, recognised as an MVP for his exceptional contributions to the community. Known for his ability to distil complex technical concepts into engaging, digestible portions, Ben empowers developers through a deep understanding of design principles, security considerations, and coding practices. With over two decades of experience in software engineering, security, and architecture, Ben is a published author and has consulted for companies and investors across numerous industries. He is deeply involved in the tech community, running technology conferences and workshops to share his expertise."
   - name: "Aaron Blythe"
     employer: "Google Cloud"
     role: "Advisory"
@@ -137,17 +137,17 @@ sponsor_levels:
     max: 10 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
-  - id: technology
-    label: Technology
-    max: 2
-  - id: social-event
-    label: Social Event
-    max: 2
-  - id: lanyards
-    label: Lanyards
-    max: 2
+  # - id: technology
+  #   label: Technology
+  #   max: 2
+  # - id: social-event
+  #   label: Social Event
+  #   max: 2
+  # - id: lanyards
+  #   label: Lanyards
+  #   max: 2
   - id: coffee
-    label: Coffee
+    label: Coffee & Breaks
     max: 2
   - id: corporate
     label: Corporate
