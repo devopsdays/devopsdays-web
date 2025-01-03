@@ -37,8 +37,8 @@ location_address: "Rua 227-A, 95 - Setor Leste Universitário, Goiânia - GO, 74
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: Chamada de Trabalhos (CfP)
     icon: "paper-plane-o"
-    # url: /events/2025-goiania/propose
-    url: https://talks.devopsdays.org/devopsdays-goiania-2025/
+    url: /events/2025-goiania/propose
+    #url: https://talks.devopsdays.org/devopsdays-goiania-2025/
 
   - name: local
     icon: "map-o"
