@@ -46,7 +46,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
   - name: inscrições
     icon: "ticket"
-    url: https://doity.com.br/dod-gyn-2025/
+    url: https://doity.com.br/dod-gyn-2025/inscrição
     #url: /events/2025-goiania/registration
 
   - name: programação
