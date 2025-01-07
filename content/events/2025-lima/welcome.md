@@ -7,7 +7,7 @@ Description = "devopsdays lima 2025"
 
 <div class="row" style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <div class="col-md-4" style="text-align: center;">
-    <img alt="DevOpsDays Lima de Chile 2025" src="/events/2025-lima/logo.png" class="img-fluid" style="max-width: 100%; border-radius: 8px;">
+    <img alt="DevOpsDays Lima 2025" src="/events/2025-lima/logo.png" class="img-fluid" style="max-width: 100%; border-radius: 8px;">
   </div>
   <div class="col-md-7" style="padding: 10px 20px;">
     <h2 style="color: #0066cc; font-weight: bold; font-size: 1.8em; margin-bottom: 15px;">DevOpsDays llega a Lima, Perú</h2>
@@ -15,7 +15,7 @@ Description = "devopsdays lima 2025"
       Se parte del primer DevOpsDays en Lima
     </p>
     <h2 style="margin-top: 20px; font-size: 1.5em; color: #0066cc;">Información del Evento</h2>
-    <ul style="list-style: none; padding-left: 0; color: #333;">
+    <ul style="list-style: none; padding-left: 0; color: #333;">  
       <li>
         <h3 style="font-weight: bold; color: #333;">Fechas</h3>
       </li>
