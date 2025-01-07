@@ -45,11 +45,12 @@ Description = "DevOpsDays Kansas City, after a successful return in 2024, is bac
                   &nbsp;&nbsp;&nbsp;Subscribe to the Mailing List
               </a>
             </div>
-            <!-- <div class = "d-flex p-2">
-              <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://talks.devopsdays.org/devopsdays-kc-2025/cfp">
-                <i class="fa fa-microphone fa-lg"></i>&nbsp;&nbsp;&nbsp;Propose
+            <div class = "d-flex p-2">
+              <a class="btn btn-primary btn-block" style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://sessionize.com/kcdc-2025" target="_blank">
+              <i class="fa-brands fa-stack-exchange"></i>
+              &nbsp;&nbsp;&nbsp;Propose a Talk
               </a>
-            </div> -->
+            </div>
           </div>
         </div>
       </div>
