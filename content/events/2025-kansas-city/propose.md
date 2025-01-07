@@ -20,7 +20,7 @@ There are three ways to propose a topic at DevOpsDays:
 
 <div class = "row" id = "main-row">
   <div class = "col-md-12">
-      <a class="btn btn-primary btn-block" style = "margin: auto; width: 15%; background-color: #96bfe6; border-color: #96bfe6;" href="">
+      <a class="btn btn-primary btn-block" style = "margin: auto; width: 15%; background-color: #96bfe6; border-color: #96bfe6;" href="https://sessionize.com/kcdc-2025" target="_blank">
           <i class="fa-solid fa-envelope"></i>
           &nbsp;&nbsp;&nbsp;Propose a Talk
       </a>
