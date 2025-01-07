@@ -14,6 +14,8 @@ There are three ways to propose a topic at DevOpsDays:
   <li><strong><em>Open Space</em></strong>: If you'd like to lead a group discussion during the attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout sessions, it is not necessary to propose it ahead of time. Those topics are suggested in person at the conference. If you'd like to demo your product or service, you should <a href="../sponsor">sponsor the event</a> and demo it at your table.
 </ol>
 
+<p>We are looking for talks that focus on the interplay between the human factor and technology, processes, automation, testing, security, platform engineering, reliability, organizational culture, CI/CD, DevOps practices, and career development.</p>
+
 <p>With our collaboration with <span style="color: red; font-size: 1.10rem; font-weight: 900;"><a href="https://kcdc.info" target="_blank">KCDC 2025</a></span>, you'll be able to submit specific talks for DevOpsDays KC (via 'DevOpsDays' talk track), for DevOps-related talks for KCDC (via 'DevOps' talk track), and for the broader KCDC audience.</p>
 
 <div class = "row" id = "main-row">

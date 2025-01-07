@@ -4,7 +4,7 @@ city: "Kansas City" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdayskc" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "DevOpsDays is coming to Kansas City again in 2025!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
-masthead_background: "" # This is the background image for the masthead, relative to static/events/YYYY-CITY
+masthead_background: "kc-unionstation.jpg" # This is the background image for the masthead, relative to static/events/YYYY-CITY
 sharing_image: "" # This is the image that shows up when you share the event on social media, relative to static/events/YYYY-CITY/sharing
 
 # All dates are in unquoted 2025-MM-DDTHH:MM:SS+TZ:TZ, like this:
