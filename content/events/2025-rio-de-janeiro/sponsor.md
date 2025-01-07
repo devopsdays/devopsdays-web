@@ -1,7 +1,7 @@
 +++
 Title = "Sponsor"
 Type = "event"
-Description = "Sponsor devopsdays Rio de Janeiro 2023"
+Description = "Sponsor DevOps Days Rio de Janeiro 2025"
 +++
 
 Valorizamos muito os patrocinadores deste evento aberto. Se você estiver interessado em patrocinar, envie um e-mail para [<a href="mailto:patrocine@devopsdays.org.br">patrocine@devopsdays.rio.br</a>].

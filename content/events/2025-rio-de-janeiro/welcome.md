@@ -1,8 +1,8 @@
 +++
-Title = "devopsdays Rio de Janeiro 2025"
+Title = "DevOps Days Rio de Janeiro 2025"
 Type = "welcome"
 aliases = ["/events/2025-rio-de-janeiro/"]
-Description = "devopsdays Rio de Janeiro 2025"
+Description = "DevOps Days Rio de Janeiro 2025"
 +++
 
 <!-- <div style="text-align:center;">
@@ -11,7 +11,7 @@ Description = "devopsdays Rio de Janeiro 2025"
 
 <div class="row">
   <div class="col-md-2">
-      <img alt="DevOpsDays Rio de Janeiro 2025" src="/events/2025-rio-de-janeiro/logo-square.jpg" style="width:100%">
+      <img alt="DevOps Days Rio de Janeiro 2025" src="/events/2025-rio-de-janeiro/logo-square.jpg" style="width:100%">
       {{< event_twitter >}}
       <br>
       <a href="https://t.me/devopsdaysrj" target="_blank">

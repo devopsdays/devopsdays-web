@@ -1,7 +1,7 @@
 +++
 Title = "Location"
 Type = "event"
-Description = "Location for devopsdays Rio de Janeiro 2025"
+Description = "Location for DevOps Days Rio de Janeiro 2025"
 +++
 
 O evento será sediado no Business Center Mario Henrique Simonsen, na Barra de Tijuca, próximo ao shopping Village Mall e ao Barra Garden. Há uma estação de BRT bem em frente.
