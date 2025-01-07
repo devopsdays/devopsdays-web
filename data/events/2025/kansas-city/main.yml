@@ -16,9 +16,9 @@ startdate: 2025-08-13T08:00:00-06:00 # The start date of your event. Leave blank
 enddate: 2025-08-13T17:00:00-06:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2025-01-06T16:00:00-06:00 # start accepting talk proposals.
+cfp_date_end: 2025-04-30T08:00:00-06:00 # close your call for proposals.
+cfp_date_announce: 2025-06-30T08:00:00-06:00 # inform proposers of status
 
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
@@ -37,7 +37,7 @@ location: "Kansas City Convention Center" # Defaults to city, but you can make i
 location_address: "Kansas City Convention Center, 301 W 13th St #100, Kansas City, MO 64105" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: propose
   - name: location
  # - name: registration
  # - name: program

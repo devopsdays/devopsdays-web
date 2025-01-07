@@ -14,6 +14,18 @@ There are three ways to propose a topic at DevOpsDays:
   <li><strong><em>Open Space</em></strong>: If you'd like to lead a group discussion during the attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout sessions, it is not necessary to propose it ahead of time. Those topics are suggested in person at the conference. If you'd like to demo your product or service, you should <a href="../sponsor">sponsor the event</a> and demo it at your table.
 </ol>
 
+<p>With our collaboration with <span style="color: red; font-size: 1.10rem; font-weight: 900;"><a href="https://kcdc.info" target="_blank">KCDC 2025</a></span>, you'll be able to submit specific talks for DevOpsDays KC (via 'DevOpsDays' talk track), for DevOps-related talks for KCDC (via 'DevOps' talk track), and for the broader KCDC audience.</p>
+
+<div class = "row" id = "main-row">
+  <div class = "col-md-12">
+      <a class="btn btn-primary btn-block" style = "margin: auto; width: 15%; background-color: #96bfe6; border-color: #96bfe6;" href="">
+          <i class="fa-solid fa-envelope"></i>
+          &nbsp;&nbsp;&nbsp;Propose a Talk
+      </a>
+  </div>
+</div>
+
+
 <hr>
 
 Choosing talks is part art, part science; here are some factors we consider when trying to assemble the best possible program for our local audience:
@@ -25,11 +37,4 @@ Choosing talks is part art, part science; here are some factors we consider when
 - _no third-party submissions_: This is a small community-driven event, and speakers need to be directly engaged with the organizers and attendees. If a PR firm or your marketing department is proposing the talk, you've already shown that as a speaker you're distant from the process.
 - _no vendor pitches_: As much as we value vendors and sponsors, we are not going to accept a talk that appears to be a pitch for your product.
 
-<hr>
 
-<strong>How to submit a proposal:</strong> Send an email to [{{< email_organizers >}}] with the following information
-<ol>
-	<li>Type (presentation, panel discussion, ignite)</li>
-	<li>Proposal Title (can be changed later)</li>
-	<li>Description (several sentences explaining what attendees will learn)</li>
-</ol>
