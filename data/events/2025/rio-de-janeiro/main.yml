@@ -15,7 +15,7 @@ enddate:  2025-08-16T18:00:00-03:00 # The end date of your event. Leave blank if
 
 timezone: "America/Sao_Paulo"
 timeoffset: "-0300"
-
+event_logo: "logo-square.jpg"
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  # start accepting talk proposals.
 cfp_date_end:  # close your call for proposals.
