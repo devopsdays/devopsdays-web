@@ -1,9 +1,9 @@
 +++
 City = "Zurich"
 Year = "2025"
-talk_date = "2025-03-16"
-talk_start_time = "14:00"
-talk_end_time = "14:30"
+talk_date = "2025-03-13"
+talk_start_time = "10:00"
+talk_end_time = "10:30"
 title = "Microservices, Monorepos, and the Efficient Build Processes: Our Experience at Semaphore"
 type = "talk"
 speakers = ["radoslaw-wozniak"]

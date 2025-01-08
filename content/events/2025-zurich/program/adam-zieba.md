@@ -1,9 +1,9 @@
 +++
 City = "Zurich"
 Year = "2025"
-talk_date = "2025-03-16"
-talk_start_time = "14:00"
-talk_end_time = "14:30"
+talk_date = "2025-03-13"
+talk_start_time = "14:35"
+talk_end_time = "14:40"
 title = "Code & risk"
 type = "talk"
 speakers = ["adam-zieba"]

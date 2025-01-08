@@ -121,33 +121,30 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: platinum
-    label: Platinum
-    max: 1
   - id: beer
     label: Beverage
     max: 1
-  - id: coffee
-    label: Coffee
-    max: 1
-  - id: captioning
-    label: Captioning
-    max: 1
   - id: gold
     label: Gold
+    max: 8
+  - id: workshop
+    label: Workshop
     max: 8
   - id: lanyard
     label: Lanyard
     max: 1
   - id: lunch
-    label: "Lunch"
-    max: 1
+    label: Lunch
+    max: 2
+  - id: break
+    label: Break
+    max: 4
   - id: recharge
-    label: "Recharge"
+    label: Recharge
     max: 1
   - id: silver
     label: Silver
     max: 4
   - id: bronze
-    label: "Bronze"
+    label: Bronze
     max: 6
