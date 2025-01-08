@@ -39,7 +39,7 @@ location_address: "Kansas City Convention Center, 301 W 13th St #100, Kansas Cit
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
   - name: location
- # - name: registration
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
