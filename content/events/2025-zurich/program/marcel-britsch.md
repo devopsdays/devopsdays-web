@@ -1,8 +1,8 @@
 +++
 City = "Zurich"
 Year = "2025"
-talk_date = "2025-03-16"
-talk_start_time = "14:00"
+talk_date = "2025-03-13"
+talk_start_time = "14:25"
 talk_end_time = "14:30"
 title = "How I Started Worrying and Stopped Loving DevOps"
 type = "talk"

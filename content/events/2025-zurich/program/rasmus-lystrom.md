@@ -1,9 +1,9 @@
 +++
 City = "Zurich"
 Year = "2025"
-talk_date = "2025-03-16"
-talk_start_time = "14:00"
-talk_end_time = "14:30"
+talk_date = "2025-03-13"
+talk_start_time = "14:05"
+talk_end_time = "14:10"
 title = "Post Accelerate: Why are we still failing at adopting DevOps in the Enterprise?"
 type = "talk"
 speakers = ["rasmus-lystrom"]
