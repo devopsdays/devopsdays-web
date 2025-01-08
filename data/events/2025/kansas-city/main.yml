@@ -4,7 +4,7 @@ city: "Kansas City" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdayskc" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "DevOpsDays is coming to Kansas City again in 2025!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
-masthead_background: "" # This is the background image for the masthead, relative to static/events/YYYY-CITY
+masthead_background: "kc-unionstation.jpg" # This is the background image for the masthead, relative to static/events/YYYY-CITY
 sharing_image: "" # This is the image that shows up when you share the event on social media, relative to static/events/YYYY-CITY/sharing
 
 # All dates are in unquoted 2025-MM-DDTHH:MM:SS+TZ:TZ, like this:
@@ -16,17 +16,17 @@ startdate: 2025-08-13T08:00:00-06:00 # The start date of your event. Leave blank
 enddate: 2025-08-13T17:00:00-06:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2025-01-07T08:00:00-06:00 # start accepting talk proposals.
+cfp_date_end: 2025-02-21T23:59:59-06:00 # close your call for proposals.
+cfp_date_announce: "" # inform proposers of status
 
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start: 2025-01-07T08:00:00-06:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2025-08-13T08:00:00-06:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://ti.to/kansas-city-developers-conference/kcdc-2025" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -37,9 +37,10 @@ location: "Kansas City Convention Center" # Defaults to city, but you can make i
 location_address: "Kansas City Convention Center, 301 W 13th St #100, Kansas City, MO 64105" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: propose
   - name: location
- # - name: registration
+  - name: registration
+    url: https://ti.to/kansas-city-developers-conference/kcdc-2025
  # - name: program
  # - name: speakers
   - name: sponsor

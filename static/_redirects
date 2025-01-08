@@ -44,8 +44,8 @@
 /galway/*		/events/2019-galway/:splat		302
 /geneva/*		/events/2025-geneva/:splat		302
 /ghent/*		/events/2024-antwerp/:splat		302
-/goiania/cfp		https://talks.devopsdays.org/devopsdays-goiania-2024/ 302
-/goiania/*		/events/2024-goiania/:splat		302
+/goiania/cfp		https://talks.devopsdays.org/devopsdays-goiania-2025/ 302
+/goiania/*		/events/2025-goiania/:splat		302
 /goteborg/*		/events/2011-goteborg/:splat		302
 /guadalajara/*		/events/2021-guadalajara/:splat		302
 /hamburg/*		/events/2010-europe/:splat		302
@@ -172,7 +172,7 @@
 /criciuma/*            /events/2020-criciuma/:splat           302
 /melbourne/*            /events/2023-melbourne/:splat           302
 /ankara/*            /events/2020-ankara/:splat           302
-/lima/*            /events/2020-lima/:splat           302
+/lima/*            /events/2025-lima/:splat           302
 /rosario/*            /events/2020-rosario/:splat           302
 /aarhus/*            /events/2025-aarhus/:splat           302
 /almaty/*            /events/2024-almaty/:splat           302
