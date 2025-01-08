@@ -1,9 +1,9 @@
 +++
 City = "Zurich"
 Year = "2025"
-talk_date = "2025-03-16"
-talk_start_time = "14:00"
-talk_end_time = "14:30"
+talk_date = "2025-03-12"
+talk_start_time = "13:55"
+talk_end_time = "14:00"
 title = "Bursting the End-2-End Myth: Divide and Conquer for Robust DevOps"
 type = "talk"
 speakers = ["marc-sallin"]

@@ -1,9 +1,9 @@
 +++
 City = "Zurich"
 Year = "2025"
-talk_date = "2025-03-16"
-talk_start_time = "14:00"
-talk_end_time = "14:30"
+talk_date = "2025-03-12"
+talk_start_time = "11:00"
+talk_end_time = "11:30"
 title = "Building Internal Platforms to Enhance Developer Experience"
 type = "talk"
 speakers = ["christina-kraus"]

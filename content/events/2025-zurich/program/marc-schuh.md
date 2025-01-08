@@ -1,9 +1,9 @@
 +++
 City = "Zurich"
 Year = "2025"
-talk_date = "2025-03-16"
-talk_start_time = "14:00"
-talk_end_time = "14:30"
+talk_date = "2025-03-12"
+talk_start_time = "09:15"
+talk_end_time = "10:00"
 title = "From Athlete to Algorithm: Transforming Canoe Technique Analysis with AI"
 type = "talk"
 speakers = ["marc-schuh"]
