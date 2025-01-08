@@ -145,12 +145,12 @@ program:
     date: 2025-03-07T00:00:00-08:00
     start_time: "10:00"
     end_time: "10:45"
-  - title: "patrice-lindo"
+  - title: "heather-osborn"
     type: talk
     date: 2025-03-07T00:00:00-08:00
     start_time: "11:00"
     end_time: "11:45"
-  - title: "Open Spaces"
+  - title: "Lunch / Open Spaces"
     type: custom
     date: 2025-03-07T00:00:00-08:00
     start_time: "12:00"
@@ -169,22 +169,17 @@ program:
     type: talk
     date: 2025-03-07T00:00:00-08:00
     start_time: "14:00"
-    end_time: "14:45"
-  - title: "heather-osborn"
-    type: talk
-    date: 2025-03-07T00:00:00-08:00
-    start_time: "15:00"
-    end_time: "15:15"
+    end_time: "14:45"   
   - title: "annie-hedgpeth"
     type: talk
     date: 2025-03-07T00:00:00-08:00
-    start_time: "15:15"
-    end_time: "15:30"
+    start_time: "15:00"
+    end_time: "15:45"
   - title: "rob-fletcher"
     type: talk
     date: 2025-03-07T00:00:00-08:00
-    start_time: "15:30"
-    end_time: "15:45"
+    start_time: "15:45"
+    end_time: "16:00"
   - title: "zoe-chalfant"
     type: talk
     date: 2025-03-07T00:00:00-08:00
