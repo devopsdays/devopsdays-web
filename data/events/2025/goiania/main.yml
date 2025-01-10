@@ -24,7 +24,7 @@ registration_date_start: 2024-12-31T08:00:00-03:00 # start accepting registratio
 registration_date_end: 2025-03-10T23:59:59-03:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "https://doity.com.br/dod-gyn-2025/inscrição" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://doity.com.br/dod-gyn-2025/inscricao" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -46,7 +46,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
   - name: inscrições
     icon: "ticket"
-    url: https://doity.com.br/dod-gyn-2025/inscrição
+    url: https://doity.com.br/dod-gyn-2025/inscricao
     #url: /events/2025-goiania/registration
 
   - name: programação
