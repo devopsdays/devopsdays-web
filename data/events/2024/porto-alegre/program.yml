@@ -14,13 +14,13 @@ program:
     date: "2024-11-30"
     start_time: "09:30"
     end_time: "10:00"
-  - title: "deise-oliveira"
+  - title: "tamara-menezes"
     type: talk
     date: "2024-11-30"
     start_time: "10:00"
     end_time: "10:30"
     background_color: "#FF8300"
-  - title: "lucas-ribeiro"
+  - title: "ingrid-murielem"
     type: talk
     date: "2024-11-30"
     start_time: "10:30"
@@ -46,7 +46,7 @@ program:
     date: "2024-11-30"
     start_time: "13:30"
     end_time: "13:45"
-  - title: "ingrid-murielem"
+  - title: "jonathan-pericoco"
     type: talk
     date: "2024-11-30"
     start_time: "13:45"

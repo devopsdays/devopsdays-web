@@ -7,8 +7,8 @@ talk_end_time = "14:25"
 Title = "Top 5 things SRE should consider in running the cloud operations"
 Type = "talk"
 Speakers = ["jeff-salleh"]
-youtube = ""
-speakerdeck = ""
+youtube = "qXoZ2P7t1TI"
+speakerdeck = "https://speakerdeck.com/devopsdayssg/top-5-things-sre-should-consider-in-running-the-cloud-operations-by-jeff-salleh"
 +++
 
 ### Ignite
