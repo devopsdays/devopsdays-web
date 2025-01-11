@@ -3,7 +3,7 @@ year: "2025" # The year of the event. Make sure it is in quotes.
 city: "Juiz de Fora" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaysjf" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "DevOpsDays em Juiz de Fora!" # Edit this to suit your preferences
-ga_tracking_id: "G-1V0NPCCBJS" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 event_logo: "/events/2025-juiz-de-fora/logo.png"
 masthead_background: "vista_do_centro_de_juiz_de_fora-mg.jpeg"
 
@@ -30,9 +30,9 @@ registration_date_end: 2025-07-05T08:00:00-03:00 # close registration. Leave bla
 registration_link: "https://www.sympla.com.br/evento/devopsdays-juiz-de-fora-2025/2394061" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
-coordinates: "-21.762058, -43.352624" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "UniAcademia"
-location_address: "R. Halfeld, 1179 - Centro, Juiz de Fora - MG, 36016-000" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+# coordinates: "-21.762058, -43.352624" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+# location: "UniAcademia"
+# location_address: "R. Halfeld, 1179 - Centro, Juiz de Fora - MG, 36016-000" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   # - name: Chamadas (CFP)
