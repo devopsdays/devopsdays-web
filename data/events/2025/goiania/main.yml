@@ -14,17 +14,17 @@ startdate: 2025-03-15T08:00:00-03:00 # The start date of your event. Leave blank
 enddate: 2025-03-15T18:00:00-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2025-01-06T08:00:00-03:00 # start accepting talk proposals.
+cfp_date_start: 2025-01-10T08:00:00-03:00 # start accepting talk proposals.
 cfp_date_end: 2025-02-09T23:59:59-03:00 # close your call for proposals.
-cfp_date_announce: 2025-02-16T20:00:00-03:00 # inform proposers of status
+cfp_date_announce: 2025-02-13T20:00:00-03:00 # inform proposers of status
 
 cfp_link: "https://talks.devopsdays.org/devopsdays-goiania-2025/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2024-12-31T08:00:00-03:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_end: 2025-03-10T23:59:59-03:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://doity.com.br/dod-gyn-2025/inscricao" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -37,8 +37,8 @@ location_address: "Rua 227-A, 95 - Setor Leste Universitário, Goiânia - GO, 74
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: Chamada de Trabalhos (CfP)
     icon: "paper-plane-o"
-    url: /events/2025-goiania/propose
-    #url: https://talks.devopsdays.org/devopsdays-goiania-2025/
+    # url: /events/2025-goiania/propose
+    url: https://talks.devopsdays.org/devopsdays-goiania-2025/
 
   - name: local
     icon: "map-o"
@@ -46,7 +46,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
   - name: inscrições
     icon: "ticket"
-    url: https://doity.com.br/dod-gyn-2025/inscrição
+    url: https://doity.com.br/dod-gyn-2025/inscricao
     #url: /events/2025-goiania/registration
 
   - name: programação
