@@ -99,16 +99,21 @@ program:
     date: 2025-03-18
     start_time: "15:30"
     end_time: "16:15"
+  - title: "Sponsor Giveaways"
+    type: custom
+    date: 2025-03-18
+    start_time: "16:15"
+    end_time: "16:45"
   - title: "michael-stahnke"
     type: talk
     date: 2025-03-18
-    start_time: "16:30"
-    end_time: "17:00"
+    start_time: "16:45"
+    end_time: "17:15"
   - title: "Close Day"
     type: custom
     date: 2025-03-18
-    start_time: "17:00"
-    end_time: "17:15"
+    start_time: "17:15"
+    end_time: "17:30"
 
 ignites:
   - title: "robert-snyder"
