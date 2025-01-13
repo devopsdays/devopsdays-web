@@ -130,3 +130,35 @@ sponsors:
     level: silver
   - id: swarmit
     level: silver
+  - id: sokube
+    level: silver
+  - id: camptocamp
+    level: silver
+  - id: veeam
+    level: silver
+  - id: infomaniak
+    level: gold
+  - id: meetup-devops-geneva
+    level: community
+  - id: agilesuisse
+    level: community
+  - id: swiss-cybersecurity
+    level: community
+  - id: heg-geneva
+    level: community
+  - id: powerhouse
+    level: community
+  - id: webmardi
+    level: community
+  - id: wejob
+    level: community
+  - id: software-crafts-romandie
+    level: community
+  - id: les-renverses
+    level: community
+  - id: swissdevjobs
+    level: community
+  - id: caroster
+    level: community
+  - id: aikido
+    level: gold

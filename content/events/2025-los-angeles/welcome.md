@@ -6,21 +6,22 @@ Description = "DevOpsDays Los Angeles 2025"
 +++
 <br>
 
-<!-- <center>
-  <h2><a href="https://www.socallinuxexpo.org/scale/22x/cfp" style="font-size: 1.5em; padding: 5 10px;text-decoration: none; border-radius: 5px;">➡️ Submit your proposal here ⬅️</a></h2>
-</center> -->
+<div class = "col-md-12 push-md-12">
+  <h1 style="text-align: center;"><a href="https://assets.devopsdays.org/events/2025/los-angeles/devopsdayla2025_sponsor.pdf" style="font-size: 42px;">➡️ Sponsor the conference! ⬅️</a></h1>
   <div style="text-align: center"><a href="https://assets.devopsdays.org/events/2025/los-angeles/devopsdayla2025_sponsor.pdf" style="font-size: 42px;">➡️ Download Our Sponsor Prospectus PDF ⬅️</a></div>
+</div>
 <br>
 
 <div class = "row" id = "main-row">
   <div class = "col-md-6 push-md-8" id = "left-col">
-  <h3>Propose a Talk for DevOpsDaysLA</h3>
+    <h3>🎉 DevOpsDaysLA 2025 Schedule is now live 🎉</h3>
   <hr>
   <p>
-  Calling all SoCal DevOps enthusiasts and practitioners! DevOpsDaysLA is your platform to share, learn, and shape the future of our community. DevOps is a collaborative approach that unites development (Dev) and operations (Ops) teams to streamline the software development lifecycle, ensuring faster, more reliable delivery of high-quality applications. It emphasizes automation, continuous integration/continuous delivery (CI/CD), and a culture of collaboration and shared responsibility to achieve seamless, efficient processes from coding to deployment.
-  </p>
-  <p>
-  We’re seeking diverse, relevant, and forward-thinking presentations that explore the many facets of DevOps today—and tomorrow. Whether it’s the integration of AI into DevOps practices, career upleveling talks, supporting the mental health of DevOps practitioners, or insights into Platform Engineering and SRE, we want to hear how you’re advancing the field. We’re especially interested in presentations that enhance careers, share innovative solutions, and showcase cool things that help you do your job better. Join us and be a part of the global DevOpsDays series, contributing to the vibrant SoCal DevOps tech community. Your voice matters, and we can't wait to hear it! Submit your proposal today and make DevOpsDaysLA 2025 the most impactful event yet! For more details see the {{< event_link page="propose" text="DevOpsDaysLA Event Page!" >}}
+  We are pleased to announce that our <a href="https://devopsdays.org/events/2025-los-angeles/program">schedule</a> for this year is now live.
+
+  So get ready for an action-packed DevOps conference that promises to deliver a wealth of knowledge and opportunities to connect with industry experts! Our meticulously planned schedule is designed to cater to everyone in the DevOps ecosystem, including practitioners, engineers, computer science professionals, cloud specialists, security experts, and automation gurus.
+
+  Whether you're just starting your DevOps journey or looking to expand your horizons, our conference has something for everyone. With a diverse range of topics, engaging speakers, and interactive workshops, you'll leave with new ideas, practical skills, and a renewed passion for all things DevOps. Don't miss out on this chance to learn, network, and grow in your career - join us at our DevOps conference and be part of the revolution!
   </p>
   <h3>What is DevOpsDaysLA?</h3>
   <hr>
@@ -53,14 +54,14 @@ Description = "DevOpsDays Los Angeles 2025"
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
-    <strong>Propose</strong>
+    <strong>Program</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
+    {{< event_link page="program" text="Check out the program!" >}}
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
