@@ -119,6 +119,8 @@ sponsor_levels:
 sponsors:
   - id: akamai
     level: gold
+  - id: checkmarx
+    level: gold
   - id: devzero
     level: gold
   - id: firefly
