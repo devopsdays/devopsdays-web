@@ -2,7 +2,7 @@ name: "2025-salt-lake-city" # The name of the event. Four digit year with the ci
 year: "2025" # The year of the event. Make sure it is in quotes.
 city: "Salt Lake City" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaysslc" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-event_logo: "logo-square.jpg"
+event_logo: "logo2.png"
 description: "Salt Lake City DevOpsDays" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
@@ -13,18 +13,14 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2023-01-05T23:59:59+02:00
 # Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-# startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-# enddate:   # The end date of your event. Leave blank if you don't have a venue reserved yet.
-# startdate: 2025-03-13T08:00:00-06:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-startdate: # The start date of your event. Leave blank if you don't have a venue reserved yet.
-# enddate: 2025-03-14T18:00:00-06:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2025-05-12T08:00:00-06:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2025-05-13T17:00:00-06:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
-cfp_open: "false"
+cfp_date_start: 2024-11-07T12:00:00-06:00 # start accepting talk proposals.
+cfp_date_end: 2025-01-12T23:59:59-06:00 # close your call for proposals.
+cfp_date_announce: 2024-11-07T12:00:00-06:00 # inform proposers of status
+cfp_open: "true"
 cfp_link: "https://sessionize.com/slcdod2025/"   #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 # registration_date_start: 2023-01-28T07:01:00-06:00   # start accepting registration. Leave blank if registration is not open yet
@@ -40,7 +36,7 @@ location_address: "9750 S 300 W Sandy UT 84070" # Optional - use the street addr
 nav_elements: # List of pages you want to show up in the navigation of your page.
 #   - name: slcdevopsdays.org
 #     url: https://www.slcdevopsdays.org
-  # - name: propose
+  - name: propose
   # - name: location
   # - name: registration
     # url: https://slcdevopsdays.org/conference
@@ -73,9 +69,9 @@ team_members: # Name is the only required field for team members.
       employer: "Intermountain Healthcare"
       linkedin: "https://www.linkedin.com/in/claiton-weeks/"
       twitter: "vsc_sre"
-    - name: "Alex Bilimoria"
-      employer:  "Quotient Technology"             # "Senior Software Engineer"
-      linkedin: "https://www.linkedin.com/in/alex-c-bilimoria/"
+    # - name: "Alex Bilimoria"
+    #   employer:  "Quotient Technology"             # "Senior Software Engineer"
+    #   linkedin: "https://www.linkedin.com/in/alex-c-bilimoria/"
     - name: "Katrina Brinkley"
       employer: "Utah State Board of Education"   # Chief Product Owner and Program Manager for USIMS"
       linkedin: "https://www.linkedin.com/in/katrinabrinkley/"

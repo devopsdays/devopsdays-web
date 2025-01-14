@@ -79,6 +79,8 @@ Description = "DevOpsDays Zurich 2025"
     Do you need a {{< event_link page="hotel" text="hotel" >}} ?
   </div>
 </div>
+-->
+
 <div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
@@ -87,7 +89,8 @@ Description = "DevOpsDays Zurich 2025"
     {{< event_link page="registration" text="Register to attend the conference!" >}}
   </div>
 </div> 
--->
+
+<!--
 <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
@@ -96,6 +99,7 @@ Description = "DevOpsDays Zurich 2025"
     <a href="https://sessionize.com/devopsdays-zurich-2025/">Propose a talk!</a>
   </div>
 </div> 
+-->
 
 <div class = "row">
   <div class = "col-md-2">

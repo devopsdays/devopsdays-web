@@ -5,8 +5,8 @@ Talk_end_time = ""
 Title = "Why Building Your Ship (Application) with Raw Materials is a Bad Idea!"
 Type = "talk"
 Speakers = ["jamie-lee-coleman"]
-youtube = ""
-speakerdeck = ""
+youtube = "elI4aTrK4b4"
+speakerdeck = "https://speakerdeck.com/devopsdayssg/why-building-your-ship-application-with-raw-materials-is-a-bad-idea"
 sharing_image = "2024-jamie-lee-coleman.jpg"
 +++
 In this session, I will talk about what companies are doing to circumnavigate these tricky waters and what types of applications are simply not able to use open source code. Then I will go over some best practices to make sure your applications are secure, robust and compliant.

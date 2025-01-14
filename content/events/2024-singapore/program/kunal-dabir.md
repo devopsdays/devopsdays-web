@@ -7,8 +7,8 @@ talk_end_time = "11:30"
 Title = "Designing Applications in a Vendor-Agnostic Cloud-Native Way"
 Type = "talk"
 Speakers = ["kunal-dabir"]
-youtube = ""
-speakerdeck = ""
+youtube = "Chahs0EqosE"
+speakerdeck = "https://speakerdeck.com/devopsdayssg/vendor-agnostic-cloud-native-apps"
 sharing_image = "2024-kunal-dabir.jpg"
 +++
 

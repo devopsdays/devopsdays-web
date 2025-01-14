@@ -40,7 +40,7 @@ location_address: "Campus de Battelle, Rue de la Tambourine 17, 1227 Carouge" #O
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
   - name: location
- # - name: registration
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
@@ -96,10 +96,6 @@ team_members: # Name is the only required field for team members.
 
 organizer_email: "geneva@devopsdays.org" # Put your organizer email address here
 
-# List all of your sponsors here along with what level of sponsorship they have.
-# Check data/sponsors/ to use sponsors already added by others.
-sponsors:
-
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -126,3 +122,43 @@ sponsor_levels:
     max: 1
   - id: community
     label: Community
+
+sponsors:
+  - id: hidora
+    level: gold
+  - id: dbi-services
+    level: silver
+  - id: swarmit
+    level: silver
+  - id: sokube
+    level: silver
+  - id: camptocamp
+    level: silver
+  - id: veeam
+    level: silver
+  - id: infomaniak
+    level: gold
+  - id: meetup-devops-geneva
+    level: community
+  - id: agilesuisse
+    level: community
+  - id: swiss-cybersecurity
+    level: community
+  - id: heg-geneva
+    level: community
+  - id: powerhouse
+    level: community
+  - id: webmardi
+    level: community
+  - id: wejob
+    level: community
+  - id: software-crafts-romandie
+    level: community
+  - id: les-renverses
+    level: community
+  - id: swissdevjobs
+    level: community
+  - id: caroster
+    level: community
+  - id: aikido
+    level: gold

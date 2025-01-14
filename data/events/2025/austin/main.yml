@@ -158,6 +158,12 @@ sponsor_levels:
   - id: quiet
     label: Quiet Room
     max: 1
+  - id: food
+    label: Food
+    max: 6
+  - id: swag
+    label: Swag Bag (Add-On)
+    max: 20
   - id: community
     label: Local Community Groups
     max: 2

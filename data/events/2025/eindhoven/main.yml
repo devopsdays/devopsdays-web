@@ -14,11 +14,11 @@ startdate: 2025-10-02T08:00:00+02:00 # The start date of your event. Leave blank
 enddate: 2025-10-03T18:00:00+02:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
+cfp_date_start: 2025-01-06T00:00:00+02:00  # start accepting talk proposals.
+cfp_date_end: 2025-05-10T23:59:59+01:00  # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://talks.devopsdays.org/devopsdays-eindhoven-2025/cfp" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
@@ -91,6 +91,18 @@ team_members: # Name is the only required field for team members.
     pronoun: she/her
     image: "evi.jpeg"
 
+  - name: "Bart Vercoulen"
+    linkedin: "https://www.linkedin.com/in/bartvercoulen/"
+    pronouns: "he/him"
+    image: "bart.png"
+
+  - name: "Aparna Chaudhary"
+    linkedin: "https://www.linkedin.com/in/aparnachaudhary"
+    github: "aparnachaudhary"
+    website: "http://aparnachaudhary.me/"
+    pronoun: she/her
+    image: "aparna.png"
+
 organizer_email: "eindhoven@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
@@ -109,33 +121,30 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: platinum
-    label: Platinum
-    max: 1
   - id: beer
     label: Beverage
     max: 1
-  - id: coffee
-    label: Coffee
-    max: 1
-  - id: captioning
-    label: Captioning
-    max: 1
   - id: gold
     label: Gold
+    max: 8
+  - id: workshop
+    label: Workshop
     max: 8
   - id: lanyard
     label: Lanyard
     max: 1
   - id: lunch
-    label: "Lunch"
-    max: 1
+    label: Lunch
+    max: 2
+  - id: break
+    label: Break
+    max: 4
   - id: recharge
-    label: "Recharge"
+    label: Recharge
     max: 1
   - id: silver
     label: Silver
     max: 4
   - id: bronze
-    label: "Bronze"
+    label: Bronze
     max: 6

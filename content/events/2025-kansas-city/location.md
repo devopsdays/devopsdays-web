@@ -1,7 +1,7 @@
 +++
 Title = "Location"
 Type = "event"
-Description = "Location for devopsdays Kansas City 2025"
+Description = "Location for DevOpsDays Kansas City 2025"
 +++
 
 Watch this space for information about the venue including address, map/direction, parking/transit, and any hotel details.
