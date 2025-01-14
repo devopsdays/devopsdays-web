@@ -16,18 +16,17 @@ enddate:  2025-08-16T18:00:00-03:00 # The end date of your event. Leave blank if
 timezone: "America/Sao_Paulo"
 timeoffset: "-0300"
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2025-01-13T00:00:00-08:00  # start accepting talk proposals.
-cfp_date_end:  2025-04-31T00:00:00-08:00 # close your call for proposals.
-# cfp_date_announce: 2024-12-01T00:00:00-08:00 # inform proposers of status
+cfp_date_start:  # start accepting talk proposals.
+cfp_date_end:  # close your call for proposals.
+cfp_date_announce:  2025-01-13T09:00:00-03:00
 cfp_open: "true"
-
 cfp_link: "https://www.papercall.io/devopsdaysrio2025"
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
-registration_closed: "false" #set this to true if you need to manually close registration before your registration end date
-registration_link: "https://www.sympla.com.br/evento/devopsdays-rio-de-janeiro-2025/2789794" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://www.sympla.com.br/evento/devopsdays-rio-de-janeiro-2025/2789794"
 
 # Location
 coordinates: "-22.997961, -43.345923" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
@@ -71,12 +70,6 @@ team_members: # Name is the only required field for team members.
     website: "https://mauriciogomes.com.br"
     image: "mauricio-gomes.jpg"
 
-  - name: "Pedro Amaral Moreira"
-    employer: "PagoNxt Merchant Solutions"
-    github: "pedroamaralm"
-    linkedin: "https://www.linkedin.com/in/pedro-amaral-moreira/"
-    image: "pedro-amorin.jpg"
-
   - name: "Carol Pinheiro"
     employer: "G4F"
     linkedin: "https://www.linkedin.com/in/caroline-pinheiro-503118197/"
@@ -95,7 +88,17 @@ team_members: # Name is the only required field for team members.
     website: "https://www.instagram.com/fluxxoramadesign?igsh=MTBpZDFrbXJpcDcwZQ=="
     image: "cris-cardoso.jpg"
 
-organizer_email: "devopsdaysrio@gmail.com" # Put your organizer email address here
+  - name: "Pedro Ignácio"
+    employer: "Itaú Unibanco"
+    linkedin: "https://www.linkedin.com/in/pedroirufo"
+    website: "pedroscloudsecurity.com"
+    image: "pedro-ignacio.jpg"
+
+  - name: "Bruna Caroline de Jesus"
+    linkedin: "https://www.linkedin.com/in/brunacarolinedejesus/"
+    image: "bruna-jesus.jpg"
+
+organizer_email: "contato@devopsdays.rio.br" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
@@ -332,7 +335,7 @@ program:
     end_time: "18:15"
     comments: "Sala: Deploy"
 
-  #HappyHour
+  # #HappyHour
   - title: "Happy Hour"
     type: custom
     date: 2025-08-16
