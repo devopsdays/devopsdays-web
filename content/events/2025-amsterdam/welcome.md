@@ -52,7 +52,7 @@ Description = "DevOpsDays Amsterdam will take place June 18-20, 2025! The group 
     <strong>Register / Get a ticket</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link url-key="registration_link" text="Get a ticket to attend the conference!" >}}
+    {{< event_link page="registration" text="Get a ticket to attend the conference!" >}}
   </div>
 </div>
 
@@ -106,7 +106,7 @@ Description = "DevOpsDays Amsterdam will take place June 18-20, 2025! The group 
         <div class="d-flex p-2">
           <a class="btn btn-primary btn-block"
             style="margin-top: 10px; margin-bottom: 10px; background-color: #e59049; border-color: #e59049;"
-            href="https://tickets.devopsdays.org/devopsdays-amsterdam/2025/">
+            href="/events/2025-amsterdam/registration">
             <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;Buy a ticket
           </a>
         </div>
