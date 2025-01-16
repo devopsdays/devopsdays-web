@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Let's Learn Cloud Native Nix"
 Type = "talk"
 Speakers = ["leigh-capili"]
+sharing_image = "leigh-capili.png"
 +++
 
 Nix is a unique package manager for configuring systems!

@@ -8,7 +8,7 @@ linktitle = "leigh-capili"
 mastodon = "https://hachyderm.io/@capileigh"
 github = "stealthybox"
 website = "https://stealthybox.pages.dev"
-
+sharing_image = "leigh-capili.png"
 +++
 
 Leigh is building Flox and is active with the Kubernetes and Flux projects.

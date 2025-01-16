@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "What’s beyond DORA metrics?"
 Type = "talk"
 Speakers = ["michael-stahnke"]
+sharing_image = "michael-stahnke.png"
 +++
 
 The core metrics for measuring team effectiveness with DevOps have been around quite a while now and they’re a great starting point. What measurements matter after those are established? What should software delivery metrics be telling us?

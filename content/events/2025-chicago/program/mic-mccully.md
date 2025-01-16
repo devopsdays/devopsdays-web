@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Shadow Vulnerabilities in AI/ML Data Stacks - What You Don’t Know CAN Hurt You"
 Type = "talk"
 Speakers = ["mic-mccully"]
+sharing_image = "mic-mccully.png"
 +++
 
 The adoption of open-source AI software introduces a new family of vulnerabilities to organizations. Some components in AI, like model serving, include Remote Code Execution (RCE) by design, like when loading pre-trained models from external sources.
