@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "The Elegant Expectation Factory"
 Type = "talk"
 Speakers = ["robert-snyder"]
+sharing_image = "robert-snyder.png"
 +++
 
 If you're like most innovation teams, you're obsessed with speed. You manage by principles, values, four adjectives (RACI), and an infinite number of verbs in your project plan. You drive your team with meetings and email. Documentation is mostly a CYA and you will soon delegate a lot of documentation to AI. Your idea of agility is the frequency of go-live events. Your culture is a communication traffic jam, you surrender to VUCA and leave behind a vague library of meeting minutes. It's a culture of low discipline and low empathy.
