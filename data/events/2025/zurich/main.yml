@@ -158,6 +158,8 @@ sponsors:
   level: silver
 - id: cloudscalech
   level: event
+- id: exoscale
+  level: event
 - id: amanox
   level: bronze
 - id: eficode 
@@ -165,6 +167,8 @@ sponsors:
 - id: cognizant 
   level: bronze
 - id: dbi-services 
+  level: bronze
+- id: checkmarx
   level: bronze
 
 sponsors_accepted: "no" # Whether you want "Become a XXX Sponsor!" link
