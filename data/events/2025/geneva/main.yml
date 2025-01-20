@@ -113,7 +113,7 @@ sponsor_levels:
     label: Speakers
     max: 1
   - id: silver
-    label: Silver
+    label: SilverR1100FKA-BP0420 
     max: 9
   - id: bronze
     label: Bronze
@@ -164,3 +164,11 @@ sponsors:
     level: gold
   - id: techfirm
     level: event
+  - id: mydio
+    level: community
+  - id: isit
+    level: community
+  - id: bellsoft
+    level: silver
+  - id: f5-nginx
+    level: silver
