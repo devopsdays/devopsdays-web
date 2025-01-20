@@ -113,7 +113,7 @@ sponsor_levels:
     label: Speakers
     max: 1
   - id: silver
-    label: SilverR1100FKA-BP0420 
+    label: Silver
     max: 9
   - id: bronze
     label: Bronze
