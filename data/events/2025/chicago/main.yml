@@ -173,6 +173,14 @@ sponsors:
     level: gold
   - id: cortex
     level: gold
+  - id: akamai
+    level: gold
+  - id: bellsoft
+    level: gold
+  - id: fairwinds
+    level: bronze
+  - id: lightrun
+    level: bronze
   - id: arresteddevops
     level: community
   - id: kubecareers
