@@ -129,6 +129,8 @@ sponsors:
     level: gold
   - id: honeycomb
     level: gold
+  - id: jobst
+    level: silver
   - id: netactuate
     level: gold
   - id: parasoft
@@ -137,6 +139,8 @@ sponsors:
     level: gold
   - id: stateful
     level: silver
+  - id: thales
+    level: gold
   - id: kubecareers
     level: media
     url: https://kube.careers/
