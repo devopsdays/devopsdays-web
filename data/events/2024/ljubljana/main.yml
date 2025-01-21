@@ -68,8 +68,8 @@ organizer_email: "ljubljana@devopsdays.org" # Put your organizer email address h
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: povio
-    level: gold
+ # - id: povio
+ #   level: gold
     #url: https://povio.com/ # Use this if you need to over-ride a sponsor URL.
   
 

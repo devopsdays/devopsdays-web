@@ -97,8 +97,8 @@ sponsors:
    level: gold
  - id: sumerge
    level: gold
- - id: get
-   level: gold
+#  - id: get
+#    level: gold
  - id: incorta
    level: gold
  - id: cegedim
