@@ -114,8 +114,8 @@ sponsors:
     level: silver
   - id: cortex
     level: silver
-  - id: doit-before-2023-07-07
-    level: silver
+  # - id: doit-before-2023-07-07
+  #   level: silver
   - id: firehydrant
     level: silver
   - id: googlecloud-before-20230502
