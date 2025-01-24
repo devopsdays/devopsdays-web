@@ -133,9 +133,13 @@ sponsors:
     level: silver
   - id: netactuate
     level: gold
+  - id: opsera
+    level: gold
   - id: parasoft
     level: gold
-  - id: semaphore
+  - id: sedai
+    level: gold
+  - id: semaphoreci
     level: gold
   - id: stateful
     level: silver
