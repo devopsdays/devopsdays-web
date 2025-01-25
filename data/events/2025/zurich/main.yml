@@ -176,6 +176,8 @@ sponsors:
   level: bronze
 - id: checkmarx
   level: bronze
+- id: infiniroot 
+  level: bronze
 
 sponsors_accepted: "no" # Whether you want "Become a XXX Sponsor!" link
 
