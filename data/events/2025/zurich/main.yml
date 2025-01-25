@@ -178,6 +178,12 @@ sponsors:
   level: bronze
 - id: infiniroot 
   level: bronze
+- id: ciklum 
+  level: bronze
+- id: cloudbees  
+  level: bronze
+- id: datastore 
+  level: bronze
 
 sponsors_accepted: "no" # Whether you want "Become a XXX Sponsor!" link
 
