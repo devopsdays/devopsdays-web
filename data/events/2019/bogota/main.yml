@@ -90,8 +90,9 @@ sponsors:
     level: gold
   - id: pagerduty-before-20190930
     level: silver
-  - id: kleer
-    level: graphic
+#  - id: kleer
+#    level: graphic
+# Kleer commented out due to missing image file
   - id: revdebug
     level: community
   - id: gigtech

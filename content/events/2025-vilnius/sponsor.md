@@ -5,8 +5,7 @@ Description = "Sponsor DevOpsDays Vilnius 2025"
 +++
 
 <p>
-    We greatly value sponsors for this open event. If you are interested in sponsoring, please drop us an email at [{{<
-        email_organizers>}}].
+We greatly value sponsors for this open event.  If you are interested in sponsoring, please <a href="https://drive.google.com/file/d/1iZ6-z7OGSGdTLSPo_JEP2D5YbFDFTrK4/view">take a look at our prospectus</a>, then drop us an email at [{{< email_organizers >}}].
 </p>
 <p>
     Devopsdays is a worldwide series of technical conferences covering topics of software development, IT infrastructure
@@ -24,5 +23,5 @@ Description = "Sponsor DevOpsDays Vilnius 2025"
 <hr>
 <a class="btn btn-secondary btn-block button-secondary"
     style="background-color: #1bff9f; border-color: #1bff9f; color: #000000 "
-    href="https://drive.google.com/file/d/1UOeD2xNtB-KQmgEFcEAuFSBenTnfRNiX/view?usp=sharing"> <i
+    href="https://drive.google.com/file/d/1iZ6-z7OGSGdTLSPo_JEP2D5YbFDFTrK4/view"> <i
         class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;➡️ For more information, please view our full prospectus ⬅️</a>

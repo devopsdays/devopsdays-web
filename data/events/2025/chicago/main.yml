@@ -177,6 +177,10 @@ sponsors:
     level: gold
   - id: bellsoft
     level: gold
+  - id: focusedlabs
+    level: gold
+  - id: couchbase
+    level: gold
   - id: fairwinds
     level: bronze
   - id: lightrun

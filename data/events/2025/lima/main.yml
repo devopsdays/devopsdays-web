@@ -78,6 +78,18 @@ team_members: # Name is the only required field for team members.
     github: "dorismanrique"
     image: "doris-manrique.jpg"
     bio: "Cloud Projects Lead"
+  - name: "Danilo Briceño"
+    employer: "EKIS Cyber"
+    twitter: "dan_breu"
+    linkedin: "https://www.linkedin.com/in/danbreu/"
+    bio: "CXO"
+    image: "danilo-briceno.jpg"
+    github: "dan-breu"
+  - name: "Gino Leon"
+    employer: "Pacifico Seguros"
+    linkedin: "https://www.linkedin.com/in/gino-leon-0217a23b/"
+    bio: "Agile Chapter Lead"
+    image: "gino-leon.jpg"
 
 organizer_email: "lima@devopsdays.org" # Put your organizer email address here
 

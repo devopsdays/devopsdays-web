@@ -1,5 +1,5 @@
 +++
-title = "Program for devopsdays Zürich 2024"
+title = "Program for devopsdays Zürich 2025"
 type = "program"
 +++
 <div>
