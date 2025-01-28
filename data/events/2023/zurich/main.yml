@@ -146,7 +146,7 @@ sponsors:
     level: event
   - id: erni
     level: gold
-  - id: cloudbees
+  - id: cloudbees-before-20250128
     level: gold  
   - id: enterprisedb
     level: silver
