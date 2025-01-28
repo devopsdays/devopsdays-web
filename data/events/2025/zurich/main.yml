@@ -19,7 +19,7 @@ cfp_date_start: 2024-10-01T00:00:00+02:00 # start accepting talk proposals.
 cfp_date_end: 2024-11-30T23:59:59+02:00 # close your call for proposals.
 cfp_date_announce: 2024-10-01T00:00:00+02:00 # inform proposers of status
 
-cfp_open: "false" 
+cfp_open: "false"
 cfp_link: "https://sessionize.com/devopsdays-zurich-2025/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2024-12-01T00:00:00+02:00
@@ -176,13 +176,13 @@ sponsors:
   level: bronze
 - id: checkmarx
   level: bronze
-- id: infiniroot 
+- id: infiniroot
   level: bronze
-- id: ciklum 
+- id: ciklum
   level: bronze
-- id: cloudbees  
+- id: cloudbees
   level: bronze
-- id: datastore 
+- id: datastore
   level: bronze
 
 sponsors_accepted: "no" # Whether you want "Become a XXX Sponsor!" link

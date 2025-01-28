@@ -33,38 +33,40 @@ location: "Mile High Station and Iron Works" # Defaults to city, but you can mak
 #
 location_address: "2027 W Colfax Ave, Denver, CO 80204" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
-nav_elements: # List of pages you want to show up in the navigation of your page.
+nav_elements:
+# List of pages you want to show up in the navigation of your page.
 #  - name: propose
-  - name: location
+- name: location
 #  - name: registration
-  - name: program
-  - name: speakers
+- name: program
+- name: speakers
 #  - name: sponsor
-  - name: contact
-  - name: conduct
+- name: contact
+- name: conduct
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
 
 
 # These are the same people you have on the mailing list and Slack channel.
-team_members: # Name is the only required field for team members.
-  - name: "Tavis Aitken"
-    twitter: "tavisto"
-    employer: "Splunk"
-  - name: "Beau Christensen"
-    twitter: "beauchristensen"
-    employer: "Splunk"
-  - name: "Nick Huanca"
-    twitter: "NickHuanca"
-  - name: "Carla Murray"
-    employer: "Oracle Advertising"
-    twitter: "carlajmurray"
-  - name: "Matt Knox"
-    twitter: "mknox42"
-    employer: "Splunk"
-  - name: "Jason Sharp"
-    twitter: "1971hemicuda"
+team_members:
+# Name is the only required field for team members.
+- name: "Tavis Aitken"
+  twitter: "tavisto"
+  employer: "Splunk"
+- name: "Beau Christensen"
+  twitter: "beauchristensen"
+  employer: "Splunk"
+- name: "Nick Huanca"
+  twitter: "NickHuanca"
+- name: "Carla Murray"
+  employer: "Oracle Advertising"
+  twitter: "carlajmurray"
+- name: "Matt Knox"
+  twitter: "mknox42"
+  employer: "Splunk"
+- name: "Jason Sharp"
+  twitter: "1971hemicuda"
 organizer_email: "denver@devopsdays.org"
 sponsors_accepted: "yes"
 
@@ -99,7 +101,7 @@ sponsors:
   level: gold
 - id: fusion-auth
   level: silver
-- id: cloudbees
+- id: cloudbees-before-20250128
   level: silver
 - id: jeli
   level: supporter
@@ -118,189 +120,188 @@ sponsors:
 - id: opscruise
   level: supporter
 
-
 sponsor_levels:
-  - id: gold
-    label: Gold
-    max: 9
-  - id: silver
-    label: Silver
-    max: 4
-  - id: supporter
-    label: Supporter
-    max: 4
-  - id: community
-    label: Community
+- id: gold
+  label: Gold
+  max: 9
+- id: silver
+  label: Silver
+  max: 4
+- id: supporter
+  label: Supporter
+  max: 4
+- id: community
+  label: Community
 program:
-  - title: "Registration, Breakfast, Sponsors"
-    type: custom
-    date: 2022-04-25T00:00:00-06:00
-    start_time: "08:00"
-    end_time: "08:45"
-  - title: "Opening Welcome"
-    type: custom
-    date: 2022-04-25T00:00:00-06:00
-    start_time: "08:45"
-    end_time: "08:55"
-  - title: "matty-stratton"
-    type: talk
-    date: 2022-04-25T00:00:00-06:00
-    start_time: "08:55"
-    end_time: "09:25"
-  - title: "jason-yee"
-    type: talk
-    date: 2022-04-25T00:00:00-06:00
-    start_time: "09:30"
-    end_time: "10:00"
-  - title: "matt-reynolds"
-    type: talk
-    date: 2022-04-25T00:00:00-06:00
-    start_time: "10:05"
-    end_time: "10:35"
-  - title: "Break"
-    type: custom
-    date: 2022-04-25T00:00:00-06:00
-    start_time: "10:35"
-    end_time: "10:50"
-  - title: "ajuna-kyaruzi"
-    type: talk
-    date: 2022-04-25T00:00:00-06:00
-    start_time: "10:50"
-    end_time: "11:20"
-  - title: "kendall-miller"
-    type: talk
-    date: 2022-04-25T00:00:00-06:00
-    start_time: "11:30"
-    end_time: "12:00"
-  - title: "Lunch"
-    type: custom
-    date: 2022-04-25T00:00:00-06:00
-    start_time: "12:00"
-    end_time: "13:30"
-  - title: "Ignites"
-    type: ignite
-    date: 2022-04-25T00:00:00-06:00
-    start_time: "13:45"
-    end_time: "14:30"
-  - title: "Open Space Opening"
-    type: custom
-    date: 2022-04-25T00:00:00-06:00
-    start_time: "14:35"
-    end_time: "14:45"
-  - title: "Open Space #1"
-    type: custom
-    date: 2022-04-25T00:00:00-06:00
-    start_time: "14:50"
-    end_time: "15:20"
-  - title: "Open Space #2"
-    type: custom
-    date: 2022-04-25T00:00:00-06:00
-    start_time: "15:25"
-    end_time: "15:55"
-  - title: "Open Space #3"
-    type: custom
-    date: 2022-04-25T00:00:00-06:00
-    start_time: "16:00"
-    end_time: "16:30"
-  - title: "Open Space #4"
-    type: custom
-    date: 2022-04-25T00:00:00-06:00
-    start_time: "16:35"
-    end_time: "17:05"
-  - title: "Close Day"
-    type: custom
-    date: 2022-04-25T00:00:00-06:00
-    start_time: "17:05"
-    end_time: "17:15"
-  - title: "Evening event"
-    type: custom
-    date: 2022-04-25T00:00:00-06:00
-    start_time: "17:30"
-    end_time: "late"
-  - title: "Registration, Breakfast, Sponsors"
-    type: custom
-    date: 2022-04-26T23:59:59-06:00
-    start_time: "08:00"
-    end_time: "08:45"
-  - title: "Opening Welcome"
-    type: custom
-    date: 2022-04-26T23:59:59-06:00
-    start_time: "08:45"
-    end_time: "08:55"
-  - title: "laura-maguire"
-    type: talk
-    date: 2022-04-26T23:59:59-06:00
-    start_time: "08:55"
-    end_time: "09:25"
-  - title: "kristi-perreault"
-    type: talk
-    date: 2022-04-26T23:59:59-06:00
-    start_time: "09:30"
-    end_time: "10:00"
-  - title: "aaron-aldrich"
-    type: talk
-    date: 2022-04-26T23:59:59-06:00
-    start_time: "10:05"
-    end_time: "10:35"
-  - title: "Break"
-    type: custom
-    date: 2022-04-26T23:59:59-06:00
-    start_time: "10:35"
-    end_time: "10:50"
-  - title: "dave-thompson"
-    type: talk
-    date: 2022-04-26T23:59:59-06:00
-    start_time: "10:50"
-    end_time: "11:20"
-  - title: "daniel-alvizu"
-    type: talk
-    date: 2022-04-26T23:59:59-06:00
-    start_time: "11:30"
-    end_time: "12:00"
-  - title: "Lunch"
-    type: custom
-    date: 2022-04-26T23:59:59-06:00
-    start_time: "12:00"
-    end_time: "13:30"
-  - title: "Open Space Opening"
-    type: custom
-    date: 2022-04-26T23:59:59-06:00
-    start_time: "13:45"
-    end_time: "13:55"
-  - title: "Open Space #1"
-    type: custom
-    date: 2022-04-26T23:59:59-06:00
-    start_time: "14:00"
-    end_time: "14:30"
-  - title: "Open Space #2"
-    type: custom
-    date: 2022-04-26T23:59:59-06:00
-    start_time: "14:35"
-    end_time: "15:05"
-  - title: "Open Space #3"
-    type: custom
-    date: 2022-04-26T23:59:59-06:00
-    start_time: "15:10"
-    end_time: "15:40"
-  - title: "Open Space #4"
-    type: custom
-    date: 2022-04-26T23:59:59-06:00
-    start_time: "15:45"
-    end_time: "16:15"
-  - title: "Sponsor Raffles/Closing"
-    type: custom
-    date: 2022-04-26T23:59:59-06:00
-    start_time: "16:20"
-    end_time: "17:45"
+- title: "Registration, Breakfast, Sponsors"
+  type: custom
+  date: 2022-04-25T00:00:00-06:00
+  start_time: "08:00"
+  end_time: "08:45"
+- title: "Opening Welcome"
+  type: custom
+  date: 2022-04-25T00:00:00-06:00
+  start_time: "08:45"
+  end_time: "08:55"
+- title: "matty-stratton"
+  type: talk
+  date: 2022-04-25T00:00:00-06:00
+  start_time: "08:55"
+  end_time: "09:25"
+- title: "jason-yee"
+  type: talk
+  date: 2022-04-25T00:00:00-06:00
+  start_time: "09:30"
+  end_time: "10:00"
+- title: "matt-reynolds"
+  type: talk
+  date: 2022-04-25T00:00:00-06:00
+  start_time: "10:05"
+  end_time: "10:35"
+- title: "Break"
+  type: custom
+  date: 2022-04-25T00:00:00-06:00
+  start_time: "10:35"
+  end_time: "10:50"
+- title: "ajuna-kyaruzi"
+  type: talk
+  date: 2022-04-25T00:00:00-06:00
+  start_time: "10:50"
+  end_time: "11:20"
+- title: "kendall-miller"
+  type: talk
+  date: 2022-04-25T00:00:00-06:00
+  start_time: "11:30"
+  end_time: "12:00"
+- title: "Lunch"
+  type: custom
+  date: 2022-04-25T00:00:00-06:00
+  start_time: "12:00"
+  end_time: "13:30"
+- title: "Ignites"
+  type: ignite
+  date: 2022-04-25T00:00:00-06:00
+  start_time: "13:45"
+  end_time: "14:30"
+- title: "Open Space Opening"
+  type: custom
+  date: 2022-04-25T00:00:00-06:00
+  start_time: "14:35"
+  end_time: "14:45"
+- title: "Open Space #1"
+  type: custom
+  date: 2022-04-25T00:00:00-06:00
+  start_time: "14:50"
+  end_time: "15:20"
+- title: "Open Space #2"
+  type: custom
+  date: 2022-04-25T00:00:00-06:00
+  start_time: "15:25"
+  end_time: "15:55"
+- title: "Open Space #3"
+  type: custom
+  date: 2022-04-25T00:00:00-06:00
+  start_time: "16:00"
+  end_time: "16:30"
+- title: "Open Space #4"
+  type: custom
+  date: 2022-04-25T00:00:00-06:00
+  start_time: "16:35"
+  end_time: "17:05"
+- title: "Close Day"
+  type: custom
+  date: 2022-04-25T00:00:00-06:00
+  start_time: "17:05"
+  end_time: "17:15"
+- title: "Evening event"
+  type: custom
+  date: 2022-04-25T00:00:00-06:00
+  start_time: "17:30"
+  end_time: "late"
+- title: "Registration, Breakfast, Sponsors"
+  type: custom
+  date: 2022-04-26T23:59:59-06:00
+  start_time: "08:00"
+  end_time: "08:45"
+- title: "Opening Welcome"
+  type: custom
+  date: 2022-04-26T23:59:59-06:00
+  start_time: "08:45"
+  end_time: "08:55"
+- title: "laura-maguire"
+  type: talk
+  date: 2022-04-26T23:59:59-06:00
+  start_time: "08:55"
+  end_time: "09:25"
+- title: "kristi-perreault"
+  type: talk
+  date: 2022-04-26T23:59:59-06:00
+  start_time: "09:30"
+  end_time: "10:00"
+- title: "aaron-aldrich"
+  type: talk
+  date: 2022-04-26T23:59:59-06:00
+  start_time: "10:05"
+  end_time: "10:35"
+- title: "Break"
+  type: custom
+  date: 2022-04-26T23:59:59-06:00
+  start_time: "10:35"
+  end_time: "10:50"
+- title: "dave-thompson"
+  type: talk
+  date: 2022-04-26T23:59:59-06:00
+  start_time: "10:50"
+  end_time: "11:20"
+- title: "daniel-alvizu"
+  type: talk
+  date: 2022-04-26T23:59:59-06:00
+  start_time: "11:30"
+  end_time: "12:00"
+- title: "Lunch"
+  type: custom
+  date: 2022-04-26T23:59:59-06:00
+  start_time: "12:00"
+  end_time: "13:30"
+- title: "Open Space Opening"
+  type: custom
+  date: 2022-04-26T23:59:59-06:00
+  start_time: "13:45"
+  end_time: "13:55"
+- title: "Open Space #1"
+  type: custom
+  date: 2022-04-26T23:59:59-06:00
+  start_time: "14:00"
+  end_time: "14:30"
+- title: "Open Space #2"
+  type: custom
+  date: 2022-04-26T23:59:59-06:00
+  start_time: "14:35"
+  end_time: "15:05"
+- title: "Open Space #3"
+  type: custom
+  date: 2022-04-26T23:59:59-06:00
+  start_time: "15:10"
+  end_time: "15:40"
+- title: "Open Space #4"
+  type: custom
+  date: 2022-04-26T23:59:59-06:00
+  start_time: "15:45"
+  end_time: "16:15"
+- title: "Sponsor Raffles/Closing"
+  type: custom
+  date: 2022-04-26T23:59:59-06:00
+  start_time: "16:20"
+  end_time: "17:45"
 
 ignites:
-  - title: "alex-wise"
-    date: 2022-04-25T00:00:00-06:00
-  - title: "britton-broderick"
-    date: 2022-04-25T00:00:00-06:00
-  - title: "jr-beaudoin"
-    date: 2022-04-25T00:00:00-06:00
-  - title: "abby-malson"
-    date: 2022-04-25T00:00:00-06:00
-  - title: "emily-ruppe"
-    date: 2022-04-25T00:00:00-06:00
+- title: "alex-wise"
+  date: 2022-04-25T00:00:00-06:00
+- title: "britton-broderick"
+  date: 2022-04-25T00:00:00-06:00
+- title: "jr-beaudoin"
+  date: 2022-04-25T00:00:00-06:00
+- title: "abby-malson"
+  date: 2022-04-25T00:00:00-06:00
+- title: "emily-ruppe"
+  date: 2022-04-25T00:00:00-06:00

@@ -12,98 +12,100 @@ coordinates: "39.9500, -75.1667" # The corrodinates of your venue. Get Latitude 
 location: "Chemical Heritage Foundation" # The name of your location
 
 nav_elements:
- 
-  - name: contact
-  - name: program
-  - name: speakers
-  - name: location
-  - name: registration
-  - name: conduct
-  - name: sponsor
+
+- name: contact
+- name: program
+- name: speakers
+- name: location
+- name: registration
+- name: conduct
+- name: sponsor
 
 team_members:
-  - name: "Peter Shannon"
-    employer: "DramaFever"
-  - name: "Dave Konopka"
-    employer: "ReactiveOps"
-  - name: "Sarah Gray"
-    employer: "PromptWorks"
-  - name: "Yash Prabhu"
-    employer: "DramaFever"
-  - name: "Mike Tyler"
-    employer: "Chef"
-  - name: "Clinton Wolfe"
-    employer: "Omniti"
+- name: "Peter Shannon"
+  employer: "DramaFever"
+- name: "Dave Konopka"
+  employer: "ReactiveOps"
+- name: "Sarah Gray"
+  employer: "PromptWorks"
+- name: "Yash Prabhu"
+  employer: "DramaFever"
+- name: "Mike Tyler"
+  employer: "Chef"
+- name: "Clinton Wolfe"
+  employer: "Omniti"
 
 organizer_email: "organizers-philadelphia-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-philadelphia-2016@devopsdays.org" # Put your proposal email address here
 
-sponsors: # List all of your sponsors here along with what level of sponsorship they have.
-  - id: chef-before-20210112
-    level: gold
-  - id: dramafever
-    level: event
-  - id: pivotal-before-20190307
-    level: gold
-  - id: victorops-before-20180823
-    level: silver
-  - id: 2016-ns1
-    level: silver
-  - id: omniti
-    level: gold
-  - id: capitalone
-    level: gold
-  - id: thoughtworks-products
-    level: gold
-  - id: opsgenie
-    level: gold
-  - id: promptworks
-    level: bronze
-  - id: rtop
-    level: branding
-  - id: arresteddevops
-    level: community
-  - id: tintri
-    level: silver
-  - id: ca
-    level: gold
-  - id: dellemc
-    level: bronze
-  - id: kms-technology
-    level: bronze
-  - id: comcast
-    level: silver
-  - id: github
-    level: gold
-  - id: vistarmedia
-    level: bronze
-  - id: cloudbees-before-20210804
-    level: gold
-  - id: reactive-ops
-    level: bronze
-  - id: aweber
-    level: silver
+sponsors:
+# List all of your sponsors here along with what level of sponsorship they have.
+- id: chef-before-20210112
+  level: gold
+- id: dramafever
+  level: event
+- id: pivotal-before-20190307
+  level: gold
+- id: victorops-before-20180823
+  level: silver
+- id: 2016-ns1
+  level: silver
+- id: omniti
+  level: gold
+- id: capitalone
+  level: gold
+- id: thoughtworks-products
+  level: gold
+- id: opsgenie
+  level: gold
+- id: promptworks
+  level: bronze
+- id: rtop
+  level: branding
+- id: arresteddevops
+  level: community
+- id: tintri
+  level: silver
+- id: ca
+  level: gold
+- id: dellemc
+  level: bronze
+- id: kms-technology
+  level: bronze
+- id: comcast
+  level: silver
+- id: github
+  level: gold
+- id: vistarmedia
+  level: bronze
+- id: cloudbees-before-20250128-before-20210804
+  level: gold
+- id: reactive-ops
+  level: bronze
+- id: aweber
+  level: silver
 
-sponsor_levels: # In this section, list the level of sponsorships and the label to use.
-  - id: gold
-    label: Gold
-  - id: silver
-    label: Silver
-  - id: bronze
-    label: Bronze
-  - id: event
-    label: Evening Event
-  - id: branding
-    label: Branding
-  - id: community
-    label: Community
+sponsor_levels:
+# In this section, list the level of sponsorships and the label to use.
+- id: gold
+  label: Gold
+- id: silver
+  label: Silver
+- id: bronze
+  label: Bronze
+- id: event
+  label: Evening Event
+- id: branding
+  label: Branding
+- id: community
+  label: Community
 
 speakers:
-  - id: bridget-kromhout
-    level: Keynote
+- id: bridget-kromhout
+  level: Keynote
 
 speaker_levels:
-  - id: talk
-    label: Talk
-  - id: keynote
-    label: Keynote
+- id: talk
+  label: Talk
+- id: keynote
+  label: Keynote

@@ -29,275 +29,276 @@ registration_link: "https://www.eventbrite.com/e/devopsdays-charlotte-2022-ticke
 # Location
 #
 coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Charlotte - Red Ventures Auditorium" 
+location: "Charlotte - Red Ventures Auditorium"
 #
 location_address: "1101 Red Ventures Drive, Indian Land, SC 29707"
 
-nav_elements: # List of pages you want to show up in the navigation of your page.
+nav_elements:
+# List of pages you want to show up in the navigation of your page.
 #  - name: propose
-  - name: location
-  - name: registration
-  - name: program
- # - name: speakers
-  - name: sponsor
-  - name: contact
-  - name: conduct
+- name: location
+- name: registration
+- name: program
+# - name: speakers
+- name: sponsor
+- name: contact
+- name: conduct
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
 
 
 # These are the same people you have on the mailing list and Slack channel.
-team_members: # Name is the only required field for team members.
-  - name: "Alfonso Cabrera"
-    twitter: alfonso__c
-  - name: "Jacob Maggio"
-  - name: "Meka Hayes"
-  - name: "Brock Woodring"
-  - name: "Vonquitra Bebee-Thomas"
-  - name: "Yates Spearman"
-    linkedin: "https://www.linkedin.com/in/yates-spearman-822828168"
-    github: "YatesSpearman"
-  - name: "Mike Saraf"
-  - name: "Kristen Maggio"
+team_members:
+# Name is the only required field for team members.
+- name: "Alfonso Cabrera"
+  twitter: alfonso__c
+- name: "Jacob Maggio"
+- name: "Meka Hayes"
+- name: "Brock Woodring"
+- name: "Vonquitra Bebee-Thomas"
+- name: "Yates Spearman"
+  linkedin: "https://www.linkedin.com/in/yates-spearman-822828168"
+  github: "YatesSpearman"
+- name: "Mike Saraf"
+- name: "Kristen Maggio"
 
 organizer_email: "charlotte@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: red-ventures 
-    level: gold
-  - id: spectrocloud 
-    level: gold
-  - id: 42crunch
-    level: gold
-  - id: tonic
-    level: gold
-  - id: octopus-deploy
-    level: gold
-  - id: newrelic
-    level: gold
-  - id: sonatype
-    level: gold
-  - id: site24x7-before-20230414
-    level: gold
-  - id: mattermost
-    level: gold
-  - id: gitlab
-    level: gold
-  - id: diamanti
-    level: gold
-  - id: sysdig-before-20240607
-    level: gold
-  - id: trilio
-    level: gold
-  - id: tidelift
-    level: gold
-  - id: datadog
-    level: gold
-  - id: harness
-    level: gold
-  - id: acorn
-    level: gold
-  - id: cloudbees
-    level: gold
-  - id: phoenixnap
-    level: silver
-  - id: dynatrace
-    level: silver
-  - id: duplocloud
-    level: silver
-  - id: perfectscale
-    level: silver
+- id: red-ventures
+  level: gold
+- id: spectrocloud
+  level: gold
+- id: 42crunch
+  level: gold
+- id: tonic
+  level: gold
+- id: octopus-deploy
+  level: gold
+- id: newrelic
+  level: gold
+- id: sonatype
+  level: gold
+- id: site24x7-before-20230414
+  level: gold
+- id: mattermost
+  level: gold
+- id: gitlab
+  level: gold
+- id: diamanti
+  level: gold
+- id: sysdig-before-20240607
+  level: gold
+- id: trilio
+  level: gold
+- id: tidelift
+  level: gold
+- id: datadog
+  level: gold
+- id: harness
+  level: gold
+- id: acorn
+  level: gold
+- id: cloudbees-before-20250128
+  level: gold
+- id: phoenixnap
+  level: silver
+- id: dynatrace
+  level: silver
+- id: duplocloud
+  level: silver
+- id: perfectscale
+  level: silver
 
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  - id: arresteddevops
-    level: community
+#  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+- id: arresteddevops
+  level: community
 
-sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted: "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: platinum
-    label: Platinum
-  - id: gold
-    label: Gold
-  - id: silver
-    label: Silver
-  - id: community
-    label: Community
+- id: platinum
+  label: Platinum
+- id: gold
+  label: Gold
+- id: silver
+  label: Silver
+- id: community
+  label: Community
 program:
-  - title: "Registration, Breakfast, Sponsors"
-    type: custom
-    date: 2022-09-08
-    start_time: "08:15"
-    end_time: "09:00"
-  - title: "mandi-walls"
-    type: talk
-    date: 2022-09-08
-    start_time: "09:00"
-    end_time: "09:30"
-  - title: "angel-rivera"
-    type: talk
-    date: 2022-09-08
-    start_time: "09:30"
-    end_time: "10:00"
-  - title: "victor-hernandez"
-    type: talk
-    date: 2022-09-08
-    start_time: "10:00"
-    end_time: "10:30"
-  - title: "Break"
-    type: custom
-    date: 2022-09-08
-    start_time: "10:30"
-    end_time: "10:50"
-  - title: "scott-ford"
-    type: talk
-    date: 2022-09-08
-    start_time: "10:50"
-    end_time: "11:20"
-  - title: "tony-loehr"
-    type: talk
-    date: 2022-09-08
-    start_time: "11:20"
-    end_time: "11:50"
-  - title: "Lunch"
-    type: custom
-    date: 2022-09-08
-    start_time: "11:50"
-    end_time: "13:00"
-  - title: "sean-odell"
-    type: talk
-    date: 2022-09-08
-    start_time: "13:00"
-    end_time: "13:30"
-  - title: "brian-childress"
-    type: talk
-    date: 2022-09-08
-    start_time: "13:30"
-    end_time: "14:00"
-  - title: "Ignites"
-    type: ignite
-    date: 2022-09-08
-    start_time: "14:00"
-    end_time: "14:30"
-  - title: "Open Spaces Intro and Break"
-    type: custom
-    date: 2022-09-08
-    start_time: "14:30"
-    end_time: "14:45"
-  - title: "gerald-yerden"
-    type: workshop
-    date: 2022-09-08
-    start_time: "14:45"
-    end_time: "15:45"
-  - title: "Open Space #1"
-    type: custom
-    date: 2022-09-08
-    start_time: "14:45"
-    end_time: "15:15"
-  - title: "Open Space #2"
-    type: custom
-    date: 2022-09-08
-    start_time: "15:15"
-    end_time: "15:45"
-  - title: "Closing Comments"
-    type: custom
-    date: 2022-09-08
-    start_time: "15:45"
-    end_time: "16:00"
-  - title: "Evening event"
-    type: custom
-    date: 2022-09-08
-    start_time: "16:00"
-    end_time: "late"
-  - title: "Registration, Breakfast, Sponsors"
-    type: custom
-    date: 2022-09-09
-    start_time: "08:30"
-    end_time: "09:00"
-  - title: "alex-hidalgo"
-    type: talk
-    date: 2022-09-09
-    start_time: "09:00"
-    end_time: "09:30"
-  - title: "vamsi-siripurapu"
-    type: talk
-    date: 2022-09-09
-    start_time: "09:30"
-    end_time: "10:00"
-  - title: "orlando-valdez"
-    type: talk
-    date: 2022-09-09
-    start_time: "10:00"
-    end_time: "10:30"
-  - title: "Break"
-    type: custom
-    date: 2022-09-09
-    start_time: "10:30"
-    end_time: "10:50"
-  - title: "malcolm-preston"
-    type: talk
-    date: 2022-09-09
-    start_time: "10:50"
-    end_time: "11:20"
-  - title: "daniel-kim"
-    type: talk
-    date: 2022-09-09
-    start_time: "11:20"
-    end_time: "11:50"
-  - title: "Lunch"
-    type: custom
-    date: 2022-09-09
-    start_time: "11:50"
-    end_time: "13:00"
-  - title: "Ignites"
-    type: ignite
-    date: 2022-09-09
-    start_time: "13:00"
-    end_time: "13:20"
-  - title: "Ignite Karaoke"
-    type: custom
-    date: 2022-09-09
-    start_time: "13:20"
-    end_time: "13:30"
-  - title: "Break and Open Space Intro"
-    type: custom
-    date: 2022-09-09
-    start_time: "13:30"
-    end_time: "13:45"
-  - title: "Open Space #1"
-    type: custom
-    date: 2022-09-09
-    start_time: "13:45"
-    end_time: "14:15"
-  - title: "jim-barton"
-    type: workshop
-    date: 2022-09-09
-    start_time: "13:45"
-    end_time: "14:45"
-  - title: "Open Space #2"
-    type: custom
-    date: 2022-09-09
-    start_time: "14:15"
-    end_time: "14:45"
-  - title: "Closing"
-    type: custom
-    date: 2022-09-09
-    start_time: "14:45"
-    end_time: "15:00"
+- title: "Registration, Breakfast, Sponsors"
+  type: custom
+  date: 2022-09-08
+  start_time: "08:15"
+  end_time: "09:00"
+- title: "mandi-walls"
+  type: talk
+  date: 2022-09-08
+  start_time: "09:00"
+  end_time: "09:30"
+- title: "angel-rivera"
+  type: talk
+  date: 2022-09-08
+  start_time: "09:30"
+  end_time: "10:00"
+- title: "victor-hernandez"
+  type: talk
+  date: 2022-09-08
+  start_time: "10:00"
+  end_time: "10:30"
+- title: "Break"
+  type: custom
+  date: 2022-09-08
+  start_time: "10:30"
+  end_time: "10:50"
+- title: "scott-ford"
+  type: talk
+  date: 2022-09-08
+  start_time: "10:50"
+  end_time: "11:20"
+- title: "tony-loehr"
+  type: talk
+  date: 2022-09-08
+  start_time: "11:20"
+  end_time: "11:50"
+- title: "Lunch"
+  type: custom
+  date: 2022-09-08
+  start_time: "11:50"
+  end_time: "13:00"
+- title: "sean-odell"
+  type: talk
+  date: 2022-09-08
+  start_time: "13:00"
+  end_time: "13:30"
+- title: "brian-childress"
+  type: talk
+  date: 2022-09-08
+  start_time: "13:30"
+  end_time: "14:00"
+- title: "Ignites"
+  type: ignite
+  date: 2022-09-08
+  start_time: "14:00"
+  end_time: "14:30"
+- title: "Open Spaces Intro and Break"
+  type: custom
+  date: 2022-09-08
+  start_time: "14:30"
+  end_time: "14:45"
+- title: "gerald-yerden"
+  type: workshop
+  date: 2022-09-08
+  start_time: "14:45"
+  end_time: "15:45"
+- title: "Open Space #1"
+  type: custom
+  date: 2022-09-08
+  start_time: "14:45"
+  end_time: "15:15"
+- title: "Open Space #2"
+  type: custom
+  date: 2022-09-08
+  start_time: "15:15"
+  end_time: "15:45"
+- title: "Closing Comments"
+  type: custom
+  date: 2022-09-08
+  start_time: "15:45"
+  end_time: "16:00"
+- title: "Evening event"
+  type: custom
+  date: 2022-09-08
+  start_time: "16:00"
+  end_time: "late"
+- title: "Registration, Breakfast, Sponsors"
+  type: custom
+  date: 2022-09-09
+  start_time: "08:30"
+  end_time: "09:00"
+- title: "alex-hidalgo"
+  type: talk
+  date: 2022-09-09
+  start_time: "09:00"
+  end_time: "09:30"
+- title: "vamsi-siripurapu"
+  type: talk
+  date: 2022-09-09
+  start_time: "09:30"
+  end_time: "10:00"
+- title: "orlando-valdez"
+  type: talk
+  date: 2022-09-09
+  start_time: "10:00"
+  end_time: "10:30"
+- title: "Break"
+  type: custom
+  date: 2022-09-09
+  start_time: "10:30"
+  end_time: "10:50"
+- title: "malcolm-preston"
+  type: talk
+  date: 2022-09-09
+  start_time: "10:50"
+  end_time: "11:20"
+- title: "daniel-kim"
+  type: talk
+  date: 2022-09-09
+  start_time: "11:20"
+  end_time: "11:50"
+- title: "Lunch"
+  type: custom
+  date: 2022-09-09
+  start_time: "11:50"
+  end_time: "13:00"
+- title: "Ignites"
+  type: ignite
+  date: 2022-09-09
+  start_time: "13:00"
+  end_time: "13:20"
+- title: "Ignite Karaoke"
+  type: custom
+  date: 2022-09-09
+  start_time: "13:20"
+  end_time: "13:30"
+- title: "Break and Open Space Intro"
+  type: custom
+  date: 2022-09-09
+  start_time: "13:30"
+  end_time: "13:45"
+- title: "Open Space #1"
+  type: custom
+  date: 2022-09-09
+  start_time: "13:45"
+  end_time: "14:15"
+- title: "jim-barton"
+  type: workshop
+  date: 2022-09-09
+  start_time: "13:45"
+  end_time: "14:45"
+- title: "Open Space #2"
+  type: custom
+  date: 2022-09-09
+  start_time: "14:15"
+  end_time: "14:45"
+- title: "Closing"
+  type: custom
+  date: 2022-09-09
+  start_time: "14:45"
+  end_time: "15:00"
 ignites:
-  - title: "derek-ashmore"
-    date: 2022-09-08
-  - title: "david-kirk"
-    date: 2022-09-08
-  - title: "jerry-reed"
-    date: 2022-09-09
-  - title: "trip-longworth"
-    date: 2022-09-09
-
+- title: "derek-ashmore"
+  date: 2022-09-08
+- title: "david-kirk"
+  date: 2022-09-08
+- title: "jerry-reed"
+  date: 2022-09-09
+- title: "trip-longworth"
+  date: 2022-09-09
