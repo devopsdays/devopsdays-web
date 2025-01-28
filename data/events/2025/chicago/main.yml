@@ -181,6 +181,8 @@ sponsors:
     level: gold
   - id: couchbase
     level: gold
+  - id: checkmarx
+    level: gold
   - id: fairwinds
     level: bronze
   - id: lightrun
