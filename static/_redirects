@@ -35,7 +35,7 @@
 /dallas/*		/events/2024-dallas/:splat		302
 /denver/*		/events/2025-denver/:splat		302
 /des-moines/*		/events/2025-des-moines/:splat		302
-/detroit/*		/events/2023-detroit/:splat		302
+/detroit/*		/events/2025-detroit/:splat		302
 /down-under/*		/events/2019-sydney/:splat		302
 /edinburgh/*		/events/2020-edinburgh/:splat		302
 /feira-de-santana/*	/events/2019-feira-de-santana/:splat	302
