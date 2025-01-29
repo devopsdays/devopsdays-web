@@ -193,6 +193,10 @@ sponsors:
     level: community
   - id: kubeevents
     level: community
+  - id: chicago-devops
+    level: community
+  - id: awschicago_ugroup
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
