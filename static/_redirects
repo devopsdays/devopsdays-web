@@ -264,3 +264,4 @@ events/2024-ahmedabad/sponsorship-prospectus.pdf https://assets.devopsdays.org/e
 /curitiba/*            /events/2024-curitiba/:splat           302
 /joao-pessoa/*            /events/2024-joao-pessoa/:splat           302
 /kerala/*            /events/2024-kerala/:splat           302
+/garanhuns/*            /events/2025-garanhuns/:splat           302
