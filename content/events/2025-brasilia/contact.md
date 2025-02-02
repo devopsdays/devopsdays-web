@@ -1,7 +1,7 @@
 +++
 Title = "Contato"
 Type = "event"
-Description = "Contato - DevOpsDays Brasília 2024"
+Description = "Contato - DevOpsDays Brasília 2025"
 +++
 <br>
 <h4>Se você quiser entrar em contato conosco, basta enviar um e-mail para: {{< email_organizers >}}</h4>

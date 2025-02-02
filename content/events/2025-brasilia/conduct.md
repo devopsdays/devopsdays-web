@@ -1,7 +1,7 @@
 +++
 Title = "Código de Conduta"
 Type = "event"
-Description = "Código de Conduta - DevOpsDays Brasília 2024"
+Description = "Código de Conduta - DevOpsDays Brasília 2025"
 +++
 
 # Código de conduta
