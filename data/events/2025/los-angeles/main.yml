@@ -119,14 +119,40 @@ sponsor_levels:
 sponsors:
   - id: akamai
     level: gold
+  - id: bellsoft
+    level: gold
+  - id: checkmarx
+    level: gold
+  - id: couchbase
+    level: gold
   - id: devzero
+    level: gold
+  - id: dnsimple
+    level: gold
+  - id: firefly
+    level: gold
+  - id: gruntwork
     level: gold
   - id: honeycomb
     level: gold
-  - id: semaphore
+  - id: jobst
+    level: silver
+  - id: netactuate
+    level: gold
+  - id: opsera
+    level: gold
+  - id: parasoft
+    level: gold
+  - id: pomerium
+    level: gold
+  - id: sedai
+    level: gold
+  - id: semaphoreci
     level: gold
   - id: stateful
     level: silver
+  - id: thales
+    level: gold
   - id: kubecareers
     level: media
     url: https://kube.careers/
@@ -145,12 +171,12 @@ program:
     date: 2025-03-07T00:00:00-08:00
     start_time: "10:00"
     end_time: "10:45"
-  - title: "patrice-lindo"
+  - title: "heather-osborn"
     type: talk
     date: 2025-03-07T00:00:00-08:00
     start_time: "11:00"
     end_time: "11:45"
-  - title: "Open Spaces"
+  - title: "Lunch / Open Spaces"
     type: custom
     date: 2025-03-07T00:00:00-08:00
     start_time: "12:00"
@@ -169,22 +195,17 @@ program:
     type: talk
     date: 2025-03-07T00:00:00-08:00
     start_time: "14:00"
-    end_time: "14:45"
-  - title: "heather-osborn"
-    type: talk
-    date: 2025-03-07T00:00:00-08:00
-    start_time: "15:00"
-    end_time: "15:15"
+    end_time: "14:45"   
   - title: "annie-hedgpeth"
     type: talk
     date: 2025-03-07T00:00:00-08:00
-    start_time: "15:15"
-    end_time: "15:30"
+    start_time: "15:00"
+    end_time: "15:45"
   - title: "rob-fletcher"
     type: talk
     date: 2025-03-07T00:00:00-08:00
-    start_time: "15:30"
-    end_time: "15:45"
+    start_time: "15:45"
+    end_time: "16:00"
   - title: "zoe-chalfant"
     type: talk
     date: 2025-03-07T00:00:00-08:00

@@ -138,3 +138,41 @@ sponsors:
     level: silver
   - id: infomaniak
     level: gold
+  - id: meetup-devops-geneva
+    level: community
+  - id: agilesuisse
+    level: community
+  - id: swiss-cybersecurity
+    level: community
+  - id: heg-geneva
+    level: community
+  - id: powerhouse
+    level: community
+  - id: webmardi
+    level: community
+  - id: wejob
+    level: community
+  - id: software-crafts-romandie
+    level: community
+  - id: les-renverses
+    level: community
+  - id: swissdevjobs
+    level: community
+  - id: caroster
+    level: community
+  - id: aikido
+    level: gold
+  - id: techfirm
+    level: event
+  - id: mydio
+    level: community
+  - id: isit
+    level: community
+  - id: bellsoft
+    level: silver
+  - id: f5-nginx
+    level: silver
+  - id: qiminfo
+    level: silver
+  - id: enova
+    level: silver

@@ -1,9 +1,9 @@
 +++
 City = "Zurich"
 Year = "2025"
-talk_date = "2025-03-16"
-talk_start_time = "14:00"
-talk_end_time = "14:30"
+talk_date = "2025-03-12"
+talk_start_time = "13:50"
+talk_end_time = "13:55"
 title = "Eating Your Own Dog Food - The Secret Sauce for Better Product Development"
 type = "talk"
 speakers = ["carmine-vassallo"]

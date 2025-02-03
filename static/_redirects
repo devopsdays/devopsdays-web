@@ -35,7 +35,7 @@
 /dallas/*		/events/2024-dallas/:splat		302
 /denver/*		/events/2025-denver/:splat		302
 /des-moines/*		/events/2025-des-moines/:splat		302
-/detroit/*		/events/2023-detroit/:splat		302
+/detroit/*		/events/2025-detroit/:splat		302
 /down-under/*		/events/2019-sydney/:splat		302
 /edinburgh/*		/events/2020-edinburgh/:splat		302
 /feira-de-santana/*	/events/2019-feira-de-santana/:splat	302
@@ -44,8 +44,8 @@
 /galway/*		/events/2019-galway/:splat		302
 /geneva/*		/events/2025-geneva/:splat		302
 /ghent/*		/events/2024-antwerp/:splat		302
-/goiania/cfp		https://talks.devopsdays.org/devopsdays-goiania-2024/ 302
-/goiania/*		/events/2024-goiania/:splat		302
+/goiania/cfp		https://talks.devopsdays.org/devopsdays-goiania-2025/ 302
+/goiania/*		/events/2025-goiania/:splat		302
 /goteborg/*		/events/2011-goteborg/:splat		302
 /guadalajara/*		/events/2021-guadalajara/:splat		302
 /hamburg/*		/events/2010-europe/:splat		302
@@ -100,7 +100,7 @@
 /recife/cfp     https://www.papercall.io/dodrec24    302
 /recife/*		/events/2024-recife/:splat		302
 /riga/*			/events/2018-riga/:splat		302
-/rio-de-janeiro/*	/events/2024-rio-de-janeiro/:splat	302
+/rio-de-janeiro/*	/events/2025-rio-de-janeiro/:splat	302
 /rome/*			/events/2012-italy/:splat		302
 /saint-louis/*		/events/2020-saint-louis/:splat		302
 /salt-lake-city/*	/events/2025-salt-lake-city/:splat	302
@@ -125,7 +125,7 @@
 /vancouver/*		/events/2024-vancouver/:splat		302
 /victoria/*		/events/2019-victoria/:splat		302
 /vitoria/*		/events/2022-vitoria/:splat		302
-/vilnius/*            	/events/2024-vilnius/:splat             302
+/vilnius/*            	/events/2025-vilnius/:splat             302
 /warsaw/*		/events/2024-warsaw/:splat		302
 /washington-dc/*	/events/2024-washington-dc/:splat	302
 /zaragoza/*		/events/2020-zaragoza/:splat		302
@@ -172,7 +172,7 @@
 /criciuma/*            /events/2020-criciuma/:splat           302
 /melbourne/*            /events/2023-melbourne/:splat           302
 /ankara/*            /events/2020-ankara/:splat           302
-/lima/*            /events/2020-lima/:splat           302
+/lima/*            /events/2025-lima/:splat           302
 /rosario/*            /events/2020-rosario/:splat           302
 /aarhus/*            /events/2025-aarhus/:splat           302
 /almaty/*            /events/2024-almaty/:splat           302

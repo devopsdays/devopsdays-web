@@ -1,9 +1,9 @@
 +++
 City = "Zurich"
 Year = "2025"
-talk_date = "2025-03-16"
-talk_start_time = "14:00"
-talk_end_time = "14:30"
+talk_date = "2025-03-13"
+talk_start_time = "11:30"
+talk_end_time = "12:00"
 title = "Empowering SRE with GitOps: Automating Kubernetes Deployments with GitLab CI and Flux CD"
 type = "talk"
 speakers = ["manisha-de", "marco-goncalves"]

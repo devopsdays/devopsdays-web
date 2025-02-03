@@ -1,9 +1,9 @@
 +++
 City = "Zurich"
 Year = "2025"
-talk_date = "2025-03-16"
-talk_start_time = "14:00"
-talk_end_time = "14:30"
+talk_date = "2025-03-12"
+talk_start_time = "11:30"
+talk_end_time = "12:00"
 title = "Pipeline Patterns and Antipatterns - Things your Pipeline Should (Not) Do"
 type = "talk"
 speakers = ["daniel-raniz-raneland"]
