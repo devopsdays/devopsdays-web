@@ -123,9 +123,15 @@ sponsors:
     level: gold
   - id: checkmarx
     level: gold
+  - id: couchbase
+    level: gold
   - id: devzero
     level: gold
+  - id: dnsimple
+    level: gold
   - id: firefly
+    level: gold
+  - id: gruntwork
     level: gold
   - id: honeycomb
     level: gold
@@ -136,6 +142,8 @@ sponsors:
   - id: opsera
     level: gold
   - id: parasoft
+    level: gold
+  - id: pomerium
     level: gold
   - id: sedai
     level: gold
