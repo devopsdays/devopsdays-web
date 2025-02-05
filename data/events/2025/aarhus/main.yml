@@ -39,9 +39,9 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     url: https://devopsdaysdenmark.ticketbutler.io/e/devopsdays-aarhus-2025/
   - name: location
   # - name: registration
-  # - name: program
-  # - name: speakers
-  # - name: sponsor
+  - name: program
+  - name: speakers
+  - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
@@ -131,3 +131,210 @@ sponsor_levels:
   #   label: Bronze
   - id: community
     label: Community
+
+program:
+  - title: "Registration & Breakfast"
+    type: custom
+    date: 2025-04-29
+    start_time: "08:30"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2025-04-29
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "paulina-dubas"
+    type: talk
+    date: 2025-04-29
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Break"
+    date: 2025-04-29
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: "robert-jensen"
+    type: talk
+    date: 2025-04-29
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    date: 2025-04-29
+    start_time: "10:25"
+    end_time: "10:35"
+  - title: "niek-van-raaij"
+    type: talk
+    date: 2025-04-29
+    start_time: "10:35"
+    end_time: "11:05"
+  - title: "Break"
+    date: 2025-04-29
+    start_time: "11:05"
+    end_time: "11:15"
+  - title: "lars-kruse"
+    type: talk
+    date: 2025-04-29
+    start_time: "11:15"
+    end_time: "11:45"
+  - title: "LUNCH"
+    type: custom
+    date: 2025-04-29
+    start_time: "11:45"
+    end_time: "12:35"
+  - title: "Intro Ignite talks"
+    type: custom
+    date: 2025-04-29
+    start_time: "12:35"
+    end_time: "12:40"
+  - title: "Ignite Talks"
+    type: ignite
+    date: 2025-04-29
+    start_time: "12:40"
+    end_time: "13:25"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2025-04-29
+    start_time: "13:25"
+    end_time: "13:40"
+  - title: "Open Space Discussions #1"
+    type: open-space
+    date: 2025-04-29
+    start_time: "13:40"
+    end_time: "14:10"
+  - title: "Break"
+    date: 2025-04-29
+    start_time: "14:10"
+    end_time: "14:35"
+  - title: "Open Space Discussions #2"
+    type: open-space
+    date: 2025-04-29
+    start_time: "14:35"
+    end_time: "15:20"
+  - title: "Break"
+    date: 2025-04-29
+    start_time: "15:20"
+    end_time: "15:25"
+  - title: "Open Space Discussions #3"
+    type: open-space
+    date: 2025-04-29
+    start_time: "15:25"
+    end_time: "16:10"
+  - title: "Break"
+    date: 2025-04-29
+    start_time: "16:10"
+    end_time: "16:20"
+  - title: "Talk - TBD"
+    date: 2025-04-29
+    start_time: "16:20"
+    end_time: "16:50"
+  - title: "Wrap-up of the Day"
+    type: custom
+    date: 2025-04-29
+    start_time: "16:50"
+    end_time: "17:00"
+  - title: "Mingle & Drinks"
+    type: custom
+    date: 2025-04-29
+    start_time: "17:00"
+    end_time: "17:45"
+  - title: "Dinner & Mingle"
+    type: custom
+    date: 2025-04-29
+    start_time: "17:45"
+    end_time: "22:00"
+  - title: "Breakfast"
+    type: custom
+    date: 2025-04-30
+    start_time: "08:30"
+    end_time: "09:00"
+  - title: "Welcome"
+    type: custom
+    date: 2025-04-30
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "kristina-kondrashevich"
+    type: talk
+    date: 2025-04-30
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Break"
+    date: 2025-04-30
+    start_time: "09:45"
+    end_time: "10:00"
+  - title: "andrey-adamovich"
+    type: talk
+    date: 2025-04-30
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2025-04-30
+    start_time: "10:30"
+    end_time: "10:40"
+  - title: "Open Space Discussions #1"
+    type: open-space
+    date: 2025-04-30
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Break"
+    date: 2025-04-30
+    start_time: "11:10"
+    end_time: "11:15"
+  - title: "Open Space Discussions #2"
+    type: open-space
+    date: 2025-04-30
+    start_time: "11:15"
+    end_time: "12:05"
+  - title: "LUNCH"
+    type: custom
+    date: 2025-04-30
+    start_time: "12:05"
+    end_time: "12:55"
+  - title: "Open Space Discussions #3"
+    type: open-space
+    date: 2025-04-30
+    start_time: "12:55"
+    end_time: "13:40"
+  - title: "Break"
+    date: 2025-04-30
+    start_time: "13:40"
+    end_time: "13:50"
+  - title: "daniel-raniz-raneland"
+    type: talk
+    date: 2025-04-30
+    start_time: "13:50"
+    end_time: "14:20"
+  - title: "Break"
+    date: 2025-04-30
+    start_time: "14:20"
+    end_time: "14:45"
+  - title: "marko-klemetti"
+    type: talk
+    date: 2025-04-30
+    start_time: "14:45"
+    end_time: "15:15"
+  - title: "Break"
+    date: 2025-04-30
+    start_time: "15:15"
+    end_time: "15:25"
+  - title: "henning-kjaer"
+    type: talk
+    date: 2025-04-30
+    start_time: "15:25"
+    end_time: "15:55"
+  - title: "Wrap Up"
+    date: 2025-04-30
+    start_time: "15:55"
+    end_time: "16:10"
+
+ignites:
+  - title: "rasmus-lystrom"
+    date: 2025-04-29
+  # - title: "mathieu-soul"
+  - title: "tbd"
+    date: 2025-04-29
+  - title: "simon-izydorek"
+    date: 2025-04-29
+  - title: "jessica-andersson"
+    date: 2025-04-29
+  - title: "marius-tanawa-tsamo"
+    date: 2025-04-29
