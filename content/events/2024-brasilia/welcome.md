@@ -63,7 +63,6 @@ Description = "DevOpsDays Brasília 2024"
     <p>
       Queremos tornar a cultura DevOps cada vez mais presente, participe e venha contribuir para essa jornada!
     </p>
-    {{< event_program >}}
   </div>
 
   <div style="padding-top:1em; padding-bottom:1em;" class="d-flex flex-row">
