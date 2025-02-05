@@ -109,6 +109,10 @@ sponsors:
     level: community
   - id: ramboll
     level: community
+  - id: knowit
+    level: community
+  - id: salling-group
+    level: community
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -123,7 +127,7 @@ sponsor_levels:
   - id: silver
     label: Silver
     max: 0 # This is the same as omitting the max limit.
-  - id: bronze
-    label: Bronze
+  # - id: bronze
+  #   label: Bronze
   - id: community
     label: Community

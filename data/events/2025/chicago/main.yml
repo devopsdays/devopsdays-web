@@ -173,11 +173,31 @@ sponsors:
     level: gold
   - id: cortex
     level: gold
+  - id: akamai
+    level: gold
+  - id: bellsoft
+    level: gold
+  - id: focusedlabs
+    level: gold
+  - id: couchbase
+    level: gold
+  - id: checkmarx
+    level: gold
+  - id: loft-labs
+    level: gold
+  - id: fairwinds
+    level: bronze
+  - id: lightrun
+    level: bronze
   - id: arresteddevops
     level: community
   - id: kubecareers
     level: community
   - id: kubeevents
+    level: community
+  - id: chicago-devops
+    level: community
+  - id: awschicago_ugroup
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

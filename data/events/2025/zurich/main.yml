@@ -164,6 +164,8 @@ sponsors:
   level: silver
 - id: cloudscalech
   level: event
+- id: exoscale
+  level: event
 - id: amanox
   level: bronze
 - id: eficode
@@ -171,6 +173,16 @@ sponsors:
 - id: cognizant
   level: bronze
 - id: dbi-services
+  level: bronze
+- id: checkmarx
+  level: bronze
+- id: infiniroot 
+  level: bronze
+- id: ciklum 
+  level: bronze
+- id: cloudbees  
+  level: bronze
+- id: datastore 
   level: bronze
 
 sponsors_accepted: "no" # Whether you want "Become a XXX Sponsor!" link
@@ -253,72 +265,72 @@ program:
   type: custom
   date: 2025-03-12
   start_time: '12:30'
-  end_time: '13:45'
+  end_time: '14:00'
 
 - title: Opening Afternoon
   type: custom
   date: 2025-03-12
-  start_time: '13:45'
-  end_time: '13:50'
+  start_time: '14:00'
+  end_time: '14:10'
 
 - title: "Ignites"
   type: ignite
   date: 2025-03-12
-  start_time: '13:50'
-  end_time: '14:30'
+  start_time: '14:10'
+  end_time: '14:45'
 
 - title: Open Space Voting
   type: custom
   date: 2025-03-12
-  start_time: '14:35'
+  start_time: '14:45'
   end_time: '15:15'
 
 - title: "Open Space Track 1"
   type: open-space
   date: 2025-03-12
   start_time: '15:15'
-  end_time: '15:50'
+  end_time: '15:55'
 
 - title: "Open Space Track 2"
   type: open-space
   date: 2025-03-12
-  start_time: '15:55'
-  end_time: '16:30'
+  start_time: '16:00'
+  end_time: '16:40'
 
 - title: "Open Space Track 3"
   type: open-space
   date: 2025-03-12
-  start_time: '16:35'
-  end_time: '17:10'
+  start_time: '16:45'
+  end_time: '17:25'
 
 - title: alina-liburkina
   type: workshop
   date: 2025-03-12
   start_time: '15:15'
-  end_time: '17:15'
+  end_time: '17:25'
 
 - title: thomas-krag
   type: workshop
   date: 2025-03-12
   start_time: '15:15'
-  end_time: '17:15'
+  end_time: '17:25'
 
 - title: alvaro-revuelta-m
   type: workshop
   date: 2025-03-12
   start_time: '15:15'
-  end_time: '17:15'
+  end_time: '17:25'
 
 - title: Closing Day 1
   type: custom
   date: 2025-03-12
-  start_time: '17:20'
-  end_time: '17:30'
+  start_time: '17:30'
+  end_time: '17:40'
 
 - title: Evening Event
   type: custom
   date: 2025-03-12
-  start_time: '17:30'
+  start_time: '17:40'
   end_time: '23:00'
 
 # Day 2
@@ -380,61 +392,61 @@ program:
   type: custom
   date: 2025-03-13
   start_time: '14:00'
-  end_time: '14:05'
+  end_time: '14:10'
 
 - title: "Ignites"
   type: ignite
   date: 2025-03-13
-  start_time: '14:05'
+  start_time: '14:10'
   end_time: '14:45'
 
 - title: Open Space Voting
   type: custom
   date: 2025-03-13
-  start_time: '14:50'
+  start_time: '14:45'
   end_time: '15:15'
 
 - title: "Open Space Track 1"
   type: open-space
   date: 2025-03-13
   start_time: '15:15'
-  end_time: '15:50'
+  end_time: '15:55'
 
 - title: "Open Space Track 2"
   type: open-space
   date: 2025-03-13
-  start_time: '15:55'
-  end_time: '16:30'
+  start_time: '16:00'
+  end_time: '16:40'
 
 - title: "Open Space Track 3"
   type: open-space
   date: 2025-03-13
-  start_time: '16:35'
-  end_time: '17:10'
+  start_time: '16:45'
+  end_time: '17:25'
 
 - title: rabieh-fashwall
   type: workshop
   date: 2025-03-13
   start_time: '15:15'
-  end_time: '17:15'
+  end_time: '17:25'
 
 - title: stefan-pezzei
   type: workshop
   date: 2025-03-13
   start_time: '15:15'
-  end_time: '17:15'
+  end_time: '17:25'
 
 - title: marc-herren
   type: workshop
   date: 2025-03-13
   start_time: '15:15'
-  end_time: '17:15'
+  end_time: '17:25'
 
 - title: Raffle & Closing Day 2
   type: custom
   date: 2025-03-13
-  start_time: '17:20'
-  end_time: '17:30'
+  start_time: '17:30'
+  end_time: '17:40'
 
 ignites:
 - title: "carmine-vassallo"

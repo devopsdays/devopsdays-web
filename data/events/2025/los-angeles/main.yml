@@ -119,20 +119,40 @@ sponsor_levels:
 sponsors:
   - id: akamai
     level: gold
+  - id: bellsoft
+    level: gold
   - id: checkmarx
+    level: gold
+  - id: couchbase
     level: gold
   - id: devzero
     level: gold
+  - id: dnsimple
+    level: gold
   - id: firefly
+    level: gold
+  - id: gruntwork
     level: gold
   - id: honeycomb
     level: gold
+  - id: jobst
+    level: silver
+  - id: netactuate
+    level: gold
+  - id: opsera
+    level: gold
   - id: parasoft
     level: gold
-  - id: semaphore
+  - id: pomerium
+    level: gold
+  - id: sedai
+    level: gold
+  - id: semaphoreci
     level: gold
   - id: stateful
     level: silver
+  - id: thales
+    level: gold
   - id: kubecareers
     level: media
     url: https://kube.careers/

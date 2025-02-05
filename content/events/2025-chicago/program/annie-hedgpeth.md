@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Firewalls and Friendships: Building a Balanced Professional Network"
 Type = "talk"
 Speakers = ["annie-hedgpeth"]
+sharing_image = "annie-hedgpeth.png"
 +++
 ## Abstract
 
