@@ -223,6 +223,7 @@ program:
     start_time: "16:10"
     end_time: "16:20"
   - title: "johan-abildskov"
+    type: talk
     date: 2025-04-29
     start_time: "16:20"
     end_time: "16:50"
