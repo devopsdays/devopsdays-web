@@ -1,7 +1,5 @@
 +++
-Title = "Program"
+Title = "Programação"
 Type = "program"
-Description = "Program for for devopsdays Brasília 2024"
+Description = "Programação do Evento"
 +++
-
-TBA
