@@ -120,7 +120,7 @@ sponsors:
     level: gold
   - id: slalom-build
     level: gold
-  - id: cloudbees-before-20210804
+  - id: cloudbees-before-20250128-before-20210804
     level: gold
   - id: sonatype
     level: gold
