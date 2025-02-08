@@ -68,7 +68,7 @@ sponsor_levels:
 sponsors:
   - id: "aws"
     level: lanyard
-  - id: cloudbees-before-20210804
+  - id: cloudbees-before-20250128-before-20210804
     level: sponsor
   - id: codefresh
     level: sponsor
