@@ -77,7 +77,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: vistarmedia
     level: bronze
-  - id: cloudbees-before-20210804
+  - id: cloudbees-before-20250128-before-20210804
     level: gold
   - id: reactive-ops
     level: bronze
