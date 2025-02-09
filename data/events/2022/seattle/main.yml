@@ -110,7 +110,7 @@ sponsors:
     level: gold
   - id: uplevel
     level: silver
-  - id: cloudbees
+  - id: cloudbees-before-20250128
     level: silver
   - id: harness
     level: silver

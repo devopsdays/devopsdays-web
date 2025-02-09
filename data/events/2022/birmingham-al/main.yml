@@ -71,7 +71,7 @@ organizer_email: "birmingham-al@devopsdays.org" # Put your organizer email addre
 sponsors:
   - id: datalus-corporation
     level: bronze
-  - id: cloudbees
+  - id: cloudbees-before-20250128
     level: silver
   - id: dynatrace
     level: silver

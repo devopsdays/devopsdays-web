@@ -183,6 +183,10 @@ sponsors:
     level: gold
   - id: checkmarx
     level: gold
+  - id: loft-labs
+    level: gold
+  - id: gitlab
+    level: gold
   - id: fairwinds
     level: bronze
   - id: lightrun
