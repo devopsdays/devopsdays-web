@@ -189,6 +189,8 @@ sponsors:
     level: gold
   - id: spacelift
     level: gold
+  - id: sumologic
+    level: gold
   - id: fairwinds
     level: bronze
   - id: lightrun
