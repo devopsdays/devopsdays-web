@@ -36,6 +36,8 @@
 &emsp;[event_twitter](#event_twitter)
 &emsp;[registration_start](#registration_start)
 &emsp;[registration_end](#registration_end)
+&emsp;[event_map](#event_map)
+&emsp;[tix](#tix)
 
 <!-- /MDTOC -->
 
