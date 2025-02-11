@@ -131,6 +131,8 @@ sponsors:
     level: gold
   - id: firefly
     level: gold
+  - id: fluidattacks
+    level: gold
   - id: gruntwork
     level: gold
   - id: honeycomb
@@ -151,6 +153,8 @@ sponsors:
     level: gold
   - id: stateful
     level: silver
+  - id: suse
+    level: gold
   - id: thales
     level: gold
   - id: kubecareers
@@ -206,7 +210,7 @@ program:
     date: 2025-03-07T00:00:00-08:00
     start_time: "15:45"
     end_time: "16:00"
-  - title: "zoe-chalfant"
+  - title: ""
     type: talk
     date: 2025-03-07T00:00:00-08:00
     start_time: "16:00"
