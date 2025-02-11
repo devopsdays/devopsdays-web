@@ -189,6 +189,8 @@ sponsors:
     level: gold
   - id: spacelift
     level: gold
+  - id: sumologic
+    level: gold
   - id: fairwinds
     level: bronze
   - id: lightrun
@@ -202,6 +204,10 @@ sponsors:
   - id: chicago-devops
     level: community
   - id: awschicago_ugroup
+    level: community
+  - id: prarie-postgres
+    level: community
+  - id: chicago-pug
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
