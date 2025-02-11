@@ -119,7 +119,7 @@
 /tampa/*		/events/2024-tampa/:splat		302
 /tel-aviv/*		/events/2023-tel-aviv/:splat		302
 /texas/*		/events/2021-texas/:splat		302
-/tokyo/*		/events/2022-tokyo/:splat		302
+/tokyo/*		/events/2025-tokyo/:splat		302
 /toronto/*		/events/2020-toronto/:splat		302
 /ukraine/*		/events/2024-kyiv/:splat		302
 /vancouver/*		/events/2024-vancouver/:splat		302
