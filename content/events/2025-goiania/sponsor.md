@@ -1,5 +1,5 @@
 +++
-Title = "Sponsor"
+Title = "Patrocínio"
 Type = "event"
 Description = "Patrocínio DevOpsDays Goiânia 2025"
 +++
