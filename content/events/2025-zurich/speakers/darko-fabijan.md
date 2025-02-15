@@ -1,7 +1,7 @@
 +++
 Title = "Darko Fabijan"
-image = "darko-fabija.jpg"
-linktitle = "darko-fabija"
+image = "darko-fabijan.jpg"
+linktitle = "darko-fabijan"
 type = "speaker"
 Website = ""
 Twitter = "@darkofabijan"
