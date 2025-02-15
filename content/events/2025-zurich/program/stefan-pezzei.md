@@ -22,3 +22,11 @@ We'll cover the essentials of deploying the OpenTelemetry Collector to process a
 
 Leave uncertainty behind and achieve total operational control.
 
+<strong>Prerequisites for this workshop:</strong>
+No prerequisites needed.
+
+<strong>Number of participants:</strong>
+The maximum number of participants at this workshop is 20.
+
+<strong>Room</strong>
+“Malen” / 1st floor
