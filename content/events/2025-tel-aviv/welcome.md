@@ -18,6 +18,8 @@ Description = "devopsdays Tel Aviv 2025"
   </div>
 </div>
 
+<br/>
+<br/>
 
 <div class="box" style="width: 100%; text-align: center;">
 
