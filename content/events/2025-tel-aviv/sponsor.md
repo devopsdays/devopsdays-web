@@ -4,9 +4,9 @@ Type = "event"
 Description = "Sponsor devopsdays Tel Aviv 2025"
 +++
 
-We greatly value sponsors for our community events.  
+## We greatly value sponsors for our community events.  
 
-You are also welcome to view our <a href="https://drive.google.com/file/d/18MCIMUhiArIp0pa1VF4FQh9GtxUz4X7Z/view?usp=sharing" target="_blank">sponsorship brochure</a>, and if you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
+### You are also welcome to view our <a href="https://drive.google.com/file/d/18MCIMUhiArIp0pa1VF4FQh9GtxUz4X7Z/view?usp=sharing" target="_blank">sponsorship brochure</a>, and if you are interested in sponsoring, please drop us an email at <a href="mailto:tel-aviv@devopsdays.org?subject=I would like to learn more about sponsoring DevOpsDays">tel-aviv@devopsdays.org</a>.
 
 <hr>
 
