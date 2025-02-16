@@ -212,7 +212,7 @@ program:
     date: 2025-03-07T00:00:00-08:00
     start_time: "15:45"
     end_time: "16:00"
-  - title: ""
+  - title: "kat-gaines"
     type: talk
     date: 2025-03-07T00:00:00-08:00
     start_time: "16:00"
