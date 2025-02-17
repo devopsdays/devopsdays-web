@@ -11,6 +11,13 @@ Description = "devopsdays Baltimore 2025"
       <div class="col-md-8">
         <h2>Welcome to DevOpsDays Baltimore!</h2>
         <p>DevOpsDays Baltimore will be on May 20-21, 2025, Pava Center for Entrepreneurship at Johns Hopkins University in Baltimore.</p>
+<p>From fledgling startups to established industry, the DMV is home to a large, vibrant technology community. Baltimore, in particular, has been a flurry of activity in the past several years, drawing attention from around the globe.</p>
+
+<p>DevOpsDays Baltimore brings development, operations, InfoSec, AI, Quality Assurance, IT management, and leadership together to discuss the culture and tools to make better organizations and products. The 2025 event is in a new location, offering an intimate setting that fosters deeper networking, personalized interactions, and an immersive experience where every conversation counts.</p>
+
+<p>The format of DevOpsDays Baltimore includes a single track of 30 minute talks in the morning, followed by Ignite talks (5 minute lightning talks). We spend the rest of the afternoon in Open Spaces, which are considered a key portion of the event where attendees self-organize to drive topics of discussion in small groups.</p>
+
+<p>If you have any questions about any specific accommodation you may need in order to attend, please email baltimore@devopsdays.org.</p>
         <div class="row">
           <div class="col-md-2">
             <strong>Dates</strong>
