@@ -10,6 +10,7 @@ Description = "devopsdays Baltimore 2025"
     <div class="row">
       <div class="col-md-8">
         <h2>Welcome to DevOpsDays Baltimore!</h2>
+        <h3>{{< event_link url-key="registration_link" text="Register to attend the conference!" >}}</h3>
         <p>DevOpsDays Baltimore will be on May 20-21, 2025, Pava Center for Entrepreneurship at Johns Hopkins University in Baltimore.</p>
 <p>From fledgling startups to established industry, the DMV is home to a large, vibrant technology community. Baltimore, in particular, has been a flurry of activity in the past several years, drawing attention from around the globe.</p>
 
@@ -34,14 +35,14 @@ Description = "devopsdays Baltimore 2025"
             {{< event_location >}}
           </div>
         </div>
-        <!--<div class = "row">
+        <div class = "row">
           <div class = "col-md-2">
             <strong>Register</strong>
           </div>
           <div class = "col-md-8">
-            <strong>{{< event_link url-key="registration_link" text="Register to attend the conference!" >}}</strong> <i>[Early bird discounts until 2/28]</i>
+            <strong>{{< event_link url-key="registration_link" text="Register to attend the conference!" >}}</strong> <i>[Early bird discounts until 3/15, while supplies last]</i>
           </div>
-        </div>-->
+        </div>
         <div class = "row">
           <div class = "col-md-2">
             <strong>Propose</strong>
