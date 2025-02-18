@@ -11,22 +11,22 @@ Description = "Sponsor devopsdays Tel Aviv 2025"
 <hr>
 
 ## Diamond Booth Sample
-<img src="https://drive.google.com/file/d/1Bv9EB6LOUzf6t9BAV2LMgoy-_mgWKK2k/view?usp=drive_link" width="500">
+<img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Diamond-Booth.JPG?raw=true" width="500">
 
 ## Platinum Booth Sample
-<img src="https://drive.google.com/file/d/1CWsvQ6v60G8BB9Tb1kYwkfs54qTqLlyh/view?usp=sharing" width="500">&nbpsp;<img src="https://drive.google.com/file/d/1C7tyKTJ5_1tskhmMqLoY5Jr_CXVb3OnQ/view?usp=drive_link" width="500">&nbpsp;<img src="https://drive.google.com/file/d/1Cb7Hu874l5Leqthc6bxkndI1_t6Bzxij/view?usp=sharing" width="500">
+<img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Platinum-1.JPG?raw=true" width="500">&nbpsp;<img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Platinum-3.JPG?raw=true" width="500">&nbpsp;<img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Platinum-2.JPG?raw=true" width="500">
 
 ## Gold Booth Sample
-<img src="https://drive.google.com/file/d/1CBAk8Low8GVUopybKPG2gD_ufo3j5zLH/view?usp=sharing" width="500">
+<img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Gold.JPG?raw=true" width="500">
 
 ## Demo Theater
-<img src="https://drive.google.com/file/d/1C5wGDYoBYMcZgcFRychdsGN_WLPmnG1C/view?usp=sharing" width="500">
+<img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Demo-Theater.JPG?raw=true" width="500">
 
 ## Coffee Sponsor
-<img src="https://drive.google.com/file/d/1CgsaMPRHCZvO1u7Q6Cet6Zxcm_B-5kyd/view?usp=sharing" width="500">&nbpsp;<img src="https://drive.google.com/file/d/1C7VJnEZLM2Kf7kZt8upv6KPNZNnVTm2V/view?usp=sharing" width="500">
+<img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/coffee-1.JPG?raw=true" width="500">&nbpsp;<img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Coffee-2.JPG?raw=true" width="500">
 
 ## Happy Hour Sponsor
-<img src="https://drive.google.com/file/d/1BxMaa1FAf4_Ja-ylyMwRtpaaqF9AGeWb/view?usp=sharing" width="500">
+<img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Happy-Hour-Sponsor.JPG?raw=true" width="500">
 
 devopsdays is a self-organizing conference for practitioners that depends on sponsorships. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
 <p>
