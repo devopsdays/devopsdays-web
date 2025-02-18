@@ -105,6 +105,8 @@ sponsors:
     level: gold
   - id: systematic
     level: silver
+  - id: solidify
+    level: silver
   - id: destination-aarhus
     level: community
   - id: ramboll
