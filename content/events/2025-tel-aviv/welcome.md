@@ -6,9 +6,7 @@ Description = "devopsdays Tel Aviv 2025"
 +++
 
 
-  <div style="text-align:center;">
-  <img src="https://do3z7e6uuakno.cloudfront.net/uploads/event/banner/1129457/5c86ea1949b3df164ecdb854756a1396.png" width="750px">
- </div>
+ 
 
 <div class = "row">
   <div class = "col-md-2">
@@ -18,6 +16,12 @@ Description = "devopsdays Tel Aviv 2025"
     {{< event_start >}} - {{< event_end >}}
   </div>
 </div>
+<br/>
+
+
+ <div style="text-align:center;">
+  <img src="https://do3z7e6uuakno.cloudfront.net/uploads/event/banner/1129457/5c86ea1949b3df164ecdb854756a1396.png" width="750px">
+ </div>
 
 <br/>
 
