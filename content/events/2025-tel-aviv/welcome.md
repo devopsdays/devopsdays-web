@@ -5,9 +5,10 @@ aliases = ["/events/2025-tel-aviv/"]
 Description = "devopsdays Tel Aviv 2025"
 +++
 
-<div style="text-align:center;">
-  {{< event_logo >}}
-</div> 
+
+  <div style="text-align:center;">
+  <img src="https://do3z7e6uuakno.cloudfront.net/uploads/event/banner/1129457/5c86ea1949b3df164ecdb854756a1396.png" width="750px">
+ </div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -20,11 +21,8 @@ Description = "devopsdays Tel Aviv 2025"
 
 <br/>
 
-<img src="https://do3z7e6uuakno.cloudfront.net/uploads/event/banner/1129457/5c86ea1949b3df164ecdb854756a1396.png" width="55%">
-
 <div class="box" style="width: 100%; text-align: center;">
 
-<img src="https://do3z7e6uuakno.cloudfront.net/uploads/event/banner/1129457/5c86ea1949b3df164ecdb854756a1396.png" width="750px">
    <span style="text-align: center;">
        <h2 style="text-transform: uppercase; color: turquoise;">EVENT LOCATION</h2>
        <h4>Expo Tel Aviv, Pavillion 10 (Bitan 10), 101 Rokach Blvd, Tel Aviv</h4>

@@ -147,7 +147,7 @@ sponsors:
   - id: statscraft
     level: community
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  - id: cloudnativeIL
+  - id: cloudnativeil
     level: community
   - id: serverlesstlv
     level: community
