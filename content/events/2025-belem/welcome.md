@@ -16,7 +16,7 @@ Description = "DevOpsDays Belém 2025"
       <p>Os eventos anteriores nós tínhamos uma preocupação grande em disseminar a cultura DevOps, compartilhando experiências e fortalecendo as conexões entre os profissionais de tecnologia que participam do movimento.</p>
       <p>Se você não participou das últimas edições não perca essa oportunidade de trocar experiências valiosas para sua carreira, levar dicas importantes para seu dia a dia, conhecer novas pessoas e quem sabe futuros colegas de trabalho. Você é o nosso diferencial, então não deixe de participar desse grande encontro da comunidade de tecnologia.</p>
       <p>Os links abaixo tem outras informações, e algumas serão atualizadas a medida que fomos fechando a chamada de palestras pra compor a programação, local e patrocinadores.</p>
-      <p>Estamos contanto com você para fazer dessa edição um grande sucesso!</p>
+      <p>Estamos contando com você para fazer dessa edição um grande sucesso!</p>
     </div>
 </div>
 
