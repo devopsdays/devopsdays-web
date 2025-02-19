@@ -63,8 +63,8 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/fabiolimaf/"
 
   - name: "Iago Cavalcante"
-    employer: "Zarv"
-    image: "iago-cavalcante.jpg"
+    employer: "Woovi"
+    image: "iago.jpg"
     twitter: "iagoangelimc"
     linkedin: "https://www.linkedin.com/in/iago-a-cavalcante/"
 
@@ -72,6 +72,11 @@ team_members: # Name is the only required field for team members.
     employer: "Idopter Labs"
     image: "ricardo-casseb.jpg"
     linkedin: "https://www.linkedin.com/in/ricardocasseb/"
+
+  - name: "Ryan Ricardo de Souza"
+    employer: "CR2 Transparência Pública"
+    image: "ryan.jpg"
+    linkedin: "https://www.linkedin.com/in/theunrealryan/"
 
 organizer_email: "belem@devopsdays.org" # Put your organizer email address here
 
