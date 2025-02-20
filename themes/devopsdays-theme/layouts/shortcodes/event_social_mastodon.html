@@ -1,9 +1,9 @@
 {{- $e := partial "functions/get-event-data" . -}}
 
-{{- if $e.event_social_mastadon -}}
-  <a href="{{ $e.event_social_mastadon }}" class="fa-brands social-mstd fa-mastadon" target="_blank" title="Join our Server"></a>
+{{- if $e.event_social_mastodon -}}
+  <a href="{{ $e.event_social_mastodon }}" class="fa-brands social-mstd fa-mastodon" target="_blank" title="Join our Server"></a>
 {{- else -}}
-  <a href="{{ index .Params 0 }}" class="fa-brands fa-mastadon" target="_blank" title="Join our server"></a>
+  <a href="{{ index .Params 0 }}" class="fa-brands social-mstd fa-mastodon" target="_blank" title="Join our server"></a>
 {{- end -}}
 <style>
   .social-mstd {
