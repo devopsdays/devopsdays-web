@@ -42,6 +42,7 @@ event_social_listserv: "https://lists.devopsdays.org/subscription?custom_listser
 event_social_twitter: "devopsdayscityabbr" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 event_social_mastadon: "https://mastodon.social/@devopsdayscityabbr" # Change this to url to your mastadon page
 event_social_bsky: "https://bsky.app/profile/devopsdayscityabbr.bsky.social" # Change this to url to your bluesky page
+event_social_youtube: "devopsdayscityabbr" # Change this to the youtube channel handle for your event such as devopsdaysrox
 # legacy
 event_twitter: "devopsdayscityabbr" # This will create a traditional "Follow" twitter button. Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp.
 
