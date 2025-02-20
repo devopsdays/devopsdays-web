@@ -1,0 +1,20 @@
+{{- $e := partial "functions/get-event-data" . -}}
+
+{{- if $e.event_social_mastadon -}}
+  <a href="{{ $e.event_social_mastadon }}" class="fa-brands social-mstd fa-mastadon" target="_blank" title="Join our Server"></a>
+{{- else -}}
+  <a href="{{ index .Params 0 }}" class="fa-brands fa-mastadon" target="_blank" title="Join our server"></a>
+{{- end -}}
+<style>
+  .social-mstd {
+    color: black;
+    height: 50px;
+    padding: 12px;
+    font-size: 30px;
+    text-decoration: none;
+    display: inline-block;
+  }
+  .social-mstd:hover {
+    color: rgb(110, 99, 218);
+  }
+</style>
