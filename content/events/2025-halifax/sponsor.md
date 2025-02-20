@@ -7,7 +7,7 @@ Description = "Sponsor DevOpsDays Halifax 2025"
 We greatly value sponsors for this community event. If you are interested in sponsoring, please  <a href="mailto:halifax@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Halifax%202025">send us an email</a>.
 <hr>
 
-DevOpsDays Halifax is a self organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
+DevOpsDays Halifax is a community conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
 <p>
 Platinum and Gold sponsors get a full table in the sponsor area where they can interact with those interested to come visit during breaks. All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
 <p>
@@ -163,7 +163,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
 
 <h2>Special Sponsorships</h2>
 
-All special sponsors will have their logo displayed on the DevOpsDays Halifax website, a tweet before the conference, and a thank you during the conference. We do have some flexabilities with these sponsorships, so just ask! Email us: <a href="mailto:halifax@devopsdays.org">halifax@devopsdays.org</a>.
+All special sponsors will have their logo displayed on the DevOpsDays Halifax website, a shoutout on LinkedIn before the conference, and be thanked on stage during the conference. We have some flexibility with these sponsorships, so feel free to reach out with your request! Email us: <a href="mailto:halifax@devopsdays.org">halifax@devopsdays.org</a>.
 <br/><br/>
 
 <table class="table table-bordered table-hover">
