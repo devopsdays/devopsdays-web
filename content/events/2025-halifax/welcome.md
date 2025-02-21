@@ -94,7 +94,7 @@ Description = "DevOpsDays Halifax 2025"
   <div class="buttons">
     <a href="../sponsor/"><button>Become a Sponsor</button></a>
     <a href="../conduct/"><button>Code of Conduct</button></a>
-    <a href="../cfp/"><button>Call for Speakers</button></a>
+    <a href="https://talks.devopsdays.org/devopsdays-halifax-2025/cfp"><button>Call for Speakers</button></a>
   </div>
   </div>
 
