@@ -27,7 +27,7 @@ registration_date_start: 2025-02-19T00:00:00-04:00
 registration_date_end: 2025-09-18T23:59:59-04:00
 
 # registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "https://tickets.devopsdays.org/devopdays-washington-dc/2025/"
+# registration_link: "https://tickets.devopsdays.org/devopdays-washington-dc/2025/"
 
 # Location
 coordinates: "38.89536,-77.04075"
