@@ -20,9 +20,9 @@ cfp_date_announce:  # inform proposers of status
 
 cfp_link: "https://www.papercall.io/dod-dfw-2025" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-event_logo: "logo-square.jpg"
+# event_logo: "logo-square.jpg"
 masthead_background: "planoeventcenter.jpg"
-sharing_image: "logo-square.jpg"
+# sharing_image: "logo.png"
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
@@ -38,10 +38,11 @@ location_address: "2000 East Spring Creek Parkway, Plano, TX 75074" #Optional - 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
   - name: location
- # - name: registration
+  - name: registration
+    url: https://tickets.devopsdays.org/devopsdays-dallas/2025/
  # - name: program
  # - name: speakers
-  - name: sponsor
+  # - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
@@ -175,7 +176,7 @@ sponsors:
   - id: arresteddevops
     level: community
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
