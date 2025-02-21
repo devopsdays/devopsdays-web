@@ -19,7 +19,7 @@ program:
     date: 2025-03-18
     start_time: "09:45"
     end_time: "09:55"
-  - title: "mic-mccully"
+  - title: "paul-czarkowski"
     type: talk
     date: 2025-03-18
     start_time: "09:55"
@@ -123,4 +123,6 @@ ignites:
   - title: "robert-hafner"
     date: 2025-03-18
   - title: "heather-thacker"
+    date: 2025-03-18
+  - title: "keith-willoughby"
     date: 2025-03-18

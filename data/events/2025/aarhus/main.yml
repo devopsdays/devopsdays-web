@@ -105,6 +105,8 @@ sponsors:
     level: gold
   - id: systematic
     level: silver
+  - id: solidify
+    level: silver
   - id: destination-aarhus
     level: community
   - id: ramboll
@@ -330,8 +332,7 @@ program:
 ignites:
   - title: "rasmus-lystrom"
     date: 2025-04-29
-  # - title: "mathieu-soul"
-  - title: "tbd"
+  - title: "kasper-borg-nissen"
     date: 2025-04-29
   - title: "simon-izydorek"
     date: 2025-04-29

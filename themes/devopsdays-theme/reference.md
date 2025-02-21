@@ -36,6 +36,8 @@
 &emsp;[event_twitter](#event_twitter)
 &emsp;[registration_start](#registration_start)
 &emsp;[registration_end](#registration_end)
+&emsp;[event_map](#event_map)
+&emsp;[tix](#tix)
 
 <!-- /MDTOC -->
 
@@ -430,7 +432,8 @@ or
 Embeds the DevOpsDays Pretix ticket and registration system
 This shortcode requires two parameters, city and year, where the city is typically the organiser city and the year the event year.
 Please note this may be differ, please check with in your Pretix for the two names.
+To enable the header text, add `info=show` to enable showing of the Event Info section.
 
 ```
-{{< tix city="belgium" year="antwerp-2024" >}}
+{{< tix city="belgium" year="antwerp-2024" info="show">}}
 ```

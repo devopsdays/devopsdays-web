@@ -128,11 +128,19 @@ sponsors:
   # Gold
   - id: elastic
     level: gold
+  - id: exoscale
+    level: gold
   # Lanyard
   - id: schubergphilis
     level: lanyard
   # Bronze
   - id: devleaps
+    level: bronze
+  - id: essent
+    level: bronze
+  - id: fikaworks
+    level: bronze
+  - id: amsterdamdev
     level: bronze
 #   - id: samplesponsorname
 #     level: gold

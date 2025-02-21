@@ -1,10 +1,11 @@
 {{ $city := .Get "city" }}
 {{ $year := .Get "year" }}
+{{ $info := .Get "info" }}
 
 <link rel="stylesheet" type="text/css" href="https://tickets.devopsdays.org/devopsdays-{{ $city }}/{{ $year }}/widget/v1.css">
 <script type="text/javascript" src="https://tickets.devopsdays.org/widget/v1.en.js" async></script>
 
-<pretix-widget event="https://tickets.devopsdays.org/devopsdays-{{ $city }}/{{ $year }}/"></pretix-widget>
+<pretix-widget event="https://tickets.devopsdays.org/devopsdays-{{ $city }}/{{ $year }}/" {{- if eq $info "show" -}} display-event-info{{- end -}}></pretix-widget>
 <noscript>
    <div class="pretix-widget">
         <div class="pretix-widget-info-message">
