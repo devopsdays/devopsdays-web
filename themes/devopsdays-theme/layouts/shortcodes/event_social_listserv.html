@@ -1,0 +1,7 @@
+{{- $e := partial "functions/get-event-data" . -}}
+
+{{- if $e.event_social_listserv -}}
+  <a href="{{ $e.event_social_listserv }}" class="fa fa-envelope social-envelope" target="_blank" title="Subscribe to our Mailing List"></a>
+{{- else -}}
+  <a href="{{ index .Params 0 }}" class="fa fa-envelope social-envelope" target="_blank" title="Subscribe to our Mailing List"></a>
+{{- end -}}

@@ -1,0 +1,92 @@
+program:
+  - title: "Credenciamento"
+    type: custom
+    date: "2024-11-30"
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Coffee Break"
+    type: custom
+    date: "2024-11-30"
+    start_time: "09:00"
+    end_time: "09:30"
+  - title: "Abertura"
+    type: custom
+    date: "2024-11-30"
+    start_time: "09:30"
+    end_time: "10:00"
+  - title: "tamara-menezes"
+    type: talk
+    date: "2024-11-30"
+    start_time: "10:00"
+    end_time: "10:30"
+    background_color: "#FF8300"
+  - title: "ingrid-murielem"
+    type: talk
+    date: "2024-11-30"
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "maiara-fagundes"
+    type: talk
+    date: "2024-11-30"
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "diego-cardoso"
+    type: talk
+    date: "2024-11-30"
+    start_time: "11:30"
+    end_time: "12:00"
+    background_color: "#FF8300"
+  - title: "Almoço"
+    type: custom
+    date: "2024-11-30"
+    start_time: "12:00"
+    end_time: "13:30"
+  - title: "Ignite Karaoke"
+    type: open-space
+    date: "2024-11-30"
+    start_time: "13:30"
+    end_time: "13:45"
+  - title: "jonathan-pericoco"
+    type: talk
+    date: "2024-11-30"
+    start_time: "13:45"
+    end_time: "14:15"
+    background_color: "#FF8300"
+  - title: "camila-gabriela"
+    type: talk
+    date: "2024-11-30"
+    start_time: "14:15"
+    end_time: "14:45"
+  - title: "valeria-baptista"
+    type: talk
+    date: "2024-11-30"
+    start_time: "14:40"
+    end_time: "15:15"
+    background_color: "#FF8300"
+  - title: "clayton-cavaleiro"
+    type: talk
+    date: "2024-11-30"
+    start_time: "15:15"
+    end_time: "15:45"
+  - title: "thiago-felippi"
+    type: talk
+    date: "2024-11-30"
+    start_time: "15:45"
+    end_time: "16:15"
+  - title: "Open Space"
+    type: open-space
+    date: "2024-11-30"
+    start_time: "16:15"
+    end_time: "17:15"
+  - title: "rob-robert"
+    type: talk
+    date: "2024-11-30"
+    start_time: "17:15"
+    end_time: "17:45"
+    background_color: "#FF8300"
+  - title: "Encerramento"
+    type: custom
+    date: "2024-11-30"
+    start_time: "17:45"
+    end_time: "18:45"
+ignites: []

@@ -7,8 +7,8 @@ talk_end_time = "14:15"
 Title = "Simplify Multi-Cloud Kubernetes Management"
 Type = "talk"
 Speakers = ["michel-schildmeijer"]
-youtube = ""
-speakerdeck = ""
+youtube = "qXoZ2P7t1TI"
+speakerdeck = "https://speakerdeck.com/devopsdayssg/simplify-multi-cloud-kubernetes-management-by-michel-schildmeijer"
 sharing_image = "2024-michel-schildmeijer.jpg"
 +++
 

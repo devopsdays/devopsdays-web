@@ -7,8 +7,8 @@ talk_end_time = "14:20"
 Title = "Anti Agile Movement"
 Type = "talk"
 Speakers = ["ned-lowe"]
-youtube = ""
-speakerdeck = ""
+youtube = "NaYysB6odiA"
+speakerdeck = "https://speakerdeck.com/devopsdayssg/anti-agile-movement"
 +++
 
 ### Ignite

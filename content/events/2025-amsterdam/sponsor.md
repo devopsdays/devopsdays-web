@@ -4,7 +4,7 @@ Type = "event"
 Description = "Sponsor DevOpsDays Amsterdam 2025"
 +++
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
+We greatly value sponsors for this open event.  If you are interested in sponsoring, please <a href="https://assets.devopsdays.org/events/2025/amsterdam/DevOpsDays_Amsterdam_2025_Prospectus_V2.pdf">take a look at our prospectus</a>, then drop us an email at [{{< email_organizers >}}].
 
 <hr>
 

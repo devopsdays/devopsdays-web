@@ -86,6 +86,10 @@ sponsors:
     level: silver
   - id: chattanooga-area-chamber
     level: partner
+  - id: chatt-state
+    level: partner
+  - id: troopers-treasures
+    level: partner
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.

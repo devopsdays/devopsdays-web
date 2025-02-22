@@ -27,7 +27,7 @@ Description = "DevOpsDays Amsterdam will take place June 18-20, 2025! The group 
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
@@ -36,7 +36,7 @@ Description = "DevOpsDays Amsterdam will take place June 18-20, 2025! The group 
       Propose a talk!
     </a>
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -47,16 +47,16 @@ Description = "DevOpsDays Amsterdam will take place June 18-20, 2025! The group 
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Register / Get a ticket</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="registration" text="Register / buy a ticket to attend the conference!" >}}
+    {{< event_link page="registration" text="Get a ticket to attend the conference!" >}}
   </div>
 </div>
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
   </div>
@@ -100,21 +100,21 @@ Description = "DevOpsDays Amsterdam will take place June 18-20, 2025! The group 
           <a class="btn btn-primary btn-block"
             style="margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;"
             href="/events/2025-amsterdam/sponsor">
-            <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference
+            <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;Sponsor the Conference
           </a>
         </div>
-        <!-- <div class="d-flex p-2">
+        <div class="d-flex p-2">
           <a class="btn btn-primary btn-block"
             style="margin-top: 10px; margin-bottom: 10px; background-color: #e59049; border-color: #e59049;"
             href="/events/2025-amsterdam/registration">
-            <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Buy a ticket
+            <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;Buy a ticket
           </a>
-        </div> -->
+        </div>
         <div class="d-flex p-2">
           <a class="btn btn-primary btn-block"
             style="margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;"
             href="/events/2025-amsterdam/contact">
-            <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Contact the Organizers
+            <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;Contact the Organizers
           </a>
         </div>
       </div>

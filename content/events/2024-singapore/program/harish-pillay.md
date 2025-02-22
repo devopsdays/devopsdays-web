@@ -7,8 +7,8 @@ talk_end_time = "14:25"
 Title = "Is AI the new DevOps?"
 Type = "talk"
 Speakers = ["harish-pillay"]
-youtube = ""
-speakerdeck = ""
+youtube = "NaYysB6odiA"
+speakerdeck = "https://speakerdeck.com/harishpillay/is-ai-the-new-devops"
 +++
 
 ### Ignite
