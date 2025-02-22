@@ -26,7 +26,7 @@ Leave uncertainty behind and achieve total operational control.
 No prerequisites needed.
 
 <strong>Number of participants:</strong>
-The maximum number of participants at this workshop is 20.
+The maximum number of participants at this workshop is 32.
 
 <strong>Room</strong>
 “Malen” / 1st floor
