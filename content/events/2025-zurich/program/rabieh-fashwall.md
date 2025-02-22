@@ -39,7 +39,7 @@ By the end of the workshop, participants will have practical experience building
 - operator-sdk (https://sdk.operatorframework.io/)
 
 <strong>Number of participants:</strong>
-The maximum number of participants at this workshop is 20.
+The maximum number of participants at this workshop is 40.
 
 <strong>Room</strong>
 “Seminar” / 1st floor

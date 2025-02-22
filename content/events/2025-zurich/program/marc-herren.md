@@ -28,7 +28,7 @@ Features real-world examples demonstrating immediate practical value in both per
 - Ability to install software on your system (preferably using Homebrew package manager - available at brew.sh). The installation can be done during the workshop.
 
 <strong>Number of participants:</strong>
-The maximum number of participants at this workshop is 15.
+The maximum number of participants at this workshop is 40.
 
 <strong>Room</strong>
 “Gesang” / 2nd floor
