@@ -1,0 +1,7 @@
+{{- $e := partial "functions/get-event-data" . -}}
+
+{{- if $e.event_social_twitter -}}
+  <a href="https://twitter.com/{{ $e.event_social_twitter }}" class="fa-brands fa-twitter social-x" target="_blank" title="Follow on Twitter"></a>
+{{- else -}}
+  <a href="https://twitter.com/{{ index .Params 0 }}" class="fa-brands fa-twitter social-x" target="_blank" title="Follow on Twitter"></a>
+{{- end -}}
