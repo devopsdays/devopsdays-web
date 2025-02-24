@@ -78,7 +78,7 @@ Description = "DevOpsDays Chicago is coming back in 2025! The group that brought
                 <div class="form-check">
                   <input class="form-check-input" type="checkbox" name="gdpr" id="gdpr">
                   <label class="form-check-label" for="gdpr">
-                    <strong>Marketing permission</strong>: I give my consent to DevOpsDays Chicago to be in touch with me via email using the information I have provided in this form for the purpose of news, updates and marketing.
+                    <strong>Marketing permission</strong>: I give my consent to DevOpsDays Chicago to be in touch with me via email using the information I have provided in this form for the purpose of news, updates, and marketing, but ONLY related to the DevOpsDays Chicago event. The only emails sent to me will be directly related to the DevOpsDays Chicago event/conference.
                   </label>
                 </div>
                 <span><strong>What to expect</strong>: If you wish to withdraw your consent and stop hearing from us, simply click the unsubscribe link at the bottom of every email we send or contact us at no-reply@devopsdays.org. We value and respect your personal data and privacy. To view our privacy policy, please visit our website. By submitting this form, you agree that we may process your information in accordance with these terms.</span>
