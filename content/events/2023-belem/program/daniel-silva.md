@@ -9,3 +9,5 @@ Speakers = ["daniel-silva"]
 Como monitorar, realizar testes de carga e escalar uma aplicação. Aprenda a preparar a arquitetura e o ambiente de sua aplicação para esse cenário, como entender e metrificar o consumo de recursos e a como simular um ambiente produtivo baseado em métricas.
 
 Minha proposta é passar pelo tópico de escalabilidade, abordando Kubernetes e o Nomad, além disso serão tratados também temas como observabilidade, service mesh, testes de carga e ChatOps - que entra na observabilidade. E na prática um pouco disso tudo que foi abordado na teoria, demonstrando como uma aplicação apta a escalar se comporta em um ambiente produtivo. É um tema super em alta e necessário nos dias de hoje, entender esse pipe é muito importante, além de ser super interessante também.
+
+[Link para a apresentação](https://docs.google.com/presentation/d/15HfjLaLt5ntRx_RWlpQKFqU69DZnSdIGIL66yiN3mkc/edit)

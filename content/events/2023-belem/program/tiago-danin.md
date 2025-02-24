@@ -9,3 +9,5 @@ Speakers = ["tiago-danin"]
 Descubra o caminho para a automação no desenvolvimento mobile! Desafios únicos, diferenças essenciais do DevOps mobile e segredos para superar barreiras na distribuição de apps nas lojas. Não perca esta oportunidade de dominar o DevOps no mundo mobile!
 
 Esta talk mostrará os caminhos do DevOps no desenvolvimento mobile. Abordaremos desafios exclusivos, diferenças essenciais e ferramentas vitais no Mobile. Além de compartilhar insights, experiências e erros, para ajudar você a criar uma esteira de DevOps sólida e eficaz.
+
+[Link para a apresentação](https://www.canva.com/design/DAFykYinv1U/yhTLik8O0rAyFTiIPbuNWQ/edit)
