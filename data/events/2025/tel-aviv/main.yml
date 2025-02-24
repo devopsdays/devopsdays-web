@@ -145,6 +145,10 @@ organizer_email: "city_email@devopsdays.org" # Put your organizer email address 
 sponsors:
   - id: groundcover
     level: platinum
+  - id: terasky-only
+    level: gold
+  - id: coralogix
+    level: gold
   - id: statscraft
     level: community
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
