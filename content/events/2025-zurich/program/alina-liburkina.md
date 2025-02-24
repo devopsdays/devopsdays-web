@@ -25,7 +25,7 @@ We’ll introduce effective automated and manual refactoring techniques to metho
 No prerequisites needed.
 
 <strong>Number of participants:</strong>
-The maximum number of participants at this workshop is 15.
+The maximum number of participants at this workshop is 40.
 
 <strong>Room</strong>
 “Gesang” / 2nd floor

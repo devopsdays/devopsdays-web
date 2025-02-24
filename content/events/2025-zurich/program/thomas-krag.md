@@ -22,11 +22,11 @@ Join us for this hands-on session where you'll learn how to perform user needs m
 
 <strong>Prerequisites for this workshop:</strong>
 - Participants (or at least one person per group) should bring a laptop and have a Miro account.
-- Participants are allowed to pre-read teamtopologies.com/unm, but it's not a requirement.
+- Participants are allowed to pre-read [teamtopologies.com/unm](https://teamtopologies.com/key-concepts-content/exploring-team-and-service-boundaries-with-user-needs-mapping), but it's not a requirement.
 - Previous experience with user needs mapping, team topologies, DDD or anything else isn't required.
 
 <strong>Number of participants:</strong>
-The maximum number of participants at this workshop is 20.
+The maximum number of participants at this workshop is 28.
 
 <strong>Room</strong>
 “Malen” / 1st floor
