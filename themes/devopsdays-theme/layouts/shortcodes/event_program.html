@@ -1,0 +1,4 @@
+{{- $e := partial "functions/get-event-data" . -}}
+{{- $s := .Site.GetPage (printf "events/%s/program" $e.name) -}}
+<h4><strong>{{$s.Title}}</strong></h4>
+{{ partial "program.html" $s }}
