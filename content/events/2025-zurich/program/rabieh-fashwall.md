@@ -27,3 +27,19 @@ Key topics covered will include:
 - Advanced Operator patterns, including status management, handling upgrades, and building for high availability.
 
 By the end of the workshop, participants will have practical experience building a functional Kubernetes Operator using Go, along with the foundational knowledge needed to develop custom tools for automating and managing infrastructure at scale.
+
+<strong>Prerequisites for this workshop:</strong>
+- git
+- github account(optional)
+- golang our main language of the workshop(https://go.dev/doc/install)
+- any favorite IDE(i.e VS code)
+- kind for setting up local k8s cluster(https://kind.sigs.k8s.io/)
+- docker(https://docs.docker.com/desktop/)
+- Helm(https://helm.sh/)
+- operator-sdk (https://sdk.operatorframework.io/)
+
+<strong>Number of participants:</strong>
+The maximum number of participants at this workshop is 40.
+
+<strong>Room</strong>
+“Seminar” / 1st floor

@@ -26,24 +26,35 @@ Description = "devopsdays Eindhoven 2025 will take place October 2nd and 3rd, 20
     {{< event_location >}}
   </div>
 </div>
-<!-- 
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Register</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
-  </div>
-</div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    <a href="https://talx.devops.foundation/devopsdays-eindhoven-2025/cfp">Propose a talk!</a>
+    <a href="https://talks.devopsdays.org/devopsdays-eindhoven-2025/cfp">
+      Propose a talk!
+    </a>
   </div>
-</div> -->
+</div>
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Sponsors</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_link page="sponsor" text="Sponsor the conference!" >}}
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Register / Get a ticket</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_link page="registration" text="Get a ticket to attend the conference!" >}}
+  </div>
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -52,9 +63,9 @@ Description = "devopsdays Eindhoven 2025 will take place October 2nd and 3rd, 20
   <div class = "col-md-8">
     View the {{< event_link page="program" text="program." >}}
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
   </div>
@@ -65,21 +76,21 @@ Description = "devopsdays Eindhoven 2025 will take place October 2nd and 3rd, 20
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Sponsors</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="sponsor" text="Sponsor the conference!" >}}
-  </div>
-</div> 
-
-<div class = "row">
-  <div class = "col-md-2">
     <strong>Contact</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="contact" text="Get in touch with the organizers" >}}
   </div>
 </div>
+
+<!-- <div class = "row">
+  <div class = "col-md-2">
+    <strong>Livestream</strong>
+  </div>
+  <div class = "col-md-8">
+    <a href="https://youtube.com/c/devopsEindhoven">Join the livestream!</a>
+  </div>
+</div> -->
 
 <div class="container">
   <div class="row">
@@ -89,26 +100,27 @@ Description = "devopsdays Eindhoven 2025 will take place October 2nd and 3rd, 20
           <a class="btn btn-primary btn-block"
             style="margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;"
             href="/events/2025-eindhoven/sponsor">
-            <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference
+            <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;Sponsor the Conference
           </a>
         </div>
-        <!-- <div class="d-flex p-2">
+        <div class="d-flex p-2">
           <a class="btn btn-primary btn-block"
             style="margin-top: 10px; margin-bottom: 10px; background-color: #e59049; border-color: #e59049;"
             href="/events/2025-eindhoven/registration">
-            <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Buy a ticket
+            <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;Buy a ticket
           </a>
-        </div> -->
+        </div>
         <div class="d-flex p-2">
           <a class="btn btn-primary btn-block"
             style="margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;"
             href="/events/2025-eindhoven/contact">
-            <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Contact the Organizers
+            <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;Contact the Organizers
           </a>
         </div>
       </div>
     </div>
   </div>
+
   <div class="row">
     <div class="col-12">
       From fledgling startups to established industry, The Netherlands is home to a large, vibrant technology community. Eindhoven, in particular, has been a flurry of activity in the past several years, drawing attention from around the globe.

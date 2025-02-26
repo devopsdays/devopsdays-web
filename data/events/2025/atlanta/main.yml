@@ -77,6 +77,8 @@ organizer_email: "atlanta@devopsdays.org" # Put your organizer email address her
 sponsors:
   - id: arresteddevops
     level: community
+  - id: spacelift
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

@@ -67,12 +67,6 @@ Description = "DevopsDays Geneva 2025"
         <div class="d-flex p-2">
           <a class="btn btn-primary btn-block"
             style="margin-top: 15px; margin-bottom: 15px; background-color: #8e44b3; border-color: #8e44b3;"
-            href="/events/2025-geneva/propose">
-            <i class="fa fa-person-chalkboard fa-lg"></i>&nbsp;&nbsp;&nbsp;Propose a talk!</a>
-        </div>
-        <div class="d-flex p-2">
-          <a class="btn btn-primary btn-block"
-            style="margin-top: 15px; margin-bottom: 15px; background-color: #8e44b3; border-color: #8e44b3;"
             href="/events/2025-geneva/sponsor">
             <i class="fa fa-handshake fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the conference!
           </a>
@@ -122,14 +116,6 @@ Description = "DevopsDays Geneva 2025"
   </div>
 </div>
 
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Propose</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
-  </div>
-</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">

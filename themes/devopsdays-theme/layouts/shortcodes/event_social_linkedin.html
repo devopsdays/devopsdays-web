@@ -1,0 +1,7 @@
+{{- $e := partial "functions/get-event-data" . -}}
+
+{{- if $e.event_social_linkedin -}}
+  <a href="{{ $e.event_social_linkedin }}" class="fa-brands social-li fa-linkedin" target="_blank" title="Follow on Linkedin"></a>
+{{- else -}}
+  <a href="{{ index .Params 0 }}" class="fa-brands fa-linkedin" target="_blank" title="Follow on Linkedin"></a>
+{{- end -}}
