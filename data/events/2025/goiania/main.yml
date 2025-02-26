@@ -51,11 +51,13 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
   - name: programação
     icon: "calendar"
-    url: /events/2025-goiania/program
+    url: https://talks.devopsdays.org/devopsdays-goiania-2025/schedule/
+    #url: /events/2025-goiania/program
 
   - name: palestrantes
     icon: "microphone"
-    url: /events/2025-goiania/speakers
+    url: https://talks.devopsdays.org/devopsdays-goiania-2025/speaker/
+    # url: /events/2025-goiania/speakers
 
   - name: patrocínio
     icon: "money"
@@ -116,6 +118,8 @@ sponsors:
     level: gold
   - id: jack-experts
     level: gold
+  - id: infomach
+    level: bronze
   - id: aws-user-group-goiania
     level: community
   - id: devopsgo
