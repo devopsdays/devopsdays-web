@@ -19,7 +19,6 @@
 /boise/*		/events/2023-boise/:splat		302
 /boston/*		/events/2024-boston/:splat		302
 /brasilia/*		/events/2017-brasilia/:splat		302
-/buenos-aires/*		/events/2020-buenos-aires/:splat	302
 /buffalo/*		/events/2023-buffalo/:splat		302
 /caceres/*		/events/2024-caceres/:splat		302
 /cairo/*		/events/2025-cairo/:splat		302
@@ -52,7 +51,7 @@
 /hartford/*		/events/2019-hartford/:splat		302
 /helsinki/*		/events/2014-helsinki/:splat		302
 /houston/*		/events/2024-houston/:splat		302
-/halifax/*		/events/2024-halifax/:splat		302
+/halifax/*		/events/2025-halifax/:splat		302
 /indianapolis/*		/events/2023-indianapolis/:splat	302
 /istanbul/*		/events/2024-istanbul/:splat		302
 /jakarta/*		/events/2022-jakarta/:splat		302
