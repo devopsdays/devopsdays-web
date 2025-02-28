@@ -80,7 +80,7 @@ Description = "devopsdays atlanta 2025"
     <hr>
  <div style="text-align:center;">
  <h1>DEMINGDAYS ATLANTA 2025<br/> devOps, Deming, &amp; the age of AI</h1>
-  {{< event_logo >}}
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/W._Edwards_Deming.jpg" />
   <h2>A <a href="https://en.wikipedia.org/wiki/Roast_(comedy)">Roast</a> for <a href="../speakers/john-willis/">John Willis</a></h2>
 
  <div style="text-align:left;width:80%;margin: auto;">
