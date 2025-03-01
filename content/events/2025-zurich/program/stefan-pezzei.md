@@ -23,7 +23,11 @@ We'll cover the essentials of deploying the OpenTelemetry Collector to process a
 Leave uncertainty behind and achieve total operational control.
 
 <strong>Prerequisites for this workshop:</strong>
-No prerequisites needed.
+- Basic knowledge of Kubernetes is required
+- A Bitbucket account with an already set up SSH key is required
+- An IDE for writing and adapting YAML files should be installed
+- Basic knowledge of ArgoCD is an advantage
+- The max number of participants is 16. 
 
 <strong>Number of participants:</strong>
 The maximum number of participants at this workshop is 32.

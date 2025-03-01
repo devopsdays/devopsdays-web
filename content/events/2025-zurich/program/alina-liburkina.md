@@ -22,7 +22,7 @@ Once tests are in place, we’ll explore how to clean up the internal mess. Lear
 We’ll introduce effective automated and manual refactoring techniques to methodically restructure code while keeping everything operational. Finally, we will show techniques that can guide you toward a more flexible architecture, like Vertical Slice and Hexagonal Architecture, where each feature slice is more testable, maintainable, and easy to evolve.
 
 <strong>Prerequisites for this workshop:</strong>
-No prerequisites needed.
+- There are no prerequirements for this workshop.
 
 <strong>Number of participants:</strong>
 The maximum number of participants at this workshop is 40.
