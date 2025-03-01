@@ -30,7 +30,7 @@ Leave uncertainty behind and achieve total operational control.
 - The max number of participants is 16. 
 
 <strong>Number of participants:</strong>
-The maximum number of participants at this workshop is 32.
+The maximum number of participants at this workshop is 16.
 
 <strong>Room</strong>
 “Malen” / 1st floor
