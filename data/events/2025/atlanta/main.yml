@@ -53,22 +53,42 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 team_members: # Name is the only required field for team members.
   - name: "Chris Corriere"
     image: "chris-corriere.jpg"
+    bluesky: "https://bsky.app/profile/ecology-chris.com"
+    linkedin: "https://www.linkedin.com/in/chris-corriere/"
     twitter: "ecology_chris"
 
   - name: "John Dyer"
     image: "john-dyer.jpg"
     twitter: "thedyers"
+    linkedin: "https://www.linkedin.com/in/johntdyer/"
 
   - name: "Andre Thenot"
     image: "andre-thenot.jpg"
     twitter: "athenot"
+    linkedin: "https://www.linkedin.com/in/andr%C3%A9-th%C3%A9not-97155856/"
 
   - name: "Claire Moss"
     image: "claire-moss.jpg"
     twitter: "aclairefication"
+    linkedin: "https://www.linkedin.com/in/aclairefication/"
 
   - name: "Ajuna Kyaruzi"
     image: "ajuna-kyaruzi.jpg"
+    linkedin: "https://www.linkedin.com/in/ajuna/"
+  
+  - name: "Sindhu Gudala"
+    image: "sindhu-gudala.png"
+    linkedin: "https://www.linkedin.com/in/sindhu-gudala/"
+
+  - name: "Vivek Madem"
+    image: "vivek-madem.jpg"
+    linkedin: "https://www.linkedin.com/in/vivekmadem/"
+
+  - name: "Garrett Honeycutt"
+    twitter: "_ghoneycutt"
+    github: "ghoneycutt"
+    linkedin: "https://www.linkedin.com/in/garretthoneycutt"
+    image: "garrett-honeycutt.jpg"
 
 organizer_email: "atlanta@devopsdays.org" # Put your organizer email address here
 
@@ -79,6 +99,9 @@ sponsors:
     level: community
   - id: spacelift
     level: gold
+  - id: honeycomb
+    level: gold
+  
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -138,7 +161,7 @@ program:
     date: 2025-04-29T08:00:00-05:00
     start_time: "11:10"
     end_time: "11:20"
-  - title: "patrick-debois"
+  - title: "talk-4"
     type: talk
     date: 2025-04-29T08:00:00-05:00
     start_time: "11:20"
