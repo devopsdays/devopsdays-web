@@ -186,6 +186,8 @@ sponsors:
   level: bronze
 - id: zesty
   level: bronze
+- id: couchbase
+  level: bronze
 
 sponsors_accepted: "no" # Whether you want "Become a XXX Sponsor!" link
 
