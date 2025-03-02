@@ -75,7 +75,7 @@ team_members: # Name is the only required field for team members.
   - name: "Ajuna Kyaruzi"
     image: "ajuna-kyaruzi.jpg"
     linkedin: "https://www.linkedin.com/in/ajuna/"
-  
+
   - name: "Sindhu Gudala"
     image: "sindhu-gudala.png"
     linkedin: "https://www.linkedin.com/in/sindhu-gudala/"
@@ -85,7 +85,6 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/vivekmadem/"
 
   - name: "Garrett Honeycutt"
-    twitter: "_ghoneycutt"
     github: "ghoneycutt"
     linkedin: "https://www.linkedin.com/in/garretthoneycutt"
     image: "garrett-honeycutt.jpg"
@@ -101,7 +100,7 @@ sponsors:
     level: gold
   - id: honeycomb
     level: gold
-  
+
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
