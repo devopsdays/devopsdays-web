@@ -199,6 +199,8 @@ sponsors:
     level: gold
   - id: discover
     level: gold
+  - id: postman
+    level: gold
   - id: fairwinds
     level: bronze
   - id: lightrun
@@ -217,8 +219,8 @@ sponsors:
     level: community
   - id: chicago-pug
     level: community
-  - id: postman
-    level: gold
+  - id: iitcoc
+    level: community
   - id: postman
     level: lanyard
 
