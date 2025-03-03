@@ -10,8 +10,8 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2025-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2025-11-01T00:00:00+03:00
+enddate: 2025-11-01T23:59:59+03:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  # start accepting talk proposals.
@@ -62,36 +62,34 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
-   - name: "Batuhan Apaydın"
+   - name: "Batuhan Apaydin"
      employer: "Trendyol"
+     image: "batuhan-apaydin.jpg"
      twitter: "developerguyba"
-     bio: ""
+     linkedin: "https://www.linkedin.com/in/bthnapydin/"
    
    - name: "Koray Oksay"
      employer: "Kubermatic"
+     image: "koray-oksay.jpg"
      twitter: "korayoksay"
-     bio: ""
+     linkedin: "https://www.linkedin.com/in/korayoksay/"
    
    - name: "Derya Sezen"
      employer: "Kloia"
-     twitter: "DeryaDorian"
-     bio: ""
+     image: "derya-sezen.jpg"
+     linkedin: "https://www.linkedin.com/in/deryasezen/"
+     twitter: derya_sezen
    
    - name: "Dogukan Turan"
      employer: "Logo"
      twitter: "imdotu"
-     bio: ""
+     linkedin: "https://www.linkedin.com/in/dogukanturan/"
 
 organizer_email: "istanbul@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: samplesponsorname
-    level: gold
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  - id: arresteddevops
-    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
