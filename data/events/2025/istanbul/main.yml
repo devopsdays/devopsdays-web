@@ -62,16 +62,25 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
-  - name: "John Doe"
-  - name: "Jane Smith"
-    twitter: "devopsdays"
-  - name: "Sally Fields"
-    employer: "Acme Anvil Co."
-    github: "devopsdays"
-    facebook: "https://www.facebook.com/sally.fields"
-    linkedin: "https://www.linkedin.com/in/sallyfields"
-    website: "https://mattstratton.com"
-    image: "sally-fields.jpg"
+   - name: "Batuhan Apaydın"
+     employer: "Trendyol"
+     twitter: "developerguyba"
+     bio: ""
+   
+   - name: "Koray Oksay"
+     employer: "Kubermatic"
+     twitter: "korayoksay"
+     bio: ""
+   
+   - name: "Derya Sezen"
+     employer: "Kloia"
+     twitter: "DeryaDorian"
+     bio: ""
+   
+   - name: "Dogukan Turan"
+     employer: "Logo"
+     twitter: "imdotu"
+     bio: ""
 
 organizer_email: "istanbul@devopsdays.org" # Put your organizer email address here
 
