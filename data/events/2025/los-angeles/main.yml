@@ -165,6 +165,8 @@ sponsors:
   - id: kubeevents
     level: media
     url: https://kube.events/
+  - id: tuxdigital
+    level: media
 
 program:
   - title: "Registration, Breakfast, Sponsors"
