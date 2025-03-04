@@ -85,7 +85,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: alt
   - id: elastic-before-20221004
     level: gold
-  - id: cloudbees-before-20210804
+  - id: cloudbees-before-20250128-before-20210804
     level: social
   - id: sendgrid
     level: bronze

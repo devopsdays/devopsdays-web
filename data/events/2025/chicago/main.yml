@@ -183,6 +183,24 @@ sponsors:
     level: gold
   - id: checkmarx
     level: gold
+  - id: loft-labs
+    level: gold
+  - id: gitlab
+    level: gold
+  - id: spacelift
+    level: gold
+  - id: sumologic
+    level: gold
+  - id: castai
+    level: gold
+  - id: komodor
+    level: gold
+  - id: last9
+    level: gold
+  - id: discover
+    level: gold
+  - id: postman
+    level: gold
   - id: fairwinds
     level: bronze
   - id: lightrun
@@ -197,6 +215,14 @@ sponsors:
     level: community
   - id: awschicago_ugroup
     level: community
+  - id: prarie-postgres
+    level: community
+  - id: chicago-pug
+    level: community
+  - id: iitcoc
+    level: community
+  - id: postman
+    level: lanyard
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -207,11 +233,14 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: platinum
     label: Platinum
-    max: 2
+    max: 1
   - id: gold
     label: Gold
-#    max: 10
+    max: 10
   - id: bronze
     label: Bronze
   - id: community
     label: Community
+  - id: lanyard
+    label: Lanyard
+    max: 1

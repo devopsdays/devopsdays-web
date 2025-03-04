@@ -7,11 +7,11 @@ Type = "talk"
 Speakers = ["justin-reock"]
 +++
 
-Platform engineering has emerged as a critical function that serves as the backbone for engineering teams, providing the tools and capabilities necessary to accelerate delivery. But to truly maximize their impact, platform engineers should embrace a product management mindset. When thinking like product managers, platform engineers better understand their internal customers' needs, prioritize features, and deliver a seamless developer experience that can 10x an engineering team's productivity. 
+Platform engineering is the foundation of modern software development, equipping teams with the tools and workflows they need to move faster. However, to truly drive impact, platform engineers must think like product managers—leveraging productivity metrics to guide decisions, prioritize investments, and measure success. By applying a data-driven approach, platform teams can optimize developer experience, streamline workflows, and demonstrate tangible ROI on platform initiatives.
 
-In this 15-minute session, Ganesh Datta, CTO and co-founder of Cortex.io, and one of Forbes 30 under 30, will demonstrate that platform engineers are, in fact, product managers for their internal developer customers. By treating the platform as an internally delivered product, and holding it to the same standard and rollout as any product, teams significantly accelerate the successful adoption of Internal Developer Platforms and Portals. 
+In this 15-minute session, Justin Reock, Deputy CTO at DX (getdx.com), will explore how platform engineers can use key developer productivity metrics—such as cycle time, deployment frequency, and developer satisfaction—to manage their platform as an internal product. By treating the platform with the same rigor as an external product launch, teams can accelerate adoption, improve efficiency, and create a frictionless developer experience.
 
-Join us to discover how adopting this mindset can transform your platform engineering efforts into a high-impact, developer-centric initiative that empowers your teams and drives organizational success.
+Join us to learn how adopting a metrics-driven, product management mindset can transform your platform engineering efforts into a strategic, high-impact function that unlocks engineering velocity and business success.
 
 <style>
   p {
