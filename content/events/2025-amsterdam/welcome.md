@@ -27,7 +27,7 @@ Description = "DevOpsDays Amsterdam will take place June 18-20, 2025! The group 
   </div>
 </div>
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
@@ -36,7 +36,7 @@ Description = "DevOpsDays Amsterdam will take place June 18-20, 2025! The group 
       Propose a talk!
     </a>
   </div>
-</div>
+</div> -->
 
 <div class = "row">
   <div class = "col-md-2">
@@ -56,7 +56,7 @@ Description = "DevOpsDays Amsterdam will take place June 18-20, 2025! The group 
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
   </div>
@@ -72,7 +72,7 @@ Description = "DevOpsDays Amsterdam will take place June 18-20, 2025! The group 
   <div class = "col-md-8">
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">

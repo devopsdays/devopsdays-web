@@ -31,7 +31,7 @@ If you have set up a Google Analytics v4 or newer account for tracking your spec
 
 ### Event Square Logo
 
-To customize the logo that appears on the root of devopsdays.org, place a square file (jpg format only) in `assets/events/yyyy-city`. It must be named `logo-square.jpg` and should be at minimum 300px x 300px, but optimally should be 600px x 600px. Note that in the preview (without gulp processing), non-square files will appear to be okay. However, once processed for production, they will be stretched to be square.
+To customize the logo that appears on the root of devopsdays.org, place a square file (png format only) in `assets/events/yyyy-city`. It must be named `logo-square.png` and should be at minimum 300px x 300px, but optimally should be 600px x 600px. Note that if your `logo.png` is already square or can be squared nicely, you do not __need__ this file.
 
 ### Reference Content
 

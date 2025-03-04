@@ -104,6 +104,12 @@ Description = "devopsdays Vilnius 2025"
                     style="background-color: #1bff9f; border-color: #1bff9f; color: #000000"
                     href="https://www.linkedin.com/company/93799618/">Like Us On LinkedIn</a>
             </div>
+            <div class="d-flex p-2">
+                <a class="btn btn-primary btn-block button-primary"
+                    style="background-color: #1bff9f; border-color: #1bff9f; color: #000000"
+                    href="https://forms.gle/cJnLV6pzrsJ3GPcR8">
+                    <i class="fa fa-envelope fa-lg"></i>&nbsp;&nbsp;&nbsp;Subscribe to our Newsletter</a>
+            </div>
         </div>
     </div>
 </div>
