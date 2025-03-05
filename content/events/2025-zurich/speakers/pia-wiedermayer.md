@@ -3,7 +3,7 @@ Title = "Pia Wiedermayer"
 image = "pia-wiedermayer.jpg"
 linktitle = "pia-wiedermayer"
 type = "speaker"
-Website = "https://www.piawiedermayer.com/"
+Website = "https://www.itacama.ch"
 Twitter = ""
 Linkedin = "https://www.linkedin.com/in/piawiedermayer/"
 +++
