@@ -201,6 +201,8 @@ sponsors:
     level: gold
   - id: postman
     level: gold
+  - id: hashicorp
+    level: gold
   - id: fairwinds
     level: bronze
   - id: lightrun
