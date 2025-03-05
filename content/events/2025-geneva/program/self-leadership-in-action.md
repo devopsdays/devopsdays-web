@@ -4,10 +4,13 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Self-Leadership in Action: Navigating Systems and Complexity"
 Type = "talk"
-Speakers = ["john-ingram"]
+Speakers = ["florence-dambricourt"]
 +++
 
-Don't you hate it when you finish a new feature in your backend, deploy it, and confidently message your frontend colleague in Slack that they can start integrating it, only to be met moments later with: "Which API should I call? I can't find it in the API reference?!"
+Step into the art of self-leadership in this interactive workshop, where real-life challenges meet practical tools to navigate complexity. In this session, you will:
+- Explore your Circles of Influence: Focus your energy on areas where it can create the greatest impact.
+- Examine your systems and stakeholders: Uncover the dynamics that shape your environment and relationships.
+- Learn to manage complexity: Recognize and balance polarities—interdependent forces that drive your decisions.
+- Gain insights from neuroscience: Understand how your brain influences behaviors, helping you make more deliberate and effective choices.
 
-
-Documentation "drift" is an annoying issue that needs to be addressed. I want to take a few minutes to share strategies I've recently been using to quickly set up fast API contract tests that run as quickly as unit tests.
+Through real-life situations brought by participants, this workshop offers tailored strategies to strengthen your ability to lead yourself and others with clarity and confidence, enhancing your capacity to bridge the gaps between your different systems and stakeholders.

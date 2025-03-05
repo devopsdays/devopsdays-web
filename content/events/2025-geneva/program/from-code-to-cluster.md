@@ -4,10 +4,15 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "From Code to Cluster: Orchestrating 10,000+ Kubernetes deployments with 1 pipeline"
 Type = "talk"
-Speakers = ["john-ingram"]
+Speakers = ["andrada-raducanu"]
 +++
 
-Don't you hate it when you finish a new feature in your backend, deploy it, and confidently message your frontend colleague in Slack that they can start integrating it, only to be met moments later with: "Which API should I call? I can't find it in the API reference?!"
+There is a sea of tools one can use for the critical phase of Deployment during your SDLC. To keep our environment secure and reliable, ING chose to work with Kubernetes and Azure DevOps.
 
+In this talk, we will share the success story of how 1200 in-house developed APIs reached 10 000+ Production deployments in half a year, using one single pipeline.
 
-Documentation "drift" is an annoying issue that needs to be addressed. I want to take a few minutes to share strategies I've recently been using to quickly set up fast API contract tests that run as quickly as unit tests.
+In order to stay in control, we use Open Policy Agent.
+
+To ensure the reliability and the resilience of the APIs, we use tools like: QuotaAutoscaler (ING open source CRD) and HorizontalPodAustoscaler, native rollback mechanisms with Helm, automatic certificates using CertManager and Prometheus monitoring. 
+
+The pipeline deploys code in Azure Kubernetes Service and on-prem Kubernetes clusters. This solution was built as a platform, designed to be agnostic to the target system, reducing the cognitive load on the teams and allowing them to focus on the application development. We call this The Kingsroad.

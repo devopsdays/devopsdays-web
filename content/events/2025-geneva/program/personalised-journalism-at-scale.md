@@ -4,10 +4,13 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Personalised Journalism at Scale: Building Recommendation Engines for Individual News Experiences"
 Type = "talk"
-Speakers = ["john-ingram"]
+Speakers = ["alexander-gunsche","benjamin-bartosch"]
 +++
 
-Don't you hate it when you finish a new feature in your backend, deploy it, and confidently message your frontend colleague in Slack that they can start integrating it, only to be met moments later with: "Which API should I call? I can't find it in the API reference?!"
+Personalized experiences are transforming how readers engage with news in today’s complex world. In this session, we’ll explore the design of personalized news systems that balance precision and scalability.
 
+We’ll start by examining the core challenges of delivering personalisation at scale – building user profiles, leveraging real-time signals to surface relevant content, while maintaining speed and reliability.
 
-Documentation "drift" is an annoying issue that needs to be addressed. I want to take a few minutes to share strategies I've recently been using to quickly set up fast API contract tests that run as quickly as unit tests.
+Next, we’ll dive into the technical architecture powering our news platform. Learn how session-based recommendations, lookalike segments, and approximations enhance relevance and engagement. Discover how a robust serverless architecture enables real-time, low-latency delivery of personalized content at scale, driving higher user engagement and loyalty.
+
+Attendees will gain insights into the trade-offs, challenges, and best practices of building a modern, data-driven news platform – and strategies for balancing personalization, precision, and scalability in news delivery.

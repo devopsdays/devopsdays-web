@@ -4,10 +4,11 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Scaling DevOps with Multi-Agent AI"
 Type = "talk"
-Speakers = ["john-ingram"]
+Speakers = ["alina-astapovich","markus-makela"]
 +++
 
-Don't you hate it when you finish a new feature in your backend, deploy it, and confidently message your frontend colleague in Slack that they can start integrating it, only to be met moments later with: "Which API should I call? I can't find it in the API reference?!"
+DevOps teams often struggle with a high volume of routine tasks and requests, making it difficult to focus on critical, high-priority initiatives. At Electrolux, we faced the same challenge, which led us to develop InfraAssistant—an AI-powered solution that automates key operational tasks such as infrastructure management, user onboarding, and internal request handling.
 
+InfraAssistant is built on specialized agents that collaborate to autonomously manage complex tasks, reducing the need for constant human intervention. This shift has significantly decreased manual workload, improved operational efficiency, and enhanced infrastructure management.
 
-Documentation "drift" is an annoying issue that needs to be addressed. I want to take a few minutes to share strategies I've recently been using to quickly set up fast API contract tests that run as quickly as unit tests.
+In this session, we’ll explore the design and orchestration of these agents, demonstrating how InfraAssistant streamlines DevOps operations, minimizes repetitive tasks, and enables teams to focus on innovation and strategic improvements.

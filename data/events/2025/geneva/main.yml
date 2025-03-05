@@ -271,7 +271,7 @@ program:
     end_time: "16:15"
 
   - title: "Coffee Break"
-    type: break
+    type: custom
     date: 2025-05-19
     start_time: "16:15"
     end_time: "17:00"
@@ -300,7 +300,7 @@ program:
     start_time: "17:00"
     end_time: "18:30"
 
-  - title: "Dinner custom"
+  - title: "Dinner Party"
     type: custom
     date: 2025-05-19
     start_time: "18:30"
@@ -356,7 +356,7 @@ program:
     start_time: "11:50"
     end_time: "12:20"
 
-  - title: "Lunch break"
+  - title: "Lunch Break"
     type: custom
     date: 2025-05-20
     start_time: "12:20"
@@ -404,7 +404,7 @@ program:
     start_time: "14:25"
     end_time: "15:55"
 
-  - title: "Coffee custom"
+  - title: "Coffee Break"
     type: custom
     date: 2025-05-20
     start_time: "15:55"

@@ -4,10 +4,9 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "How to master your usage of Open-source software: risks and benefits, as implemented at Lombard Odier"
 Type = "talk"
-Speakers = ["john-ingram"]
+Speakers = ["sebastien-pennec","marco-torello"]
 +++
 
-Don't you hate it when you finish a new feature in your backend, deploy it, and confidently message your frontend colleague in Slack that they can start integrating it, only to be met moments later with: "Which API should I call? I can't find it in the API reference?!"
+Every company relies on Open-source software, but few realize the risks and benefits of a solid Open-source strategy.
 
-
-Documentation "drift" is an annoying issue that needs to be addressed. I want to take a few minutes to share strategies I've recently been using to quickly set up fast API contract tests that run as quickly as unit tests.
+This story is about the Open-source journey at Lombard Odier, from the open-source program office (OSPO) conception till todays challenges, the lessons learned and our vision for the future.

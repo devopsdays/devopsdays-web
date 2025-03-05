@@ -4,10 +4,12 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Créer un site web moderne : l'expérience d'apprentis développeurs"
 Type = "talk"
-Speakers = ["john-ingram"]
+Speakers = ["thomas-burkhalter","gabriel-dovat"]
 +++
 
-Don't you hate it when you finish a new feature in your backend, deploy it, and confidently message your frontend colleague in Slack that they can start integrating it, only to be met moments later with: "Which API should I call? I can't find it in the API reference?!"
+Créer un site web moderne n’est pas si simple, surtout quand on est deux apprentis développeurs. Entre les contraintes de temps, les choix technologiques et l’apprentissage, chaque étape du projet a été un vrai défi.
 
+Nous avons hérité d’un site sous Wordpress : peu flexible, difficile à maintenir, et isolé du reste du système d’information de l’entreprise. Les mises à jour sont complexes, l'automatisation inexistante et chaque modification nécessite une intervention manuelle fastidieuse.
+Notre objectif ? Transformer cette vitrine statique en un site moderne et dynamique, intégré au système d’information existant et proposant un système de contribution simple et un processus de publication automatisé.
 
-Documentation "drift" is an annoying issue that needs to be addressed. I want to take a few minutes to share strategies I've recently been using to quickly set up fast API contract tests that run as quickly as unit tests.
+Dans ce talk, nous partagerons les étapes clés de cette transformation, les défis que nous avons relevés et les solutions que nous avons adoptées. Nous expliquerons comment nous avons concilié ce projet avec notre statut d’apprenti, et quels enseignements nous en avons tirés.
