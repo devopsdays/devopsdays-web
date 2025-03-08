@@ -46,8 +46,8 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
     </tr>
     <tr>
       <td></td>
-      <td><a href="mailto:chicago-sponsors@devopsdays.org?subject=Interested%20in%20Platinum%20Sponsorship%20DevOpsDays%20Chicago%202025">Contact us</a></td>
-      <td><a href="mailto:chicago-sponsors@devopsdays.org?subject=Interested%20in%20Gold%20Sponsorship%20DevOpsDays%20Chicago%202025">Contact us</a></td>
+      <td><B>SOLD OUT!</B></td>
+      <td><B>SOLD OUT!</B></td>
       <td><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DDXAP9S3324DC"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif"></a></td>
       <td><a href="mailto:chicago-sponsors@devopsdays.org?subject=Interested%20in%20Community%20Sponsorship%20DevOpsDays%20Chicago%202025">Contact us</a>
       </td>

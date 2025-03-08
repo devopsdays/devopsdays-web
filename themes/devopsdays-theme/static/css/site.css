@@ -10346,4 +10346,90 @@ article .article__body nav#toc .toc li > ol {
     font-size: 13px;
   }
 }
+
+/* social badges */
+.social-bsky {
+  color: black;
+  height: 50px;
+  padding: 12px;
+  font-size: 30px;
+  text-decoration: none;
+  display: inline-block;
+}
+.social-bksy:hover {
+  color: rgb(17, 134, 243);
+  text-decoration: none;
+}
+.social-li {
+  color: black;
+  height: 50px;
+  padding: 12px;
+  font-size: 30px;
+  text-decoration: none;
+  display: inline-block;
+}
+.social-li:hover {
+  color: rgb(29, 96, 196);
+  text-decoration: none;
+}
+.social-envelope {
+  color: black;
+  height: 50px;
+  padding: 12px;
+  font-size: 30px;
+  text-decoration: none;
+  display: inline-block;
+}
+.social-envelope:hover {
+  color: rgb(46, 124, 43);
+  text-decoration: none;
+}
+.social-mstd {
+  color: black;
+  height: 50px;
+  padding: 12px;
+  font-size: 30px;
+  text-decoration: none;
+  display: inline-block;
+}
+.social-mstd:hover {
+  color: rgb(110, 99, 218);
+  text-decoration: none;
+}
+.social-slack {
+  color: black;
+  height: 50px;
+  padding: 12px;
+  font-size: 30px;
+  text-decoration: none;
+  display: inline-block;
+}
+.social-slack:hover {
+  color: rgb(223, 180, 42);
+  text-decoration: none;
+}
+.social-x {
+  color: black;
+  height: 50px;
+  padding: 12px;
+  font-size: 30px;
+  text-decoration: none;
+  display: inline-block;
+}
+.social-x:hover {
+  color: rgb(95, 92, 92);
+  text-decoration: none;
+}
+.social-yt {
+  color: black;
+  height: 50px;
+  padding: 12px;
+  font-size: 30px;
+  text-decoration: none;
+  display: inline-block;
+}
+.social-yt:hover {
+  color: rgb(224, 52, 52);
+  text-decoration: none;
+}
 /*# sourceMappingURL=site.css.map */
