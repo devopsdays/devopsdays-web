@@ -106,7 +106,7 @@ a.jssocials-share-link, a.event-cta-button {
 
 Thank you to everyone who participated in DevOpsDays Montréal 2024! 🙌 The event took place on May 27th and 28th at the Centre Mont-Royal, and it was an incredible gathering of professionals from across the industry. Whether you’re a developer, sysadmin, tester, or product manager, there was something for everyone.
 
-📺 Relive the Experience: Did you miss any sessions or want to revisit the inspiring talks? Good news! You can catch all the action on our YouTube channel. From thought-provoking keynotes to practical workshops, there’s a wealth of knowledge waiting for you.
+📺 Relive the Experience: Did you miss any sessions or want to revisit the inspiring talks? Good news! You can catch all the action on our YouTube channel. From thought-provoking keynotes to practical workshops, there’s a wealth of knowledge waiting for you. 
 https://www.youtube.com/playlist?list=PL2tIJL4fCPDMuNt5F7IQTAykCHHAPCnJT
 
 Remember, DevOps isn’t just about tools and processes—it’s about community, learning, and growth. Let’s continue building a vibrant DevOps community in Montreal! 🚀
@@ -137,7 +137,7 @@ Whether you're a seasoned veteran or just starting to explore the world of DevOp
 
 Un immense merci à tous ceux qui ont participé à DevOpsDays Montréal 2024 ! 🙌 L’événement s’est déroulé les 27 et 28 mai au Centre Mont-Royal, et ce fut une rencontre incroyable de professionnels venus de tous les horizons. Que vous soyez développeur, administrateur système, testeur ou chef de produit, il y avait quelque chose pour chacun.
 
-📺 Revivez l’Expérience : Vous avez manqué des sessions ou souhaitez revoir les conférences inspirantes ? Bonne nouvelle ! Vous pouvez retrouver toute l’action sur notre chaîne YouTube. Des discours captivants aux ateliers pratiques, il y a une mine de connaissances qui vous attend.
+📺 Revivez l’Expérience : Vous avez manqué des sessions ou souhaitez revoir les conférences inspirantes ? Bonne nouvelle ! Vous pouvez retrouver toute l’action sur notre chaîne YouTube. Des discours captivants aux ateliers pratiques, il y a une mine de connaissances qui vous attend. 
 https://www.youtube.com/playlist?list=PL2tIJL4fCPDMuNt5F7IQTAykCHHAPCnJT
 
 Rappelez-vous, DevOps ne se résume pas qu’à des outils et des processus, c’est aussi une communauté, un apprentissage et une croissance. Continuons à construire une communauté DevOps dynamique à Montréal ! 🚀

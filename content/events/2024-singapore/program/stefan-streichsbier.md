@@ -7,8 +7,8 @@ talk_end_time = "14:30"
 Title = "The Rise of AI Security Engineers"
 Type = "talk"
 Speakers = ["stefan-streichsbier"]
-youtube = ""
-speakerdeck = ""
+youtube = "NaYysB6odiA"
+speakerdeck = "https://speakerdeck.com/devopsdayssg/the-rise-of-ai-security-engineers"
 +++
 
 ### Ignite

@@ -161,8 +161,10 @@ sponsors:
     level: gold
   - id: linuxtips
     level: silver
-  # - id: grafana
-  #   level: bronze
+  - id: grafana
+    level: bronze
+  - id: phoebus
+    level: bronze
   - id: kubeevents
     level: community
   - id: kubecareers

@@ -130,7 +130,7 @@ sponsors:
     level: silver
   - id: sonarsource
     level: gold
-  - id: infomaniak
+  - id: infomaniak-before-20241013
     level: bronze
   - id: yuccasolutions
     level: bronze

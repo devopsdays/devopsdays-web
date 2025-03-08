@@ -4,40 +4,42 @@ city: "Kansas City" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdayskc" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "DevOpsDays is coming to Kansas City again in 2025!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+masthead_background: "kc-unionstation.jpg" # This is the background image for the masthead, relative to static/events/YYYY-CITY
+sharing_image: "" # This is the image that shows up when you share the event on social media, relative to static/events/YYYY-CITY/sharing
 
 # All dates are in unquoted 2025-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2019-01-04T00:00:00+02:00
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2025-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2025-08-13T08:00:00-06:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2025-08-13T17:00:00-06:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2025-01-07T08:00:00-06:00 # start accepting talk proposals.
+cfp_date_end: 2025-02-21T23:59:59-06:00 # close your call for proposals.
+cfp_date_announce: "" # inform proposers of status
 
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start: 2025-01-07T08:00:00-06:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2025-08-13T08:00:00-06:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://ti.to/kansas-city-developers-conference/kcdc-2025/with/devopsdays" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
 # coordinates: "" # No longer used
 
-location: "Kansas City" # Defaults to city, but you can make it the venue name.
+location: "Kansas City Convention Center" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
+location_address: "Kansas City Convention Center, 301 W 13th St #100, Kansas City, MO 64105" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
- # - name: location
- # - name: registration
+  - name: propose
+  - name: location
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
@@ -50,24 +52,9 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
-  - name: "Aaron Blythe"
-    employer: "Google Cloud"
-    twitter: "ablythe"
-    linkedin: "https://www.linkedin.com/in/aaronblythe/"
-    website: "https://aaronblythe.com"
-    github: "aaronblythe"
-    image: "aaron-blythe.jpg"
-    bio: "Father, husband, hacker, software architect, genuinely interested in understanding things and making them better."
-  - name: "Erin Crise"
-    employer: "TekSystems"
-    twitter: "queentester"
-    linkedin: "https://linkedin.com/in/erin-crise"
-    website: "https://medium.com/@erin-crise"
-    github: "exc304"
-    image: "erin-crise.jpg"
-    bio: "Graphic designer and self taught coder who developed a love for software testing. Erin’s a creative professional with a passion for software quality and a champion for inclusion."
   - name: "Jeremy Meiss"
-    employer: "DevEx Startup"
+    employer: "OneStream Software"
+    bluesky: "https://bsky.app/profile/jerdog.dev"
     twitter: "IAmJerdog"
     linkedin: "https://www.linkedin.com/in/jeremymeiss/"
     mastodon: "https://hachyderm.io/@jerdog"
@@ -75,7 +62,17 @@ team_members: # Name is the only required field for team members.
     github: "jerdog"
     image: "jeremy-meiss.jpg"
     bio: "Jeremy is an experienced Developer Experience and Community leader with almost 30 years in Tech. He's is active in the DevRel and DevOps communities, and is a co-creator of DevOpsPartyGames.com. A lover of all things coffee, community, open source, and tech, he is a husband and father, and is also house-broken, and (generally) plays well with others."
+  - name: "Erin Crise"
+    employer: "TekSystems"
+    bluesky: ""
+    twitter: "queentester"
+    linkedin: "https://linkedin.com/in/erin-crise"
+    website: "https://medium.com/@erin-crise"
+    github: "exc304"
+    image: "erin-crise.jpg"
+    bio: "Graphic designer and self taught coder who developed a love for software testing. Erin’s a creative professional with a passion for software quality and a champion for inclusion."
   - name: "Jeff Stephens"
+    bluesky: ""
     employer: "C2FO"
     twitter: "tbplayer7"
     linkedin: "https://www.linkedin.com/in/jeff-stephens-6bb0928b/"
@@ -83,6 +80,7 @@ team_members: # Name is the only required field for team members.
     image: "jeff-stephens.jpg"
     bio: "Jeff has worked as a Linux Systems Administrator for the last 13 years. His current focus is cloud application platforms. Beyond work, he is an avid baseball fan, and spends his free time as a musician and photographer."
   - name: "Eric Lee"
+    bluesky: ""
     employer: "AWS"
     twitter: "ericblee6"
     linkedin: "https://www.linkedin.com/in/ericblee6/"
@@ -90,10 +88,28 @@ team_members: # Name is the only required field for team members.
     image: "eric-lee.jpg"
     bio: "Eric Lee is a Solutions Architect at AWS. His focus is in data pipelines, analytics, and reinforcement learning through AWS DeepRacer. He's also on the board of Mental Health Hackers where he shares his experience going through IT Burnout to over 40 conferences and companies that span multiple IT verticals. When not working, you'll find him ridding 4-wheeler's with his kids, drinking bourbon, or at a dirt track watching sprint cars."
   - name: "CJ Obermaier"
+    bluesky: ""
     employer: "Hashicorp"
     linkedin: "https://www.linkedin.com/in/cj-obermaier"
     image: "cj-obermaier.jpg"
     bio: "CJ has been involved in DevOpsDays KC since the first conference in 2016. He enjoys coaching high school soccer and spending time with his wife and dog."
+  - name: "Ben Dechrai"
+    employer: ""
+    twitter: "https://ben.sc/twitter"
+    linkedin: "https://ben.sc/linkedin"
+    github: "https://ben.sc/github"
+    image: "ben-dechrai.png"
+    bio: "Ben Dechrai is a technologist with a strong focus on security and privacy, recognised as an MVP for his exceptional contributions to the community. Known for his ability to distil complex technical concepts into engaging, digestible portions, Ben empowers developers through a deep understanding of design principles, security considerations, and coding practices. With over two decades of experience in software engineering, security, and architecture, Ben is a published author and has consulted for companies and investors across numerous industries. He is deeply involved in the tech community, running technology conferences and workshops to share his expertise."
+  - name: "Aaron Blythe"
+    employer: "Google Cloud"
+    role: "Advisory"
+    bluesky: ""
+    twitter: "ablythe"
+    linkedin: "https://www.linkedin.com/in/aaronblythe/"
+    website: "https://aaronblythe.com"
+    github: "aaronblythe"
+    image: "aaron-blythe.jpg"
+    bio: "Father, husband, hacker, software architect, genuinely interested in understanding things and making them better."
 
 organizer_email: "kansas-city@devopsdays.org" # Put your organizer email address here
 
@@ -121,17 +137,17 @@ sponsor_levels:
     max: 10 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
-  - id: technology
-    label: Technology
-    max: 2
-  - id: social-event
-    label: Social Event
-    max: 2
-  - id: lanyards
-    label: Lanyards
-    max: 2
+  # - id: technology
+  #   label: Technology
+  #   max: 2
+  # - id: social-event
+  #   label: Social Event
+  #   max: 2
+  # - id: lanyards
+  #   label: Lanyards
+  #   max: 2
   - id: coffee
-    label: Coffee
+    label: Coffee & Breaks
     max: 2
   - id: corporate
     label: Corporate

@@ -18,13 +18,13 @@ cfp_date_start: 2024-11-01T00:00:00-04:00  # start accepting talk proposals.
 cfp_date_end: 2025-01-01T00:00:00-04:00  # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
 
-cfp_link: "https://forms.gle/Pxqg1zmoRHHEDWDJ9" # if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+# cfp_link: "https://forms.gle/Pxqg1zmoRHHEDWDJ9" # if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-# registration_date_start: 2024-04-10T08:00:00-04:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-# registration_date_end: 2025-04-16T08:00:00-04:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start: 2024-04-10T08:00:00-04:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2025-04-16T08:00:00-04:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
-registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-# registration_link: "https://www.eventbrite.com/e/devopsdays-raleigh-2024-tickets-615268222817?aff=ebdsoporgprofile" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+# registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://tickets.devopsdays.org/devopsdays-raleigh/2025/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Background
 masthead_background: "raleigh_skyline_sunset.jpg"
@@ -37,10 +37,10 @@ location: "McKimmon Conference & Training Center" # Defaults to city, but you ca
 location_address: "1101 Gorman Street, Raleigh, NC 27606" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+  # - name: propose
   - name: location
-  # - name: registration
-    # url: "https://www.eventbrite.com/e/devopsdays-raleigh-2024-tickets-615268222817?aff=ebdsoporgprofile"
+  - name: registration
+    url: "https://tickets.devopsdays.org/devopsdays-raleigh/2025/"
   # - name: program
   # - name: speakers
   - name: sponsor
@@ -102,6 +102,9 @@ team_members: # Name is the only required field for team members.
   - name: Carlotta Sepulveda
     linkedin: "https://www.linkedin.com/in/carlottacs8620/"
     image: "carlotta-sepulveda.jpg"
+  - name: "Shawn Taylor"
+    linkedin: "https://www.linkedin.com/in/taylorshawn/"
+    image: "shawn-taylor.jpg"
 
 organizer_email: "raleigh@devopsdays.org" # Put your organizer email address here
 
@@ -112,6 +115,10 @@ sponsors:
   #   level: gold
   #   url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
+    level: community
+  - id: kubecareers
+    level: community
+  - id: kubeevents
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

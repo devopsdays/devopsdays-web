@@ -30,7 +30,7 @@ registration_link: "https://www.sympla.com.br/evento/devopsdays-florianopolis-20
 # Location
 #
 coordinates: "-27.430616679650086, -48.4448074344942" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: Sapiens Parque
+location: Auditório do Passeio Sapiens - Sapiens Parque
 location_address: Av. Luiz Boiteux Piazza, 1302 - Canasvieiras, Florianópolis - SC, 88056-000
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
@@ -45,7 +45,10 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   #   url: /events/2024-florianopolis/location
   - name: organização
     icon: "envelope-o"
-    url: /events/2024-florianopolis/contact
+    url: /events/2024-florianopolis/contact  
+  - name: programação
+    icon: "book"
+    url: /events/2024-florianopolis/program
   - name: código de conduta
     icon: "handshake-o"
     url: /events/2024-florianopolis/conduct-pt-br
@@ -97,6 +100,8 @@ masthead_background: "header.jpeg"
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: elastic
+    level: platinum
   # - id: samplesponsorname
   #   level: gold
   #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
@@ -126,3 +131,91 @@ sponsor_levels:
   #  label: Bronze
   #- id: community
   #  label: Community
+
+program:
+  - title: "Recepção / Cadastramento dos participantes"
+    type: custom
+    date: 2024-11-16
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Abertura do evento e boas-vindas"
+    type: custom
+    date: 2024-11-16
+    start_time: "09:00"
+    end_time: "09:20"
+  - title: "gomex"
+    type: talk
+    date: 2024-11-16
+    start_time: "09:20"
+    end_time: "10:10"
+    background_color: "#cc99ff"
+  - title: "Coffee break matutino"
+    type: custom
+    date: 2024-11-16
+    start_time: "10:10"
+    end_time: "10:45"
+  - title: "mateus-leonardi"
+    type: talk
+    date: 2024-11-16
+    start_time: "10:45"
+    end_time: "11:20"
+  - title: "sandro-guimaraes"
+    type: talk
+    date: 2024-11-16
+    start_time: "11:20"
+    end_time: "11:55"
+  - title: "alex-salgado"
+    type: talk
+    date: 2024-11-16
+    start_time: "11:55"
+    end_time: "12:30"
+  - title: "Almoço"
+    type: custom
+    date: 2024-11-16
+    start_time: "12:30"
+    end_time: "13:50"
+  - title: "Retorno almoço / Reabertura do evento"
+    type: custom
+    date: 2024-11-16
+    start_time: "13:50"
+    end_time: "13:55"
+  - title: "arthur-sens"
+    type: talk
+    date: 2024-11-16
+    start_time: "13:55"
+    end_time: "14:30"
+  - title: "andre-guilherme"
+    type: talk
+    date: 2024-11-16
+    start_time: "14:30"
+    end_time: "15:05"
+  - title: "thiago-finardi"
+    type: talk
+    date: 2024-11-16
+    start_time: "15:05"
+    end_time: "15:40"
+  - title: "Coffee break vespertino"
+    type: custom
+    date: 2024-11-16
+    start_time: "15:40"
+    end_time: "16:15"
+  - title: "pery-lemke"
+    type: talk
+    date: 2024-11-16
+    start_time: "16:15"
+    end_time: "16:50"
+  - title: "ruan-carlos"
+    type: talk
+    date: 2024-11-16
+    start_time: "16:50"
+    end_time: "17:25"
+  - title: "Lightning Talks"
+    type: custom
+    date: 2024-11-16
+    start_time: "17:25"
+    end_time: "18:00"
+  - title: "Encerramento com sorteios"
+    type: custom
+    date: 2024-11-16
+    start_time: "18:00"
+    end_time: "18:30"

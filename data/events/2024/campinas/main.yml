@@ -34,10 +34,13 @@ location: "Unisal - Campus São José" # Defaults to city, but you can make it t
 location_address: "Av. Almeida Garret, 267 - Jd. Nossa Senhora Auxiliadora, Campinas - SP" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
- # - name: registration
- # - name: program
- # - name: speakers
+  # - name: propose
+  # - name: registration
+  # - name: speakers
+
+  - name: programação
+    icon: "calendar"
+    url: /events/2024-campinas/program
 
   - name: local
     icon: "map-marker"
@@ -50,7 +53,11 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: patrocínio
     icon: "money"
     url: /events/2024-campinas/sponsor
-  
+
+  - name: palestrantes
+    icon: "microphone"
+    url: /events/2024-campinas/speakers
+
   - name: Chamadas (C4P)
     icon: "paper-plane-o"
     url: https://www.papercall.io/devopsdays-campinas
@@ -65,7 +72,6 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
-
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
@@ -124,8 +130,21 @@ team_members: # Name is the only required field for team members.
     github: "https://github.com/rennerocha"
     linkedin: "https://www.linkedin.com/in/rennerocha/"
     website: "https://rennerocha.com/"
-
-
+  - name: "Erik Henrique"
+    role: "Full-Stack Developer"
+    twitter: "theer1k"
+    bio: "Desenvolvedor Full-Stack com expertise em tecnologias web e desenvolvimento de interface usuário, se aprofundando em arquitetura e soluções na nuvem."
+    image: "erik.jpg"
+    github: "https://github.com/theer1k"
+    linkedin: "https://www.linkedin.com/in/erikhenriquealvescunha/"
+    website: "https://www.indianboy.com.br/"
+  - name: "Douglas Esteves"
+    role: "Profissional de Tecnologia da Informação na UNICAMP"
+    bio: "Membro e Organizador do Laboratório Hacker de Campinas. Entusiasta em Internet das Coisas, ferramentas de monitoramento e Hardware Aberto."
+    image: "douglas.jpg"
+    github: "https://github.com/EstevesDouglas/"
+    linkedin: "https://www.linkedin.com/in/douglasesteves/"
+    website: "https://douglasesteves.eng.br/"
 
 organizer_email: "campinas@devopsdays.org" # Put your organizer email address here
 
@@ -137,10 +156,103 @@ sponsors:
     url: https://www.bosch.com.br/ # Use this if you need to over-ride a sponsor URL.
   - id: cps1
     level: gold
+  - id: aws
+    level: bronze
   - id: lhc
     level: community
+  - id: unisal
+    level: community
+  - id: betech
+    level: community
+  - id: novatec
+    level: community
+  - id: 3dcomtech
+    level: community
+  - id: aws-user-group-campinas
+    level: community
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
+
+program:
+  - title: "Credenciamento e coffee"
+    type: custom
+    date: 2024-10-19T08:00:00-03:00
+    start_time: "09:00"
+    end_time: "09:40"
+  - title: "Abertura"
+    type: custom
+    date: 2024-10-19T08:00:00-03:00
+    start_time: "09:50"
+    end_time: "10:00"
+    background_color: "#0082AB"
+  - title: "patricia-tozi"
+    type: talk
+    date: 2024-10-19T08:00:00-03:00
+    start_time: "10:00"
+    end_time: "10:50"
+    background_color: "#FF8300"
+  - title: "renicius-pagotto"
+    type: talk
+    date: 2024-10-19T08:00:00-03:00
+    start_time: "10:50"
+    end_time: "11:30"
+  - title: "bianca-veit"
+    type: talk
+    date: 2024-10-19T08:00:00-03:00
+    start_time: "11:30"
+    end_time: "12:10"
+  - title: "Almoço"
+    type: custom
+    date: 2024-10-19T08:00:00-03:00
+    start_time: "12:10"
+    end_time: "13:40"
+  - title: "Ignite Karaoke"
+    type: open-space
+    date: 2024-10-19T08:00:00-03:00
+    start_time: "13:10"
+    end_time: "13:40"
+  - title: "julia-pedrosa"
+    type: talk
+    date: 2024-10-19T08:00:00-03:00
+    start_time: "13:40"
+    end_time: "14:20"
+  - title: "lucas-ribeiro"
+    type: talk
+    date: 2024-10-19T08:00:00-03:00
+    start_time: "14:20"
+    end_time: "15:00"
+  - title: "levi-leopoldino"
+    type: talk
+    date: 2024-10-19T08:00:00-03:00
+    start_time: "15:00"
+    end_time: "15:40"
+    background_color: "#FF8300"
+  - title: "Coffee Break"
+    type: custom
+    date: 2024-10-19T08:00:00-03:00
+    start_time: "15:40"
+    end_time: "16:10"
+  - title: "Open Space"
+    type: open-space
+    date: 2024-10-19T08:00:00-03:00
+    start_time: "16:10"
+    end_time: "16:50"
+  - title: "marivone-araujo"
+    type: talk
+    date: 2024-10-19T08:00:00-03:00
+    start_time: "16:50"
+    end_time: "17:30"
+  - title: "julia-lamenza"
+    type: talk
+    date: 2024-10-19T08:00:00-03:00
+    start_time: "17:30"
+    end_time: "18:10"
+    background_color: "#FF8300"
+  - title: "Encerramento"
+    type: custom
+    date: 2024-10-19T08:00:00-03:00
+    start_time: "18:10"
+    end_time: "18:20"
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -151,7 +263,7 @@ sponsor_levels:
     label: Platinum
   - id: gold
     label: Gold
-#    max: 10
+  #    max: 10
   - id: silver
     label: Silver
     max: 0 # This is the same as omitting the max limit.

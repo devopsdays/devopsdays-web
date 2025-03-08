@@ -7,8 +7,8 @@ talk_end_time = "11:30"
 Title = "DevOps in practice for beginners"
 Type = "talk"
 Speakers = ["donnie-prakoso"]
-youtube = ""
-speakerdeck = ""
+youtube = "udnvo25Oyow"
+speakerdeck = "https://speakerdeck.com/devopsdayssg/devops-in-practice-for-beginners"
 sharing_image = "2024-donnie-prakoso.jpg"
 +++
 

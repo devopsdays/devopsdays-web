@@ -1,5 +1,5 @@
 ---
-title: "Exercising Influence and Direction from a Mid-Level Leadership Position” by Sanjita Gupta"
+title: "Exercising Influence and Direction from a Mid-Level Leadership Position"
 Type: "talk"
 Speakers: ["sanjita-gupta"]
 ---

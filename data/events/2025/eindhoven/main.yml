@@ -1,0 +1,150 @@
+name: "2025-eindhoven" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2025" # The year of the event. Make sure it is in quotes.
+city: "Eindhoven" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaysehv" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays is coming BACK to Eindhoven!" # Edit this to suit your preferences
+gtm_tracking_id: ""
+
+# All dates are in unquoted 2025-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2025-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2025-10-02T08:00:00+02:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2025-10-03T18:00:00+02:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2025-01-06T00:00:00+02:00  # start accepting talk proposals.
+cfp_date_end: 2025-05-10T23:59:59+01:00  # close your call for proposals.
+cfp_date_announce:  # inform proposers of status
+
+cfp_link: "https://talks.devopsdays.org/devopsdays-eindhoven-2025/cfp" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: 2025-02-01T00:00:00+02:00
+registration_date_end: 2025-09-30T09:00:00+02:00
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+# coordinates: "" # No longer used
+location: "Eindhoven" # Defaults to city, but you can make it the venue name.
+#
+location_address: "High Tech Campus 1b, 5656 AE Eindhoven, The Netherlands" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+masthead_background: "eindhoven-bg.jpeg"
+sharing_image: "logo-rectangle.png"
+
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+ # - name: propose
+  - name: location
+  - name: registration
+ # - name: program
+ # - name: speakers
+  - name: sponsor
+    icon: "money"
+  - name: contact
+    icon: "comment"
+  - name: conduct
+    icon: universal-access
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Jelmer Graafstra"
+    pronouns: "he/him"
+    linkedin: "https://www.linkedin.com/in/jelmer-graafstra-083abb4"
+    image: "jelmer.jpeg"
+
+  - name: "Niek Palm"
+    pronouns: "he/him"
+    linkedin: "https://www.linkedin.com/in/niekpalm/"
+    github: "npalm"
+    website: "https://040code.github.io"
+    image: "niek.jpeg"
+
+  - name: "Joep Piscaer"
+    linkedin: "https://www.linkedin.com/in/jpiscaer"
+    twitter: "jpiscaer"
+    github: "jpiscaer"
+    image: "joep.png"
+
+  - name: "Jos van Schouten"
+    pronouns: "he/him"
+    linkedin: "https://www.linkedin.com/in/josvanschouten"
+    twitter: "josvanschouten"
+    image: "jos.png"
+
+  - name: "Tim Stoop"
+    pronouns: "he/him"
+    image: "tim.jpeg"
+    fediverse: "https://fosstodon.org/@timstoop"
+    github: timstoop
+
+  - name: Paraskevi Tragotsalou
+    linkedin: "https://www.linkedin.com/in/paraskevi-tragotsalou/" 
+    pronoun: she/her
+    image: "evi.jpeg"
+
+  - name: "Bart Vercoulen"
+    linkedin: "https://www.linkedin.com/in/bartvercoulen/"
+    pronouns: "he/him"
+    image: "bart.png"
+
+  - name: "Aparna Chaudhary"
+    linkedin: "https://www.linkedin.com/in/aparnachaudhary"
+    github: "aparnachaudhary"
+    website: "http://aparnachaudhary.me/"
+    pronoun: she/her
+    image: "aparna.png"
+
+organizer_email: "eindhoven@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+#   - id: samplesponsorname
+#     level: gold
+#  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+#   - id: arresteddevops
+#     level: community
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: beer
+    label: Beverage
+    max: 1
+  - id: gold
+    label: Gold
+    max: 8
+  - id: workshop
+    label: Workshop
+    max: 8
+  - id: lanyard
+    label: Lanyard
+    max: 1
+  - id: lunch
+    label: Lunch
+    max: 2
+  - id: break
+    label: Break
+    max: 4
+  - id: recharge
+    label: Recharge
+    max: 1
+  - id: silver
+    label: Silver
+    max: 4
+  - id: bronze
+    label: Bronze
+    max: 6

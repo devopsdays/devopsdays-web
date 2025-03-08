@@ -49,8 +49,42 @@ Description = "DevopsDays Geneva 2025"
 </style>
 
 
+<div class="row">
+    <div class="col-12" style="text-align:center;">
+ <p>Join the 6th DevOpsDays Geneva on May 19-20, 2025, at the Haute École de Gestion in Geneva!</p><br>
+
+<p>Dive into two days packed with talks, workshops, and open spaces led by global DevOps and digital transformation experts. Discover the latest practices, tools, and strategies that help companies thrive in a world of constant change.</p>
+
+<p>This is your chance to connect, learn, and grow with a vibrant, passionate community! Explore DevSecOps trends, integration challenges, and the essential team transformations needed for success.</p>
+
+<p>Be part of a unique event where every session empowers you to drive impact and serve your customers better!</p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-12">
+      <div class="row justify-content-center">
+        <div class="d-flex p-2">
+          <a class="btn btn-primary btn-block"
+            style="margin-top: 15px; margin-bottom: 15px; background-color: #8e44b3; border-color: #8e44b3;"
+            href="/events/2025-geneva/sponsor">
+            <i class="fa fa-handshake fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the conference!
+          </a>
+        </div>
+        <div class="d-flex p-2">
+          <a class="btn btn-primary btn-block"
+            style="margin-top: 15px; margin-bottom: 15px; background-color: #8e44b3; border-color: #8e44b3;"
+            href="/events/2025-geneva/registration">
+            <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Register to attend the conference!
+          </a>
+        </div>
+      </div>
+    </div>
+</div>
+
+
 <div style="text-align:center;">
-  {{< event_logo >}}
+  <img style="max-width: 80%;height: auto;" src="/events/2025-geneva/geneva-banner.png" alt="Geneva 2025 Banner">
 </div>
 <br>
 <br>
@@ -64,57 +98,56 @@ Description = "DevopsDays Geneva 2025"
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="registration" text="Register to attend the conference!" >}}
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Propose</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
-  </div>
-</div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
     View the {{< event_link page="program" text="program." >}}
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
-</div> -->
-
+</div>
 <div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="sponsor" text="Sponsor the conference!" >}}
+  </div>
+</div>      
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Newsletter</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_link page="newsletter" text="Subscribe to our newsletter for the next news !" >}}
   </div>
 </div>
 <div class="row">
