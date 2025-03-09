@@ -1,0 +1,121 @@
+name: "2025-kyiv" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2025" # The year of the event. Make sure it is in quotes.
+city: "Ukraine" # The displayed city name of the event. Capitalize it.
+event_group: "Kyiv"
+description: "AI everywhere!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2025-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2025-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2025-06-04T00:00:00+03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2025-06-04T23:59:59+03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2025-03-04T00:00:00+03:00 # start accepting talk proposals.
+cfp_date_end: 2025-05-04T23:59:59+03:00 # close your call for proposals.
+cfp_date_announce:  # inform proposers of status
+
+cfp_open: "true"
+cfp_link: "https://forms.gle/MLP24SmRgs1G74Mo7" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: 2025-04-04T00:00:00+03:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2025-06-03T23:59:59+03:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://devopsdays.com.ua/#registration" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Background
+masthead_background: "banner.png"
+
+# Location
+#
+# coordinates: "" # No longer used
+
+location: "Ukraine | Virtual" # Defaults to city, but you can make it the venue name.
+#
+location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
+
+# Optional - Social badges
+# These can be used in the body of any page via matching shortcodes. See sample:  https://devopsdays.org/events/2025-denver/welcome/
+event_social_linkedin: "https://www.linkedin.com/company/devops-days-kyiv/" # Change this to the url to your Linkedin group, company, or page.
+#event_social_slack: "https://join.slack.com/t/devopsdays/custom_shared_invite_url" # Change this to your slack invite link.
+#event_social_listserv: "https://lists.devopsdays.org/subscription?custom_listserv_invite_url" # Change this to your mailing list subscription form url.
+event_social_twitter: "devopsdays_kyiv" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+#event_social_mastadon: "https://mastodon.social/@devopsdays" # Change this to url to your mastadon page
+#event_social_bsky: "https://bsky.app/profile/devopsdays.bsky.social" # Change this to url to your bluesky page
+event_social_youtube: "devopsdayskyiv977" # Change this to the youtube channel handle for your event such as devopsdaysrox
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+ # - name: propose
+ # - name: location
+  - name: registration
+    url: https://devopsdays.com.ua/#registration
+ # - name: program
+  - name: speakers
+    url: https://devopsdays.com.ua/#speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+  - name: Donate
+    url: https://devopsdays.com.ua/#charity
+  - name: devopsdays.com.ua
+    url: https://devopsdays.com.ua/
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+
+  - name: "Oleg Mykolaichenko"
+    employer: "SQUAD"
+    twitter: ""
+    bio: "Head of Infrastructure at SQUAD. Leading distributed DevOps team, adopting CNCF + HashiCorp Stack for complex infrastructures. Kyiv DevOps Community Co-Founder, runs the largest Telegram channel about DevOps in Ukraine and DevOps digests on DOU.UA."
+    linkedin: "https://www.linkedin.com/in/oleg-mykolaichenko-763ab699/"
+    image: "oleg-mykolaichenko.jpg"
+
+  - name: "Yurii Rochniak"
+    employer: "N26"
+    twitter: "grem11n"
+    github: "grem11n"
+    linkedin: "https://linkedin.com/in/yrochnyak/"
+    bio: "Yurii Rochniak is currently an Senior SRE at N26 neobank where he's working on creating an internal self-service platform for engineers. Through his career, he was focusing on infra development and CI/CD topics in the companies of various sizes.
+Yurii is a creator and administrator of CatOps Telegram channel with more than 5k subscribers and an initiator of HashiCorp User Group Kyiv.
+Yurii is originally from Kyiv, but currently located in Berlin. He's into biking and stand up paddleboarding, when the weather allows it."
+    image: "yurii-rochniak.jpg"
+
+  - name: "Mykola Marzhan"
+    employer: "Canonical"
+    twitter: ""
+    bio: "Mykola has been shorting “Time-to-market” in software companies more than eighteen years. Most of his career he has been focused on the automation of release procedures, and on the development of monitoring, update and deployment systems."
+    github: "delgod"
+    linkedin: "https://www.linkedin.com/in/delgod/"
+    image: "mykola-marzhan.jpg"
+
+organizer_email: "kyiv@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: diamond
+    label: Diamond
+  - id: platinum
+    label: Platinum
+  - id: gold
+    label: Gold
+  - id: silver
+    label: Silver
+  - id: bronze
+    label: Bronze
