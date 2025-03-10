@@ -53,7 +53,7 @@
 /houston/*		/events/2024-houston/:splat		302
 /halifax/*		/events/2025-halifax/:splat		302
 /indianapolis/*		/events/2023-indianapolis/:splat	302
-/istanbul/*		/events/2024-istanbul/:splat		302
+/istanbul/*		/events/2025-istanbul/:splat		302
 /jakarta/*		/events/2022-jakarta/:splat		302
 /juiz-de-fora/*		/events/2024-juiz-de-fora/:splat		302
 /kansas-city/cfp    https://talks.devopsdays.org/devopsdays-kc-2024/    302
