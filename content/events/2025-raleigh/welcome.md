@@ -1,7 +1,15 @@
 +++
 Title = "Devopsdays Raleigh 2025"
 Type = "welcome"
-aliases = ["/events/2025-raleigh/"]
+aliases = [ "/events/2025-raleigh/",
+  "/events/2025-raleigh/location/",
+  "/events/2025-raleigh/program/",
+  "/events/2025-raleigh/propose/",
+  "/events/2025-raleigh/registration/",
+  "/events/2025-raleigh/speakers/",
+  "/events/2025-raleigh/sponsor/"
+]
+
 Description = "Devopsdays Raleigh 2025"
 +++
 
