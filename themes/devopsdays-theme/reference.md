@@ -38,6 +38,7 @@
 &emsp;[registration_end](#registration_end)
 &emsp;[event_map](#event_map)
 &emsp;[tix](#tix)
+&emsp;[asset](#asset)
 
 <!-- /MDTOC -->
 
@@ -47,18 +48,17 @@ The `/data/events/YYYY/CITY.main.yml` file is the main configuration file for yo
 
 ### General Fields
 
-| Field Name       | Type   | Required | Description                                                                                           | Example                                       |
-|------------------|--------|----------|-------------------------------------------------------------------------------------------------------|-----------------------------------------------|
-| `name`           | String | Yes      | The name of the event. Four digit year with the city name in lower-case, with no spaces.              | "2017-chicago"                                |
-| `year`           | String | Yes      | The year of the event. Make sure it is in quotes.                                                     | "2017"                                        |
-| `city`           | String | Yes      | The displayed city name of the event. Capitalize it.                                                  | "Salt Lake City"                              |
-| `event_twitter`  | String | Yes      | The twitter handle for your event such as "devopsdayschi" or "devopsdaysmsp". Exclude the "@" symbol. | "devopsdayschi"                               |
-| `description`    | String | No       | Overall description of your event. Quotation marks need to be escaped.                                | "It's time for more DevOpsDays at Ponyville!" |
-| `ga_tracking_id` | String | No       | If you have your own Google Analytics tracking ID, enter it here.                                     | "UA-74738648-1"                               |
-| `gtm_tracking_id` | String | No       | If you have your own Google Analytics v4 tracking ID, enter it here.                                     | "G-NCBC4PBEMK"                               |
-| `event_group` | String | No     | If you'd like to group different events together (ie, "australia"), set them to the same "event_group"                             | "ponyville"                                        |
-| `speakers_verbose` | String | No     | Set this to "true" if you want verbose speaker attributes (URLs visible).                             | "true"                                        |
-| `cancel`       | String     | No       | If your event must be cancelled, add this field with the value of "true" (case-sensitive). This will keep it from being listed in the "upcoming events" views.                                                                                         | "true"  |                                                                                   |
+| Field Name         | Type   | Required | Description                                                                                           | Example                                       |
+|--------------------|--------|----------|-------------------------------------------------------------------------------------------------------|-----------------------------------------------|
+| `name`             | String | Yes      | The name of the event. Four digit year with the city name in lower-case, with no spaces.              | "2017-chicago"                                |
+| `year`             | String | Yes      | The year of the event. Make sure it is in quotes.                                                     | "2017"                                        |
+| `city`             | String | Yes      | The displayed city name of the event. Capitalize it.                                                  | "Salt Lake City"                              |
+| `description`      | String | No       | Overall description of your event. Quotation marks need to be escaped.                                | "It's time for more DevOpsDays at Ponyville!" |
+| `ga_tracking_id`   | String | No       | If you have your own Google Analytics tracking ID, enter it here.                                     | "UA-74738648-1"                               |
+| `gtm_tracking_id`  | String | No       | If you have your own Google Analytics v4 tracking ID, enter it here.                                  | "G-NCBC4PBEMK"                                |
+| `event_group`      | String | No       | If you'd like to group different events together (ie, "australia"), set them to the same "event_group"| "ponyville"                                   |
+| `speakers_verbose` | String | No       | Set this to "true" if you want verbose speaker attributes (URLs visible).                             | "true"                                        |
+| `cancel`           | String | No       | If your event must be cancelled, add this field with the value of "true" (case-sensitive). This will keep it from being listed in the "upcoming events" views. | "true"  |      
 
 ### Date-related Fields
 All dates are in unquoted YYYY-MM-DD, like this: `variable: 2016-01-05`, or like `variable: 2016-01-05T23:59:00-06:00`
@@ -79,6 +79,18 @@ All dates are in unquoted YYYY-MM-DD, like this: `variable: 2016-01-05`, or like
 | `registration_closed`        | String     | No       | Set this to "true" if you need to manually close registration before your registration end date.                                                                                                                              | "true"                                                |
 | `registration_link`          | String     | No       | If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.                                                                                         | "https://myurlhere" reference it like {{< event_link url-key="registration_link" text="Register to attend the conference!" >}} |                                                                                   |
 | `sponsor_link`               | String     | No       | If you have a custom sponsorship link, enter it here. This will control the "Become an X Sponsor!" links. It does NOT change the "Sponsor" button.                                                                            | "https://myurlhere"  |                                                                                   |
+
+### Social Fields
+| Field Name              | Type   | Required | Description                                                                                           | Example                                              |
+|-------------------------|--------|----------|-------------------------------------------------------------------------------------------------------|------------------------------------------------------|
+| `event_social_twitter`  | String | No       | The twitter handle for your event such as "devopsdayschi" or "devopsdaysmsp". Exclude the "@" symbol. | "devopsdaysrox"                                      |
+| `event_social_linkedin` | String | No       | The direct URL to your linkedin event or group/company page.                                          | "https://www.linkedin.com/company/devopsdaysrox"     |
+| `event_social_youtube`  | String | No       | The Youtube handle for your event such as "devopsdaysrox" or "devopsdayschi". Exclude the "@" symbol. | "devopsdaysrox"                                      |
+| `event_social_bsky`     | String | No       | The BlueSky direct URL for your event/group profile. Can link to a custom server.                     | "https://bsky.app/profile/dodrox.bsky.social"        |
+| `event_social_mastodon` | String | No       | The Mastodon direct URL for your event/group profile. Can link to a custom server.                    | "https://mastodon.social/@dodrox"                    |
+| `event_social_slack`    | String | No       | The invite URL to your slack workspace.                                                               | "https://join.slack.com/t/dodrox/shared_invite/xyz"  |
+| `event_social_listserv` | String | No       | The URL to subscribe to your group mailing list.                                                      | "https://lists.devopsdays.org/subscription?f=xyz".   |
+| `event_twitter`         | String | No       | Legacy field for the twitter handle. Exclude the "@" symbol. Kept for backward support.               | "devopsdayschi"                                      |
 
 ### Branding Fields
 
@@ -437,3 +449,16 @@ To enable the header text, add `info=show` to enable showing of the Event Info s
 ```
 {{< tix city="belgium" year="antwerp-2024" info="show">}}
 ```
+
+### asset
+Create a links to a file or image from the DevOpsDays assset website.
+This shorcode requires the city name `city`, the year `year`, the name `name` being file or image and the link type, being `file` which creates a hyperlink or `image` which embeds the image on the page.
+
+```
+{{< asset year="2025" city="chicago" name="prospectus" file="2025-chicago-devopsdays-prospectus.pdf" >}}
+```
+
+```
+{{< asset year="2025" city="chicago" name="map layout" image="map.png" >}}
+```
+

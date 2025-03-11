@@ -193,6 +193,18 @@ sponsors:
     level: gold
   - id: castai
     level: gold
+  - id: komodor
+    level: gold
+  - id: last9
+    level: gold
+  - id: discover
+    level: gold
+  - id: postman
+    level: gold
+  - id: zesty
+    level: gold
+  - id: hashicorp
+    level: gold
   - id: fairwinds
     level: bronze
   - id: lightrun
@@ -211,6 +223,12 @@ sponsors:
     level: community
   - id: chicago-pug
     level: community
+  - id: iitcoc
+    level: community
+  - id: ace-chicago
+    level: community
+  - id: postman
+    level: lanyard
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -221,11 +239,14 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: platinum
     label: Platinum
-    max: 2
+    max: 1
   - id: gold
     label: Gold
-#    max: 10
+    max: 10
   - id: bronze
     label: Bronze
   - id: community
     label: Community
+  - id: lanyard
+    label: Lanyard
+    max: 1

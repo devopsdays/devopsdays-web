@@ -142,8 +142,6 @@ sponsors:
   level: community
 - id: belikegrace
   level: community
-- id: pygirls
-  level: community
 - id: girlscodetoo
   level: community
 - id: infomaniak
@@ -183,6 +181,10 @@ sponsors:
 - id: cloudbees 
   level: bronze
 - id: datastore 
+  level: bronze
+- id: zesty
+  level: bronze
+- id: couchbase
   level: bronze
 
 sponsors_accepted: "no" # Whether you want "Become a XXX Sponsor!" link

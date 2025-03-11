@@ -1,0 +1,13 @@
++++
+Title = "Jean-Yves Klein"
+image = "jean-yves-klein.png"
+Linkedin = "https://www.linkedin.com/in/jean-yves-klein"
+type = "speaker"
+linktitle = "jean-yves-klein"
+
++++
+
+Senior Agile Coach, old Dev, became Project manager, CTO, and other stuff....
+PMP, DAC and SAFe certified I'm trying to find the best solution, depending of clients, teams, projects....
+I have supported agile teams in IT, mechanics, electronics, marketing, legal...
+I created several Serious Games in order to make people understand SAFe, DevOps, the roles of PO, Scrum Master... 
