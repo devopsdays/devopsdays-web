@@ -67,9 +67,7 @@ team_members: # Name is the only required field for team members.
     image: "silas.jpeg"
 
   - name: "Davi Jatobá Galdino"
-    linkedin: ""
-    twitter: ""
-    website: ""
+    linkedin: "https://www.linkedin.com/in/davi-galdino-bb162824b/"
     image: "davi-jatoba.jpeg"
 
   - name: "Ruanderson"
