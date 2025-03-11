@@ -31,7 +31,7 @@
 /columbus/*		/events/2020-columbus/:splat		302
 /copenhagen/*		/events/2023-copenhagen/:splat		302
 /cuba/*			/events/2019-cuba/:splat		302
-/dallas/*		/events/2024-dallas/:splat		302
+/dallas/*		/events/2025-dallas/:splat		302
 /denver/*		/events/2025-denver/:splat		302
 /des-moines/*		/events/2025-des-moines/:splat		302
 /detroit/*		/events/2025-detroit/:splat		302
@@ -62,7 +62,7 @@
 /kiel/*			/events/2018-kiel/:splat		302
 /krakow/*		/events/2024-krakow/:splat		302
 /kiev/*			/events/2024-kyiv/:splat		302
-/kyiv/*			/events/2024-kyiv/:splat		302
+/kyiv/*			/events/2025-kyiv/:splat		302
 /ljubljana/*		/events/2024-ljubljana/:splat		302
 /london/*		/events/2024-london/:splat		302
 /los-angeles/*		/events/2025-los-angeles/:splat		302
