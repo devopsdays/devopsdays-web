@@ -1,0 +1,17 @@
+{{ $file := .Get "file" }}
+{{ $image := .Get "image" }}
+{{ $year := .Get "year" }}
+{{ $city := .Get "city" }}
+{{ $name := .Get "name" }}
+
+{{- if ne $file "" -}}
+
+<a href="https://assets.devopsdays.org/events/{{- $year -}}/{{- $city -}}/{{- $file -}}" target="_blank">{{- $name -}}</a>
+
+{{- end -}}
+
+{{- if ne $image "" -}}
+
+<img src = "https://assets.devopsdays.org/events/{{- $year -}}/{{- $city -}}/{{- $image -}}" class = "img-fluid" alt="{{- $name -}}">
+
+{{- end -}}

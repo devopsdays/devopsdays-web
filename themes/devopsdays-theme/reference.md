@@ -38,6 +38,7 @@
 &emsp;[registration_end](#registration_end)
 &emsp;[event_map](#event_map)
 &emsp;[tix](#tix)
+&emsp;[asset](#asset)
 
 <!-- /MDTOC -->
 
@@ -448,3 +449,16 @@ To enable the header text, add `info=show` to enable showing of the Event Info s
 ```
 {{< tix city="belgium" year="antwerp-2024" info="show">}}
 ```
+
+### asset
+Create a links to a file or image from the DevOpsDays assset website.
+This shorcode requires the city name `city`, the year `year`, the name `name` being file or image and the link type, being `file` which creates a hyperlink or `image` which embeds the image on the page.
+
+```
+{{< asset year="2025" city="chicago" name="prospectus" file="2025-chicago-devopsdays-prospectus.pdf" >}}
+```
+
+```
+{{< asset year="2025" city="chicago" name="map layout" image="map.png" >}}
+```
+
