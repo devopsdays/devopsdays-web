@@ -1,0 +1,112 @@
+name: "2025-campinas" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2025" # The year of the event. Make sure it is in quotes.
+city: "Campinas" # The displayed city name of the event. Capitalize it.
+description: "DevOpsDays 2025" # Edit this to suit your preferences
+masthead_background: "background.jpg"
+
+# All dates are in unquoted 2024-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2024-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate:
+enddate:
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start:
+cfp_date_end:
+cfp_date_announce:
+
+cfp_link:
+
+registration_date_start:
+registration_date_end:
+
+registration_closed:
+registration_link:
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+
+  - name: contato
+    icon: "envelope-o"
+    url: /events/2025-campinas/contact
+
+  - name: código de conduta
+    icon: "handshake-o"
+    url: /events/2024-campinas/conduct-pt-br
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Douglas Esteves"
+    role: "Profissional de Tecnologia da Informação na UNICAMP"
+    bio: "Membro e Organizador do Laboratório Hacker de Campinas. Entusiasta em Internet das Coisas, ferramentas de monitoramento e Hardware Aberto."
+    image: "douglas.jpg"
+    github: "https://github.com/EstevesDouglas/"
+    linkedin: "https://www.linkedin.com/in/douglasesteves/"
+    website: "https://douglasesteves.eng.br/"
+  - name: "Flavio Pimenta"
+    role: "Software Engineer"
+    twitter: "pimentaflavio"
+    bio: "Arquiteto de Soluções focado em traduzir necessidades de negócio em soluções técnicas robustas e com alta qualidade de ponta a ponta.."
+    image: "pimenta.jpeg"
+    github: "https://github.com/flap"
+    linkedin: "https://www.linkedin.com/in/flaap/"
+    website: "https://campsite.bio/pimenta/"
+  - name: "Julia Katharine Teixeira Silva dos Santos"
+    employer: "CI&T"
+    role: "Site Reliability Engineering"
+    bio: "Site Reliability Engineering na CI&T com foco em observabilidade e monitoramento. Granduanda do ultimo semestre do curso de Analise e Desenvolvimento de Sistemas da FATEC."
+    image: "julia.jpeg"
+    linkedin: "https://www.linkedin.com/in/julia-santos22/"
+  - name: "Manassés Loiola de Souza"
+    employer: "Dell Technologies"
+    role: "Software Engineer"
+    github: "https://github.com/manasouza"
+    bio: "Desenvolvedor Backend, explorador de metodologias como TDD, DDD e práticas DevOps, além do interesse em Eletrônica e IoT"
+    image: "manasouza.jpeg"
+    linkedin: "https://www.linkedin.com/in/manass%C3%A9s-loiola-de-souza-0b213624/"
+  - name: "Marcelo Pires"
+    employer: "Encora"
+    role: "Software Development Specialist"
+    bio:  "Desenvolvedor de software na Encora, atua no mercado de aplicações nativas em nuvem, onde atende grandes clientes internacionais. Entusiasta dos temas relacionados com Policy as Code, Kubernetes, etc."
+    image: "marcpires.jpg"
+    github: "https://github.com/marcpires/"
+    linkedin: "https://www.linkedin.com/in/marcpires/"
+  - name: "Paula Santos"
+    employer: "Ab-Inbev"
+    role: "Cloud Architect"
+    bio: "Cloud Architect na Ab-Inbev, graduanda em Sistemas da Informação pela UNESA e certificada Microsoft e AWS. Parte do corpo de membros da comunidade FinOps Foundation e WOMCY além de organizadora do DevOps Days Campinas. Fruto de uma transição de carreira de Bióloga e Médica Veterinária especialista em diagnóstico por imagem de animais para Tech, hoje sou participante de iniciativas para inclusão de mulheres em tecnologia pela comunidade Transformar.tech, Mulheres na Nuvem MG e Cloud Women."
+    image: "paula.jpg"
+    linkedin: "https://www.linkedin.com/in/paula-santos-/"
+  - name: "Renne Rocha"
+    role: "Senior Python Engineer"
+    mastodon: "https://chaos.social/@rennerocha"
+    bio: "Renne Rocha é desenvolvedor Python, graduado em Engenharia Elétrica com mais de 10 anos de experiência em desenvolvimento. Ativo na comunidade Python brasileira organizando e apresentando palestras em diversas conferências no mundo todo. Co-fundador do Laboratório Hacker de Campinas, um dos primeiros hackerspaces do Brasil. Nas horas vagas, é aprendiz de marceneiro e cervejeiro caseiro."
+    image: "renne.png"
+    github: "https://github.com/rennerocha"
+    linkedin: "https://www.linkedin.com/in/rennerocha/"
+    website: "https://rennerocha.com/"
+
+organizer_email: "campinas@devopsdays.org"
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+
+sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
+
+program:
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  # - id: ouro
+  #   label: Ouro
+  # - id: prata
+  #   label: Prata
+  # - id: bronze
+  #   label: Bronze
+  # - id: comunidade
+  #   label: Comunidade
