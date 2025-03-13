@@ -4,4 +4,5 @@ title = "Sponsor Layout"
 type = "event"
 description = "Sponsor layout for devopsdays Chicago 2025!"
 +++
-  <img src = "https://assets.devopsdays.org/events/2025/chicago/map.png" class = "img-fluid">
+
+{{< asset year="2025" city="chicago" name="map layout" image="map.png" >}}
