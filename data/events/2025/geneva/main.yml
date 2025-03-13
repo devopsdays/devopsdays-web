@@ -183,6 +183,10 @@ sponsors:
     level: mic
   - id: checkmarx
     level: dinner
+  - id: e-xpert-solutions
+    level: bronze
+  - id: centreon
+    level: silver
 
 program:
 

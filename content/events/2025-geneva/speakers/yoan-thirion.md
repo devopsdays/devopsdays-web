@@ -1,5 +1,5 @@
 +++
-Title = "Yoan THIRION"
+Title = "Yoan Thirion"
 image = "yoan-thirion.png"
 Linkedin = "https://www.linkedin.com/in/yoanthirion/"
 type = "speaker"
