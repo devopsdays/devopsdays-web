@@ -96,7 +96,7 @@ Description = "DevOpsDays Kansas City, after a successful return in 2024, is bac
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    <a href="https://ti.to/kansas-city-developers-conference/kcdc-2025" target="_blank">Register to attend the conference!</a>
+    <a href="https://ti.to/kansas-city-developers-conference/kcdc-2025/with/devopsdays" target="_blank">Register to attend the conference!</a>
 <!--    {{< event_link page="registration" text="Register to attend the conference!" >}} -->
   </div>
 </div>
