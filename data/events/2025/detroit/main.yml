@@ -14,12 +14,11 @@ startdate: 2025-10-22T00:00:00+04:00 # The start date of your event. Leave blank
 enddate: 2025-10-22T00:00:00+04:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2025-03-12T00:00:00+04:00 # start accepting talk proposals.
+cfp_date_end: 2025-08-17T00:12:59+04:00 # close your call for proposals.
+cfp_date_announce:  2025-09-01T08:00:00+04:00 # inform proposers of status
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
-# cfp_link: "https://talks.devopsdays.org/devopsdays-detroit-2025/cfp" 
+cfp_link: "https://talks.devopsdays.org/devopsdays-detroit-2025/cfp"
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
@@ -35,7 +34,7 @@ location: "A. Alfred Taubman Center for Design Education, College for Creative S
 location_address: "460 W Baltimore St, Detroit, MI 48202" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: propose
  # - name: location
  # - name: registration
  # - name: program
@@ -51,6 +50,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
 - name: "Allison Green"
+- name: "Avery Green"
 - name: "Belynda Poupard"
 - name: "Derek DeJonghe"
 - name: "Rex Roof"
