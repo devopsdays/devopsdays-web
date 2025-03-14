@@ -247,7 +247,7 @@ program:
     date: 2025-04-30T17:00:00-05:00
     start_time: "11:10"
     end_time: "11:20"
-  - title: "patrick-debois"
+  - title: "talk-8"
     type: talk
     date: 2025-04-30T17:00:00-05:00
     start_time: "11:20"
