@@ -99,7 +99,7 @@ Description = "devopsdays Baltimore 2025"
       </div>
       <div class="col-md-4">
         <div class="row" style="text-align:center;">
-          <p><img alt="DevOpsDays Baltimore 2025" src="/events/2025-baltimore/logo-bmore.png" class="img-fluid"></p>
+          <p><img alt="DevOpsDays Baltimore 2025" src="/events/2025-baltimore/logo-stacked.png" class="img-fluid"></p>
         </div>
       </div>
     </div>
