@@ -40,10 +40,10 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <td align="center" style="text-align: center; background:#ffe8a3;"><strong>$6,000</strong></td>
       <td align="center" style="text-align: center; background:#e5e5e5;"><strong>$4,000</strong></td>
       <td align="center" style="text-align: center; background:#85cdad;"><strong>Partnership</strong></td>
-      <td align="center" style="text-align: center; background:#8bc2d6;"><strong>$5,000</strong></td>
-      <td align="center" style="text-align: center; background:#8bc2d6;"><strong>$4,000</strong></td>
-      <td align="center" style="text-align: center; background:#8bc2d6;"><strong>$8,000</strong></td>
+      <td align="center" style="text-align: center; background:#8bc2d6;"><strong>$2,000</strong></td>
       <td align="center" style="text-align: center; background:#8bc2d6;"><strong>$2,500</strong></td>
+      <td align="center" style="text-align: center; background:#8bc2d6;"><strong>$4,000</strong></td>
+      <td align="center" style="text-align: center; background:#8bc2d6;"><strong>$2,000</strong></td>
     </tr>
     <!-- <tr style="text-align: center;">
       <td align="center" style="text-align: center; background:#FFE8A3;"></td>
