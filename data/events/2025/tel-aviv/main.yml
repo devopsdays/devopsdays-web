@@ -143,8 +143,18 @@ organizer_email: "city_email@devopsdays.org" # Put your organizer email address 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: scylladb
+    level: diamond
   - id: groundcover
     level: platinum
+  - id: terasky-only
+    level: gold
+  - id: coralogix
+    level: gold
+  - id: quali
+    level: gold
+  - id: draftt
+    level: gold
   - id: statscraft
     level: community
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
@@ -152,6 +162,13 @@ sponsors:
     level: community
   - id: serverlesstlv
     level: community
+  - id: aws
+    level: community-day
+  - id: terasky-only
+    level: community-day
+  - id: quali
+    level: community-day
+  
   
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -177,3 +194,5 @@ sponsor_levels:
 #   label: Bronze
   - id: community
     label: Community Partners
+  - id: community-day
+    label: DevOps Community Day Partners
