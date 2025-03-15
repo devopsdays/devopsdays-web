@@ -8,7 +8,7 @@ dataDir: data
 archetypeDir: archetypes
 disableKinds: ["taxonomy"]
 enableEmoji: true
-paginatePath: blog
+pagination.path: blog
 markup:
   goldmark:
     renderer:
