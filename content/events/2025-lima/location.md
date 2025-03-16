@@ -1,17 +1,35 @@
 +++
-Title = "Location"
+Title = "Ubicacion del Evento"
 Type = "event"
-Description = "Location for devopsdays lima 2025"
+Description = "Ubicación del evento DevOpsDays de Lima 2025"
 +++
 
-Watch this space for information about the venue including address, map/direction, parking/transit, and any hotel details.
+En este espacio encontrarás información sobre la sede del evento, incluyendo la dirección, opciones de transporte, estacionamiento, y recomendaciones de alojamiento.
+
+# dirección
+- Av. Alonso de Molina 1652, Monterrico, Surco - Lima, Perú
+
 
 <!-- Uncomment this only if you have set the coordinates for your location in the config yaml. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html -->
-<!-- {{< event_map >}} -->
+{{< event_map >}}
 
-<!-- Edit and uncomment to let people know what accessibility features you have available -->
-<!-- 
-    Example from Minneapolis 2020
+<br>
+Imagenes del local 
+<br>
+<img src="/events/2025-lima/exterior.jpg" style="width: 1341px; height: 894px;">
+<br>
+<br>
 
-    We offer wheelchair-designated spaces, chairs, and standing options (with tall tables) in the mainstage session room; a quiet room; bathrooms labeled according to the facilities they contain; professional live captioning of mainstage sessions; ingredient labeling (based on data provided when registering); and private space (upon request) for those nursing. We'd also be happy to accommodate any other accessibility needs upon request: {{< email_organizers >}}    
--->
+<img src="/events/2025-lima/escenario1.jpg" style="width: 1341px; height: 894px;">
+<br>
+<br>
+
+<img src="/events/2025-lima/escenario2.jpg" style="width: 1341px; height: 894px;">
+<br>
+<br>
+
+<img src="/events/2025-lima/escenario3.jpg" style="width: 1341px; height: 894px;">
+<br>
+<br>
+
+<img src="/events/2025-lima/escenario4.jpg" style="width: 1341px; height: 894px;">
