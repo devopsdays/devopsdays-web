@@ -104,15 +104,10 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: platinum
     label: Platinum
-    max: 10
   - id: gold
     label: Gold
-  - id: silver
-    label: Silver
-  - id: media
-    label: Media
-  - id: community
-    label: Community
-  - id: happyhour
-    label: Happy Hour
-    max: 1
+  - id: digital
+    label: Digital Only
+  - id: addon
+    label: Add-on
+    max: 10
