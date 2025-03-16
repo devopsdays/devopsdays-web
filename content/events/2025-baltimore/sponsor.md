@@ -127,11 +127,6 @@ the Baltimore Tech Community to join us, space permitting.
 - Optional: Provide us 300+ 1" stickers and we will attach them to our lunch option
 - $2500 for 1 day of conference, 2 sponsorships available
 
-### Lanyard Sponsor
-
-- Lanyards provide to all attendees with your logo on it
-- $2000, limited to a single sponsor
-
 ### Snacks Sponsor
 
 - Special shoutout by emcee before first snack break of each day
