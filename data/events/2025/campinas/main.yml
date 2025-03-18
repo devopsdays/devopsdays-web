@@ -102,11 +102,11 @@ program:
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  # - id: ouro
-  #   label: Ouro
-  # - id: prata
-  #   label: Prata
-  # - id: bronze
-  #   label: Bronze
-  # - id: comunidade
-  #   label: Comunidade
+  - id: ouro
+    label: Ouro
+  - id: prata
+    label: Prata
+  - id: bronze
+    label: Bronze
+  - id: comunidade
+    label: Comunidade
