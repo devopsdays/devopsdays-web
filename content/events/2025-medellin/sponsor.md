@@ -13,204 +13,160 @@ Description = "Sponsor devopsdays Medellin 2025"
       </div>
       <h3>Sponsorship Packages</h3>
       <div class="table-responsive">
-      <table class="table table-bordered table-hover table-responsive-md">
-        <thead class="thead-light">
-          <tr>
-            <th scope="col">
-              <i>Packages</i>
-            </th>
-            <th scope="col">
-              <center>Gold</center>
-            </th>
-            <th scope="col">
-              <center>Platinum</center>
-            </th>
-            <th scope="col">
-              <center>Diamond</center>
-            </th>			
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <th scope="row">Pricing Before Early Bird, until March 15, 2025</th>
-            <td>
-              <center>$ 1000 USD + IVA </center>
-            </td>
-            <td>
-              <center>$ 2000 USD + IVA </center>
-            </td>
-            <td>
-              <center>$ 3000 USD + IVA </center>
-            </td>
-          </tr>
-          <tr>
-            <th scope="row">Pricing After March 15, 2025</th>
-            <td>
-              <center>$ 2000 USD + IVA </center>
-            </td>
-            <td>
-              <center>$ 3000 USD + IVA </center>
-            </td>
-            <td>
-              <center>$ 5000 USD + IVA </center>
-            </td>
-          </tr>
-            <th scope="row">VIP Access</th>
-            <td>
-              <center></center>
-            </td>
-            <td>
-              <center></center>
-            </td>
-            <td>
-              <center>Yes</center>
-            </td>
-          </tr>
-          <tr>
-            <th scope="row">Conference Ticket - Presential (20 % on Additional Tickets)</th>
-			<td>
-			  <center>5</center>
-			</td>
-            <td>
-			  <center>16</center>
-			</td>
-			<td>
-			  <center>20</center>
-			</td>
-          </tr>
-          <tr>
-            <th scope="row">On-site Booth</th>
-            <td>
-              <center></center>
-            </td>
-            <td>
-              <center>Medium</center>
-            </td>
-            <td>
-              <center>Large</center>
-            </td>
-          </tr>
-          <tr>
-            <th scope="row">Dedicated Virtual Sponsor Booth at the event*.</th>
-            <td>
-              <center>Small</center>
-            </td>
-            <td>
-              <center>Medium</center>
-            </td>
-            <td>
-              <center>Large</center>
-            </td>
-          </tr>		  
-          <tr>
-            <th scope="row">Logo on slides rotating at the event and during breaks</th>
-			<td>
-              <center></center>
-            </td>
-            <td>
-              <center>Shared</center>
-            </td>
-            <td>
-              <center>Exclusive</center>
-            </td>
-          </tr>
-          <tr>
-            <th scope="row">Presentation to the entire audience</th>
-            <td></td>
-            <td>
-			  <center>2 min</center>
-			</td>
-            <td>
-			  <center>5 min</center>
-			</td>
-          </tr>
-          <tr>
-            <th scope="row">Logo on the event website and in the conference room size according to sponsorship category.</th>
-            <td>
-              <center>Yes</center>
-            </td>
-            <td>
-              <center>Yes</center>
-            </td>
-            <td>
-              <center>Yes</center>
-            </td>
-          </tr>
-          <tr>
-            <th scope="row">Possibility to Sponsor Networking Spaces during the event </th>
-            <td>
-              <center></center>
-            </td>
-            <td>
-              <center>Yes</center>
-            </td>
-            <td>
-              <center>Yes</center>
-            </td>
-          </tr>
-          <tr>
-            <th scope="row">Networking opportunities with specific profiles of the event (as long as the participant authorizes)</th>
-            <td>
-              <center></center>
-            </td>
-            <td>
-              <center></center>
-            </td>
-            <td>
-              <center>Yes</center>
-            </td>
-          </tr>
-          <tr>
-            <th scope="row">Material for promotion on the event's social networks</th>
-            <td>
-              <center>Yes</center>
-            </td>
-            <td>
-              <center>Yes</center>
-            </td>
-            <td>
-              <center>Yes</center>
-            </td>
-          </tr>
-          <tr>
-            <th scope="row">Possibility to include talks in satellite rooms and promote them at the event</th>
-            <td>
-              <center></center>
-            </td>
-            <td>
-              <center>Yes</center>
-            </td>
-            <td>
-              <center>Yes</center>
-            </td>
-          </tr>
-          <tr>
-            <th scope="row">Possibility of providing merchandising to conference attendees</th>
-			      <td>
-              <center>Yes</center>
-            </td>
-            <td>
-              <center>Yes</center>
-            </td>
-            <td>
-              <center>Yes</center>
-            </td>
-          </tr>
-		  <tr>
-            <th scope="row">Other opportunities available upon request</th>
-            <td>
-              <center>Yes</center>
-            </td>
-            <td>
-              <center>Yes</center>
-            </td>
-            <td>
-              <center>Yes</center>
-            </td>
-          </tr>
-        </tbody>
-      </table>
-      <small><p>* Prices in USD may vary due to exchange rate</p>
+<table class="table table-bordered table-hover">
+  <thead>
+    <tr>
+      <th width=25% scope="col"></th>
+      <th scope="col" style="text-align: center; background:#FFF8E1; color:#5A4300;">GOLD</th>
+      <th scope="col" style="text-align: center; background:#F8F8F8; color:#434343;">PLATINUM</th>
+      <th scope="col" style="text-align: center; background:#B9F2FF; color:#03414D;">DIAMOND</th>
+      <th scope="col" style="text-align: center; background:#0D9850; color:white;">COMMUNITY</th>
+      <th scope="col" style="text-align: center; background:#0D9850; color:white;">EVENT EXPERIENCE</th>
+      <th scope="col" style="text-align: center; background:#0D9850; color:white;">LUNCH</th>
+      <th scope="col" style="text-align: center; background:#0D9850; color:white;">BREAKS</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Price</th>
+      <td align="center" style="text-align: center; background:#FFF8E1; color:#5A4300;"><strong>$3,600</strong></td>
+      <td align="center" style="text-align: center; background:#F8F8F8;"><strong>$6,000</strong></td>
+      <td align="center" style="text-align: center; background:#B9F2FF;"><strong>$10,000</strong></td>
+      <td align="center" style="text-align: center; background:#85cdad;"><strong>Partnership</strong></td>
+      <td align="center" style="text-align: center; background:#85cdad;"><strong>$1,000</strong></td>
+      <td align="center" style="text-align: center; background:#85cdad;"><strong>$2,800</strong></td>
+      <td align="center" style="text-align: center; background:#85cdad;"><strong>$1,500</strong></td>
+    </tr>
+      <th>Social media shout-out</th>
+      <td align="center" style="text-align: center; background:#FFF8E1; color:#5A4300;"><img src = "/events/2025-medellin/logoe.png" width="25px"></td>
+      <td align="center" style="text-align: center; background:#F8F8F8;"><img src = "/events/2025-medellin/logoe.png" width="25px"></td>
+      <td align="center" style="text-align: center; background:#B9F2FF;"><img src = "/events/2025-medellin/logoe.png" width="25px"></td>
+      <td align="center" style="text-align: center; background:#85cdad;"></td>
+      <td align="center" style="text-align: center; background:#85cdad;"></td>
+      <td align="center" style="text-align: center; background:#85cdad;"></td>
+      <td align="center" style="text-align: center; background:#85cdad;"></td>
+    </tr>
+    <tr>
+      <th>Logo on DevOpsDays MDE website</th>
+      <td align="center" style="text-align: center; background:#FFF8E1;"><img src = "/events/2025-medellin/logoe.png" width="25px"></td>
+      <td align="center" style="text-align: center; background:#F8F8F8;"><img src = "/events/2025-medellin/logoe.png" width="25px"></td>
+      <td align="center" style="text-align: center; background:#B9F2FF;"><img src = "/events/2025-medellin/logoe.png" width="25px"></td>
+      <td align="center" style="text-align: center; background:#85cdad;"><img src = "/events/2025-medellin/logoe.png" width="25px"></td>
+      <td align="center" style="text-align: center; background:#85cdad;"><img src = "/events/2025-medellin/logoe.png" width="25px"></td>
+      <td align="center" style="text-align: center; background:#85cdad;"><img src = "/events/2025-medellin/logoe.png" width="25px"></td>
+      <td align="center" style="text-align: center; background:#85cdad;"><img src = "/events/2025-medellin/logoe.png" width="25px"></td>
+    </tr>
+     <tr>
+      <th>Logo on marketing materials (incl. emails)</th>
+      <td align="center" style="text-align: center; background:#FFF8E1;"><img src = "/events/2025-medellin/logoe.png" width="25px"></td>
+      <td align="center" style="text-align: center; background:#F8F8F8;"><img src = "/events/2025-medellin/logoe.png" width="25px"></td>
+      <td align="center" style="text-align: center; background:#B9F2FF;"><img src = "/events/2025-medellin/logoe.png" width="25px"></td>
+      <td align="center" style="text-align: center; background:#85cdad;"><img src = "/events/2025-medellin/logoe.png" width="25px"></td>
+      <td align="center" style="text-align: center; background:#85cdad;"><img src = "/events/2025-medellin/logoe.png" width="25px"></td>
+      <td align="center" style="text-align: center; background:#85cdad;"><img src = "/events/2025-medellin/logoe.png" width="25px"></td>
+      <td align="center" style="text-align: center; background:#85cdad;"><img src = "/events/2025-medellin/logoe.png" width="25px"></td>
+    </tr>
+     <tr>
+      <th>Logo on dedicated slide during breaks</th>
+      <td align="center" style="text-align: center; background:#FFF8E1;"</td>
+      <td align="center" style="text-align: center; background:#F8F8F8;"><img src = "/events/2025-medellin/logoe.png" width="25px"></td>
+      <td align="center" style="text-align: center; background:#B9F2FF;"><img src = "/events/2025-medellin/logoe.png" width="25px"></td>
+      <td align="center" style="text-align: center; background:#85cdad;"></td>
+      <td align="center" style="text-align: center; background:#85cdad;"></td>
+      <td align="center" style="text-align: center; background:#85cdad;"></td>
+      <td align="center" style="text-align: center; background:#85cdad;"></td>
+    </tr>
+    <tr>
+      <th>Logo on shared slides during breaks</th>
+      <td align="center" style="text-align: center; background:#FFF8E1;"><img src = "/events/2025-medellin/logoe.png" width="25px"></td>
+      <td align="center" style="text-align: center; background:#F8F8F8;"><img src = "/events/2025-medellin/logoe.png" width="25px"></td>
+      <td align="center" style="text-align: center; background:#B9F2FF;"><img src = "/events/2025-medellin/logoe.png" width="25px"></td>
+      <td align="center" style="text-align: center; background:#85cdad;"><img src = "/events/2025-medellin/logoe.png" width="25px"></td>
+      <td align="center" style="text-align: center; background:#85cdad;"><img src = "/events/2025-medellin/logoe.png" width="25px"></td>
+      <td align="center" style="text-align: center; background:#85cdad;"><img src = "/events/2025-medellin/logoe.png" width="25px"></td>
+      <td align="center" style="text-align: center; background:#85cdad;"><img src = "/events/2025-medellin/logoe.png" width="25px"></td>
+    </tr>
+    <tr>
+      <th>Logo on participant badge</th>
+      <td align="center" style="text-align: center; background:#FFF8E1;"></td>
+      <td align="center" style="text-align: center; background:#F8F8F8;"><img src = "/events/2025-medellin/logoe.png" width="25px"></td>
+      <td align="center" style="text-align: center; background:#B9F2FF;"><img src = "/events/2025-medellin/logoe.png" width="25px"></td>
+      <td align="center" style="text-align: center; background:#85cdad;"></td>
+      <td align="center" style="text-align: center; background:#85cdad;"></td>
+      <td align="center" style="text-align: center; background:#85cdad;"></td>
+      <td align="center" style="text-align: center; background:#85cdad;"></td>
+    </tr>
+    <tr>
+      <th>Dedicated table in sponsor area (w/ 2 chairs)</th>
+      <td align="center" style="text-align: center; background:#FFF8E1;"></td> placement</small></td>
+      <td align="center" style="text-align: center; background:#F8F8F8;"><img src = "/events/2025-medellin/logoe.png" width="25px"><br/><small>prominent<br/>
+      <td align="center" style="text-align: center; background:#B9F2FF;"><img src = "/events/2025-medellin/logoe.png" width="25px"><br/><small>high-profile<br/>
+      <td align="center" style="text-align: center; background:#85cdad;"></td>
+      <td align="center" style="text-align: center; background:#85cdad;"></td>
+      <td align="center" style="text-align: center; background:#85cdad;"></td>
+      <td align="center" style="text-align: center; background:#85cdad;"></td>
+    </tr>
+    <tr>
+      <th>Shout-out from MCs at kickoff and breaks</th>
+      <td align="center" style="text-align: center; background:#FFF8E1;"><img src = "/events/2025-medellin/logoe.png" width="25px"><br/></td>
+      <td align="center" style="text-align: center; background:#F8F8F8;"><img src = "/events/2025-medellin/logoe.png" width="25px"></td>
+      <td align="center" style="text-align: center; background:#B9F2FF;"><img src = "/events/2025-medellin/logoe.png" width="25px"><br/></td>
+      <td align="center" style="text-align: center; background:#85cdad;"><img src = "/events/2025-medellin/logoe.png" width="25px"><br/></td>
+      <td align="center" style="text-align: center; background:#85cdad;"><img src = "/events/2025-medellin/logoe.png" width="25px"><br/></td>
+      <td align="center" style="text-align: center; background:#85cdad;"><img src = "/events/2025-medellin/logoe.png" width="25px"><br/></td>
+      <td align="center" style="text-align: center; background:#85cdad;"><img src = "/events/2025-medellin/logoe.png" width="25px"><br/></td>
+    </tr>
+    <tr>
+      <th>One, 1-minute pitch during Program</th>
+      <td align="center" style="text-align: center; background:#FFF8E1;"></td>
+      <td align="center" style="text-align: center; background:#F8F8F8;"><img src = "/events/2025-medellin/logoe.png" width="25px"></td>
+      <td align="center" style="text-align: center; background:#B9F2FF;"></td>
+      <td align="center" style="text-align: center; background:#85cdad;"></td>
+      <td align="center" style="text-align: center; background:#85cdad;"></td>
+      <td align="center" style="text-align: center; background:#85cdad;"></td>
+      <td align="center" style="text-align: center; background:#85cdad;"></td>
+    </tr>
+    <tr>
+      <th>One, 3-minute pitch during Program</th>
+      <td align="center" style="text-align: center; background:#FFF8E1;"></td>
+      <td align="center" style="text-align: center; background:#F8F8F8;"></td>
+      <td align="center" style="text-align: center; background:#B9F2FF;"><img src = "/events/2025-medellin/logoe.png" width="25px"></td>
+      <td align="center" style="text-align: center; background:#85cdad;"></td>
+      <td align="center" style="text-align: center; background:#85cdad;"></td>
+      <td align="center" style="text-align: center; background:#85cdad;"></td>
+      <td align="center" style="text-align: center; background:#85cdad;"></td>
+    </tr>
+    <tr>
+      <th># Tickets included</th>
+      <td align="center" style="text-align: center; background:#FFF8E1;">5</td>
+      <td align="center" style="text-align: center; background:#F8F8F8;">10</td>
+      <td align="center" style="text-align: center; background:#B9F2FF;">16</td>
+      <td align="center" style="text-align: center; background:#85cdad;">Contact Us</td>
+      <td align="center" style="text-align: center; background:#85cdad;">Contact Us</td>
+      <td align="center" style="text-align: center; background:#85cdad;">Contact Us</td>
+      <td align="center" style="text-align: center; background:#85cdad;">Contact Us</td>
+    </tr>
+    <tr>
+      <th># Available</th>
+      <td align="center" style="text-align: center; background:#FFF8E1;">8</td>
+      <td align="center" style="text-align: center; background:#F8F8F8;">6</td>
+      <td align="center" style="text-align: center; background:#B9F2FF;">4</td>
+      <td align="center" style="text-align: center; background:#85cdad;">Unlimited</td>
+      <td align="center" style="text-align: center; background:#85cdad;">5</td>
+      <td align="center" style="text-align: center; background:#85cdad;">3</td>
+      <td align="center" style="text-align: center; background:#85cdad;">3</td>
+    </tr>
+    <tr>
+      <th><em>Special Notes:<em></th>
+      <td align="center" style="text-align: center; background:#FFF8E1;"></td>
+      <td align="center" style="text-align: center; background:#F8F8F8;"></td>
+      <td align="center" style="text-align: center; background:#B9F2FF;"></td>
+      <td align="center" style="text-align: center; background:#85cdad;"></td>
+      <td align="center" style="text-align: center; background:#85cdad;"></td>
+      <td colspan="3" align="center" style="text-align: center; background:#85cdad;">Contact us for combo package options</td>
+    </tr>
+  </tbody>
+</table>      <small><p>* Prices in USD may vary due to exchange rate</p>
       <p>* If the conference is cancelled due to events beyond our control (e.g. venue closure or government edict) we will do our best to reimburse everyone we can; this is dependent on obtaining a refund from our venue based on force majeure and we cannot absolutely guarantee this will happen.  Please let us know if your sponsorship is dependent on the hybrid event taking place before you make your sponsorship payment.</p>
       </small>
       <br>
