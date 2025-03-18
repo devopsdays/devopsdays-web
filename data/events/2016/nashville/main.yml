@@ -63,7 +63,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: icinga
     level: badges
-  - id: shadow-soft
+  - id: shadow-soft-before-20250317
     level: beverage
   - id: tek-systems
     level: bronze
