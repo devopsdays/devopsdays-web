@@ -80,6 +80,11 @@ a.jssocials-share-link, a.event-cta-button {
 <div class="mtl">
   <div class="showcase">
     <p>
+      <a href="https://www.canva.com/design/DAGhWR7yW-o/aHW-PRY8qmxMehurTY_KTw/view">
+        <button>PATROCINE</button>
+      </a>
+    </p>
+    <p>
       <a href="/events/2025-campinas/contact">
         <button>CONTATO</button>
       </a>
@@ -87,7 +92,13 @@ a.jssocials-share-link, a.event-cta-button {
   </div>
   <div class="sidebar">
     <h1 style="color:#5C889F">DevOpsDays Campinas 2025</h1>
-    <h2>Em breve mais informações</h2>
-    <h4>Setembro/Outubro 2025 (a definir)</h4>
+    <hr/>
+    <h2>Quando?</h2>
+    <h3>Setembro/Outubro 2025 (data exata em definição)</h3>
+    <hr/>
+    <h2>Quer patrocinar?</h2>
+    <h3>
+      <a href="https://www.canva.com/design/DAGhWR7yW-o/aHW-PRY8qmxMehurTY_KTw/view">Acesse aqui nossa Carta de Patrocínio</a> e saiba como patrocinar e apoiar o evento.
+    </h3>
   </div>
 </div>
