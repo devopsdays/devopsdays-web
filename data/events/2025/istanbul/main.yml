@@ -78,10 +78,11 @@ team_members: # Name is the only required field for team members.
      employer: "Kloia"
      image: "derya-sezen.jpg"
      linkedin: "https://www.linkedin.com/in/deryasezen/"
-     twitter: derya_sezen
+     twitter: DeryaDorian
    
    - name: "Dogukan Turan"
      employer: "Logo"
+     image: "dogukan-turan.jpg"
      twitter: "imdotu"
      linkedin: "https://www.linkedin.com/in/dogukanturan/"
 
