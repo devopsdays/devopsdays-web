@@ -36,7 +36,7 @@ Description = "Sponsor devopsdays Medellin 2025"
       <td align="center" style="text-align: center; background:#85cdad;"><strong>$1,000</strong></td>
       <td align="center" style="text-align: center; background:#85cdad;"><strong>$2,800</strong></td>
       <td align="center" style="text-align: center; background:#85cdad;"><strong>$1,500</strong></td>
-    </tr>
+    </tr> 
       <th>Social media shout-out</th>
       <td align="center" style="text-align: center; background:#FFF8E1; color:#5A4300;"><img src = "/events/2025-medellin/logo.png" width="25px"></td>
       <td align="center" style="text-align: center; background:#F8F8F8;"><img src = "/events/2025-medellin/logo.png" width="25px"></td>

@@ -24,7 +24,7 @@ Description = "Welcome to DevOpsDays Medellín 2025"
         </li>  
       </ul>      
     </p>
-    <h2>Conference format</h2>
+    <h2>Conference format</h2> 
     <p>
       <ul>
         <li>
