@@ -6,6 +6,7 @@ Title = "Firewalls and Friendships: Building a Balanced Professional Network"
 Type = "talk"
 Speakers = ["annie-hedgpeth"]
 sharing_image = "annie-hedgpeth.png"
+slides = "https://prezi.com/view/6CHiu2vHdIt0oXk4bSwN/"
 +++
 ## Abstract
 
