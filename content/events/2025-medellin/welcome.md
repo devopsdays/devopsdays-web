@@ -17,7 +17,7 @@ Description = "Welcome to DevOpsDays Medellín 2025"
     <p>
       <ul>
         <li>
-          <h3>Dates</h3>
+          <h3>Dates</h3> 
         </li>
         <li style="margin-left:15px;">
           <div>{{< event_start >}} - {{< event_end >}}</div>

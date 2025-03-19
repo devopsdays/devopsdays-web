@@ -13,7 +13,7 @@ Description = "Sponsor devopsdays Medellin 2025"
       </div>
       <h3>Sponsorship Packages</h3>
       <div class="table-responsive">
-<table class="table table-bordered table-hover">
+<table class="table table-bordered table-hover"> 
   <thead>
     <tr>
       <th width=25% scope="col"></th>
@@ -38,9 +38,9 @@ Description = "Sponsor devopsdays Medellin 2025"
       <td align="center" style="text-align: center; background:#85cdad;"><strong>$1,500</strong></td>
     </tr>
       <th>Social media shout-out</th>
-      <td align="center" style="text-align: center; background:#FFF8E1; color:#5A4300;"><img src = "/events/2025-medellin/logoe.png" width="25px"></td>
-      <td align="center" style="text-align: center; background:#F8F8F8;"><img src = "/events/2025-medellin/logoe.png" width="25px"></td>
-      <td align="center" style="text-align: center; background:#B9F2FF;"><img src = "/events/2025-medellin/logoe.png" width="25px"></td>
+      <td align="center" style="text-align: center; background:#FFF8E1; color:#5A4300;"><img src = "/events/2025-medellin/logo.png" width="25px"></td>
+      <td align="center" style="text-align: center; background:#F8F8F8;"><img src = "/events/2025-medellin/logo.png" width="25px"></td>
+      <td align="center" style="text-align: center; background:#B9F2FF;"><img src = "/events/2025-medellin/logo.png" width="25px"></td>
       <td align="center" style="text-align: center; background:#85cdad;"></td>
       <td align="center" style="text-align: center; background:#85cdad;"></td>
       <td align="center" style="text-align: center; background:#85cdad;"></td>
@@ -48,29 +48,29 @@ Description = "Sponsor devopsdays Medellin 2025"
     </tr>
     <tr>
       <th>Logo on DevOpsDays MDE website</th>
-      <td align="center" style="text-align: center; background:#FFF8E1;"><img src = "/events/2025-medellin/logoe.png" width="25px"></td>
-      <td align="center" style="text-align: center; background:#F8F8F8;"><img src = "/events/2025-medellin/logoe.png" width="25px"></td>
-      <td align="center" style="text-align: center; background:#B9F2FF;"><img src = "/events/2025-medellin/logoe.png" width="25px"></td>
-      <td align="center" style="text-align: center; background:#85cdad;"><img src = "/events/2025-medellin/logoe.png" width="25px"></td>
-      <td align="center" style="text-align: center; background:#85cdad;"><img src = "/events/2025-medellin/logoe.png" width="25px"></td>
-      <td align="center" style="text-align: center; background:#85cdad;"><img src = "/events/2025-medellin/logoe.png" width="25px"></td>
-      <td align="center" style="text-align: center; background:#85cdad;"><img src = "/events/2025-medellin/logoe.png" width="25px"></td>
+      <td align="center" style="text-align: center; background:#FFF8E1;"><img src = "/events/2025-medellin/logo.png" width="25px"></td>
+      <td align="center" style="text-align: center; background:#F8F8F8;"><img src = "/events/2025-medellin/logo.png" width="25px"></td>
+      <td align="center" style="text-align: center; background:#B9F2FF;"><img src = "/events/2025-medellin/logo.png" width="25px"></td>
+      <td align="center" style="text-align: center; background:#85cdad;"><img src = "/events/2025-medellin/logo.png" width="25px"></td>
+      <td align="center" style="text-align: center; background:#85cdad;"><img src = "/events/2025-medellin/logo.png" width="25px"></td>
+      <td align="center" style="text-align: center; background:#85cdad;"><img src = "/events/2025-medellin/logo.png" width="25px"></td>
+      <td align="center" style="text-align: center; background:#85cdad;"><img src = "/events/2025-medellin/logo.png" width="25px"></td>
     </tr>
      <tr>
       <th>Logo on marketing materials (incl. emails)</th>
-      <td align="center" style="text-align: center; background:#FFF8E1;"><img src = "/events/2025-medellin/logoe.png" width="25px"></td>
-      <td align="center" style="text-align: center; background:#F8F8F8;"><img src = "/events/2025-medellin/logoe.png" width="25px"></td>
-      <td align="center" style="text-align: center; background:#B9F2FF;"><img src = "/events/2025-medellin/logoe.png" width="25px"></td>
-      <td align="center" style="text-align: center; background:#85cdad;"><img src = "/events/2025-medellin/logoe.png" width="25px"></td>
-      <td align="center" style="text-align: center; background:#85cdad;"><img src = "/events/2025-medellin/logoe.png" width="25px"></td>
-      <td align="center" style="text-align: center; background:#85cdad;"><img src = "/events/2025-medellin/logoe.png" width="25px"></td>
-      <td align="center" style="text-align: center; background:#85cdad;"><img src = "/events/2025-medellin/logoe.png" width="25px"></td>
+      <td align="center" style="text-align: center; background:#FFF8E1;"><img src = "/events/2025-medellin/logo.png" width="25px"></td>
+      <td align="center" style="text-align: center; background:#F8F8F8;"><img src = "/events/2025-medellin/logo.png" width="25px"></td>
+      <td align="center" style="text-align: center; background:#B9F2FF;"><img src = "/events/2025-medellin/logo.png" width="25px"></td>
+      <td align="center" style="text-align: center; background:#85cdad;"><img src = "/events/2025-medellin/logo.png" width="25px"></td>
+      <td align="center" style="text-align: center; background:#85cdad;"><img src = "/events/2025-medellin/logo.png" width="25px"></td>
+      <td align="center" style="text-align: center; background:#85cdad;"><img src = "/events/2025-medellin/logo.png" width="25px"></td>
+      <td align="center" style="text-align: center; background:#85cdad;"><img src = "/events/2025-medellin/logo.png" width="25px"></td>
     </tr>
      <tr>
       <th>Logo on dedicated slide during breaks</th>
       <td align="center" style="text-align: center; background:#FFF8E1;"</td>
-      <td align="center" style="text-align: center; background:#F8F8F8;"><img src = "/events/2025-medellin/logoe.png" width="25px"></td>
-      <td align="center" style="text-align: center; background:#B9F2FF;"><img src = "/events/2025-medellin/logoe.png" width="25px"></td>
+      <td align="center" style="text-align: center; background:#F8F8F8;"><img src = "/events/2025-medellin/logo.png" width="25px"></td>
+      <td align="center" style="text-align: center; background:#B9F2FF;"><img src = "/events/2025-medellin/logo.png" width="25px"></td>
       <td align="center" style="text-align: center; background:#85cdad;"></td>
       <td align="center" style="text-align: center; background:#85cdad;"></td>
       <td align="center" style="text-align: center; background:#85cdad;"></td>
@@ -78,19 +78,19 @@ Description = "Sponsor devopsdays Medellin 2025"
     </tr>
     <tr>
       <th>Logo on shared slides during breaks</th>
-      <td align="center" style="text-align: center; background:#FFF8E1;"><img src = "/events/2025-medellin/logoe.png" width="25px"></td>
-      <td align="center" style="text-align: center; background:#F8F8F8;"><img src = "/events/2025-medellin/logoe.png" width="25px"></td>
-      <td align="center" style="text-align: center; background:#B9F2FF;"><img src = "/events/2025-medellin/logoe.png" width="25px"></td>
-      <td align="center" style="text-align: center; background:#85cdad;"><img src = "/events/2025-medellin/logoe.png" width="25px"></td>
-      <td align="center" style="text-align: center; background:#85cdad;"><img src = "/events/2025-medellin/logoe.png" width="25px"></td>
-      <td align="center" style="text-align: center; background:#85cdad;"><img src = "/events/2025-medellin/logoe.png" width="25px"></td>
-      <td align="center" style="text-align: center; background:#85cdad;"><img src = "/events/2025-medellin/logoe.png" width="25px"></td>
+      <td align="center" style="text-align: center; background:#FFF8E1;"><img src = "/events/2025-medellin/logo.png" width="25px"></td>
+      <td align="center" style="text-align: center; background:#F8F8F8;"><img src = "/events/2025-medellin/logo.png" width="25px"></td>
+      <td align="center" style="text-align: center; background:#B9F2FF;"><img src = "/events/2025-medellin/logo.png" width="25px"></td>
+      <td align="center" style="text-align: center; background:#85cdad;"><img src = "/events/2025-medellin/logo.png" width="25px"></td>
+      <td align="center" style="text-align: center; background:#85cdad;"><img src = "/events/2025-medellin/logo.png" width="25px"></td>
+      <td align="center" style="text-align: center; background:#85cdad;"><img src = "/events/2025-medellin/logo.png" width="25px"></td>
+      <td align="center" style="text-align: center; background:#85cdad;"><img src = "/events/2025-medellin/logo.png" width="25px"></td>
     </tr>
     <tr>
       <th>Logo on participant badge</th>
       <td align="center" style="text-align: center; background:#FFF8E1;"></td>
-      <td align="center" style="text-align: center; background:#F8F8F8;"><img src = "/events/2025-medellin/logoe.png" width="25px"></td>
-      <td align="center" style="text-align: center; background:#B9F2FF;"><img src = "/events/2025-medellin/logoe.png" width="25px"></td>
+      <td align="center" style="text-align: center; background:#F8F8F8;"><img src = "/events/2025-medellin/logo.png" width="25px"></td>
+      <td align="center" style="text-align: center; background:#B9F2FF;"><img src = "/events/2025-medellin/logo.png" width="25px"></td>
       <td align="center" style="text-align: center; background:#85cdad;"></td>
       <td align="center" style="text-align: center; background:#85cdad;"></td>
       <td align="center" style="text-align: center; background:#85cdad;"></td>
@@ -99,8 +99,8 @@ Description = "Sponsor devopsdays Medellin 2025"
     <tr>
       <th>Dedicated table in sponsor area (w/ 2 chairs)</th>
       <td align="center" style="text-align: center; background:#FFF8E1;"></td> placement</small></td>
-      <td align="center" style="text-align: center; background:#F8F8F8;"><img src = "/events/2025-medellin/logoe.png" width="25px"><br/><small>prominent<br/>
-      <td align="center" style="text-align: center; background:#B9F2FF;"><img src = "/events/2025-medellin/logoe.png" width="25px"><br/><small>high-profile<br/>
+      <td align="center" style="text-align: center; background:#F8F8F8;"><img src = "/events/2025-medellin/logo.png" width="25px"><br/><small>prominent<br/>
+      <td align="center" style="text-align: center; background:#B9F2FF;"><img src = "/events/2025-medellin/logo.png" width="25px"><br/><small>high-profile<br/>
       <td align="center" style="text-align: center; background:#85cdad;"></td>
       <td align="center" style="text-align: center; background:#85cdad;"></td>
       <td align="center" style="text-align: center; background:#85cdad;"></td>
@@ -108,18 +108,18 @@ Description = "Sponsor devopsdays Medellin 2025"
     </tr>
     <tr>
       <th>Shout-out from MCs at kickoff and breaks</th>
-      <td align="center" style="text-align: center; background:#FFF8E1;"><img src = "/events/2025-medellin/logoe.png" width="25px"><br/></td>
-      <td align="center" style="text-align: center; background:#F8F8F8;"><img src = "/events/2025-medellin/logoe.png" width="25px"></td>
-      <td align="center" style="text-align: center; background:#B9F2FF;"><img src = "/events/2025-medellin/logoe.png" width="25px"><br/></td>
-      <td align="center" style="text-align: center; background:#85cdad;"><img src = "/events/2025-medellin/logoe.png" width="25px"><br/></td>
-      <td align="center" style="text-align: center; background:#85cdad;"><img src = "/events/2025-medellin/logoe.png" width="25px"><br/></td>
-      <td align="center" style="text-align: center; background:#85cdad;"><img src = "/events/2025-medellin/logoe.png" width="25px"><br/></td>
-      <td align="center" style="text-align: center; background:#85cdad;"><img src = "/events/2025-medellin/logoe.png" width="25px"><br/></td>
+      <td align="center" style="text-align: center; background:#FFF8E1;"><img src = "/events/2025-medellin/logo.png" width="25px"><br/></td>
+      <td align="center" style="text-align: center; background:#F8F8F8;"><img src = "/events/2025-medellin/logo.png" width="25px"></td>
+      <td align="center" style="text-align: center; background:#B9F2FF;"><img src = "/events/2025-medellin/logo.png" width="25px"><br/></td>
+      <td align="center" style="text-align: center; background:#85cdad;"><img src = "/events/2025-medellin/logo.png" width="25px"><br/></td>
+      <td align="center" style="text-align: center; background:#85cdad;"><img src = "/events/2025-medellin/logo.png" width="25px"><br/></td>
+      <td align="center" style="text-align: center; background:#85cdad;"><img src = "/events/2025-medellin/logo.png" width="25px"><br/></td>
+      <td align="center" style="text-align: center; background:#85cdad;"><img src = "/events/2025-medellin/logo.png" width="25px"><br/></td>
     </tr>
     <tr>
       <th>One, 1-minute pitch during Program</th>
       <td align="center" style="text-align: center; background:#FFF8E1;"></td>
-      <td align="center" style="text-align: center; background:#F8F8F8;"><img src = "/events/2025-medellin/logoe.png" width="25px"></td>
+      <td align="center" style="text-align: center; background:#F8F8F8;"><img src = "/events/2025-medellin/logo.png" width="25px"></td>
       <td align="center" style="text-align: center; background:#B9F2FF;"></td>
       <td align="center" style="text-align: center; background:#85cdad;"></td>
       <td align="center" style="text-align: center; background:#85cdad;"></td>
@@ -130,7 +130,7 @@ Description = "Sponsor devopsdays Medellin 2025"
       <th>One, 3-minute pitch during Program</th>
       <td align="center" style="text-align: center; background:#FFF8E1;"></td>
       <td align="center" style="text-align: center; background:#F8F8F8;"></td>
-      <td align="center" style="text-align: center; background:#B9F2FF;"><img src = "/events/2025-medellin/logoe.png" width="25px"></td>
+      <td align="center" style="text-align: center; background:#B9F2FF;"><img src = "/events/2025-medellin/logo.png" width="25px"></td>
       <td align="center" style="text-align: center; background:#85cdad;"></td>
       <td align="center" style="text-align: center; background:#85cdad;"></td>
       <td align="center" style="text-align: center; background:#85cdad;"></td>
