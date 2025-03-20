@@ -6,6 +6,7 @@ Title = "Private AI at Home: Secure, Open-Source, and Fully Yours"
 Type = "talk"
 Speakers = ["paul-czarkowski"]
 sharing_image = "paul-czarkowski.png"
+notist = "https://speaking.paulcz.net/EXSUEE/private-ai-at-home-secure-open-source-and-fully-yours"
 +++
 
 Large language models (LLMs) and generative AI tools are more accessible than ever—but do you really want to send all your data to the cloud? In this talk, we’ll explore how to **build your own private AI assistant**, running entirely on **open-source software and self-hosted hardware**.
