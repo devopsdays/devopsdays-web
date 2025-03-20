@@ -4,7 +4,7 @@ Type = "event"
 Description = "Sponsor devopsdays lima 2025"
 +++
 
-Valoramos mucho a los patrocinadores para este evento comunitario. Si estás interesado en patrocinar, por favor envíanos un correo electrónico a [{{< email_organizers >}}].
+Valoramos mucho a los patrocinadores para este evento comunitario. Si estás interesado en patrocinar, por favor envíanos un correo electrónico a sponsors@devopsdays.pe.
 
 <hr>
 
