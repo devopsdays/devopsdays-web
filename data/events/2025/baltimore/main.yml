@@ -31,7 +31,7 @@ sharing_image: "logo.png"
 
 # Custom Links
 slack_link: "http://baltimoretechslack.com/"
-#sponsor_faq_link: "https://docs.google.com/document/d/1luCJTEva87ORuGPPjBBqDecTopI1XqzFkSGk1MMShYI/edit?usp=sharing"
+sponsor_faq_link: "https://docs.google.com/document/d/1g7yjX3rhiK93x5FOo6u7z1EnKXAlBFKL/edit?usp=sharing&ouid=109455848279006338205&rtpof=true&sd=true"
 sponsor_registration_link: "https://forms.gle/WXGM4TbKJTEmXDqG8"
 
 # Location
@@ -46,7 +46,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: registration
  # - name: program
  # - name: speakers
- # - name: sponsor
+  - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
@@ -104,15 +104,10 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: platinum
     label: Platinum
-    max: 10
   - id: gold
     label: Gold
-  - id: silver
-    label: Silver
-  - id: media
-    label: Media
-  - id: community
-    label: Community
-  - id: happyhour
-    label: Happy Hour
-    max: 1
+  - id: digital
+    label: Digital Only
+  - id: addon
+    label: Add-on
+    max: 10

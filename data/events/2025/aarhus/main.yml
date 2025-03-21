@@ -107,13 +107,15 @@ sponsors:
     level: silver
   - id: solidify
     level: silver
-  - id: destination-aarhus
+  - id: tech-hub-aarhus
     level: community
   - id: ramboll
     level: community
   - id: knowit
     level: community
   - id: salling-group
+    level: community
+  - id: jysk
     level: community
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link

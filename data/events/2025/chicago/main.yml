@@ -205,6 +205,8 @@ sponsors:
     level: gold
   - id: hashicorp
     level: gold
+  - id: peoplecert
+    level: gold
   - id: fairwinds
     level: bronze
   - id: lightrun

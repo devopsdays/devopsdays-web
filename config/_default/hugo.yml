@@ -8,7 +8,8 @@ dataDir: data
 archetypeDir: archetypes
 disableKinds: ["taxonomy"]
 enableEmoji: true
-paginatePath: blog
+pagination:
+  path: blog
 markup:
   goldmark:
     renderer:
@@ -18,7 +19,7 @@ languages:
     disabled: false
     languageCode: en-US
     languageDirection: ltr
-    languageName: Englist
+    languageName: English
     weight: 0
 
 # menus:

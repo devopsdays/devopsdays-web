@@ -100,7 +100,14 @@ sponsors:
     level: gold
   - id: honeycomb
     level: gold
-
+  - id: redmonk
+    level: community
+  - id: shadow-soft
+    level: bronze
+  - id: devopsdotcom
+    level: bronze
+  - id: stateful
+    level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
