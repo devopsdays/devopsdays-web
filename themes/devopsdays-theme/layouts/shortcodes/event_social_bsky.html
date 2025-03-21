@@ -1,0 +1,7 @@
+{{- $e := partial "functions/get-event-data" . -}}
+
+{{- if $e.event_social_bsky -}}
+  <a href="{{ $e.event_social_bsky }}" class="fa-brands social-bsky fa-bluesky" target="_blank" title="Join us on Bluesky"></a>
+{{- else -}}
+  <a href="{{ index .Params 0 }}" class="fa-brands social-bsky fa-bluesky" target="_blank" title="Join us on BlueSky"></a>
+{{- end -}}

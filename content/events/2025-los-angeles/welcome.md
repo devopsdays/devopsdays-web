@@ -7,8 +7,7 @@ Description = "DevOpsDays Los Angeles 2025"
 <br>
 
 <div class = "col-md-12 push-md-12">
-  <h1 style="text-align: center;"><a href="https://assets.devopsdays.org/events/2025/los-angeles/devopsdayla2025_sponsor.pdf" style="font-size: 42px;">➡️ Sponsor the conference! ⬅️</a></h1>
-  <div style="text-align: center"><a href="https://assets.devopsdays.org/events/2025/los-angeles/devopsdayla2025_sponsor.pdf" style="font-size: 42px;">➡️ Download Our Sponsor Prospectus PDF ⬅️</a></div>
+  <h1 style="text-align: center;"><a href="https://devopsdays.org/events/2025-los-angeles/program" style="font-size: 42px;">➡️ Check Out Our Program! ⬅️</a></h1>
 </div>
 <br>
 

@@ -4,7 +4,7 @@ Type = "event"
 Description = "Sponsor DevOpsDays Baltimore 2025"
 +++
 
-DevOps Days is a self-organizing conference for DevOps practitioners that depends on your sponsorships. DevOpsDays Baltimore does not have vendor booths, sell product presentations, or distribute attendee contact lists.
+DevOpsDays is a self-organizing conference for DevOps practitioners that depends on your sponsorships. DevOpsDays Baltimore does not have vendor booths, sell product presentations, or distribute attendee contact lists.
 Sponsors have the opportunity to have short elevator pitches during the program and get recognition on this website and via LinkedIn before and during the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. We recommend sending practitioners to interact with their peers on their own terms.
 All attendees are welcome to propose any subject they want during the Open Space sessions. All attendees have the opportunity to suggest a product or project demonstration as part of an Open Space session, including sponsor attendees. Keep in mind: DevOpsDays Baltimore is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
 
@@ -24,27 +24,18 @@ The following chart outlines our sponsorship packages at a high level, which are
   <tbody>
     <tr class="hed1">
       <td><strong></strong></td>
-      <td><strong>Community</strong></td>
-      <td><strong>Media</strong></td>
-      <td><strong>Silver</strong></td>
+      <td><strong>Digital Only</strong></td>
       <td><strong>Gold</strong></td>
       <td><strong>Platinum</strong></td>
-      <td><strong>Happy Hour</strong></td>
     </tr>
     <tr class="hed2">
       <td></td>
-      <td><strong> Free * </strong></td>
-      <td><strong> Free ** </strong></td>
       <td><strong>$1,500 USD</strong></td>
       <td><strong>$3,500 USD</strong></td>
       <td><strong>$6,000 USD</strong></td>
-      <td><strong>Add On - $3,000 USD</strong></td>
     </tr>
     <tr>
       <td>Logo on DevOpsDays Baltimore 2023 Event Website</td>
-      <td class="yes">✅</td>
-      <td class="yes">✅</td>
-      <td class="yes">✅</td>
       <td class="yes">✅</td>
       <td class="yes">✅</td>
       <td class="yes">✅</td>
@@ -54,15 +45,9 @@ The following chart outlines our sponsorship packages at a high level, which are
       <td class="yes">✅</td>
       <td class="yes">✅</td>
       <td class="yes">✅</td>
-      <td class="yes">✅</td>
-      <td class="yes">✅</td>
-      <td class="yes">✅</td>
     </tr>
     <tr>
       <td>Logo on All Email Communications</td>
-      <td class="no"> </td>
-      <td class="no"> </td>
-      <td class="no"> </td>
       <td class="yes">✅</td>
       <td class="yes">✅</td>
       <td class="yes">✅</td>
@@ -70,123 +55,93 @@ The following chart outlines our sponsorship packages at a high level, which are
     <tr>
       <td>Table During Conference for Swag/Marketing</td>
       <td class="no"> </td>
-      <td class="no"> </td>
-      <td class="no"> </td>
-      <td class="yes">✅ Shared Table *** </td>
-      <td class="yes">✅ Full Table</td>
-      <td class="no"> </td> <!-- need to confirm here-->
-    <tr>
-    <tr>
-      <td>Table During Happy Hour for Swag/Marketing</td>
-      <td class="no"> </td>
-      <td class="no"> </td>
-      <td class="no"> </td>
-      <td class="no"> </td>
-      <td class="no"> </td>
+      <td class="yes">✅ Shared Table * </td>
       <td class="yes">✅ Full Table</td>
     <tr>
       <td>One (1) minute Pitch to Conference Audience</td>
       <td class="no"> </td>
       <td class="no"> </td>
-      <td class="no"> </td>
-      <td class="no"> </td>
       <td class="yes">✅</td>
-      <td class="No"> </td>
     </tr>
     <tr>
-      <td>Three (3) minute Pitch to Happy Hour Audience</td>
-      <td class="no"> </td>
-      <td class="no"> </td>
-      <td class="no"> </td>
-      <td class="no"> </td>
-      <td class="no"> </td>
-      <td class="yes">✅****</td>
-    </tr>
     <tr>
       <td>Complementary Tickets Included</td>
-      <td class="yes">1</td>
-      <td class="yes">1</td>
+      <td class="yes">0</td>
       <td class="yes">2</td>
-      <td class="yes">3</td>
-      <td class="yes">5</td>
       <td class="yes">3</td>
     </tr>
   </tbody>
 </table>
+<br/>
+* Gold Sponsor Shared Table - half table to be shared with another Gold Sponsor
+<br/>
+A number of add-ons are available for additional engagement.
 <hr/>
-* Community Sponsor (see below)
-** Media Sponsor (see below)
-*** Gold Sponsor Shared Table - half table to be shared with another Gold Sponsor
-**** Happy Hour Pitch - 3 minute pitch during Happy Hour (end of Day 1)
 
-### Community Sponsor
+## Core Sponsorship Levels
 
-The community sponsorship is ideal for local meetups, co-working spaces, and
-other communities who support DevOps. This sponsorship is free, we just ask
-that you share information about DevOpsDays Baltimore with your community
-members in order to become a Community Sponsor.
+### Digital Only, $1500
 
-- Discount code to share with your Community members (10% off General Admission
-  tickets)
-- 1 Complementary ticket to the conference (redeemable after sharing about
-  DevOpsDays on at least one medium: LinkedIn, email, Meetup.com, etc.)
 - Logo on shared slide, rotating during breaks
 - Logo on DevOpsDays Baltimore event website
-- [**Become a Community Sponsor**](<https://docs.google.com/forms/d/e/1FAIpQLSc_RbXagxmoh-Yfp28ytvBH-AAwCp-MT4xXD7u_ZuIvU9H6wQ/viewform?usp=sf_link)>).
-
-### Media Sponsors
-
-The media sponsorship is ideal for podcasts, blogs, news outlets, and other
-media who support DevOps. This sponsorship is free but we ask that you share
-information about DevOpsDays Baltimore with your audience in order to become a
-Media Sponsor.
-
-- Discount code to share with your Audience members (10% off General Admission
-  tickets)
-- 1 Complementary ticket to the conference (redeemable after sharing about
-  DevOpsDays on at least one medium: LinkedIn, email, Meetup.com, etc.)
-- Logo on shared slide, rotating during breaks
-- Logo on DevOpsDays Baltimore event website
-- [**Become a Media Sponsor**](https://docs.google.com/forms/d/e/1FAIpQLSc_RbXagxmoh-Yfp28ytvBH-AAwCp-MT4xXD7u_ZuIvU9H6wQ/viewform?usp=sf_link).
-
-### Silver Sponsors
-
-- 2 Complementary tickets to the conference
-- Logo on shared slide, rotating during breaks
-- Logo on DevOpsDays Baltimore event website
+- Shout-out on LinkedIn
+- Cost friendly option for those who don't want to staff an event
 - [**Become a Silver Sponsor**](https://docs.google.com/forms/d/e/1FAIpQLSc_RbXagxmoh-Yfp28ytvBH-AAwCp-MT4xXD7u_ZuIvU9H6wQ/viewform?usp=sf_link).
 
-### Gold Sponsors
+### Gold, $3500
 
-- All benefits of Silver sponsors
+- All benefits of Digital sponsors
 - Logo on all email communication
-- 1 additional ticket, 3 in total
+- 2 Complimentary tickets to the conference
 - Shared table for Swag and Marketing (shared with another Gold Sponsor)
 - [**Become a Gold Sponsor**](https://docs.google.com/forms/d/e/1FAIpQLSc_RbXagxmoh-Yfp28ytvBH-AAwCp-MT4xXD7u_ZuIvU9H6wQ/viewform?usp=sf_link).
 
-### Platinum Sponsors
+### Platinum, $6000
 
 - All benefits of Gold sponsors
-- 1 minute pitch to full conference audience
-- 2 additional tickets, 5 in total
+- 1 minute direct pitch to full conference audience
+- 1 additional ticket, 3 in total
 - Full table for swag/marketing/staffing
 - [**Become a Platinum Sponsor**](https://docs.google.com/forms/d/e/1FAIpQLSc_RbXagxmoh-Yfp28ytvBH-AAwCp-MT4xXD7u_ZuIvU9H6wQ/viewform?usp=sf_link).
 
-### Happy Hour (Add-On - 1 Available)
+_**Sponsor Cancellation Policy**_: If you need to adjust or cancel your sponsorship,
+please email {{< email_organizers >}}. We will consider partial sponsor refunds
+based on the nature and timing of your request.
+
+## Sponsorship Add-ons
+
+### Happy Hour Sponsor
 
 Conference attendees are invited to stick around for Happy Hour (food and
 drinks) after the first day of the conference. We will invite other members of
 the Baltimore Tech Community to join us, space permitting.
 
-- 3 additional Complementary tickets to the conference
-- Logo on shared slide, rotating during breaks
-- Logo on DevOpsDays Baltimore event website
+- $4500, limited to a single sponsor
+- Logo on dedicated happy-hour slide, rotating during breaks
 - Full Table during Happy Hour for Swag/Marketing
-- Dedicated table for swag during Happy Hour
 - 3 minute pitch to Happy Hour attendees
 
-_Sponsor Cancellation Policy_: If you need to adjust or cancel your sponsorship,
-please email {{< email_organizers >}}. We will consider partial sponsor refunds
-based on the nature and timing of your request.
+### Lunch Sponsor
+
+- Special shoutout by emcee before dismissing group to lunch
+- Optional: Provide us 300+ 1" stickers and we will attach them to our lunch option
+- $2500 for 1 day of conference, 2 sponsorships available
+
+### Snacks Sponsor
+
+- Special shoutout by emcee before first snack break of each day
+- Printed logo on sign at all snack stands
+- Optional: Provide us 1000+ 2" stickers and we will put them on snack packaging during the enent
+- $2000, limited to a single sponsor
+
+### T-Shirt Sponsor
+
+- Your monochrome logo on the sleve of the shirts provided to every attendee
+- $3500, limited to a single sponsor
+
+### Lanyard Sponsor
+
+- Your logo on all the lanyards provided to attendees
+- $2000, limited to a single sponsor
 
 <hr/>

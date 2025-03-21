@@ -4,7 +4,8 @@ city: "Baltimore" # The displayed city name of the event. Capitalize it.
 cancel: "false" # Prevents from showing as TBD when canceled
 description: "DevOpsDays Baltimore 2025" # Edit this to suit your preferences
 gtm_tracking_id: "G-354CWBXNWF" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
-masthead_background: "bmore_skyline_inner_harbor.jpg"
+
+masthead_background: "masthead.png"
 
 # All dates are in unquoted 2024-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2019-01-04T00:00:00+02:00
@@ -24,14 +25,14 @@ cfp_link: "https://talks.devopsdays.org/devopsdays-baltimore-2025/cfp" #if you h
 registration_date_start: #2024-02-28 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 registration_date_end: #2024-05-22 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
-registration_closed: "true" #set this to true if you need to manually close registration before your registration end date
-registration_link: #"https://tickets.devopsdays.org/devopsdays-baltimore/2025/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
-sharing_image: "sharing.jpg"
+registration_closed: "false" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://tickets.devopsdays.org/devopsdays-baltimore/2025/"
+sharing_image: "logo.png"
 
 # Custom Links
 slack_link: "http://baltimoretechslack.com/"
-#sponsor_faq_link: "https://docs.google.com/document/d/1luCJTEva87ORuGPPjBBqDecTopI1XqzFkSGk1MMShYI/edit?usp=sharing"
-#sponsor_registration_link: "https://forms.gle/sjdEgWhLQ5gxAw7Y6"
+sponsor_faq_link: "https://docs.google.com/document/d/1g7yjX3rhiK93x5FOo6u7z1EnKXAlBFKL/edit?usp=sharing&ouid=109455848279006338205&rtpof=true&sd=true"
+sponsor_registration_link: "https://forms.gle/WXGM4TbKJTEmXDqG8"
 
 # Location
 #
@@ -42,10 +43,10 @@ location_address: "320 W 29th St #200., Baltimore, MD 21211"
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
   - name: location
- # - name: registration
+  - name: registration
  # - name: program
  # - name: speakers
- # - name: sponsor
+  - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
@@ -57,7 +58,6 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 team_members: # Name is the only required field for team members.
   - name: "Charles Bushong"
     employer: "Defense Unicorns"
-    twitter: "totalnerd"
     github: "bushong1"
     linkedin: "https://www.linkedin.com/in/charles-bushong"
     image: "charles-bushong.jpg"
@@ -104,15 +104,10 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: platinum
     label: Platinum
-    max: 10
   - id: gold
     label: Gold
-  - id: silver
-    label: Silver
-  - id: media
-    label: Media
-  - id: community
-    label: Community
-  - id: happyhour
-    label: Happy Hour
-    max: 1
+  - id: digital
+    label: Digital Only
+  - id: addon
+    label: Add-on
+    max: 10
