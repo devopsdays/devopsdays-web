@@ -12,8 +12,8 @@ masthead_background: "background.jpg"
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: 2025-09-13T09:00:00-03:00
-enddate: 2025-09-13T19:00:00-03:00
+startdate: 2025-09-20T09:00:00-03:00
+enddate: 2025-09-20T19:00:00-03:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 # cfp_date_start: "2024-08-01T00:00:00-03:00" #2019-09-17T00:09:00-03:00 # start accepting talk proposals.
