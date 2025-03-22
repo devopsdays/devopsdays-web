@@ -72,7 +72,7 @@ sponsors:
     level: gold
   - id: labyrinthlabs
     level: gold
-  - id: A1
+  - id: exoscale
     level: gold
   - id:  hackihub
     level: community
@@ -182,3 +182,15 @@ program:
     date: 2025-05-22
     start_time: "17:30"
     end_time: "?"
+
+ignites:
+  - title: ""
+    date: 2025-05-22
+  - title: ""
+    date: 2025-05-22
+  - title: ""
+    date: 2025-05-22
+  - title: ""
+    date: 2025-05-22
+  - title: ""
+    date: 2025-05-22
