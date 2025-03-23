@@ -1,8 +1,8 @@
 name: "2025-sibiu" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2025" # The year of the event. Make sure it is in quotes.
-city: "sibiu" # The displayed city name of the event. Capitalize it.
-event_twitter: "devopsdays" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "Devopsdays is coming to sibiu!" # Edit this to suit your preferences
+city: "Sibiu" # The displayed city name of the event. Capitalize it.
+event_twitter: "Devopsdays" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays is coming to Sibiu!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 event_logo: "/events/2024-sibiu/logo-square.jpg" # TODO: for some reason this does not work
 sharing_image: "logo.png"
@@ -91,11 +91,23 @@ organizer_email: "sibiu@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: samplesponsorname
-    level: gold
+  # - id: samplesponsorname
+  #   level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  - id: arresteddevops
-    level: community
+  - id: sibiu-it-cluster
+    level: gold
+  - id: swiss-web-academy
+    level: gold
+  - id: sibiu-visma
+    level: gold
+  - id: skylite-tek
+    level: gold
+#  - id: agile-network-technologies
+#    level: gold
+#  - id: agile-freaks
+#    level: gold
+  - id: general-engineering--management-solutions
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
