@@ -6,7 +6,7 @@ description: "Devopsdays is coming to Sibiu!" # Edit this to suit your preferenc
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 event_logo: "/events/2024-sibiu/logo-square.jpg" # TODO: for some reason this does not work
 sharing_image: "logo.png"
-masthead_background: "banner.png"
+masthead_background: "sibiu-header.png"
 
 # All dates are in unquoted 2025-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2019-01-04T00:00:00+02:00
@@ -230,11 +230,10 @@ program:
     background_color: "#B4C6E7"
 
   - title: "Talk Speaker to be confirmed"
-    type: custom
+    type: talk
     date: 2025-05-23T00:00:00+03:00
     start_time: "11:15"
     end_time: "12:00"
-    background_color: "#ffb566"
 
   - title: "Lunch Break"
     date: 2025-05-23T00:00:00+03:00

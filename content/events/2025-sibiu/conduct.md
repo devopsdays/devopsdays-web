@@ -25,4 +25,4 @@ Conference staff can be identified by distinct staff badges. Conference staff wi
 
 We expect participants to follow these rules at conference and workshop venues and conference-related social events.
 
-_The devopsdays sibiu 2025 Code of Conduct is based on [confcodeofconduct.com](https://confcodeofconduct.com)._ 
+_The devopsdays Sibiu 2025 Code of Conduct is based on [confcodeofconduct.com](https://confcodeofconduct.com)._ 
