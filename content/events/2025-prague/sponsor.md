@@ -42,8 +42,8 @@ Gold sponsors get a big table and Silver sponsors a small table where they can i
   <tr>
     <td>Number available</td>
     <td bgcolor="#d9ead3">∞</td>
-    <td bgcolor="#d9ead3">4</td>
-    <td bgcolor="#d9ead3">10</td>
+    <td bgcolor="#d9ead3">SOLD OUT</td>
+    <td bgcolor="#d9ead3">8</td>
     <td bgcolor="#d9ead3">∞</td>
     <td bgcolor="#d9ead3">1</td>
   </tr>
