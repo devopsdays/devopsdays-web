@@ -11,7 +11,7 @@ Description = "DevOpsDays Zurich 2026"
   </div>
   <div class="col-sm-6 text-center p-2">
     <iframe src="https://player.vimeo.com/video/1068553160?h=935e4fa3fe?autoplay=1&muted=1" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="float:bottom"></iframe>
-    <br/>Impressions from 2024
+    <br/>Impressions from 2025
   </div>  
 </div>
 <div class="row">
@@ -25,7 +25,7 @@ Description = "DevOpsDays Zurich 2026"
     <a href="https://www.devopsdays.org/events/2021-zurich/welcome/">DevOpsDays 2021 - DevOpsDays Zurich is stronger than COVID</a><br/>
     <a href="https://www.devopsdays.org/events/2022-zurich/welcome/">DevOpsDays 2022 - Back to normal</a><br/>
     <a href="https://www.devopsdays.org/events/2023-zurich/welcome/">DevOpsDays 2023 - Together for a Sustainable Future!</a><br/>
-    <a href="https://www.devopsdays.org/events/2024-zurich/welcome/">DevOpsDays 2024 - To boldly go where no one has gone before</a>
+    <a href="https://www.devopsdays.org/events/2024-zurich/welcome/">DevOpsDays 2024 - To boldly go where no one has gone before</a><br/>
     <a href="https://www.devopsdays.org/events/2025-zurich/welcome/">DevOpsDays 2025 - Flowers in Spring</a>
     </br>
   </div>
