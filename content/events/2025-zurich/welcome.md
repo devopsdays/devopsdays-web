@@ -6,11 +6,17 @@ Description = "DevOpsDays Zurich 2025"
 +++
 
 <div class="row align-items-center">
-  <div class="col-sm-6 text-center p-2">
+  <div class="col-sm-5 text-center p-2">
     {{< event_logo >}}
   </div>
-  <div class="col-sm-6 text-center p-2">
-    <iframe src="https://player.vimeo.com/video/1068553160?h=935e4fa3fe?autoplay=1&muted=1" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="float:bottom"></iframe>
+  <div class="col-sm-7 text-center p-2">
+    <iframe 
+      src="https://player.vimeo.com/video/1068553160?h=935e4fa3fe?autoplay=1&muted=1" 
+      frameborder="0" 
+      allow="autoplay; fullscreen; picture-in-picture" 
+      allowfullscreen 
+      style="width: 100%; height: 300px; max-width: 100%;">
+    </iframe>
     <br/>Impressions from 2025
   </div>  
 </div>
