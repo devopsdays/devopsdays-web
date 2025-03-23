@@ -13,8 +13,8 @@ masthead_background: "banner.png"
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2025-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate:  "2025-05-22"
-enddate:  "2025-05-23"
+startdate:  2025-05-22T00:00:00+03:00
+enddate:  2025-05-23T00:00:00+03:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  # start accepting talk proposals.
@@ -40,8 +40,8 @@ location_address: "Sibiu, jud. Sibiu, Strada Ștrandului nr. 2B, Sibiu 550068, V
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
   - name: location
- # - name: registration
- # - name: program
+  - name: registration
+  - name: program
  # - name: speakers
   - name: sponsor
   - name: contact
@@ -126,3 +126,157 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+
+
+program:
+# DAY 1
+  - title: "Welcoming, Registration, Coffee"
+    type: custom
+    date: 2025-05-22T00:00:00+03:00
+    start_time: "09:00"
+    end_time: "10:00"
+
+  - title: "Opening Speech from the Organisers"
+    date: 2025-05-22T00:00:00+03:00
+    start_time: "10:00"
+    end_time: "10:15"
+
+  - title: "Talk Speaker to be confirmed"
+    type: talk
+    date: 2025-05-22T00:00:00+03:00
+    start_time: "10:15"
+    end_time: "11:00"
+
+  - title: "Coffee Break & Networking"
+    date: 2025-05-22T00:00:00+03:00
+    start_time: "11:00"
+    end_time: "11:15"
+    background_color: "#B4C6E7"
+
+  - title: "Talk Speaker to be confirmed "
+    type: talk
+    date: 2025-05-22T00:00:00+03:00
+    start_time: "11:15"
+    end_time: "12:00"
+
+  - title: "Lunch Break"
+    date: 2025-05-22T00:00:00+03:00
+    start_time: "12:00"
+    end_time: "13:00"
+    background_color: "#B4C6E7"
+
+  - title: "Talk Speaker to be confirmed"
+    type: talk
+    date: 2025-05-22T00:00:00+03:00
+    start_time: "13:00"
+    end_time: "13:45"
+
+  - title: "Coffee Break & Networking"
+    date: 2025-05-22T00:00:00+03:00
+    start_time: "13:45"
+    end_time: "14:00"
+    background_color: "#B4C6E7"
+
+  - title: "Workshop Round 1"
+    type: custom
+    date: 2025-05-22T00:00:00+03:00
+    start_time: "14:15"
+    end_time: "15:30"
+    background_color: "#ffb566"
+
+  - title: "Coffee Break & Networking"
+    date: 2025-05-22T00:00:00+03:00
+    start_time: "15:30"
+    end_time: "15:45"
+    background_color: "#B4C6E7"
+
+  - title: "Workshop Round 2"
+    type: custom
+    date: 2025-05-22T00:00:00+03:00
+    start_time: "16:00"
+    end_time: "17:15"
+    background_color: "#ffb566"
+
+  - title: "Short Q&A and Closing of the Day"
+    date: 2025-05-22T00:00:00+03:00
+    start_time: "17:15"
+    end_time: "17:30"
+    background_color: "#c3ffd7"
+
+# DAY 2
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2025-05-23T00:00:00+03:00
+    start_time: "09:00"
+    end_time: "10:00"
+
+  - title: "Recap and introduction of the day"
+    type: custom
+    date: 2025-05-23T00:00:00+03:00
+    start_time: "10:00"
+    end_time: "10:15"
+
+  - title: "Moderated Panel"
+    type: custom
+    date: 2025-05-23T00:00:00+03:00
+    start_time: "10:15"
+    end_time: "11:00"
+    background_color: "#F8E7F6"
+
+  - title: "Coffee Break & Networking"
+    date: 2025-05-23T00:00:00+03:00
+    start_time: "11:00"
+    end_time: "11:15"
+    background_color: "#B4C6E7"
+
+  - title: "Talk Speaker to be confirmed"
+    type: custom
+    date: 2025-05-23T00:00:00+03:00
+    start_time: "11:15"
+    end_time: "12:00"
+    background_color: "#ffb566"
+
+  - title: "Lunch Break"
+    date: 2025-05-23T00:00:00+03:00
+    start_time: "12:00"
+    end_time: "13:00"
+    background_color: "#B4C6E7"
+
+  - title: "Moderated Panel"
+    type: custom
+    date: 2025-05-23T00:00:00+03:00
+    start_time: "13:00"
+    end_time: "13:45"
+    background_color: "#F8E7F6"
+
+  - title: "Coffee Break & Networking"
+    date: 2025-05-23T00:00:00+03:00
+    start_time: "13:45"
+    end_time: "14:00"
+    background_color: "#B4C6E7"
+
+  - title: "Workshop Round 3"
+    type: custom
+    date: 2025-05-23T00:00:00+03:00
+    start_time: "14:15"
+    end_time: "15:30"
+    background_color: "#ffb566"
+
+  - title: "Coffee Break & Networking"
+    date: 2025-05-23T00:00:00+03:00
+    start_time: "15:30"
+    end_time: "15:45"
+    background_color: "#B4C6E7"
+
+  - title: "Workshop Round 4"
+    type: custom
+    date: 2025-05-23T00:00:00+03:00
+    start_time: "16:00"
+    end_time: "17:15"
+    background_color: "#ffb566"
+
+  - title: "Closing of the event"
+    type: custom
+    date: 2025-05-23T00:00:00+03:00
+    start_time: "17:15"
+    end_time: "17:30"
