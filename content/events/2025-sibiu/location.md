@@ -1,7 +1,7 @@
 +++
 Title = "Location"
 Type = "event"
-Description = "Location for devopsdays Sibiu 2025"
+Description = "Location for Devopsdays Sibiu 2025"
 +++
 
 Watch this space for information about the venue including address, map/direction, parking/transit, and any hotel details.
@@ -22,6 +22,23 @@ This event will be taking place at
     <adress>
     Sibiu, jud. Sibiu<br/>
     Visma Sibiu<br/>
-    Strada Avocat Macelaru Ilie 557260<br/>
+    Strada Ștrandului nr. 2B 550068<br/>
     </adress>
 </a>
+
+<br></br>
+<div> <b>How to get there:</b>
+
+  <div>
+    From the Airport:
+  </div>
+
+  <div>
+    From Aeroportul International Sibiu you can reach Visma HQ by taxi, Uber, Bolt or bus (no. 11 or no. 17). It’s a 12-20 minutes ride, depending on the means of transportation and traffic.
+  </div>
+
+  <div>
+    From anywhere else in the city you can reach Visma by foot (especially if you are in the city centre), taxi, Uber, Bolt or bus. Please check Google Maps for directions.
+  </div>
+
+</div>
