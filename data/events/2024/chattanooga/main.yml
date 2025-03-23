@@ -77,7 +77,19 @@ sponsors:
   # - id: arresteddevops
   #   level: community
   - id: chatech
+    level: partner
+  - id: tva
     level: gold
+  - id: bcbst
+    level: gold
+  - id: tek-systems
+    level: silver
+  - id: chattanooga-area-chamber
+    level: partner
+  - id: chatt-state
+    level: partner
+  - id: troopers-treasures
+    level: partner
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -96,3 +108,5 @@ sponsor_levels:
     max: 10
   - id: bronze
     label: Bronze
+  - id: partner
+    label: Partner

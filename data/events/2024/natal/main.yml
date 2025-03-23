@@ -20,7 +20,7 @@ cfp_date_start:  # start accepting talk proposals.
 cfp_date_end:  # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://talks.devopsdays.org/devopsdays-natal-2024/cfp" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
@@ -41,9 +41,10 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     icon: "map-o"
     url: /events/2024-natal/location
 
-  # - name: Chamadas (CFP)
-  #   icon: "paper-plane-o"
-  #   url: /events/2024-natal/propose
+  - name: Chamadas (CFP)
+    icon: "paper-plane-o"
+    # url: /events/2024-natal/propose
+    url: https://talks.devopsdays.org/devopsdays-natal-2024/cfp
 
   # - name: inscrições
   #   icon: "ticket"
@@ -57,9 +58,11 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   #   icon: "microphone"
   #   url: /events/2024-natal/speakers
 
-  # - name: patrocínio
-  #   icon: "money"
-  #   url: /events/2024-natal/sponsor
+  - name: patrocínio
+    icon: "money"
+    url: /events/2024-natal/sponsor
+    
+  - name: speakers
 
   - name: código de conduta
     icon: "handshake-o"
@@ -72,7 +75,6 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: location
  # - name: registration
  # - name: program
- # - name: speakers
  # - name: sponsor
  # - name: contact
  # - name: conduct
@@ -84,7 +86,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Luan Carlos"
-    employer: "Gupy"
+    employer: "Mercado Eletrônico"
     twitter: "luancarlos021"
     github: "luancarlos021"
     linkedin: "https://www.linkedin.com/in/luan-carlos/"
@@ -108,7 +110,7 @@ team_members: # Name is the only required field for team members.
 
   - name: "Emídio Neto"
     pronouns: "Ele/Dele"
-    employer: "Zenvia"
+    employer: "PicPay"
     bio: "Ao longo dos últimos anos, tenho me dedicado a ajudar as empresas a melhorar a escalabilidade e confiabilidade das suas aplicações e infraestruturas de larga escala na cloud."
     github: "emdneto"
     linkedin: "https://www.linkedin.com/in/emidioneto/"
@@ -117,8 +119,8 @@ team_members: # Name is the only required field for team members.
 
   - name: "Ariane Corrêa"
     pronouns: "Ela/Dela"
-    employer: ""
-    bio: ""
+    employer: "Celero"
+    bio: "Sou uma acriana vivendo em Natal, RN. Estudo Análise e Desenvolvimento de Sistemas no IFRN e tenho cinco anos de experiência em desenvolvimento de software. Além da tecnologia, sou praticante de pole sport e adoro dançar forró. Sou fã de um bom café e valorizo momentos com a familia e amigos."
     github: "arianesc"
     linkedin: "https://www.linkedin.com/in/ariane-silveira/"
     website: ""
@@ -126,8 +128,8 @@ team_members: # Name is the only required field for team members.
   
   - name: "Ivan Álisson C N Lima"
     pronouns: "Ele/Dele"
-    employer: ""
-    bio: "Ao longo dos últimos anos, tenho me dedicado a ajudar as empresas a melhorar a escalabilidade e confiabilidade das suas aplicações e infraestruturas de larga escala na cloud."
+    employer: "Invillia"
+    bio: "Formado em TI e especialista em Business Intelligence e Analytics pela UFRN e TRE/RN. Tenho paixão por tecnologia, pesquisa e ensino."
     github: "bombermal"
     linkedin: "https://www.linkedin.com/in/ivanalisson/"
     website: ""
@@ -135,23 +137,55 @@ team_members: # Name is the only required field for team members.
 
   - name: "Cassius Clay"
     pronouns: "Ele/Dele"
-    employer: "Ubiratã"
+    employer: ""
     bio: "Formado em Tecnologia em Redes de Computadores pelo IFRN e pós-graduado em Computação em Nuvem pela PUC-Minas, sou apaixonado por Star Wars e transito por diversas tribos sociais. Vivo a tecnologia há 7 anos, com uma trajetória em suporte, administração de sistemas, SRE e, atualemente, atuo como Engenheiro de DevOps. Busco colaborar para o desenvolvimento de tecnologias que impactem positivamente a vida das pessoas."
     github: "CassiusClayB"
     linkedin: "https://www.linkedin.com/in/cassius-clay-filho/"
     website: "https://medium.com/@cassiussilvafilho"
     image: "cassius-clay.jpeg"
 
+  - name: "Clara Nobre"
+    pronouns: "Ela/Dela"
+    employer: "Conta Simples"
+    bio: "Pós Graduada em Cybersecurity e Cyber Forensics, atualmente trabalhando como Engenheira DevSecOps na Conta Simples e entusiasta em compartilhar conhecimento. Coordenadora da Comunidade Software Livre Potiguar (Potilivre) e cofundadora do Pyladies Brasil. Participo e coordeno comunidades das minhas áreas de interesse: Segurança da Informação, Redes Sensores sem Fio, Python, Cloud Computing, Software Livre, Hardware Livre, BioHacking e também defendo que pessoas > tecnologia."
+    github: "claranobre"
+    twitter: "_claranobre"
+    linkedin: "https://www.linkedin.com/in/claranobre/"
+    image: "clara-nobre.jpg"
+
+  - name: "Frederico Pranto"
+    pronouns: "Ele/Dele"
+    employer: "TCE-RN"
+    bio: "Mestre e Doutorando em Sistemas e Computação pela UFRN, Analista de Controle Externo na área de TI no TCE/RN e Pesquisador Convidado - IMD/UFRN. Atuando como responsável pelas ações de DevOps no TCE-RN."
+    github: "fredericopranto"
+    twitter: "fredericopranto"
+    linkedin: "https://www.linkedin.com/in/fredericopranto/"
+    image: "frederico-pranto.jpg"
+
+  - name: "Mateus Freire"
+    pronouns: "Ele/Dele"
+    employer: "SpiritSec"
+    bio: "Sou um explorador das redes de computadores e um eterno curioso que adora meter a mão na massa (ou no código). Como entusiasta de DevOps, vivo tentando automatizar até a máquina de café. Sempre pronto para colaborar com as comunidades de software livre, acredito que compartilhar é multiplicar."
+    github: ""
+    twitter: ""
+    linkedin: "https://www.linkedin.com/in/mateus-afreire"
+    image: "mateus-freire.jpg"
+
 organizer_email: "natal@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
-# sponsors:
-#   - id: samplesponsorname
-#     level: gold
-#  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-#   - id: arresteddevops
-#     level: community
+sponsors:
+  - id: novatec
+    level: community
+  - id: 3dcomtech
+    level: community
+  - id: cloud-plusplus
+    level: platinum
+  - id: guia-foca-linux
+    level: startup
+
+ #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 

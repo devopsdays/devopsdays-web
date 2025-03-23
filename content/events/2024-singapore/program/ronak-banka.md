@@ -7,8 +7,8 @@ talk_end_time = "14:20"
 Title = "Tracing Matters!"
 Type = "talk"
 Speakers = ["ronak-banka"]
-youtube = ""
-speakerdeck = ""
+youtube = "qXoZ2P7t1TI"
+speakerdeck = "https://speakerdeck.com/devopsdayssg/tracing-matters-by-ronak-banka"
 +++
 
 ### Ignite

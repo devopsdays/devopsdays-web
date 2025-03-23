@@ -7,8 +7,8 @@ talk_end_time = "10:30"
 Title = "AI-Generated Code: Unmasking the Security Pitfalls"
 Type = "talk"
 Speakers = ["lawrence-crowther"]
-youtube = ""
-speakerdeck = ""
+youtube = "GYYWMSvzCdo"
+speakerdeck = "https://speakerdeck.com/devopsdayssg/ai-generated-code-unmasking-the-security-pitfalls-by-lawrence-crowther"
 sharing_image = "2024-lawrence-crowther.jpg"
 +++
 AI’s influence on programming and software development is undeniable, offering efficiency, automation, and advanced capabilities. Yet, there lies a shadow realm of security challenges, some known and others yet to be discovered.

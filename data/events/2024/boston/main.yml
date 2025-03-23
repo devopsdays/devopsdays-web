@@ -102,13 +102,19 @@ sponsors:
   - id: observe
     level: platinum
   - id: oodleai
-    level: platinum
+    level: startupalley
   - id: scaleops
     level: platinum
   - id: observe
     level: snacks
   - id: atomiccoffeeroasters
     level: coffee
+  - id: dryrun-security
+    level: startupalley
+  - id: groundcover
+    level: platinum
+  - id: qmcloud
+    level: startupalley
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -140,8 +146,8 @@ program:
     date: 2024-10-21
     start_time: "9:15"
     end_time: "9:30"
-  - title: "Coming soon!"
-    type: custom
+  - title: "sara-gerion"
+    type: talk
     date: 2024-10-21
     start_time: "9:30"
     end_time: "10:00"
@@ -227,12 +233,12 @@ program:
     date: 2024-10-22
     start_time: "9:15"
     end_time: "9:30"
-  - title: "sara-gerion"
+  - title: "sanjita-gupta"
     type: talk
     date: 2024-10-22
     start_time: "9:30"
     end_time: "10:00"
-  - title: "sanjita-gupta"
+  - title: "kanish-sharma"
     type: talk
     date: 2024-10-22
     start_time: "10:05"
@@ -257,8 +263,8 @@ program:
     date: 2024-10-22
     start_time: "12:00"
     end_time: "13:30"
-  - title: "kanish-sharma"
-    type: talk
+  - title: "Lightning Talks"
+    type: custom
     date: 2024-10-22
     start_time: "13:30"
     end_time: "14:00"

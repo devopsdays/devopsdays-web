@@ -35,19 +35,20 @@ location: "Chicago" # Defaults to city, but you can make it the venue name.
 location_address: "233 S Wacker Dr, Chicago, IL 60606" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
-    url: https://talks.devopsdays.org/devopsdays-chicago-2025/cfp
+#  - name: propose
+#    url: https://talks.devopsdays.org/devopsdays-chicago-2025/cfp
   - name: location
   - name: registration
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
+  - name: Health and Safety Policy
+    url: /events/2025-chicago/health-and-safety
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
-
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
@@ -110,6 +111,7 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/mattstratton"
     github: "mattstratton"
     mastodon: "https://hachyderm.io/@mattstratton"
+    bluesky: "https://bsky.app/profile/matty.wtf"
     bio: "Matty Stratton is the Director of Developer Relations at [Aiven](https://aiven.io) and the founder and co-host of the popular [Arrested DevOps](https://www.arresteddevops.com/) podcast. Matty has over 20 years of experience in IT operations and is a sought-after speaker internationally, presenting at Agile, DevOps, and cloud engineering focused events worldwide. Demonstrating his keen insight into the changing landscape of technology, he recently changed his license plate from `DEVOPS` to `KUBECTL`. He lives in Chicago and has three awesome kids and two Australian Shepherds, whom he loves just a little bit more than he loves Diet Coke."
   - name: "Hari Vedam"
     image: "hari-vedam.jpg"
@@ -163,12 +165,72 @@ sponsors:
     level: gold
   - id: nvisia
     level: gold
+  - id: harness
+    level: gold  
+  - id: relativity
+    level: gold
+  - id: fusion-auth
+    level: gold
+  - id: cortex
+    level: gold
+  - id: akamai
+    level: gold
+  - id: bellsoft
+    level: gold
+  - id: focusedlabs
+    level: gold
+  - id: couchbase
+    level: gold
+  - id: checkmarx
+    level: gold
+  - id: loft-labs
+    level: gold
+  - id: gitlab
+    level: gold
+  - id: spacelift
+    level: gold
+  - id: sumologic
+    level: gold
+  - id: castai
+    level: gold
+  - id: komodor
+    level: gold
+  - id: last9
+    level: gold
+  - id: discover
+    level: gold
+  - id: postman
+    level: gold
+  - id: zesty
+    level: gold
+  - id: hashicorp
+    level: gold
+  - id: peoplecert
+    level: gold
+  - id: fairwinds
+    level: bronze
+  - id: lightrun
+    level: bronze
   - id: arresteddevops
     level: community
   - id: kubecareers
     level: community
   - id: kubeevents
     level: community
+  - id: chicago-devops
+    level: community
+  - id: awschicago_ugroup
+    level: community
+  - id: prarie-postgres
+    level: community
+  - id: chicago-pug
+    level: community
+  - id: iitcoc
+    level: community
+  - id: ace-chicago
+    level: community
+  - id: postman
+    level: lanyard
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -179,11 +241,14 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: platinum
     label: Platinum
-    max: 2
+    max: 1
   - id: gold
     label: Gold
-#    max: 10
+    max: 10
   - id: bronze
     label: Bronze
   - id: community
     label: Community
+  - id: lanyard
+    label: Lanyard
+    max: 1

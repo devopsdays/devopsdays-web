@@ -186,8 +186,8 @@
                                 <a href='{{ (printf "/events/%s/program/%s" $e.name .title) }}'>{{ $.Scratch.Get (printf "%s-speaker" .title) }} - {{ $.Scratch.Get .title }}</a><br/>
                               {{- end -}}
                               {{- if eq  ($.Scratch.Get "icons")  "TRUE" -}}
-                                {{- with ($.Scratch.Get (printf "%s-video_link" .title)) -}}&nbsp;<a href="{{ . }}"><i class="fa fa-video-camera" aria-hidden="true"></i></a>&nbsp;{{- end -}}
-                                {{- with ($.Scratch.Get (printf "%s-slides_link" .title)) -}}&nbsp;<a href="{{ . }}"><i class="fa fa-file-text-o" aria-hidden="true"></i></a>&nbsp;{{- end -}}
+                                {{- with ($.Scratch.Get (printf "%s-video_link" .title)) -}}&nbsp;<a href="{{ . }}"><i class="fa-solid fa-video" aria-hidden="true"></i>&nbsp;Video</a>&nbsp;{{- end -}}
+                                {{- with ($.Scratch.Get (printf "%s-slides_link" .title)) -}}&nbsp;<a href="{{ . }}"><i class="fa-regular fa-file-lines" aria-hidden="true"></i>&nbsp;Slides</a>&nbsp;</a>&nbsp;{{- end -}}
                               {{- end -}}                           
                                 {{- if .comments -}}
                                   <span class="program-page-desc">{{ .comments | markdownify }}<br/></span>
@@ -204,8 +204,9 @@
                                       <li>
                                         <a href="/events/{{ $e.name }}/program/{{ .title }}">{{ $.Scratch.Get (printf "%s-speaker" .title) }} - {{ $.Scratch.Get .title }}</a>
                                         {{- if eq  ($.Scratch.Get "icons")  "TRUE" -}}
-                                          {{- with ($.Scratch.Get (printf "%s-video_link" .title)) -}}&nbsp;<a href="{{ . }}"><i class="fa fa-video-camera" aria-hidden="true"></i></a>&nbsp;{{- end -}}
-                                          {{- with ($.Scratch.Get (printf "%s-slides_link" .title)) -}}&nbsp;<a href="{{ . }}"><i class="fa fa-file-text-o" aria-hidden="true"></i></a>&nbsp;{{- end -}}  
+                                        {{- with ($.Scratch.Get (printf "%s-video_link" .title)) -}}&nbsp;<a href="{{ . }}"><i class="fa-solid fa-video" aria-hidden="true"></i>&nbsp;Video</a>&nbsp;{{- end -}}
+                                        {{- with ($.Scratch.Get (printf "%s-slides_link" .title)) -}}&nbsp;<a href="{{ . }}"><i class="fa-regular fa-file-lines" aria-hidden="true"></i>&nbsp;Slides</a>&nbsp;</a>&nbsp;{{- end -}}  
+                                           
                                         {{- end -}}
       
                                       </li>
@@ -217,8 +218,8 @@
                                       <li>
                                         <a href="/events/{{ $e.name }}/program/{{ .title }}">{{ $.Scratch.Get (printf "%s-speaker" .title) }} - {{ $.Scratch.Get .title }}</a>
                                         {{- if eq  ($.Scratch.Get "icons")  "TRUE" -}}
-                                          {{- with ($.Scratch.Get (printf "%s-video_link" .title)) -}}&nbsp;<a href="{{ . }}"><i class="fa fa-video-camera" aria-hidden="true"></i></a>&nbsp;{{- end -}}
-                                          {{- with ($.Scratch.Get (printf "%s-slides_link" .title)) -}}&nbsp;<a href="{{ . }}"><i class="fa fa-file-text-o" aria-hidden="true"></i></a>&nbsp;{{- end -}}  
+                                        {{- with ($.Scratch.Get (printf "%s-video_link" .title)) -}}&nbsp;<a href="{{ . }}"><i class="fa-solid fa-video" aria-hidden="true"></i>&nbsp;Video</a>&nbsp;{{- end -}}
+                                        {{- with ($.Scratch.Get (printf "%s-slides_link" .title)) -}}&nbsp;<a href="{{ . }}"><i class="fa-regular fa-file-lines" aria-hidden="true"></i>&nbsp;Slides</a>&nbsp;</a>&nbsp;{{- end -}}  
                                         {{- end -}}
       
                                       </li>

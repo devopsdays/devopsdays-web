@@ -16,13 +16,13 @@ enddate: 2025-03-13T23:59:59+02:00 # The end date of your event. Leave blank if 
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2024-10-01T00:00:00+02:00 # start accepting talk proposals.
-cfp_date_end: 2025-01-15T23:59:59+02:00 # close your call for proposals.
+cfp_date_end: 2024-11-30T23:59:59+02:00 # close your call for proposals.
 cfp_date_announce: 2024-10-01T00:00:00+02:00 # inform proposers of status
 
-cfp_open: "false"
+cfp_open: "false" 
 cfp_link: "https://sessionize.com/devopsdays-zurich-2025/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: 2024-11-08T00:00:00+02:00
+registration_date_start: 2024-12-01T00:00:00+02:00
 registration_date_end: 2025-03-12T00:00:00+02:00
 
 registration_closed: "true" #set this to true if you need to manually close registration before your registration end date
@@ -35,14 +35,15 @@ location: "Alte Kaserne Winterthur" # Defaults to city, but you can make it the 
 #
 location_address: "Technikumstrasse 8, 8400 Winterthur, Switzerland" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
-nav_elements: # List of pages you want to show up in the navigation of your page.
-#  - name: propose
-#- name: program
-#- name: speakers
+nav_elements:
+# List of pages you want to show up in the navigation of your page.
+#- name: propose
+- name: program
+- name: speakers
 - name: location
-#- name: sponsor
+- name: sponsor
 - name: diversity
-  #- name: registration
+#- name: registration
 - name: contact
 - name: conduct
 # - name: example
@@ -51,7 +52,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 
 # These are the same people you have on the mailing list and Slack channel.
-team_members: # Name is the only required field for team members.
+team_members:
+# Name is the only required field for team members.
 - name: "Martin Thalmann"
   twitter: "martin_thalmann"
   employer: "monum GmbH"
@@ -110,13 +112,6 @@ team_members: # Name is the only required field for team members.
   facebook: ""
   linkedin: "https://www.linkedin.com/in/isabelschacher/"
   image: "isabel-schacher.jpg"
-- name: "Peter Schwaar"
-  bio: "<p>When I started my career in the mid-80s after studying computer science, waterfall methods with long and cumbersome requirement specifications, concept and implementation phases were common in software development. Unfortunately, at the end, customers and users were often not very satisfied with the solutions delivered! Therefore, I was definitely thrilled, when I came across the Scrum method in the early 90s and further, when I read beginning of 2010 several articles about the DevOps and SAFe. For me, these methodologies and principles closed the last methodology gaps within the entire software life cycle! Since over ten years now, I have successfully managed various medium and large DevOps-oriented software development projects as well as transformations of organizations into the agile world. In my current role as an “Independent Consultant” I am supporting and coaching Swiss customers in the transformation of their project and ICT organizations into the agile and DevOps-oriented world.</p>"
-  employer: "Independent Consultant"
-  github: ""
-  facebook: ""
-  linkedin: "https://www.linkedin.com/in/peter-schwaar-585563/"
-  image: "peter-schwaar.jpeg"
 - name: "Jan Moser"
   twitter: "JanMoser_78"
   employer: "TWINT"
@@ -137,18 +132,60 @@ organizer_email: "zurich@devopsdays.org" # Put your organizer email address here
 sponsors:
 - id: businessmap
   level: partner
+- id: hostpoint
+  level: partner
 - id: digicomp
+  level: partner
+- id: puresivefilms
   level: partner
 - id: powercoders
   level: community
 - id: belikegrace
   level: community
-- id: pygirls
-  level: community
 - id: girlscodetoo
   level: community
-- id: hostpoint
-  level: partner
+- id: infomaniak
+  level: gold
+- id: vshn
+  level: gold
+- id: bit
+  level: gold
+- id: redgate
+  level: gold
+- id: elastic
+  level: gold
+- id: infometis
+  level: silver
+- id: zkb
+  level: silver
+- id: 4data
+  level: silver
+- id: cloudscalech
+  level: event
+- id: exoscale
+  level: event
+- id: amanox
+  level: bronze
+- id: eficode
+  level: event
+- id: cognizant
+  level: bronze
+- id: dbi-services
+  level: bronze
+- id: checkmarx
+  level: bronze
+- id: infiniroot 
+  level: bronze
+- id: ciklum 
+  level: bronze
+- id: cloudbees 
+  level: bronze
+- id: datastore 
+  level: bronze
+- id: zesty
+  level: bronze
+- id: couchbase
+  level: bronze
 
 sponsors_accepted: "no" # Whether you want "Become a XXX Sponsor!" link
 
@@ -175,3 +212,270 @@ sponsor_levels:
 - id: partner
   label: Partner
   max: 0
+
+program:
+# Day 1
+- title: Registration & Welcome Coffee
+  type: custom
+  date: 2025-03-12
+  start_time: '8:00'
+  end_time: '9:00'
+
+- title: Opening
+  type: custom
+  date: 2025-03-12
+  start_time: '9:00'
+  end_time: '9:15'
+
+- title: marc-schuh
+  type: talk
+  date: 2025-03-12
+  start_time: '9:15'
+  end_time: '10:00'
+
+- title: lena-fuhrimann
+  type: talk
+  date: 2025-03-12
+  start_time: '10:00'
+  end_time: '10:30'
+
+- title: Break
+  type: custom
+  date: 2025-03-12
+  start_time: '10:30'
+  end_time: '11:00'
+
+- title: christina-kraus
+  type: talk
+  date: 2025-03-12
+  start_time: '11:00'
+  end_time: '11:30'
+
+- title: daniel-raniz-raneland
+  type: talk
+  date: 2025-03-12
+  start_time: '11:30'
+  end_time: '12:00'
+
+- title: robert-lehmann
+  type: talk
+  date: 2025-03-12
+  start_time: '12:00'
+  end_time: '12:30'
+
+- title: Lunch
+  type: custom
+  date: 2025-03-12
+  start_time: '12:30'
+  end_time: '14:00'
+
+- title: Opening Afternoon
+  type: custom
+  date: 2025-03-12
+  start_time: '14:00'
+  end_time: '14:10'
+
+- title: "Ignites"
+  type: ignite
+  date: 2025-03-12
+  start_time: '14:10'
+  end_time: '14:45'
+
+- title: Open Space Voting
+  type: custom
+  date: 2025-03-12
+  start_time: '14:45'
+  end_time: '15:15'
+
+- title: "Open Space Track 1"
+  type: open-space
+  date: 2025-03-12
+  start_time: '15:15'
+  end_time: '15:55'
+
+- title: "Open Space Track 2"
+  type: open-space
+  date: 2025-03-12
+  start_time: '16:00'
+  end_time: '16:40'
+
+- title: "Open Space Track 3"
+  type: open-space
+  date: 2025-03-12
+  start_time: '16:45'
+  end_time: '17:25'
+
+- title: alina-liburkina
+  type: workshop
+  date: 2025-03-12
+  start_time: '15:15'
+  end_time: '17:25'
+
+- title: thomas-krag
+  type: workshop
+  date: 2025-03-12
+  start_time: '15:15'
+  end_time: '17:25'
+
+- title: alvaro-revuelta-m
+  type: workshop
+  date: 2025-03-12
+  start_time: '15:15'
+  end_time: '17:25'
+
+- title: Closing Day 1
+  type: custom
+  date: 2025-03-12
+  start_time: '17:30'
+  end_time: '17:40'
+
+- title: Evening Event
+  type: custom
+  date: 2025-03-12
+  start_time: '17:40'
+  end_time: '23:00'
+
+# Day 2
+- title: Registration & Welcome Coffee
+  type: custom
+  date: 2025-03-13
+  start_time: '8:00'
+  end_time: '9:00'
+
+- title: Opening
+  type: custom
+  date: 2025-03-13
+  start_time: '9:00'
+  end_time: '9:15'
+
+- title: dorota-parad
+  type: talk
+  date: 2025-03-13
+  start_time: '9:15'
+  end_time: '10:00'
+
+- title: darko-fabijan
+  type: talk
+  date: 2025-03-13
+  start_time: '10:00'
+  end_time: '10:30'
+
+- title: Break
+  type: custom
+  date: 2025-03-13
+  start_time: '10:30'
+  end_time: '11:00'
+
+- title: pia-wiedermayer
+  type: talk
+  date: 2025-03-13
+  start_time: '11:00'
+  end_time: '11:30'
+
+- title: manisha-de
+  type: talk
+  date: 2025-03-13
+  start_time: '11:30'
+  end_time: '12:00'
+
+- title: bertrand-delacretaz
+  type: talk
+  date: 2025-03-13
+  start_time: '12:00'
+  end_time: '12:30'
+
+- title: Lunch
+  type: custom
+  date: 2025-03-13
+  start_time: '12:30'
+  end_time: '14:00'
+
+- title: Opening Afternoon
+  type: custom
+  date: 2025-03-13
+  start_time: '14:00'
+  end_time: '14:10'
+
+- title: "Ignites"
+  type: ignite
+  date: 2025-03-13
+  start_time: '14:10'
+  end_time: '14:45'
+
+- title: Open Space Voting
+  type: custom
+  date: 2025-03-13
+  start_time: '14:45'
+  end_time: '15:15'
+
+- title: "Open Space Track 1"
+  type: open-space
+  date: 2025-03-13
+  start_time: '15:15'
+  end_time: '15:55'
+
+- title: "Open Space Track 2"
+  type: open-space
+  date: 2025-03-13
+  start_time: '16:00'
+  end_time: '16:40'
+
+- title: "Open Space Track 3"
+  type: open-space
+  date: 2025-03-13
+  start_time: '16:45'
+  end_time: '17:25'
+
+- title: rabieh-fashwall
+  type: workshop
+  date: 2025-03-13
+  start_time: '15:15'
+  end_time: '17:25'
+
+- title: stefan-pezzei
+  type: workshop
+  date: 2025-03-13
+  start_time: '15:15'
+  end_time: '17:25'
+
+- title: marc-herren
+  type: workshop
+  date: 2025-03-13
+  start_time: '15:15'
+  end_time: '17:25'
+
+- title: Raffle & Closing Day 2
+  type: custom
+  date: 2025-03-13
+  start_time: '17:30'
+  end_time: '17:40'
+
+ignites:
+- title: "carmine-vassallo"
+  date: 2025-03-12
+- title: "marc-sallin"
+  date: 2025-03-12
+- title: "verena-traub"
+  date: 2025-03-12
+- title: "marcelo-ancelmo"
+  date: 2025-03-12
+- title: "alexander-ptakhin"
+  date: 2025-03-12
+- title: "sandra-czopek"
+  date: 2025-03-12
+- title: "peter-farkas"
+  date: 2025-03-12
+- title: "rasmus-lystrom"
+  date: 2025-03-13
+- title: "antonio-alvino"
+  date: 2025-03-13
+- title: "daiany-palacios"
+  date: 2025-03-13
+- title: "jonas-alder"
+  date: 2025-03-13
+- title: "marcel-britsch"
+  date: 2025-03-13
+- title: "kamali-wickramage"
+  date: 2025-03-13
+- title: "adam-zieba"
+  date: 2025-03-13

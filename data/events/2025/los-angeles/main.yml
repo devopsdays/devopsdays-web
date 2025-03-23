@@ -14,10 +14,10 @@ startdate: 2025-03-07T08:00:00-08:00 # The start date of your event. Leave blank
 enddate: 2025-03-07T22:00:00-08:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2025-08-20T00:00:00-08:00  # start accepting talk proposals.
-cfp_date_end:  2025-11-01T00:00:00-08:00 # close your call for proposals.
-cfp_date_announce: 2025-12-01T00:00:00-08:00 # inform proposers of status
-cfp_open: "true"
+cfp_date_start: 2024-08-20T00:00:00-08:00  # start accepting talk proposals.
+cfp_date_end:  2024-11-01T00:00:00-08:00 # close your call for proposals.
+cfp_date_announce: 2024-12-01T00:00:00-08:00 # inform proposers of status
+cfp_open: "false"
 
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
@@ -44,10 +44,9 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     url: https://register.socallinuxexpo.org/reg6/
   #- name: CFP
   #  url: https://www.socallinuxexpo.org/scale/22x/cfp
-  #- name: registration
-  #- name: program
-  #- name: speakers
-  - name: propose
+  - name: program
+  - name: speakers
+  #- name: propose
   - name: volunteer
   - name: sponsor
   - name: contact
@@ -116,3 +115,112 @@ sponsor_levels:
   - id: coffee
     label: Coffee Break
   - id: community
+
+sponsors:
+  - id: akamai
+    level: gold
+  - id: bellsoft
+    level: gold
+  - id: checkmarx
+    level: gold
+  - id: couchbase
+    level: gold
+  - id: devzero
+    level: gold
+  - id: dnsimple
+    level: gold
+  - id: firefly
+    level: gold
+  - id: fluidattacks
+    level: gold
+  - id: gruntwork
+    level: gold
+  - id: honeycomb
+    level: gold
+  - id: jobst
+    level: silver
+  - id: kapstan
+    level: gold
+  - id: netactuate
+    level: gold
+  - id: opsera
+    level: gold
+  - id: parasoft
+    level: gold
+  - id: pomerium
+    level: gold
+  - id: sedai
+    level: gold
+  - id: semaphoreci
+    level: gold
+  - id: stateful
+    level: silver
+  - id: suse
+    level: gold
+  - id: thales
+    level: gold
+  - id: kubecareers
+    level: media
+    url: https://kube.careers/
+  - id: kubeevents
+    level: media
+    url: https://kube.events/
+  - id: tuxdigital
+    level: media
+
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2025-03-07T00:00:00-08:00
+    start_time: "09:00"
+    end_time: "10:00"
+  - title: "kathryn-bouskill"
+    type: talk
+    date: 2025-03-07T00:00:00-08:00
+    start_time: "10:00"
+    end_time: "10:45"
+  - title: "heather-osborn"
+    type: talk
+    date: 2025-03-07T00:00:00-08:00
+    start_time: "11:00"
+    end_time: "11:45"
+  - title: "Lunch / Open Spaces"
+    type: custom
+    date: 2025-03-07T00:00:00-08:00
+    start_time: "12:00"
+    end_time: "13:30"
+  - title: "sara-huddleston"
+    type: talk
+    date: 2025-03-07T00:00:00-08:00
+    start_time: "13:30"
+    end_time: "13:45"
+  - title: "justin-reock"
+    type: talk
+    date: 2025-03-07T00:00:00-08:00
+    start_time: "13:45"
+    end_time: "14:00"
+  - title: "ben-rockwood"
+    type: talk
+    date: 2025-03-07T00:00:00-08:00
+    start_time: "14:00"
+    end_time: "14:45"   
+  - title: "annie-hedgpeth"
+    type: talk
+    date: 2025-03-07T00:00:00-08:00
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "rob-fletcher"
+    type: talk
+    date: 2025-03-07T00:00:00-08:00
+    start_time: "15:45"
+    end_time: "16:00"
+  - title: "kat-gaines"
+    type: talk
+    date: 2025-03-07T00:00:00-08:00
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "scott-bly"
+    type: talk
+    date: 2025-03-07T00:00:00-08:00
+    start_time: "17:00"
+    end_time: "17:45"

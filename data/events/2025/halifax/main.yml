@@ -1,0 +1,119 @@
+name: "2025-halifax" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2025" # The year of the event. Make sure it is in quotes.
+city: "Halifax" # The displayed city name of the event. Capitalize it.
+event_twitter: "DevOpsDaysHali" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "The premier DevOps conference for Atlantic Canada" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+masthead_background: "halifax-background.png"
+sharing_image: "halifax-sharing.png"
+
+# All dates are in unquoted 2025-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2025-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2025-08-26T07:00:00-03:00
+enddate: 2025-08-27T21:00:00-03:00
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2025-02-15 # start accepting talk proposals.
+cfp_date_end: 2025-03-31 # close your call for proposals.
+cfp_date_announce: 2025-04-30 # inform proposers of status
+
+cfp_link: "https://talks.devopsdays.org/devopsdays-halifax-2025/cfp" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+coordinates: ""
+location: ""
+location_address: ""
+#
+location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+ - name: propose
+ # - name: location
+ # - name: registration
+ # - name: program
+ # - name: speakers
+ - name: sponsor
+ - name: contact
+ - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Dewan Ahmed"
+    image: "dewan-ahmed.jpg"
+    bio: "Dewan Ahmed serves as a Principal Developer Advocate at Harness, leveraging his decade-long experience tackling DevOps challenges across startups, corporates, and governments. With past roles at IBM, Red Hat, and Aiven, he is a seasoned developer relations professional.  A tech speaker since 2016, he champions open-source and values community engagement."
+    role: "Principal Developer Advocate"
+    employer: "Harness"
+    github: "dewan-ahmed"
+    twitter: "DewanAhmed"
+    linkedin: "https://www.linkedin.com/in/diahmed/"
+  - name: "Nahrin Jalal"
+    image: "nahrin-jalal.jpeg"
+    bio: "Nahrin Jalal has led Developer Relations teams in startup environments and contributed to the growth of a publicly-traded enterprise. She is deeply passionate about building inclusive communities, inspiring developers to address real-world needs with pragmatic software solutions, and creating technical content that is accessible to all skill levels."
+    role: "Developer Relations and Outreach Strategy"
+    github: "NJalal7"
+    twitter: "NahrinJalal"
+    linkedin: "https://www.linkedin.com/in/nahrin-jalal/"
+  - name: "Seif Elbayomi"
+    image: "seif-elbayomi.jpg"
+    bio: "Seif Elbayomi is a Software Developer at VTScada who is passionate about building solutions that matter and continuously learning. He is dedicated to driving digital transformation in Atlantic Canada."
+    role: "Software Developer"
+    employer: "VTScada"
+    github: "SeifElbayomi"
+    linkedin: "https://www.linkedin.com/in/seifelbayomi/"
+
+organizer_email: "halifax@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+ #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: platinum
+    label: Platinum
+    max: 5
+  - id: gold
+    label: Gold
+    max: 6
+  - id: silver
+    label: Silver
+    max: 6
+    #max: 0 # This is the same as omitting the max limit.
+  - id: closedcaptioning
+    label: Closed Captioning
+    max: 1
+  - id: lanyard
+    label: Lanyard
+    max: 1
+  - id: breakfast
+    label: Breakfast
+    max: 2
+  - id: lunch
+    label: Lunch
+    max: 2
+  - id: break
+    label: Break
+    max: 4
+  - id: community
+    label: Community
+    max: 3

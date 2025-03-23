@@ -6,7 +6,7 @@ talk_start_time: ""
 talk_end_time: ""
 speakers:
   - ikuo-odanaka
-
+Youtube: "YbM14pxFPXk"
 ---
 
 Based on my practical experience, I will be talking about:

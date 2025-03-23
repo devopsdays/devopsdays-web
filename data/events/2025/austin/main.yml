@@ -1,0 +1,176 @@
+name: "2025-austin"
+year: "2025"
+city: "Austin"
+event_twitter: "DoDAustin"
+description: "DevOpsDays is coming to Austin!"
+masthead_background: "tx-state-capitol-bw.jpg"
+ga_tracking_id: "UA-335242-8"
+
+# All dates are in unquoted 2025-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2025-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2025-05-01T07:00:00-05:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2025-05-02T18:00:00-05:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2024-10-20T00:00:00-05:00 # start accepting talk proposals.
+cfp_date_end: 2025-02-15T11:59:59-05:00 # close your call for proposals.
+cfp_date_announce: 2025-03-15T00:00:00-05:00 # inform proposers of status
+
+cfp_link: "https://talks.devopsdays.org/devopsdays-austin-2025/cfp" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: 2024-10-22T00:00:00-05:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2025-04-30T23:59:59-05:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://tickets.devopsdays.org/devopsdays-austin/2025/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+# coordinates: "" # No longer used
+
+location: "TCEA Conference Center" # Defaults to city, but you can make it the venue name.
+#
+location_address: "3100 Alvin Devane Blvd Building B, Austin, TX 78741" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: propose
+  - name: location
+  - name: register
+    url: https://tickets.devopsdays.org/devopsdays-austin/2025/
+ # - name: program
+  - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "JJ Asghar"
+    twitter: "jjasghar"
+    github: "jjasghar"
+    image: "jj.jpg"
+  - name: "Chris Blumentritt"
+    twitter: "cblument"
+    github: "cblument"
+    linkedin: "https://www.linkedin.com/in/chrisblumentritt/"
+    image: "chris-b.jpg"
+  - name: "Richard Boyd"
+    twitter: "richardboydii"
+    github: "richardboydii"
+    linkedin: "https://www.linkedin.com/in/richardboydii/"
+    image: "rich.jpg"
+  - name: "Nigel Brown"
+    github: "pnbrown"
+    linkedin: "https://www.linkedin.com/in/pnigelbrown/"
+    image: "nigel.jpg"
+  - name: "Julie Coleman"
+    github: "julielaursen"
+    linkedin: "https://www.linkedin.com/in/julie-coleman-laursen-79b7a83/"
+    image: "julie.jpg"
+  - name: "Oliver Eikenberry"
+    linkedin: "https://www.linkedin.com/in/oeikenberry/"
+    image: "oliver.jpg"
+  - name: "Stephanie Engel"
+    image: "stephanie.jpg"
+    linkedin: "https://www.linkedin.com/in/stephanie-engel-76421259/"
+    github: "stephanie-engel"
+  - name: "Daniel Hagen"
+    image: "daniel-hagen.jpg"
+    linkedin: "https://www.linkedin.com/in/daniel-b-hagen/"
+    github: "dbhagen"
+  - name: "Boyd Hemphill"
+    twitter: "behemphi"
+    github: "behemphi"
+    linkedin: "https://www.linkedin.com/in/boydhemphill/"
+    image: "boyd.jpg"
+    role: "Advisory"
+  - name: "Tracy P Holmes"
+    twitter: "tracypholmes"
+    linkedin: "https://www.linkedin.com/in/tracypholmes/"
+    image: "tracy.jpg"
+  - name: "Peco Karayanev"
+    image: "peco.jpg"
+    linkedin: "https://www.linkedin.com/in/peco-karayanev-7719291/"
+  - name: "Christa Meck"
+    image: "christa.jpg"
+    linkedin: "https://www.linkedin.com/in/christameck/"
+    github: "racerchik"
+  - name: "Shaun Mouton"
+    twitter: "sdmouton"
+    github: "moutons"
+    facebook: "http://tirefi.re/facebook/"
+    linkedin: "https://www.linkedin.com/in/sdmouton/"
+    image: "shaun.jpg"
+  - name: "Laura Santamaria"
+    bluesky: "https://bsky.app/profile/nimbinatus.bsky.social"
+    github: "nimbinatus"
+    mastodon: "https://hachyderm.io/@nimbinatus"
+    linkedin: "https://www.linkedin.com/in/lauraasantamaria/"
+    website: "https://linktr.ee/nimbinatus"
+    image: "laura-santamaria.jpg"
+  - name: "Marisa Sawatphadungkij"
+    linkedin: "https://www.linkedin.com/in/mar1sa/"
+    image: "marisa.jpg"
+  - name: "Laura Wickett"
+    twitter: "conference_ops"
+    linkedin: "https://www.linkedin.com/in/laurawickett/"
+    image: "laura.jpg"
+  - name: "Dan Zentgraf"
+    twitter: "danzentgraf"
+    linkedin: "https://www.linkedin.com/in/zentgraf/"
+    image: "dan.jpg"
+
+organizer_email: "austin@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: instructlab
+    level: gold
+  - id: cloudzero
+    level: gold
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: gold
+    label: Gold
+    max: 10
+  - id: track
+    label: Track
+    max: 3
+  - id: lanyard
+    label: Lanyard
+    max: 1
+  - id: coffee
+    label: Coffee Bar
+    max: 1
+  - id: happyhour
+    label: Happy Hour
+    max: 2
+  - id: quiet
+    label: Quiet Room
+    max: 1
+  - id: food
+    label: Food
+    max: 6
+  - id: swag
+    label: Swag Bag (Add-On)
+    max: 20
+  - id: community
+    label: Local Community Groups
+    max: 2
+#  - id: startup
+#    label: Startup Alley - Local only
+#    max: 3

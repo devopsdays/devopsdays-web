@@ -130,7 +130,7 @@ organizer_email: "zurich@devopsdays.org" # Put your organizer email address here
 sponsors:
   - id: kanbanize
     level: community
-  - id: zhlke
+  - id: zuhlke
     level: event
   - id: avega
     level: event
@@ -146,7 +146,7 @@ sponsors:
     level: event
   - id: erni
     level: gold
-  - id: cloudbees
+  - id: cloudbees-before-20250128
     level: gold  
   - id: enterprisedb
     level: silver
@@ -168,7 +168,7 @@ sponsors:
     level: gold
   - id: vshn-before-20240317
     level: bronze
-  - id: infomaniak
+  - id: infomaniak-before-20241013
     level: bronze
   - id: redhat
     level: bronze
