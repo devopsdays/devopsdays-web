@@ -38,9 +38,8 @@ This year’s event is on September 9th and 10th, 2025. A detailed program can b
 
 Gold sponsors have 2 minutes, Silver 1 minute, and Bronze 30 seconds for a pitch to the full audience at the start of each day. This time will be strictly enforced to make sure we stay on schedule!
 
-<!--
-<iframe width=525 height=400 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRD0MZhqSInE1xUfw_2aR5XxvrQhzMUJFTavjLKC24g5TmIRb-tU52M6BBKca3a3rcmtnFL1zas7vkv/pubhtml?widget=true&amp;headers=false"></iframe>
--->
+<iframe width=525 height=400 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTxThk7HBfda8Lnwf7JpQ-YzzJYdOYP2VS2bkWDesQEDOr7WA0pGzReSKKYxW9idgF_CE1JmeuTedcG/pubhtml?widget=true&amp;headers=false"></iframe>
+
 ## Who to send
 
 Of course this is up to you, but most attendees will be practitioners. It’s
@@ -67,7 +66,7 @@ The venue supports shipping and manages all shipping, plan to have packages arri
 
 ### Loading / Unloading at venue
 
-Sponsors are welcome coordinate with venue to use their [loading dock](https://www.meydenbauer.com/convention-center/exhibitors/move-in-out/).
+Sponsors are welcome coordinate with venue to use their loading dock - <https://www.meydenbauer.com/convention-center/exhibitors/move-in-out/>.
 
 <a href="https://seattleconventioncenter.com/loading-docks-hand-carried-freight">SSC guide for hand carried freight </a>
 
@@ -78,10 +77,7 @@ Gold sponsors will be able to choose the location in the venue of your sponsor t
 With that said, we've been told that we have one of the most welcoming sponsor areas of any DevOpsDays event and will do everything in our power to make sure there's no such thing as a "bad table spot".
 
 ### Floor plan and booth allocations
-<!-->
-<iframe width=1460 height=1200 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTlYu_EiKGD4p9nWj0IpocrMCQir1z-p2jXKfdSJf1JpuIyO7YYuMzVV78zHjrMs0Emvmp4oscJfYwP/pubhtml?widget=true&amp;headers=false">
-<!-- Floor Plan<br>
-<a href="/events/2019-seattle/2019-floor-plan.png"><img style="max-width: 500px; padding: 0px 20px 20px 0px" src="/events/2019-seattle/2019-floor-plan.png"></a> -->
+<iframe width=1460 height=1200 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSrJC4H7PReuapxd_ilHGkZMcBK_AZ-hUIaPRao7cFPmWMHma4a-EqOuzaogpmy-ldN3bxIPr0noGP6/pubhtml?widget=true&amp;headers=false">
 
 #### Gold Sponsors
 
@@ -103,12 +99,11 @@ With that said, we've been told that we have one of the most welcoming sponsor a
 
 The sponsor area will be set up to encourage people to hang out and enjoy coffee breaks and meals. It isn’t designed like a big trade show with aisles of booths. You should bring retractable banners instead of traditional trade show booths.
 
-
 ### A/V Rental<a id="av_rental">
 
 A/V rental is available directly from the venue. All tables will have power and access to the shared wireless service. Anything else you require can be ordered <a href="https://www.meydenbauer.com/convention-center/exhibitors/order-technical-services/">here</a>.
 
-### Lead Collection
+### Lead Collection / Prize Draw
 
 We don’t share attendee information with sponsors.
 
@@ -118,7 +113,7 @@ a time at the end of day 2 to announce winners.
 
 Approaches that have worked well in the past include doing a raffle for a prize at the end of the event, handing out swag, participating in a challenge to win a prize, etc. Types of prizes that have been well received: (exclusive) Lego sets, wireless headphones, mechanical keyboards, stickers, etc. Try to make it as easy as possible for attendees to enter, a short URL or QR code they can scan to direct them to a page or form to enter, or paper to add their details into a bowl for the draw.
 
-<!-- <a href="/events/2019-seattle/sponsor-content/drawings">Information for holding a drawing</a> -->
+<iframe width=525 height=400 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQuK-fxKH5-PVaCM49xkmuQQlm2CCXB3yySfVtszotf-y4-ObFWhAxeieAVHuxkGHd42urGIqPoASQU/pubhtml?widget=true&amp;headers=false"></iframe>
 
 ### Code of Conduct
 
