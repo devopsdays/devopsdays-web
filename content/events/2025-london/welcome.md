@@ -7,7 +7,7 @@ Description = "DevOpsDays London 2025"
 
 <div class="row">
   <div class="col-md-4">
-    <img alt="DevOpsDays London 2025" src="/events/2025-london/logo.png" class="img-fluid">
+      {{< event_logo >}}
     <div class="d-flex flex-row">
       <div class="col-md-12">
         <div class="p-2">
