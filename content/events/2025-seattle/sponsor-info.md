@@ -30,9 +30,19 @@ Bellevue, WA 98004<br>
 
 This year’s event is on September 9th and 10th, 2025. A detailed program can be found at <http://www.devopsdays.org/events/2025-seattle/program/>. Please note the speaker schedule is subject to change.
 
-* Booth set up - 09:00 till 16:00 September 8th
-* Registration opens - 08:00 September 9th (Sponsors can come in starting 07:00 on 9th and 10th. If setting up on 8th, we will provide registration badges then.)
-* Tear down - approximately 4:30PM on September 10th.
+* March 25: Sponsor packages announced.
+* March 25: CFP opens.
+* May 15: Early-bird ticket sales open.
+* 15 June: CFP Closes.
+* 25 June: Early-bird ticket sales end. Regular ticket sales opens.
+* 30 June: Speakers notified of acceptance, program updated as confirmations as received.
+* 31 July: Speakers and program finalized.
+* 15 August: Sponsorship closes. Last day for any logo changes for event banners (excluding the ones sponsors themselves bring).
+* 21 August: Sponsorship table email sent.
+* 30 August: Sponsor table allocation.
+* 8 September: Booth set up from 09:00 till 16:00. We'll also print badges during this time for sponsors.
+* 9 September: Registration opens at 08:00 (Sponsors can come in starting 07:00 on 9th and 10th)
+* 10 September: Tear down - approximately 16:30.
 
 ### Sponsor Pitch Schedule
 
@@ -42,11 +52,11 @@ Gold sponsors have 2 minutes, Silver 1 minute, and Bronze 30 seconds for a pitch
 
 ## Who to send
 
-Of course this is up to you, but most attendees will be practitioners. It’s
+Of course this is up to you, but most attendees will be hands-on practitioners. It’s
 important to your success that you send people able to have practitioner level
 conversations. If you’re showing off your latest product, be ready to answer
 some technical questions. If you’re looking to hire people, have someone there
-who works in the type of role you’re hiring for.
+who works in the type of role you’re hiring for. There will be a job board avialable during the event for anyone to share open roles and contact details.
 
 ### Conference Format
 
@@ -58,23 +68,17 @@ The afternoons are run as open spaces. You can learn more about this format
 at <https://www.devopsdays.org/open-space-format/>. To make the most of your
 participation it’s highly recommended that your staff participate in the open
 space discussions. This is your best chance to show off how valuable you can
-be to the attendees.
+be to the attendees. Open space topics are proposed and voted for by attendees, we encourage you to submit ideas as well.
 
-### Shipping
+### Shipping, Loading Dock
 
-The venue supports shipping and manages all shipping, plan to have packages arrive on September 7th, for the setup day on September 8th.
-
-### Loading / Unloading at venue
+The venue manages all shipping requests, plan to have packages arrive on September 7th for the setup day on September 8th. All the details can be found on their site - <https://www.meydenbauer.com/convention-center/exhibitors/shipping-receiving/>.
 
 Sponsors are welcome coordinate with venue to use their loading dock - <https://www.meydenbauer.com/convention-center/exhibitors/move-in-out/>.
 
-<a href="https://seattleconventioncenter.com/loading-docks-hand-carried-freight">SSC guide for hand carried freight </a>
-
 ### Sponsor Tables
 
-Gold sponsors will be able to choose the location in the venue of your sponsor table. Once we have finalized the layout in the last week of April we will send out emails to sponsors in batches of 5 per day in the order the sponsorship was paid for. The email will contain a link to a page where you can choose your sponsor table. It's very important that you choose your table as soon as you receive this email for the best choice.
-
-With that said, we've been told that we have one of the most welcoming sponsor areas of any DevOpsDays event and will do everything in our power to make sure there's no such thing as a "bad table spot".
+Gold sponsors will be able to choose the location in the venue of your sponsor table. Once sponsors have finalized attendance with payment, we will share a Google Drive document to track all action items, share sponsor-specific details, manage the logo, and share any additional information. It will also contain a section to indicate table location prefferences (allocated by sponsorship level, and then by payment received date). We will send out an email to sponsors on 21 August for table allocation finalization, it is important to respond to this email as soon as possible to secure final table allocations. With that said, we've been told that we have one of the most welcoming sponsor areas of any DevOpsDays event and will do everything in our power to make sure there's no such thing as a "bad table spot".
 
 ### Floor plan and booth allocations
 <iframe width=1460 height=1200 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSrJC4H7PReuapxd_ilHGkZMcBK_AZ-hUIaPRao7cFPmWMHma4a-EqOuzaogpmy-ldN3bxIPr0noGP6/pubhtml?widget=true&amp;headers=false">
@@ -87,7 +91,7 @@ With that said, we've been told that we have one of the most welcoming sponsor a
 
 #### Silver Sponsors
 
-* Half a 6 foot table with one chair
+* Shared 6 foot table with one chair, two Silver sponsors per table
 * Power available at table
 * WiFi is shared with the conference attendees, bandwidth heavy demos are not recommended
 
@@ -101,17 +105,13 @@ The sponsor area will be set up to encourage people to hang out and enjoy coffee
 
 ### A/V Rental<a id="av_rental">
 
-A/V rental is available directly from the venue. All tables will have power and access to the shared wireless service. Anything else you require can be ordered <a href="https://www.meydenbauer.com/convention-center/exhibitors/order-technical-services/">here</a>.
+A/V rental is available directly from the venue. All tables will have power and access to the shared wireless service. Anything else you require can be ordered from the venue - <https://www.meydenbauer.com/convention-center/exhibitors/order-technical-services/>.
 
 ### Lead Collection / Prize Draw
 
 We don’t share attendee information with sponsors.
 
-You’re welcome to ask people to share their contact information voluntarily.
-It’s very common for sponsors to hold prize raffles for this purpose and we will have
-a time at the end of day 2 to announce winners.
-
-Approaches that have worked well in the past include doing a raffle for a prize at the end of the event, handing out swag, participating in a challenge to win a prize, etc. Types of prizes that have been well received: (exclusive) Lego sets, wireless headphones, mechanical keyboards, stickers, etc. Try to make it as easy as possible for attendees to enter, a short URL or QR code they can scan to direct them to a page or form to enter, or paper to add their details into a bowl for the draw.
+You’re welcome to ask people to share their contact information voluntarily. Approaches that have worked well in the past include doing a raffle for a prize at the end of the event, handing out swag and/or free trials (or credit vouchers) for your product, participating in a challenge to win a prize, etc. Types of prizes that have been well received: (exclusive) Lego sets, wireless headphones, mechanical keyboards, etc - the more interesting, the more people will want to enter. Try to make it as easy as possible for attendees to share their details, a short URL or QR code they can scan to direct them to a page or form to enter, or paper to add their details into a bowl for the draw. The draw will be done during the closing session on the last day, and prize winners need to be preset to accept their prizes, so make sure to have at least a few backup winners.
 
 <iframe width=525 height=400 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQuK-fxKH5-PVaCM49xkmuQQlm2CCXB3yySfVtszotf-y4-ObFWhAxeieAVHuxkGHd42urGIqPoASQU/pubhtml?widget=true&amp;headers=false"></iframe>
 
@@ -126,4 +126,4 @@ or otherwise create a sexualized environment.
 
 ### Social Networks
 
-We have the twitter handle [@DevOpsDaysSEA](https://x.com/DevOpsDaysSEA), and Bluesky [@dodseattle.org](https://bsky.app/profile/dodseattle.org) but people will most likely use the #DevOpsDays hashtag on the day.
+We have the twitter handle [@DevOpsDaysSEA](https://x.com/DevOpsDaysSEA), Bluesky [@dodseattle.org](https://bsky.app/profile/dodseattle.org), and company page on [LinkedIn](https://www.linkedin.com/company/devopsdays-seattle/) but people will most likely use the #DevOpsDays hashtag on the day.
