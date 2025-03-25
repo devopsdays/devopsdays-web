@@ -181,7 +181,7 @@ For 2025, there are 2 add-on packages available for sponsors. Only one of each i
           <br>
           <a href="mailto:seattle@devopsdays.org?subject=Interested%20in%20Sponsoring%20by%20other%20DevOpsDays%20Seattle%202025">Email us</a> if you prefer to pay by another method.
           <br>
-          <a href="mailto:sponsors@dodseattle.org?subject=Interested%20in%20Community%20Sponsorship%20DevOpsDays%20Seattle%202022">Contact us</a>  if you have any other questions.
+          <a href="mailto:sponsors@dodseattle.org?subject=Sponsorship%20Questions%20DevOpsDays%20Seattle%202025">Contact us</a>  if you have any other questions.
         </small>
       </td>
       <td></td>
@@ -193,10 +193,10 @@ For 2025, there are 2 add-on packages available for sponsors. Only one of each i
 <div class = "col-12">
   <br/>
   <br/>
-  Sponsors are responsible for providing high-res logos for use on the website and in promotional materials.  The preferred file formats are EPS or AI.
+  Sponsors are responsible for providing high-res logos for use on the website and in promotional materials.  The preferred file formats are EPS, AI, or SVG.
   <br/>
   <br/>
-  <b>All sponsors attendees must be registered to attend.</b> We offer sponsors 50% off 5 additional registrations for staff, and 20% for inviting up to 20 customers to attend. Discounts applied in addition to super early bird, and early bird pricing.
+  <b>All sponsors attendees must be registered to attend.</b> We offer sponsors 50% off 5 additional registrations for staff, and 20% for inviting up to 20 customers to attend. Discounts applied in addition to early bird pricing.
   <br/>
 </div>
 </div>
