@@ -107,11 +107,6 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/stephanmousset/"
     image: "stephan.png"
 
-  - name: "Daljit Singh"
-    pronouns: "he/him"
-    linkedin: "https://www.linkedin.com/in/daljitsinghnl/"
-    image: "daljit.jpg"
-
   - name: "Daniel Paulus"
     pronouns: "he/him"
     linkedin: "https://www.linkedin.com/in/danielpaulus/"
@@ -133,6 +128,9 @@ sponsors:
   # Lanyard
   - id: schubergphilis
     level: lanyard
+  # Silver
+  - id: cloudbees
+    level: silver
   # Bronze
   - id: devleaps
     level: bronze
