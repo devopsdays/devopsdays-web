@@ -20,8 +20,8 @@ cfp_date_announce: 2025-03-24T00:00:00-07:00 # inform proposers of status
 
 cfp_link: "https://talks.devopsdays.org/devopsdays-seattle-2025/cfp" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # 2025-05-12T00:00:00-07:00 # planned date to open registration
-registration_date_end: # 2025-09-08T23:59:59-07:00 # planned date to close registration
+registration_date_start: 2025-05-25T00:00:00-07:00 # planned date to open registration
+registration_date_end: 2025-09-08T23:59:59-07:00 # planned date to close registration
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
