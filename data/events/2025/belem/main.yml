@@ -90,11 +90,11 @@ team_members: # Name is the only required field for team members.
 
   - name: "João Baganha"
     employer: "CESUPA"
-    image: "igor-dantas.jpg"
+    image: "joao-baganha.jpg"
     linkedin: "https://www.linkedin.com/in/joaopedrobaganha"
 
   - name: "Tiago Danin"
-    employer: "C6 Bank"
+    employer: "Idopter Labs"
     image: "tiago-danin.jpeg"
     linkedin: "https://www.linkedin.com/in/tiagodanin/"
 
