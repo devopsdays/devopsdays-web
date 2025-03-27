@@ -4,7 +4,7 @@ Type = "event"
 Description = "Sponsor devopsdays seattle 2025"
 +++
 
-We greatly value sponsors for this community event. If you are interested in sponsoring, please email us at <a href="mailto:sponsors@dodseattle.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Seattle%202025">email</a> - you can view the different levels below, or download our <a href="https://assets.devopsdays.org/events/2025/seattle/DevOpsDays-Seattle-2025-Sponsorship-Prospectus.pdf">2025 prospectus</a> for the full details. The 2025 event will be held at the Meydenbauer Center on {{< event_start >}} - {{< event_end >}}.
+We greatly value sponsors for this community event. If you are interested in sponsoring, please email us at {{< email_organizers subject="Interested%20in%20Sponsoring%20DevOpsDays%20Seattle%202025" >}} - you can view the different levels below, or download our <a href="https://assets.devopsdays.org/events/2025/seattle/DevOpsDays-Seattle-2025-Sponsorship-Prospectus.pdf">2025 prospectus</a> for the full details. The 2025 event will be held at the Meydenbauer Center on {{< event_start >}} - {{< event_end >}}.
 
 <hr>
 
