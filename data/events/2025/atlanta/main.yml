@@ -104,6 +104,8 @@ sponsors:
     level: gold
   - id: chef
     level: gold
+  - id: gremlin
+    level: gold
   - id: redmonk
     level: community
   - id: shadow-soft
