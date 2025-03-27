@@ -83,6 +83,21 @@ team_members: # Name is the only required field for team members.
     image: "igor-dantas.jpg"
     linkedin: "https://www.linkedin.com/in/igor-dantas/"
 
+  - name: "Thalyson Wilker"
+    employer: "EasyGestor"
+    image: "thalyson.jpeg"
+    linkedin: "https://www.linkedin.com/in/thalysonwilker/"
+
+  - name: "João Baganha"
+    employer: "CESUPA"
+    image: "joao-baganha.jpg"
+    linkedin: "https://www.linkedin.com/in/joaopedrobaganha"
+
+  - name: "Tiago Danin"
+    employer: "Idopter Labs"
+    image: "tiago-danin.jpeg"
+    linkedin: "https://www.linkedin.com/in/tiagodanin/"
+
 organizer_email: "belem@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
@@ -96,11 +111,15 @@ sponsors:
     level: community
   - id: idopterlabs
     level: diamante
+  - id: vibe
+    level: diamante
   - id: devsnorte
     level: community
   - id: kubecareers
     level: support
   - id: kubeevents
+    level: support
+  - id: elas-na-ti-BEL-2025
     level: support
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
