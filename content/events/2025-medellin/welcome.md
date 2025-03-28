@@ -6,7 +6,7 @@ Description = "Welcome to DevOpsDays Medellín 2025"
 +++
 <div class = "row">
   <div class="col-md-4">
-    <img alt="DevOpsDays Medellin 2024" src="/events/2024-medellin/logo.png" class="img-fluid">
+    <img alt="DevOpsDays Medellin 2025" src="/events/2025-medellin/logo.png" class="img-fluid">
   </div>
   <div class="col-md-7">
     <h2>Nuestra conferencia DevOpsDays Medellín 2025 vuelve el 22 y 23 de mayo de manera presencial desde la Universidad Luis Amigó</h2>
@@ -78,7 +78,7 @@ Description = "Welcome to DevOpsDays Medellín 2025"
           <a
             target="_blank"
             class="btn btn-secondary btn-block"
-            href="https://www.papercall.io/dodmded2024"
+            href="https://www.papercall.io/dodmded2025"
             style="background-color:#329cae; border-color:#72c1cd" onMouseOver="this.style.backgroundColor='#23738e'"
             onMouseOut="this.style.backgroundColor='#329cae'"
           >
@@ -98,7 +98,7 @@ Description = "Welcome to DevOpsDays Medellín 2025"
         <div class="p-2">
           <a
             class="btn btn-secondary btn-block"
-            href="/events/2024-medellin/contact"
+            href="/events/2025-medellin/contact"
             style="background-color:#329cae; border-color:#72c1cd" onMouseOver="this.style.backgroundColor='#23738e'"
             onMouseOut="this.style.backgroundColor='#329cae'"
           >
