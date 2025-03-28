@@ -95,8 +95,7 @@ team_members: # Name is the only required field for team members.
     pronouns: "he/him"
   - name: "Issy Long"
     pronouns: "they/them"
-    mastodon: "https://strangeobject.space/@issy"
-    twitter: "issyl0"
+    mastodon: "https://ruby.social/@issyl0"
     github: "issyl0"
   - name: "Louise Paling"
     pronouns: "she/her"
@@ -123,7 +122,7 @@ organizer_email: "london@devopsdays.org" # Put your organizer email address here
   # - id: arresteddevops
   #   level: community
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
