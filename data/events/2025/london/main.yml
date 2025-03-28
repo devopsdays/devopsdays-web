@@ -1,0 +1,145 @@
+name: "2025-london" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2025" # The year of the event. Make sure it is in quotes.
+city: "london" # The displayed city name of the event. Capitalize it.
+event_twitter: "DevOpsDaysLDN" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "DevOpsDays returns to London in 2025!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+sharing_image: "twitter.png"
+masthead_background: "background.png"
+
+# All dates are in unquoted 2025-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2025-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2025-09-23T00:00:00+01:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2025-09-24T00:00:00+01:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+timezone: "Europe/London"
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2025-03-25T00:00:00+01:00 # start accepting talk proposals.
+cfp_date_end: 2025-05-23T23:59:59+01:00 # close your call for proposals.
+cfp_date_announce: 2025-07-03T23:59:59+01:00 # inform proposers of status
+
+
+cfp_link: "https://docs.google.com/forms/d/e/1FAIpQLSfCx7yU_RInIncwU2dP48S790CY-LpNi9nenUsY82vRv0HKkQ/viewform"
+
+registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+# registration_closed: "true"
+registration_link: "https://ti.to/devopsdays-london/2025"
+
+# Location
+#
+# coordinates: "" # No longer used
+
+location: "London" # Defaults to city, but you can make it the venue name.
+location_address: "Sir Alexander Fleming Building, Imperial College Road, London SW7 2AZ" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
+
+# Optional - Social badges
+# These can be used in the body of any page via matching shortcodes. See sample:  https://devopsdays.org/events/2025-denver/welcome/
+# event_social_linkedin: "https://linkedin.com/company/devopsdays" # Change this to the url to your Linkedin group, company, or page.
+# event_social_slack: "https://join.slack.com/t/devopsdays/custom_shared_invite_url" # Change this to your slack invite link.
+# event_social_listserv: "https://lists.devopsdays.org/subscription?custom_listserv_invite_url" # Change this to your mailing list subscription form url.
+event_social_twitter: "DevOpsDaysLDN" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+# event_social_mastadon: "https://mastodon.social/@devopsdays" # Change this to url to your mastadon page
+# event_social_bsky: "https://bsky.app/profile/devopsdays.bsky.social" # Change this to url to your bluesky page
+# event_social_youtube: "devopsdays" # Change this to the youtube channel handle for your event such as devopsdaysrox
+# legacy
+event_twitter: "DevOpsDaysLDN" # This will create a traditional "Follow" twitter button. Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: propose
+  - name: location
+ # - name: registration
+ # - name: program
+ # - name: speakers
+ # - name: sponsor
+  - name: accessibility
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+    #
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Andy Burgin"
+    twitter: "andyburgin"
+    pronouns: "he/him"
+  - name: "bob walker"
+    twitter: "rjw1"
+    website: "https://randomness.org.uk"
+    pronouns: "they/them, he/him"
+  - name: "Chris Mills"
+    pronouns: "he/him"
+    github: "chriscoffee"
+  - name: "David Collom"
+    pronouns: "he/him"
+  - name: "Dominique Top"
+    twitter: "devopsdomi"
+    pronouns: "she/her"
+  - name: "Ethan Sumner"
+    twitter: "SumnerOps"
+    linkedin: "https://www.linkedin.com/in/ethansumner404/"
+    website: "https://opssumner.dev"
+    pronouns: "he/him"
+  - name: "Hannah Foxwell"
+    twitter: "HannahFoxwell"
+    pronouns: "she/her"
+  - name: "Henti Smith"
+    pronouns: "he/him"
+  - name: "Issy Long"
+    pronouns: "they/them"
+    mastodon: "https://strangeobject.space/@issy"
+    twitter: "issyl0"
+    github: "issyl0"
+  - name: "Louise Paling"
+    pronouns: "she/her"
+    twitter: "short_louise"
+  - name: "Paula Kennedy"
+    twitter: "PaulaLKennedy"
+    pronouns: "she/her"
+  - name: "Rekha Aucklah"
+    pronouns: "she/her"
+  - name: "Sam Smith"
+    pronouns: "he/him"
+  - name: "Sophie Weston"
+    pronouns: "she/her"
+    twitter: "soph_weston"
+  - name: "Matt Slane"
+    pronouns: "he/him"
+    linkedin: "https://www.linkedin.com/in/mjslane/"
+
+organizer_email: "london@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+# sponsors:
+  # - id: arresteddevops
+  #   level: community
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: gold
+    label: Gold
+    max: 10
+  - id: silver
+    label: Silver
+    max: 10
+  - id: bronze
+    label: Bronze
+    max: 10
+  - id: community
+    label: Community
+    max: 10
+
