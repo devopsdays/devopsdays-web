@@ -1,7 +1,7 @@
 +++
 Title = "DevOpsDays Medellín 2025"
 Type = "welcome"
-aliases = ["/events/2024-medellin/"]
+aliases = ["/events/2025-medellin/"]
 Description = "Welcome to DevOpsDays Medellín 2025"
 +++
 <div class = "row">
