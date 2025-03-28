@@ -4,8 +4,8 @@ city: "Sibiu" # The displayed city name of the event. Capitalize it.
 event_twitter: "Devopsdays" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "Devopsdays is coming to Sibiu!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
-event_logo: "/events/2024-sibiu/logo-square.jpg" # TODO: for some reason this does not work
-sharing_image: "logo.png"
+event_logo: "/events/2025-sibiu/logo-square.jpg" # TODO: for some reason this does not work
+sharing_image: "/events/2025-sibiu/logo.png"
 masthead_background: "sibiu-header.png"
 
 # All dates are in unquoted 2025-MM-DDTHH:MM:SS+TZ:TZ, like this:
@@ -81,7 +81,7 @@ team_members: # Name is the only required field for team members.
   - name: "Valentin Oprea"
     image: "vali.jpg"
     employer: "General Engineering & Management Solutions"
-    linkedin: "https://www.linkedin.com/in/valioprea/"
+    linkedin: "General Engineering & Management Solutions"
     bio: "Valentin Oprea is an experienced and versatile aerospace engineer with more than 8 years active in various critical industries, ranging from aerospace, automotive, banking and more. Having a diverse and multidisciplinary engineering experience, he was involved in delivering high-tier products using state-of-the-art technologies for OEMs such as Airbus, Boeing, BMWW, Rolls Royce and more.
      Founder of General Engineering & Management Solutions, the mission is to leverage the absolute best industry professionals to aid businesses achieve their maximum market potential in the shortest amount of time given the technology at hand."
 
@@ -141,7 +141,7 @@ program:
     start_time: "10:00"
     end_time: "10:15"
 
-  - title: "Talk Speaker to be confirmed"
+  - title: "TBD"
     type: talk
     date: 2025-05-22T00:00:00+03:00
     start_time: "10:15"
@@ -153,7 +153,7 @@ program:
     end_time: "11:15"
     background_color: "#B4C6E7"
 
-  - title: "Talk Speaker to be confirmed "
+  - title: "TBD"
     type: talk
     date: 2025-05-22T00:00:00+03:00
     start_time: "11:15"
@@ -165,7 +165,7 @@ program:
     end_time: "13:00"
     background_color: "#B4C6E7"
 
-  - title: "Talk Speaker to be confirmed"
+  - title: "TBD"
     type: talk
     date: 2025-05-22T00:00:00+03:00
     start_time: "13:00"

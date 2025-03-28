@@ -28,7 +28,7 @@ This event will be taking place at:
 
 <br></br>
 <div> <b>How to get there:</b>
-
+<br></br>
   <div>
     From the Airport:
   </div>
@@ -36,7 +36,7 @@ This event will be taking place at:
   <div>
     From Aeroportul International Sibiu you can reach Visma HQ by taxi, Uber, Bolt or bus (no. 11 or no. 17). It’s a 12-20 minutes ride, depending on the means of transportation and traffic.
   </div>
-
+  
   <div>
     From anywhere else in the city you can reach Visma by foot (especially if you are in the city centre), taxi, Uber, Bolt or bus. Please check Google Maps for directions.
   </div>

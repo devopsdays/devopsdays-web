@@ -1,10 +1,10 @@
 +++
 Title = "Contact"
 Type = "event"
-Description = "Contact information for devopsdays sibiu 2025"
+Description = "Contact information for Devopsdays Sibiu 2025"
 +++
 
-If you'd like to contact us by email: {{< email_organizers >}}
+If you have any questions, we are just one e-mail away: sibiu@devopsdays.org
 
 **Our local team**
 

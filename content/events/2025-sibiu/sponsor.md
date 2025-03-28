@@ -4,7 +4,7 @@ Type = "event"
 Description = "Sponsor Devopsdays Sibiu 2025"
 +++
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
+<b>Become a sponsor and support a great event for the DevOps Community</b>
 
 <hr>
 
