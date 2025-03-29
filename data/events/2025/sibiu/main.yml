@@ -5,7 +5,7 @@ event_twitter: "Devopsdays" # Change this to the twitter handle for your event s
 description: "Devopsdays is coming to Sibiu!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 event_logo: "/events/2025-sibiu/logo-square.jpg" # TODO: for some reason this does not work
-sharing_image: "/events/2025-sibiu/logo.png"
+sharing_image: "logo.png"
 masthead_background: "sibiu-header.png"
 
 # All dates are in unquoted 2025-MM-DDTHH:MM:SS+TZ:TZ, like this:
@@ -40,7 +40,7 @@ location_address: "Sibiu, jud. Sibiu, Strada Ștrandului nr. 2B, Sibiu 550068, V
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
   - name: location
-  - name: registration
+  # - name: registration
   - name: program
  # - name: speakers
   - name: sponsor
