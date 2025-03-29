@@ -35,7 +35,7 @@ location: "Clarion Congress Hotel" # Defaults to city, but you can make it the v
 location_address: "Freyova 33, Prague 9, 190 00" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+#  - name: propose
   - name: location
   - name: registration
   - name: program
@@ -184,11 +184,11 @@ program:
     end_time: "?"
 
 ignites:
-  - title: ""
+  - title: "jan-vlnas"
     date: 2025-05-22
-  - title: ""
+  - title: "martin-hauskrecht"
     date: 2025-05-22
-  - title: ""
+  - title: "marek-jalovec"
     date: 2025-05-22
   - title: ""
     date: 2025-05-22
