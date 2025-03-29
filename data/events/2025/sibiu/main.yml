@@ -4,7 +4,7 @@ city: "Sibiu" # The displayed city name of the event. Capitalize it.
 event_twitter: "Devopsdays" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "Devopsdays is coming to Sibiu!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
-event_logo: "/events/2025-sibiu/logo-square.jpg" # TODO: for some reason this does not work
+event_logo: "/assets/2025-sibiu/logo-square.jpg" # TODO: for some reason this does not work
 sharing_image: "logo.png"
 masthead_background: "sibiu-header.png"
 
