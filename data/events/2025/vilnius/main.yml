@@ -112,11 +112,19 @@ sponsors:
     level: gold
   - id: surfshark
     level: gold
+  - id: hyperops
+    level: silver
   - id: cloudnativelithuania
     level: community
   - id: devopsinshorts
     level: community
+  - id: devopsandailatvia
+    level: community
   - id: womengotech
+    level: community
+  - id: kubeevents
+    level: community
+  - id: kubecareers
     level: community
 
 # program:

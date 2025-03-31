@@ -153,8 +153,6 @@ sponsors:
     level: community
   - id: webmardi
     level: community
-  - id: wejob
-    level: community
   - id: software-crafts-romandie
     level: community
   - id: les-renverses
@@ -187,7 +185,8 @@ sponsors:
     level: bronze
   - id: centreon
     level: silver
-
+  - id: redhat
+    level: gold
 program:
 
   - title: "Registration & Morning Coffee"

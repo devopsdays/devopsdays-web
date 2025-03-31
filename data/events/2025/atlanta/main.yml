@@ -31,7 +31,6 @@ registration_link: "https://devopsdaysATL2025.eventbrite.com" # If you have a cu
 # coordinates: "" # No longer used
 
 location: "The Historic Academny of Medicine" # Defaults to city, but you can make it the venue name.
-#
 location_address: "875 W Peachtree St NW, Atlanta, GA 30309" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
@@ -100,6 +99,12 @@ sponsors:
     level: gold
   - id: honeycomb
     level: gold
+  - id: fianu
+    level: gold
+  - id: chef
+    level: gold
+  - id: gremlin
+    level: gold
   - id: redmonk
     level: community
   - id: shadow-soft
@@ -108,6 +113,8 @@ sponsors:
     level: bronze
   - id: stateful
     level: bronze
+  - id: blacksintechnology
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -157,7 +164,7 @@ program:
     date: 2025-04-29T08:00:00-05:00
     start_time: "10:25"
     end_time: "10:40"
-  - title: "talk-3"
+  - title: "angie-jones"
     type: talk
     date: 2025-04-29T08:00:00-05:00
     start_time: "10:40"
@@ -222,7 +229,7 @@ program:
     date: 2025-04-30T17:00:00-05:00
     start_time: "09:00"
     end_time: "09:15"
-  - title: "talk-5"
+  - title: "rachellee-nabors"
     type: talk
     date: 2025-04-30T17:00:00-05:00
     start_time: "09:15"
@@ -252,7 +259,7 @@ program:
     date: 2025-04-30T17:00:00-05:00
     start_time: "11:10"
     end_time: "11:20"
-  - title: "patrick-debois"
+  - title: "talk-8"
     type: talk
     date: 2025-04-30T17:00:00-05:00
     start_time: "11:20"
