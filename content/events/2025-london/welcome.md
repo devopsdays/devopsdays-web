@@ -23,15 +23,10 @@ Description = "DevOpsDays London 2025"
   </div>
 
   <div class="col-md-7">
-
     <p>DevOpsDays London is proud to be part of the global DevOpsDays community. Over 15 years and through global crises we have built a lasting network of technical conferences organised by the community, for the community.</p>
-
     <p>Our 2025 event will happen over two days with a single track of speakers in the morning, followed by Ignite talks (5 minutes, auto forwarding slides every 20 seconds). The afternoons are then given up to <a href="https://devopsdays.org/open-space-format/">Open Spaces</a> which are what makes DevOpsDays events truly special. Open spaces are what allow us to come together as a community and discuss the pressing issues we face. From technical deep dives to driving cultural change, no topic is off the cards, what is important is that the conference decides what it wants to talk about.</p>
-
     <p>For attendees and sponsors we offer a unique chance to engage on a significantly more personal level than the larger corporate conferences. With practitioners from across the spectrum on their DevOps journeys we have space to learn from one another in open conversation, building relationships and a community that can help drive forward change together.</p>
-
     <p>We would love for you to join us in September whether it is your first ever time at DevOpsDays or if you have been attending since Ghent in 2009, we have Early Bird tickets available right now at discounted prices. We are committed to making our conference as accessible as possible – more details coming soon.</p>
-
-    <p>Whilst COVID-19 may no longer be in the headlines, we take the health of our attendees and organisers seriously. If you have purchased a ticket but are feeling unwell on the day of the event please stay home for everyone's safety. All talks at the event are live streamed and you can contact us at <{{ organizer_email }}> for a full refund.</p>
+    <p>Whilst COVID-19 may no longer be in the headlines, we take the health of our attendees and organisers seriously. If you have purchased a ticket but are feeling unwell on the day of the event please stay home for everyone's safety. All talks at the event are live streamed and you can contact us at {{< email_organizers >}} for a full refund.</p>
   </div>
 </div>
