@@ -130,8 +130,9 @@ Visando valorizar a participação de instituições na realização do evento, 
   <p style="font-size:18px">Veja mais no documento completo clicando <a href="https://www.canva.com/design/DAGgVu3yDrA/b5Cqc5nqS-bav6mD3RM3Fg/view?utm_content=DAGgVu3yDrA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3977b5096d" target="_blank"><i class="fa fa-download" style="font-size:30px"></i></a></p>
 </div>
 
+
 <!--EN-->
-<div>
+<!-- <div>
 <h2>[EN] Sponsorship Proposal</h2>
 <p>
 Our partners are encouraged to take an active participation, to engage with participants and to suggest themes for open spaces, which are self-organized sessions open to meaninful discussions. <strong>We want our partners to get involved in the event!</strong>
@@ -251,5 +252,6 @@ Aiming to enhance the participation of institutions in the event, we organized p
 <p>* Prices in USD are subject to the exchange rate on the day of payment.</p>
 <p><strong>COMMUNITY:</strong> Supporters who have contributed some benefit to the public or amount of
 up to US$ 500,00 receive the right to be publicized on social media and 1 registration for the event.</p>
-<p style="font-size:18px">See more in the full document here (in portuguese) <a href="https://www.canva.com/design/DAGgVu3yDrA/b5Cqc5nqS-bav6mD3RM3Fg/view?utm_content=DAGgVu3yDrA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3977b5096d" target="_blank"><i class="fa fa-download" style="font-size:30px"></i></a></p>
-</div>
+<p style="font-size:18px">See more in the full document here (in portuguese) <a href="https://www.canva.com/design/DAGgVu3yDrA/b5Cqc5nqS-bav6mD3RM3Fg/view?utm_content=DAGgVu3yDrA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3977b5096d" target="_blank"><i class="fa fa-download" style="font-size:30px"></i></a>
+</p> -->
+<!-- </div> -->
