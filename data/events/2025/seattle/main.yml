@@ -66,11 +66,11 @@ team_members: # Name is the only required field for team members.
     image: "cobus-bernard.jpg"
   - name: "Sunandan Barman"
     image: "sunandan-barman.jpg"
-  # - name: "Nimisha Mehta"
-  #   image: "nimisha-mehta.jpg"
-  # - name: "CJ Joulain"
-  #   image: "cj-joulain.jpg"
-organizer_email: "organizers@dodseattle.org" # Put your organizer email address here
+  - name: "Nimisha Mehta"
+    image: "nimisha-mehta.jpg"
+  - name: "CJ Joulain"
+    # image: "cj-joulain.jpg"
+organizer_email: "seattle@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
