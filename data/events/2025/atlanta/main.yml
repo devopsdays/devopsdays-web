@@ -105,6 +105,10 @@ sponsors:
     level: gold
   - id: gremlin
     level: gold
+  - id: checkmarx
+    level: gold
+  - id: gruntwork
+    level: gold
   - id: redmonk
     level: community
   - id: shadow-soft
