@@ -2,11 +2,11 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "How to master your usage of Open-source software: risks and benefits, as implemented at Lombard Odier"
+Title = "Comment maîtriser l'utilisation des logiciels Open-source : risques et avantages, tel qu'implémenté chez Lombard Odier"
 Type = "talk"
 Speakers = ["sebastien-pennec","marco-torello"]
 +++
 
-Every company relies on Open-source software, but few realize the risks and benefits of a solid Open-source strategy.
+Chaque entreprise dépend des logiciels Open-source, mais peu réalisent les risques et les avantages d'une stratégie Open-source solide.
 
-This story is about the Open-source journey at Lombard Odier, from the open-source program office (OSPO) conception till todays challenges, the lessons learned and our vision for the future.
+Cette histoire raconte le parcours Open-source chez Lombard Odier, depuis la conception du Open-source program office (OSPO) jusqu'aux défis actuels, les lessons learned et notre vision pour l'avenir.
