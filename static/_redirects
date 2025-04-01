@@ -64,7 +64,7 @@
 /kiev/*			/events/2024-kyiv/:splat		302
 /kyiv/*			/events/2025-kyiv/:splat		302
 /ljubljana/*		/events/2024-ljubljana/:splat		302
-/london/*		/events/2024-london/:splat		302
+/london/*		/events/2025-london/:splat		302
 /los-angeles/*		/events/2025-los-angeles/:splat		302
 /macapa/*		/events/2019-macapa/:splat		302
 /maceio/*		/events/2024-maceio/:splat		302
@@ -128,7 +128,7 @@
 /warsaw/*		/events/2024-warsaw/:splat		302
 /washington-dc/*	/events/2025-washington-dc/:splat	302
 /zaragoza/*		/events/2020-zaragoza/:splat		302
-/zurich/*		/events/2025-zurich/:splat		302
+/zurich/*		/events/2026-zurich/:splat		302
 /events/2024-ghent/*      /events/2024-antwerp/:splat     302!
 /events/2009-ghent/*          http://legacy.devopsdays.org/events/2009-ghent/:splat     301!
 /events/2010*                 http://legacy.devopsdays.org/events/2010:splat            301!
@@ -260,3 +260,4 @@
 /curitiba/*            /events/2024-curitiba/:splat           302
 /joao-pessoa/*            /events/2024-joao-pessoa/:splat           302
 /kerala/*            /events/2024-kerala/:splat           302
+/sibiu/*            /events/2025-sibiu/:splat           302

@@ -6,14 +6,21 @@ Description = "DevOpsDays Zurich 2025"
 +++
 
 <div class="row align-items-center">
-  <div class="col-sm-6 text-center p-2">
+  <div class="col-sm-5 text-center p-2">
     {{< event_logo >}}
   </div>
-  <div class="col-sm-6 text-center p-2">
-    <iframe src="https://player.vimeo.com/video/936702845?h=935e4fa3fe?autoplay=1&muted=1" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="float:bottom"></iframe>
-    <br/>Impressions from 2024
+  <div class="col-sm-7 text-center p-2">
+    <iframe 
+      src="https://player.vimeo.com/video/1068553160?h=935e4fa3fe?autoplay=1&muted=1" 
+      frameborder="0" 
+      allow="autoplay; fullscreen; picture-in-picture" 
+      allowfullscreen 
+      style="width: 100%; height: 300px; max-width: 100%;">
+    </iframe>
+    <br/>Impressions from 2025
   </div>  
 </div>
+
 <div class="row">
   <div class="col-md-12">
     <p>
@@ -77,7 +84,7 @@ Description = "DevOpsDays Zurich 2025"
     Do you need a {{< event_link page="hotel" text="hotel" >}} ?
   </div>
 </div>
--->
+
 
 <div class="row">
   <div class="col-md-2">
@@ -88,7 +95,7 @@ Description = "DevOpsDays Zurich 2025"
   </div>
 </div> 
 
-<!--
+
 <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
@@ -97,7 +104,6 @@ Description = "DevOpsDays Zurich 2025"
     <a href="https://sessionize.com/devopsdays-zurich-2025/">Propose a talk!</a>
   </div>
 </div> 
--->
 
 <div class="row">
   <div class="col-md-2">
@@ -107,6 +113,7 @@ Description = "DevOpsDays Zurich 2025"
     {{< event_link page="sponsor" text="Sponsor the conference!" >}}
   </div>
 </div>
+-->
 
 <div class="row">
   <div class="col-md-2">
