@@ -109,6 +109,8 @@ sponsors:
     level: gold
   - id: gruntwork
     level: gold
+  - id: redhat
+    level: gold
   - id: redmonk
     level: community
   - id: shadow-soft
@@ -324,5 +326,5 @@ ignites:
     date: 2025-04-30
   - title: "justin-reock"
     date: 2025-04-30
-  - title: "joan-esquivel"
+  - title: "TBD"
     date: 2025-04-30
