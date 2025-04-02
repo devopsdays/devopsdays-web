@@ -187,6 +187,10 @@ sponsors:
     level: silver
   - id: redhat
     level: gold
+  - id: suse
+    level: silver
+  - id: swiss-digital-network
+    level: gold
 program:
 
   - title: "Registration & Morning Coffee"
