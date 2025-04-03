@@ -136,6 +136,14 @@ sponsors:
     level: gold
   - id: cloudzero
     level: gold
+  - id: semaphoreci
+    level: gold
+  - id: dryrun-security
+    level: startup
+  - id: autoptic
+    level: startup
+  - id: renaiss
+    level: startup
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -171,6 +179,6 @@ sponsor_levels:
   - id: community
     label: Local Community Groups
     max: 2
-#  - id: startup
-#    label: Startup Alley - Local only
-#    max: 3
+  - id: startup
+    label: Startup Alley - Local only
+    max: 3
