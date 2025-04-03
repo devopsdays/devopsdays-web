@@ -76,6 +76,17 @@ Description = "DevOpsDays Halifax 2025"
 
 
 <div class="hfx">
+  <div style="background-color: #FFF3CD; color: #856404; padding: 1em; border-radius: 5px; text-align: center; width: 100%; font-weight: bold;">
+    🚀 CfP Deadline Extended to <span style="color: red;">April 15th</span>!
+    <br>
+    <a href="https://talks.devopsdays.org/devopsdays-halifax-2025/cfp">
+      <button style="background-color: #007bff; color: white; padding: 12px 20px; 
+               border: none; cursor: pointer; font-size: 16px; 
+               margin-top: 10px; min-width: 220px; white-space: nowrap;">
+  Submit your talk NOW!
+</button>
+    </a>
+  </div>
   <div class="header">
     <div class="logo">
       {{< event_logo >}}
@@ -87,7 +98,7 @@ Description = "DevOpsDays Halifax 2025"
       <p><strong>Who attends?</strong></p>
       <p>DevOpsDays Halifax attracts a diverse mix of professionals, from senior technical leaders and executives to software engineers, platform teams, site reliability engineers, security specialists, and students. Whether you're shaping DevOps strategy at an enterprise level or just starting out in the field, this event is your chance to connect, learn, and grow with the best in the industry.</p>
       <p>Set against the stunning backdrop of Halifax’s waterfront, DevOpsDays Halifax also offers the opportunity to connect over fresh seafood, scenic views, and the warmth of the Atlantic Canadian tech community.</p>
-      <p>Spots will fill fast—follow us on LinkedIn to be the first to know when registration opens!</p>
+      <p>Spots will fill fast—<a href="https://www.linkedin.com/company/devopsdays-halifax">follow us on LinkedIn</a> to be the first to know when registration opens!</p>
       <p>By attending this event, you agree to the <a href="/devopsdays-halifax-2025/code-of-conduct">DevOpsDays Halifax Code of Conduct</a>.</p>
     </div>
   </div>

@@ -39,8 +39,8 @@ Our sponsorship packages are structured around how you can help be part of the c
   <table class="table table-hover table-condensed">
     <tr>
       <th><i>Packages</i></th>
-      <th style="text-align: center"><b>Silver<br />3,000&nbsp;SGD</b></th>
-      <th style="text-align: center"><b>Gold<br />8,000&nbsp;SGD</b></th>
+      <th style="text-align: center"><b>Silver<br />4,000&nbsp;SGD</b></th>
+      <th style="text-align: center"><b>Gold<br />9,000&nbsp;SGD</b></th>
       <th style="text-align: center"><b>Platinum<br />Contact Us</b></th>
     </tr>
     <tr>
@@ -72,9 +72,9 @@ Our sponsorship packages are structured around how you can help be part of the c
     </tr>
     <tr>
       <td>Complimentary attendee tickets (workshops not included*)</td>
-      <td style="text-align: center"><strong>3</strong></td>
-      <td style="text-align: center"><strong>8</strong></td>
-      <td style="text-align: center"><strong>16</strong></td>
+      <td style="text-align: center"><strong>4</strong></td>
+      <td style="text-align: center"><strong>9</strong></td>
+      <td style="text-align: center"><strong>13</strong></td>
     </tr>
     <tr>
       <td>Logo on shared slide, rotating during breaks</td>
