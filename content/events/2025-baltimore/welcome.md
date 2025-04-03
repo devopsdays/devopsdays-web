@@ -10,8 +10,9 @@ Description = "devopsdays Baltimore 2025"
     <div class="row">
       <div class="col-md-8">
         <h2>Welcome to DevOpsDays Baltimore!</h2>
-        <h3>{{< event_link url-key="registration_link" text="Register to attend the conference!" >}}</h3>
-        <p>DevOpsDays Baltimore will be on May 20-21, 2025, Pava Center for Entrepreneurship at Johns Hopkins University in Baltimore.</p>
+        <h3>• {{< event_link url-key="registration_link" text="Register to attend the conference!" >}}</h3>
+        <h3>• {{< event_link page="sponsor" text="Interested in Sponsoring?" >}}</h3>
+        <p>DevOpsDays Baltimore will be on {{< event_start >}} - {{< event_end >}}, at the Pava Center for Entrepreneurship at Johns Hopkins University in Baltimore.</p>
 <p>From fledgling startups to established industry, the DMV is home to a large, vibrant technology community. Baltimore, in particular, has been a flurry of activity in the past several years, drawing attention from around the globe.</p>
 
 <p>DevOpsDays Baltimore brings development, operations, InfoSec, AI, Quality Assurance, IT management, and leadership together to discuss the culture and tools to make better organizations and products. The 2025 event is in a new location, offering an intimate setting that fosters deeper networking, personalized interactions, and an immersive experience where every conversation counts.</p>
@@ -66,7 +67,7 @@ Description = "devopsdays Baltimore 2025"
           <div class = "col-md-8">
             Check out the {{< event_link page="speakers" text="speakers!" >}}
           </div>
-        </div>
+        </div>-->
         <div class="row">
           <div class="col-md-2">
             <strong>Sponsors</strong>
@@ -74,7 +75,7 @@ Description = "devopsdays Baltimore 2025"
           <div class="col-md-8">
             {{< event_link page="sponsor" text="Sponsor the conference!" >}}
           </div>
-        </div>-->
+        </div>
         <div class="row">
           <div class="col-md-2">
             <strong>Contact</strong>
@@ -99,7 +100,7 @@ Description = "devopsdays Baltimore 2025"
       </div>
       <div class="col-md-4">
         <div class="row" style="text-align:center;">
-          <p><img alt="DevOpsDays Baltimore 2025" src="/events/2025-baltimore/logo-bmore.png" class="img-fluid"></p>
+          <p>{{< event_logo >}}</p>
         </div>
       </div>
     </div>

@@ -18,7 +18,7 @@ cfp_date_start: 2025-02-20T00:00:00+02:00  # start accepting talk proposals.
 cfp_date_end: 2025-06-15T23:59:59+02:00 # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://sessionize.com/devopsdays-tel-aviv-2025/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
@@ -35,13 +35,14 @@ location: "Tel Aviv" # Defaults to city, but you can make it the venue name.
 location_address: "Expo TLV, Pavillion 10, 101 Rokach Blvd, Tel Aviv-Jaffa" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
  # - name: location
  # - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
   - name: contact
+  - name: propose
+    url: https://sessionize.com/devopsdays-tel-aviv-2025/
   - name: conduct
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
@@ -142,8 +143,18 @@ organizer_email: "city_email@devopsdays.org" # Put your organizer email address 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: scylladb
+    level: diamond
   - id: groundcover
     level: platinum
+  - id: terasky-only
+    level: gold
+  - id: coralogix
+    level: gold
+  - id: quali
+    level: gold
+  - id: draftt
+    level: gold
   - id: statscraft
     level: community
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
@@ -151,6 +162,13 @@ sponsors:
     level: community
   - id: serverlesstlv
     level: community
+  - id: aws
+    level: community-day
+  - id: terasky-only
+    level: community-day
+  - id: quali
+    level: community-day
+  
   
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -176,3 +194,5 @@ sponsor_levels:
 #   label: Bronze
   - id: community
     label: Community Partners
+  - id: community-day
+    label: DevOps Community Day Partners

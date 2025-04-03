@@ -35,10 +35,10 @@ We will use several tools such as Trivy for image scanning, Dive to inspect the 
 The workshop will also cover strategies for continuously monitoring and updating images to maintain security over time.
 
 <strong>Prerequisites for this workshop:</strong>
-No prerequisites needed.
+- No preparation work needed
 
 <strong>Number of participants:</strong>
-The maximum number of participants at this workshop is 25.
+The maximum number of participants at this workshop is 40.
 
 <strong>Room</strong>
 “Seminar” / 1st floor 

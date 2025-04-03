@@ -14,12 +14,12 @@ startdate: 2025-09-15T00:00:00+02:00
 enddate: 2025-09-16T23:59:59+02:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2025-05-10T00:00:00+02:00 # start accepting talk proposals.
-cfp_date_end: 2025-08-01T12:00:00+02:00 # close your call for proposals.
+cfp_date_start: 2025-03-22T00:00:00+02:00 # start accepting talk proposals.
+cfp_date_end: 2025-06-12T12:00:00+02:00 # close your call for proposals.
 cfp_date_announce: # inform proposers of status
 
-cfp_open: "false"
-#cfp_link: "https://talks.devopsdays.org/devopsdays-cairo-2025/cfp" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_open: "true"
+cfp_link: "https://talks.devopsdays.org/devopsdays-cairo-2025/cfp" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: # close registration. Leave blank if registration is not open yet.
@@ -36,7 +36,7 @@ location: "The Nile Ritz-Carlton, Cairo" # Defaults to city, but you can make it
 location_address: "The Nile Ritz-Carlton, Cairo" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-#  - name: propose
+  - name: propose
 #  - name: location
 #  - name: local
 #  - name: registration
@@ -109,6 +109,8 @@ sponsors:
  - id: orange
    level: corporate 
  - id: vois
+   level: corporate
+ - id: stakpak
    level: corporate
  - id: cairo-university
    level: academia

@@ -1,6 +1,6 @@
 +++
 Title = "Rasmus Lystrøm"
-image = "adam-zieba.jpg"
+image = "rasmus-lystrom.jpg"
 linktitle = "rasmus-lystrom"
 type = "speaker"
 Website = "https://ondfisk.dk/"

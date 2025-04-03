@@ -35,11 +35,11 @@ location: "Clarion Congress Hotel" # Defaults to city, but you can make it the v
 location_address: "Freyova 33, Prague 9, 190 00" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
- # - name: location
+#  - name: propose
+  - name: location
   - name: registration
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -66,7 +66,22 @@ organizer_email: "prague@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-
+  - id:  mews
+    level: gold
+  - id:  sky
+    level: gold
+  - id: labyrinthlabs
+    level: gold
+  - id: exoscale
+    level: gold
+  - id:  hackihub
+    level: community
+  - id: alicetechnologies
+    level: community
+  - id: cloudnativeprg
+    level: community
+  - id: art4people
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -86,3 +101,96 @@ sponsor_levels:
   - id: community
     label: Community
 
+
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2025-05-22
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2025-05-22
+    start_time: "09:00"
+    end_time: "09:20"
+  - title: "talk 1"
+    type: talk
+    date: 2025-05-22
+    start_time: "09:20"
+    end_time: "09:55"
+  - title: "talk 2"
+    type: talk
+    date: 2025-05-22
+    start_time: "09:55"
+    end_time: "10:30"
+  - title: "Coffee Break"
+    type: custom
+    date: 2025-05-22
+    start_time: "10:30"
+    end_time: "10:55"
+  - title: "talk 3"
+    type: talk
+    date: 2025-05-22
+    start_time: "10:55"
+    end_time: "11:30"
+  - title: "tak 4"
+    type: talk
+    date: 2025-05-22
+    start_time: "11:35"
+    end_time: "12:10"
+  - title: "Lunch"
+    type: custom
+    date: 2025-05-22
+    start_time: "12:10"
+    end_time: "13:15"
+  - type: ignite
+    date: 2025-05-22
+    start_time: "13:15"
+    end_time: "13:45"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2025-05-22
+    start_time: "13:45"
+    end_time: "14:30"
+  - title: "attendee-suggested breakout discussions - Open Space #1"
+    type: open-space
+    date: 2025-05-22
+    start_time: "14:30"
+    end_time: "15:10"
+  - title: "attendee-suggested breakout discussions - Open Space #2"
+    type: open-space
+    date: 2025-05-22
+    start_time: "15:10"
+    end_time: "16:50"
+  - title: "attendee-suggested breakout discussions - Open Space #3"
+    type: open-space
+    date: 2025-05-22
+    start_time: "15:50"
+    end_time: "16:30"
+  - title: "tak 4"
+    type: talk
+    date: 2025-05-22
+    start_time: "16:30"
+    end_time: "17:10"
+  - title: "Closing notes"
+    type: custom
+    date: 2025-05-22
+    start_time: "17:15"
+    end_time: "17:30"    
+  - title: "Evening event"
+    type: custom
+    date: 2025-05-22
+    start_time: "17:30"
+    end_time: "?"
+
+ignites:
+  - title: "jan-vlnas"
+    date: 2025-05-22
+  - title: "martin-hauskrecht"
+    date: 2025-05-22
+  - title: "marek-jalovec"
+    date: 2025-05-22
+  - title: ""
+    date: 2025-05-22
+  - title: ""
+    date: 2025-05-22

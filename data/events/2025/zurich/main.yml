@@ -25,7 +25,7 @@ cfp_link: "https://sessionize.com/devopsdays-zurich-2025/" #if you have a custom
 registration_date_start: 2024-12-01T00:00:00+02:00
 registration_date_end: 2025-03-12T00:00:00+02:00
 
-registration_closed: "false" #set this to true if you need to manually close registration before your registration end date
+registration_closed: "true" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://ti.to/dod/dodzh2025" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
@@ -43,7 +43,7 @@ nav_elements:
 - name: location
 - name: sponsor
 - name: diversity
-- name: registration
+#- name: registration
 - name: contact
 - name: conduct
 # - name: example
@@ -142,8 +142,6 @@ sponsors:
   level: community
 - id: belikegrace
   level: community
-- id: pygirls
-  level: community
 - id: girlscodetoo
   level: community
 - id: infomaniak
@@ -183,6 +181,10 @@ sponsors:
 - id: cloudbees 
   level: bronze
 - id: datastore 
+  level: bronze
+- id: zesty
+  level: bronze
+- id: couchbase
   level: bronze
 
 sponsors_accepted: "no" # Whether you want "Become a XXX Sponsor!" link

@@ -2,6 +2,17 @@
 
 <div class = "row">
 
+  <!-- propose button -->
+  {{- if $e.startdate -}}
+    {{- if $e.cfp_date_start -}}
+      {{- if and (ge now (time $e.cfp_date_start)) (le now (time $e.cfp_date_end)) -}}
+        <div class = "col-auto offset-1 offset-md-0 welcome-page-cta">
+          <a href='{{ (partial "functions/get-cfp-url" $e) }}' class="btn jssocials-share-link event-cta-button" role="button" aria-pressed="true">Propose</a>
+        </div>
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+
     <!-- register button -->
     {{- if $e.registration_open -}}
       {{- if eq $e.registration_open "true" -}}
@@ -46,26 +57,11 @@
       {{- end -}}
     {{- end -}}
 
-
-
-  <!-- propose button -->
-  {{- if $e.startdate -}}
-    {{- if $e.cfp_date_start -}}
-      {{- if and (ge now (time $e.cfp_date_start)) (le now (time $e.cfp_date_end)) -}}
-        <div class = "col-auto offset-1 offset-md-0 welcome-page-cta">
-          <a href='{{ (partial "functions/get-cfp-url" $e) }}' class="btn jssocials-share-link event-cta-button" role="button" aria-pressed="true">Propose</a>
-        </div>
-      {{- end -}}
-    {{- end -}}
-  {{- end -}}
-
-
-
-  <!-- follow on twitter button -->
-  {{- if $e.event_twitter -}}
-    {{- if ne $e.event.twitter "" -}}
+  <!-- contact via email button -->
+  {{- if $e.organizer_email -}}
+    {{- if ne $e.organizer_email "" -}}
       <div class = "col-auto  offset-1 offset-md-0 welcome-page-cta">
-        <a href="https://twitter.com/{{$e.event_twitter}}" class="btn jssocials-share-link event-cta-button" role="button" aria-pressed="true">Follow</a>
+        <a href="mailto:{{ $e.organizer_email }}?subject=DevOpsDays {{ $e.city }} {{ $e.year }}" class="btn jssocials-share-link event-cta-button" role="button" aria-pressed="true">Contact</a>
       </div>
     {{- end -}}
   {{- end -}}
