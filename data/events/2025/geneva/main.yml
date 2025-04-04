@@ -120,8 +120,8 @@ sponsor_levels:
   - id: mic
     label: Mic
     max: 1
-  - id: dinner
-    label: Dinner
+  - id: speaker
+    label: Speaker
     max: 1
   - id: community
     label: Community
@@ -180,7 +180,7 @@ sponsors:
   - id: collaborationbetterstheworld
     level: mic
   - id: checkmarx
-    level: dinner
+    level: speaker
   - id: e-xpert-solutions
     level: bronze
   - id: centreon
