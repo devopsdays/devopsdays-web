@@ -110,7 +110,7 @@ sponsor_levels:
     label: Gold
     max: 8
   - id: speakers
-    label: Speaker
+    label: Speakers
     max: 1
   - id: silver
     label: Silver
