@@ -123,6 +123,14 @@ sponsors:
     level: support
   - id: cloudx-bel-2025
     level: silver
+  - id: paratic
+    level: support
+  - id: acai-valley
+    level: support
+  - id: para-livre
+    level: support
+  - id: easygestor
+    level: gold
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
