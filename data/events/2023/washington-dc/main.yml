@@ -241,7 +241,7 @@ sponsors:
     level: community
   - id: devopsdc-meetup
     level: community
-  - id: devitjobs
+  - id: devitjobs-before-20250404
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
