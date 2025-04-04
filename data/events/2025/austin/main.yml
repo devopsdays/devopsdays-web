@@ -102,12 +102,6 @@ team_members: # Name is the only required field for team members.
     image: "christa.jpg"
     linkedin: "https://www.linkedin.com/in/christameck/"
     github: "racerchik"
-  - name: "Shaun Mouton"
-    twitter: "sdmouton"
-    github: "moutons"
-    facebook: "http://tirefi.re/facebook/"
-    linkedin: "https://www.linkedin.com/in/sdmouton/"
-    image: "shaun.jpg"
   - name: "Laura Santamaria"
     bluesky: "https://bsky.app/profile/nimbinatus.bsky.social"
     github: "nimbinatus"
@@ -126,6 +120,7 @@ team_members: # Name is the only required field for team members.
     twitter: "danzentgraf"
     linkedin: "https://www.linkedin.com/in/zentgraf/"
     image: "dan.jpg"
+    role: "Advisory"
 
 organizer_email: "austin@devopsdays.org" # Put your organizer email address here
 
@@ -136,6 +131,14 @@ sponsors:
     level: gold
   - id: cloudzero
     level: gold
+  - id: semaphoreci
+    level: gold
+  - id: dryrun-security
+    level: startup
+  - id: autoptic
+    level: startup
+  - id: renaiss
+    level: startup
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -171,6 +174,6 @@ sponsor_levels:
   - id: community
     label: Local Community Groups
     max: 2
-#  - id: startup
-#    label: Startup Alley - Local only
-#    max: 3
+  - id: startup
+    label: Startup Alley - Local only
+    max: 3

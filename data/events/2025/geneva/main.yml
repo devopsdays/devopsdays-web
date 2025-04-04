@@ -120,9 +120,6 @@ sponsor_levels:
   - id: mic
     label: Mic
     max: 1
-  - id: dinner
-    label: Dinner
-    max: 1
   - id: community
     label: Community
 
@@ -180,7 +177,7 @@ sponsors:
   - id: collaborationbetterstheworld
     level: mic
   - id: checkmarx
-    level: dinner
+    level: speakers
   - id: e-xpert-solutions
     level: bronze
   - id: centreon
@@ -191,6 +188,8 @@ sponsors:
     level: silver
   - id: swiss-digital-network
     level: gold
+  - id: flowanalyticspro
+    level: silver
 program:
 
   - title: "Registration & Morning Coffee"
