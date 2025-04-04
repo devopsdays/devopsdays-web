@@ -110,7 +110,7 @@ sponsor_levels:
     label: Gold
     max: 8
   - id: speakers
-    label: Speakers
+    label: Speaker Dinner
     max: 1
   - id: silver
     label: Silver
@@ -119,9 +119,6 @@ sponsor_levels:
     label: Bronze
   - id: mic
     label: Mic
-    max: 1
-  - id: speaker
-    label: Speaker
     max: 1
   - id: community
     label: Community
@@ -180,7 +177,7 @@ sponsors:
   - id: collaborationbetterstheworld
     level: mic
   - id: checkmarx
-    level: speaker
+    level: speakers
   - id: e-xpert-solutions
     level: bronze
   - id: centreon
