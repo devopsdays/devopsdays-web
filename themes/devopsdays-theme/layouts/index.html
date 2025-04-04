@@ -34,7 +34,7 @@
                             {{- if ($.Scratch.Get "squarelogofile") -}}
                                 {{- $imagelocation := (printf "events/%s/%s" .name ($.Scratch.Get "squarelogofile")) -}}
                                 {{- $imageresource := resources.Get $imagelocation -}}
-                                {{- $imagefile := $imageresource.Fill "236x236 webp Lanczos q100 Center" -}}
+                                {{- $imagefile := $imageresource.Resize "236x236 webp Lanczos q100 Center" -}}
                                 <a href='{{ (printf "/events/%s" .name) }}'><img src='{{ $imagefile.RelPermalink  }}' class="img-fluid" alt="devopsdays {{ .city }}"/></a>
                                 {{- $.Scratch.Set "logo" "set" -}}
                             {{- end -}}
@@ -42,7 +42,7 @@
                         {{- if ne ($.Scratch.Get "logo") "set" -}}
                                 {{- $imagelocation := "img/event-logo-square.png" -}}
                                 {{- $imageresource := resources.Get $imagelocation -}}
-                                {{- $imagefile := $imageresource.Fill "236x236 webp Lanczos q100 Center" -}}
+                                {{- $imagefile := $imageresource.Resize "236x236 webp Lanczos q100 Center" -}}
                             <a href='{{ (printf "/events/%s" .name) }}'><img src='{{ $imagefile.RelPermalink  }}' class="img-fluid" alt="devopsdays {{ .city }}"/></a>
                         {{- end -}}
                         <br/>
