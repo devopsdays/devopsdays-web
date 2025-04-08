@@ -126,11 +126,15 @@ sponsors:
     level: gold
   - id: upcloud
     level: gold
+  - id: akamai
+    level: gold
   # Lanyard
   - id: schubergphilis
     level: lanyard
   # Silver
   - id: cloudbees
+    level: silver
+  - id: ing
     level: silver
   # Bronze
   - id: devleaps
