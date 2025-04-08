@@ -139,8 +139,8 @@ sponsor_levels:
     max: 10 # This is the same as omitting the max limit.
   - id: karaoke
     label: Karaoke
-  - id: bronze
-    label: Bronze
+  # - id: bronze
+  #   label: Bronze
   # - id: technology
   #   label: Technology
   #   max: 2
@@ -154,6 +154,6 @@ sponsor_levels:
     label: Coffee & Breaks
     max: 2
   - id: corporate
-    label: Corporate
+    label: Corporate (10+ tickets purchased)
   - id: community
     label: Community
