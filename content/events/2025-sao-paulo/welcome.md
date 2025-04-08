@@ -31,11 +31,11 @@ Description = "devopsdays Sao Paulo 2025"
   </div>
   <hr>
   <div class="col-md-6">
-    <h3>DevOpsDays São Paulo!</h3>
+    <h3>DevOpsDays São Paulo 2025</h3>
     <hr/>
   <div class = "row">
   <div class = "col-md-2">
-    <strong>Dates</strong>
+    <strong>Data</strong>
   </div>
   <div class = "col-md-4">
     {{< event_start >}}
