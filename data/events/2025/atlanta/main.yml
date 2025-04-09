@@ -182,7 +182,7 @@ program:
     date: 2025-04-29
     start_time: "11:10"
     end_time: "11:20"
-  - title: "andrew-clay-shafer"
+  - title: "katie-anderson"
     type: talk
     date: 2025-04-29
     start_time: "11:20"
@@ -237,7 +237,7 @@ program:
     date: 2025-04-30
     start_time: "09:00"
     end_time: "09:15"
-  - title: "katie-anderson"
+  - title: "andrew-clay-shafer"
     type: talk
     date: 2025-04-30
     start_time: "09:15"
