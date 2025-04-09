@@ -45,7 +45,7 @@ Description = "DevOpsDays Kansas City, after a successful return in 2024, is bac
                   &nbsp;&nbsp;&nbsp;Subscribe to the Mailing List
               </a>
             </div>
-<!-- remove CFP 
+<!-- remove CFP
             <div class = "d-flex p-2">
               <a class="btn btn-primary btn-block" style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://sessionize.com/kcdc-2025" target="_blank">
               <i class="fa-brands fa-stack-exchange"></i>
@@ -112,23 +112,23 @@ Description = "DevOpsDays Kansas City, after a successful return in 2024, is bac
 </div>
 -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
     View the {{< event_link page="program" text="program." >}}
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
