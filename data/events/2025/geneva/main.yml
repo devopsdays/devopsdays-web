@@ -190,6 +190,8 @@ sponsors:
     level: gold
   - id: flowanalyticspro
     level: silver
+  - id: orangecyberdefense
+    level: bronze
 program:
 
   - title: "Registration & Morning Coffee"
