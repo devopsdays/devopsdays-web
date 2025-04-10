@@ -39,6 +39,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     url: https://www.sympla.com.br/evento/devopsdays-belem-2025/2818140
   - name: Programação
     url: /events/2025-belem/programa
+  - name: Site
+    url: https://tasafo.github.io/belemdevopsdays/
   # - name: Palestrantes
   #   url: /events/2025-belem/speakers
   - name: Patrocínio
