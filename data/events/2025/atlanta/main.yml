@@ -123,6 +123,8 @@ sponsors:
     level: bronze
   - id: blacksintechnology
     level: community
+  - id: googlecloud
+    level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
