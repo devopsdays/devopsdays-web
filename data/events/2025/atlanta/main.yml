@@ -202,31 +202,57 @@ program:
     date: 2025-04-29
     start_time: "13:30"
     end_time: "14:00"
+  - title: "Switch rooms"
+    type: custom
+    date: 2025-04-29
+    start_time: "14:00"
+    end_time: "14:05"
   - title: "Open Space #1"
     type: open-space
     date: 2025-04-29
-    start_time: "14:00"
-    end_time: "14:45"
+    start_time: "14:05"
+    end_time: "14:35"
+  - title: "Switch rooms"
+    type: custom
+    date: 2025-04-29
+    start_time: "14:35"
+    end_time: "14:40"
   - title: "Open Space #2"
     type: open-space
     date: 2025-04-29
-    start_time: "15:00"
-    end_time: "15:45"
+    start_time: "14:40"
+    end_time: "15:10"
+  - title: "Break with Afternoon snack"
+    type: custom
+    date: 2025-04-29
+    start_time: "15:10"
+    end_time: "15:40"
   - title: "Open Space #3"
     type: open-space
     date: 2025-04-29
-    start_time: "16:00"
+    start_time: "15:40"
+    end_time: "16:10"
+  - title: "Switch rooms"
+    type: custom
+    date: 2025-04-29
+    start_time: "16:10"
+    end_time: "16:15"
+  - title: "Open Space #4"
+    type: open-space
+    date: 2025-04-29
+    start_time: "16:15"
     end_time: "16:45"
   - title: "Close Day"
     type: custom
     date: 2025-04-29
     start_time: "16:45"
     end_time: "17:00"
-  - title: "Evening event"
+  - title: "Happy Hour @ TBD"
     type: custom
     date: 2025-04-29
-    start_time: "19:00"
-    end_time: "late"
+    start_time: "17:00"
+    end_time: "19:00"
+
   - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2025-04-30
@@ -287,22 +313,47 @@ program:
     date: 2025-04-30
     start_time: "13:30"
     end_time: "14:00"
+  - title: "Switch rooms"
+    type: custom
+    date: 2025-04-30
+    start_time: "14:00"
+    end_time: "14:05"
   - title: "Open Space #1"
     type: open-space
     date: 2025-04-30
-    start_time: "14:00"
-    end_time: "14:45"
+    start_time: "14:05"
+    end_time: "14:35"
+  - title: "Switch rooms"
+    type: custom
+    date: 2025-04-30
+    start_time: "14:35"
+    end_time: "14:40"
   - title: "Open Space #2"
     type: open-space
     date: 2025-04-30
-    start_time: "15:00"
-    end_time: "15:45"
+    start_time: "14:40"
+    end_time: "15:10"
+  - title: "Break with Afternoon snack"
+    type: custom
+    date: 2025-04-30
+    start_time: "15:10"
+    end_time: "15:40"
   - title: "Open Space #3"
     type: open-space
     date: 2025-04-30
-    start_time: "16:00"
+    start_time: "15:40"
+    end_time: "16:10"
+  - title: "Switch rooms"
+    type: custom
+    date: 2025-04-30
+    start_time: "16:10"
+    end_time: "16:15"
+  - title: "Open Space #4"
+    type: open-space
+    date: 2025-04-30
+    start_time: "16:15"
     end_time: "16:45"
-  - title: "Closing"
+  - title: "Closing - Sponsor Raffles and Prizes"
     type: custom
     date: 2025-04-30
     start_time: "16:45"
@@ -328,5 +379,5 @@ ignites:
     date: 2025-04-30
   - title: "justin-reock"
     date: 2025-04-30
-  - title: "TBD"
-    date: 2025-04-30
+#  - title: "Add ignite here"
+#    date: 2025-04-30
