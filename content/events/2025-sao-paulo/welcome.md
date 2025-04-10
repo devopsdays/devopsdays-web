@@ -31,29 +31,20 @@ Description = "devopsdays Sao Paulo 2025"
   </div>
   <hr>
   <div class="col-md-6">
-    <h3>DevOpsDays São Paulo 2025!</h3>
+    <h3>DevOpsDays São Paulo 2025</h3>
     <hr/>
   <div class = "row">
-  	<div class = "col-md-2">
+  <div class = "col-md-2">
     <strong>Data</strong>
   </div>
   <div class = "col-md-4">
     {{< event_start >}}
   </div>
   </div>
-  <div class="row">
-      <div class="col-md-2">
-        <strong>CFP</strong>
-      </div>
-      <div class="col-md-6">
-		<p>Abertura em 23/04, fechamento em 22/07</p>
-        <!-- <i class="fa fa-sign-in fa-lg"></i> -->
-		<!-- {{< event_link url-key="cfp_link" text="Propose a talk!" >}} -->
-      </div>
-  </div>
   </div>
 <div class="col-md-4 embed-responsive">
     <iframe width="853" height="480" src="https://www.youtube.com/embed/QAKEmwCleYg" title="DevOpsDays São Paulo 2019 - Intro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 <!-- <div class = "row">
   <div class = "col-md-2">
