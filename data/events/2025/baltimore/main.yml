@@ -44,8 +44,9 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: propose
   - name: location
   - name: registration
- # - name: program
- # - name: speakers
+  - name: schedule
+    #url: "https://talks.devopsdays.org/devopsdays-baltimore-2025/schedule/"
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -81,6 +82,10 @@ organizer_email: "baltimore@devopsdays.org" # Put your organizer email address h
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: progress
+    level: platinum
+  - id: kaizen-approach
+    level: digital
   # - id: samplesponsorname
   #   level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
@@ -94,6 +99,7 @@ sponsors:
  #   level: gold
  # - id: observeinc
   #  level: platinum
+ 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
