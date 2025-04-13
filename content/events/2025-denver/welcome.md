@@ -6,7 +6,7 @@ Description = "devopsdays Denver 2025"
 +++
 <b>DevOpsDays Rockies is returning to Denver in 2025!</b><br><br>
 
-  <h2>{{< event_link page="propose" text="Submit a Talk!" >}}</h2>
+  <h2>{{< event_link url-key="cfp_link" text="Submit a Talk!" >}}</h2>
 <br><br>
   <h2>{{< event_link page="registration" text="Purchase your Ticket!" >}}</h2>
 <br><br>
