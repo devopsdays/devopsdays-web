@@ -6,9 +6,9 @@ Description = "devopsdays Denver 2025"
 +++
 <b>DevOpsDays Rockies is returning to Denver in 2025!</b><br><br>
 
-  <h2><a href="https://talks.devopsdays.org/dodrox-2025/cfp" style="font-size: 1em; padding: 5 10px;text-decoration: none; border-radius: 5px;">Submit a proposal!</a></h2>
+  <h2>{{< event_link page="propose" text="Submit a Talk!" >}}</h2>
 <br><br>
-  <h2><a href="events/2025-denver/registration" style="font-size: 1em; padding: 5 10px;text-decoration: none; border-radius: 5px;">Purchase your ticket!</a></h2>
+  <h2>{{< event_link page="registration" text="Purchase your Ticket!" >}}</h2>
 <br><br>
 
 <div style="float:right;">
