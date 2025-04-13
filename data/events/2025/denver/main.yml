@@ -35,9 +35,9 @@ event_social_youtube: "devopsdaysrockies"
 #
 # coordinates: "" # No longer used
 
-location: "Downtown Denver" # Defaults to city, but you can make it the venue name.
+location: "Bierstadt Lagerhaus" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
+location_address: "2875 Blake St, Denver, CO 80205" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
@@ -76,11 +76,14 @@ organizer_email: "denver@devopsdays.org"
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  # - id: samplesponsorname
-  #   level: gold
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  # - id: arresteddevops
-  #   level: community
+  - id: code-talent
+    level: community
+  - id: kubecareers
+    level: community
+  - id: kubeevents
+    level: community
+  - id: mentorsintech
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
