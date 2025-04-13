@@ -4,18 +4,17 @@ Type = "welcome"
 aliases = ["/events/2025-denver/"]
 Description = "devopsdays Denver 2025"
 +++
+<b>DevOpsDays Rockies is returning to Denver in 2025!</b><br><br>
+
+  <h2><a href="https://talks.devopsdays.org/dodrox-2025/cfp" style="font-size: 1em; padding: 5 10px;text-decoration: none; border-radius: 5px;">Submit a proposal!</a></h2>
+<br><br>
+  <h2><a href="{{< event_link page="registration">}}" style="font-size: 1em; padding: 5 10px;text-decoration: none; border-radius: 5px;">Purchase your ticket!</a></h2>
+<br><br>
 
 <div style="float:right;">
   <!-- {{< event_logo >}} -->
-  <img src="/events/2025-denver/colorado_square.png" width="300"/>
+  <img src="/events/2025-denver/colorado_square.png" width="300" style="padding: 20px 0;"/>
 </div>
-
-<b>DevOpsDays Rockies is returning to Denver in 2025!</b><br><br>
-
-  <h2><a href="https://talks.devopsdays.org/dodrox-2025/cfp" style="font-size: 1.5em; padding: 5 10px;text-decoration: none; border-radius: 5px;">&gt;&gt;&gt; Submit your proposal here &lt;&lt;&lt;</a></h2>
-<br><br>
-  <h2><a href="https://tickets.devopsdays.org/devopsdays-denver/2025/" style="font-size: 1.5em; padding: 5 10px;text-decoration: none; border-radius: 5px;">&gt;&gt;&gt; Purchase your ticket here! &lt;&lt;&lt;</a></h2>
-<br><br>
 
 <div class = "row">
   <div class = "col-md-2">
