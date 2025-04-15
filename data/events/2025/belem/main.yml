@@ -39,6 +39,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     url: https://www.sympla.com.br/evento/devopsdays-belem-2025/2818140
   - name: Programação
     url: /events/2025-belem/programa
+  - name: Site
+    url: https://tasafo.github.io/belemdevopsdays/
   # - name: Palestrantes
   #   url: /events/2025-belem/speakers
   - name: Patrocínio
@@ -120,9 +122,17 @@ sponsors:
   - id: kubeevents
     level: support
   - id: elas-na-tec-bel-2025
-    level: support
+    level: community
   - id: cloudx-bel-2025
     level: silver
+  - id: paratic
+    level: community
+  - id: acai-valley
+    level: community
+  - id: para-livre
+    level: community
+  - id: easygestor
+    level: gold
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
