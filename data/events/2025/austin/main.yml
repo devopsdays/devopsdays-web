@@ -133,12 +133,16 @@ sponsors:
     level: gold
   - id: semaphoreci
     level: gold
+  - id: checkmarx
+    level: track
   - id: dryrun-security
     level: startup
   - id: autoptic
     level: startup
   - id: renaiss
     level: startup
+  - id: wicys-austin
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
