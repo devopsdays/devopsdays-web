@@ -86,7 +86,7 @@ a.jssocials-share-link, a.event-cta-button {
 <br><br>
 <p></p>
 <p><a href="" target="_blank"><button type="button">ENVIE SUA PALESTRA</button></a></p>
-<p><a href="" target="_blank"><button>INSCREVA-SE</button></a></p>
+<p><a href="https://dodfsa2025.eventize.com.br/" target="_blank"><button>INSCREVA-SE</button></a></p>
 <p><a href="https://forms.gle/iHXKxDBnugiWydCh7"><button>SEJA UM SPONSOR</button></a></p>
 <p><a href="/events/2025-feira-de-santana/contact/"><button>CONTATO</button></a></p>
 <p><a href="https://maps.app.goo.gl/Gb8rMkRFBC6KXDtg9" target="_blank"><button type="button">LOCALIZAÇÃO</button></a></p>
