@@ -32,7 +32,7 @@ registration_link: "https://ti.to/kansas-city-developers-conference/kcdc-2025/wi
 #
 # coordinates: "" # No longer used
 
-location: "Kansas City Convention Center" # Defaults to city, but you can make it the venue name.
+location: "Kansas City Convention Center, Lobby 2100" # Defaults to city, but you can make it the venue name.
 #
 location_address: "Kansas City Convention Center, 301 W 13th St #100, Kansas City, MO 64105" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
 
