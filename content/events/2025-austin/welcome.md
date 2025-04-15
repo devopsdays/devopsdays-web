@@ -37,15 +37,15 @@ Description = "devopsdays Austin 2025"
             <a href="https://tickets.devopsdays.org/devopsdays-austin/2025/">Register to attend the conference!</a>
           </div>
         </div>
-        <div class = "row">
+        <!--<div class = "row">
           <div class = "col-md-2">
             <strong>Propose</strong>
           </div>
           <div class = "col-md-8">
             <a href="https://talks.devopsdays.org/devopsdays-austin-2025/cfp">Propose a talk!</a>
           </div>
-        </div>
-<!--        <div class = "row">
+        </div>-->
+        <div class = "row">
           <div class = "col-md-2">
             <strong>Schedule</strong>
           </div>
@@ -60,7 +60,7 @@ Description = "devopsdays Austin 2025"
           <div class = "col-md-8">
             Check out the {{< event_link page="speakers" text="speakers!" >}}
           </div>
-        </div>-->
+        </div>
         <div class="row">
           <div class="col-md-2">
             <strong>Sponsors</strong>
