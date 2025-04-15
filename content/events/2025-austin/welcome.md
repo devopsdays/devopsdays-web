@@ -12,7 +12,7 @@ Description = "devopsdays Austin 2025"
         <h2>Welcome to DevOpsDays Austin!</h2>
         <p>DevOpsDays Austin will be on May 1-2, 2025, in the TCEA Conference Center in Austin.</p>
         <p>Our theme this year is "DevOps is a Journey," where we focus on how DevOps is a journey for many companies going through a transformation, and DevOps itself is going through a transformation as new ideas come forward, like platform engineering. Come tell us your stories about your journey, technical or cultural.</p>
-        <!--<p>We have discounted tickets available for Austin locals&mdash;particularly students, people who are unemployed or have income constraints, and members of communities which are under-represented at tech events. <a href="https://forms.gle/R2NmRATcZTWPGQUW9">Please fill out this form</a> (available until the evening of May 1st; if it's down, submissions are closed). Your submission will go to the Austin core organizers (Daria, Laura, & Shaun), and we'll respond as quickly as we're able.</p>-->
+        <p>We have discounted tickets available for Austin locals&mdash;particularly students, people who are unemployed or have income constraints, and members of communities which are under-represented at tech events. <a href="https://forms.gle/eLtHgFk74zu7tqaw8">Please fill out this form</a> (available until the evening of April 30th; if it's down, submissions are closed). Your submission will go to the Austin core organizers (Laura & Rich), and we'll respond as quickly as we're able.</p>
         <div class="row">
           <div class="col-md-2">
             <strong>Dates</strong>
