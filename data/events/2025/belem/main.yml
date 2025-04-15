@@ -2,7 +2,7 @@ name: "2025-belem" # The name of the event. Four digit year with the city name i
 year: "2025" # The year of the event. Make sure it is in quotes.
 city: "Belém" # The displayed city name of the event. Capitalize it.
 event_twitter: "tasafo" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "" # Edit this to suit your preferences
+description: "DevOpsDays está chegando em Belém!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
@@ -15,7 +15,7 @@ enddate: 2025-06-07T23:59:59-03:00 # The end date of your event. Leave blank if 
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2025-03-01T00:00:00-03:00 # start accepting talk proposals.
-cfp_date_end: 2025-04-06T23:59:59-03:00 # close your call for proposals.
+cfp_date_end: 2025-04-21T23:59:59-03:00 # close your call for proposals.
 cfp_date_announce: 2025-04-21T23:59:59-03:00 # inform proposers of status
 
 cfp_open: "true"
@@ -29,7 +29,7 @@ registration_link: "https://www.sympla.com.br/evento/devopsdays-belem-2025/28181
 
 # Location
 coordinates: "40.741895, -73.989308" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Shopping Pátio Belém - Espaço G4 (4° Andar)" # Defaults to city, but you can make it the venue name.
+location: "Shopping Pátio Belém - Espaço G5 (4° Andar)" # Defaults to city, but you can make it the venue name.
 location_address: "Tv. Padre Eutíquio, 1078 - Batista Campos, Belém - PA, 66023-710" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
@@ -129,8 +129,6 @@ sponsors:
   - id: sucesu
     level: community
   - id: aws-user-group-belem
-    level: community
-  - id: beljogos
     level: community
 
   # Diamante
