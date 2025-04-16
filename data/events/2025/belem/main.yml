@@ -41,14 +41,14 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     url: https://www.sympla.com.br/evento/devopsdays-belem-2025/2818140
   - name: Programação
     url: https://tasafo.github.io/belemdevopsdays/programacao
-  - name: Site
-    url: https://tasafo.github.io/belemdevopsdays/
   - name: Palestrantes
     url: https://tasafo.github.io/belemdevopsdays/palestrantes
   - name: Patrocínio
     url: https://tasafo.github.io/belemdevopsdays/patrocinio
   - name: Código de Conduta
     url: https://tasafo.github.io/belemdevopsdays/codigo-de-conduta
+  - name: Regulamento PDCs
+    url: /events/2025-belem/regulamento-pcd
   - name: Contato
     url: https://tasafo.github.io/belemdevopsdays/contato
 
