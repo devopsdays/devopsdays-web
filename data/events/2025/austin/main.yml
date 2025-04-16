@@ -133,6 +133,8 @@ sponsors:
     level: gold
   - id: semaphoreci
     level: gold
+  - id: honeycomb
+    level: gold
   - id: checkmarx
     level: track
   - id: dryrun-security
@@ -157,9 +159,9 @@ sponsor_levels:
   - id: track
     label: Track
     max: 3
-  - id: lanyard
-    label: Lanyard
-    max: 1
+#  - id: lanyard
+#    label: Lanyard
+#    max: 1
   - id: coffee
     label: Coffee Bar
     max: 1
@@ -172,9 +174,9 @@ sponsor_levels:
   - id: food
     label: Food
     max: 6
-  - id: swag
-    label: Swag Bag (Add-On)
-    max: 20
+#  - id: swag
+#    label: Swag Bag (Add-On)
+#    max: 20
   - id: community
     label: Local Community Groups
     max: 2
