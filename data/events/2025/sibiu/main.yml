@@ -41,6 +41,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: propose
   - name: location
   - name: registration
+    url: "https://devopsdays-sibiu-2025.eventbrite.com"
   - name: program
  # - name: speakers
   - name: sponsor
