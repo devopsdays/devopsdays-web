@@ -98,7 +98,7 @@ sponsors:
   - id: spacelift
     level: gold
   - id: honeycomb
-    level: gold
+    level: platinum
   - id: fianu
     level: gold
   - id: chef
@@ -112,6 +112,10 @@ sponsors:
   - id: redhat
     level: gold
   - id: flox
+    level: gold
+  - id: circleci
+    level: gold
+  - id: peoplecert
     level: gold
   - id: redmonk
     level: community
@@ -133,6 +137,8 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: platinum
+    label: platinum
   - id: gold
     label: Gold
 #    max: 10
@@ -366,7 +372,7 @@ ignites:
     date: 2025-04-29
   - title: "kimasia-ayers"
     date: 2025-04-29
-  - title: "amber-vanderburg"
+  - title: "kate-holterhoff"
     date: 2025-04-29
   - title: "samantha-stlouis"
     date: 2025-04-29

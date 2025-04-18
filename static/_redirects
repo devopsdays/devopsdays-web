@@ -61,7 +61,7 @@
 /kazan/*		/events/2018-kazan/:splat		302
 /kiel/*			/events/2018-kiel/:splat		302
 /krakow/*		/events/2024-krakow/:splat		302
-/kiev/*			/events/2024-kyiv/:splat		302
+/kiev/*			/events/2025-kyiv/:splat		302
 /kyiv/*			/events/2025-kyiv/:splat		302
 /ljubljana/*		/events/2024-ljubljana/:splat		302
 /london/*		/events/2025-london/:splat		302
@@ -85,7 +85,7 @@
 /newcastle/*		/events/2018-newcastle/:splat		302
 /oslo/*			/events/2023-oslo/:splat		302
 /paris/*		/events/2024-paris/:splat		302
-/philadelphia/*		/events/2024-philadelphia/:splat	302
+/philadelphia/*		/events/2025-philadelphia/:splat	302
 /phoenix/*		/events/2023-phoenix/:splat		302
 /pittsburgh/*		/events/2015-pittsburgh/:splat		302
 /portland-me/*		/events/2020-portland-me/:splat		302
@@ -119,7 +119,7 @@
 /texas/*		/events/2021-texas/:splat		302
 /tokyo/*		/events/2025-tokyo/:splat		302
 /toronto/*		/events/2020-toronto/:splat		302
-/ukraine/*		/events/2024-kyiv/:splat		302
+/ukraine/*		/events/2025-kyiv/:splat		302
 /vancouver/*		/events/2024-vancouver/:splat		302
 /victoria/*		/events/2019-victoria/:splat		302
 /vitoria/*		/events/2022-vitoria/:splat		302
