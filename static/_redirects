@@ -61,7 +61,7 @@
 /kazan/*		/events/2018-kazan/:splat		302
 /kiel/*			/events/2018-kiel/:splat		302
 /krakow/*		/events/2024-krakow/:splat		302
-/kiev/*			/events/2024-kyiv/:splat		302
+/kiev/*			/events/2025-kyiv/:splat		302
 /kyiv/*			/events/2025-kyiv/:splat		302
 /ljubljana/*		/events/2024-ljubljana/:splat		302
 /london/*		/events/2025-london/:splat		302
@@ -75,7 +75,7 @@
 /medellin/*		/events/2022-medellin/:splat		302
 /minneapolis/*		/events/2024-minneapolis/:splat		302
 /montevideo/*		/events/2019-montevideo/:splat		302
-/montreal/*		/events/2024-montreal/:splat		302
+/montreal/*		/events/2025-montreal/:splat		302
 /moscow/*		/events/2020-moscow/:splat		302
 /nairobi/*		/events/2024-nairobi/:splat		302
 /nashville/*		/events/2024-nashville/:splat		302
@@ -85,7 +85,7 @@
 /newcastle/*		/events/2018-newcastle/:splat		302
 /oslo/*			/events/2023-oslo/:splat		302
 /paris/*		/events/2024-paris/:splat		302
-/philadelphia/*		/events/2024-philadelphia/:splat	302
+/philadelphia/*		/events/2025-philadelphia/:splat	302
 /phoenix/*		/events/2023-phoenix/:splat		302
 /pittsburgh/*		/events/2015-pittsburgh/:splat		302
 /portland-me/*		/events/2020-portland-me/:splat		302
@@ -106,8 +106,7 @@
 /salvador/*		/events/2024-salvador/:splat		302
 /santa-maria/*		/events/2018-santa-maria/:splat		302
 /santiago/*		/events/2025-santiago/:splat		302
-/sao-paulo/cfp		https://talks.devopsdays.org/devopsdays-sao-paulo-2024/cfp 302
-/sao-paulo/*		/events/2024-sao-paulo/:splat		302
+/sao-paulo/*		/events/2025-sao-paulo/:splat		302
 /seattle/*		/events/2025-seattle/:splat		302
 /shanghai/*		/events/2020-shanghai/:splat		302
 /shenzhen/*		/events/2018-shenzhen/:splat		302
@@ -120,7 +119,7 @@
 /texas/*		/events/2021-texas/:splat		302
 /tokyo/*		/events/2025-tokyo/:splat		302
 /toronto/*		/events/2020-toronto/:splat		302
-/ukraine/*		/events/2024-kyiv/:splat		302
+/ukraine/*		/events/2025-kyiv/:splat		302
 /vancouver/*		/events/2024-vancouver/:splat		302
 /victoria/*		/events/2019-victoria/:splat		302
 /vitoria/*		/events/2022-vitoria/:splat		302

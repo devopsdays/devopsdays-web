@@ -2,7 +2,6 @@
 Title = "Nathen Harvey"
 Linkedin = "https://www.linkedin.com/in/nathen/"
 Website = "https://linktr.ee/nathenharvey"
-Twitter = "nathenharvey"
 image = "nathen-harvey.png"
 type = "speaker"
 linktitle = "nathen-harvey"

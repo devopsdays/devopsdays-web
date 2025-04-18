@@ -1,0 +1,155 @@
+name: "2025-sao-paulo" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2025" # The year of the event. Make sure it is in quotes.
+city: "São Paulo" # The displayed city name of the event. Capitalize it.
+event_twitter: "sp_devopsdays" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays São Paulo está de volta! Data será divuldade em breve!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2025-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2025-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate:  2025-11-22T09:00:00+03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  2025-11-22T19:00:00+03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start:  2025-04-23T10:00:00+03:00 # start accepting talk proposals.
+cfp_date_end:  2025-07-22T23:59:59+03:00 # close your call for proposals.
+cfp_date_announce:  2025-04-23T10:00:00+03:00 # inform proposers of status
+
+cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+# coordinates: "" # No longer used
+
+location: "Spazio Itália - Sao Paulo" # Defaults to city, but you can make it the venue name.
+#
+location_address: "Avenida João Dias, 2046 (próximo ao Terminal João Dias)" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
+
+# Optional - Social badges
+# These can be used in the body of any page via matching shortcodes. See sample:  https://devopsdays.org/events/2025-denver/welcome/
+event_social_linkedin: "https://www.linkedin.com/company/devopsdayssp" # Change this to the url to your Linkedin group, company, or page.
+# event_social_slack: "https://join.slack.com/t/sp_devopsdays/custom_shared_invite_url" # Change this to your slack invite link.
+# event_social_listserv: "https://lists.devopsdays.org/subscription?custom_listserv_invite_url" # Change this to your mailing list subscription form url.
+event_social_twitter: "https://twitter.com/sp_devopsdays" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+# event_social_mastadon: "https://mastodon.social/@sp_devopsdays" # Change this to url to your mastadon page
+#bvent_social_bsky: "https://bsky.app/profile/sp_devopsdays.bsky.social" # Change this to url to your bluesky page
+# event_social_youtube: "sp_devopsdays" # Change this to the youtube channel handle for your event such as devopsdaysrox
+# legacy
+# event_twitter: "sp_devopsdays" # This will create a traditional "Follow" twitter button. Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+ # - name: chamadas (CfP)
+ #   url: https://talks.devopsdays.org/devopsdays-sao-paulo-2025/cfp
+ # - name: location
+ # - name: registration
+ # - name: program
+ # - name: speakers
+  - name: patrocínio
+    url: /events/2025-sao-paulo/sponsor
+  - name: local
+    url: /events/2025-sao-paulo/location
+  - name: contato
+    url: /events/2025-sao-paulo/contact
+  - name: código de conduta
+    url: /events/2025-sao-paulo/conduct-pt-br
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Giovana do Nascimento Pena"
+    email: "giovana.np1@gmail.com"
+    pronouns: "ela/dela"
+    role: "Fullstack Developer"
+    employer: "IBM"
+    bio: "Application Developer Fullstack na IBM, Formada de Analise e Desenvolvimento de Sistemas na Universidade UNASP e Pós-graduanda em DevOps pela PUC Minas, Certificada em Developer Profession - Level 2 Experienced e IBM Cloud. Participante do instituto meninas negras, uma das lideres do TLC a comunidade técnica interna da IBM e Líder e contributors Bronze 2022 da comunidade Elastic São Paulo."
+    github: "https://github.com/GiovanaNp1"
+    linkedin: "https://www.linkedin.com/in/giovana-do-nascimento/"
+    website: "https://giovana-nascimento.netlify.app/"
+    image: "giovana-pena.png"
+  - name: "Rafael Brito Gomes"
+    email: "gomex@devopsdays.org"
+    pronouns: "ele/dele"
+    employer: "DNSFilter"
+    github: "https://github.com/gomex"
+    twitter: "https://twitter.com/gomex"
+    linkedin: ""
+    website: "https://gomex.me"
+    mastodon: ""
+    image: "rafael-gomes.jpg"
+  - name: "Robert Silva"
+    email: "contato@robertsilva.com.br"
+    pronouns: "ele/dele"
+    role: "DevOps Engineer | IT Architect"
+    employer: "F1rst tecnologia"
+    bio: ""
+    github: "https://github.com/robertsilvatech"
+    facebook: ""
+    twitter: "https://twitter.com/robertsilvatech"
+    linkedin: "https://www.linkedin.com/in/robertsilvatech/"
+    website: ""
+    mastodon: ""
+    image: "robert-silva.jpg"
+  - name: "Rodrigo Turatti"
+    email: "rodrigo@turatti.dev"
+    pronouns: "ele/dele"
+    role: "DevOps/SRE"
+    employer: ""
+    bio: ""
+    github: ""
+    facebook: ""
+    twitter: ""
+    linkedin: "https://www.linkedin.com/in/rodrigoturatti"
+    website: ""
+    mastodon: ""
+    image: "rodrigo-turatti.png"
+#  - name: "John Doe"
+#  - name: "Jane Smith"
+#    twitter: "devopsdays"
+#  - name: "Sally Fields"
+#    employer: "Acme Anvil Co."
+#    github: "devopsdays"
+#    facebook: "https://www.facebook.com/sally.fields"
+#    linkedin: "https://www.linkedin.com/in/sallyfields"
+#    website: "https://mattstratton.com"
+#    image: "sally-fields.jpg"
+
+organizer_email: "sao-paulo@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  #- id: samplesponsorname
+  #  level: gold
+ ##  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  #- id: arresteddevops
+  #  level: community
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: gold
+    label: Gold
+#    max: 10
+  - id: silver
+    label: Silver
+    max: 0 # This is the same as omitting the max limit.
+  - id: bronze
+    label: Bronze
+  - id: community
+    label: Community
