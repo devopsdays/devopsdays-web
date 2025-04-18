@@ -26,7 +26,7 @@ cfp_date_announce: 2025-07-03T23:59:59+01:00 # inform proposers of status
 cfp_link: "https://docs.google.com/forms/d/e/1FAIpQLSfCx7yU_RInIncwU2dP48S790CY-LpNi9nenUsY82vRv0HKkQ/viewform"
 
 registration_date_start: 2025-03-28T00:00:00+01:00
-registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_end: 2025-09-23T00:00:00+01:00 #close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 # registration_closed: "true"
 registration_link: "https://ti.to/devopsdays-london/2025"
@@ -40,23 +40,22 @@ location_address: "Sir Alexander Fleming Building, Imperial College Road, London
 
 # Optional - Social badges
 # These can be used in the body of any page via matching shortcodes. See sample:  https://devopsdays.org/events/2025-denver/welcome/
-# event_social_linkedin: "https://linkedin.com/company/devopsdays" # Change this to the url to your Linkedin group, company, or page.
+event_social_linkedin: "https://www.linkedin.com/company/devopsdays-london/" # Change this to the url to your Linkedin group, company, or page.
 # event_social_slack: "https://join.slack.com/t/devopsdays/custom_shared_invite_url" # Change this to your slack invite link.
 # event_social_listserv: "https://lists.devopsdays.org/subscription?custom_listserv_invite_url" # Change this to your mailing list subscription form url.
-event_social_twitter: "DevOpsDaysLDN" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-# event_social_mastadon: "https://mastodon.social/@devopsdays" # Change this to url to your mastadon page
-# event_social_bsky: "https://bsky.app/profile/devopsdays.bsky.social" # Change this to url to your bluesky page
-# event_social_youtube: "devopsdays" # Change this to the youtube channel handle for your event such as devopsdaysrox
+#event_social_twitter: "DevOpsDaysLDN" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+event_social_mastadon: "https://social.devopsdays.org/@DevOpsDaysLondon" # Change this to url to your mastadon page
+event_social_bsky: "https://bsky.app/profile/devopsdays.london" # Change this to url to your bluesky page
+event_social_youtube: "DevOpsDaysLondon" # Change this to the youtube channel handle for your event such as devopsdaysrox
 # legacy
-event_twitter: "DevOpsDaysLDN" # This will create a traditional "Follow" twitter button. Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
   - name: location
- # - name: registration
+  - name: registration
  # - name: program
  # - name: speakers
- # - name: sponsor
+  - name: sponsor
   - name: accessibility
   - name: contact
   - name: conduct
@@ -74,6 +73,8 @@ team_members: # Name is the only required field for team members.
   - name: "bob walker"
     mastodon: "https://mastodon.me.uk/@bob"
     website: "https://randomness.org.uk"
+    linkedin: "https://www.linkedin.com/in/bob-walker-8ab30b4/"
+    bluesky: "https://bsky.app/profile/rjw1.bsky.social"
     pronouns: "they/them, he/him"
   - name: "Chris Mills"
     pronouns: "he/him"
@@ -130,15 +131,24 @@ sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: gold
-    label: Gold
-    max: 10
-  - id: silver
-    label: Silver
-    max: 10
-  - id: bronze
-    label: Bronze
-    max: 10
+  - id: standard
+    label: Standard
+    max: 14
+  - id: evening
+    label: Evening
+    max: 2
+  - id: accessibility
+    label: Accessibility
+    max: 1
+  - id: childcare
+    label: Childcare
+    max: 1
+  - id: Outreach
+    label: Outreach
+    max: 3
+  - id: logo
+    label: Logo
+    max: 20
   - id: community
     label: Community
     max: 10

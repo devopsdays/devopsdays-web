@@ -36,11 +36,11 @@ location: "TCEA Conference Center" # Defaults to city, but you can make it the v
 location_address: "3100 Alvin Devane Blvd Building B, Austin, TX 78741" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+#  - name: propose
   - name: location
   - name: register
     url: https://tickets.devopsdays.org/devopsdays-austin/2025/
- # - name: program
+  - name: schedule
   - name: speakers
   - name: sponsor
   - name: contact
@@ -133,12 +133,18 @@ sponsors:
     level: gold
   - id: semaphoreci
     level: gold
+  - id: honeycomb
+    level: gold
+  - id: checkmarx
+    level: track
   - id: dryrun-security
     level: startup
   - id: autoptic
     level: startup
   - id: renaiss
     level: startup
+  - id: wicys-austin
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -153,9 +159,9 @@ sponsor_levels:
   - id: track
     label: Track
     max: 3
-  - id: lanyard
-    label: Lanyard
-    max: 1
+#  - id: lanyard
+#    label: Lanyard
+#    max: 1
   - id: coffee
     label: Coffee Bar
     max: 1
@@ -168,9 +174,9 @@ sponsor_levels:
   - id: food
     label: Food
     max: 6
-  - id: swag
-    label: Swag Bag (Add-On)
-    max: 20
+#  - id: swag
+#    label: Swag Bag (Add-On)
+#    max: 20
   - id: community
     label: Local Community Groups
     max: 2
