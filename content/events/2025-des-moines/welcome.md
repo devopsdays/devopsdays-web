@@ -18,7 +18,7 @@ Description = "Devopsdays Des Moines 2025"
 <div class = "row">
   <div class = "col-md-4">
     <div class = "row justify-content-center">
-      <img src = "/events/2025-des-moines/logo.png" height="300px">
+      {{< event_logo >}}
     </div>
     <div class = "row">
       <div class = "col-md-2">
