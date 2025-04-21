@@ -114,7 +114,7 @@ As a reminder, there is **no** lead capture assistance available, and do not sha
 
 If you are a Silver or Gold sponsor you are assigned one of our table spaces. There will be a power strip provided between every two tables.  The venue assures us that there will be plenty, but please don’t hesitate to let us know if you think you will require more outlets.
 
-Furthermore, a TV screen (55”) rental is available upon request for €250 plus VAT but will need 3 weeks notice (May 31st) before the event.
+Furthermore, a TV screen (55”) rental is available upon request for €300 plus VAT and will need to be paid 3 weeks before the event via <a href="https://tickets.devopsdays.org/devopsdays-amsterdam/2025-sponsors/redeem?voucher=SCREEN_PLEASE">tickets.devopsdays.org/devopsdays-amsterdam/2025/</a>.
 
 ### <a name= 'PlatBeerGold'></a> Gold sponsors
 
@@ -176,4 +176,4 @@ To be added
     
 - **Can I buy extra tickets?**
     
-    Yes. Once you have completed your payment, we will send you a unique code to register up to 10 additional tickets for your company at 25% off. Or if you’d prefer an invoice and buy tickets that way reach out to us at [amsterdam@devopsdays.org](mailto:amsterdam@devopsdays.org)
+    Yes. Once you have completed your payment, we will send you a unique code to register up to 10 additional tickets for your company at 25% off. Payment through invoice or credit card.
