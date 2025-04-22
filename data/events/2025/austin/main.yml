@@ -135,6 +135,12 @@ sponsors:
     level: gold
   - id: honeycomb
     level: gold
+  - id: peoplecert
+    level: gold
+  - id: pelanor
+    level: gold
+  - id: chainguard
+    level: gold
   - id: checkmarx
     level: track
   - id: dryrun-security
@@ -145,6 +151,8 @@ sponsors:
     level: startup
   - id: wicys-austin
     level: community
+  - id: newiron
+    level: careerroom
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -159,9 +167,6 @@ sponsor_levels:
   - id: track
     label: Track
     max: 3
-#  - id: lanyard
-#    label: Lanyard
-#    max: 1
   - id: coffee
     label: Coffee Bar
     max: 1
@@ -174,9 +179,9 @@ sponsor_levels:
   - id: food
     label: Food
     max: 6
-#  - id: swag
-#    label: Swag Bag (Add-On)
-#    max: 20
+  - id: careerroom
+    label: Career Room
+    max: 1
   - id: community
     label: Local Community Groups
     max: 2
