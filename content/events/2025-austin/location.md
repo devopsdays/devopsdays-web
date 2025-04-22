@@ -33,7 +33,7 @@ Address: 3100 Alvin Devane Blvd, Building B, Austin, TX 78741
 
 This is the map of the venue:
 
-{{< asset year="2025" city="austin" name="TCEA layout" image="layout-tcea.png" >}}
+<img src="/events/2025-austin/layout-tcea.png" alt="venue layout">
 
 ## Transportation
 
@@ -62,7 +62,7 @@ Uber and Lyft are the most popular services in Austin. We highly recommend using
 
 Our venue has a limited number of parking spaces. Parking is around the back of the building (please reference this map) and will be clearly marked with signage. We will also have volunteers out in the parking lot to guide you. We cannot park in other parking spaces as there are other tenants in the complex; please be aware that parking in spaces that are not within our block can result in your car being towed.
 
-{{< asset year="2025" city="austin" name="parking map indicating spots behind the building" image="tcea_parking.png" >}}
+<img src="/events/2025-austin/tcea_parking.png" alt="parking map indicating spots behind the building">
 
 For overflow parking, we also have a parking block at Tru by Hilton 2 miles away. We recommend that, if you need to go to the overflow parking, you carpool with others rather than trying to walk to the venue from there.
 
