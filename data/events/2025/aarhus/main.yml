@@ -119,7 +119,11 @@ sponsors:
     level: community
   - id: stibo-systems
     level: community
+  - id: the-tech-collective
+    level: community
   - id: jysk
+    level: community
+  - id: bankdata
     level: community
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
