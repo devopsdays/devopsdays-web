@@ -2,7 +2,7 @@
 Title = "Rhia Dixon"
 Twitter = "TheFakeRiRi"
 linkedin = "https://www.linkedin.com/in/rhiadixon/"
-image = "rhia-dixon.png"
+image = "rhia-dixon.jpg"
 type = "speaker"
 linktitle = "rhia-dixon"
 +++
