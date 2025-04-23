@@ -192,6 +192,10 @@ sponsors:
     level: silver
   - id: orangecyberdefense
     level: bronze
+  - id: mongodb
+    level: silver
+  - id: portworx
+    level: silver
 program:
 
   - title: "Registration & Morning Coffee"
