@@ -16,7 +16,7 @@ enddate:  2025-10-01T23:59:59+02:00
 
 cfp_date_start: 2025-04-22T00:00:00-03:00 # start accepting talk proposals.
 cfp_date_end: 2025-06-22T23:59:59-03:00 # close your call for proposals.
-cfp_date_announce: 2025-04-22T23:59:59-03:00 # inform proposers of status
+# cfp_date_announce: 2025-04-22T23:59:59-03:00 # inform proposers of status
 
 cfp_link: "https://talks.devopsdays.org/devopsdays-philadelphia-2025/cfp" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
