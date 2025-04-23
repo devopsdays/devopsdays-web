@@ -5,7 +5,6 @@ linkedin = "https://www.linkedin.com/in/rhiadixon/"
 image = "rhia-dixon.png"
 type = "speaker"
 linktitle = "rhia-dixon"
-
 +++
 
 Kansas City. Lead Dev. She/Her. Physicist. Mentor. Mom. A Manager of Mischief. Dangerous in the front; deadly in the back. Enabler of repeatable, scalable success.
