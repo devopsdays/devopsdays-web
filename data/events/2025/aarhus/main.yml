@@ -103,27 +103,27 @@ organizer_email: "aarhus@devopsdays.org" # Put your organizer email address here
 sponsors:
   - id: eficode
     level: gold
-  - id: systematic
-    level: silver
   - id: solidify
     level: silver
-  - id: tech-hub-aarhus
+  - id: systematic
+    level: silver
+  - id: bankdata
     level: community
-  - id: ramboll
+  - id: jysk
     level: community
   - id: knowit
     level: community
-  - id: stickermule
+  - id: ramboll
     level: community
   - id: salling-group
     level: community
   - id: stibo-systems
     level: community
+  - id: stickermule
+    level: community
+  - id: tech-hub-aarhus
+    level: community
   - id: the-tech-collective
-    level: community
-  - id: jysk
-    level: community
-  - id: bankdata
     level: community
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
