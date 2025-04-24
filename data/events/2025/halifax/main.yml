@@ -31,17 +31,17 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 # Location
 coordinates: ""
-location: ""
-location_address: ""
+location: "Kenneth C. Rowe Management Building, Dalhousie University" # The name of the venue. This will show up on the welcome page.
+location_address: "6100 University Ave, Halifax, NS B3H 1W7"
 #
 location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- - name: propose
- # - name: location
+ # - name: propose
+ - name: location
  # - name: registration
- # - name: program
- # - name: speakers
+ - name: program
+ - name: speakers
  - name: sponsor
  - name: contact
  - name: conduct
@@ -80,6 +80,8 @@ organizer_email: "halifax@devopsdays.org" # Put your organizer email address her
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+- id: akamai
+  level: gold
 - id: dns
   level: social-event
 - id: kubecareers
@@ -104,12 +106,6 @@ sponsor_levels:
     label: Silver
     max: 6
     #max: 0 # This is the same as omitting the max limit.
-  - id: closedcaptioning
-    label: Closed Captioning
-    max: 1
-  - id: lanyard
-    label: Lanyard
-    max: 1
   - id: social-event
     label: Social Event
     max: 1
