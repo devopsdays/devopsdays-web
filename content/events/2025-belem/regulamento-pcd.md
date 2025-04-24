@@ -1,3 +1,6 @@
+---
+title: "Regulamento PCD"
+---
   <div>
     <h2 id="regulamento-pessoas-com-limitações">
       🎟️ REGULAMENTO – INGRESSOS PARA PESSOAS COM DEFICIÊNCIA (PCDs)
