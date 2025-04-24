@@ -74,8 +74,12 @@ sponsors:
     level: gold
   - id: exoscale
     level: gold
+  - id: cloudfresh
+    level: gold
   - id: tspdata
     level: silver
+  - id: keboola
+    level: bronze
   - id:  hackihub
     level: community
   - id: alicetechnologies
