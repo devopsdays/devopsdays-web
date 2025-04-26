@@ -27,7 +27,7 @@ registration_date_start: # start accepting registration. Leave blank if registra
 registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "https://www.eventbrite.com/e/devops-days-sibiu-tickets-1329782147199?aff=erelexpmlt" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: 'https://devopsdays-sibiu-2025.eventbrite.com' # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -110,9 +110,9 @@ sponsors:
   - id: general-engineering--management-solutions
     level: gold
   - id: kubecareers
-    level: gold
+    level: media
   - id: kubeevents
-    level: gold
+    level: media
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -128,8 +128,11 @@ sponsor_levels:
     max: 0 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
+  - id: media
+    label: Media
   - id: community
-    label: Community
+    label: 
+
 
 
 program:
