@@ -268,7 +268,7 @@ program:
     date: 2025-04-30
     start_time: "09:00"
     end_time: "09:15"
-  - title: "kristina-kondrashevich"
+  - title: "marko-klemetti"
     type: talk
     date: 2025-04-30
     start_time: "09:15"
@@ -324,7 +324,7 @@ program:
     date: 2025-04-30
     start_time: "14:20"
     end_time: "14:45"
-  - title: "marko-klemetti"
+  - title: "kristina-kondrashevich"
     type: talk
     date: 2025-04-30
     start_time: "14:45"
