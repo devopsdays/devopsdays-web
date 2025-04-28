@@ -47,7 +47,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     url: https://tasafo.github.io/belemdevopsdays/patrocinio
   - name: Código de Conduta
     url: https://tasafo.github.io/belemdevopsdays/codigo-de-conduta
-  - name: Regulamento PDCs
+  - name: Regulamento PCD
     url: /events/2025-belem/regulamento-pcd
   - name: Contato
     url: https://tasafo.github.io/belemdevopsdays/contato
