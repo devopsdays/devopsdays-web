@@ -35,8 +35,8 @@ location_address: "" #Optional - use the street address of your venue. This will
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   # - name: propose
-  - name: register
-    url: https://devopsdaysdenmark.ticketbutler.io/e/devopsdays-aarhus-2025/
+  # - name: register
+  # url: https://devopsdaysdenmark.ticketbutler.io/e/devopsdays-aarhus-2025/
   - name: location
   # - name: registration
   - name: program
