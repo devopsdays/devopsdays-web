@@ -78,6 +78,8 @@ sponsors:
     level: gold
   - id: tspdata
     level: silver
+  - id: pure-storage
+    level: lanyard
   - id: keboola
     level: bronze
   - id:  hackihub
@@ -202,6 +204,4 @@ ignites:
   - title: "marek-jalovec"
     date: 2025-05-22
   - title: "martin-hauskrecht"
-    date: 2025-05-22
-  - title: "neel-shah"
     date: 2025-05-22
