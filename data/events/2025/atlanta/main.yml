@@ -53,11 +53,6 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/chris-corriere/"
     twitter: "ecology_chris"
 
-  - name: "John Dyer"
-    image: "john-dyer.jpg"
-    twitter: "thedyers"
-    linkedin: "https://www.linkedin.com/in/johntdyer/"
-
   - name: "Andre Thenot"
     image: "andre-thenot.jpg"
     twitter: "athenot"
