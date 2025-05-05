@@ -27,9 +27,6 @@ registration_closed: "" #set this to true if you need to manually close registra
 registration_link: "https://devopsdaysATL2025.eventbrite.com" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
-#
-# coordinates: "" # No longer used
-
 location: "The Historic Academy of Medicine" # Defaults to city, but you can make it the venue name.
 location_address: "875 W Peachtree St NW, Atlanta, GA 30309" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
 
@@ -255,7 +252,7 @@ program:
     date: 2025-04-29
     start_time: "16:45"
     end_time: "17:00"
-  - title: "Happy Hour @ TBD"
+  - title: "Happy Hour at Pour Taproom Midtown"
     type: custom
     date: 2025-04-29
     start_time: "17:00"
@@ -374,8 +371,6 @@ ignites:
     date: 2025-04-29
   - title: "kate-holterhoff"
     date: 2025-04-29
-  - title: "samantha-stlouis"
-    date: 2025-04-29
   - title: "jason-torres"
     date: 2025-04-29
 
@@ -383,9 +378,9 @@ ignites:
     date: 2025-04-30
   - title: "pratik-parikh"
     date: 2025-04-30
-  - title: "patrice-lindo"
-    date: 2025-04-30
   - title: "justin-reock"
     date: 2025-04-30
-#  - title: "Add ignite here"
-#    date: 2025-04-30
+  - title: "nathen-harvey-ignite"
+    date: 2025-04-30
+  - title: "ruthie-irvin"
+    date: 2025-04-30

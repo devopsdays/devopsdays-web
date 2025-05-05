@@ -73,20 +73,7 @@ Description = "DevOpsDays Halifax 2025"
   }
 }
 </style>
-
-
 <div class="hfx">
-  <div style="background-color: #FFF3CD; color: #856404; padding: 1em; border-radius: 5px; text-align: center; width: 100%; font-weight: bold;">
-    🚀 CfP Deadline Extended to <span style="color: red;">April 15th</span>!
-    <br>
-    <a href="https://talks.devopsdays.org/devopsdays-halifax-2025/cfp">
-      <button style="background-color: #007bff; color: white; padding: 12px 20px; 
-               border: none; cursor: pointer; font-size: 16px; 
-               margin-top: 10px; min-width: 220px; white-space: nowrap;">
-  Submit your talk NOW!
-</button>
-    </a>
-  </div>
   <div class="header">
     <div class="logo">
       {{< event_logo >}}
@@ -105,7 +92,6 @@ Description = "DevOpsDays Halifax 2025"
   <div class="buttons">
     <a href="../sponsor/"><button>Become a Sponsor</button></a>
     <a href="../conduct/"><button>Code of Conduct</button></a>
-    <a href="https://talks.devopsdays.org/devopsdays-halifax-2025/cfp"><button>Call for Speakers</button></a>
   </div>
   </div>
 

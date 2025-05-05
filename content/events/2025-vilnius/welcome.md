@@ -107,7 +107,7 @@ Description = "devopsdays Vilnius 2025"
             <div class="d-flex p-2">
                 <a class="btn btn-primary btn-block button-primary"
                     style="background-color: #1bff9f; border-color: #1bff9f; color: #000000"
-                    href="https://forms.gle/cJnLV6pzrsJ3GPcR8">
+                    href="https://devopsdays.eo.page/xfdc9">
                     <i class="fa fa-envelope fa-lg"></i>&nbsp;&nbsp;&nbsp;Subscribe to our Newsletter</a>
             </div>
         </div>

@@ -78,8 +78,14 @@ sponsors:
     level: gold
   - id: exoscale
     level: gold
+  - id: cloudfresh-gitlab
+    level: gold
   - id: tspdata
     level: silver
+  - id: pure-storage
+    level: lanyard
+  - id: keboola
+    level: bronze
   - id:  hackihub
     level: community
   - id: alicetechnologies
@@ -202,6 +208,4 @@ ignites:
   - title: "marek-jalovec"
     date: 2025-05-22
   - title: "martin-hauskrecht"
-    date: 2025-05-22
-  - title: "neel-shah"
     date: 2025-05-22

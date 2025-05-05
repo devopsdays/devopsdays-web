@@ -201,6 +201,9 @@ sponsor_levels:
   - id: silver
     label: Silver
     max: 6
+  - id: digital
+    label: Digital
+    max: 0
     #max: 0 # This is the same as omitting the max limit.
   - id: closedcaptioning
     label: Closed Captioning
