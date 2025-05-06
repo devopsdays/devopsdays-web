@@ -346,12 +346,6 @@ program:
     start_time: "11:00"
     end_time: "11:30"
 
-  - title: "bridging-aws-cdk-and-terraform"
-    type: custom
-    date: 2025-05-15
-    start_time: "11:00"
-    end_time: "11:30"
-
   - title: "10 Years of DevOpsDays Singapore"
     type: custom
     date: 2025-05-15
