@@ -5,7 +5,5 @@ Description = "Registration for devopsdays Bogotá 2025"
 +++
 
 <div style="width:100%; text-align:left;">
-
-Embed registration iframe/link/etc.
-</div></div>
+Coming Soon!
 </div>
