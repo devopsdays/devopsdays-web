@@ -84,6 +84,8 @@ organizer_email: "baltimore@devopsdays.org" # Put your organizer email address h
 sponsors:
   - id: progress
     level: platinum
+  - id: peoplecert
+    level: platinum
   - id: kaizen-approach
     level: digital
   # - id: samplesponsorname
