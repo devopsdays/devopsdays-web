@@ -23,20 +23,32 @@ Description = "Conoce a nuestros speakers del DevOpsDays Lima 2025"
         {
             "name": "Marc Hornbeek",
             "avatar": "/img/lima-marc.jpg",
-            "biography": "📚 Marc es autor de los libros “Engineering DevOps” (Bestseller en Amazon) y “Continuous Testing, Quality, Security and Feedback” (Mejor Libro de DevOps 2024 por DevOps Institute). También es embajador e instructor en DevOps Institute, y colaborador habitual en medios como DevOps.com, CloudNativeNow.com y SecurityBoulevard.com. 🌍 Con una trayectoria internacional, Marc es un consultor estratégico que impulsa transformaciones digitales seguras mediante un enfoque integral en pruebas continuas, DevOps, DevSecOps y seguridad asistida por IA. Ha liderado más de 90 transformaciones en empresas, proveedores de servicios e instituciones gubernamentales.",
+            "biography": "Marc es autor de los libros “Engineering DevOps” (Bestseller en Amazon) y “Continuous Testing, Quality, Security and Feedback” (Mejor Libro de DevOps 2024 por DevOps Institute). También es embajador e instructor en DevOps Institute, y colaborador habitual en medios como DevOps.com, CloudNativeNow.com y SecurityBoulevard.com. Con una trayectoria internacional, Marc es un consultor estratégico que ha liderado más de 90 transformaciones digitales en empresas mediante un enfoque integral en pruebas continuas, DevOps, DevSecOps y seguridad asistida por IA.",
             "submissions": ["https://www.linkedin.com/in/marchornbeek/"]
         },
         {
-            "name": "Andre Rezende",
-            "avatar": "/img/lima-andree.jpeg",
-            "biography": "Chief Technology Officer (CTO) del grupo Credicorp y ex Managing Director de Accenture 🌍 Con más de 30 años de experiencia en tecnología para el sector financiero América Latina, India y Europa; André ha liderado transformaciones tecnológicas en banca, mercado capitales, microfinanzas, seguros, fondos de pensiones y fintech.",
+            "name": "André Rezende",
+            "avatar": "/img/lima-andre.jpeg",
+            "biography": "André es Chief Technology Officer (CTO) del grupo Credicorp y ex Managing Director de Accenture. Con más de 30 años de experiencia en tecnología para el sector financiero América Latina, India y Europa; André ha liderado transformaciones tecnológicas en banca, mercado capitales, microfinanzas, seguros, fondos de pensiones y fintech.",
             "submissions": ["https://www.linkedin.com/in/anrezende/"]
         },
         {
             "name": "Javier Cardoso",
             "avatar": "/img/lima-javi.jpeg",
-            "biography": "Javier ha recorrido cada escalón en Mercado Libre hasta convertirse en el líder que está transformando el ecosistema digital latinoamericano. \n 🌍 Tras 14 años en la empresa de comercio electrónico más grande de la región, Javier lidera Cloud & Platform, el equipo que democratiza el comercio y los pagos digitales, elevando la experiencia de desarrollo a niveles excepcionales..",
+            "biography": "Javier ha recorrido cada escalón en Mercado Libre hasta convertirse en el líder que está transformando el ecosistema digital latinoamericano. Tras 14 años en la empresa de comercio electrónico más grande de la región, Javier lidera Cloud & Platform, el equipo que democratiza el comercio y los pagos digitales, elevando la experiencia de desarrollo a niveles excepcionales.",
             "submissions": ["https://www.linkedin.com/in/javiercardoso/"]
+        },
+        {
+            "name": "Rossana Suárez",
+            "avatar": "/img/lima-rossana.jpeg",
+            "biography": "Con raíces venezolanas y argentinas, Rossana Suárez (@RoxsRoss) se ha convertido en una de las voces femeninas más influyentes del ecosistema DevOps en habla hispana. Actual Tech Lead DevOps en NaranjaX y con distinciones que hablan por sí solas: AWS Hero, Docker Captain y GitLab Hero. Su día a día combina automatización, DevSecOps y orquestación de entornos multi‑cloud que sirven a millones de usuarios.",
+            "submissions": ["https://www.linkedin.com/in/roxsross/"]
+        },
+        {
+            "name": "Mabel Gerónimo",
+            "avatar": "/img/lima-mabel.jpg",
+            "biography": " Mabel es Strategic Solutions Engineer de GitHub Inc. Con más de 9 años transformando los procesos de desarrollo en las principales organizaciones de la región, Mabel ha revolucionado la implementación de prácticas DevSecOps y soluciones GitHub que potencian la eficiencia y seguridad del ciclo de desarrollo. Dominicana de nacimiento, Ingeniera de Sistemas con participación destacada en las competencias algorítmicas de ACM-ICPC, ahora desde Austin, Texas nos trae su visión global y experiencia incomparable en implementación de IA.",
+            "submissions": ["https://www.linkedin.com/in/mabel-ger%C3%B3nimo-88b11091/"]
         }
     ];  
 
@@ -57,7 +69,7 @@ Description = "Conoce a nuestros speakers del DevOpsDays Lima 2025"
         talk.setAttribute('href', speaker.submissions[0] ? `${speaker.submissions[0]}` : ``);
         talk.setAttribute('target', '_blank');
         talk.className = `btn btn-primary`;
-        talk.innerHTML = `Link to talk`;
+        talk.innerHTML = `Link to connect`;
 
         li.appendChild(name);
         li.appendChild(pic);
