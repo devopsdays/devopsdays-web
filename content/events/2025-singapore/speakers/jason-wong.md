@@ -1,6 +1,6 @@
 +++
 Title = "Jason Wong"
-image = "jason-wong.png"
+image = "jason-wong.jpg"
 Linkedin = "https://www.linkedin.com/in/jason-wong-391a7624/"
 type = "speaker"
 linktitle = "jason-wong"

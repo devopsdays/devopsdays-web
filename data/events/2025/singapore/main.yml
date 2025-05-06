@@ -90,16 +90,36 @@ proposal_email: "singapore@devopsdays.org" # Put your proposal email address her
 sponsors:
   - id: ttabsg
     level: platinum 
+  - id: redis
+    level: gold
+  - id: f5
+    level: gold
+  - id: grafana
+    level: gold
+  - id: findy-team
+    level: gold
   - id: cloudopslab
+    level: silver 
+  - id: learnk8s
+    level: silver   
+  - id: clickhouse
     level: silver    
   - id: singapore-devops-community
     level: community
   - id: singapore-devsecops-community
     level: community
-  - id: kube-careers
+  - id: singapore-spring-community
     level: community
-  - id: kube-events
+  - id: kubecareers
     level: community
+  - id: kubeevents
+    level: community
+  - id: snyk
+    level: travel
+  - id: redhat
+    level: travel
+  - id: snowflake
+    level: travel
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -143,67 +163,73 @@ program:
     end_time: "09:50"
     background_color: "#B4C6E7"
 
-  - title: "supercharge-agentic-ai-projects"
+  - title: "what-exactly-are-ai-agents"
     type: talk
     date: 2025-05-14
     start_time: "09:50"
-    end_time: "10:20"
+    end_time: "10:05"
 
   - title: "Tea Break, Visit Sponsors"
     type: custom
     date: 2025-05-14
-    start_time: "10:20"
-    end_time: "10:50"
+    start_time: "10:05"
+    end_time: "10:30"
     background_color: "#C6E0B4"
+
+  - title: "supercharge-agentic-ai-projects"
+    type: talk
+    date: 2025-05-14
+    start_time: "10:30"
+    end_time: "11:00"
 
   - title: "workshop-building-and-breaking-kubernetes-clusters"
     type: workshop
     date: 2025-05-14
     start_time: "10:30"
-    end_time: "14:30"
+    end_time: "12:00"
 
-  - title: "workshop-snyk-fetch-the-flag"
+  - title: "workshop-secure-deliver-optimize-genai"
     type: workshop
     date: 2025-05-14
     start_time: "10:30"
-    end_time: "14:30"
-
-  - title: "workshop-prompt-engineering"
-    type: workshop
-    date: 2025-05-14
-    start_time: "10:30"
-    end_time: "14:30"
-
-  - title: "ai-adoption-pyramid"
-    type: talk
-    date: 2025-05-14
-    start_time: "10:50"
-    end_time: "11:20"
+    end_time: "14:45"
 
   - title: "scalable-storage"
     type: talk
     date: 2025-05-14
-    start_time: "11:20"
-    end_time: "11:50"
+    start_time: "11:00"
+    end_time: "11:30"
+
+  - title: "ai-adoption-pyramid"
+    type: talk
+    date: 2025-05-14
+    start_time: "11:30"
+    end_time: "12:00"
 
   - title: "Lunch, Visit Sponsors"
     type: custom
     date: 2025-05-14
-    start_time: "11:50"
-    end_time: "13:10"
+    start_time: "12:00"
+    end_time: "13:20"
     background_color: "#C6E0B4"
 
-  - title: "Panel Discussion"
-    type: custom
-    date: 2025-05-14
-    start_time: "13:10"
-    end_time: "13:40"
-
-  - title: "talk1.5"
+  - title: "fintech-panel-discussion"
     type: talk
     date: 2025-05-14
-    start_time: "13:40"
-    end_time: "14:10"
+    start_time: "13:20"
+    end_time: "14:00"
+
+  - title: "workshop-snyk-fetch-the-flag"
+    type: workshop
+    date: 2025-05-14
+    start_time: "13:15"
+    end_time: "14:45"
+
+  - title: "workshop-prompt-engineering"
+    type: workshop
+    date: 2025-05-14
+    start_time: "13:15"
+    end_time: "14:45"
 
   - title: "Ignite Day 1"
     type: ignite
@@ -277,20 +303,20 @@ program:
     end_time: "09:50"
     background_color: "#B4C6E7"
 
-  - title: "devops-for-the-genai-age"
+  - title: "the-on-prem-ai-challenge-devops-strategies-for-air-gapped-success"
     type: talk
     date: 2025-05-15
     start_time: "09:50"
-    end_time: "10:20"
+    end_time: "10:05"
 
   - title: "Tea Break, Visit Sponsors"
     type: custom
     date: 2025-05-15
-    start_time: "10:20"
-    end_time: "10:50"
+    start_time: "10:05"
+    end_time: "10:30"
     background_color: "#C6E0B4"
 
-  - title: "workshop-from-zero-to-hero"
+  - title: "workshop-clickhouse"
     type: workshop
     date: 2025-05-15
     start_time: "10:30"
@@ -300,44 +326,56 @@ program:
     type: workshop
     date: 2025-05-15
     start_time: "10:30"
-    end_time: "12:00"
+    end_time: "14:45"
 
-  - title: "workshop-dagger"
+  - title: "workshop-from-zero-to-hero"
     type: workshop
     date: 2025-05-15
     start_time: "10:30"
-    end_time: "12:00"
+    end_time: "14:45"
 
-  - title: "ai-driven-kubernetes-scaling"
+  - title: "let-the-algorithms-decide"
     type: talk
     date: 2025-05-15
-    start_time: "10:50"
-    end_time: "11:20"
+    start_time: "10:30"
+    end_time: "11:00"
 
   - title: "bridging-aws-cdk-and-terraform"
     type: talk
     date: 2025-05-15
-    start_time: "11:20"
-    end_time: "11:50"
+    start_time: "11:00"
+    end_time: "11:30"
+
+  - title: "bridging-aws-cdk-and-terraform"
+    type: custom
+    date: 2025-05-15
+    start_time: "11:00"
+    end_time: "11:30"
+
+  - title: "10 Years of DevOpsDays Singapore"
+    type: custom
+    date: 2025-05-15
+    start_time: "11:30"
+    end_time: "12:00"
 
   - title: "Lunch, Visit Sponsors"
     type: custom
     date: 2025-05-15
-    start_time: "11:50"
-    end_time: "13:10"
+    start_time: "12:00"
+    end_time: "13:20"
     background_color: "#C6E0B4"
 
-  - title: "Panel Discussion"
-    type: custom
-    date: 2025-05-15
-    start_time: "13:10"
-    end_time: "13:40"
-
-  - title: "talk2.5"
+  - title: "techhub-panel-discussion"
     type: talk
     date: 2025-05-15
-    start_time: "13:40"
-    end_time: "14:10"
+    start_time: "13:20"
+    end_time: "14:00"
+
+  - title: "workshop-llm-applications"
+    type: workshop
+    date: 2025-05-15
+    start_time: "13:15"
+    end_time: "14:45"
 
   - title: "Ignite Day 2"
     type: ignite
@@ -393,20 +431,20 @@ ignites:
 
   - title: "expanding-capi-with-k0rdent"
     date: 2025-05-14
+  
+  - title: "k0s-at-the-edge-minimal-kubernetes-maximum-impact"
+    date: 2025-05-14
 
   - title: "devops-dating-advice"
     date: 2025-05-14
 
-  - title: "proactive-istio-monitoring"
-    date: 2025-05-14
+  - title: "optimizing-operations-compliance-api-management-with-ai-gateway"
+    date: 2025-05-15
 
-  - title: "build-ai-agents-with-dagger"
+  - title: "harnessing-in-memory-speed-for-ai-driven-devops"
     date: 2025-05-15
 
   - title: "kubecost"
-    date: 2025-05-15
-
-  - title: "quantifying-the-modern-dx"
     date: 2025-05-15
 
   - title: "the-fast-and-the-curious"
