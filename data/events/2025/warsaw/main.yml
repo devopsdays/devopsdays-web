@@ -115,6 +115,11 @@ team_members: # Name is the only required field for team members.
     image: "agnieszka_welian.jpg"
     linkedin: "https://www.linkedin.com/in/agnieszka-welian/"
     bio: "Agnieszka is a dedicated engineer specializing in cloud solutions, with expertise in cutting-edge technologies such as Kubernetes and Terraform. She also brings valuable insights from her experience in testing activities. Agnieszka is passionate about enhancing people’s wellbeing and promoting a healthy work-life balance. Outside of her professional endeavors,  she is a sports freak, board game lover and owner of two adorable cats."
+  - name: "Dominika Wieczorek"
+    employer: "XTB"
+    image: "dominika_wieczorek.jpg"
+    linkedin: "https://www.linkedin.com/in/dominika-wieczorek/"
+    bio: "CI/CD Engineer at XTB with nearly 6 years of experience in various roles such as Automation Tester, Software Integrator and DevOps Engineer, currently focusing on optimizing and streamlining development workflows. Crazy cat lady, cat mom, volunteer at a cat rescue shelter. Introverted but willing to discuss cats ;)"
 
 
 organizer_email: "warsaw@devopsdays.org" # Put your organizer email address here
