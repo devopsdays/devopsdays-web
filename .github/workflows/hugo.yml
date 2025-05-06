@@ -3,7 +3,7 @@ name: test hugo
 on: [pull_request]
 
 env:
-  NODE_VERSION: 16
+  NODE_VERSION: 22
   HUGO_VERSION: 0.126.1
 
 jobs:
@@ -13,6 +13,30 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+        with:
+          submodules: true # Fetch Hugo themes (true OR recursive)
+          fetch-depth: 1
+      - name: Get changed files key
+        id: changed-files-key
+        run: |
+          git fetch --no-tags --prune --depth=2 origin refs/pull/${{ github.event.pull_request.number }}/merge
+          git diff --name-only HEAD...HEAD~2 | tr '\n' ',' > changed_files.txt
+          echo "::set-output name=files::$(cat changed_files.txt)"
+
+      - name: Calc hash
+        id: calc-hash
+        run: |
+          find . -type f -print0 | sort -z | xargs -0 sha256sum | head -c 40
+
+      - name: Cache checkout
+        id: cache-checkout
+        uses: actions/cache@v3
+        with:
+          path: ${{ github.workspace }}
+          key: ${{ runner.os }}-checkout-${{ steps.calc-hash.outputs.result }}-${{ steps.changed-files-key.outputs.files }}
+          restore-keys: |
+            ${{ runner.os }}-checkout-${{ steps.calc-hash.outputs.result }}-
+            ${{ runner.os }}-checkout-
 
       - name: Lint Filenames
         uses: julie-ng/lowercase-linter@v1
@@ -22,15 +46,39 @@ jobs:
           path: "."
           pr-comment: true
           repo-token: ${{ secrets.GITHUB_TOKEN }}
+
   test-linux:
     needs: lint
     name: Build hugo on Linux
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Get changed files key
+        id: changed-files-key
+        run: |
+          git fetch --no-tags --prune --depth=2 origin refs/pull/${{ github.event.pull_request.number }}/merge
+          git diff --name-only HEAD...HEAD~2 | tr '\n' ',' > changed_files.txt
+          echo "::set-output name=files::$(cat changed_files.txt)"
+
+      - name: Calc hash
+        id: calc-hash
+        run: |
+          find . -type f -print0 | sort -z | xargs -0 sha256sum | head -c 40
+
+      - name: Cache checkout
+        id: cache-checkout
+        uses: actions/cache@v3
+        with:
+          path: ${{ github.workspace }}
+          key: ${{ runner.os }}-checkout-${{ steps.calc-hash.outputs.result }}-${{ steps.changed-files-key.outputs.files }}
+          restore-keys: |
+            ${{ runner.os }}-checkout-${{ steps.calc-hash.outputs.result }}-
+            ${{ runner.os }}-checkout-
+
+      - name: Checkout
+        uses: actions/checkout@v3
         with:
           submodules: true # Fetch Hugo themes (true OR recursive)
-          fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
+          fetch-depth: 1 # Fetch history for .GitInfo and .Lastmod
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
