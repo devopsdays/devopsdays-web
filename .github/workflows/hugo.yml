@@ -16,22 +16,25 @@ jobs:
         with:
           submodules: true # Fetch Hugo themes (true OR recursive)
           fetch-depth: 1
+
       - name: Get changed files key
         id: changed-files-key
         run: |
           git fetch --no-tags --prune --depth=2 origin refs/pull/${{ github.event.pull_request.number }}/merge
           git diff --name-only HEAD...HEAD~2 | tr '\n' ',' > changed_files.txt
-          echo "::set-output name=files::$(cat changed_files.txt)"
+          echo "files=$(cat changed_files.txt)" >> $GITHUB_OUTPUT
 
       - name: Calc hash
         id: calc-hash
         run: |
-          find . -type f -print0 | sort -z | xargs -0 sha256sum | head -c 40
+          hash_value=$(find . -type f -print0 | sort -z | xargs -0 sha256sum | head -c 40)
+          echo "result=$hash_value" >> $GITHUB_OUTPUT
 
       - name: Debug Cache Key
         run: |
           echo "calc-hash output: ${{ steps.calc-hash.outputs.result }}"
           echo "changed-files output: ${{ steps.changed-files-key.outputs.files }}"
+
       - name: Cache checkout
         id: cache-checkout
         uses: actions/cache@v3
@@ -61,12 +64,13 @@ jobs:
         run: |
           git fetch --no-tags --prune --depth=2 origin refs/pull/${{ github.event.pull_request.number }}/merge
           git diff --name-only HEAD...HEAD~2 | tr '\n' ',' > changed_files.txt
-          echo "::set-output name=files::$(cat changed_files.txt)"
+          echo "files=$(cat changed_files.txt)" >> $GITHUB_OUTPUT
 
       - name: Calc hash
         id: calc-hash
         run: |
-          find . -type f -print0 | sort -z | xargs -0 sha256sum | head -c 40
+          hash_value=$(find . -type f -print0 | sort -z | xargs -0 sha256sum | head -c 40)
+          echo "result=$hash_value" >> $GITHUB_OUTPUT
 
       - name: Debug Cache Key
         run: |
