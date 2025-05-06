@@ -1,7 +1,9 @@
----
-title: "Regulamento PCD"
----
-  <div>
++++
+  Title = "REGULAMENTO INGRESSOS PCDs"
+  Type = "event"
+  Description = "REGULAMENTO – INGRESSOS PARA PESSOAS COM DEFICIÊNCIA (PCDs)"
++++
+<div>
     <h2 id="regulamento-pessoas-com-limitações">
       🎟️ REGULAMENTO – INGRESSOS PARA PESSOAS COM DEFICIÊNCIA (PCDs)
     </h2>

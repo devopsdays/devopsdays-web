@@ -6,6 +6,7 @@ Description = "Sponsor Devopsdays Sibiu 2025"
 
 <b>Become a sponsor and support a great event for the DevOps Community</b>
 
+<b>To obtain detailed information about sponsorship opportunities, please contact us at: sibiu@devopsdays.org.</b>
 <hr>
 
 Devopsdays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
@@ -14,6 +15,24 @@ Gold sponsors get a full table and Silver sponsors a shared table where they can
 <p>
 The best thing to do is send engineers to interact with the experts at Devopsdays on their own terms.
 <p>
+
+<b>Kube Careers</b>
+
+Kube Careers is the job board that focuses on Kubernetes jobs. The Learnk8s team curates all job descriptions, and they only list opportunities that:
+
+- Have **explicit salary ranges.** So you know when it's worth applying.
+- Focus on **Kubernetes jobs.** Have you ever found those pesky job ads that mention Kubernetes, but you end up working on 100% legacy codebase. _Well, you won't find those._
+- Are **Honest job ads**. For every job, the team ask themselves, _"is this something I'd be happy to apply to?"_. If it passes the test, it's listed.
+
+<b>Kube Events</b>
+
+*Wouldn't it be great if there was a website where you could see all upcoming Kubernetes events such as meetups, webinars, training and conferences?*
+
+Kube Events is a curated list of Kubernetes-related events.
+
+Every day the team at Learnk8s browse the internet for interesting events (e.g. webinars, meetups, conferences, training) and list them on Kube Events.
+
+And every day, you can receive timely notification of all the Kubernetes events happening in the next 24 hours or this week!
 
 <!--
 <hr/>

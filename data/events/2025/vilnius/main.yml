@@ -80,6 +80,10 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/monikapavalkyt%C4%97/"
     role: "Organizer"
     image: "monika-pavalkyte.jpg"
+  - name: "Linas Kazlauskas"
+    linkedin: "https://www.linkedin.com/in/linask/"
+    role: "Organizer"
+    image: "linas-kazlauskas.jpg"
 
 organizer_email: "vilnius@devopsdays.org" # Put your organizer email address here
 

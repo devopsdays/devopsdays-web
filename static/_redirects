@@ -124,7 +124,7 @@
 /victoria/*		/events/2019-victoria/:splat		302
 /vitoria/*		/events/2022-vitoria/:splat		302
 /vilnius/*            	/events/2025-vilnius/:splat             302
-/warsaw/*		/events/2024-warsaw/:splat		302
+/warsaw/*		/events/2025-warsaw/:splat		302
 /washington-dc/*	/events/2025-washington-dc/:splat	302
 /zaragoza/*		/events/2020-zaragoza/:splat		302
 /zurich/*		/events/2026-zurich/:splat		302
