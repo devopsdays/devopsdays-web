@@ -20,28 +20,35 @@ jobs:
       - name: Get changed files key
         id: changed-files-key
         run: |
-          git diff --name-only HEAD~1 HEAD | tr '\n' ',' > changed_files.txt
-          echo "files=$(cat changed_files.txt)" >> $GITHUB_OUTPUT
+          # Get list of changed files, sort them, then hash the list.
+          # This produces a fixed-length, cache-key-safe string.
+          git diff --name-only HEAD~1 HEAD | LC_ALL=C sort | md5sum | head -c 32 > changed_files_key_part.txt
+          echo "key_part=$(cat changed_files_key_part.txt)" >> $GITHUB_OUTPUT
+          # For debugging, output the actual list of changed files
+          ACTUAL_FILES=$(git diff --name-only HEAD~1 HEAD | LC_ALL=C sort | tr '\n' ' ' | sed 's/ $//')
+          echo "debug_changed_files_list=${ACTUAL_FILES}" >> $GITHUB_OUTPUT
 
       - name: Calc hash
         id: calc-hash
         run: |
-          find . -path ./.git -prune -o -type f -print0 > files.txt
-          cat files.txt | sort -z | xargs -0 md5sum | head -c 40 > hash.txt
+          # Calculate md5sum for each file, sort the output (for consistent ordering),
+          # then calculate md5sum of that list of hashes. head -c 32 takes the md5 hash string.
+          find . -path ./.git -prune -o -type f -print0 | xargs -0 md5sum | LC_ALL=C sort -k 2 | md5sum | head -c 32 > hash.txt
           hash_value=$(cat hash.txt)
           echo "result=$hash_value" >> $GITHUB_OUTPUT
 
       - name: Debug Cache Key
         run: |
           echo "calc-hash output: ${{ steps.calc-hash.outputs.result }}"
-          echo "changed-files output: ${{ steps.changed-files-key.outputs.files }}"
+          echo "changed-files key part: ${{ steps.changed-files-key.outputs.key_part }}"
+          echo "changed-files actual list: ${{ steps.changed-files-key.outputs.debug_changed_files_list }}"
 
       - name: Cache checkout
         id: cache-checkout
         uses: actions/cache@v3
         with:
           path: ${{ github.workspace }}
-          key: ${{ runner.os }}-checkout-${{ steps.calc-hash.outputs.result }}-${{ steps.changed-files-key.outputs.files }}
+          key: ${{ runner.os }}-checkout-${{ steps.calc-hash.outputs.result }}-${{ steps.changed-files-key.outputs.key_part }}
           restore-keys: |
             ${{ runner.os }}-checkout-${{ steps.calc-hash.outputs.result }}-
             ${{ runner.os }}-checkout-
@@ -69,28 +76,35 @@ jobs:
       - name: Get changed files key
         id: changed-files-key
         run: |
-          git diff --name-only HEAD~1 HEAD | tr '\n' ',' > changed_files.txt
-          echo "files=$(cat changed_files.txt)" >> $GITHUB_OUTPUT
+          # Get list of changed files, sort them, then hash the list.
+          # This produces a fixed-length, cache-key-safe string.
+          git diff --name-only HEAD~1 HEAD | LC_ALL=C sort | md5sum | head -c 32 > changed_files_key_part.txt
+          echo "key_part=$(cat changed_files_key_part.txt)" >> $GITHUB_OUTPUT
+          # For debugging, output the actual list of changed files
+          ACTUAL_FILES=$(git diff --name-only HEAD~1 HEAD | LC_ALL=C sort | tr '\n' ' ' | sed 's/ $//')
+          echo "debug_changed_files_list=${ACTUAL_FILES}" >> $GITHUB_OUTPUT
 
       - name: Calc hash
         id: calc-hash
         run: |
-          find . -path ./.git -prune -o -type f -print0 > files.txt
-          cat files.txt | sort -z | xargs -0 md5sum | head -c 40 > hash.txt
+          # Calculate md5sum for each file, sort the output (for consistent ordering),
+          # then calculate md5sum of that list of hashes. head -c 32 takes the md5 hash string.
+          find . -path ./.git -prune -o -type f -print0 | xargs -0 md5sum | LC_ALL=C sort -k 2 | md5sum | head -c 32 > hash.txt
           hash_value=$(cat hash.txt)
           echo "result=$hash_value" >> $GITHUB_OUTPUT
 
       - name: Debug Cache Key
         run: |
           echo "calc-hash output: ${{ steps.calc-hash.outputs.result }}"
-          echo "changed-files output: ${{ steps.changed-files-key.outputs.files }}"
+          echo "changed-files key part: ${{ steps.changed-files-key.outputs.key_part }}"
+          echo "changed-files actual list: ${{ steps.changed-files-key.outputs.debug_changed_files_list }}"
 
       - name: Cache checkout
         id: cache-checkout
         uses: actions/cache@v3
         with:
           path: ${{ github.workspace }}
-          key: ${{ runner.os }}-checkout-${{ steps.calc-hash.outputs.result }}-${{ steps.changed-files-key.outputs.files }}
+          key: ${{ runner.os }}-checkout-${{ steps.calc-hash.outputs.result }}-${{ steps.changed-files-key.outputs.key_part }}
           restore-keys: |
             ${{ runner.os }}-checkout-${{ steps.calc-hash.outputs.result }}-
             ${{ runner.os }}-checkout-
