@@ -16,7 +16,7 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           submodules: true # Fetch Hugo themes (true OR recursive)
           fetch-depth: 2 # Fetch enough history for HEAD~1
@@ -46,7 +46,7 @@ jobs:
           echo "changed-files actual list: ${{ steps.changed-files-key.outputs.debug_changed_files_list }}"
 
       - name: Upload Hugo source artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           # Cache only the specific directories and files needed for the Hugo build, and not capturing the full .git folder.
           path: |
@@ -75,7 +75,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Download Hugo source artifact
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4
         with:
           name: hugo-source-files
           path: . # Download to the root of the workspace
@@ -88,7 +88,7 @@ jobs:
 
       - name: Cache Hugo build outputs
         id: cache-hugo-build
-        uses: actions/cache@v3
+        uses: actions/cache@v4
         with:
           # Cache Hugo's generated 'public' directory and 'resources' directory
           path: |
