@@ -62,7 +62,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-        run: |
+        with:
           submodules: true # Fetch Hugo themes (true OR recursive)
           fetch-depth: 2 # Fetch enough history for HEAD~1. Crucial: .git dir must exist before key calculation.
 
