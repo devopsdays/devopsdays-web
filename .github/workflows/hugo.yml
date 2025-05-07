@@ -27,7 +27,9 @@ jobs:
       - name: Calc hash
         id: calc-hash
         run: |
-          hash_value=$(find . -type f -print0 | sort -z | xargs -0 sha256sum | head -c 40)
+          find . -type f -print0 > files.txt
+          cat files.txt | sort -z | xargs -0 md5sum | head -c 40 > hash.txt
+          hash_value=$(cat hash.txt)
           echo "result=$hash_value" >> $GITHUB_OUTPUT
 
       - name: Debug Cache Key
@@ -69,7 +71,9 @@ jobs:
       - name: Calc hash
         id: calc-hash
         run: |
-          hash_value=$(find . -type f -print0 | sort -z | xargs -0 sha256sum | head -c 40)
+          find . -type f -print0 > files.txt
+          cat files.txt | sort -z | xargs -0 md5sum | head -c 40 > hash.txt
+          hash_value=$(cat hash.txt)
           echo "result=$hash_value" >> $GITHUB_OUTPUT
 
       - name: Debug Cache Key
