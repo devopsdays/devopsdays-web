@@ -4,7 +4,7 @@ talk_start_time = ""
 talk_end_time = ""
 Title = "Optimizing Operations, Compliance & API Management with AI Gateway"
 Type = "talk"
-Speakers = ["minh-nguyen"]
+Speakers = ["laurent-petroque"]
 youtube = ""
 speakerdeck = ""
 +++
