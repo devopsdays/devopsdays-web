@@ -4,7 +4,7 @@ talk_start_time = ""
 talk_end_time = ""
 Title = "Secure, Deliver and Optimize GenAI ChatBot"
 Type = "talk"
-Speakers = ["minh-nguyen"]
+Speakers = ["francois-chua", "minh-nguyen"]
 youtube = ""
 speakerdeck = ""
 +++

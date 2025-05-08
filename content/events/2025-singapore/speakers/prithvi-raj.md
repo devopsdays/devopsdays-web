@@ -5,6 +5,7 @@ Twitter = "prithvi137"
 Linnkedin = "https://www.linkedin.com/in/prithvi1307"
 type = "speaker"
 linktitle = "prithvi-raj"
+sharing_image = "singapore-banner.png"
 
 +++
 
