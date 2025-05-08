@@ -1,7 +1,7 @@
 +++
-Title = "location"
+Title = "DevOpsDays 2025 - Stephen Riady Auditorium"
 Type = "event"
-Description = "Location for Devopsdays Singapore 2025"
+Description = "DevOpsDays Singapore will be held on 14th & 15th May, at the Stephen Riady Auditorium @ NTUC in Singapore."
 +++
 
 <address>
@@ -14,13 +14,15 @@ One Marina Boulevard, Singapore 018989<br>
 <br>
 
 <p>
-    <img src="https://alep-p-001.sitecorecontenthub.cloud/api/public/content/34d612a18bb344929bb61303975db762" alt="Location map" style="width: 1341px; height: 894px;">
+    <img src="https://alep-p-001.sitecorecontenthub.cloud/api/public/content/34d612a18bb344929bb61303975db762" alt="Location map" class="img-fluid img-thumbnail">
 </p>
 <p>
-    <img src="https://alep-p-001.sitecorecontenthub.cloud/api/public/content/f48fdf0bfe1b4a698b04ff468d702d99" alt="Location map" style="width: 1341px; height: 894px;">
+    <img src="https://alep-p-001.sitecorecontenthub.cloud/api/public/content/f48fdf0bfe1b4a698b04ff468d702d99" alt="Location map" class="img-fluid img-thumbnail">
 </p>
 <p>
-    <img src="https://alep-p-001.sitecorecontenthub.cloud/api/public/content/747a5734f0a849249c6b0a7026d1bcbb" alt="Location map" style="width: 1341px; height: 894px;">
+    <!-- <img src="https://alep-p-001.sitecorecontenthub.cloud/api/public/content/747a5734f0a849249c6b0a7026d1bcbb" alt="Location map" style="width: 1341px; height: 894px;"> -->
+
+    <img src="https://alep-p-001.sitecorecontenthub.cloud/api/public/content/747a5734f0a849249c6b0a7026d1bcbb" alt="Location map" class="img-fluid img-thumbnail">
 </p>
 
 ## Stephen Riady Auditorium

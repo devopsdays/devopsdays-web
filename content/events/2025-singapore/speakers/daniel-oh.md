@@ -1,6 +1,6 @@
 +++
 Title = "Daniel Oh"
-image = "daniel-oh.png"
+image = "daniel-oh.jpg"
 Github = "danieloh30"
 Linkedin = "https://www.linkedin.com/in/daniel-oh-083818112/"
 type = "speaker"
