@@ -21,7 +21,7 @@ cp node_modules/jquery/dist/jquery.js themes/devopsdays-theme/assets/js/vendor/
 cp node_modules/bootstrap/dist/js/bootstrap.js themes/devopsdays-theme/assets/js/vendor/
 
 # Copy main application JS
-cp themes/devopsdays-theme/static/js/devopsdays.js themes/devopsdays-theme/assets/js/
+# cp themes/devopsdays-theme/static/js/devopsdays.js themes/devopsdays-theme/assets/js/
 
 # Create a source map file
 cat > themes/devopsdays-theme/assets/js/devopsdays-min.js.map << EOL
