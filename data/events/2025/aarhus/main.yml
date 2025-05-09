@@ -35,8 +35,8 @@ location_address: "" #Optional - use the street address of your venue. This will
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   # - name: propose
-  - name: register
-    url: https://devopsdaysdenmark.ticketbutler.io/e/devopsdays-aarhus-2025/
+  # - name: register
+  # url: https://devopsdaysdenmark.ticketbutler.io/e/devopsdays-aarhus-2025/
   - name: location
   # - name: registration
   - name: program
@@ -103,21 +103,31 @@ organizer_email: "aarhus@devopsdays.org" # Put your organizer email address here
 sponsors:
   - id: eficode
     level: gold
-  - id: systematic
-    level: silver
   - id: solidify
     level: silver
-  - id: tech-hub-aarhus
+  - id: systematic
+    level: silver
+  - id: bankdata
     level: community
-  - id: ramboll
+  - id: danske-bank
+    level: community
+  - id: jysk
     level: community
   - id: knowit
+    level: community
+  - id: ok
+    level: community
+  - id: ramboll
     level: community
   - id: salling-group
     level: community
   - id: stibo-systems
     level: community
-  - id: jysk
+  - id: stickermule
+    level: community
+  - id: tech-hub-aarhus
+    level: community
+  - id: the-tech-collective
     level: community
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -258,7 +268,7 @@ program:
     date: 2025-04-30
     start_time: "09:00"
     end_time: "09:15"
-  - title: "kristina-kondrashevich"
+  - title: "marko-klemetti"
     type: talk
     date: 2025-04-30
     start_time: "09:15"
@@ -314,7 +324,7 @@ program:
     date: 2025-04-30
     start_time: "14:20"
     end_time: "14:45"
-  - title: "marko-klemetti"
+  - title: "kristina-kondrashevich"
     type: talk
     date: 2025-04-30
     start_time: "14:45"
@@ -335,8 +345,6 @@ program:
 
 ignites:
   - title: "rasmus-lystrom"
-    date: 2025-04-29
-  - title: "kasper-borg-nissen"
     date: 2025-04-29
   - title: "simon-izydorek"
     date: 2025-04-29

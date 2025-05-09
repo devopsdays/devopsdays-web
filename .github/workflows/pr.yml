@@ -35,7 +35,7 @@ jobs:
       - name: Comment on PR
         id: comment
         if: failure() && steps.prcheck.outcome == 'failure'
-        uses: thollander/actions-comment-pull-request@v2
+        uses: thollander/actions-comment-pull-request@v3
         with:
           message: |
             `en_US`: Hi @${{ github.event.pull_request.user.login }}! It looks like you've left the default text in the pull request description. Please replace that text with something meaningful. Thanks!

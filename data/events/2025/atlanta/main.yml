@@ -27,10 +27,7 @@ registration_closed: "" #set this to true if you need to manually close registra
 registration_link: "https://devopsdaysATL2025.eventbrite.com" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
-#
-# coordinates: "" # No longer used
-
-location: "The Historic Academny of Medicine" # Defaults to city, but you can make it the venue name.
+location: "The Historic Academy of Medicine" # Defaults to city, but you can make it the venue name.
 location_address: "875 W Peachtree St NW, Atlanta, GA 30309" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
@@ -98,7 +95,7 @@ sponsors:
   - id: spacelift
     level: gold
   - id: honeycomb
-    level: gold
+    level: platinum
   - id: fianu
     level: gold
   - id: chef
@@ -111,6 +108,12 @@ sponsors:
     level: gold
   - id: redhat
     level: gold
+  - id: flox
+    level: gold
+  - id: circleci
+    level: gold
+  - id: peoplecert
+    level: gold
   - id: redmonk
     level: community
   - id: shadow-soft
@@ -121,6 +124,8 @@ sponsors:
     level: bronze
   - id: blacksintechnology
     level: community
+  - id: googlecloud
+    level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -129,6 +134,8 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: platinum
+    label: platinum
   - id: gold
     label: Gold
 #    max: 10
@@ -180,7 +187,7 @@ program:
     date: 2025-04-29
     start_time: "11:10"
     end_time: "11:20"
-  - title: "andrew-clay-shafer"
+  - title: "katie-anderson"
     type: talk
     date: 2025-04-29
     start_time: "11:20"
@@ -200,31 +207,57 @@ program:
     date: 2025-04-29
     start_time: "13:30"
     end_time: "14:00"
+  - title: "Switch rooms"
+    type: custom
+    date: 2025-04-29
+    start_time: "14:00"
+    end_time: "14:05"
   - title: "Open Space #1"
     type: open-space
     date: 2025-04-29
-    start_time: "14:00"
-    end_time: "14:45"
+    start_time: "14:05"
+    end_time: "14:35"
+  - title: "Switch rooms"
+    type: custom
+    date: 2025-04-29
+    start_time: "14:35"
+    end_time: "14:40"
   - title: "Open Space #2"
     type: open-space
     date: 2025-04-29
-    start_time: "15:00"
-    end_time: "15:45"
+    start_time: "14:40"
+    end_time: "15:10"
+  - title: "Break with Afternoon snack"
+    type: custom
+    date: 2025-04-29
+    start_time: "15:10"
+    end_time: "15:40"
   - title: "Open Space #3"
     type: open-space
     date: 2025-04-29
-    start_time: "16:00"
+    start_time: "15:40"
+    end_time: "16:10"
+  - title: "Switch rooms"
+    type: custom
+    date: 2025-04-29
+    start_time: "16:10"
+    end_time: "16:15"
+  - title: "Open Space #4"
+    type: open-space
+    date: 2025-04-29
+    start_time: "16:15"
     end_time: "16:45"
   - title: "Close Day"
     type: custom
     date: 2025-04-29
     start_time: "16:45"
     end_time: "17:00"
-  - title: "Evening event"
+  - title: "Happy Hour at Pour Taproom Midtown"
     type: custom
     date: 2025-04-29
-    start_time: "19:00"
-    end_time: "late"
+    start_time: "17:00"
+    end_time: "19:00"
+
   - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2025-04-30
@@ -235,7 +268,7 @@ program:
     date: 2025-04-30
     start_time: "09:00"
     end_time: "09:15"
-  - title: "katie-anderson"
+  - title: "andrew-clay-shafer"
     type: talk
     date: 2025-04-30
     start_time: "09:15"
@@ -285,22 +318,47 @@ program:
     date: 2025-04-30
     start_time: "13:30"
     end_time: "14:00"
+  - title: "Switch rooms"
+    type: custom
+    date: 2025-04-30
+    start_time: "14:00"
+    end_time: "14:05"
   - title: "Open Space #1"
     type: open-space
     date: 2025-04-30
-    start_time: "14:00"
-    end_time: "14:45"
+    start_time: "14:05"
+    end_time: "14:35"
+  - title: "Switch rooms"
+    type: custom
+    date: 2025-04-30
+    start_time: "14:35"
+    end_time: "14:40"
   - title: "Open Space #2"
     type: open-space
     date: 2025-04-30
-    start_time: "15:00"
-    end_time: "15:45"
+    start_time: "14:40"
+    end_time: "15:10"
+  - title: "Break with Afternoon snack"
+    type: custom
+    date: 2025-04-30
+    start_time: "15:10"
+    end_time: "15:40"
   - title: "Open Space #3"
     type: open-space
     date: 2025-04-30
-    start_time: "16:00"
+    start_time: "15:40"
+    end_time: "16:10"
+  - title: "Switch rooms"
+    type: custom
+    date: 2025-04-30
+    start_time: "16:10"
+    end_time: "16:15"
+  - title: "Open Space #4"
+    type: open-space
+    date: 2025-04-30
+    start_time: "16:15"
     end_time: "16:45"
-  - title: "Closing"
+  - title: "Closing - Sponsor Raffles and Prizes"
     type: custom
     date: 2025-04-30
     start_time: "16:45"
@@ -311,9 +369,7 @@ ignites:
     date: 2025-04-29
   - title: "kimasia-ayers"
     date: 2025-04-29
-  - title: "amber-vanderburg"
-    date: 2025-04-29
-  - title: "samantha-stlouis"
+  - title: "kate-holterhoff"
     date: 2025-04-29
   - title: "jason-torres"
     date: 2025-04-29
@@ -322,9 +378,9 @@ ignites:
     date: 2025-04-30
   - title: "pratik-parikh"
     date: 2025-04-30
-  - title: "patrice-lindo"
-    date: 2025-04-30
   - title: "justin-reock"
     date: 2025-04-30
-  - title: "TBD"
+  - title: "nathen-harvey-ignite"
+    date: 2025-04-30
+  - title: "ruthie-irvin"
     date: 2025-04-30

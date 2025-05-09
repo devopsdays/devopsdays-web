@@ -1,10 +1,10 @@
 +++
 Title = "Bharath Nallapeta"
-image = "bharath-nallapeta.png"
+image = "bharath-nallapeta.jpg"
 Github = "bnallapeta"
 type = "speaker"
 linktitle = "bharath-nallapeta"
-
+sharing_image = "singapore-banner.png"
 +++
 
 Bharath Nallapeta is a seasoned cloud-native engineer specializing in Go, Kubernetes, and platform engineering. With extensive experience in designing and operating scalable Kubernetes infrastructure, Bharath has contributed to open-source projects and enterprise-grade cloud solutions. His expertise spans Kubernetes automation, multi-cloud deployments, and cluster management, with a deep understanding of how to optimize performance, security, and efficiency in cloud environments.
