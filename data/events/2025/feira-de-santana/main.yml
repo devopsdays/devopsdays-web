@@ -157,6 +157,11 @@ program:
     type: custom
     date: 2025-06-07T08:00:00-03:00
     start_time: "11:40"
+    end_time: "12:40"
+  - title: "Networking"
+    type: custom
+    date: 2025-06-07T08:00:00-03:00
+    start_time: "12:40"
     end_time: "13:30"
   - title: "Ignite Karaoke"
     type: custom
