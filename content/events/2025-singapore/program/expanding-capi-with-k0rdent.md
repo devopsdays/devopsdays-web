@@ -4,7 +4,7 @@ talk_start_time = ""
 talk_end_time = ""
 Title = "Evolving Kubernetes Cluster Management: Expanding CAPI with k0rdent"
 Type = "talk"
-Speakers = ["prithvi-raj"]
+Speakers = ["bharath-nallapeta"]
 youtube = ""
 speakerdeck = ""
 +++

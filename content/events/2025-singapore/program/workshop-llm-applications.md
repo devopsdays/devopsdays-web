@@ -7,6 +7,7 @@ Type = "talk"
 Speakers = ["kamesh-sampath"]
 youtube = ""
 speakerdeck = ""
+sharing_image = "workshop-building-llm-applications.jpg"
 +++
 
 ### Workshop

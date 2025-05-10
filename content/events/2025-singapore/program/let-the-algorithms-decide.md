@@ -7,6 +7,7 @@ Type = "talk"
 Speakers = ["daniele-polencic"]
 youtube = ""
 speakerdeck = ""
+sharing_image = "let-the-algorithms-decide.jpg"
 +++
 
 ### Talk
