@@ -7,6 +7,7 @@ Type = "talk"
 Speakers = ["lawrence-crowther", "craig-dent"]
 youtube = ""
 speakerdeck = ""
+sharing_image = "workshop-snyk-fetch-the-flag.jpg"
 +++
 
 ### Workshop

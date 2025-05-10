@@ -7,6 +7,7 @@ Type = "talk"
 Speakers = ["jason-wong"]
 youtube = ""
 speakerdeck = ""
+sharing_image = "workshop-clickhouse.jpg"
 +++
 
 ### Workshop

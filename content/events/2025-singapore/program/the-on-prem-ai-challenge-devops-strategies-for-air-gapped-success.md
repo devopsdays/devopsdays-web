@@ -7,6 +7,7 @@ Type = "talk"
 Speakers = ["ion-mudreac"]
 youtube = ""
 speakerdeck = ""
+sharing_image = "the-on-prem-ai-challenge.jpg"
 +++
 
 ### Talk
