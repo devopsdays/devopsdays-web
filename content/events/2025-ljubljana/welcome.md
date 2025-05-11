@@ -54,7 +54,7 @@ Description = "DevOpsDays Ljubljana 2025"
     </div>
     <div class = "row">
       <div class = "col-md-2">
-        <strong>Contacto:</strong>
+        <strong>Contact:</strong>
       </div>
       <div class = "col-md-8">
         Contact our {{< event_link page="contact" text="organizers" >}}
