@@ -7,7 +7,7 @@ Description = "DevOpsDays Cairo 2025"
 <p>This year DevOpsDays Cairo is a two-days event!<br />Cairo Conference is the Sole devopsdays Conference in the Arab Region.&nbsp;<br />For the 8<sup>th</sup> consecutive year, SECC/ITIDA is organizing DevOpsDays Cairo 2025 in cooperation with: ATOS, Cairo University, AUC, Cegedim, Egypt University of Informatics, DXC Technology, Orange Labs, and Vodafone Intelligent Solutions _VOIS.</p>
 
 <p>&nbsp;</p>
-<p><strong>Date &amp; Time: </strong>Monday & Tuesday, Sep 15-16, 2025</p>
+<p><strong>Date &amp; Time: </strong>Saturday & Sunday, Sep 27-28, 2025</p>
 <p>Follow us, adjust your calendar notifications and stay tuned!
 </p>
 
