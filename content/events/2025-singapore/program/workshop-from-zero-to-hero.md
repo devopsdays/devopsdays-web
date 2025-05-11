@@ -7,6 +7,7 @@ Type = "talk"
 Speakers = ["daniel-oh"]
 youtube = ""
 speakerdeck = ""
+sharing_image = "workshop-practical-ai-lab-for-enterprise-java-developers.jpg"
 +++
 
 ### Workshop

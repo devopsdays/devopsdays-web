@@ -7,6 +7,7 @@ Type = "talk"
 Speakers = ["michelle"]
 youtube = ""
 speakerdeck = ""
+sharing_image = "workshop-prompt-engineering.jpg"
 +++
 
 ### Workshop
