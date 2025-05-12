@@ -15,7 +15,7 @@ enddate: 2025-09-28T23:59:59+02:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2025-03-22T00:00:00+02:00 # start accepting talk proposals.
-cfp_date_end: 2025-06-12T12:00:00+02:00 # close your call for proposals.
+cfp_date_end: 2025-06-29T23:59:59+02:00 # close your call for proposals.
 cfp_date_announce: # inform proposers of status
 
 cfp_open: "true"
@@ -102,14 +102,14 @@ sponsors:
    level: governament
  - id: atos
    level: corporate
- - id: cegedim
-   level: corporate
+# - id: cegedim
+#   level: corporate
  - id: dxctechnology
    level: corporate
  - id: orange
    level: corporate 
- - id: vois
-   level: corporate
+# - id: vois
+#   level: corporate
  - id: stakpak
    level: corporate
  - id: cairo-university
