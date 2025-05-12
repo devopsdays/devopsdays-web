@@ -13,12 +13,12 @@ The event takes place on Wednesday and Thursday, May 14-15, 2025 at the [Stephen
 
 The **detailed schedule** for the two days can be found at [program][1]
 
-The venue stage will provide a projector (1080p, 16x9) that can be used during your presentation. The projector supports HDMI input. If your laptop does not support HDMI, we would recommend you please carry an adapter. The conference will have some adapters available, but it's on the first-come-first-serve basis. So its best to carry your own stuff.
+The venue stage will provide a projector (**1080p, 16x9**) that can be used during your presentation. The projector supports HDMI input. If your laptop does not support HDMI, we would recommend you please carry an adapter. The conference will have some adapters available, but it's on the first-come-first-serve basis. So its best to carry your own stuff.
 
-As an appreciation to our speakers this year, we are inviting all our DevOpsDays Singapore speakers to a dinner on 13th May at 19:00 at [Sahara Bar & Restaurant](https://drive.google.com/file/d/1X1VXowS77kRYjA9GHVgtNkfeGyF8vFVW/view)  <br/>
-[58 Boat Quay, Singapore 049847](https://maps.app.goo.gl/kbFcboPoT5osZYx7A) _May 13, 2025 19:00 SGT (UTC+8)_  **Roof Top Seat** 
+As an appreciation to our speakers this year, we are inviting all our DevOpsDays Singapore speakers to a dinner
+<br /> on _May 13, 2025 19:00 SGT (UTC+8)_  at [Sahara Bar & Restaurant](https://drive.google.com/file/d/1X1VXowS77kRYjA9GHVgtNkfeGyF8vFVW/view), located at [58 Boat Quay, Singapore 049847](https://maps.app.goo.gl/kbFcboPoT5osZYx7A)  
 
-We would like to confirm your availability and details regarding your dietary requirements. Please confirm your attendance by May 9th.
+Savor breathtaking riverside views of the city's shimmering skyline, poetic sunsets, and delectable cuisine as you celebrate life's moments. We would like to confirm your availability and details regarding your dietary requirements. Please confirm your attendance by **May 9th**.
 
 ### Check-in
 
@@ -30,7 +30,7 @@ If you do not attend the _Speaker Dinner Event_, you will need to check in at th
 
 As DevOpsDays is a community event, we hope that all of our speakers make an effort to attend as much of the conference as possible. **Attendees** are looking forward to learning  from you outside of your talk!
 
-In the afternoon of both days, we will have Open Space sessions, which are attendee-driven participant discussions. It's great when our speakers are able to participate in these, and we VERY much appreciate it.
+In the afternoon of both days, we will have Open Space sessions, which are attendee-driven participant discussions. It's great when our speakers are able to participate in these, and we **VERY** much appreciate it.
 
 ### Social Media
 
@@ -40,7 +40,7 @@ We love it when our speakers are active on social media! The preferred hashtag f
 
 **We will have a presentation computer to run your talk from, and we will provide a presentation remote for you to advance your slides.** If you wish to run your talk from your own laptop, let us know no later than May 9, and you must check in with A/V at 7:30 AM the day of your talk. *Our preference is to use our computer to prevent any hardware-specific issues*. Ignites will be presented from a common laptop.
 
-The presentation computer will have Keynote, Powerpoint, PDF, or a web browser as options for presentation software. If you need something other than this, please let us know at {{< email_organizers >}} and we will accommodate you! If you are using the conference laptop to present, please provide your slides (and any supporting fonts/files) to {{< email_organizers >}} no later than **Monday, May 11**.
+The presentation computer will have Keynote, Powerpoint, PDF, or a web browser as options for presentation software. If you need something other than this, please let us know at {{< email_organizers >}} and we will accommodate you! If you are using the conference laptop to present, please provide your slides (and any supporting fonts/files) to {{< email_organizers >}} no later than **Monday, May 12th**.
 
 You will have one confidence monitors in your line of sight. It will show any speaker notes if you have them. For ignites - you will NOT have speaker notes available, so if you need notes, you'll need to put them on cards or printed on paper.
 
