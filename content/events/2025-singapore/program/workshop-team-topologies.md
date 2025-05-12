@@ -7,6 +7,7 @@ Type = "talk"
 Speakers = ["matthew-skelton"]
 youtube = ""
 speakerdeck = ""
+sharing_image = "workshop-team-topologies.jpg"
 +++
 
 ### Workshop

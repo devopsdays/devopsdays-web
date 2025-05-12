@@ -10,13 +10,13 @@ Valorizamos muito os patrocinadores deste evento aberto. Se você estiver intere
 <div>
 <h2>[PT-BR] Proposta de Apoio</h2>
 <p>
-Os nossos parceiros são encorajados a assumirem uma postura de participação ativa, se engajarem com os participantes e a sugerirem temas para os open spaces, sessões auto-organizadas abertas para discussões revelantes. <strong>Queremos que nossos parceiros se envolvam no evento!</strong>
+Os nossos parceiros são encorajados a assumirem uma postura de participação ativa, a se engajarem com os participantes e a sugerirem temas para os open spaces, que são sessões auto-organizadas abertas para discussões relevantes. <strong>Queremos que nossos parceiros se envolvam no evento!</strong>
 </p>
 <p>
-Entendemos que uma maior quantidade de parceirias é benéfica para o evento, proporcionando uma ótima oportunidade para "mergulhar" mais fundo no mundo DevOps, assim como fazer networking e afins, por conta disso optamos por trabalhar com cotas com valores mais acessíveis para esse evento.
+Entendemos que uma maior quantidade de parcerias é benéfica para o evento, proporcionando uma ótima oportunidade para "mergulhar" mais fundo no mundo DevOps, assim como fazer networking e afins. Por conta disso, optamos por trabalhar com cotas com valores mais acessíveis para este evento.
 </p>
 <p>
-Visando valorizar a participação de instituições na realização do evento, foram organizados grupos de parcerias. Cada grupo proporciona uma série de vantagens aos parceiros oficiais, com os requisitos definidos e a contrapartida correspondente, conforme demonstado na tabela abaixo.
+Visando valorizar a participação de instituições na realização do evento, organizamos grupos de parcerias. Cada grupo proporciona uma série de vantagens aos parceiros oficiais, com os requisitos definidos e a contrapartida correspondente, conforme demonstrado na tabela abaixo.
 </p>
 </div>
 <br>
@@ -25,325 +25,225 @@ Visando valorizar a participação de instituições na realização do evento, 
 
   <table class="table table-bordered table-hover table-responsive-md">
     <thead class="thead-light">
-      <th>BENEFÍCIOS</th>
-        <th>COMUNIDADE</th>
-        <th>BRONZE</th>
-        <th>PRATA</th>
-        <th>OURO</th>
+      <th>Benefícios</th>
+      <th>Community</th>
+      <th>Silver</th>
+      <th>Gold</th>
+      <th>Diamond</th>
     </thead>
     <tr>
-      <td>Ingressos para o evento</td>
+      <td><b>Estande no evento com TV</b></td>
+      <td></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td><b>Itens/Brindes da marca (coffee, credenciamento, bags)</b></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td><b>Palestra rápida (15 min)</b></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td><b>Ingressos para a empresa</b></td>
+      <td></td>
       <td>2</td>
       <td>4</td>
-      <td>6</td>
-      <td>8</td>
+      <td>4</td>
     </tr>
     <tr>
-      <td>Logo no copo</td>
+      <td><b>Ingressos com 25% de desconto</b></td>
       <td></td>
       <td></td>
       <td></td>
-      <td><i class="fa fa-check"></i></td>
+      <td>4</td>
     </tr>
     <tr>
-      <td>Logo na cordinha</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td><i class="fa fa-check"></i></td>
-    </tr>
-    <tr>
-      <td>Logo na ecobag</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td><i class="fa fa-check"></i></td>
-    </tr>
-    <tr>
-      <td>Logo no crachá</td>
-      <td></td>
-      <td></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-    </tr>
-    <tr>
-      <td>Logo nos emails de Marketing</td>
-      <td></td>
-      <td></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-    </tr>
-    <tr>
-      <td>Logo banner de boas vindas</td>
-      <td></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-    </tr>
-    <tr>
-      <td>Logo no pórtico</td>
-      <td></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-    </tr>
-    <tr>
-      <td>Logo no backdrop de fotos</td>
-      <td></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-    </tr>
-    <tr>
-      <td>Logo no site</td>
+      <td><b>Logo (cordinha, bag, backdrop, banners, site)</b></td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
     </tr>
     <tr>
-      <td>Estande do patrocinador(2x2)</td>
+      <td><b>Posts nas redes sociais (Reels, Carrossel, Colab, Repost/Menção)</b></td>
       <td></td>
-      <td></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
+      <td>1</td>
+      <td>2</td>
+      <td>3</td>
     </tr>
     <tr>
-      <td>Distribuição de brindes na ecobag</td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-    </tr>
-    <tr>
-      <td>Video institucional da marca</td>
+      <td><b>Citação nos comunicados de e-mail</b></td>
       <td></td>
-      <td>Até 15s</td>
-      <td>Até 30s</td>
-      <td>Até 60s</td>
-    </tr>
-    <tr>
-      <td>Criação de conteúdo realtime da equipe de marketing</td>
-      <td></td>
-      <td></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-    </tr>
-    <tr>
-      <td>Espaço exclusivo no OpenSpace</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td><i class="fa fa-check"></i></td>
-    </tr>
-    <tr>
-      <td>Agradecimentos nas cerimõnias de abertura e encerramento</td>
-      <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
     </tr>
     <tr>
-      <td>Post nas redes sociais</td>
+      <td><b>Espaço exclusivo no OpenSpace</b></td>
       <td></td>
-      <td>Até 2</td>
-      <td>Até 3</td>
-      <td>Até 4</td>
+      <td></td>
+      <td>15 min</td>
+      <td>30 min</td>
     </tr>
     <tr>
-      <td>Entrevista para as redes sociais</td>
+      <td><b>Vídeo institucional (enviado pelo patrocinador)</b></td>
       <td></td>
-      <td></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
+      <td>15 seg</td>
+      <td>30 seg</td>
+      <td>60 seg</td>
     </tr>
     <tr>
-      <td>Reposts de menções no Instagram do DOD Rio</td>
-      <td><i class="fa fa-check"></i></td>
+      <td><b>Convite para jantar dos palestrantes</b></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>2 pessoas</td>
+    </tr>
+    <tr>
+      <td><b>Agradecimento ao fim do evento</b></td>
+      <td></td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
     </tr>
     <tr>
       <td><b>Cotas</b></td>
-      <td><b>até R$3.500,00</b></td>
-      <td><b>R$12.000,00</b></td>
+      <td><b>até R$5.000,00</b></td>
+      <td><b>R$9.000,00</b></td>
       <td><b>R$18.000,00</b></td>
       <td><b>R$22.000,00</b></td>
     </tr>
   </table>
 </div>
-<div>
-    <p style="font-size:18px">Veja mais e nosso mídia kit no documento completo clicando <a href="https://drive.google.com/file/d/1FVrITfnuUksF-ZZfPE0A6x-ZURrq4M-h/view?usp=sharing"><i class="fa fa-download" style="font-size:30px"></i></a></p>
-</div>
 
-<!--EN-->
+<br>
+
 <div>
 <h2>[EN] Sponsorship Proposal</h2>
 <p>
-Our partners are encouraged to take an active participation, to engage with participants and to suggest themes for open spaces, which are self-organized sessions open to meaninful discussions. <strong>We want our partners to get involved in the event!</strong>
+We highly value the sponsors of this open event. If you are interested in sponsoring, please send an email to [<a href="mailto:patrocine@devopsdays.org.br">patrocine@devopsdays.rio.br</a>].
 </p>
 <p>
-We understand that a greater number of partnerships is beneficial to the event, providing a great opportunity to deep-dive in the DevOps world, to have a better networking and so on and so forth, so we chose to work at quotas with more accessible values for this event.
+Our partners are encouraged to take an active role, engage with participants, and suggest topics for the open spaces, which are self-organized sessions open for meaningful discussions. <strong>We want our partners to be involved in the event!</strong>
 </p>
 <p>
-Aiming to enhance the participation of institutions in the event, we organized partnership groups. Each one provides a set of benefits to official partners, according to established requirements meeting the corresponding counterpart defined as shown in the table bellow.
+We believe that having more partnerships is beneficial for the event, providing a great opportunity to dive deeper into the DevOps world, as well as to network and connect. For this reason, we have chosen to offer sponsorship packages at more accessible prices for this event.
+</p>
+<p>
+To recognize the participation of institutions in making this event possible, we have organized partnership groups. Each group offers a series of benefits to official partners, with defined requirements and corresponding benefits, as shown in the table below.
 </p>
 </div>
-
+<br>
 
 <div class="table-responsive text-center">
 
   <table class="table table-bordered table-hover table-responsive-md">
     <thead class="thead-light">
       <th>Benefits</th>
-        <th>COMUNNITY</th>
-        <th>BRONZE</th>
-        <th>SILVER</th>
-        <th>GOLD</th>
+      <th>Community</th>
+      <th>Silver</th>
+      <th>Gold</th>
+      <th>Diamond</th>
     </thead>
     <tr>
-      <td>Ticket for event</td>
+      <td><b>Booth at the event with TV</b></td>
+      <td></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td><b>Brand items/gifts (coffee, registration, bags)</b></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td><b>Lightning talk (15 min)</b></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td><b>Tickets for the company</b></td>
+      <td></td>
       <td>2</td>
       <td>4</td>
-      <td>6</td>
-      <td>8</td>
+      <td>4</td>
     </tr>
     <tr>
-      <td>Logo in cup</td>
+      <td><b>Tickets with 25% discount</b></td>
       <td></td>
       <td></td>
       <td></td>
-      <td><i class="fa fa-check"></i></td>
+      <td>4</td>
     </tr>
     <tr>
-      <td>Logo on badge rope</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td><i class="fa fa-check"></i></td>
-    </tr>
-    <tr>
-      <td>Logo in ecobag</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td><i class="fa fa-check"></i></td>
-    </tr>
-    <tr>
-      <td>Logo on badge</td>
-      <td></td>
-      <td></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-    </tr>
-    <tr>
-      <td>Logo in marketing emails</td>
-      <td></td>
-      <td></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-    </tr>
-    <tr>
-      <td>Logo on welcome banner</td>
-      <td></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-    </tr>
-    <tr>
-      <td>Logo in the portico</td>
-      <td></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-    </tr>
-    <tr>
-      <td>Logo on photo backdrop</td>
-      <td></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-    </tr>
-    <tr>
-      <td>Logo in the site</td>
+      <td><b>Logo (lanyard, bag, backdrop, banners, website)</b></td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
     </tr>
     <tr>
-      <td>Sponsor Booth(2mx2m)</td>
+      <td><b>Social media posts (Reels, Carousel, Collab, Repost/Mention)</b></td>
       <td></td>
-      <td></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
+      <td>1</td>
+      <td>2</td>
+      <td>3</td>
     </tr>
     <tr>
-      <td>Distribuition on gift in participant`s bags</td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-    </tr>
-    <tr>
-      <td>Special thanks at the opening and closing cerimony</td>
-      <td><i class="fa fa-check"></i></td>
+      <td><b>Mention in email communications</b></td>
+      <td></td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
     </tr>
     <tr>
-      <td>Social media post</td>
+      <td><b>Exclusive space at OpenSpace</b></td>
       <td></td>
-      <td>Up to 2</td>
-      <td>Up to 3</td>
-      <td>Up to 4</td>
+      <td></td>
+      <td>15 min</td>
+      <td>30 min</td>
     </tr>
     <tr>
-      <td>Brand institucional video</td>
+      <td><b>Institutional video (provided by sponsor)</b></td>
       <td></td>
-      <td>Up to 15s</td>
-      <td>Up to 30s</td>
-      <td>Up to 60s</td>
+      <td>15 sec</td>
+      <td>30 sec</td>
+      <td>60 sec</td>
     </tr>
     <tr>
-      <td>Interview for social media</td>
+      <td><b>Invitation to speakers' dinner</b></td>
       <td></td>
       <td></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
+      <td></td>
+      <td>2 people</td>
     </tr>
     <tr>
-      <td>Realtime content creation Marketing team</td>
+      <td><b>Thank you at the end of the event</b></td>
       <td></td>
-      <td></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-    </tr>
-    <tr>
-      <td>Repost metions on instagram @devopsdaysrio</td>
-      <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
     </tr>
     <tr>
-      <td>Exclusive space at the Open Spaces (talks)</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td><i class="fa fa-check"></i></td>
-    </tr>
-    <tr>
-      <td><b>Investment</b></td>
-      <td><b>up to US$720,00</b></td>
-      <td><b>US$2.4500,00</b></td>
-      <td><b>US$3.800,00</b></td>
-      <td><b>US$4.500,00</b></td>
+      <td><b>Packages</b></td>
+      <td><b>up to US$900.00</b></td>
+      <td><b>US$1,500.00</b></td>
+      <td><b>US$3,000.00</b></td>
+      <td><b>US$3,700.00</b></td>
     </tr>
   </table>
-</div>
-<div>
-<p style="font-size:18px">You can check more about sponsorship and the benefits here <a href="https://drive.google.com/file/d/1juGPV7s6sU4yD_KLT7RID_ukyNOdlbNX/view?usp=sharing"><i class="fa fa-download" style="font-size:30px"></i></a></p>
 </div>

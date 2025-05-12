@@ -7,6 +7,7 @@ Type = "talk"
 Speakers = ["daniele-polencic"]
 youtube = ""
 speakerdeck = ""
+sharing_image = "workshop-building-and-breaking-kubernetes-clusters.jpg"
 +++
 
 ### Workshop

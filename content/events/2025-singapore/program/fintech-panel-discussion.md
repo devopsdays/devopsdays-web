@@ -7,6 +7,8 @@ Type = "talk"
 Speakers = ["rajiv-kumar-mishra", "khang-toh", "william-jones"]
 youtube = ""
 speakerdeck = ""
+sharing_image = "fintech-panel-discussion.jpg"
+
 +++
 
 ### DevOps meets AI in Singapore Financial Hub
