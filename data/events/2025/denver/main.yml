@@ -71,6 +71,9 @@ team_members: # Name is the only required field for team members.
   - name: "Carla Murray"
     employer: "Splunk"
     twitter: "carlajmurray"
+  - name: "Robby Baccary"
+    employer: "Edifecs"
+    linkedin: "https://www.linkedin.com/in/rbaccary/"
 organizer_email: "denver@devopsdays.org"
 
 # List all of your sponsors here along with what level of sponsorship they have.
