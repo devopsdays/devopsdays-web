@@ -151,6 +151,8 @@ sponsors:
     level: bronze
   - id: servicenow
     level: bronze
+  - id: google
+    level: bronze
 #   - id: samplesponsorname
 #     level: gold
 #  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
