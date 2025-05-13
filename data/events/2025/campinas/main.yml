@@ -69,7 +69,6 @@ team_members: # Name is the only required field for team members.
     image: "manasouza.jpeg"
     linkedin: "https://www.linkedin.com/in/manass%C3%A9s-loiola-de-souza-0b213624/"
   - name: "Marcelo Pires"
-    employer: "-"
     role: "Software Engineer"
     bio:  "Desenvolvedor de software, atua no mercado de aplicações nativas em nuvem, atendendendo grandes clientes internacionais. Entusiasta dos temas relacionados com Policy as Code, Kubernetes, etc."
     image: "marcpires.jpg"
