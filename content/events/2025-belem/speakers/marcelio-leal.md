@@ -2,7 +2,7 @@
 Title = "Marcelio Leal"
 #Twitter = ""
 linkedin = "https://www.linkedin.com/in/marcelioleal/"
-image = "andre-gusmao.jpg"
+image = "marcelio-leal.jpg"
 type = "speaker"
 linktitle = "marcelio-leal"
 
