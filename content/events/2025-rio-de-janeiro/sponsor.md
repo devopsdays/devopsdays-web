@@ -243,7 +243,7 @@ To recognize the participation of institutions in making this event possible, we
       <td><b>up to US$900.00</b></td>
       <td><b>US$1,500.00</b></td>
       <td><b>US$3,000.00</b></td>
-      <td><b>US$3,700.00</b></td>
+      <td><b>US$4,000.00</b></td>
     </tr>
   </table>
 </div>
