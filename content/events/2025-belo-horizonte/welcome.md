@@ -106,7 +106,7 @@ Esses eventos, que começaram em Ghent, Bélgica, em 2009, promovem a troca de c
 <br>
 <h2 style ="color:#6e9e8f"> DEVOPSDAYS BELO HORIZONTE - 2025</h2>
 <p align="justify">
-É com grande entusiasmo que convidamos você para participar do DevOpsDays Belo Horizonte 2025 que acontecerá em setembro.
+É com grande entusiasmo que convidamos você para participar do DevOpsDays Belo Horizonte 2025 que acontecerá em outubro.
  Como organizadores, estamos empolgados em reunir entusiastas, profissionais e especialistas do ecossistema DevOps para um encontro enriquecedor e inspirador.
 </p>
 
