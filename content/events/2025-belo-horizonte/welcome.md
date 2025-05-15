@@ -115,7 +115,7 @@ Se você é um desenvolvedor, sysadmin, testador, gerente de produto/projetos, e
 </p>
 
 <p align="justify">
-Você terá a chance de aprender com especialistas da área, compartilhar suas próprias experiências e conhecer profissionais de toda a região que pensam como você. E. Esperamos que você se junte a nós neste evento para explorar e contribuir para o crescimento da nossa comunidade.
+Você terá a chance de aprender com especialistas da área, compartilhar suas próprias experiências e conhecer profissionais de toda a região que pensam como você. Esperamos que você se junte a nós neste evento para explorar e contribuir para o crescimento da nossa comunidade.
 </p>
 <p>
 <br>
