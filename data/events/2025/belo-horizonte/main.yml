@@ -123,7 +123,7 @@ team_members: # Name is the only required field for team members.
 
 
   - name: "Flávio Pimenta"
-    employer: "Solutions Architect and TAM na Darede"
+    employer: "Staff Engineer na Select Soluções"
     twitter: "https://twitter.com/pimentaflavio"
     linkedin: "https://www.linkedin.com/in/flaap/"
     bio: "Arquiteto de Soluções nas horas comerciais vagas. Liderar comunidades de tecnologia AWS, DevTestsBR, Elastic, ser host em eventos como TDC e AWS Summit e coordenar os inimigos do fim no happy dos eventos é minha pegada! Javeiro de longa data que escreve códigos Python, flutua na AWS e desenha diagramas.  <br><br><br><br> <br>"
