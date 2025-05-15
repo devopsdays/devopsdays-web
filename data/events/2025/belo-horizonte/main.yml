@@ -162,7 +162,7 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/palomalataliza/"
     github: "shescloud"
     twitter: "shescloud_"
-    bio:  "Entusiasta de containers, fã de Cavaleiros do Zodíaco e apaixonada por compartilhar conhecimento. Paloma é formada em Ciência da Computação pela Universidade FUMEC, pós-graduada em Cloud Computing pela PUC Minas e mestranda em TICGC pela Universidade FUMEC. É também uma AWS HERO, líder do AWS User Group MG, Docker Captain, Embaixadora do Women Techmakers, Organizadora do primeiro AWSomeWomenCommunity Summit Brasil e  co-fundadora do projeto Mulheres na Nuvem MG. Ela tem se dedicado a incentivar a presença feminina no setor de tecnologia e nuvem.<br><br><br><br><br><br><br>"
+    bio:  "Entusiasta de containers, fã de Cavaleiros do Zodíaco e apaixonada por compartilhar conhecimento. Paloma é formada em Ciência da Computação pela Universidade FUMEC, pós-graduada em Cloud Computing pela PUC Minas e mestranda em TICGC pela Universidade FUMEC. É também uma AWS HERO, líder do AWS User Group BH, Docker Captain, Embaixadora do Women Techmakers, Organizadora do primeiro AWSomeWomenCommunity Summit Brasil e  co-fundadora do projeto Mulheres na Nuvem MG. Ela tem se dedicado a incentivar a presença feminina no setor de tecnologia e nuvem.<br><br><br><br><br><br><br>"
     image: "paloma.jpeg"
 
 
