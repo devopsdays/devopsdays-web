@@ -93,6 +93,8 @@ sponsors:
     level: silver
   - id: cloudx
     level: bronze
+  - id: brasil-software
+    level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
