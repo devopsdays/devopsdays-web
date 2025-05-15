@@ -87,8 +87,8 @@ a.jssocials-share-link, a.event-cta-button {
 <p></p>
 <!--<p><a href="https://www.papercall.io/devopsdaysbhz" target="_blank"><button type="button">ENVIE SUA PALESTRA</button></a></p>
 <p><button>INSCREVA-SE</button></p>
-<p><a href="/events/2025-belo-horizonte/location/"><button>LOCALIZAÇÃO</button></a></p> -->
-<p><a href="../sponsor/"><button>SEJA UM SPONSOR</button></a></p>
+<p><a href="/events/2025-belo-horizonte/location/"><button>LOCALIZAÇÃO</button></a></p>
+<p><a href="../sponsor/"><button>SEJA UM SPONSOR</button></a></p> -->
 <p><a href="/events/2025-belo-horizonte/organizadores"><button>CONTATO</button></a></p>
 
 </div>
