@@ -41,7 +41,7 @@ Description = "DevOpsDays Ljubljana 2025"
         <strong>Speakers:</strong>
       </div>
       <div class = "col-md-8">
-        Do you have knowledge to share? Apply <a href="http://cfp.devopsdays.si/" target="_blank">here</a>
+        Do you have knowledge to share?  {{<  event_link url-key="cfp_link" text="Apply here" >}}
       </div>
     </div>
     <div class = "row">
