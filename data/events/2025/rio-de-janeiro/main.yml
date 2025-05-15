@@ -110,6 +110,12 @@ sponsors:
   - id: docker-rio
     level: community
 
+  - id: fiap
+    level: community
+
+  - id: novatech
+    level: community
+
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 sponsor_levels:
