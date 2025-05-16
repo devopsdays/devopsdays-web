@@ -46,7 +46,7 @@ Description = "devopsdays Sao Paulo 2025"
         <strong>CFP</strong>
       </div>
       <div class="col-md-6">
-        <p>Abertura da envio em 23/04, fechamento em 22/07</p>
+        <p>Abertura da envio em 13/06, fechamento em 25/07</p>
       </div>
     </div>
   </div>
