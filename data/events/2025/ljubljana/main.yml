@@ -36,18 +36,19 @@ location_address: "Univerza v Ljubljani, Fakulteta za elektrotehniko, Tržaška 
 
 # Optional - Social badges
 # These can be used in the body of any page via matching shortcodes. See sample:  https://devopsdays.org/events/2025-denver/welcome/
-event_social_linkedin: "https://linkedin.com/company/devopsdays" # Change this to the url to your Linkedin group, company, or page.
-event_social_slack: "https://join.slack.com/t/devopsdays/custom_shared_invite_url" # Change this to your slack invite link.
-event_social_listserv: "https://lists.devopsdays.org/subscription?custom_listserv_invite_url" # Change this to your mailing list subscription form url.
-event_social_twitter: "devopsdays" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-event_social_mastadon: "https://mastodon.social/@devopsdays" # Change this to url to your mastadon page
-event_social_bsky: "https://bsky.app/profile/devopsdays.bsky.social" # Change this to url to your bluesky page
-event_social_youtube: "devopsdays" # Change this to the youtube channel handle for your event such as devopsdaysrox
+event_social_linkedin: "https://www.linkedin.com/company/devopsdays-si" # Change this to the url to your Linkedin group, company, or page.
+# event_social_slack: "https://join.slack.com/t/devopsdays/custom_shared_invite_url" # Change this to your slack invite link.
+# event_social_listserv: "https://lists.devopsdays.org/subscription?custom_listserv_invite_url" # Change this to your mailing list subscription form url.
+# event_social_twitter: "devopsdays" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+# event_social_mastadon: "https://mastodon.social/@devopsdays" # Change this to url to your mastadon page
+# event_social_bsky: "https://bsky.app/profile/devopsdays.bsky.social" # Change this to url to your bluesky page
+# event_social_youtube: "devopsdays" # Change this to the youtube channel handle for your event such as devopsdaysrox
 # legacy
-event_twitter: "devopsdays" # This will create a traditional "Follow" twitter button. Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp.
+# event_twitter: "devopsdays" # This will create a traditional "Follow" twitter button. Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: propose
+    url: https://cfp.devopsdays.si
  # - name: location
  # - name: registration
  # - name: program
@@ -78,11 +79,10 @@ team_members: # Name is the only required field for team members.
   - name: "Jernej Porenta"
     employer: "3fs"
     website: "https://www.3fs.cloud/"
-    linkedin: "https://www.linkedin.com/in/zabrezni"
+    linkedin: "https://www.linkedin.com/in/jernej-porenta/"
   - name: "Andraz Sraka"
     employer: "Independent"
-    website: "https://povio.com"
-    linkedin: "https://www.linkedin.com/in/zabreznik"
+    linkedin: "https://www.linkedin.com/in/andrazsraka/"
   
 
 organizer_email: "ljubljana@devopsdays.org" # Put your organizer email address here
