@@ -10,7 +10,7 @@
 /barcelona/*		/events/2013-barcelona/:splat		302
 /beijing/*		/events/2023-beijing/:splat		302
 /belem/*		/events/2019-belem/:splat		302
-/belo-horizonte/*	/events/2019-belo-horizonte/:splat	302
+/belo-horizonte/*	/events/2025-belo-horizonte/:splat	302
 /bengaluru/*		/events/2023-bengaluru/:splat		302
 /berlin/*		/events/2022-berlin/:splat		302
 /birmingham-al/*	/events/2024-birmingham-al/:splat	302
@@ -176,7 +176,7 @@
 /almaty/*            /events/2024-almaty/:splat           302
 /organizer-summit/*            /events/2024-organiser-summit/:splat           302
 /organiser-summit/cfp          https://talks.devopsdays.org/organiser-summit-2024/cfp           302
-/belo-horizonte/*	/events/2024-belo-horizonte/:splat	302
+/belo-horizonte/*	/events/2025-belo-horizonte/:splat	302
 
 # support ghent not being in ghent
 /15year/*		/events/2024-ghent/:splat		302
