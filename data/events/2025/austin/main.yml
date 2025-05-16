@@ -143,6 +143,16 @@ sponsors:
     level: gold
   - id: checkmarx
     level: track
+  - id: aikido
+    level: track
+  - id: codiac
+    level: track
+  - id: texasmutual
+    level: coffee
+  - id: crash-override
+    level: food
+  - id: newiron
+    level: careerroom
   - id: dryrun-security
     level: startup
   - id: autoptic
@@ -151,8 +161,6 @@ sponsors:
     level: startup
   - id: wicys-austin
     level: community
-  - id: newiron
-    level: careerroom
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -178,7 +186,7 @@ sponsor_levels:
     max: 1
   - id: food
     label: Food
-    max: 6
+    max: 4
   - id: careerroom
     label: Career Room
     max: 1

@@ -183,6 +183,10 @@ sponsors:
     level: community
   - id: googlecloud
     level: silver
+  - id: excella
+    level: lanyard
+  - id: groundcover
+    level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -201,6 +205,9 @@ sponsor_levels:
   - id: silver
     label: Silver
     max: 6
+  - id: digital
+    label: Digital
+    max: 0
     #max: 0 # This is the same as omitting the max limit.
   - id: closedcaptioning
     label: Closed Captioning

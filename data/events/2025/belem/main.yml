@@ -47,7 +47,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     url: https://tasafo.github.io/belemdevopsdays/patrocinio
   - name: Código de Conduta
     url: https://tasafo.github.io/belemdevopsdays/codigo-de-conduta
-  - name: Regulamento PDCs
+  - name: Regulamento PCD
     url: /events/2025-belem/regulamento-pcd
   - name: Contato
     url: https://tasafo.github.io/belemdevopsdays/contato
@@ -77,8 +77,8 @@ team_members: # Name is the only required field for team members.
     image: "ricardo-casseb.jpg"
     linkedin: "https://www.linkedin.com/in/ricardocasseb/"
 
-  - name: "Ryan Ricardo de Souza"
-    employer: "CR2 Transparência Pública"
+  - name: "Ryan de Souza"
+    employer: "Eng. Software - UEPA"
     image: "ryan.jpg"
     linkedin: "https://www.linkedin.com/in/theunrealryan/"
 
@@ -130,6 +130,8 @@ sponsors:
     level: community
   - id: aws-user-group-belem
     level: community
+  - id: devops-user-group-brazil
+    level: community
 
   # Diamante
   - id: idopterlabs
@@ -140,6 +142,8 @@ sponsors:
     level: diamante
 
   # Platina
+  - id: linuxtips
+    level: platinum
 
   # Ouro
   - id: easygestor
@@ -154,6 +158,8 @@ sponsors:
   # Bronze
 
   # Safo
+  - id: hage-consulting
+    level: safo
 
   # Apoio
   - id: aws
@@ -187,3 +193,34 @@ sponsor_levels:
     label: Comunidade
   - id: support
     label: Apoio
+
+
+program:
+  - title: "Credenciamento e Café da Manhã ☕️"
+    type: custom
+    date: 2025-07-07
+    start_time: "09:00"
+    end_time: "09:30"
+    background_color: "#fdcb6e"
+
+  - title: "Abertura"
+    type: custom
+    date: 2025-07-07
+    start_time: "09:30"
+    end_time: "09:45"
+    background_color: "#ffeaa7"
+
+  
+  - title: "marcelio-leal"
+    type: custom
+    date: 2025-07-07
+    start_time: "09:45"
+    end_time: "10:30"
+    background_color: "#0984e3"
+  
+  - title: "levi-leopoldino"
+    type: custom
+    date: 2025-07-07
+    start_time: "10:35"
+    end_time: "11:00"
+    background_color: "#0984e3"
