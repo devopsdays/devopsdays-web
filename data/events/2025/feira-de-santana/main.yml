@@ -86,12 +86,15 @@ organizer_email: "feira-de-santana@devopsdays.org" # Put your organizer email ad
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
-# sponsors:
-#   - id: samplesponsorname
-#     level: gold
-#  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-#   - id: arresteddevops
-#     level: community
+sponsors:
+  - id: areopagus
+    level: gold
+  - id: unexedu
+    level: silver
+  - id: cloudx
+    level: bronze
+  - id: brasil-software
+    level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -156,6 +159,11 @@ program:
     type: custom
     date: 2025-06-07T08:00:00-03:00
     start_time: "11:40"
+    end_time: "12:40"
+  - title: "Networking"
+    type: custom
+    date: 2025-06-07T08:00:00-03:00
+    start_time: "12:40"
     end_time: "13:30"
   - title: "Ignite Karaoke"
     type: custom

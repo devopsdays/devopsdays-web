@@ -8,6 +8,7 @@ Type = "talk"
 Speakers = ["aki-ranin"]
 youtube = ""
 speakerdeck = ""
+sharing_image = "what-exactly-are-ai-agents.jpg"
 +++
 
 ### Talk

@@ -1,7 +1,7 @@
 +++
 Title = "Registration"
 Type = "event"
-Description = "Registration for devopsdays singapore 2025"
+Description = "Registration for DevOpsDays Singapore 2025"
 +++
 
 <h3>Registration for DevOpsDays Singapore 2025 is open.</h3> 

@@ -150,11 +150,12 @@ program:
     start_time: "08:00"
     end_time: "08:45"
 
-  - title: "Opening Welcome"
-    type: custom
+  - title: "welcome-address"
+    type: talk
     date: 2025-05-14
     start_time: "08:45"
     end_time: "09:10"
+    background_color: "#B4C6E7"
 
   - title: "ai-savvy-operating-model"
     type: talk
@@ -176,7 +177,7 @@ program:
     end_time: "10:30"
     background_color: "#C6E0B4"
 
-  - title: "supercharge-agentic-ai-projects"
+  - title: "bridging-aws-cdk-and-terraform"
     type: talk
     date: 2025-05-14
     start_time: "10:30"
@@ -188,7 +189,7 @@ program:
     start_time: "10:30"
     end_time: "12:00"
 
-  - title: "workshop-secure-deliver-optimize-genai"
+  - title: "workshop-from-zero-to-hero"
     type: workshop
     date: 2025-05-14
     start_time: "10:30"
@@ -316,6 +317,12 @@ program:
     end_time: "10:30"
     background_color: "#C6E0B4"
 
+  - title: "let-the-algorithms-decide"
+    type: talk
+    date: 2025-05-15
+    start_time: "10:30"
+    end_time: "11:00"
+
   - title: "workshop-clickhouse"
     type: workshop
     date: 2025-05-15
@@ -328,19 +335,13 @@ program:
     start_time: "10:30"
     end_time: "14:45"
 
-  - title: "workshop-from-zero-to-hero"
+  - title: "workshop-secure-deliver-optimize-genai"
     type: workshop
     date: 2025-05-15
     start_time: "10:30"
     end_time: "14:45"
 
-  - title: "let-the-algorithms-decide"
-    type: talk
-    date: 2025-05-15
-    start_time: "10:30"
-    end_time: "11:00"
-
-  - title: "bridging-aws-cdk-and-terraform"
+  - title: "supercharge-agentic-ai-projects"
     type: talk
     date: 2025-05-15
     start_time: "11:00"
