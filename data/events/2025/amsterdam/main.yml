@@ -126,11 +126,19 @@ sponsors:
     level: gold
   - id: upcloud
     level: gold
+  - id: akamai
+    level: gold
+  - id: nationale-nederlanden-nl
+    level: gold
   # Lanyard
   - id: schubergphilis
     level: lanyard
   # Silver
   - id: cloudbees
+    level: silver
+  - id: ing
+    level: silver
+  - id: cinq
     level: silver
   # Bronze
   - id: devleaps
@@ -142,6 +150,8 @@ sponsors:
   - id: amsterdamdev
     level: bronze
   - id: servicenow
+    level: bronze
+  - id: googlecloud
     level: bronze
 #   - id: samplesponsorname
 #     level: gold
@@ -156,9 +166,6 @@ sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: beer
-    label: Beverage
-    max: 1
   - id: coffee
     label: Coffee
     max: 1

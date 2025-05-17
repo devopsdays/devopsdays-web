@@ -3,7 +3,7 @@ name: test hugo
 on: [pull_request]
 
 env:
-  NODE_VERSION: 16
+  NODE_VERSION: 22
   HUGO_VERSION: 0.126.1
 
 jobs:
@@ -12,7 +12,7 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Lint Filenames
         uses: julie-ng/lowercase-linter@v1
@@ -27,10 +27,10 @@ jobs:
     name: Build hugo on Linux
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           submodules: true # Fetch Hugo themes (true OR recursive)
-          fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
+          fetch-depth: 1 # Fetch recent history for .GitInfo and .Lastmod at level 1
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3

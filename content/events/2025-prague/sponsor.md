@@ -30,6 +30,7 @@ Gold sponsors get a big table and Silver sponsors a small table where they can i
     <th bgcolor="#C0C0C0"><center><font color=white><b>Silver<br/></font></center></b></th>
     <th bgcolor="#CD7F32"><center><font color=white><b>Bronze<br/></font></center></b></th>
     <th bgcolor="#0D9850"><center><font color=white><b>Lanyard<br/></font></center></b></th>
+    <th bgcolor="#0D9850"><center><font color=white><b>T-Shirt<br/></font></center></b></th>
   </tr>
   <tr>
     <td>Price</td>
@@ -38,14 +39,16 @@ Gold sponsors get a big table and Silver sponsors a small table where they can i
     <td><center>2500&nbsp;EUR</center></td>
     <td><center>1200&nbsp;EUR</center></td>
     <td><center>3000&nbsp;EUR</center></td>
+    <td><center>6000&nbsp;EUR</center></td>
   </tr>
   <tr>
     <td>Number available</td>
     <td bgcolor="#d9ead3">∞</td>
     <td bgcolor="#d9ead3">SOLD OUT</td>
-    <td bgcolor="#d9ead3">8</td>
+    <td bgcolor="#d9ead3">5</td>
     <td bgcolor="#d9ead3">∞</td>
-    <td bgcolor="#d9ead3">1</td>
+    <td bgcolor="#d9ead3">SOLD OUT</td>
+    <td bgcolor="#d9ead3">SOLD OUT</td>
   </tr>
   <tr>
     <td>Tickets included</td>
@@ -54,9 +57,11 @@ Gold sponsors get a big table and Silver sponsors a small table where they can i
     <td bgcolor="#d9ead3">4</td>
     <td bgcolor="#d9ead3">2</td>
     <td bgcolor="#d9ead3">4</td>
+    <td bgcolor="#d9ead3">8</td>
   </tr>
   <tr>
     <td>Discount for additional tickets</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
     <td bgcolor="#d9ead3">&nbsp;</td>
     <td bgcolor="#d9ead3">&nbsp;</td>
     <td bgcolor="#d9ead3">&nbsp;</td>
@@ -70,6 +75,7 @@ Gold sponsors get a big table and Silver sponsors a small table where they can i
     <td bgcolor="#d9ead3">small</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
+    <td bgcolor="#d9ead3">large</td>
   </tr>
   <tr>
     <td>Banner/roll-up on the main stage</td>
@@ -78,6 +84,7 @@ Gold sponsors get a big table and Silver sponsors a small table where they can i
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td bgcolor="#d9ead3">1</td>
+    <td>&nbsp;</td>
   </tr>
   <tr>
     <td>On stage pitch</td>
@@ -86,6 +93,7 @@ Gold sponsors get a big table and Silver sponsors a small table where they can i
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
+    <td bgcolor="#d9ead3">1min</td>
   </tr>
   <tr>
     <td>Logo on a dedicated slide during breaks</td>
@@ -93,6 +101,7 @@ Gold sponsors get a big table and Silver sponsors a small table where they can i
     <td bgcolor="#d9ead3">&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
     <td bgcolor="#d9ead3">&nbsp;</td>
   </tr>
   <tr>
@@ -102,6 +111,7 @@ Gold sponsors get a big table and Silver sponsors a small table where they can i
     <td bgcolor="#d9ead3">&nbsp;</td>
     <td bgcolor="#d9ead3">&nbsp;</td>
     <td>&nbsp;</td>
+    <td>&nbsp;</td>
   </tr>
   <tr>
     <td>Special perk</td>
@@ -110,6 +120,7 @@ Gold sponsors get a big table and Silver sponsors a small table where they can i
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td bgcolor="#d9ead3">Logo on Lanyard</td>
+    <td bgcolor="#d9ead3">Logo on T-shirts</td>
   </tr>
   <tr>
     <td>Logo in newsletters</td>
@@ -118,9 +129,11 @@ Gold sponsors get a big table and Silver sponsors a small table where they can i
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td bgcolor="#d9ead3">&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
   </tr>
   <tr>
     <td>Placement of company logo on social media</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
     <td bgcolor="#d9ead3">&nbsp;</td>
     <td bgcolor="#d9ead3">&nbsp;</td>
     <td bgcolor="#d9ead3">&nbsp;</td>
@@ -134,10 +147,12 @@ Gold sponsors get a big table and Silver sponsors a small table where they can i
     <td bgcolor="#d9ead3">&nbsp;</td>
     <td bgcolor="#d9ead3">&nbsp;</td>
     <td bgcolor="#d9ead3">&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
   </tr>
   <tr>
     <td>Swags bag insert</td>
     <td>&nbsp;</td>
+    <td bgcolor="#d9ead3">&nbsp;</td>
     <td bgcolor="#d9ead3">&nbsp;</td>
     <td bgcolor="#d9ead3">&nbsp;</td>
     <td bgcolor="#d9ead3">&nbsp;</td>

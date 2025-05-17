@@ -90,7 +90,7 @@ sponsors:
     level: silver
   - id: logz
     level: silver
-  - id: redis-labs
+  - id: redis-before-20250508-labs
     level: silver
   - id: cprime
     level: silver

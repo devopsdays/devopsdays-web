@@ -108,6 +108,12 @@ organizer_email: "eindhoven@devopsdays.org" # Put your organizer email address h
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  # Silver
+  - id: exoscale
+    level: silver
+  # Bronze
+  - id: asml
+    level: bronze
 #   - id: samplesponsorname
 #     level: gold
 #  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.

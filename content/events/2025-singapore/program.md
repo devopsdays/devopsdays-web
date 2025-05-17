@@ -1,7 +1,8 @@
 +++
-Title = "Program"
+Title = "DevOpsDays Singapore 2025 Program"
 Type = "program"
-Description = "Program information for DevOpsDays Singapore 2025"
+Description = "Each day starts with two keynotes and three expert talks in technology and tech culture. After lunch we have a panel discussion followed by a series of lightning talks and then self-organize a series of small groups called openspaces. In these openspaces, attendees share and discuss their knowledge on a specific point topic of interest. You’ll find many opportunities to participate, engage, and discuss with your peers at DevOpsDays Singapore!"
+sharing_image = "program.png"
 +++
 
 <div class = "row">

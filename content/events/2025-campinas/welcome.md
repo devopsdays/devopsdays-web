@@ -94,7 +94,8 @@ a.jssocials-share-link, a.event-cta-button {
     <h1 style="color:#5C889F">DevOpsDays Campinas 2025</h1>
     <hr/>
     <h2>Quando?</h2>
-    <h3>Setembro/Outubro 2025 (data exata em definição)</h3>
+    <h3>18 de outubro de 2025</h3>
+    <h4>Instituto de Computação - Unicamp</h4>
     <hr/>
     <h2>Quer patrocinar?</h2>
     <h3>

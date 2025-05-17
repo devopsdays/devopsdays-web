@@ -44,14 +44,14 @@ Description = "devopsdays Baltimore 2025"
             <strong>{{< event_link url-key="registration_link" text="Register to attend the conference!" >}}</strong> <i>[Early bird discounts until 3/15, while supplies last]</i>
           </div>
         </div>
-        <div class = "row">
+        <!-- <div class = "row">
           <div class = "col-md-2">
             <strong>Propose</strong>
           </div>
           <div class = "col-md-8">
             {{< event_link url-key="cfp_link" text="Propose a talk, now!" >}}
           </div>
-        </div>
+        </div> -->
 <!--        <div class = "row">
           <div class = "col-md-2">
             <strong>Schedule</strong>

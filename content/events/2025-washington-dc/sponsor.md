@@ -65,6 +65,7 @@ KDC expects about 150 attendees for their event.
     <td><strong>Platinum</strong></td>
     <td><strong>Gold</strong></td>
     <td><strong>Silver</strong></td>
+    <td><strong>Digital</strong></td>
   </tr>
   <tr class="hed2">
     <td></td> 
@@ -92,21 +93,33 @@ KDC expects about 150 attendees for their event.
         <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Buy Now" />
       </form>
     </td>
+    <td><strong>$500 USD</strong>
+      <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+        <input type="hidden" name="cmd" value="_s-xclick" />
+        <input type="hidden" name="hosted_button_id" value="DW8YEZBG4Z5E2" />
+        <input type="hidden" name="currency_code" value="USD" />
+        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Buy Now" />
+      </form>
+    </td>
+
   </tr>
     <tr>
     <td>Available sponsorships</td>
       <td class="yes"><strong>5</strong></td>
       <td class="yes"><strong>6</strong></td>
       <td class="yes"><strong>6</strong></td>
+      <td class="yes"><strong>lots!</strong></td>
   </tr>
   <tr>
     <td>Logo on shared slide, rotating during breaks</td>
     <td class="yes">&#9989;</td>
     <td class="yes">&#9989;</td>
     <td class="yes">&#9989;</td>
+    <td class="yes">&#9989;</td>
   </tr>
   <tr>
-    <td>Logo on DevOpsDays DC 2024 event website</td>
+    <td>Logo on DevOpsDays DC 2025 event website</td>
+    <td class="yes">&#9989;</td>
     <td class="yes">&#9989;</td>
     <td class="yes">&#9989;</td>
     <td class="yes">&#9989;</td>
@@ -116,10 +129,12 @@ KDC expects about 150 attendees for their event.
     <td class="yes">&#9989;</td>
     <td class="yes">&#9989;</td>
     <td class="yes">&#9989;</td>
+    <td class="yes">&#9989;</td>
   </tr>
   <tr>
     <td>Full table for swag/marketing during conference (3 seats)</td>
     <td class="yes">&#9989;</td>
+    <td class="no"> </td>
     <td class="no"> </td>
     <td class="no"> </td>
   </tr>
@@ -128,16 +143,19 @@ KDC expects about 150 attendees for their event.
     <td class="no"> </td>
     <td class="yes">&#9989;</td>
     <td class="no"> </td>
+    <td class="no"> </td>
   </tr>
   <tr>
     <td>Shared table for swag/marketing during conference (no seat)</td>
     <td class="no"> </td>
     <td class="no"> </td>
     <td class="yes">&#9989;</td>
+    <td class="no"> </td>
   </tr>
   <tr>
     <td>1 minute personal pitch to full audience</td>
     <td class="yes">&#9989;</td>
+    <td class="no"> </td>
     <td class="no"> </td>
     <td class="no"> </td>
   </tr>
@@ -146,17 +164,20 @@ KDC expects about 150 attendees for their event.
     <td class="no"> </td>
     <td class="yes">&#9989;</td>
     <td class="no"> </td>
+    <td class="no"> </td>
   </tr>
   <tr>
     <td>15 second pitch (scripted) delivered by event M.C.</td>
     <td class="no"> </td>
     <td class="no"> </td>
     <td class="yes">&#9989;</td>
+    <td class="no"> </td>
   <tr>
     <td>Included event tickets</td>
     <td class="yes">4</td>
     <td class="yes">2</td>
     <td class="yes">1</td>
+    <td class="no"> </td>
   </tr>
   </tbody>
 </table>
@@ -165,7 +186,7 @@ Refunds: Full sponsor refunds are available until 6/1/2025. Sponsor refunds betw
 
 ### All Sponsorships
 
-* Social media mentions on Linked, Twitter, Fediverse
+* Social media mentions on LinkedIn, Twitter, Fediverse, Bluesky
   * Upon securing sponsorship (when payment is confirmed)
   * Two weeks before the conference
   * During the conference
@@ -199,6 +220,15 @@ Refunds: Full sponsor refunds are available until 6/1/2025. Sponsor refunds betw
 * Event M.C. pitch and introduction from main stage
   * M.C. will introduce sponsor representatives 
   * M.C. will deliver sponsor-provided pitch up to 20 seconds (about 40 words), with sponsor slide
+
+### Digital - Price $500 USD
+
+* Social media mentions on LinkedIn, Twitter, Fediverse, Bluesky
+  * Upon securing sponsorship (when payment is confirmed)
+  * Two weeks before the conference
+  * During the conference
+* Logo on DevOpsDays DC 2025 event website
+* Logo displayed on shared slides, rotating during event breaks
 
 ## Special Sponsorships
 
@@ -251,7 +281,7 @@ We also offer community sponsorships. This is not a paid sponsorship. Instead, t
 * Willing to help promote, in kind, DevOpsDays DC.
 * Willing to adhere to our code of conduct
 
-Sponsors are granted one comp ticket, a discount code to promote within their community, Twitter/Fediverse and LinkedIn mentions, and your icon on our website and slides.
+Sponsors are granted one comp ticket, a discount code to promote within their community, Twitter/Fediverse, LinkedIn, and Bluesky mentions, and your icon on our website and slides.
 
 Please reach out to {{< email_organizers >}} to set up this relationship.
 

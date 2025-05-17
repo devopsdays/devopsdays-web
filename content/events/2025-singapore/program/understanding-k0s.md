@@ -4,7 +4,7 @@ talk_start_time = ""
 talk_end_time = ""
 Title = "Understanding k0s: A Lightweight Kubernetes Distribution For The Community"
 Type = "talk"
-Speakers = ["prithvi-raj"]
+Speakers = ["satyam-bhardwaj"]
 youtube = ""
 speakerdeck = ""
 +++

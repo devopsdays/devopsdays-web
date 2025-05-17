@@ -14,17 +14,17 @@ startdate: 2025-10-22T00:00:00+04:00 # The start date of your event. Leave blank
 enddate: 2025-10-22T00:00:00+04:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2025-03-12T00:00:00+04:00 # start accepting talk proposals.
-cfp_date_end: 2025-08-17T00:12:59+04:00 # close your call for proposals.
+cfp_date_start: 2025-03-12T00:00:00-04:00 # start accepting talk proposals.
+cfp_date_end: 2025-08-17T00:12:59-04:00 # close your call for proposals.
 cfp_date_announce:  2025-09-01T08:00:00+04:00 # inform proposers of status
 
 cfp_link: "https://talks.devopsdays.org/devopsdays-detroit-2025/cfp"
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start: 2025-04-17T00:00:00-04:00
+registration_date_end: 2025-10-02T00:00:00-04:00
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://tickets.devopsdays.org/devopsdays-detroit/2025/"
 
 # Location
 #
@@ -35,13 +35,13 @@ location_address: "460 W Baltimore St, Detroit, MI 48202" #Optional - use the st
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
- # - name: location
- # - name: registration
- # - name: program
- # - name: speakers
+  - name: registration
   - name: sponsor
   - name: contact
   - name: conduct
+ # - name: program
+ # - name: speakers
+ # - name: location
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site

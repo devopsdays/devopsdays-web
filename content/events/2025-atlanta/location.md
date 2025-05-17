@@ -17,6 +17,13 @@ The Historic Academy of Medicine is less than a quarter-mile walk from Midtown s
 <p><a href="https://goo.gl/maps/QjHRM8LhG8L2">View on Google Maps</a></p>
 <h2 id="driving-parking">Driving &amp; Parking</h2>
 <p>Limited free parking is available during conference hours in the lot behind our venue, The Historic Academy of Medicine. (Cars should be moved from the lot after 5 pm.)</p>
+
+<h2 id="pour">After Party 4/29 at Pour Taproom Midtown</h2>
+Join us for the after party on Tuesday, April 29th, immediately following the conference at <a href="https://pourtaproomatlanta.com/midtown-location/">Pour Taproom Midtown</a> for a relaxed setting to interact with other attendees and speakers.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3315.981443060519!2d-84.38610052429485!3d33.786977373258026!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88f505a51e54fa79%3A0x501396e39c500ed7!2sPour%20Taproom%3A%20Midtown!5e0!3m2!1sen!2sus!4v1745855070462!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<p><a href="https://maps.app.goo.gl/NEsJXGZFfBzpBxFV6">View on Google Maps</a></p>
+
 <h2 id="airport">Airport</h2>
 <p>There is a taxi stand outside of the baggage claim at the airport, and most taxi companies have a flat, standard rate from the airport to Midtown of $32. You could pay a little less or a little more, but please be aware of the taxi that you choose: ensure that it’s a legitimate taxi company and agree upon how the price will be determined (flat rate or meter) before putting your luggage inside. If you need help, do not hesitate to ask an airport employee; we’re known to be polite here in Georgia! Unfortunately, <a href="http://www.marketplace.org/2015/11/24/business/taxi-and-uber-fight-curb-atlanta-airport">ride-share companies like Uber</a> are not allowed to pick-up customers at the airport.</p>
 <h2 id="lodging">Lodging</h2>

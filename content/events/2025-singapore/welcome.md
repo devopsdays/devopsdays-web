@@ -1,8 +1,8 @@
 +++
-Title = "devopsdays singapore 2024"
+Title = "DevOpsDays Singapore 2025"
 Type = "welcome"
 aliases = ["/events/2025-singapore/"]
-Description = "DevOpsDays Singapore will take place at Fort Canning! We're encouraged by the feedback from previous year's events and are determined to bring an improved experience and continue the DevOps conversation for 2024 in Singapore."
+Description = "DevOpsDays Singapore will be held on 14th & 15th May, at the Stephen Riady Auditorium @ NTUC in Singapore. We expect over 300 attendees this year."
 +++
 
 <div class="row">
@@ -86,7 +86,7 @@ Description = "DevOpsDays Singapore will take place at Fort Canning! We're encou
   <div class="col-md-12">    
   <p>Can you believe it is 10 years since we ran the first <strong>DevOpsDays</strong> in Singapore ? For our <strong>10 Years</strong> anniversary edition we are bringing back the workshop track.</p>
 
-  <p>Please come and celebrate this event with us, the event will be held on <strong>14th & 15th May</strong>, at the <a href="../location">Stephen Riady Auditorium @ NTUC</a> in Singapore. We expect <strong>over 400 attendees</strong> this year. </p> 
+  <p>Please come and celebrate this event with us, the event will be held on <strong>14th & 15th May</strong>, at the <a href="../location">Stephen Riady Auditorium @ NTUC</a> in Singapore. We expect <strong>over 300 attendees</strong> this year. </p> 
   <p>We're partnering with <strong>TTAB</strong> an association for all infocommunication technology (ICT) professionals in Singapore to nurture all tech talents.</p>
     <p><a href="../location">Look for Nearby Hotels</a></p>
     {{< event_twitter >}}

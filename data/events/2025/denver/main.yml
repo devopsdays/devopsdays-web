@@ -1,7 +1,7 @@
 name: "2025-denver" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2025" # The year of the event. Make sure it is in quotes.
 city: "Denver" # The displayed city name of the event. Capitalize it.
-description: "Devopsdays is returning to Denver for " # Edit this to suit your preferences
+description: "Devopsdays is returning to Denver!" # Edit this to suit your preferences
 ga_tracking_id: "G-9SR9GD94E0" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2025-MM-DDTHH:MM:SS+TZ:TZ, like this:
@@ -17,7 +17,7 @@ cfp_date_start: 2025-02-22T08:00:59-06:00 # start accepting talk proposals.
 cfp_date_end: 2025-05-25T23:59:59-06:00 # close your call for proposals.
 cfp_date_announce: 2025-06-15T08:00:59-06:00 # inform proposers of status
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://talks.devopsdays.org/dodrox-2025/cfp" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2025-02-22T08:00:59-06:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 registration_date_end: 2025-09-15T23:59:59-06:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
@@ -35,9 +35,9 @@ event_social_youtube: "devopsdaysrockies"
 #
 # coordinates: "" # No longer used
 
-location: "Downtown Denver" # Defaults to city, but you can make it the venue name.
+location: "Bierstadt Lagerhaus" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
+location_address: "2875 Blake St, Denver, CO 80205" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
@@ -71,16 +71,26 @@ team_members: # Name is the only required field for team members.
   - name: "Carla Murray"
     employer: "Splunk"
     twitter: "carlajmurray"
+  - name: "Robby Baccary"
+    employer: "Edifecs"
+    linkedin: "https://www.linkedin.com/in/rbaccary/"
 organizer_email: "denver@devopsdays.org"
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  # - id: samplesponsorname
-  #   level: gold
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  # - id: arresteddevops
-  #   level: community
+  - id: suse
+    level: gold
+  - id: fairwinds
+    level: supporter
+  - id: code-talent
+    level: community
+  - id: kubecareers
+    level: community
+  - id: kubeevents
+    level: community
+  - id: mentorsintech
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -95,8 +105,8 @@ sponsor_levels:
   - id: silver
     label: Silver
     max: 0 # This is the same as omitting the max limit.
-  - id: bronze
-    label: Bronze
+  - id: supporter
+    label: Supporter
     max: 0
   - id: community
     label: Community

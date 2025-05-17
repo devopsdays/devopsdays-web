@@ -5,6 +5,7 @@ Twitter = "MNEMONIC01"
 Website = "https://mnemonicbits.blogspot.com/"
 type = "speaker"
 linktitle = "michel"
+sharing_image = "singapore-banner.png"
 
 +++
 

@@ -81,7 +81,7 @@ team_members: # Name is the only required field for team members.
      twitter: DeryaDorian
    
    - name: "Dogukan Turan"
-     employer: "Logo"
+     employer: "Innovance"
      image: "dogukan-turan.jpg"
      twitter: "imdotu"
      linkedin: "https://www.linkedin.com/in/dogukanturan/"
