@@ -47,8 +47,14 @@ Description = "Conoce a nuestros speakers del DevOpsDays Lima 2025"
         {
             "name": "Mabel Gerónimo",
             "avatar": "/img/lima-mabel.jpg",
-            "biography": " Mabel es Strategic Solutions Engineer de GitHub Inc. Con más de 9 años transformando los procesos de desarrollo en las principales organizaciones de la región, Mabel ha revolucionado la implementación de prácticas DevSecOps y soluciones GitHub que potencian la eficiencia y seguridad del ciclo de desarrollo. Dominicana de nacimiento, Ingeniera de Sistemas con participación destacada en las competencias algorítmicas de ACM-ICPC, ahora desde Austin, Texas nos trae su visión global y experiencia incomparable en implementación de IA.",
+            "biography": "Mabel es Strategic Solutions Engineer de GitHub Inc. Con más de 9 años transformando los procesos de desarrollo en las principales organizaciones de la región, Mabel ha revolucionado la implementación de prácticas DevSecOps y soluciones GitHub que potencian la eficiencia y seguridad del ciclo de desarrollo. Dominicana de nacimiento, Ingeniera de Sistemas con participación destacada en las competencias algorítmicas de ACM-ICPC, ahora desde Austin, Texas nos trae su visión global y experiencia incomparable en implementación de IA.",
             "submissions": ["https://www.linkedin.com/in/mabel-ger%C3%B3nimo-88b11091/"]
+        },
+        {
+            "name": "Angel Nuñez",
+            "avatar": "/img/lima-angel-nunez.png",
+            "biography": "Angel es Principal Architect en McKinsey & Company, donde lidera la creación de negocios digitales y procesos de transformación a gran escala. Con una trayectoria destacada en América Latina, ha acompañado a organizaciones en banca, seguros, consumo masivo, logística, sector público y startups, rediseñando estructuras organizativas, arquitecturas resilientes y modelos operativos. Reconocido por su visión estratégica y su cercanía con líderes ejecutivos, Angel impulsa cambios que trascienden lo tecnológico para transformar la forma en que operan las empresas.",
+            "submissions": ["https://www.linkedin.com/in/angelnunezsalazar/"]
         }
     ];  
 
