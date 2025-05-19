@@ -4,7 +4,7 @@ Type = "event"
 Description = "Location for DevOpsDays Washington, D.C. 2025"
 +++
 
-DevOpsDays DC 2024 will be held at the [American Red Cross](https://www.redcross.org/) at 1730 E St NW, Washington, DC 20006.
+DevOpsDays DC 2025 will be held at the [American Red Cross](https://www.redcross.org/) at 1730 E St NW, Washington, DC 20006.
 
 {{< event_map >}}
 

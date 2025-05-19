@@ -6,10 +6,13 @@ Description = "devopsdays Aarhus 2025"
 +++
 <div class="row">
   <div class="col-md-6">
-    <h2>DevOpsDays Denmark is coming back to Aarhus!</h2>
+    <h2>DevOpsDays Aarhus 2025</h2>
     <p>
-      We look forward to welcoming the local DevOps community, inspiring speakers,
-      and our sponsors to a fantastic event.
+      Thank you for participating in Devopsdays Aarhus 2025!
+    </p>
+    <h3>Stay in contact</h3>
+    <p>
+      Keep the conversation going in the <a href="https://www.linkedin.com/groups/10079001">DevOpsDays – Denmark LinkedIn group</a>.
     </p>
     <h3>About this event</h3>
     <p>
@@ -19,20 +22,6 @@ Description = "devopsdays Aarhus 2025"
       it a unique space for exchanging ideas and building connections within the
       DevOps community.
     </p>
-    <h3>What you will learn</h3>
-    <p>
-      The program will feature a variety of inspiring talks on software development
-      and IT infrastructure, with speakers focused on sharing knowledge, not
-      selling products.
-    </p>
-    <h3>Format</h3>
-    <p>
-      Enjoy regular 30-minute talks and the engaging format of Ignite Talks.
-      There will also be ample opportunities for open-space discussions and networking
-      throughout the conference. What's not to love?
-    </p>
-    <h3>Tickets</h3>
-    <p><a href="https://devopsdaysdenmark.ticketbutler.io/e/devopsdays-aarhus-2025/">Registration is open</a></p>
     <div class="row">
       <div class="col-md-2">
         <strong>Dates</strong>

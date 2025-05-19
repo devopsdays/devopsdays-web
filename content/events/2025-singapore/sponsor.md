@@ -1,7 +1,7 @@
 +++
 Title = "Sponsor"
 Type = "event"
-Description = "Sponsor devopsdays singapore 2024"
+Description = "Sponsor DevOpsDays Singapore 2025"
 +++
 
 We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
@@ -28,7 +28,7 @@ DevOpsDays Singapore 2025 venue will be [Stephen Riady Auditorium ](http://devop
 
 ## Booth Space
 
-Gold and Platinum sponsors receive dedicated booth space at the event. Silver sponsors share a table. This is the perfect spot for your engineers to meet other tech geeks. Your booth space will have a booth table (150 cm x 50 cm) and two chairs. You can set up your table as you like, be it to display signage, products, materials, or swag giveaways. We encourage sponsors to send engineers to interact with attendees during session breaks.
+Gold and Platinum sponsors receive dedicated booth space at the event. This is the perfect spot for your engineers to meet other tech geeks. Your booth space will have a booth table (200 cm x 50 cm) and two chairs. You can set up your table as you like, be it to display signage, products, materials, or swag giveaways. We encourage sponsors to send engineers to interact with attendees during session breaks.
 
 Large displays and oversized marketing material are not allowed in the exhibitor space. Please check with the organizers if your items fall under the restricted category. You may ship your booth materials to the venue prior to the event day.
 # SPONSORSHIP PACKAGES
@@ -39,8 +39,8 @@ Our sponsorship packages are structured around how you can help be part of the c
   <table class="table table-hover table-condensed">
     <tr>
       <th><i>Packages</i></th>
-      <th style="text-align: center"><b>Silver<br />3,000&nbsp;SGD</b></th>
-      <th style="text-align: center"><b>Gold<br />8,000&nbsp;SGD</b></th>
+      <th style="text-align: center"><b>Silver<br />4,000&nbsp;SGD</b></th>
+      <th style="text-align: center"><b>Gold<br />9,000&nbsp;SGD</b></th>
       <th style="text-align: center"><b>Platinum<br />Contact Us</b></th>
     </tr>
     <tr>
@@ -49,10 +49,8 @@ Our sponsorship packages are structured around how you can help be part of the c
         <strong>unlimited</strong>
       </td>
       <td style="text-align: center">
-        <strong>8</strong>
-        <!--
         <span style="color: red">SOLD OUT</span>
-        -->
+        <!-- <strong>8</strong>-->
       </td>
       <td style="text-align: center">
         <span style="color: red">SOLD OUT</span>
@@ -72,9 +70,9 @@ Our sponsorship packages are structured around how you can help be part of the c
     </tr>
     <tr>
       <td>Complimentary attendee tickets (workshops not included*)</td>
-      <td style="text-align: center"><strong>3</strong></td>
-      <td style="text-align: center"><strong>8</strong></td>
-      <td style="text-align: center"><strong>16</strong></td>
+      <td style="text-align: center"><strong>4</strong></td>
+      <td style="text-align: center"><strong>9</strong></td>
+      <td style="text-align: center"><strong>13</strong></td>
     </tr>
     <tr>
       <td>Logo on shared slide, rotating during breaks</td>
@@ -115,14 +113,14 @@ Our sponsorship packages are structured around how you can help be part of the c
     <tr>
       <td>Drink Sponsor
       <td>Sponsor the drink for the social event happy hour and have your signage and logo at the bar
-      <td><center>2</center>
-      <td>5000&nbsp;SGD
+      <td><center>1</center>
+      <td>6000&nbsp;SGD
     </tr>
     <tr>
       <td>Coffee Cart (Covers one day) Sponsor
       <td>Arranged directly with the Fort Canning, the coffee cart will supply awesome barista coffee for all delegates.
-      <td><center>2</center>
-      <td>3000&nbsp;SGD
+      <td><center>1</center>
+      <td>3500&nbsp;SGD
     </tr>
   </table>
 </div>

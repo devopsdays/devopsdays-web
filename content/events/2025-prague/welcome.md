@@ -36,7 +36,7 @@ Description = "DevOpsDays Prague 2025"
   </div>
 </div>
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
@@ -45,7 +45,7 @@ Description = "DevOpsDays Prague 2025"
       Propose a talk!
     </a>
   </div>
-</div>
+</div> -->
 
 <div class = "row">
   <div class = "col-md-2">
