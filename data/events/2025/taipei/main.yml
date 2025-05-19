@@ -81,11 +81,21 @@ sponsors:
     level: diamond
   - id: device42
     level: platinum
+  - id: ibm
+    level: platinum
+  - id: jfrog
+    level: platinum
+  - id: netron
+    level: platinum
   - id: profitap
     level: platinum
   - id: trendmicro
     level: platinum
+  - id: cathayholdings
+    level: gold
   - id: cm-security
+    level: gold
+  - id: nextfortune
     level: gold
   - id: sonatype
     level: gold
@@ -93,9 +103,11 @@ sponsors:
     level: gold
   - id: veracode
     level: gold
+  - id: igs
+    level: silver
   - id: maicoin
     level: silver
-  - id: netron
+  - id: taboola
     level: silver
   - id: tsmc
     level: silver

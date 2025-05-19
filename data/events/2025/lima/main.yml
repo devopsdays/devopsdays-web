@@ -2,7 +2,7 @@ name: "2025-lima" # The name of the event. Four digit year with the city name in
 year: "2025" # The year of the event. Make sure it is in quotes.
 city: "Lima" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdays" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "Devopsdays llega a Lima, Perú!" # Edit this to suit your preferences
+description: "¡DevOpsDays llega por primera vez a Lima, Perú!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 sharing_image: "sharing.png"
 event_logo: "logo.square.png"
@@ -11,15 +11,15 @@ event_logo: "logo.square.png"
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2025-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: "2025-08-22T00:10:00+05:00" # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: "2025-08-22T00:18:00+05:00" # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: "2025-08-21T00:10:00+05:00" # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: "2025-08-21T00:18:00+05:00" # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start:  2025-03-28T08:00:00-03:00
+cfp_date_end:  2025-06-28T08:00:00-03:00
+cfp_date_announce: 2025-07-05T08:00:00-03:00
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://talks.devopsdays.org/devopsdays-lima-2025/cfp" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
@@ -33,14 +33,14 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 location: "Lima" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
+location_address: "Jr. Alonso de Molina 1652, Santiago de Surco 15023" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
- # - name: location
+  - name: propose
+  - name: location
  # - name: registration
  # - name: program
- # - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -90,6 +90,12 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/gino-leon-0217a23b/"
     bio: "Agile Chapter Lead"
     image: "gino-leon.jpg"
+  - name: "Jhonnatan Correa Maguiña"
+    bio: "Application Cybersecurity Specialist"
+    employer: "SOAINT"
+    linkedin: "https://www.linkedin.com/in/jhonnatancorrea/"
+    image: "jhonnatan-correa.jpeg"
+    github: "https://github.com/jhoncorrea"
 
 organizer_email: "lima@devopsdays.org" # Put your organizer email address here
 

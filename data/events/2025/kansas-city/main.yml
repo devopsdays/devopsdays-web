@@ -26,13 +26,13 @@ registration_date_start: 2025-01-07T08:00:00-06:00 # start accepting registratio
 registration_date_end: 2025-08-13T08:00:00-06:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "https://ti.to/kansas-city-developers-conference/kcdc-2025/with/devopsdays" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://ti.to/kansas-city-developers-conference/kcdc-2025/with/butv1w2odhe" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
 # coordinates: "" # No longer used
 
-location: "Kansas City Convention Center" # Defaults to city, but you can make it the venue name.
+location: "Kansas City Convention Center, Lobby 2100" # Defaults to city, but you can make it the venue name.
 #
 location_address: "Kansas City Convention Center, 301 W 13th St #100, Kansas City, MO 64105" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
 
@@ -40,8 +40,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #  - name: propose
   - name: location
   - name: registration
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -123,6 +123,10 @@ sponsors:
 #    level: community
   - id: teksystems
     level: karaoke
+  - id: redhat
+    level: silver
+  - id: progresschef
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -139,8 +143,8 @@ sponsor_levels:
     max: 10 # This is the same as omitting the max limit.
   - id: karaoke
     label: Karaoke
-  - id: bronze
-    label: Bronze
+  # - id: bronze
+  #   label: Bronze
   # - id: technology
   #   label: Technology
   #   max: 2
@@ -154,6 +158,6 @@ sponsor_levels:
     label: Coffee & Breaks
     max: 2
   - id: corporate
-    label: Corporate
+    label: Corporate (10+ tickets purchased)
   - id: community
     label: Community

@@ -134,12 +134,12 @@ the Baltimore Tech Community to join us, space permitting.
 - Optional: Provide us 1000+ 2" stickers and we will put them on snack packaging during the enent
 - $2000, limited to a single sponsor
 
-### T-Shirt Sponsor
+### <s>T-Shirt Sponsor</s> [UNAVAILABLE]
 
-- Your monochrome logo on the sleve of the shirts provided to every attendee
+- Your monochrome logo on the sleeve of the shirts provided to every attendee
 - $3500, limited to a single sponsor
 
-### Lanyard Sponsor
+### <s>Lanyard Sponsor</s> [UNAVAILABLE]
 
 - Your logo on all the lanyards provided to attendees
 - $2000, limited to a single sponsor

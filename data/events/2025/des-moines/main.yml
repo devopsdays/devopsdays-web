@@ -24,8 +24,7 @@ registration_date_start: 2025-03-05T00:00:00+02:00
 registration_date_end:  2025-10-01T00:00:00+02:00
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "https://www.eventbrite.com/e/agile-devopsdays-des-moines-2025-tickets-1267504242309" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
-
+registration_link: "" #if you have a custom link for registration, add it here. This will control the Registration menu item as well as the "Register" button.
 # Location
 #
 # coordinates: "" # No longer used
@@ -98,8 +97,8 @@ organizer_email: "des-moines@devopsdays.org" # Put your organizer email address 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-#  - id: samplesponsorname
-#    level: gold
+  - id: turnberry
+    level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 #  - id: arresteddevops
 #    level: community
@@ -111,13 +110,12 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: platinum
+    label: platinum
+    max: 1
   - id: gold
     label: Gold
-#    max: 10
+    max: 11
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
-  - id: bronze
-    label: Bronze
-  - id: community
-    label: Community
+

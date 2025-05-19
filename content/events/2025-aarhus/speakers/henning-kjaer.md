@@ -7,6 +7,6 @@ type = "speaker"
 linktitle = "henning-kjaer"
 
 +++
-SRE Manager at Electrolux
+Head of Platform Engineering @Genmab
 
-Many years of experience in software industry, mainly focused on infrastructure engineering of large-scale distributed systems.
+Seasoned professional within Agile Software Development, DevSecOps and Platform Engineering with focus on culture.

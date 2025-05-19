@@ -26,7 +26,7 @@ registration_date_start: # start accepting registration. Leave blank if registra
 registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://dodfsa2025.eventize.com.br/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -40,9 +40,11 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: propose
  # - name: location
  # - name: registration
- # - name: program
  # - name: speakers
+  - name: program
   - name: location
+  - name: ticket
+    url: https://dodfsa2025.eventize.com.br/
   - name: sponsor
   - name: contact
   - name: conduct
@@ -84,12 +86,15 @@ organizer_email: "feira-de-santana@devopsdays.org" # Put your organizer email ad
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
-# sponsors:
-#   - id: samplesponsorname
-#     level: gold
-#  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-#   - id: arresteddevops
-#     level: community
+sponsors:
+  - id: areopagus
+    level: gold
+  - id: unexedu
+    level: silver
+  - id: cloudx
+    level: bronze
+  - id: brasil-software
+    level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -108,3 +113,105 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2025-06-07T08:00:00-03:00
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Abertura"
+    type: custom
+    date: 2025-06-07T08:00:00-03:00
+    start_time: "09:00"
+    end_time: "09:30"
+  - title: ""
+    type: custom
+    date: 2025-06-07T08:00:00-03:00
+    start_time: "09:30"
+    end_time: "10:00"
+  - title: ""
+    type: custom
+    date: 2025-06-07T08:00:00-03:00
+    start_time: "10:00"
+    end_time: "10:20"
+  - title: ""
+    type: custom
+    date: 2025-06-07T08:00:00-03:00
+    start_time: "10:20"
+    end_time: "10:40"
+  - title: "Coffee Break"
+    type: custom
+    date: 2025-06-07T08:00:00-03:00
+    start_time: "10:40"
+    end_time: "11:00"
+  - title: ""
+    type: custom
+    date: 2025-06-07T08:00:00-03:00
+    start_time: "11:00"
+    end_time: "11:20"
+  - title: ""
+    type: custom
+    date: 2025-06-07T08:00:00-03:00
+    start_time: "11:20"
+    end_time: "11:40"
+  - title: "Almoço"
+    type: custom
+    date: 2025-06-07T08:00:00-03:00
+    start_time: "11:40"
+    end_time: "12:40"
+  - title: "Networking"
+    type: custom
+    date: 2025-06-07T08:00:00-03:00
+    start_time: "12:40"
+    end_time: "13:30"
+  - title: "Ignite Karaoke"
+    type: custom
+    date: 2025-06-07T08:00:00-03:00
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: ""
+    type: custom
+    date: 2025-06-07T08:00:00-03:00
+    start_time: "14:00"
+    end_time: "14:30"
+  - title: ""
+    type: custom
+    date: 2025-06-07T08:00:00-03:00
+    start_time: "14:30"
+    end_time: "14:50"
+  - title: ""
+    type: custom
+    date: 2025-06-07T08:00:00-03:00
+    start_time: "14:50"
+    end_time: "15:10"
+  - title: "Coffee Break"
+    type: custom
+    date: 2025-06-07T08:00:00-03:00
+    start_time: "15:10"
+    end_time: "15:30"
+  - title: "Open Spaces"
+    type: custom
+    date: 2025-06-07T08:00:00-03:00
+    start_time: "15:40"
+    end_time: "16:20"
+  - title: ""
+    type: custom
+    date: 2025-06-07T08:00:00-03:00
+    start_time: "16:20"
+    end_time: "16:40"
+  - title: ""
+    type: custom
+    date: 2025-06-07T08:00:00-03:00
+    start_time: "16:40"
+    end_time: "17:00"
+  - title: ""
+    type: custom
+    date: 2025-06-07T08:00:00-03:00
+    start_time: "17:00"
+    end_time: "17:30"
+  - title: "Closing"
+    type: custom
+    date: 2025-06-07T08:00:00-03:00
+    start_time: "17:30"
+    end_time: "18:00"

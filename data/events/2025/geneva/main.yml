@@ -120,9 +120,6 @@ sponsor_levels:
   - id: mic
     label: Mic
     max: 1
-  - id: dinner
-    label: Dinner
-    max: 1
   - id: community
     label: Community
 
@@ -153,8 +150,6 @@ sponsors:
     level: community
   - id: webmardi
     level: community
-  - id: wejob
-    level: community
   - id: software-crafts-romandie
     level: community
   - id: les-renverses
@@ -182,12 +177,25 @@ sponsors:
   - id: collaborationbetterstheworld
     level: mic
   - id: checkmarx
-    level: dinner
+    level: speakers
   - id: e-xpert-solutions
     level: bronze
   - id: centreon
     level: silver
-
+  - id: redhat
+    level: gold
+  - id: suse
+    level: silver
+  - id: swiss-digital-network
+    level: gold
+  - id: flowanalyticspro
+    level: silver
+  - id: orangecyberdefense
+    level: bronze
+  - id: mongodb
+    level: silver
+  - id: portworx
+    level: silver
 program:
 
   - title: "Registration & Morning Coffee"
@@ -355,7 +363,7 @@ program:
     start_time: "10:35"
     end_time: "11:20"
 
-  - title: "personalised-journalism-at-scale"
+  - title: "native-web-technologies"
     type: talk
     date: 2025-05-20
     start_time: "11:20"
