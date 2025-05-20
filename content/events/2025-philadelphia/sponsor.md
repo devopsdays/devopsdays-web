@@ -16,6 +16,7 @@ Platinum, Gold, and Silver sponsors get a full table where they can interact wit
 <p>
 The best thing to do is send engineers to interact with the experts at devopsdays on their own terms.
 <p>
+The deadline to purchase a sponsorship package is September 5th, 20025.
 
 <h2>Sponsorship Packages</h2>
 
@@ -86,7 +87,8 @@ The best thing to do is send engineers to interact with the experts at devopsday
     </tr>
   </tbody>
 </table>
-
+<p>
+<h4>Refunds: Full sponsor refunds are available until 7/31/2025. Sponsor refunds between 8/1/2025 and 8/31/2025 will be at 50%. No refunds after 8/31/2025.</h4>
 <h2>a la carte sponsorships available</h2>
 
 <table class="table table-bordered table-hover">
