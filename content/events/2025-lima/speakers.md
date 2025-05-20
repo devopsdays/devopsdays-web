@@ -55,6 +55,12 @@ Description = "Conoce a nuestros speakers del DevOpsDays Lima 2025"
             "avatar": "/img/lima-angel-nunez.png",
             "biography": "Angel es Principal Architect en McKinsey & Company, donde lidera la creación de negocios digitales y procesos de transformación a gran escala. Con una trayectoria destacada en América Latina, ha acompañado a organizaciones en banca, seguros, consumo masivo, logística, sector público y startups, rediseñando estructuras organizativas, arquitecturas resilientes y modelos operativos. Reconocido por su visión estratégica y su cercanía con líderes ejecutivos, Angel impulsa cambios que trascienden lo tecnológico para transformar la forma en que operan las empresas.",
             "submissions": ["https://www.linkedin.com/in/angelnunezsalazar/"]
+        },
+        {
+            "name": "Edu Melendez",
+            "avatar": "/img/lima-eddumelendez.jpg",
+            "biography": "Eddú Meléndez es Staff Software Engineer en Docker Inc., Java Champion y maintainer de Testcontainers. Conocido por su fuerte compromiso con el software libre, inició su camino en el open source contribuyendo a Spring Boot en 2015. Desde entonces, ha participado activamente en múltiples proyectos del ecosistema Java y más allá. Actualmente, lidera el desarrollo de Testcontainers, impulsando su evolución y promoviendo su adopción a nivel global. Su trabajo conecta la ingeniería de alto nivel con una comunidad vibrante y en constante crecimiento.",
+            "submissions": ["https://www.linkedin.com/in/eddumelendez/"]
         }
     ];  
 
