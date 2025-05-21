@@ -11,7 +11,7 @@ Description = "devopsdays Sao Paulo 2025"
 
 <div class="row">
   <div class="col-md-2">
-      <img alt="DevOpsDays sao-paulo 2025" src="/events/2025-sao-paulo/logo-square.jpg" style="width:100%">
+      {{< event_logo >}}
       <hr>
       <a href="https://twitter.com/sp_devopsdays" target="_blank">
           <i class="fab fa-twitter fa-lg"></i> Twitter DoD-SP
