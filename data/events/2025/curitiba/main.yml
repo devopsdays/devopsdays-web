@@ -16,7 +16,7 @@ enddate: 2025-08-30 # The end date of your event. Leave blank if you don't have 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  2025-06-02
 cfp_date_end: 2025-07-15 # close your call for proposals.
-cfp_date_announce:  2025-31-07 # inform proposers of status
+cfp_date_announce:  2025-07-31 # inform proposers of status
 
 cfp_link: "https://docs.google.com/forms/d/e/1FAIpQLSddRAG5k1SHRkjVjKRmC-zLdSzd0TMJhdVGFute9C7tYFU4jA/viewform" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
