@@ -62,7 +62,7 @@ team_members: # Name is the only required field for team members.
     employer: "SERPRO"
     linkedin: "https://www.linkedin.com/in/emerson-sachio-saito"
     image: "emerson.png"
-	github: "esaito"
+    github: "esaito"
   - name: "Fabiano Sardenberg Kuss"
     employer: "SERPRO"
     linkedin: "https://www.linkedin.com/in/fabiano-kuss-37742956/"
