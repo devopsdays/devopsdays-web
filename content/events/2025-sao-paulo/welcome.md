@@ -46,7 +46,7 @@ Description = "devopsdays Sao Paulo 2025"
         <strong>CFP</strong>
       </div>
       <div class="col-md-6">
-        <p><a href="https://talks.devopsdays.org/devopsdays-sao-paulo-2025/cfp">Subter proposta</a>, até 25/07 às 23h59</p>
+        <p>{{< event_link url-key="cfp_link" text="Subter proposta, até 25/07 às 23h59" >}}</p>
       </div>
     </div>
   </div>
