@@ -86,6 +86,8 @@ sponsors:
     level: silver
   - id: prusaresearch
     level: silver
+  - id: upcloud
+    level: silver
   - id: pure-storage
     level: lanyard
   - id: keboola
@@ -99,6 +101,10 @@ sponsors:
   - id: art4people
     level: community
   - id: czechitas
+    level: community
+  - id: quanti
+    level: community
+  - id: vortexcloud
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
