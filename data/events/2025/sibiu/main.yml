@@ -43,7 +43,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: registration
     url: "https://devopsdays-sibiu-2025.eventbrite.com"
   - name: program
- # - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -137,21 +137,22 @@ sponsor_levels:
 
 program:
 # DAY 1
-  - title: "Welcoming, Registration, Coffee"
+  - title: "Registration & Welcoming"
     type: custom
     date: 2025-05-22T00:00:00+03:00
-    start_time: "09:00"
+    start_time: "09:30"
     end_time: "10:00"
 
-  - title: "Opening Speech from the Organisers"
+  - title: "Opening Statements: Cătălin Mihacea (Sibiu IT Cluster), Sergiu Dilimoț (Visma Software România), Mihai Sătmărean (Skylite Tech)"
+    type: custom   
     date: 2025-05-22T00:00:00+03:00
     start_time: "10:00"
-    end_time: "10:15"
+    end_time: "10:20"
 
-  - title: "TBD"
-    type: talk
+  - title: "alejandro-betancor"
+    type: "talk"
     date: 2025-05-22T00:00:00+03:00
-    start_time: "10:15"
+    start_time: "10:20"
     end_time: "11:00"
 
   - title: "Coffee Break & Networking"
@@ -160,129 +161,95 @@ program:
     end_time: "11:15"
     background_color: "#B4C6E7"
 
-  - title: "TBD"
-    type: talk
+  - title: "marian-mocanu"
+    type: "talk"
     date: 2025-05-22T00:00:00+03:00
     start_time: "11:15"
     end_time: "12:00"
 
-  - title: "Lunch Break"
+  - title: "Lunch Break & Networking"
     date: 2025-05-22T00:00:00+03:00
     start_time: "12:00"
-    end_time: "13:00"
+    end_time: "13:15"
     background_color: "#B4C6E7"
 
-  - title: "TBD"
-    type: talk
+  - title: "sergiuvalentin-dilimo"
+    type: "talk"
     date: 2025-05-22T00:00:00+03:00
-    start_time: "13:00"
-    end_time: "13:45"
+    start_time: "13:15"
+    end_time: "14:00"
 
   - title: "Coffee Break & Networking"
     date: 2025-05-22T00:00:00+03:00
-    start_time: "13:45"
-    end_time: "14:00"
+    start_time: "14:00"
+    end_time: "14:15"
     background_color: "#B4C6E7"
 
-  - title: "Workshop Round 1"
+  - title: "Panel with guest speakers of the day + Q&A: Alejandro Betancor, Marian Mocanu, Sergiu Dilimoț, Mihai Sătmărean"
     type: custom
     date: 2025-05-22T00:00:00+03:00
     start_time: "14:15"
     end_time: "15:30"
     background_color: "#ffb566"
-
-  - title: "Coffee Break & Networking"
-    date: 2025-05-22T00:00:00+03:00
-    start_time: "15:30"
-    end_time: "15:45"
-    background_color: "#B4C6E7"
-
-  - title: "Workshop Round 2"
-    type: custom
-    date: 2025-05-22T00:00:00+03:00
-    start_time: "16:00"
-    end_time: "17:15"
-    background_color: "#ffb566"
-
-  - title: "Short Q&A and Closing of the Day"
-    date: 2025-05-22T00:00:00+03:00
-    start_time: "17:15"
-    end_time: "17:30"
-    background_color: "#c3ffd7"
 
 # DAY 2
-  - title: "Registration, Breakfast, Sponsors"
+  - title: "Registration & Welcoming"
     type: custom
     date: 2025-05-23T00:00:00+03:00
-    start_time: "09:00"
+    start_time: "09:30"
     end_time: "10:00"
 
-  - title: "Recap and introduction of the day"
-    type: custom
+  - title: "guillermo-gomez"
+    type: "talk"
     date: 2025-05-23T00:00:00+03:00
     start_time: "10:00"
-    end_time: "10:15"
-
-  - title: "Moderated Panel"
-    type: custom
-    date: 2025-05-23T00:00:00+03:00
-    start_time: "10:15"
-    end_time: "11:00"
-    background_color: "#F8E7F6"
+    end_time: "10:45"
 
   - title: "Coffee Break & Networking"
+    type: custom
+    date: 2025-05-23T00:00:00+03:00
+    start_time: "10:45"
+    end_time: "11:00"
+    background_color: "#B4C6E7"
+
+  - title: "ioana-alberttth"
+    type: "talk"
     date: 2025-05-23T00:00:00+03:00
     start_time: "11:00"
-    end_time: "11:15"
-    background_color: "#B4C6E7"
-
-  - title: "Talk Speaker to be confirmed"
-    type: talk
-    date: 2025-05-23T00:00:00+03:00
-    start_time: "11:15"
-    end_time: "12:00"
-
-  - title: "Lunch Break"
-    date: 2025-05-23T00:00:00+03:00
-    start_time: "12:00"
-    end_time: "13:00"
-    background_color: "#B4C6E7"
-
-  - title: "Moderated Panel"
-    type: custom
-    date: 2025-05-23T00:00:00+03:00
-    start_time: "13:00"
-    end_time: "13:45"
-    background_color: "#F8E7F6"
+    end_time: "11:45"
 
   - title: "Coffee Break & Networking"
     date: 2025-05-23T00:00:00+03:00
-    start_time: "13:45"
+    start_time: "11:45"
+    end_time: "12:00"
+    background_color: "#B4C6E7"
+
+  - title: "artur-pajk"
+    type: "talk"
+    date: 2025-05-23T00:00:00+03:00
+    start_time: "12:00"
+    end_time: "12:45"
+
+  - title: "Lunch Break & Networking"
+    date: 2025-05-23T00:00:00+03:00
+    start_time: "12:45"
     end_time: "14:00"
     background_color: "#B4C6E7"
 
-  - title: "Workshop Round 3"
-    type: custom
+  - title: "istvn-alberttth"
+    type: "talk"
     date: 2025-05-23T00:00:00+03:00
-    start_time: "14:15"
-    end_time: "15:30"
-    background_color: "#ffb566"
+    start_time: "14:00"
+    end_time: "14:45"
 
   - title: "Coffee Break & Networking"
     date: 2025-05-23T00:00:00+03:00
-    start_time: "15:30"
-    end_time: "15:45"
+    start_time: "14:45"
+    end_time: "15:00"
     background_color: "#B4C6E7"
 
-  - title: "Workshop Round 4"
-    type: custom
+  - title: "cristian-oancea"
+    type: "talk"
     date: 2025-05-23T00:00:00+03:00
-    start_time: "16:00"
-    end_time: "17:15"
-    background_color: "#ffb566"
-
-  - title: "Closing of the event"
-    type: custom
-    date: 2025-05-23T00:00:00+03:00
-    start_time: "17:15"
-    end_time: "17:30"
+    start_time: "15:00"
+    end_time: "16:15"
