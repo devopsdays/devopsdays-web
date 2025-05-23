@@ -10,8 +10,8 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2025-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: 2025-08-09T08:00:00-03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2025-08-09T08:00:00-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2025-10-20T08:00:00-03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2025-10-20T08:00:00-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  # start accepting talk proposals.
@@ -26,13 +26,13 @@ registration_date_end: # close registration. Leave blank if registration is not 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
-# Location
+Location: "SESC Garanhuns"
 #
 # coordinates: "" # No longer used
 
 location: "Garanhuns" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
+#location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
@@ -71,6 +71,20 @@ team_members: # Name is the only required field for team members.
     bio: ""
     linkedin: "https://www.linkedin.com/in/carlosdbezerra/"
     image: "carlos-diêgo-bezerra.jpg"
+
+  - name: "Gabriel Carvalho"
+    employer: "Sauter"
+    twitter: ""
+    bio: "Engenheiro DataOps, atualmente atuando em projetos de engenharia de dados e DevOps na Sauter, especializado para o Google Cloud Platform e projetos de ciências de dados e desenvolvimento FullStack, pelo IFPE e UFAL."
+    linkedin: "https://www.linkedin.com/in/iamgabs/"
+    image: "Gabriel.jpg"
+
+  - name: "Davi Ferreira Lima"
+    employer: "Sauter"
+    twitter: ""
+    bio: "Apaixonado por tecnologia e automação, sou SRE com certificações pela AWS e GCP, focado em criar infraestruturas escaláveis e resilientes. No dia a dia, otimizo pipelines CI/CD, gerencio Kubernetes e implemento monitoramento eficaz. Além do trabalho, também sou pesquisador e exploro novos conteúdos como Machine Learning, dados e visão computacional."
+    linkedin: "https://www.linkedin.com/in/daviferreiralima/"
+    image: "Davi.jpg"
 
 organizer_email: "garanhuns@devopsdays.org" # Put your organizer email address here
 
