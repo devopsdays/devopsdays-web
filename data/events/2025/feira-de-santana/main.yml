@@ -40,8 +40,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: propose
  # - name: location
  # - name: registration
- # - name: speakers
   - name: program
+  - name: speakers
   - name: location
   - name: ticket
     url: https://dodfsa2025.eventize.com.br/
@@ -130,13 +130,13 @@ program:
     date: 2025-06-07T08:00:00-03:00
     start_time: "09:30"
     end_time: "10:00"
-  - title: "Dinheiro não cai do céu: otimizando gastos com nuvem usando IaaS - João Rodrigues"
-    type: custom
+  - title: joo-rodrigues-dias-neto
+    type: talk
     date: 2025-06-07T08:00:00-03:00
     start_time: "10:00"
     end_time: "10:20"
-  - title: "Arquitetura Serverless com IaC para Soluções de IA - Cleiton Pessoa"
-    type: custom
+  - title: cleiton-pessoa
+    type: talk
     date: 2025-06-07T08:00:00-03:00
     start_time: "10:20"
     end_time: "10:40"
@@ -195,8 +195,8 @@ program:
     date: 2025-06-07T08:00:00-03:00
     start_time: "15:40"
     end_time: "16:20"
-  - title: "Três Sinais e um Destino para o sucesso da Observabilidade: Logs, Métricas e Traces com OpenTelemetry - Daniel Nascimento"
-    type: custom
+  - title: daniel-nascimento
+    type: talk
     date: 2025-06-07T08:00:00-03:00
     start_time: "16:20"
     end_time: "16:40"
