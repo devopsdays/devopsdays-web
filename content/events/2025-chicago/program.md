@@ -2,7 +2,7 @@
 Title = "Program"
 Type = "program"
 Description = "Program for devopsdays Chicago 2025"
-Icons = "false"
+Icons = "true"
 +++
 <div class = "row">
   <div class = "col">

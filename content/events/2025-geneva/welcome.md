@@ -48,6 +48,25 @@ Description = "DevopsDays Geneva 2025"
   }
 </style>
 
+<script type="text/javascript">
+    _linkedin_partner_id = "4272369";
+    window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+    window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+</script>
+<script type="text/javascript">
+    (function(l) {
+    if (!l){window.lintrk = function(a,b){window.lintrk.q.push([a,b])};
+    window.lintrk.q=[]}
+    var s = document.getElementsByTagName("script")[0];
+    var b = document.createElement("script");
+    b.type = "text/javascript";b.async = true;
+    b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+    s.parentNode.insertBefore(b, s);})(window.lintrk);
+</script>
+<noscript>
+    <img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=4272369&fmt=gif" />
+</noscript>
+
 
 <div class="row">
     <div class="col-12" style="text-align:center;">
@@ -64,12 +83,6 @@ Description = "DevopsDays Geneva 2025"
 <div class="row">
     <div class="col-md-12">
       <div class="row justify-content-center">
-        <div class="d-flex p-2">
-          <a class="btn btn-primary btn-block"
-            style="margin-top: 15px; margin-bottom: 15px; background-color: #8e44b3; border-color: #8e44b3;"
-            href="/events/2025-geneva/propose">
-            <i class="fa fa-person-chalkboard fa-lg"></i>&nbsp;&nbsp;&nbsp;Propose a talk!</a>
-        </div>
         <div class="d-flex p-2">
           <a class="btn btn-primary btn-block"
             style="margin-top: 15px; margin-bottom: 15px; background-color: #8e44b3; border-color: #8e44b3;"
@@ -122,32 +135,24 @@ Description = "DevopsDays Geneva 2025"
   </div>
 </div>
 
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Propose</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
-  </div>
-</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
     View the {{< event_link page="program" text="program." >}}
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
-</div> -->
+</div>
 <div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>

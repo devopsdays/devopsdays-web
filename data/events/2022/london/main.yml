@@ -110,12 +110,12 @@ sponsors:
     level: silver
   - id: civo
     level: silver
-  - id: cloudbees
+  - id: cloudbees-before-20250128
     level: silver
-  - id: cortex
+  - id: cortex-before-20250211
     level: silver
-  - id: doit-before-2023-07-07
-    level: silver
+  # - id: doit-before-2023-07-07
+  #   level: silver
   - id: firehydrant
     level: silver
   - id: googlecloud-before-20230502

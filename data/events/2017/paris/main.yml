@@ -126,7 +126,7 @@ sponsors:
     level: silver
   - id: cedexis
     level: bronze
-  - id: centreon
+  - id: centreon-before-20250311
     level: bronze
   - id: globalis
     level: bronze

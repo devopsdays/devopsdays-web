@@ -20,8 +20,8 @@ cfp_date_announce:  # inform proposers of status
 
 cfp_link: "https://talks.devopsdays.org/devopsdays-eindhoven-2025/cfp" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start: 2025-02-01T00:00:00+02:00
+registration_date_end: 2025-09-30T09:00:00+02:00
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -40,7 +40,7 @@ sharing_image: "logo-rectangle.png"
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
   - name: location
- # - name: registration
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
@@ -108,6 +108,12 @@ organizer_email: "eindhoven@devopsdays.org" # Put your organizer email address h
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  # Silver
+  - id: exoscale
+    level: silver
+  # Bronze
+  - id: asml
+    level: bronze
 #   - id: samplesponsorname
 #     level: gold
 #  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.

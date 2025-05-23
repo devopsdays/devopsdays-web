@@ -12,7 +12,7 @@ ga_tracking_id: "UA-335242-8"
 # Note: we allow 2025-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
 startdate: 2025-05-01T07:00:00-05:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2025-05-02T06:00:00-05:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2025-05-02T18:00:00-05:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2024-10-20T00:00:00-05:00 # start accepting talk proposals.
@@ -22,7 +22,7 @@ cfp_date_announce: 2025-03-15T00:00:00-05:00 # inform proposers of status
 cfp_link: "https://talks.devopsdays.org/devopsdays-austin-2025/cfp" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2024-10-22T00:00:00-05:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: 2025-04-30T11:59:59-05:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_end: 2025-04-30T23:59:59-05:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://tickets.devopsdays.org/devopsdays-austin/2025/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -36,12 +36,12 @@ location: "TCEA Conference Center" # Defaults to city, but you can make it the v
 location_address: "3100 Alvin Devane Blvd Building B, Austin, TX 78741" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+#  - name: propose
   - name: location
   - name: register
     url: https://tickets.devopsdays.org/devopsdays-austin/2025/
- # - name: program
- # - name: speakers
+  - name: schedule
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -102,12 +102,6 @@ team_members: # Name is the only required field for team members.
     image: "christa.jpg"
     linkedin: "https://www.linkedin.com/in/christameck/"
     github: "racerchik"
-  - name: "Shaun Mouton"
-    twitter: "sdmouton"
-    github: "moutons"
-    facebook: "http://tirefi.re/facebook/"
-    linkedin: "https://www.linkedin.com/in/sdmouton/"
-    image: "shaun.jpg"
   - name: "Laura Santamaria"
     bluesky: "https://bsky.app/profile/nimbinatus.bsky.social"
     github: "nimbinatus"
@@ -126,12 +120,47 @@ team_members: # Name is the only required field for team members.
     twitter: "danzentgraf"
     linkedin: "https://www.linkedin.com/in/zentgraf/"
     image: "dan.jpg"
+    role: "Advisory"
 
 organizer_email: "austin@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: instructlab
+    level: gold
+  - id: cloudzero
+    level: gold
+  - id: semaphoreci
+    level: gold
+  - id: honeycomb
+    level: gold
+  - id: peoplecert
+    level: gold
+  - id: pelanor
+    level: gold
+  - id: chainguard
+    level: gold
+  - id: checkmarx
+    level: track
+  - id: aikido
+    level: track
+  - id: codiac
+    level: track
+  - id: texasmutual
+    level: coffee
+  - id: crash-override
+    level: food
+  - id: newiron
+    level: careerroom
+  - id: dryrun-security
+    level: startup
+  - id: autoptic
+    level: startup
+  - id: renaiss
+    level: startup
+  - id: wicys-austin
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -146,9 +175,6 @@ sponsor_levels:
   - id: track
     label: Track
     max: 3
-  - id: lanyard
-    label: Lanyard
-    max: 1
   - id: coffee
     label: Coffee Bar
     max: 1
@@ -160,13 +186,13 @@ sponsor_levels:
     max: 1
   - id: food
     label: Food
-    max: 6
-  - id: swag
-    label: Swag Bag (Add-On)
-    max: 20
+    max: 4
+  - id: careerroom
+    label: Career Room
+    max: 1
   - id: community
     label: Local Community Groups
     max: 2
-#  - id: startup
-#    label: Startup Alley - Local only
-#    max: 3
+  - id: startup
+    label: Startup Alley - Local only
+    max: 3

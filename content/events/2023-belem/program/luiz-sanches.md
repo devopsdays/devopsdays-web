@@ -13,3 +13,5 @@ O governo federal através da Secretaria Nacional de Participação Social (SNPS
 Com a experiência na implantação do Tá Selado para a prefeitura de Belém e da Plantaformas para um projeto financiado pela organização internacional Hivos, nós da Nômade Tecnologias, fomos chamados para colocar no ar, em apenas dois meses, a maior instância de Decidim já implementada no mundo até o momento. Em conjunto com Dataprev, Serpro, Ministério da Gestão e Inovação (MGI), Universidade de Brasília (UnB) e outros entes, conseguimos montar um time de primeira linha para entregar a plataforma batizada de Brasil Participativo.
 
 Pretendo narrar o caso envolvendo times remotos, metodologias, software livres, integrações entre sistemas e infraestruturas autônomas do governo federal. Não esquecendo das restrições, dificuldades e superações na quebra de silos, burocracias e protocolos, no bom estilo devops de ser.
+
+[Link para a apresentação](https://pt.slideshare.net/luizsanches/pra-no-dizer-que-no-falei-de-devops)

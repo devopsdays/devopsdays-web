@@ -19,7 +19,7 @@ program:
     date: 2025-03-18
     start_time: "09:45"
     end_time: "09:55"
-  - title: "mic-mccully"
+  - title: "paul-czarkowski"
     type: talk
     date: 2025-03-18
     start_time: "09:55"
@@ -77,8 +77,8 @@ program:
   - title: "Break"
     type: custom
     date: 2025-03-18
-    start_time: "15:00"
-    end_time: "15:15"
+    start_time: "14:30"
+    end_time: "14:45"
   - title: "Open Space #2"
     type: open-space
     date: 2025-03-18
@@ -118,9 +118,11 @@ program:
 ignites:
   - title: "robert-snyder"
     date: 2025-03-18
-  # - title: "kedasha-kerr"
-  #   date: 2025-03-18
-  - title: "ignite-karaoke"
+  - title: "henrietta-dombrovskaya"
     date: 2025-03-18
-
-
+  - title: "robert-hafner"
+    date: 2025-03-18
+  - title: "heather-thacker"
+    date: 2025-03-18
+  - title: "keith-willoughby"
+    date: 2025-03-18
