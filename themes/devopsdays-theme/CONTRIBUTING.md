@@ -28,14 +28,6 @@ The technical details on how to set up your local development environment for ma
 
 ## Dev Setup
 
-One of the more important things to know is that if you are going to make changes to CSS or JavaScript, you will need to be able to run the scripts that compile the SCSS files to CSS, and also concatenate and minifiy the JavaScript we use. In order to do this, you need the following installed on your local machine:
-
-- [node](https://nodejs.org/en/)
-- [npm](https://www.npmjs.com/get-npm)
-- [gulp](https://gulpjs.com/)
-
-Once you have these install, navigate to the root of `devopsdays-web` in a terminal, and run `npm install` to get all the pieces installed into `devopsdays-web`. The `node_modules` directory is not committed to source control, so you will have to run `npm install` any time you are setting up a new copy of the repo on a workstation.
-
 ## Design Principles
 
 ### Frameworks
@@ -46,7 +38,7 @@ We use [Boostrap v4.3](https://getbootstrap.com/docs/4.3/getting-started/introdu
 All page templates should make use of the `layouts/_default/baseof.html` file. This file contains all wrappers for the content. Anything within the `{{- block "main" . }} {{- end -}}` section is what will be displayed on a sub-template. Include a `{{ define "main" }}` block in your template to include what should be rendered.
 
 ### CSS and SCSS
-All CSS must be generated with SCSS. The SCSS files are located in `static/scss`.
+All CSS is generated with SCSS. The SCSS files are located in `assets/scss`.
 
 #### `site.scss`
 This is the file that imports all the other SCSS files, including Bootstrap, font-awesome, jssocials, and the jquery oembed. It also imports our custom variables and any other customizations.
@@ -61,27 +53,28 @@ This is the only place you should declare custom SCSS or CSS code.
 The design and layout can be found in [here](https://drive.google.com/file/d/0BzljU_vIF4BoOHhLV2Yzd2xicEk/view?usp=sharing). Please refer to the [Style Guide](https://github.com/devopsdays/devopsdays-theme/blob/master/STYLE.md) for all colors, fonts, and sizes of text elements, etc.
 
 ## Asset Pipeline
-If you make changes to SCSS files, or the `themes/devopsdays-theme/static/js/devopsdays.js` file, you will need to run a `gulp` task to compile the SCSS to CSS and to concatenate and minify the Javascript files.
+The site uses Hugo Pipes to handle asset processing. This means that:
 
-To run this, navigate to the root of `devopsdays-web` in your terminal, and run `gulp dev`. If you get errors, you likely don't have `node`, `npm`, and/or `gulp` installed. You also may not have run `npm install`.
+1. SCSS files are automatically compiled to CSS when the site is built
+2. JavaScript files are automatically concatenated, minified, and fingerprinted
+3. Source maps are generated for both CSS and JavaScript
 
-The output of `gulp dev` should look something like this:
+If there are changes to the bootstrap library, you will need to run the following command to update the dependencies:
 
-```
-[12:31:47] Using gulpfile ~/src/github.com/devopsdays/devopsdays-web/gulpfile.js
-[12:31:47] Starting 'dev'...
-[12:31:47] Starting 'js-concat'...
-[12:31:50] Finished 'js-concat' after 3.51 s
-[12:31:50] Starting 'sass'...
-[12:31:51] Finished 'sass' after 652 ms
-[12:31:51] Finished 'dev' after 4.16 s
+```bash
+npm install
+make deps  # Copies dependencies from node_modules to assets directory
+make server  # Starts the Hugo development server
 ```
 
-After running, you should see updates to the following files in `themes/devopsdays-theme/static`:
-- `css/site.css`
-- `css/site.css.map`
-- `js/devopsdays-min.js`
-- `js/devopsdays-min.js.map`
+The `make deps` command will:
+- Copy required SCSS files from node_modules to `assets/scss/`
+- Copy required JavaScript files from node_modules to `assets/js/`
+
+The `make server` command will:
+- Process all SCSS files into CSS
+- Process all JavaScript files
+- Start a development server at http://localhost:1313
 
 ## Workflow
 

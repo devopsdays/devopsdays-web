@@ -1,0 +1,13 @@
+{
+  "version": 3,
+  "file": "devopsdays-min.js",
+  "sources": [
+    "vendor/jquery.js",
+    "vendor/bootstrap.js",
+    "components/jssocials.js",
+    "components/jquery.oembed.js",
+    "devopsdays.js"
+  ],
+  "mappings": "AAAA"
+}
+EOL 
