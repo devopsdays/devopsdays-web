@@ -145,8 +145,8 @@ program:
     date: 2025-06-07T08:00:00-03:00
     start_time: "10:40"
     end_time: "11:00"
-  - title: ""
-    type: custom
+  - title: eric-do-rosrio
+    type: talk
     date: 2025-06-07T08:00:00-03:00
     start_time: "11:00"
     end_time: "11:20"
@@ -170,8 +170,8 @@ program:
     date: 2025-06-07T08:00:00-03:00
     start_time: "13:30"
     end_time: "14:00"
-  - title: ""
-    type: custom
+  - title: luriel-nascimento
+    type: talk
     date: 2025-06-07T08:00:00-03:00
     start_time: "14:00"
     end_time: "14:30"
