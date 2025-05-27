@@ -281,7 +281,7 @@ program:
     type: custom
     date: 2025-06-07
     start_time: "15:40"
-    end_time: "16:00"
+    end_time: "16:30"
     background_color: "#FDF2E9"
 
   - title: "Keynote de Encerramento com Letícia Dornelas"
@@ -290,7 +290,7 @@ program:
     start_time: "16:30"
     end_time: "17:15"
     background_color: "#FDF2E9"
-  
+
   - title: "Encerramento e Sorteios 🎉"
     type: custom
     date: 2025-06-07
