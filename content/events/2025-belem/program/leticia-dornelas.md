@@ -2,7 +2,7 @@
 Talk_date = "2025-06-07"
 Talk_start_time = "16:30"
 Talk_end_time = "17:15"
-Title = "Como Integrar IA Generativa ao Ciclo DevOps com AWS"
+Title = "Keynote de encerramento: Como Integrar IA Generativa ao Ciclo DevOps com AWS"
 Type = "talk"
 Speakers = ["leticia-dornelas"]
 +++
