@@ -130,5 +130,6 @@ sponsors:
     level: community
   - id: kubecareers
     level: community
-
+  - id: nordsecurity
+    level: bronze
 # program:

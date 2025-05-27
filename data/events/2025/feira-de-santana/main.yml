@@ -40,8 +40,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: propose
  # - name: location
  # - name: registration
- # - name: speakers
   - name: program
+  - name: speakers
   - name: location
   - name: ticket
     url: https://dodfsa2025.eventize.com.br/
@@ -93,6 +93,8 @@ sponsors:
     level: silver
   - id: cloudx
     level: bronze
+  - id: brasil-software
+    level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -128,13 +130,13 @@ program:
     date: 2025-06-07T08:00:00-03:00
     start_time: "09:30"
     end_time: "10:00"
-  - title: ""
-    type: custom
+  - title: joo-rodrigues-dias-neto
+    type: talk
     date: 2025-06-07T08:00:00-03:00
     start_time: "10:00"
     end_time: "10:20"
-  - title: ""
-    type: custom
+  - title: cleiton-pessoa
+    type: talk
     date: 2025-06-07T08:00:00-03:00
     start_time: "10:20"
     end_time: "10:40"
@@ -143,8 +145,8 @@ program:
     date: 2025-06-07T08:00:00-03:00
     start_time: "10:40"
     end_time: "11:00"
-  - title: ""
-    type: custom
+  - title: eric-do-rosrio
+    type: talk
     date: 2025-06-07T08:00:00-03:00
     start_time: "11:00"
     end_time: "11:20"
@@ -168,8 +170,8 @@ program:
     date: 2025-06-07T08:00:00-03:00
     start_time: "13:30"
     end_time: "14:00"
-  - title: ""
-    type: custom
+  - title: luriel-nascimento
+    type: talk
     date: 2025-06-07T08:00:00-03:00
     start_time: "14:00"
     end_time: "14:30"
@@ -193,8 +195,8 @@ program:
     date: 2025-06-07T08:00:00-03:00
     start_time: "15:40"
     end_time: "16:20"
-  - title: ""
-    type: custom
+  - title: daniel-nascimento
+    type: talk
     date: 2025-06-07T08:00:00-03:00
     start_time: "16:20"
     end_time: "16:40"

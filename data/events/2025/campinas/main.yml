@@ -69,9 +69,8 @@ team_members: # Name is the only required field for team members.
     image: "manasouza.jpeg"
     linkedin: "https://www.linkedin.com/in/manass%C3%A9s-loiola-de-souza-0b213624/"
   - name: "Marcelo Pires"
-    employer: "Encora"
-    role: "Software Development Specialist"
-    bio:  "Desenvolvedor de software na Encora, atua no mercado de aplicações nativas em nuvem, onde atende grandes clientes internacionais. Entusiasta dos temas relacionados com Policy as Code, Kubernetes, etc."
+    role: "Software Engineer"
+    bio:  "Desenvolvedor de software, atua no mercado de aplicações nativas em nuvem, atendendendo grandes clientes internacionais. Entusiasta dos temas relacionados com Policy as Code, Kubernetes, etc."
     image: "marcpires.jpg"
     github: "https://github.com/marcpires/"
     linkedin: "https://www.linkedin.com/in/marcpires/"
@@ -95,6 +94,8 @@ organizer_email: "campinas@devopsdays.org"
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: toolbox
+    level: bronze
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
