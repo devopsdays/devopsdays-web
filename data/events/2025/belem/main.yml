@@ -284,8 +284,8 @@ program:
     end_time: "16:30"
     background_color: "#FDF2E9"
 
-  - title: "Keynote de Encerramento com Letícia Dornelas"
-    type: custom
+  - title: "leticia-dornelas"
+    type: talk
     date: 2025-06-07
     start_time: "16:30"
     end_time: "17:15"
