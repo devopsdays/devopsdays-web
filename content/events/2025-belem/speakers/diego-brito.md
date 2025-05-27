@@ -1,7 +1,7 @@
 +++
 Title = "Diego Brito"
 #Twitter = ""
-linkedin = "https://www.linkedin.com/in/diegonobri/
+linkedin = "https://www.linkedin.com/in/diegonobri/"
 image = "diego-brito.png"
 type = "speaker"
 linktitle = "diego-brito"
