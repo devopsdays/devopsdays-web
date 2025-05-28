@@ -35,8 +35,8 @@ Description = "Meet our speakers for DevOpsDays Amsterdam 2025"
                 let pic = document.createElement('img');
                 pic.className = 'speakers-page';
                 pic.src =
-                    (typeof speaker.avatar === 'string' && speaker.avatar.trim().length > 0)
-                        ? speaker.avatar
+                    (typeof speaker.avatar_url === 'string' && speaker.avatar_url.trim().length > 0)
+                        ? speaker.avatar_url
                         : '/img/speaker-default.jpg';
 
                 let bio = document.createElement('details');
