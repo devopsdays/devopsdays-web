@@ -9,7 +9,7 @@ Description = "Meet our speakers for DevOpsDays Amsterdam 2025"
 <div class="pretalx-widget">
         <div class="pretalx-widget-info-message">
             JavaScript is disabled in your browser. To access our speaker list without JavaScript,
-            please <a target="_blank" href="https://talks.devopsdays.org/devopsdays-amsterdam-2025/speakers/">click here</a>.
+            please <a target="_blank" href="https://talks.devopsdays.org/devopsdays-amsterdam-2025/speaker/">click here</a>.
         </div>
     </div>
 </noscript>
@@ -17,7 +17,7 @@ Description = "Meet our speakers for DevOpsDays Amsterdam 2025"
 <script>
     const ul = document.getElementById('speakers');
     const list = document.createDocumentFragment();
-    const url = 'https://talks.devopsdays.org/api/events/devopsdays-amsterdam-2025/speakers/?limit=50';
+    const url = 'https://talks.devopsdays.org/api/events/devopsdays-amsterdam-2025/speakers/?page=1&page_size=50';
 
     fetch(url)
         .then((response) => response.json())
@@ -43,7 +43,9 @@ Description = "Meet our speakers for DevOpsDays Amsterdam 2025"
                 bio.className = 'p-1';
                 bio.innerHTML =
                     `<summary><b>About ${speaker.name}</b></summary><p>${
-                        speaker.biography ? speaker.biography : 'Ipsum'
+                        speaker.biography
+                            ? speaker.biography
+                            : `No biography found for ${speaker.name}. If you are ${speaker.name}, please email the organizers with a biography to be used here.`
                     }</p>`;
 
                 li.appendChild(name);
