@@ -38,10 +38,15 @@ Description = "Meet our speakers for DevOpsDays Amsterdam 2025"
                 let talk = document.createElement('a');
 
                 name.innerHTML = `${speaker.name}`;
-                pic.src = speaker.avatar.length != 0 ? `${speaker.avatar}`: '/img/speaker-default.jpg';
+
+                // Robust check for avatar property
+                pic.src = typeof speaker.avatar === "string" && speaker.avatar.trim().length > 0
+                    ? speaker.avatar
+                    : '/img/speaker-default.jpg';
+
                 pic.className = `speakers-page`;
                 bio.innerHTML = `<summary><b>About ${speaker.name}</b></summary><p>${speaker.biography ? `${speaker.biography}`: `Ipsum`}</p>`;
-                talk.setAttribute('href', speaker.submissions[0] ? `https://talks.devopsdays.org/devopsdays-amsterdam-2025/talk/${speaker.submissions[0]}` : ``);
+                talk.setAttribute('href', speaker.submissions && speaker.submissions[0] ? `https://talks.devopsdays.org/devopsdays-amsterdam-2025/talk/${speaker.submissions[0]}` : ``);
                 talk.setAttribute('target', '_blank');
                 talk.className = `btn btn-primary`;
                 talk.innerHTML = `Link to talk`;
