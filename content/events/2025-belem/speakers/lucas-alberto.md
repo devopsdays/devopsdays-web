@@ -2,9 +2,9 @@
 Title = "Lucas Alberto"
 #Twitter = ""
 linkedin = "https://www.linkedin.com/in/lucasrattz/"
-image = "allyson-brito.png"
+image = "lucas-alberto.png"
 type = "speaker"
-linktitle = "allyson-brito"
+linktitle = "lucas-alberto"
 
 +++
 
