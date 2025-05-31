@@ -2,9 +2,9 @@
 Title = "Marcelo Sá"
 #Twitter = ""
 linkedin = "https://www.linkedin.com/in/marcelosa/"
-image = "macrelo-sa.png"
+image = "marcelo-sa.png"
 type = "speaker"
-linktitle = "macrelo-sa"
+linktitle = "marcelo-sa"
 
 +++
 CEO da Jambu Tecnologia
