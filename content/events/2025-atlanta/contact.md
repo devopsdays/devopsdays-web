@@ -10,5 +10,7 @@ If you'd like to contact us by email: {{< email_organizers >}}
 
 {{< list_organizers >}}
 
+<i>Emeritus Local Organizers</i><br>
+John Dyer
 
 {{< list_core >}}
