@@ -38,7 +38,7 @@ location_address: "Jr. Alonso de Molina 1652, Santiago de Surco 15023" #Optional
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
   - name: location
-  - name: webperu
+  - name: weblima
     url: https://devopsdays.pe/
   - name: registration
     url: https://devopsdays.pe/entradas
