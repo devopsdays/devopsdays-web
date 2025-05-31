@@ -260,3 +260,4 @@
 /joao-pessoa/*            /events/2024-joao-pessoa/:splat           302
 /kerala/*            /events/2024-kerala/:splat           302
 /sibiu/*            /events/2025-sibiu/:splat           302
+/wollongong/*            /events/2025-wollongong/:splat           302
