@@ -5,8 +5,8 @@
 
 {{- if eq $url "" -}}
 
-<link rel="stylesheet" type="text/css" href="https://tickets.devopsdays.org/devopsdays-{{ $city }}/{{ $year }}/widget/v1.css">
-<script type="text/javascript" src="https://tickets.devopsdays.org/widget/v1.en.js" async></script>
+<link rel="stylesheet" type="text/css" href="https://tickets.devopsdays.org/devopsdays-{{ $city }}/{{ $year }}/widget/v2.css">
+<script type="text/javascript" src="https://tickets.devopsdays.org/widget/v2.en.js" async></script>
 
 <pretix-widget event="https://tickets.devopsdays.org/devopsdays-{{ $city }}/{{ $year }}/" {{- if eq $info "show" -}} display-event-info{{- end -}}></pretix-widget>
 <noscript>
@@ -19,8 +19,8 @@
 
 {{- else -}}
 
-<link rel="stylesheet" type="text/css" href="{{ $url }}/widget/v1.css">
-<script type="text/javascript" src="https://tickets.devopsdays.org/widget/v1.en.js" async></script>
+<link rel="stylesheet" type="text/css" href="{{ $url }}/widget/v2.css">
+<script type="text/javascript" src="https://tickets.devopsdays.org/widget/v2.en.js" async></script>
 
 <pretix-widget event="{{ $url }}" {{- if eq $info "show" -}} display-event-info{{- end -}}></pretix-widget>
 <noscript>
