@@ -109,7 +109,6 @@ team_members: # Name is the only required field for team members.
   - name: "Jessica Fosler"
     pronouns: "she/her"
     image: "jfo.png"
-    linkedin: "https://www.linkedin.com/in/jessica-fosler-98b2226/"
   - name: "Jordan Simonovski"
     pronouns: "he/him"
     image: "jordan.png"
