@@ -11,7 +11,7 @@ Description = "DevOpsDays Fortaleza 2025"
 
 <div class="row">
   <div class="col-md-2">
-      <img alt="DevOpsDays Fortaleza 2025" src="/events/2025-fortaleza/event.png" style="width:100%">
+      <img alt="DevOpsDays Fortaleza 2025" src="{{< event_logo >}}" style="width:100%">
       {{< event_twitter >}}
       <br>
       <a href="https://t.me/devopsce" target="_blank">
