@@ -1,7 +1,7 @@
 +++
 Title = "Letícia Dornelas"
 #Twitter = ""
-linkedin = "https://www.linkedin.com/in/britoallyson/"
+linkedin = "https://www.linkedin.com/in/leticiadornelas/"
 image = "leticia-dornelas.png"
 type = "speaker"
 linktitle = "leticia-dornelas"
