@@ -12,8 +12,9 @@ description = "Interested in sponsoring DevOpsDays Dallas 2019? We greatly value
 <br>
 We greatly value sponsors for this community event. If you are interested in sponsoring, please check out our prospectus below. If you need a hard copy with more details, click here to <a href="https://assets.devopsdays.org/events/2019/dallas/DevOpsDaysDallas2019Sponsorships.pdf" target="_blank"><strong>download PDF</strong></a> or <a href="mailto:organizers-dallas-2019@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Dallas%202019"><strong>send us an email</strong></a>.
 
-<hr>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZWWI6AknjXs?si=HdmSp6mfLbC-k0qk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<hr>
 DevOpsDays is a self-organizing conference for DevOps practitioners that depends on your sponsorships. We do not have a traditional trade show conference floor, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during, and after the event. Sponsors are encouraged to participate and engage with the attendees as peers.
 <br><br>
 Any attendee also has the opportunity to demonstrate products or projects as part of any of the Open Space sessions.  Platinum sponsors will also have access to a dedicated demo room to provide hands-on demos to individuals or small groups.  Be sure to send technical practitioners to interact with customers and peers at DevOpsDays on their own terms.
