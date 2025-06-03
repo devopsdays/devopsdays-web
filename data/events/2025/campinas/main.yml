@@ -88,12 +88,20 @@ team_members: # Name is the only required field for team members.
     github: "https://github.com/rennerocha"
     linkedin: "https://www.linkedin.com/in/rennerocha/"
     website: "https://rennerocha.com/"
+  - name: "Amaury Borges Souza"
+    role: "Cloud Security Engineer"
+    bio: "Engenheiro de Segurança em Nuvem com mais de 12 anos de experiência em TI, especializado em Segurança da Informação para Soluções em Nuvem e IA/ML. Atualmente, atuo como Especialista em Segurança em Nuvem na CI&T, dando suporte às Unidades de Negócios"
+    github: "https://github.com/amaurybsouza"
+    linkedin: "https://www.linkedin.com/in/amaurybsouza/"
+    website: "https://amaurybsouza.github.io/portfolio/"
 
 organizer_email: "campinas@devopsdays.org"
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: toolbox
+    level: bronze
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 

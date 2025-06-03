@@ -142,6 +142,10 @@ sponsors:
     level: silver
   - id: cinq
     level: silver
+  - id: edb
+    level: silver
+  - id: redgate
+    level: silver
   # Bronze
   - id: devleaps
     level: bronze
