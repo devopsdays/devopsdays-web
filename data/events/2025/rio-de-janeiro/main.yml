@@ -103,7 +103,11 @@ organizer_email: "rio-de-janeiro@devopsdays.org" # Put your organizer email addr
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-    #Community
+  #Silver Sponsors
+  - id: oracle
+    level: silver
+
+  #Community
   - id: punkdodevops
     level: community
 
