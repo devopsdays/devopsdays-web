@@ -40,7 +40,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: Inscreva-se
     url: https://www.sympla.com.br/evento/devopsdays-belem-2025/2818140
   - name: Programação
-    url: https://tasafo.github.io/belemdevopsdays/programacao
+    url: https://devopsdays.org/events/2025-belem/programa
   - name: Palestrantes
     url: https://tasafo.github.io/belemdevopsdays/palestrantes
   - name: Patrocínio
@@ -291,7 +291,7 @@ program:
     date: 2025-06-07
     start_time: "16:30"
     end_time: "17:15"
-    background_color: "#FDF2E9"
+    background_color: "#0984e3"
 
   - title: "Encerramento e Sorteios 🎉"
     type: custom

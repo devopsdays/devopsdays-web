@@ -128,7 +128,7 @@ sponsors:
     level: gold
   - id: akamai
     level: gold
-  - id: nationale-nederlanden-nl
+  - id: nn-group
     level: gold
   - id: komodor
     level: gold
@@ -141,6 +141,10 @@ sponsors:
   - id: ing
     level: silver
   - id: cinq
+    level: silver
+  - id: edb
+    level: silver
+  - id: redgate
     level: silver
   # Bronze
   - id: devleaps
