@@ -130,6 +130,8 @@ sponsors:
     level: gold
   - id: nationale-nederlanden-nl
     level: gold
+  - id: komodor
+    level: gold
   # Lanyard
   - id: schubergphilis
     level: lanyard
@@ -139,6 +141,10 @@ sponsors:
   - id: ing
     level: silver
   - id: cinq
+    level: silver
+  - id: edb
+    level: silver
+  - id: redgate
     level: silver
   # Bronze
   - id: devleaps
@@ -152,6 +158,8 @@ sponsors:
   - id: servicenow
     level: bronze
   - id: googlecloud
+    level: bronze
+  - id: asml
     level: bronze
 #   - id: samplesponsorname
 #     level: gold

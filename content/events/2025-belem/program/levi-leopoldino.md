@@ -1,5 +1,5 @@
 +++
-Talk_date = "2025-07-07"
+Talk_date = "2025-06-07"
 Talk_start_time = "10:35"
 Talk_end_time = "11:00"
 Title = "Desvendando a Carreira em DevOps: Tendências, Habilidades e Oportunidades 2025"
