@@ -67,6 +67,12 @@ Description = "Conoce a nuestros speakers del DevOpsDays Lima 2025"
             "avatar": "/img/lima-michael-ibarra.jpg",
             "biography": "Michael Ibarra es ingeniero peruano especializado en infraestructura y sistemas resilientes, con más de una década de experiencia en tecnología empresarial en Estados Unidos. Ha trabajado en entornos altamente exigentes para compañías como Raytheon, J.Crew y Caesars Entertainment, así como en startups de alto dinamismo, combinando escalabilidad técnica con claridad operativa. Su enfoque va más allá del uptime: alinea arquitectura con valor de negocio, diseñando soluciones autorecuperables, reproducibles y altamente disponibles. Actualmente se desempeña como consultor de TI, guiando a organizaciones en la construcción de sistemas modernos, estables y con propósito.",
             "submissions": ["https://www.linkedin.com/in/clvx/"]
+        },
+        {
+            "name": "Erika León-Ravinez",
+            "avatar": "/img/lima-erika.jpg",
+            "biography": "Erika León-Ravinez Centurión es Tribe Leader de DevSecOps y Resiliencia en el Banco de Crédito del Perú, con más de 20 años de trayectoria en tecnología y banca. MBA, Máster en Liderazgo por EADA (España) y certificada por el MIT en Transformación Digital y por la Universidad de Chicago en Inteligencia Artificial, Erika ha liderado procesos clave en desarrollo de software, seguridad, operaciones y outsourcing. En los últimos seis años, ha sido protagonista de la transformación digital del BCP mediante la adopción de DevOps, SRE e IA Generativa, alcanzando niveles sobresalientes de productividad, calidad y resiliencia. Su trabajo ha sido reconocido como caso de éxito en LATAM y EE.UU., con un impacto medido en 70 puntos de NPS.",
+            "submissions": ["https://www.linkedin.com/in/erika-le%C3%B3n-ravinez/"]
         }
     ];  
 
