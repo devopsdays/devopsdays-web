@@ -16,9 +16,10 @@ The Code of Conduct applies to all participants at a devopsdays Amsterdam event.
 
 ### Report contact details
 Our Code of Conduct team members are:
-<!-- - Floor Drees (organizer), she/her, NL/DE/EN, floordrees@gmail.com, floordrees on Telegram
-- Jos van Schouten (organizer), he/him, EN/NL, jos.vanschouten@gmail.com, josvanschouten on Telegram
-- Feu Mourek (external), they/them, EN/DE, devopsdays_coc@feu-mourek.de, devopsdays_coc_feu on Telegram -->
+- Floor Drees (organizer), she/her, NL/DE/EN, floordrees on Telegram
+- Jos van Schouten (organizer), he/him, EN/NL, josvanschouten
+- Celeste Horgan (external), she/her, EN, celestehorgan
+- Teresa Lopes (external), she/her, EN, teresamdl
 
 Our Code of Conduct team is available during all official events, including the speaker dinner and the social event(s), and stays sober throughout all events.
 
