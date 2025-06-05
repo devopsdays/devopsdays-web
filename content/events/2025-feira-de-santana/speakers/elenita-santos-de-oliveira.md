@@ -1,5 +1,5 @@
 +++
-Title = "Elenita Santos de Oliveira"
+Title = "Elenita Oliveira"
 Twitter = ""
 linkedin = "https://www.linkedin.com/in/elenita-o/"
 image = "elenita-santos-de-oliveira.png"
