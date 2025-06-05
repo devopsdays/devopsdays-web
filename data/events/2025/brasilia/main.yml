@@ -16,12 +16,12 @@ startdate: 2025-09-20T09:00:00-03:00
 enddate: 2025-09-20T19:00:00-03:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-# cfp_date_start: "2024-08-01T00:00:00-03:00" #2019-09-17T00:09:00-03:00 # start accepting talk proposals.
-# cfp_date_end: "2024-09-11T23:59:59-03:00" #2019-10-25T00:09:00-03:00 # close your call for proposals.
+cfp_date_start: "2025-06-29T00:00:00-03:00" #2019-09-17T00:09:00-03:00 # start accepting talk proposals.
+cfp_date_end: "2025-07-01T23:59:59-03:00" #2019-10-25T00:09:00-03:00 # close your call for proposals.
 # cfp_date_announce: "" #2019-10-20T00:09:00-03:00 # inform proposers of status
 
 # cfp_open: "true"
-# cfp_link: "https://linktr.ee/devopsdaysbsb" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://linktr.ee/devopsdaysbsb" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 # registration_date_start: 2024-07-11T00:00:00-03:00 #2022-10-01T00:09:00-03:00 # start accepting registration. Leave blank if registration is not open yet
 # registration_date_end: 2024-11-23T14:00:00-03:00 #2022-10-31T00:09:00-03:00 # close registration. Leave blank if registration is not open yet.
