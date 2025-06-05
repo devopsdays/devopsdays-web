@@ -7,7 +7,7 @@ Description = "Propose a talk for devopsdays Wollongong 2025"
 
 ---
 
-Submit your talk proposal [via PaperCall here](https://www.papercall.io/devopsdays-wollongong)
+Submit your talk proposal {{< event_link url-key="cfp_link" text="via PaperCall here!" >}}
 
 Here are the talk formats you can propose for DevOpsDays Wollongong:
 
