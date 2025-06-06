@@ -1,5 +1,5 @@
 +++
-Title = "Kaique de Jesus"
+Title = "Kaique Jesus"
 Twitter = ""
 linkedin = "https://www.linkedin.com/in/kaique-jesus-do-nascimento-6241a6ab/"
 image = "kaique-de-jesus.png"

@@ -5,31 +5,38 @@ Description = "Propose a talk for devopsdays Wollongong 2025"
 +++
   {{< cfp_dates >}}
 
-<hr>
+---
 
-There are three ways to propose a topic at devopsdays:
-<ol>
-  <li><strong><em>A 30-minute talk</em></strong> presented during the conference, usually in the mornings.</li>
-  <li><strong><em>An Ignite talk</em></strong> presented during the <a href="/pages/ignite-talks-format">Ignite sessions</a> (scheduling varies). These are 5 minutes slots with slides changing every 15 seconds (20 slides total).</li>
-  <li><strong><em>Open Space</em></strong>: If you'd like to lead a group discussion during the attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout sessions, it is not necessary to propose it ahead of time. Those topics are suggested in person at the conference. If you'd like to demo your product or service, you should <a href="../sponsor">sponsor the event</a> and demo it at your table.
-</ol>
+Submit your talk proposal {{< event_link url-key="cfp_link" text="via PaperCall here!" >}}
 
-<hr>
+Here are the talk formats you can propose for DevOpsDays Wollongong:
 
-Choosing talks is part art, part science; here are some factors we consider when trying to assemble the best possible program for our local audience:
+**Keynote Talk**: These are ~45 minute presentations that kick off each day of the conference. These talks are sourced via both invitation and CFP process. These are generally broadly applicable and delivered by experienced presenters, developer advocates, and industry leaders.
 
-- _broad appeal_: How will your talk play out in a room of people with a variety of backgrounds? Technical deep dives need more levels to provide value for the whole room, some of whom might not use your specific tool.
-- _new local presenters_: You are the only one who can tell your story. We are very interested in the challenges and successes being experienced in our local area. We are happy to provide guidance/coaching for new speakers upon request.
-- _under-represented voices_: We want to hear all voices, including those that may speak less frequently at similar events. Whether you're in a field not typically thought of as a technology field, you're in a large, traditional organization, or you're the only person at your organization with your background, we are interested in your unique experience.
-- _original content_: We will consider talks that have already been presented elsewhere, but we prefer talks that the local area isn't likely to have already seen.
-- _no third-party submissions_: This is a small community-driven event, and speakers need to be directly engaged with the organizers and attendees. If a PR firm or your marketing department is proposing the talk, you've already shown that as a speaker you're distant from the process.
-- _no vendor pitches_: As much as we value vendors and sponsors, we are not going to accept a talk that appears to be a pitch for your product.
+**30-Minute Talk**: These are standard conference sessions, typically scheduled in the mornings. Please reach out to us if you'd like help shaping this up.
 
-<hr>
+**Ignite Talk**: Got a quick, impactful idea? Ignite talks are 5-minute blasts with 20 slides that auto-advance every 15 seconds. You can learn more about [the Ignite format here](/ignite-talks-format/).
 
-<strong>How to submit a proposal:</strong> Send an email to [{{< email_organizers >}}] with the following information
-<ol>
-	<li>Type (presentation, panel discussion, ignite)</li>
-	<li>Proposal Title (can be changed later)</li>
-	<li>Description (several sentences explaining what attendees will learn)</li>
-</ol>
+**Open Space**: No need to submit a proposal beforehand for this one! If you'd like to lead a group discussion during the attendee-suggested [Open Space](/open-space-format/) breakout sessions, you can suggest your topic in person at the conference.
+
+Please note: if you're looking to demo your product or service, that's best done by [sponsoring the event](./sponsor/) and showcasing it at your sponsor table.
+
+---
+
+Choosing talks for DevOpsDays Wollongong is a blend of art and science. We're looking to build the best possible program for our local audience, and here's what we're keeping in mind:
+
+## What We're Looking For
+
+**Broad Appeal**: How will your talk resonate with a diverse crowd? Even deep dives should offer something valuable for everyone in the room, not just those using your specific tools.
+
+**New Local Presenters**: We want to hear your story! We're particularly keen to highlight the challenges and successes experienced right here in the Illawarra region. If you're new to speaking, don't sweat it – we're happy to offer guidance and coaching.
+
+**Under-represented Voices**: All voices are welcome. If you're in a less conventional tech field, part of a large traditional organisation, or simply have a unique background, we're eager to hear about your experiences.
+
+**Original Content**: While we'll consider talks presented elsewhere, we much prefer content that our local community hasn't likely seen before.
+
+**No Third-Party Submissions**: This is a community-driven event. Speakers need to be directly engaged with us and the attendees. If a PR firm or marketing department is pitching your talk, it tells us you're a bit removed from the process.
+
+**No Vendor Pitches**: We value our vendors and sponsors immensely, but we won't accept talks that are product sales pitches.
+
+---
