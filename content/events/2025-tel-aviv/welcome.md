@@ -25,7 +25,7 @@ Description = "devopsdays Tel Aviv 2025"
 <h1 style="text-align:center;">KEYNOTE SPEAKER</h1>
 <img src="https://tlvcommunity.dev/assets/images/speakers/solomon-hykes.png" style="text-align:center;" width="250px">
 
- <h2>We are thrilled to announced that Solomon Hykes, creator of Docker, CEO and Co-Founder of Dagger will be taking the stage at the upcoming DevOpsDays TLV as our KEYNOTE SPEAKER!</h2>
+ <h2>We are thrilled to announce that Solomon Hykes, creator of Docker, CEO and Co-Founder of Dagger will be taking the stage at the upcoming DevOpsDays TLV as our KEYNOTE SPEAKER!</h2>
 <p>We have been waiting for years to welcome Solomon to our stage, so let's show him some fine TLV hospitality!</p>
 
 <h4>Early Bird tickets are still on sale - so now's the time to register!</h4>
