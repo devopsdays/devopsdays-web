@@ -22,15 +22,19 @@ Description = "devopsdays Tel Aviv 2025"
  <div style="text-align:center;">
   <img src="https://do3z7e6uuakno.cloudfront.net/uploads/event/banner/1129457/5c86ea1949b3df164ecdb854756a1396.png" width="750px">
  </div>
+ <br/>
+ <hr/>
+
 <h1 style="text-align:center;">KEYNOTE SPEAKER</h1>
-<img src="https://tlvcommunity.dev/assets/images/speakers/solomon-hykes.png" style="text-align:center;" width="250px">
+ <div style="text-align:center;">
+<img src="https://tlvcommunity.dev/assets/images/speakers/solomon-hykes.png" style="text-align:center;" width="250px"></div>
 
- <h2>We are thrilled to announce that Solomon Hykes, creator of Docker, CEO and Co-Founder of Dagger will be taking the stage at the upcoming DevOpsDays TLV as our KEYNOTE SPEAKER!</h2>
-<p>We have been waiting for years to welcome Solomon to our stage, so let's show him some fine TLV hospitality!</p>
+ <h2 style="text-align:center;">
+>We are thrilled to announce that Solomon Hykes, creator of Docker, CEO and Co-Founder of Dagger will be taking the stage at the upcoming DevOpsDays TLV as our KEYNOTE SPEAKER!</h2>
+<p style="text-align:center;">So let's show him some fine TLV hospitality!</p>
 
-<h4>Early Bird tickets are still on sale - so now's the time to register!</h4>
-
-<a href="https://rtfmp.lease/devopsdaystlv-2025-tix" target="_blank"> REGISTER NOW </a>
+<h4 style="text-align:center;">Early Bird tickets are still on sale - so now's the time to register!
+<a href="https://rtfmp.lease/devopsdaystlv-2025-tix" target="_blank" style="text-align:center;"> REGISTER NOW </a></h4>
 
 <br/>
 
