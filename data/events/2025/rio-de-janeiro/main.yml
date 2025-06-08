@@ -165,7 +165,7 @@ program:
     background_color: "#FFFA99"
 
   - title: "TBA"
-    type: talk
+    type: custom
     date: 2025-08-16
     start_time: "10:00"
     end_time: "10:30"
@@ -250,14 +250,14 @@ program:
     background_color: "#FFFA99"
 
   - title: "TBA Sponsor"
-    type: talk
+    type: custom
     date: 2025-08-16
     start_time: "14:15"
     end_time: "14:45"
     comments: "Trilha Iniciante - Sala: Deploy"
     background_color: "#fdf0d5"
   - title: "TBA"
-    type: talk
+    type: custom
     date: 2025-08-16
     start_time: "14:15"
     end_time: "14:45"
@@ -265,14 +265,14 @@ program:
     background_color: "#81b29a"
 
   - title: "TBA"
-    type: talk
+    type: custom
     date: 2025-08-16
     start_time: "14:45"
     end_time: "15:15"
     comments: "Trilha Iniciante - Sala: Deploy"
     background_color: "#fdf0d5"
   - title: "TBA"
-    type: talk
+    type: custom
     date: 2025-08-16
     start_time: "14:45"
     end_time: "15:15"
@@ -287,7 +287,7 @@ program:
     comments: "Trilha Iniciante - Sala: Deploy"
     background_color: "#fdf0d5"
   - title: "TBA"
-    type: talk
+    type: custom
     date: 2025-08-16
     start_time: "15:15"
     end_time: "15:45"
@@ -332,21 +332,21 @@ program:
     start_time: "17:15"
     end_time: "17:45"
   - title: "TBA"
-    type: talk
+    type: custom
     date: 2025-08-16
     start_time: "17:15"
     end_time: "17:45"
     comments: "Trilha Iniciante - Sala: Deploy"
     background_color: "#fdf0d5"
-  - title: "loka"
-    type: talk
+  - title: "Loka"
+    type: custom
     date: 2025-08-16
     start_time: "17:15"
     end_time: "17:25"
     comments: "Trilha Avançada - Sala: Rollback"
     background_color: "#81b29a"
-  - title: "storyblok"
-    type: talk
+  - title: "Storyblok"
+    type: custom
     date: 2025-08-16
     start_time: "17:25"
     end_time: "17:45"
