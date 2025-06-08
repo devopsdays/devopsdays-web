@@ -1,11 +1,29 @@
 +++
 Title = "Registration"
 Type = "event"
-Description = "Registration for devopsdays Des Moines 2025"
+Description = "Registration for Agile + DevOpsDays Des Moines 2024"
 +++
 
 <div style="width:100%; text-align:left;">
+<div id="eventbrite-widget-container-1267504242309"></div>
 
-Embed registration iframe/link/etc.
-</div></div>
+<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+
+<script type="text/javascript">
+    var exampleCallback = function() {
+        console.log('Order complete!');
+    };
+
+    window.EBWidgets.createWidget({
+        // Required
+        widgetType: 'checkout',
+        eventId: '1267504242309',
+        iframeContainerId: 'eventbrite-widget-container-1267504242309',
+
+        // Optional
+        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+    });
+</script>
+
 </div>

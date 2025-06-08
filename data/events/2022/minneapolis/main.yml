@@ -114,7 +114,7 @@ sponsors:
     level: gold
   - id: gitlab
     level: gold
-  - id: cloudbees
+  - id: cloudbees-before-20250128
     level: silver
   - id: replicated
     level: silver

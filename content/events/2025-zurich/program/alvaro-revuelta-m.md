@@ -33,3 +33,12 @@ Attendees will start with an overview of container security principles. The work
 We will use several tools such as Trivy for image scanning, Dive to inspect the layers of an image and some pentesting tools that automatically test against a benchmark.
 
 The workshop will also cover strategies for continuously monitoring and updating images to maintain security over time.
+
+<strong>Prerequisites for this workshop:</strong>
+- No preparation work needed
+
+<strong>Number of participants:</strong>
+The maximum number of participants at this workshop is 40.
+
+<strong>Room</strong>
+“Seminar” / 1st floor 

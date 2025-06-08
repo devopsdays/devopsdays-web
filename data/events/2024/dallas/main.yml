@@ -40,7 +40,6 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   # - name: propose
   - name: location
   - name: registration
-    url: https://tickets.devopsdays.org/devopsdays-dallas/2024/
   - name: program
   - name: speakers
   - name: sponsor
@@ -207,7 +206,7 @@ sponsors:
     level: silver
   - id: pagerduty
     level: silver
-  - id: devitjobs
+  - id: devitjobs-before-20250404
     level: media
   - id: gdgsolake
     level: community

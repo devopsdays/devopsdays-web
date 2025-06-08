@@ -101,9 +101,9 @@ sponsors:
     level: bronze
   - id: redhat-before-20190528
     level: gold
-  - id: cloudbees-codeship
+  - id: cloudbees-before-20250128-codeship
     level: bronze
-  - id: servicenow
+  - id: servicenow-before-20250402
     level: silver
   - id: jfrog
     level: silver

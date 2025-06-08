@@ -69,7 +69,7 @@ organizer_email: "denver@devopsdays.org"
 sponsors_accepted: "yes"
 
 sponsors:
-- id: redis-labs
+- id: redis-before-20250508-labs
   level: gold
 - id: cprime
   level: gold
@@ -99,7 +99,7 @@ sponsors:
   level: gold
 - id: fusion-auth
   level: silver
-- id: cloudbees
+- id: cloudbees-before-20250128
   level: silver
 - id: jeli
   level: supporter

@@ -215,7 +215,7 @@ sponsors:
     level: platinum
   - id: puppet-by-perforce
     level: platinum
-  - id: cloudbees
+  - id: cloudbees-before-20250128
     level: platinum
   - id: gitlab
     level: platinum
@@ -241,7 +241,7 @@ sponsors:
     level: community
   - id: devopsdc-meetup
     level: community
-  - id: devitjobs
+  - id: devitjobs-before-20250404
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

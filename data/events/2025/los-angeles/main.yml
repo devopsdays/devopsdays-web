@@ -119,26 +119,54 @@ sponsor_levels:
 sponsors:
   - id: akamai
     level: gold
+  - id: bellsoft
+    level: gold
   - id: checkmarx
+    level: gold
+  - id: couchbase
     level: gold
   - id: devzero
     level: gold
+  - id: dnsimple
+    level: gold
   - id: firefly
+    level: gold
+  - id: fluidattacks
+    level: gold
+  - id: gruntwork
     level: gold
   - id: honeycomb
     level: gold
+  - id: jobst
+    level: silver
+  - id: kapstan
+    level: gold
+  - id: netactuate
+    level: gold
+  - id: opsera
+    level: gold
   - id: parasoft
     level: gold
-  - id: semaphore
+  - id: pomerium
+    level: gold
+  - id: sedai
+    level: gold
+  - id: semaphoreci
     level: gold
   - id: stateful
     level: silver
+  - id: suse
+    level: gold
+  - id: thales
+    level: gold
   - id: kubecareers
     level: media
     url: https://kube.careers/
   - id: kubeevents
     level: media
     url: https://kube.events/
+  - id: tuxdigital
+    level: media
 
 program:
   - title: "Registration, Breakfast, Sponsors"
@@ -186,7 +214,7 @@ program:
     date: 2025-03-07T00:00:00-08:00
     start_time: "15:45"
     end_time: "16:00"
-  - title: "zoe-chalfant"
+  - title: "kat-gaines"
     type: talk
     date: 2025-03-07T00:00:00-08:00
     start_time: "16:00"
