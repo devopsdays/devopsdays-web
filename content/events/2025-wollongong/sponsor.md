@@ -4,63 +4,76 @@ Type = "event"
 Description = "Sponsor devopsdays Wollongong 2025"
 +++
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
+Become a sponsor now by contacting the team: {{< email_organizers >}}
 
-<hr>
+DevOpsDays are community-focused, self-organising conferences for devops practitioners that depend on sponsor support. Because of the nature of the event, we do not have a large noisy vendor hall or vendor speaking slots. We do not offer full speaker slots in return for sponsorship, sponsors are welcome to submit talks however. Platinum and Gold sponsors receive a table they can use for technical and promotional material for interested people to come visit during breaks.
 
-devopsdays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
-<p>
-Gold sponsors get a full table and Silver sponsors a shared table where they can interact with those interested to come visit during breaks. All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
-<p>
-The best thing to do is send engineers to interact with the experts at devopsdays on their own terms.
-<p>
+Attendees, including sponsors, are welcome to propose any subject they want during open spaces, but this is not 'that kind of conference' and marketing may work against you when trying to make a good impression on the attendees. The most effective interaction is to send software engineers, solutions engineers, and developer advocates, to connect with the community at DevOpsDays on their own terms.
 
-<!--
-<hr/>
+We do not ever sell or provide contact details of attendees - this is non negotiable.
 
-<div style="width:590px">
-<table border=1 cellspacing=1>
-  <tr>
-    <th><i>packages</i></th>
-    <th><center><b><u>Bronze<br />1000 usd</u></center></b></th>
-    <th><center><b><u>Silver<br />3000 usd</u></center></b></th>
-    <th><center><b><u>Gold<br />5000 usd</u></center></b></th>
-    <th></th>
-  </tr>
-<tr><td>2 included tickets</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on event website</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on shared slide, rotating during breaks</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on all email communication</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on its own slide, rotating during breaks</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>1 minute pitch to full audience (including streaming audience)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr></tr>
-<tr><td>2 additional tickets (4 in total)</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td>4 additional tickets (6 in total)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>shared table for swag</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td>booth/table space</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-</table>
-<hr/>
-There are also opportunities for exclusive special sponsorships. We'll have sponsors for various events with special privileges for the sponsors of these events. If you are interested in special sponsorships or have a creative idea about how you can support the event, send us an email.
-<br/>
-<br/>
+Respect and empathy are core DevOps values. DevOpsDays is dedicated to providing an environment where everyone in the DevOps community can learn and share in respectful, considerate collaboration.
 
-<br>
-<br>
-<table border=1 cellspacing=1>
-  <tr>
-    <th><i>Sponsor FAQ</i></th>
-    <th><center><b>Answers to questions frequently asked by sponsors&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</center></b></th>
-    <th></th>
-  </tr>
-<tr><td>What dates/times can we set up and tear down?</td><td></td></tr>
-<tr><td>How do we ship to the venue?</td><td></td></tr>
-<tr><td>How do we ship from the venue?</td><td></td></tr>
-<tr><td>Whom should we send?</td><td></td></tr>
-<tr><td>What should we expect regarding electricity? (how much, any fees, etc)</td><td></td></tr>
-<tr><td>What should we expect regarding WiFi? (how much, any fees, etc)</td><td></td></tr>
-<tr><td>How do we order additional A/V equipment?</td><td></td></tr>
-<tr><td>Additional important details</td><td></td></tr>
-</table>
-</div>
+The event operates under a [code of conduct available here](https://devopsdays.org/events/2025-wollongong/conduct)
 
--->
-<hr/>
+## Packages
+
+The following packages are available:
+
+| Package                                                                   | Platinum |   Gold   |  Silver  |  Bronze  |  Startup |
+| ------------------------------------------------------------------------- | :------: | :------: | :------: | :------: | :------: |
+| Included conference tickets                                               |     4    |     3    |     3    |     2    |     2    |
+| Logo on DevOpsDays website                                                |     ✔    |     ✔    |     ✔    |     ✔    |     ✔    |
+| Mention all email communications                                          |     ✔    |     ✔    |     ✔    |     ✔    |          |
+| Thank you at opening/closing of the conference                            |     ✔    |     ✔    |     ✔    |          |          |
+| Prize draw slot at the end of the conference                              |     ✔    |     ✔    |     ✔    |          |          |
+| Dedicated booth space with table                                          |     ✔    |     ✔    |          |          |          |
+| Display of your roll-up/pop-up banner in high traffic areas               |     ✔    |          |          |          |          |
+| Shared table (for stickers, flyers, etc.)                                 |          |          |     ✔    |     ✔    |          |
+| ½ day scheduled space at the “Startup Desk” to show demos, stickers, etc. |          |          |          |          |     ✔    |
+| Five-minute pitch to full audience                                        |     ✔    |          |          |          |          |
+| Two-minute pitch to full audience                                         |          |     ✔    |          |          |          |
+| Quantity Offered                                                          |     2    |     3    |     5    |     8    |     4    |
+| Price (AUD)                                                               |  $12,000 |   $8,000 |.  $5,000 |   $2,500 |   $1,000 |
+
+Note: Included tickets are full conference tickets. We encourage participation from the sponsors in the event.
+
+### Startup Package
+
+Wollongong is a city of innovation. To encourage this we are offering a discounted Startup sponsorship package available to technology startups. This is designed to give these businesses a chance to be seen by the industry and collaborate with the community. If you are interested in this package please contact the sponsorship team. The team will work with any applicants in order to determine eligibility.
+
+## Additional Options
+
+### Lanyards and T-Shirts - $3000 (One available)
+
+- Cover the cost of Lanyards and T-Shirts
+- Lanyards with your logo (required 2 weeks before the event)
+- Contribute towards a DevOpsDays Wollongong T-Shirt for all attendees.
+
+### Barista - $2000 (One available)
+
+Cover the cost of a coffee cart and barista for the duration of the event.
+Inclusions:
+
+- Sponsor supplied banner displayed at the barista stand.
+- Screen at the barista stand to display marketing materials.
+- Sponsor provided coffee cups can be used.
+- Endless gratitude of caffeine addicted hordes.
+
+### Networking Event Contribution - $2500 (Multiple available)
+
+Contribute to the costs of the evening event – will go towards food, non-alcoholic beverages and entertainment.
+Inclusions:
+
+- Sponsor supplied banners displayed at the evening networking event hosted at the venue.
+- Sponsors named and thanked as evening event sponsors.
+
+## Sponsor Events
+
+Sponsors are welcome to engage with Novetel to arrange further events at the venue outside of the DevOpsDays conference. We do request that the overarching principles of inclusivity, community, empathy, and collaboration are observed here.
+
+## Community Ticket Contribution
+
+You can help us make this conference accessible to under-represented groups, including youths, or other disadvantaged people that cannot afford the cost of the event. You can offer to cover the cost of several tickets (anonymously or not). If you choose to have your name known, we will display your name and logo on our website, as well as let any beneficiaries know.
+
+Become a sponsor now by contacting the team: {{< email_organizers >}}
