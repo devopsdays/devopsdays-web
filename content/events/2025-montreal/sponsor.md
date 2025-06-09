@@ -3,7 +3,7 @@ Title = "Sponsor"
 Type = "event"
 Description = "Sponsor devopsdays Montreal 2025"
 +++
-<script src="https://www.paypal.com/sdk/js?client-id=AalWoER4UBvQMoucGnwf6akLiuwwSYaySMZIv0sUFy3DHf8yyRf8HXas26JwrlRCs6JVVrNp1i75HZ3M&components=buttons&disable-funding=credit,card">
+<script src="https://www.paypal.com/sdk/js?client-id=AalWoER4UBvQMoucGnwf6akLiuwwSYaySMZIv0sUFy3DHf8yyRf8HXas26JwrlRCs6JVVrNp1i75HZ3M&currency=CAD&components=buttons&disable-funding=credit,card">
 </script>
 
 
@@ -155,7 +155,7 @@ Our beautiful city is lucky to have an increasingly diverse tech community, and 
         <td>$2,500</td>
         <td>$2,500</td>
     </tr>
-    <!-- <tr>
+    <tr>
         <td class="regular">Buy now!</td>
         <td>
             <div id="paypal-button-lunch" class="paypal-btn"></div>
@@ -184,7 +184,7 @@ Our beautiful city is lucky to have an increasingly diverse tech community, and 
         <td>
             <div id="paypal-button-nonprofit" class="paypal-btn"></div>
         </td>
-    </tr> -->
+    </tr>
     <tr>
         <td class="regular">Available</td>
         <td>2</td>
@@ -442,13 +442,13 @@ There are also opportunities for exclusive special sponsorships. We'll have spon
 
   const dict = {
     "paypal-button-lunch": "8000.00",
-    "paypal-button-breakfast": "5500.00",
+    "paypal-button-breakfast": "5000.00",
     "paypal-button-lanyard": "5000.00",
     "paypal-button-bronze": "5500.00",
     "paypal-button-silver": "8500.00",
     "paypal-button-gold": "12000.00",
     "paypal-button-platinum": "16000.00",
-    "paypal-button-startup": "2000.00",
+    "paypal-button-startup": "2500.00",
     "paypal-button-nonprofit": "2500.00",
   };
 
