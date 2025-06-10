@@ -29,8 +29,8 @@ location_address: "Švitrigailos 34, 03230 Vilnius" #Optional - use the street a
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: registration
     url: "https://fienta.com/devopsdays-vilnius-2025"
-  # - name: speakers
-  # - name: program
+  - name: speakers
+  - name: program
   - name: propose
     url: "https://talks.devopsdays.org/devopsdays-vilnius-2025/cfp"
   - name: sponsor
