@@ -103,6 +103,10 @@ organizer_email: "rio-de-janeiro@devopsdays.org" # Put your organizer email addr
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  #Gold Sponsors
+  - id: loka
+    level: gold
+
   #Silver Sponsors
   - id: oracle
     level: silver
@@ -118,6 +122,12 @@ sponsors:
     level: community
 
   - id: novatec
+    level: community
+
+  - id: nerdweek
+    level: community
+
+  - id: cps1
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
