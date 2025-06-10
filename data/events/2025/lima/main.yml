@@ -119,6 +119,9 @@ sponsors:
    - id: dynatrace
      level: gold
      url: https://www.dynatrace.com/
+   - id: fluidattacks
+     level: gold
+     url: https://www.fluidattacks.com/
    - id: devopsinstitute
      level: community
      url: https://www.devopsinstitute.com/
