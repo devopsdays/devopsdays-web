@@ -120,6 +120,9 @@ sponsors:
   - id: novatec
     level: community
 
+  - id: nerd-week
+    level: community
+
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 sponsor_levels:
