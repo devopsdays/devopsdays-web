@@ -9,6 +9,8 @@ Description = "devopsdays dallas 2025"
   {{< event_logo >}}
 </div> -->
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_RgGqMxI3Ns?si=qP75hKFrNAUyuLmL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <div class = "row">
   <div class = "col-md-2">
     <strong>Dates</strong>

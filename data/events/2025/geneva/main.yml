@@ -363,7 +363,7 @@ program:
     start_time: "10:35"
     end_time: "11:20"
 
-  - title: "personalised-journalism-at-scale"
+  - title: "native-web-technologies"
     type: talk
     date: 2025-05-20
     start_time: "11:20"

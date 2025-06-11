@@ -123,6 +123,10 @@ sponsors:
 #    level: community
   - id: teksystems
     level: karaoke
+  - id: redhat
+    level: silver
+  - id: progresschef
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

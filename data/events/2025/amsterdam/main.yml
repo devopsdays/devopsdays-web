@@ -128,7 +128,9 @@ sponsors:
     level: gold
   - id: akamai
     level: gold
-  - id: nationale-nederlanden-nl
+  - id: nn-group
+    level: gold
+  - id: komodor
     level: gold
   # Lanyard
   - id: schubergphilis
@@ -140,6 +142,10 @@ sponsors:
     level: silver
   - id: cinq
     level: silver
+  - id: edb
+    level: silver
+  - id: redgate
+    level: silver
   # Bronze
   - id: devleaps
     level: bronze
@@ -150,6 +156,10 @@ sponsors:
   - id: amsterdamdev
     level: bronze
   - id: servicenow
+    level: bronze
+  - id: googlecloud
+    level: bronze
+  - id: asml
     level: bronze
 #   - id: samplesponsorname
 #     level: gold
@@ -167,18 +177,12 @@ sponsor_levels:
   - id: coffee
     label: Coffee
     max: 1
-  - id: captioning
-    label: Accessibility
-    max: 1
   - id: gold
     label: Gold
     max: 8
   - id: lanyard
     label: Lanyard
     max: 1
-  - id: foodtruck
-    label: "Food Truck"
-    max: 4
   - id: silver
     label: Silver
     max: 8

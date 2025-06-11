@@ -60,6 +60,10 @@ team_members: # Name is the only required field for team members.
   - name: "Richard Fojta"
     bio: "I've been working in Software Development for more than 15 years. I prefer medium-size companies with medium-size projects and relative fast feedback loop. I've started organizing Prague DevOps meetup many years ago. It has helped me to meet and get to know a lot of companies, people and technologies that are DevOps-oriented. I'm currently learning how to be a good parent, which is costing me a lot of time, but I would like to keep in touch with communities and people with free mind."
     image: "r_fojta.jpg"
+  - name: "Dan Yelovitch"
+    bio: "With over 15 years in software development, I’ve evolved into a DevOps-focused Site Reliability Engineer (SRE) passionate about bridging development and operations through self-service tooling that empowers teams to own their workflows. Whether collaborating with startups or enterprises, I thrive on building scalable, developer-centric platforms that embed operational visibility directly into the dev experience, fostering a culture of shared responsibility. What fuels me most is DevOps’ relentless innovation—a space where curiosity and cutting-edge tools converge to solve real-world challenges, transforming not just how we deploy code, but how teams collaborate, learn, and reimagine what's possible in our ever-evolving tech landscape."
+    image: "d_yelovitch.jpg"
+    linkedin: "https://www.linkedin.com/in/dan-yelovitch/"
 
 organizer_email: "prague@devopsdays.org" # Put your organizer email address here
 
@@ -74,9 +78,15 @@ sponsors:
     level: gold
   - id: exoscale
     level: gold
-  - id: cloudfresh
+  - id: cloudfresh-gitlab
     level: gold
+  - id: nebius
+    level: tshirt
   - id: tspdata
+    level: silver
+  - id: prusaresearch
+    level: silver
+  - id: upcloud
     level: silver
   - id: pure-storage
     level: lanyard
@@ -90,6 +100,12 @@ sponsors:
     level: community
   - id: art4people
     level: community
+  - id: czechitas
+    level: community
+  - id: quanti
+    level: community
+  - id: vortexcloud
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -100,6 +116,8 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Gold
+  - id: tshirt
+    label: T-shirt
   - id: silver
     label: Silver
   - id: lanyard
