@@ -4,10 +4,10 @@ Type = "welcome"
 aliases = ["/events/2025-cairo/"]
 Description = "DevOpsDays Cairo 2025"
 +++
-<p>This year DevOpsDays Cairo is a two-days event!<br />Cairo Conference is the Sole devopsdays Conference in the Arab Region.&nbsp;<br />For the 8<sup>th</sup> consecutive year, ITIDA/SECC is organizing DevOpsDays Cairo 2025 on 27-28 September in cooperation with: ATOS, Cairo University, AUC, Egypt University of Informatics, DXC Technology, Orange Labs and Stakpak.</p>
+<p>This year DevOpsDays Cairo is a one-day event!<br />Cairo Conference is the Sole devopsdays Conference in the Arab Region.&nbsp;<br />For the 8<sup>th</sup> consecutive year, ITIDA/SECC is organizing DevOpsDays Cairo 2025 on 27th September in cooperation with: ATOS, Cairo University, AUC, Egypt University of Informatics, DXC Technology, Orange Labs and Stakpak.</p>
 
 <p>&nbsp;</p>
-<p><strong>Date &amp; Time: </strong>Saturday & Sunday, Sep 27-28, 2025</p>
+<p><strong>Date &amp; Time: </strong>Saturday, Sep 27th, 2025</p>
 <p>Follow us, adjust your calendar notifications and stay tuned!
 </p>
 
