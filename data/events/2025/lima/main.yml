@@ -38,7 +38,7 @@ location_address: "Jr. Alonso de Molina 1652, Santiago de Surco 15023" #Optional
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
   - name: location
-  - name: webperu
+  - name: weblima
     url: https://devopsdays.pe/
   - name: registration
     url: https://devopsdays.pe/entradas
@@ -67,10 +67,10 @@ team_members: # Name is the only required field for team members.
     github: "lvega-root"
     image: "lenard-vega.jpg"
   - name: "Mario Inga"
-    employer: "Equisoft"
+    employer: "Emusa"
     github: "mario21ic"
     linkedin: "https://www.linkedin.com/in/mario21ic"
-    bio: "Software Engineer"
+    bio: "Head of TI Infrastructure"
     website: "https://mario21ic.com"
     image: "mario-inga.jpg"
   - name: "Doris Manrique"
@@ -119,6 +119,9 @@ sponsors:
    - id: dynatrace
      level: gold
      url: https://www.dynatrace.com/
+   - id: fluidattacks
+     level: gold
+     url: https://www.fluidattacks.com/
    - id: devopsinstitute
      level: community
      url: https://www.devopsinstitute.com/
