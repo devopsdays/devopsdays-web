@@ -103,11 +103,34 @@ organizer_email: "rio-de-janeiro@devopsdays.org" # Put your organizer email addr
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-    #Community
+  #Gold Sponsors
+  - id: loka
+    level: gold
+
+  #Silver Sponsors
+  - id: oracle
+    level: silver
+
+  #Community
   - id: punkdodevops
     level: community
 
+  - id: fluxxorama
+    level: community
+
   - id: docker-rio
+    level: community
+
+  - id: fiap
+    level: community
+
+  - id: novatec
+    level: community
+
+  - id: nerdweek
+    level: community
+
+  - id: cps1
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -135,39 +158,48 @@ program:
     type: custom
     date: 2025-08-16
     start_time: "09:00"
-    end_time: "09:30"
+    end_time: "09:20"
 
   #Opening
   - title: "Abertura"
     type: custom
     date: 2025-08-16
-    start_time: "09:30"
-    end_time: "10:00"
-    comments: "Sala: Deploy"
+    start_time: "09:20"
+    end_time: "09:30"
+    comments: "Sala: Rollback"
 
   #Keynote-1
+  - title: "dan"
+    type: talk
+    date: 2025-08-16
+    start_time: "09:30"
+    end_time: "10:00"
+    comments: "Keynote - Sala: Rollback"
+    background_color: "#FFFA99"
+
   - title: "TBA"
+    type: custom
+    date: 2025-08-16
+    start_time: "10:00"
+    end_time: "10:30"
+    comments: "Trilha Iniciante - Sala: Deploy"
+    background_color: "#fdf0d5"
+  - title: "narciso-junior"
     type: talk
     date: 2025-08-16
     start_time: "10:00"
     end_time: "10:30"
-    comments: "Keynote - Sala: Deploy"
-    background_color: "#FFFA99"
+    comments: "Trilha Avançada - Sala: Rollback"
+    background_color: "#81b29a"
 
-  #Session-1
-  - title: "Sessão 1"
-    type: custom
-    date: 2025-08-16
-    start_time: "10:30"
-    end_time: "11:00"
-  - title: "TBA"
+  - title: "joao-brito"
     type: talk
     date: 2025-08-16
     start_time: "10:30"
     end_time: "11:00"
     comments: "Trilha Iniciante - Sala: Deploy"
     background_color: "#fdf0d5"
-  - title: "TBA"
+  - title: "fernando-telles"
     type: talk
     date: 2025-08-16
     start_time: "10:30"
@@ -175,20 +207,14 @@ program:
     comments: "Trilha Avançada - Sala: Rollback"
     background_color: "#81b29a"
 
-  #Session-2
-  - title: "Sessão 2"
-    type: custom
-    date: 2025-08-16
-    start_time: "11:00"
-    end_time: "11:30"
-  - title: "TBA"
+  - title: "lays-rodrigues"
     type: talk
     date: 2025-08-16
     start_time: "11:00"
     end_time: "11:30"
     comments: "Trilha Iniciante - Sala: Deploy"
     background_color: "#fdf0d5"
-  - title: "TBA"
+  - title: "carlos-diego-bezerra"
     type: talk
     date: 2025-08-16
     start_time: "11:00"
@@ -196,14 +222,20 @@ program:
     comments: "Trilha Avançada - Sala: Rollback"
     background_color: "#81b29a"
 
-  #Keynote-2
-  - title: "TBA"
+  - title: "camis-moreira"
     type: talk
     date: 2025-08-16
     start_time: "11:30"
     end_time: "12:00"
-    comments: "Keynote - Sala: Deploy"
-    background_color: "#FFFA99"
+    comments: "Trilha Iniciante - Sala: Deploy"
+    background_color: "#fdf0d5"
+  - title: "tamires-andrade"
+    type: talk
+    date: 2025-08-16
+    start_time: "11:30"
+    end_time: "12:00"
+    comments: "Trilha Avançada - Sala: Rollback"
+    background_color: "#81b29a"
 
   #Lunch
   - title: "Almoço"
@@ -218,67 +250,49 @@ program:
     date: 2025-08-16
     start_time: "13:30"
     end_time: "13:45"
-    comments: "Sala: Deploy"
+    comments: "Sala: Rollback"
     background_color: "#C3FFD7"
 
-  #Keynote-3
-  - title: "TBA"
+  #Keynote-2
+  - title: "lara-xavier"
     type: talk
     date: 2025-08-16
     start_time: "13:45"
     end_time: "14:15"
-    comments: "Keynote - Sala: Deploy"
+    comments: "Keynote - Sala: Rollback"
     background_color: "#FFFA99"
 
-  #Session-3
-  - title: "Sessão 3"
+  - title: "TBA Sponsor"
     type: custom
-    date: 2025-08-16
-    start_time: "14:15"
-    end_time: "14:45"
-  - title: "TBA"
-    type: talk
     date: 2025-08-16
     start_time: "14:15"
     end_time: "14:45"
     comments: "Trilha Iniciante - Sala: Deploy"
     background_color: "#fdf0d5"
   - title: "TBA"
-    type: talk
+    type: custom
     date: 2025-08-16
     start_time: "14:15"
     end_time: "14:45"
     comments: "Trilha Avançada - Sala: Rollback"
     background_color: "#81b29a"
 
-  #Session-4
-  - title: "Sessão 4"
-    type: custom
-    date: 2025-08-16
-    start_time: "14:45"
-    end_time: "15:15"
   - title: "TBA"
-    type: talk
+    type: custom
     date: 2025-08-16
     start_time: "14:45"
     end_time: "15:15"
     comments: "Trilha Iniciante - Sala: Deploy"
     background_color: "#fdf0d5"
   - title: "TBA"
-    type: talk
+    type: custom
     date: 2025-08-16
     start_time: "14:45"
     end_time: "15:15"
     comments: "Trilha Avançada - Sala: Rollback"
     background_color: "#81b29a"
 
-    #Session-5
-  - title: "Sessão 5"
-    type: custom
-    date: 2025-08-16
-    start_time: "15:15"
-    end_time: "15:45"
-  - title: "TBA"
+  - title: "oscar-esgalha"
     type: talk
     date: 2025-08-16
     start_time: "15:15"
@@ -286,10 +300,25 @@ program:
     comments: "Trilha Iniciante - Sala: Deploy"
     background_color: "#fdf0d5"
   - title: "TBA"
-    type: talk
+    type: custom
     date: 2025-08-16
     start_time: "15:15"
     end_time: "15:45"
+    comments: "Trilha Avançada - Sala: Rollback"
+    background_color: "#81b29a"
+
+  - title: "ana-pinheiro"
+    type: talk
+    date: 2025-08-16
+    start_time: "15:45"
+    end_time: "16:15"
+    comments: "Trilha Iniciante - Sala: Deploy"
+    background_color: "#fdf0d5"
+  - title: "natalia-granato"
+    type: talk
+    date: 2025-08-16
+    start_time: "15:45"
+    end_time: "16:15"
     comments: "Trilha Avançada - Sala: Rollback"
     background_color: "#81b29a"
 
@@ -297,47 +326,67 @@ program:
   - title: "Coffee Break"
     type: custom
     date: 2025-08-16
-    start_time: "15:45"
-    end_time: "16:15"
-
-  #OpenSpace-1
-  - title: "Open Space - 1"
-    type: open-space
-    date: 2025-08-16
     start_time: "16:15"
     end_time: "16:45"
-    comments: "Sala: Deploy"
-    # background_color: #FFB566
 
-  #OpenSpace-2
-  - title: "Open Space - 2"
+  #OpenSpace-1
+  - title: "Open Spaces"
     type: open-space
     date: 2025-08-16
     start_time: "16:45"
     end_time: "17:15"
-    comments: "Sala: Deploy"
+    comments: "Sala: Rollback"
     # background_color: #FFB566
 
-  #Keynote-4
-  - title: "TBA"
-    type: talk
+    #Session-9
+  - title: "Sessão 9"
+    type: custom
     date: 2025-08-16
     start_time: "17:15"
     end_time: "17:45"
-    comments: "Keynote - Sala: Deploy"
+  - title: "TBA"
+    type: custom
+    date: 2025-08-16
+    start_time: "17:15"
+    end_time: "17:45"
+    comments: "Trilha Iniciante - Sala: Deploy"
+    background_color: "#fdf0d5"
+  - title: "Loka"
+    type: custom
+    date: 2025-08-16
+    start_time: "17:15"
+    end_time: "17:25"
+    comments: "Trilha Avançada - Sala: Rollback"
+    background_color: "#81b29a"
+  - title: "Storyblok"
+    type: custom
+    date: 2025-08-16
+    start_time: "17:25"
+    end_time: "17:45"
+    comments: "Trilha Avançada - Sala: Rollback"
+    background_color: "#81b29a"
+
+
+  #Keynote-3
+  - title: "fabricio-veronez"
+    type: talk
+    date: 2025-08-16
+    start_time: "17:45"
+    end_time: "18:15"
+    comments: "Keynote - Sala: Rollback"
     background_color: "#FFFA99"
   
   #Closing
   - title: "Encerramento"
     type: custom
     date: 2025-08-16
-    start_time: "17:45"
-    end_time: "18:15"
-    comments: "Sala: Deploy"
+    start_time: "18:15"
+    end_time: "18:45"
+    comments: "Sala: Rollback"
 
   # #HappyHour
   - title: "Happy Hour"
     type: custom
     date: 2025-08-16
-    start_time: "18:15"
+    start_time: "18:45"
     end_time: "22:00"

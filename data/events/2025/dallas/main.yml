@@ -171,6 +171,10 @@ organizer_email: "dallas@devopsdays.org" # Put your organizer email address here
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: pulumi
+    level: silver
+  - id: coder
+    level: silver
   - id: arresteddevops
     level: community
   - id: gdgsolake
