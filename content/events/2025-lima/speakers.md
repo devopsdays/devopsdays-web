@@ -27,6 +27,12 @@ Description = "Conoce a nuestros speakers del DevOpsDays Lima 2025"
             "submissions": ["https://www.linkedin.com/in/marchornbeek/"]
         },
         {
+            "name": "Carlos Rojas",
+            "avatar": "/img/lima-carlos.png",
+            "biography": "Carlos Rojas es un ejecutivo global en tecnología, reconocido por liderar transformaciones con impacto en empresas Fortune 100. Especialista en ingeniería de plataformas, confiabilidad e IA Generativa, ha impulsado avances pioneros en infraestructura cloud y automatización en entornos altamente regulados. Como VP de Ingeniería de Software en Capital One, lideró una organización de clase mundial en resiliencia tecnológica. Anteriormente, en AWS, encabezó la expansión global de infraestructura mediante automatización estratégica. Como emprendedor, diseñó un sistema de gestión clínica usado globalmente en investigaciones de nuevos medicamentos, incluyendo ensayos sobre COVID-19. Su visión combina excelencia operativa con innovación a escala.",
+            "submissions": ["https://www.linkedin.com/in/carojas77/"]
+        },
+        {
             "name": "André Rezende",
             "avatar": "/img/lima-andre.jpeg",
             "biography": "André es Chief Technology Officer (CTO) del grupo Credicorp y ex Managing Director de Accenture. Con más de 30 años de experiencia en tecnología para el sector financiero América Latina, India y Europa; André ha liderado transformaciones tecnológicas en banca, mercado capitales, microfinanzas, seguros, fondos de pensiones y fintech.",
