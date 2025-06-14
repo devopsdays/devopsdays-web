@@ -12,7 +12,7 @@ Description = "Bienvenidos a DevOpsDays Santiago de Chile 2025"
   <div class="col-md-7" style="padding: 10px 20px;">
     <h2 style="color: #0066cc; font-weight: bold; font-size: 1.8em; margin-bottom: 15px;">DevOpsDays llega a Santiago de Chile el 05 de septiembre del 2025</h2>
   <p style="font-size: 1.1em; color: #333;">
-    Este 5 de Septiembre del 2025<br>
+    Este 5 de Septiembre del 2025 por primera vez en Chile<br>
     Pronto publicaremos la agenda y otros detalles de este increíble evento.<br>
     1 día Completo de charlas, actividades, y muchos premios!<br>
     3 Keynotes de Oradores renombrados en el mundo DevOps<br>
