@@ -12,6 +12,7 @@ Description = "Bienvenidos a DevOpsDays Santiago de Chile 2025"
   <div class="col-md-7" style="padding: 10px 20px;">
     <h2 style="color: #0066cc; font-weight: bold; font-size: 1.8em; margin-bottom: 15px;">DevOpsDays llega a Santiago de Chile el 05 de septiembre del 2025</h2>
     <p style="font-size: 1.1em; color: #333;">
+      Este 5 de Septiembre del 2025.
     </p>
     <p style="font-size: 1.1em; color: #333;">
       ¡Pronto publicaremos la agenda y otros detalles de este increíble evento!
@@ -51,6 +52,7 @@ Description = "Bienvenidos a DevOpsDays Santiago de Chile 2025"
   </div>
 </div>
 
+---
 
 <h2 style="color: #0066cc; font-size: 1.5em; margin-top: 20px;">Agenda</h2>
 <ul style="list-style-type: none; padding-left: 0;">
