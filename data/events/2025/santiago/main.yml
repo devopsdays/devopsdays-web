@@ -46,7 +46,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: sponsor
   - name: contact
   - name: conduct
-# - name: example
+  - name: ticket
+    url: https://ticketplus.cl/events/devopsdays-santiago-2025
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
 
@@ -62,9 +63,9 @@ team_members: # Name is the only required field for team members.
   - name: "Sergio  Canales"
     image: "sergiocanales.png"  
   - name: "Juan Jose Mendez"
-    image: "juanjosemendez.jpg"
+    image: "juanjosemendez.png"
   - name: "Francisco Meneses"
-    image: "franciscomeneses.jpg"
+    image: "franciscomeneses.png"
 
 organizer_email: "santiago@devopsdays.org" # Put your organizer email address here
 
@@ -77,6 +78,22 @@ sponsors:
     level: gold
   - id: ticketplus
     level: silver
+  - id: tgnative
+    level: gold
+  - id: thales
+    level: gold
+  - id: tsoft
+    level: silver
+  - id: technologysolutions
+    level: silver
+  - id: andesdigital
+    level: gold
+  - id: redhat
+    level: gold
+  - id: fluidattack
+    level: gold
+  - id: acti
+    level: community
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
