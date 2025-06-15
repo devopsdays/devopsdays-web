@@ -94,6 +94,16 @@ sponsors:
     level: gold
   - id: acti
     level: community
+  - id: devOps-institute
+    level: community
+  - id: opensourcesantiago
+    level: community
+  - id: pythonchile
+    level: community
+  - id: testingenchile
+    level: community
+  - id: acofitec
+    level: community
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -109,8 +119,6 @@ sponsor_levels:
   - id: silver
     label: Silver
     max: 10 # This is the same as omitting the max limit.
-  - id: bronze
-    label: Bronze
-    max: 10
   - id: community
     label: Community
+    max: 10
