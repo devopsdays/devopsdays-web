@@ -169,7 +169,7 @@ program:
     comments: "Sala: Rollback"
 
   #Keynote-1
-  - title: "dan"
+  - title: "dan-maher"
     type: talk
     date: 2025-08-16
     start_time: "09:30"
@@ -277,15 +277,15 @@ program:
     comments: "Trilha Avançada - Sala: Rollback"
     background_color: "#81b29a"
 
-  - title: "TBA"
-    type: custom
+  - title: luiz-guilherme-trindade-ribeiro
+    type: talk
     date: 2025-08-16
     start_time: "14:45"
     end_time: "15:15"
     comments: "Trilha Iniciante - Sala: Deploy"
     background_color: "#fdf0d5"
-  - title: "TBA"
-    type: custom
+  - title: miguel-di-ciurcio-filho
+    type: talk
     date: 2025-08-16
     start_time: "14:45"
     end_time: "15:15"
@@ -299,8 +299,8 @@ program:
     end_time: "15:45"
     comments: "Trilha Iniciante - Sala: Deploy"
     background_color: "#fdf0d5"
-  - title: "TBA"
-    type: custom
+  - title: nicole-pereira-pessoa
+    type: talk
     date: 2025-08-16
     start_time: "15:15"
     end_time: "15:45"
@@ -338,14 +338,8 @@ program:
     comments: "Sala: Rollback"
     # background_color: #FFB566
 
-    #Session-9
-  - title: "Sessão 9"
-    type: custom
-    date: 2025-08-16
-    start_time: "17:15"
-    end_time: "17:45"
-  - title: "TBA"
-    type: custom
+  - title: carla-piazzon-ramos-vieira
+    type: talk
     date: 2025-08-16
     start_time: "17:15"
     end_time: "17:45"
