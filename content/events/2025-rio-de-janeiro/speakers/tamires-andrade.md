@@ -2,7 +2,7 @@
 Title = "Tamires Andrade"
 Twitter = ""
 linkedin = ""
-image = ""
+image = "tamires-andrade.png"
 type = "speaker"
 linktitle = "tamires-andrade"
 
