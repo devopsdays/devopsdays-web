@@ -7,4 +7,4 @@ Type = "talk"
 Speakers = ["omotayo-adeleke"]
 +++
 
-AI is transforming DevOps, promising smarter pipelines and faster delivery—but it's also shaking up team dynamics and skillsets. This Ignite talk explores how AI demands a cultural reboot and a reskilling revolution. From overcoming resistance to mastering new tools, we'll unpack why the human side of AI is the real game-changer for DevOps success in 2025 and beyond. Expect practical insights, a dash of humor, and a call to action for your team's AI journey.
+AI is transforming DevOps, promising smarter pipelines, faster delivery, and unprecedented levels of efficiency—but it’s also shaking up team dynamics and skillsets in profound ways. This talk dives deep into how AI demands not just technical innovation but also a cultural reboot and a reskilling revolution. From overcoming resistance and fostering collaboration to mastering cutting-edge tools, we’ll explore why the human side of AI integration is the real game-changer for achieving sustainable DevOps success in 2025 and beyond.
