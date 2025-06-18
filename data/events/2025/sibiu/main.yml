@@ -85,7 +85,11 @@ team_members: # Name is the only required field for team members.
     linkedin: "General Engineering & Management Solutions"
     bio: "Valentin Oprea is an experienced and versatile aerospace engineer with more than 8 years active in various critical industries, ranging from aerospace, automotive, banking and more. Having a diverse and multidisciplinary engineering experience, he was involved in delivering high-tier products using state-of-the-art technologies for OEMs such as Airbus, Boeing, BMWW, Rolls Royce and more.
      Founder of General Engineering & Management Solutions, the mission is to leverage the absolute best industry professionals to aid businesses achieve their maximum market potential in the shortest amount of time given the technology at hand."
-
+  - name: "Ovidiu Costea"
+    image: "ovi.jpg"
+    employer: "Bosch Service Solutions"
+    linkedin: "https://www.linkedin.com/in/ovicostea"
+    bio: "Senior DevOps Engineer with a strong focus on scaling products and optimizing their entire lifecycle. Works as a contractor and freelancer, bringing practical experience in DevOps and infrastructure to deliver efficient, results-driven solutions. Combines software engineering skills with a no-nonsense approach to improving system reliability and performance."
 
 organizer_email: "sibiu@devopsdays.org" # Put your organizer email address here
 
@@ -113,6 +117,10 @@ sponsors:
     level: media
   - id: kubeevents
     level: media
+  - id: emailtree-ai
+    level: community
+  - id: ulbsibiu
+    level: community
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.

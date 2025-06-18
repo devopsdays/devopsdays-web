@@ -27,10 +27,10 @@ location: "Cyber City | Vilnius" # Defaults to city, but you can make it the ven
 location_address: "Švitrigailos 34, 03230 Vilnius" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  # - name: registration
-  #   url: https://www.bilietai.lt/eng/tickets/kita/devops-days-vilnius-2024-92058/
-  # - name: speakers
-  # - name: program
+  - name: registration
+    url: "https://fienta.com/devopsdays-vilnius-2025"
+  - name: speakers
+  - name: program
   - name: propose
     url: "https://talks.devopsdays.org/devopsdays-vilnius-2025/cfp"
   - name: sponsor
@@ -102,8 +102,6 @@ sponsor_levels:
     label: Platinum
   - id: gold
     label: Gold
-  - id: venue
-    label: Venue
   - id: silver
     label: Silver
   - id: bronze
@@ -130,5 +128,10 @@ sponsors:
     level: community
   - id: kubecareers
     level: community
-
+  - id: nordsecurity
+    level: bronze
+  - id: cognizant
+    level: platinum
+  - id: centriclt
+    level: bronze
 # program:
