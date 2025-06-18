@@ -96,7 +96,7 @@ sponsors:
     level: silver
   - id: harness
     level: silver
-  - id: jetbrains
+  - id: jetbrains-before-20250604
     level: community
   - id: john-deere
     level: gold
