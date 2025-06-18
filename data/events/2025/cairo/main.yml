@@ -102,14 +102,14 @@ sponsors:
    level: governament
  - id: atos
    level: corporate
-# - id: cegedim
-#   level: corporate
+ - id: cegedim
+   level: corporate
  - id: dxctechnology
    level: corporate
  - id: orange
    level: corporate 
-# - id: vois
-#   level: corporate
+ - id: vois
+   level: corporate
  - id: stakpak
    level: corporate
  - id: cairo-university
@@ -165,9 +165,9 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: platinum
-    label: Platinum
-    max: 5
+#  - id: platinum
+#    label: Platinum
+#    max: 5
   - id: governament
     label: "Governamental Organizer"
     max: 1 # to prevent "join as" string from appearing
@@ -177,9 +177,9 @@ sponsor_levels:
   - id: academia
     label: "Academia Organizers"
     max: 2 # to prevent "join as" string from appearing
-  - id: technology
-    label: "Technology"
-    max: 10 # to prevent "join as" string from appearing
+#  - id: technology
+#    label: "Technology"
+#    max: 10 # to prevent "join as" string from appearing
   #- id: gold
   #  label: Gold
   #  max: 10
