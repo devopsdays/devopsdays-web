@@ -4,6 +4,7 @@ Type = "welcome"
 aliases = ["/events/2025-halifax/"]
 Description = "DevOpsDays Halifax 2025"
 +++
+
 <style type="text/css">
 .hfx {
   display: flex;
@@ -58,6 +59,23 @@ Description = "DevOpsDays Halifax 2025"
   width: 100%;
   max-width: 200px; /* Ensure all buttons have the same width */
 }
+.button-link {
+  color: #EEF3C7;
+  background-color: #48BD86;
+  border: none;
+  border-radius: 0.5em;
+  font-weight: bold;
+  padding: 1em 2em;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  width: 100%;
+  max-width: 200px;
+  cursor: pointer;
+  box-sizing: border-box;
+}
+
 @media only screen and (max-width: 760px) {
   .hfx .header {
     flex-direction: column;
@@ -70,6 +88,60 @@ Description = "DevOpsDays Halifax 2025"
   }
   .hfx .buttons a {
     width: 100%;
+  }
+}
+.carousel-container {
+  position: relative;
+  width: 100%;
+  max-width: 800px;
+  margin: 1em auto 2em;
+  overflow: hidden;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.carousel-slide {
+  display: flex;
+  transition: transform 0.5s ease-in-out;
+  width: 400%; /* 4 images */
+}
+
+.carousel-slide img {
+  width: 100%;
+  flex-shrink: 0;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.carousel-btn {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background-color: rgba(72, 189, 134, 0.7);
+  border: none;
+  color: white;
+  font-size: 2em;
+  padding: 0 0.4em;
+  cursor: pointer;
+  border-radius: 5px;
+  user-select: none;
+}
+
+.carousel-btn.prev {
+  left: 10px;
+}
+
+.carousel-btn.next {
+  right: 10px;
+}
+
+.carousel-btn:hover {
+  background-color: #48BD86;
+}
+
+@media (max-width: 760px) {
+  .carousel-container {
+    max-width: 100%;
   }
 }
 </style>
@@ -85,11 +157,13 @@ Description = "DevOpsDays Halifax 2025"
       <p><strong>Who attends?</strong></p>
       <p>DevOpsDays Halifax attracts a diverse mix of professionals, from senior technical leaders and executives to software engineers, platform teams, site reliability engineers, security specialists, and students. Whether you're shaping DevOps strategy at an enterprise level or just starting out in the field, this event is your chance to connect, learn, and grow with the best in the industry.</p>
       <p>Set against the stunning backdrop of Halifax’s waterfront, DevOpsDays Halifax also offers the opportunity to connect over fresh seafood, scenic views, and the warmth of the Atlantic Canadian tech community.</p>
-      <p>Spots will fill fast—<a href="https://www.linkedin.com/company/devopsdays-halifax">follow us on LinkedIn</a> to be the first to know when registration opens!</p>
-      <p>By attending this event, you agree to the <a href="/devopsdays-halifax-2025/code-of-conduct">DevOpsDays Halifax Code of Conduct</a>.</p>
+      <p><strong>Early Bird Price is in effect.</strong> <a href="https://tickets.devopsdays.org/devopsdays-halifax/2025">Get your tickets </a> <strong>before July 15, 2025</strong> to receive a 15% discount on regular tickets!</p>
+      <p><a href="https://www.flickr.com/photos/201499771@N04/albums/72177720320854462" style="color:#48BD86; font-weight:bold; text-decoration:underline;">DevOpsDays Halifax 2024 Photo Album</a></p>
+      <p>By attending this event, you agree to the <a href="../conduct/">DevOpsDays Halifax Code of Conduct</a>.</p>
     </div>
   </div>
   <div class="buttons">
+    <a href="https://tickets.devopsdays.org/devopsdays-halifax/2025" class="button-link">Get your Tickets</a>
     <a href="../sponsor/"><button>Become a Sponsor</button></a>
     <a href="../conduct/"><button>Code of Conduct</button></a>
   </div>
