@@ -5,8 +5,8 @@ event_twitter: "Devopsdays" # Change this to the twitter handle for your event s
 description: "Devopsdays is coming to City!" # Edit this to suit your preferences
 event_logo: "cluj-napoca.png" #
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
-sharing_image: "TBD"
-masthead_background: "TBD"
+sharing_image: ""
+masthead_background: ""
 # All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2019-01-04T00:00:00+02:00
 #   variable: 2019-01-05T23:59:59+02:00
