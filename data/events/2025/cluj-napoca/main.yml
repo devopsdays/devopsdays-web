@@ -2,11 +2,11 @@ name: "2025-cluj-napoca" # The name of the event. Four digit year with the city 
 year: "2025" # The year of the event. Make sure it is in quotes.
 city: "Cluj-Napoca" # The displayed city name of the event. Capitalize it.
 event_twitter: "Devopsdays" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "Devopsdays is coming to City!" # Edit this to suit your preferences
+description: "Devopsdays is coming to Cluj-Napoca!" # Edit this to suit your preferences
 event_logo: "cluj-napoca.png" #
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
-sharing_image: "TBD"
-masthead_background: "TBD"
+sharing_image: ""
+masthead_background: ""
 # All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2019-01-04T00:00:00+02:00
 #   variable: 2019-01-05T23:59:59+02:00
@@ -34,7 +34,7 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 location: "Cluj-Napoca" # Defaults to city, but you can make it the venue name.
 #
-location_address: "TBD" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
+location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
 
 # Optional - Social badges
 # These can be used in the body of any page via matching shortcodes. See sample:  https://devopsdays.org/events/2025-denver/welcome/
@@ -50,11 +50,11 @@ location_address: "TBD" #Optional - use the street address of your venue. This w
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
 #  - name: propose
-  - name: location
+#  - name: location
 #  - name: registration
-  - name: program
-  - name: speakers
-  - name: sponsor
+#  - name: program
+#  - name: speakers
+#  - name: sponsor
   - name: contact
   - name: conduct
 # - name: example

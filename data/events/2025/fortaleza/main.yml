@@ -15,8 +15,8 @@ startdate:  2025-10-11T08:00:00-03:00  # The start date of your event. Leave bla
 enddate:  2025-10-11T17:00:00-03:00  # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2025-06-02T10:00:00-03:00 # start accepting talk proposals.
-cfp_date_end: 2025-06-26T07:00:00-03:00 # close your call for proposals.
+cfp_date_start: 2025-06-02T10:00:08-03:00 # start accepting talk proposals.
+cfp_date_end: 2025-06-26T07:00:10-03:00 # close your call for proposals.
 cfp_date_announce: 2025-07-04T08:00:00-03:00 # inform proposers of status
 
 cfp_open: "true"
@@ -41,7 +41,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   # - name: registration
   #   url: https://devopsdaysce.eventize.com.br
   # - name: program
-  - name: speakers
+  # - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct-pt-br
@@ -93,15 +93,15 @@ team_members: # Name is the only required field for team members.
     website: ""
     image: "andrerevoredo.jpeg"
   
-  - name: "Cecília Câmara"
-    twitter: ""
-    employer: "Grupo JCPM"
-    bio: "Computer Science student at the Federal University of Ceará. I'm a new data professional who loves Python and is very curious. This allowed me to have vast experience of projects in the technology area in the areas of Data Science, Dev Back-End, Testing (V&V) and games. After these experiences, I found myself in the Data Science area and I don't intend to leave anymore."
-    github: "CeciliaHelen"
+  - name: "Matheus Lima"
+    twitter: "https://x.com/MatheusBocas"
+    employer: "M7 Investimentos"
+    bio: "DevOps Engineer PL"
+    github: "https://github.com/mattslima"
     facebook: ""
-    linkedin: "https://www.linkedin.com/in/cec%C3%ADlia-c%C3%A2mara-400303181/"
+    linkedin: "https://www.linkedin.com/in/limasmatheus"
     website: ""
-    image: "cecilia.camara.jpeg"
+    image: "matheus-lima.png"
   
   - name: "Giovanna Azzolini"
     twitter: ""
