@@ -80,6 +80,11 @@ team_members: # Name is the only required field for team members.
     employer: "General Engineering & Management Solutions"
     linkedin: "https://www.linkedin.com/in/ovicostea"
     bio: "Senior DevOps Engineer with a strong focus on scaling products and optimizing their entire lifecycle. Works as a contractor and freelancer, bringing practical experience in DevOps and infrastructure to deliver efficient, results-driven solutions. Combines software engineering skills with a no-nonsense approach to improving system reliability and performance."
+  - name: "Sorin Stan"
+    image: "sorin.jpg"
+    employer: "Școala Informală de IT"
+    linkedin: "https://www.linkedin.com/in/sorin-stan-mihai"
+    bio: "Sorin Stan is the Co-founder and Managing Partner of the Informal School of IT, the first and largest non-formal education platform in the tech field in Romania. With a background in engineering and an MBA, he has dedicated himself to alternative IT education, showing students that it is truly possible to learn IT, regardless of their previous experience. He has led the school’s expansion into the largest IT hubs in Romania and has contributed to the training of over 15,000 IT enthusiasts who have graduated from the Informal School of IT."
 
 
 organizer_email: "cluj@devopsdays.org" # Put your organizer email address here
@@ -96,6 +101,8 @@ sponsors:
 #    level: gold
   - id: swiss-web-academy
     level: gold
+  - id: scoala-informala
+    level: gold
 #  - id: sibiu-visma
 #    level: gold
   - id: skylite-tek
@@ -106,7 +113,10 @@ sponsors:
   #    level: gold
   - id: general-engineering--management-solutions
     level: gold
-
+  - id: kubecareers
+    level: media
+  - id: kubeevents
+    level: media
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
