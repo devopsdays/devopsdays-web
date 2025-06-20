@@ -1,6 +1,6 @@
 +++
 Title = "Kestral Gaian"
-# Twitter = "@AdrienneTacke"
+# Twitter = ""
 LinkedIn = "https://www.linkedin.com/in/kestrai/"
 pronouns = "they/them"
 image = "kestral-gaian.jpeg"

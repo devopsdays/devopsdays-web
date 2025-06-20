@@ -1,6 +1,6 @@
 +++
 Title = "Heather Thacker"
-Twitter = "@AdrienneTacke"
+# Twitter = ""
 LinkedIn = "https://www.linkedin.com/in/hhthacker/"
 pronouns = "she/her"
 image = "heather-thacker.jpeg"

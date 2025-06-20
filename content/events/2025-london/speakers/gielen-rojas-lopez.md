@@ -1,8 +1,8 @@
 +++
 Title = "Gielen Rojas-López"
-# Twitter = "@AdrienneTacke"
+# Twitter = ""
 LinkedIn = "https://www.linkedin.com/in/gielen/"
-# pronouns = "she/her"
+# pronouns = ""
 image = "gielen-rojas-lopez.jpeg"
 type = "speaker"
 linktitle = "gielen-rojas-lopez"

@@ -1,6 +1,6 @@
 +++
 Title = "Torsten Hopf"
-# Twitter = "@AdrienneTacke"
+# Twitter = ""
 LinkedIn = "https://www.linkedin.com/in/torsten-hopf/"
 pronouns = "he/him"
 image = "torsten-hopf.jpeg"

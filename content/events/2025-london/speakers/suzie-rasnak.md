@@ -1,6 +1,6 @@
 +++
 Title = "Suzie Rasnak"
-# Twitter = "@AdrienneTacke"
+# Twitter = ""
 LinkedIn = "https://www.linkedin.com/in/suzierasnak/"
 pronouns = "she/her"
 image = "suzie-rasnak.jpeg"

@@ -1,8 +1,8 @@
 +++
 Title = "Max Allan"
-# Twitter = "@AdrienneTacke"
+# Twitter = ""
 LinkedIn = "https://www.linkedin.com/in/j-max-allan/"
-# pronouns = "she/her"
+# pronouns = ""
 image = "max-allan.jpeg"
 type = "speaker"
 linktitle = "max-allan"

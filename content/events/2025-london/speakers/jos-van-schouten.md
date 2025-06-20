@@ -1,8 +1,8 @@
 +++
 Title = "Jos van Schouten"
-# Bsky = "@josvanschouten.bsky.social"
+bluesky = "https://bsky.app/profile/josvanschouten.bsky.social"
 LinkedIn = "https://www.linkedin.com/in/josvanschouten/"
-# pronouns = "she/her"
+# pronouns = ""
 image = "jos-van-schouten.jpeg"
 type = "speaker"
 linktitle = "jos-van-schouten"

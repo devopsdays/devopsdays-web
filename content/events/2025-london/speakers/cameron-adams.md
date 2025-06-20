@@ -1,6 +1,5 @@
 +++
 Title = "Cameron Adams"
-# Twitter = "@AdrienneTacke"
 LinkedIn = "https://www.linkedin.com/in/cameron-/"
 pronouns = "he/him"
 # image = "cameron-adams.jpeg"

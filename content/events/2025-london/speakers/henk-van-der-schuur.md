@@ -1,7 +1,7 @@
 +++
 Title = "Henk van der Schuur"
 LinkedIn = "https://www.linkedin.com/in/hwschuur/"
-# pronouns = "she/her"
+# pronouns = ""
 image = "henk-van-der-schuur.jpeg"
 type = "speaker"
 linktitle = "henk-van-der-schuur"

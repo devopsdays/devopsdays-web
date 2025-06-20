@@ -1,8 +1,8 @@
 +++
 Title = "Justin Cormack"
-# Twitter = "@AdrienneTacke"
+# Twitter = ""
 LinkedIn = "https://www.linkedin.com/in/justincormack/"
-# pronouns = "she/her"
+# pronouns = ""
 image = "justin-cormack.jpeg"
 type = "speaker"
 linktitle = "justin-cormack"
