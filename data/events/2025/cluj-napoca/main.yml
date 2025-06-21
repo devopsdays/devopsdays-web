@@ -55,7 +55,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: registration
  # - name: program
  # - name: speakers
- # - name: sponsor
+  - name: sponsor
   - name: contact
  # - name: conduct
 # - name: example
@@ -93,11 +93,16 @@ organizer_email: "cluj-napoca@devopsdays.org" # Put your organizer email address
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-#  - id: samplesponsorname
-#    level: gold
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-#  - id: arresteddevops
-#    level: community
+  - id: swiss-web-academy
+    level: gold
+  - id: skylite-tek
+    level: gold
+  - id: general-engineering--management-solutions
+    level: gold
+  - id: kubecareers
+    level: media
+  - id: kubeevents
+    level: media
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -114,5 +119,7 @@ sponsor_levels:
     max: 0 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
+  - id: media
+    label: Media
   - id: community
     label: Community

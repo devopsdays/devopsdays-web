@@ -4,7 +4,7 @@ Type = "event"
 Description = "Sponsor devopsdays cluj-napoca 2025"
 +++
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at  cluj-napoca@devopsdays.org.
+We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at:  cluj-napoca@devopsdays.org.
 
 <hr>
 
