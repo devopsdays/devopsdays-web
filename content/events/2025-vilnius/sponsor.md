@@ -48,7 +48,7 @@ We greatly value sponsors for this open event.  If you are interested in sponsor
     <tr><td>Include marketing swag for attendees</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td></tr>
     <tr><td>Social media shout-out</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td></tr>
     <tr><td>Shout-out from MC's at kickoff</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td></tr>
-    <tr><td>Your logo on banner at registration/welcome area</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td></tr>
+    <tr><td>Your logo on banner at registration/welcome area</td><td>✅</td><td>✅</td><td>✅</td><td>-</td><td>✅</td></tr>
     <tr><td>Table in sponsor area</td><td>✅</td><td>✅</td><td>✅</td><td>–</td><td>-</td></tr>
     <tr><td>Discount for tickets (10% for up to 15 additional)</td><td>✅</td><td>✅</td><td>✅</td><td>–</td><td>–</td></tr>
     <tr><td>Your logo in emails to participants</td><td>✅</td><td>✅</td><td>✅</td><td>–</td><td>–</td></tr>
