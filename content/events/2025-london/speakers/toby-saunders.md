@@ -1,6 +1,6 @@
 +++
 Title = "Toby Saunders"
-image = "toby-saunders.jpeg"
+image = "toby-saunders.jpg"
 LinkedIn = "https://www.linkedin.com/in/tobias-saunders/"
 pronouns = "he/him"
 type = "speaker"

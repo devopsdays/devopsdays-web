@@ -3,7 +3,7 @@ Title = "Torsten Hopf"
 # Twitter = ""
 LinkedIn = "https://www.linkedin.com/in/torsten-hopf/"
 pronouns = "he/him"
-image = "torsten-hopf.jpeg"
+image = "torsten-hopf.jpg"
 type = "speaker"
 linktitle = "torsten-hopf"
 

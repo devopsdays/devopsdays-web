@@ -2,7 +2,7 @@
 Title = "Vinuja Khatode"
 LinkedIn = "https://www.linkedin.com/in/vinujakhatode/"
 pronouns = "she/her"
-image = "vinuja-khatode.jpeg"
+# image = "vinuja-khatode.jpg"
 type = "speaker"
 linktitle = "vinuja-khatode"
 

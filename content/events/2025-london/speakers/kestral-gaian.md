@@ -3,7 +3,7 @@ Title = "Kestral Gaian"
 # Twitter = ""
 LinkedIn = "https://www.linkedin.com/in/kestrai/"
 pronouns = "they/them"
-image = "kestral-gaian.jpeg"
+image = "kestral-gaian.jpg"
 type = "speaker"
 linktitle = "kestral-gaian"
 

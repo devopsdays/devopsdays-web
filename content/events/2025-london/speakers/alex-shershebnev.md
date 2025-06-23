@@ -1,7 +1,7 @@
 +++
 Title = "Alex Shershebnev"
 LinkedIn = "https://linkedin.com/in/shershebnev/"
-image = "alex-shershebnev.jpeg"
+image = "alex-shershebnev.jpg"
 type = "speaker"
 linktitle = "alex-shershebnev"
 

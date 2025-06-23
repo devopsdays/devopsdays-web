@@ -3,7 +3,7 @@ Title = "Mandi Walls"
 # Twitter = ""
 LinkedIn = "https://www.linkedin.com/in/mandiwalls/"
 pronouns = "she/her"
-image = "mandi-walls.jpeg"
+image = "mandi-walls.jpg"
 type = "speaker"
 linktitle = "mandi-walls"
 

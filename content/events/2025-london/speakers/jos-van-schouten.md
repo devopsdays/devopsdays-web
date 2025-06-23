@@ -3,7 +3,7 @@ Title = "Jos van Schouten"
 bluesky = "https://bsky.app/profile/josvanschouten.bsky.social"
 LinkedIn = "https://www.linkedin.com/in/josvanschouten/"
 # pronouns = ""
-image = "jos-van-schouten.jpeg"
+image = "jos-van-schouten.jpg"
 type = "speaker"
 linktitle = "jos-van-schouten"
 

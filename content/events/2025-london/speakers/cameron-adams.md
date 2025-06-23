@@ -2,7 +2,7 @@
 Title = "Cameron Adams"
 LinkedIn = "https://www.linkedin.com/in/cameron-/"
 pronouns = "he/him"
-# image = "cameron-adams.jpeg"
+# image = "cameron-adams.jpg"
 type = "speaker"
 linktitle = "cameron-adams"
 

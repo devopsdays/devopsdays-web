@@ -1,7 +1,7 @@
 +++
 Title = "Agata Skorupka"
 LinkedIn = "https://www.linkedin.com/in/agataskorupka/"
-image = "agata-skorupka.jpeg"
+image = "agata-skorupka.jpg"
 type = "speaker"
 linktitle = "agata-skorupka"
 

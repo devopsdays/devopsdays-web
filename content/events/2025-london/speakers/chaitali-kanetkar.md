@@ -2,7 +2,7 @@
 Title = "Chaitali Kanetkar"
 LinkedIn = "https://www.linkedin.com/in/chaitali-m-kanetkar/"
 # pronouns = ""
-image = "chaitali-kanetkar.jpeg"
+image = "chaitali-kanetkar.jpg"
 type = "speaker"
 linktitle = "chaitali-kanetkar"
 

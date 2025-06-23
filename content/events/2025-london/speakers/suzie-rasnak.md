@@ -3,7 +3,7 @@ Title = "Suzie Rasnak"
 # Twitter = ""
 LinkedIn = "https://www.linkedin.com/in/suzierasnak/"
 pronouns = "she/her"
-image = "suzie-rasnak.jpeg"
+image = "suzie-rasnak.jpg"
 type = "speaker"
 linktitle = "suzie-rasnak"
 

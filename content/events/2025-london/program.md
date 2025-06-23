@@ -15,7 +15,6 @@ Type = "program"
     <hr />
   </div>
 </div>
-<div>
 <b>Color Keys:</b>
 <div class="col-lg-3 col-md-3 program-element program-talk">Talk</div>
 <div class="col-lg-3 col-md-3 program-element program-ignite">Ignite</div>

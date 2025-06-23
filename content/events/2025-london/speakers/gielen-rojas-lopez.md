@@ -3,7 +3,7 @@ Title = "Gielen Rojas-López"
 # Twitter = ""
 LinkedIn = "https://www.linkedin.com/in/gielen/"
 # pronouns = ""
-image = "gielen-rojas-lopez.jpeg"
+# image = "gielen-rojas-lopez.jpg"
 type = "speaker"
 linktitle = "gielen-rojas-lopez"
 

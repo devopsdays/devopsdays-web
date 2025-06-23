@@ -2,7 +2,7 @@
 Title = "Ashley Smith"
 LinkedIn = "https://www.linkedin.com/in/ashley-smith-tests/"
 pronouns = "she/her"
-image = "ashley-smith.jpeg"
+image = "ashley-smith.jpg"
 type = "speaker"
 linktitle = "ashley-smith"
 

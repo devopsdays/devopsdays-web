@@ -2,7 +2,7 @@
 Title = "Omotayo Adeleke"
 LinkedIn = "https://www.linkedin.com/in/omotayo-adeleke-6509b8b7/"
 pronouns = "he/him"
-image = "omotayo-adeleke.jpeg"
+image = "omotayo-adeleke.jpg"
 type = "speaker"
 linktitle = "omotayo-adeleke"
 

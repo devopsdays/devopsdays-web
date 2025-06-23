@@ -3,7 +3,7 @@ Title = "Justin Cormack"
 # Twitter = ""
 LinkedIn = "https://www.linkedin.com/in/justincormack/"
 # pronouns = ""
-image = "justin-cormack.jpeg"
+image = "justin-cormack.jpg"
 type = "speaker"
 linktitle = "justin-cormack"
 
