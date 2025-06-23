@@ -49,14 +49,14 @@ We greatly value sponsors for this open event.  If you are interested in sponsor
     <tr><td>Social media shout-out</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td></tr>
     <tr><td>Shout-out from MC's at kickoff</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td></tr>
     <tr><td>Your logo on banner at registration/welcome area</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td></tr>
-    <tr><td>Table in sponsor area</td><td>✅</td><td>✅</td><td>✅</td><td>–</td><td>✅</td></tr>
+    <tr><td>Table in sponsor area</td><td>✅</td><td>✅</td><td>✅</td><td>–</td><td>-</td></tr>
     <tr><td>Discount for tickets (10% for up to 15 additional)</td><td>✅</td><td>✅</td><td>✅</td><td>–</td><td>–</td></tr>
     <tr><td>Your logo in emails to participants</td><td>✅</td><td>✅</td><td>✅</td><td>–</td><td>–</td></tr>
-    <tr><td>Place for booth in sponsor area</td><td>✅</td><td>✅</td><td>–</td><td>–</td><td>–</td></tr>
-    <tr><td>Large booth in sponsor area</td><td>✅</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
-    <tr><td>Discount for tickets (20% for up to 15 additional)</td><td>✅</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
-    <tr><td>Company tag in social media posts</td><td>✅</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
-    <tr><td>Dedicated logo slide during breaks</td><td>✅</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+    <tr><td>Place for booth in sponsor area</td><td>✅</td><td>✅</td><td>✅</td><td>–</td><td>–</td></tr>
+    <tr><td>Large booth in sponsor area</td><td>✅</td><td>✅</td><td>–</td><td>–</td><td>–</td></tr>
+    <tr><td>Discount for tickets (20% for up to 15 additional)</td><td>✅</td><td>✅</td><td>–</td><td>–</td><td>–</td></tr>
+    <tr><td>Company tag in social media posts</td><td>✅</td><td>✅</td><td>–</td><td>–</td><td>–</td></tr>
+    <tr><td>Dedicated logo slide during breaks</td><td>✅</td><td>✅</td><td>–</td><td>–</td><td>–</td></tr>
     <tr><td>Your logo on the badge</td><td>✅</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
     <tr><td>Run a game or lottery on stage</td><td>✅</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
     <tr><td>One-minute pitch between talks</td><td>✅</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
