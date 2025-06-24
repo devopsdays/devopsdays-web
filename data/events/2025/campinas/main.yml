@@ -102,6 +102,10 @@ organizer_email: "campinas@devopsdays.org"
 sponsors:
   - id: toolbox
     level: bronze
+  - id: lhc
+    level: comunidade
+  - id: fiap
+    level: comunidade
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 

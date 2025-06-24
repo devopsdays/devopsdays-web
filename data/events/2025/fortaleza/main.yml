@@ -133,16 +133,6 @@ team_members: # Name is the only required field for team members.
     website: ""
     image: "nathalia-lira.jpg"
 
-  - name: "Pedro Azevedo"
-    twitter: ""
-    employer: "Software Engineer"
-    bio: "Sysadmin for over a decade! I have huge experience on open source solutions, working for many amazing companies. I've been working with public cloud providers over those last years, helping companies to keep their business always on. I’m a python fan, DevOps Culture afictioned, automation fanatic. I seek for contribute and evolve our local community, difunding kwownledge and sharing whatever I learn on the daily challenges. My main goal is to be the best husband, father, friend I can be."
-    github: "phwebcloud"
-    facebook: ""
-    linkedin: "https://www.linkedin.com/in/phlimaazevedo/"
-    website: ""
-    image: "pedro-azevedo.png"
-
   - name: "Victoria Farias"
     twitter: ""
     employer: "FortBrasil"

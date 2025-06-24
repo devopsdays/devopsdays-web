@@ -6,13 +6,32 @@ Description = "Sponsor devopsdays Wollongong 2025"
 
 Become a sponsor now by contacting the team: {{< email_organizers >}}
 
-DevOpsDays are community-focused, self-organising conferences for devops practitioners that depend on sponsor support. Because of the nature of the event, we do not have a large noisy vendor hall or vendor speaking slots. We do not offer full speaker slots in return for sponsorship, sponsors are welcome to submit talks however. Platinum and Gold sponsors receive a table they can use for technical and promotional material for interested people to come visit during breaks.
+devopsdays is a globally respected, community-driven conference series that brings together practitioners from across the DevOps, cloud, software,
+and platform engineering space. Since its inception in Ghent in 2009, devopsdays has held over 500 events in more than 130 cities worldwide.
+Australia has proudly hosted events in Sydney, Melbourne, and Newcastle - and in 2025, we’re expanding to the vibrant tech community in Wollongong.
 
-Attendees, including sponsors, are welcome to propose any subject they want during open spaces, but this is not 'that kind of conference' and marketing may work against you when trying to make a good impression on the attendees. The most effective interaction is to send software engineers, solutions engineers, and developer advocates, to connect with the community at DevOpsDays on their own terms.
+## Why sponsor devopsdays?
+
+Sponsorship of devopsdays Wollongong provides a udnique opportunity to connect with a highly engaged audience of 150–200 professionals. Attendees
+include engineers, developers, SREs, architects, and technology leaders who are shaping the future of software delivery and infrastructure.
+
+Your sponsorship offers:
+* High-visibility brand exposure in a targeted, technical environment
+* Direct engagement with decision-makers and hands-on practitioners
+* Support for a diverse and inclusive tech community
+* A way to give back to the ecosystem that supports your business
+
+This is a not-for-profit event, run by local volunteers. Your contribution helps cover the cost of the venue, catering, AV, travel support, and low-cost tickets - making the event accessible to a broad and diverse audience.
+
+## What we ask of you
+
+devopsdays are community-focused, self-organising conferences for devops practitioners that depend on sponsor support. Because of the nature of the event, we do not have a large noisy vendor hall or vendor speaking slots. We do not offer full speaker slots in return for sponsorship, sponsors are welcome to submit talks however. Platinum and Gold sponsors receive a table they can use for technical and promotional material for interested people to come visit during breaks.
+
+Attendees, including sponsors, are welcome to propose any subject they want during open spaces, but this is not 'that kind of conference' and marketing may work against you when trying to make a good impression on the attendees. The most effective interaction is to send software engineers, solutions engineers, and developer advocates, to connect with the community at devopsdays on their own terms.
 
 We do not ever sell or provide contact details of attendees - this is non negotiable.
 
-Respect and empathy are core DevOps values. DevOpsDays is dedicated to providing an environment where everyone in the DevOps community can learn and share in respectful, considerate collaboration.
+Respect and empathy are core DevOps values. devopsdays is dedicated to providing an environment where everyone in the DevOps community can learn and share in respectful, considerate collaboration.
 
 The event operates under a [code of conduct available here](https://devopsdays.org/events/2025-wollongong/conduct)
 
@@ -23,7 +42,7 @@ The following packages are available:
 | Package                                                                   | Platinum |   Gold   |  Silver  |  Bronze  |  Startup |
 | ------------------------------------------------------------------------- | :------: | :------: | :------: | :------: | :------: |
 | Included conference tickets                                               |     4    |     3    |     3    |     2    |     2    |
-| Logo on DevOpsDays website                                                |     ✔    |     ✔    |     ✔    |     ✔    |     ✔    |
+| Logo on devopsdays website                                                |     ✔    |     ✔    |     ✔    |     ✔    |     ✔    |
 | Mention all email communications                                          |     ✔    |     ✔    |     ✔    |     ✔    |          |
 | Thank you at opening/closing of the conference                            |     ✔    |     ✔    |     ✔    |          |          |
 | Prize draw slot at the end of the conference                              |     ✔    |     ✔    |     ✔    |          |          |
@@ -48,7 +67,7 @@ Wollongong is a city of innovation. To encourage this we are offering a discount
 
 - Cover the cost of Lanyards and T-Shirts
 - Lanyards with your logo (required 2 weeks before the event)
-- Contribute towards a DevOpsDays Wollongong T-Shirt for all attendees.
+- Contribute towards a devopsdays Wollongong T-Shirt for all attendees.
 
 ### Barista - $2000 (One available)
 
@@ -70,7 +89,7 @@ Inclusions:
 
 ## Sponsor Events
 
-Sponsors are welcome to engage with Novetel to arrange further events at the venue outside of the DevOpsDays conference. We do request that the overarching principles of inclusivity, community, empathy, and collaboration are observed here.
+Sponsors are welcome to engage with Novetel to arrange further events at the venue outside of the devopsdays conference. We do request that the overarching principles of inclusivity, community, empathy, and collaboration are observed here.
 
 ## Community Ticket Contribution
 
