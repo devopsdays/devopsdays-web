@@ -54,13 +54,20 @@ event_social_linkedin: "https://www.linkedin.com/company/devopsdays-wollongong"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
+    url: "https://www.papercall.io/devopsdays-wollongong"
+    icon: fa-comments
   # - name: location
   - name: registration
+    url: "https://ti.to/devopsaustralia/devopsdays-wollongong-2025"
+    icon: fa-ticket
   # - name: program
   # - name: speakers
   - name: sponsor
+    icon: fa-heart
   - name: contact
+    icon: fa-envelope
   - name: conduct
+    icon: fa-face-smile-beam
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
