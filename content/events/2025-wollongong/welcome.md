@@ -78,11 +78,6 @@ Description = "devopsdays Wollongong 2025"
     </div>
   </div>
 </div>
-<div class="col-md-6 push-md-4" id="right-col">
-  <div style="text-align:center">
-    {{< event_logo >}}
-  </div>
-</div>
 
 <!-- Uncomment if you added your city twitter name -->
 <!--
