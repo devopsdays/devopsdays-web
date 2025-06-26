@@ -44,8 +44,14 @@
 $(document).ready(function () {
   //YOUR JQUERY CODE
 
+  var shares = ["email"];
+  // Only show email for 2025-halifax, otherwise show all
+  if (!(window.location.pathname.includes("/2025-halifax/"))) {
+    shares = ["email", {share: "twitter", via: '{{ $.Scratch.Get "twitter_handle" }}'}, "facebook", "linkedin"];
+  }
+
   $("#share").jsSocials({
-      shares: ["email", {share: "twitter", via: '{{ $.Scratch.Get "twitter_handle" }}'}, "facebook", "linkedin"],
+      shares: shares,
       text: '{{ ($.Scratch.Get "sharing_title") }}',
       showLabel: false,
       showCount: false
