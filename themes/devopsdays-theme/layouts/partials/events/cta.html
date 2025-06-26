@@ -61,12 +61,7 @@
   {{- if $e.organizer_email -}}
     {{- if ne $e.organizer_email "" -}}
       <div class = "col-auto  offset-1 offset-md-0 welcome-page-cta">
-        <a href="mailto:{{ $e.organizer_email }}?subject=DevOpsDays {{ $e.city }} {{ $e.year }}" class="btn jssocials-share-link event-cta-button" role="button" aria-pressed="true">Email Us</a>
-        {{ if and (eq $e.year "2025") (eq (lower $e.city) "halifax") }}
-        <a href="https://www.linkedin.com/company/devopsdays-halifax" target="_blank" rel="noopener" class="btn jssocials-share-link event-cta-button" aria-pressed="true">
-          <i class="fa-brands fa-linkedin"></i> LinkedIn
-        </a>
-        {{ end }}
+        <a href="mailto:{{ $e.organizer_email }}?subject=DevOpsDays {{ $e.city }} {{ $e.year }}" class="btn jssocials-share-link event-cta-button" role="button" aria-pressed="true">Contact</a>
       </div>
     {{- end -}}
   {{- end -}}
@@ -115,3 +110,10 @@
   </style>
 
 {{- end -}}
+
+<div class = "row">
+  <div class = "col-md-12 offset-1 offset-md-0  welcome-page-cta">
+    <div id="share"></div>
+  </div>
+
+</div>
