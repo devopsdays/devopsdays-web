@@ -122,12 +122,17 @@ sponsors:
    - id: fluidattacks
      level: gold
      url: https://www.fluidattacks.com/
+   - id: nttdata
+     level: gold
+     url: https://pe.nttdata.com/
    - id: linearb
      level: silver
      url: https://linearb.io/
    - id: idm
      level: bronze
      url: https://idmtechnology.com.pe/
+   - id: om-tech
+     level: bronze
    - id: devopsinstitute
      level: community
      url: https://www.devopsinstitute.com/
