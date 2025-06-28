@@ -80,7 +80,7 @@ team_members: # Name is the only required field for team members.
     image: "ovi.jpg"
     employer: "General Engineering & Management Solutions"
     linkedin: "https://www.linkedin.com/in/ovicostea"
-    bio: "Senior DevOps Engineer with a strong focus on scaling products and optimizing their entire lifecycle. Works as a contractor and freelancer, bringing practical experience in DevOps and infrastructure to deliver efficient, results-driven solutions. Combines software engineering skills with a no-nonsense approach to improving system reliability and performance."
+    bio: "DevOps Engineer with a strong focus on scaling products and optimizing their entire lifecycle. Works as a contractor and freelancer, bringing practical experience in DevOps and infrastructure to deliver efficient, results-driven solutions. Combines software engineering skills with a no-nonsense approach to improving system reliability and performance."
   - name: "Sorin Stan"
     image: "sorin.jpg"
     employer: "Școala Informală de IT"
@@ -98,6 +98,8 @@ sponsors:
   - id: skylite-tek
     level: gold
   - id: general-engineering--management-solutions
+    level: gold
+  - id: scoalainformala
     level: gold
   - id: kubecareers
     level: media
