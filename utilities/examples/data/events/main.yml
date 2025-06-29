@@ -40,7 +40,7 @@ event_social_linkedin: "https://linkedin.com/company/devopsdayscityabbr" # Chang
 event_social_slack: "https://join.slack.com/t/devopsdayscityabbr/custom_shared_invite_url" # Change this to your slack invite link.
 event_social_listserv: "https://lists.devopsdays.org/subscription?custom_listserv_invite_url" # Change this to your mailing list subscription form url.
 event_social_twitter: "devopsdayscityabbr" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-event_social_mastadon: "https://mastodon.social/@devopsdayscityabbr" # Change this to url to your mastadon page
+event_social_mastodon: "https://mastodon.social/@devopsdayscityabbr" # Change this to url to your mastodon page
 event_social_bsky: "https://bsky.app/profile/devopsdayscityabbr.bsky.social" # Change this to url to your bluesky page
 event_social_youtube: "devopsdayscityabbr" # Change this to the youtube channel handle for your event such as devopsdaysrox
 # legacy
