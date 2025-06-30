@@ -143,8 +143,8 @@ sponsors:
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 sponsor_levels:
-  - id: Diamond
-    label: diamond
+  - id: diamond
+    label: Diamond
   - id: gold
     label: Gold
   - id: silver
