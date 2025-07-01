@@ -38,8 +38,10 @@ location_address: "Jr. Alonso de Molina 1652, Santiago de Surco 15023" #Optional
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
   - name: location
- # - name: registration
- # - name: program
+  - name: weblima
+    url: https://devopsdays.pe/
+  - name: registration
+    url: https://devopsdays.pe/entradas
   - name: speakers
   - name: sponsor
   - name: contact
@@ -65,10 +67,10 @@ team_members: # Name is the only required field for team members.
     github: "lvega-root"
     image: "lenard-vega.jpg"
   - name: "Mario Inga"
-    employer: "Equisoft"
+    employer: "Emusa"
     github: "mario21ic"
     linkedin: "https://www.linkedin.com/in/mario21ic"
-    bio: "Software Engineer"
+    bio: "Head of TI Infrastructure"
     website: "https://mario21ic.com"
     image: "mario-inga.jpg"
   - name: "Doris Manrique"
@@ -102,11 +104,49 @@ organizer_email: "lima@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  # - id: samplesponsorname
-  #  level: gold
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  # - id: arresteddevops
-  #  level: community
+   - id: tsoft
+     level: gold
+     url: https://www.tsoftglobal.com
+   - id: amber
+     level: gold
+     url: https://amber.pe/
+   - id: soaint
+     level: gold
+     url: https://www.soaint.com
+   - id: cleverit
+     level: gold
+     url: https://www.cleveritgroup.com/es
+   - id: kyndryl
+     level: gold
+     url: https://www.kyndryl.com/es/es
+   - id: fluidattacks
+     level: gold
+     url: https://www.fluidattacks.com/
+   - id: nttdata
+     level: gold
+     url: https://pe.nttdata.com/
+   - id: linearb
+     level: silver
+     url: https://linearb.io/
+   - id: idm
+     level: bronze
+     url: https://idmtechnology.com.pe/
+   - id: om-tech
+     level: bronze
+   - id: devopsinstitute
+     level: community
+     url: https://www.devopsinstitute.com/
+   - id: hackemate
+     level: community
+     url: https://youtube.com/@hackemate
+   - id: learnk8s
+     level: community
+     url: https://learnk8s.io/
+   - id: datascienceresearchperu
+     level: community
+     url: https://www.datascience.pe/
+   
+  
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

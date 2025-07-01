@@ -43,7 +43,7 @@ Para valorizar a presença das instituições que apoiam o evento, criamos grupo
       <td>6</td>
       <td>4</td>
       <td>3</td>
-      <td>3</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>Logo nos cordões de crachá</td>
@@ -123,10 +123,10 @@ Para valorizar a presença das instituições que apoiam o evento, criamos grupo
       <td>7</td>
     </tr>
       <td><b>Contribuição</b></td>
-      <td><b>R$ 3.000,00</b></td>
-      <td><b>R$ 5.000,00</b></td>
-      <td><b>R$ 7.000,00</b></td>
-      <td><b>R$ 10.000,00</b></td>
+      <td><b>R$ 3.500,00</b></td>
+      <td><b>R$ 5.600,00</b></td>
+      <td><b>R$ 7.750,00</b></td>
+      <td><b>R$ 11.000,00</b></td>
     </tr>
   </table>
 </div>

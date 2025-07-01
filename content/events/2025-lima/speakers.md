@@ -27,6 +27,12 @@ Description = "Conoce a nuestros speakers del DevOpsDays Lima 2025"
             "submissions": ["https://www.linkedin.com/in/marchornbeek/"]
         },
         {
+            "name": "Carlos Rojas",
+            "avatar": "/img/lima-carlos.png",
+            "biography": "Carlos Rojas es un ejecutivo global en tecnología, reconocido por liderar transformaciones con impacto en empresas Fortune 100. Especialista en ingeniería de plataformas, confiabilidad e IA Generativa, ha impulsado avances pioneros en infraestructura cloud y automatización en entornos altamente regulados. Como VP de Ingeniería de Software en Capital One, lideró una organización de clase mundial en resiliencia tecnológica. Anteriormente, en AWS, encabezó la expansión global de infraestructura mediante automatización estratégica. Como emprendedor, diseñó un sistema de gestión clínica usado globalmente en investigaciones de nuevos medicamentos, incluyendo ensayos sobre COVID-19. Su visión combina excelencia operativa con innovación a escala.",
+            "submissions": ["https://www.linkedin.com/in/carojas77/"]
+        },
+        {
             "name": "André Rezende",
             "avatar": "/img/lima-andre.jpeg",
             "biography": "André es Chief Technology Officer (CTO) del grupo Credicorp y ex Managing Director de Accenture. Con más de 30 años de experiencia en tecnología para el sector financiero América Latina, India y Europa; André ha liderado transformaciones tecnológicas en banca, mercado capitales, microfinanzas, seguros, fondos de pensiones y fintech.",
@@ -47,8 +53,32 @@ Description = "Conoce a nuestros speakers del DevOpsDays Lima 2025"
         {
             "name": "Mabel Gerónimo",
             "avatar": "/img/lima-mabel.jpg",
-            "biography": " Mabel es Strategic Solutions Engineer de GitHub Inc. Con más de 9 años transformando los procesos de desarrollo en las principales organizaciones de la región, Mabel ha revolucionado la implementación de prácticas DevSecOps y soluciones GitHub que potencian la eficiencia y seguridad del ciclo de desarrollo. Dominicana de nacimiento, Ingeniera de Sistemas con participación destacada en las competencias algorítmicas de ACM-ICPC, ahora desde Austin, Texas nos trae su visión global y experiencia incomparable en implementación de IA.",
+            "biography": "Mabel es Strategic Solutions Engineer de GitHub Inc. Con más de 9 años transformando los procesos de desarrollo en las principales organizaciones de la región, Mabel ha revolucionado la implementación de prácticas DevSecOps y soluciones GitHub que potencian la eficiencia y seguridad del ciclo de desarrollo. Dominicana de nacimiento, Ingeniera de Sistemas con participación destacada en las competencias algorítmicas de ACM-ICPC, ahora desde Austin, Texas nos trae su visión global y experiencia incomparable en implementación de IA.",
             "submissions": ["https://www.linkedin.com/in/mabel-ger%C3%B3nimo-88b11091/"]
+        },
+        {
+            "name": "Angel Nuñez",
+            "avatar": "/img/lima-angel-nunez.png",
+            "biography": "Angel es Principal Architect en McKinsey & Company, donde lidera la creación de negocios digitales y procesos de transformación a gran escala. Con una trayectoria destacada en América Latina, ha acompañado a organizaciones en banca, seguros, consumo masivo, logística, sector público y startups, rediseñando estructuras organizativas, arquitecturas resilientes y modelos operativos. Reconocido por su visión estratégica y su cercanía con líderes ejecutivos, Angel impulsa cambios que trascienden lo tecnológico para transformar la forma en que operan las empresas.",
+            "submissions": ["https://www.linkedin.com/in/angelnunezsalazar/"]
+        },
+        {
+            "name": "Edu Melendez",
+            "avatar": "/img/lima-eddumelendez.jpg",
+            "biography": "Eddú Meléndez es Staff Software Engineer en Docker Inc., Java Champion y maintainer de Testcontainers. Conocido por su fuerte compromiso con el software libre, inició su camino en el open source contribuyendo a Spring Boot en 2015. Desde entonces, ha participado activamente en múltiples proyectos del ecosistema Java y más allá. Actualmente, lidera el desarrollo de Testcontainers, impulsando su evolución y promoviendo su adopción a nivel global. Su trabajo conecta la ingeniería de alto nivel con una comunidad vibrante y en constante crecimiento.",
+            "submissions": ["https://www.linkedin.com/in/eddumelendez/"]
+        },
+        {
+            "name": "Michael Ibarra",
+            "avatar": "/img/lima-michael-ibarra.jpg",
+            "biography": "Michael Ibarra es ingeniero peruano especializado en infraestructura y sistemas resilientes, con más de una década de experiencia en tecnología empresarial en Estados Unidos. Ha trabajado en entornos altamente exigentes para compañías como Raytheon, J.Crew y Caesars Entertainment, así como en startups de alto dinamismo, combinando escalabilidad técnica con claridad operativa. Su enfoque va más allá del uptime: alinea arquitectura con valor de negocio, diseñando soluciones autorecuperables, reproducibles y altamente disponibles. Actualmente se desempeña como consultor de TI, guiando a organizaciones en la construcción de sistemas modernos, estables y con propósito.",
+            "submissions": ["https://www.linkedin.com/in/clvx/"]
+        },
+        {
+            "name": "Erika León-Ravinez",
+            "avatar": "/img/lima-erika.jpg",
+            "biography": "Erika León-Ravinez Centurión es Tribe Leader de DevSecOps y Resiliencia en el Banco de Crédito del Perú, con más de 20 años de trayectoria en tecnología y banca. MBA, Máster en Liderazgo por EADA (España) y certificada por el MIT en Transformación Digital y por la Universidad de Chicago en Inteligencia Artificial, Erika ha liderado procesos clave en desarrollo de software, seguridad, operaciones y outsourcing. En los últimos seis años, ha sido protagonista de la transformación digital del BCP mediante la adopción de DevOps, SRE e IA Generativa, alcanzando niveles sobresalientes de productividad, calidad y resiliencia. Su trabajo ha sido reconocido como caso de éxito en LATAM y EE.UU., con un impacto medido en 70 puntos de NPS.",
+            "submissions": ["https://www.linkedin.com/in/erika-le%C3%B3n-ravinez/"]
         }
     ];  
 
