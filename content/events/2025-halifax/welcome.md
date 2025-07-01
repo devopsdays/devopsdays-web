@@ -161,6 +161,20 @@ Description = "DevOpsDays Halifax 2025"
       <p>DevOpsDays Halifax attracts a diverse mix of professionals, from senior technical leaders and executives to software engineers, platform teams, site reliability engineers, security specialists, and students. Whether you're shaping DevOps strategy at an enterprise level or just starting out in the field, this event is your chance to connect, learn, and grow with the best in the industry.</p>
       <p>Set against the stunning backdrop of Halifax's waterfront, DevOpsDays Halifax also offers the opportunity to connect over fresh seafood, scenic views, and the warmth of the Atlantic Canadian tech community.</p>
       <p><strong>Early Bird Price is in effect.</strong> <a href="https://tickets.devopsdays.org/devopsdays-halifax/2025">Get your tickets </a> <strong>before July 15, 2025</strong> to receive a 15% discount on regular tickets!</p>
+      <div style="margin-top: 2em; display: flex; justify-content: center; width: 100%;">
+        <div style="position: relative; padding-bottom: 56.25%; height: 0; width: 100%; max-width: 800px; overflow: hidden; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+          <iframe 
+            src="https://www.youtube.com/embed/ndZHjj8lEpw?rel=0" 
+            frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+            allowfullscreen 
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 10px;">
+          </iframe>
+        </div>
+      </div>
+      <p style="text-align: center; font-size: 1em; color: #303030; margin-top: 0.5em;">
+        🎬 Highlights from DevOpsDays Halifax 2024
+      </p>
       <p><a href="https://www.flickr.com/photos/201499771@N04/albums/72177720320854462" style="color:#48BD86; font-weight:bold; text-decoration:underline;">DevOpsDays Halifax 2024 Photo Album</a></p>
       <p>By attending this event, you agree to the <a href="../conduct/">DevOpsDays Halifax Code of Conduct</a>.</p>
     </div>
