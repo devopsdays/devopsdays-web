@@ -114,6 +114,8 @@ sponsors:
   #Silver Sponsors
   - id: oracle
     level: silver
+  - id: stone
+    level: silver
 
   #Community
   - id: punkdodevops
