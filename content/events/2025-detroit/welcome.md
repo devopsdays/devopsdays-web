@@ -5,9 +5,9 @@ aliases = ["/events/2025-detroit/"]
 Description = "It is with heavy hearts that we announce the cancellation of our 2025 event, as well as the formal dissolution of the DevOpsDays Detroit non-profit organization."
 +++
 
-<div style="text-align:center;">
+<!-- <div style="text-align:center;">
   {{< event_logo >}}
-</div>
+</div> -->
 
 <div class="row" id="main-row">
   <div class="col-md-6 push-md-6" id="left-col">
