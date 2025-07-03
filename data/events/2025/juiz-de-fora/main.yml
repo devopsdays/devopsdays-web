@@ -12,8 +12,8 @@ masthead_background: "vista_do_centro_de_juiz_de_fora-mg.jpeg"
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2025-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: 2025-09-13T08:00:00-03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2025-09-13T18:00:00-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2025-09-27T08:00:00-03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2025-09-27T18:00:00-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 #-- cfp_date_start: 2025-03-01T09:00:00-03:00 # start accepting talk proposals.
@@ -23,16 +23,16 @@ enddate: 2025-09-13T18:00:00-03:00 # The end date of your event. Leave blank if 
 # cfp_open: "true"
 # cfp_link: "https://www.papercall.io/devopsdaysjuizdefora2025"
 
-registration_date_start: 2025-04-05T00:00:00-03:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: 2025-07-05T08:00:00-03:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start: 2025-07-07T00:00:00-03:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2025-09-27T08:00:00-03:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 # registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://www.sympla.com.br/evento/devopsdays-juiz-de-fora-2025/2394061" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 # coordinates: "-21.762058, -43.352624" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-# location: "UniAcademia"
-# location_address: "R. Halfeld, 1179 - Centro, Juiz de Fora - MG, 36016-000" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location: "UniAcademia"
+location_address: "R. Halfeld, 1179 - Centro, Juiz de Fora - MG, 36016-000" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   # - name: Chamadas (CFP)
@@ -56,23 +56,39 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
+  - name: "Brauleyn Zoffoli"
+    role: "Organizer"
+    employer: "Smart NX"
+    linkedin: "https://www.linkedin.com/in/brau/"
+    image: "brauleyn-zoffoli.jpeg"
   - name: "Bruno Pacheco"
     role: "Organizer"
     employer: "Fundação Caed"
     linkedin: "https://www.linkedin.com/in/bruno-pacheco-da-silva/"
     image: "bruno-pacheco.jpg"
-  - name: "Daniel Sobrinho"
+  - name: "Cíntia Esteves de Paulo"
     role: "Organizer"
-    employer: "Unimed Juiz de Fora"
-    github: "danielsobrinho"
-    linkedin: "https://www.linkedin.com/in/dsobrinho/"
-    image: "daniel-sobrinho.jpg"
+    employer: "MEI de Sucesso"
+    #github: "danielsobrinho"
+    linkedin: "https://www.linkedin.com/in/cintia-esteves/"
+    image: "cintia-esteves-de-paulo.jpeg"
+#  - name: "Daniel Sobrinho"
+#    role: "Organizer"
+#    employer: "Unimed Juiz de Fora"
+#    github: "danielsobrinho"
+#    linkedin: "https://www.linkedin.com/in/dsobrinho/"
+#    image: "daniel-sobrinho.jpg"
   - name: "Guilherme Ferraz"
     role: "Organizer"
     employer: "Rubeus"
     github: "guilherme-ferraz"
     linkedin: "https://www.linkedin.com/in/guilhermeaugustoferraz/"
     image: "guilherme-ferraz.jpg"
+  - name: "João Medina"
+    role: "Organizer"
+    employer: "iFood"
+    linkedin: "https://www.linkedin.com/in/joaomedinadev/"
+    image: "joao-medina.jpeg"
   - name: "José Geraldo"
     role: "Organizer"
     employer: "Rubeus"
@@ -82,30 +98,50 @@ team_members: # Name is the only required field for team members.
     image: "jose-geraldo.jpg"
     bio: "Nascido em Rosário da Limeira"
     facebook: "https://www.facebook.com/josegeraldo.costa.129"
-  - name: "Matheus Amaral"
+  - name: "Mauro Pereira Filho"
+    role: "Organizer"
+    employer: "Progress Rail"
+    linkedin: "https://www.linkedin.com/in/mauropereirafilho/"
+    image: "mauro-pereira-filho.webp"
+#  - name: "Matheus Amaral"
+#    role: "Organizer"
+#    employer: "Rubeus"
+#    github: "matheusamaral"
+#    linkedin: "https://www.linkedin.com/in/matheusaamaral/"
+#    image: "matheus-amaral.jpg"
+#  - name: "Paulo Cerqueira"
+#    role: "Organizer"
+#    employer: "4Linux"
+#    linkedin: "https://www.linkedin.com/in/phcerqueira/"
+#    image: "paulo-cerqueira.jpeg"
+  - name: "Ryan Pacheco"
     role: "Organizer"
     employer: "Rubeus"
-    github: "matheusamaral"
-    linkedin: "https://www.linkedin.com/in/matheusaamaral/"
-    image: "matheus-amaral.jpg"
-  - name: "Paulo Cerqueira"
+    linkedin: "https://www.linkedin.com/in/ryanvpacheco/"
+    image: "ryan-pacheco.jpeg"
+  - name: "Tabita Magalhães da Costa"
     role: "Organizer"
-    employer: "4Linux"
-    linkedin: "https://www.linkedin.com/in/phcerqueira/"
-    image: "paulo-cerqueira.jpeg"
-  - name: "William Corrêa"
+    employer: "Rubeus"
+    linkedin: "https://www.linkedin.com/in/tabitacosta/"
+    image: "tabita-magalhaes-da-costa.jpeg"
+  - name: "Vinicius Carlos de Oliveira"
     role: "Organizer"
-    employer: "Co-fundador da Libre Code"
-    twitter: "wilcorrea"
-    github: "wilcorrea"
-    image: "william-correa.jpg"
-    website: "https://wilcorrea.dev/?l=en_US"
-  - name: "William Silva"
-    role: "Organizer"
-    employer: "Raro Labs"
-    github: "WilliamSf"
-    linkedin: "https://www.linkedin.com/in/william-silva-aa5692119/"
-    image: "william-silva.jpeg"
+    employer: "Real Grana"
+    linkedin: "https://www.linkedin.com/in/vinicius-carlos/"
+    image: "vinicius-carlos-de-oliveira.jpeg"
+#  - name: "William Corrêa"
+#    role: "Organizer"
+#    employer: "Co-fundador da Libre Code"
+#    twitter: "wilcorrea"
+#    github: "wilcorrea"
+#    image: "william-correa.jpg"
+#    website: "https://wilcorrea.dev/?l=en_US"
+#  - name: "William Silva"
+#    role: "Organizer"
+#    employer: "Raro Labs"
+#    github: "WilliamSf"
+#    linkedin: "https://www.linkedin.com/in/william-silva-aa5692119/"
+#    image: "william-silva.jpeg"
 
 organizer_email: "juiz-de-fora@devopsdays.org" # Put your organizer email address here
 

@@ -112,10 +112,10 @@ Visando valorizar a participação de instituições na realização do evento, 
     </tr>
     <tr>
       <td><b>Contribuição</b></td>
+      <td><b>R$ 500,00</b></td>
       <td><b>R$ 1.000,00</b></td>
+      <td><b>R$ 1.500,00</b></td>
       <td><b>R$ 2.000,00</b></td>
-      <td><b>R$ 3.000,00</b></td>
-      <td><b>R$ 4.000,00</b></td>
     </tr>
   </table>
 </div>
@@ -228,10 +228,10 @@ Aiming to enhance the participation of institutions in the event, we organized p
     </tr>
     <tr>
       <td><b>Contribution</b></td>
-      <td><b>US$ 200,00</b></td>
-      <td><b>US$ 400,00</b></td>
-      <td><b>US$ 600,00</b></td>
-      <td><b>US$ 800,00</b></td>
+      <td><b>US$ 95,00</b></td>
+      <td><b>US$ 190,00</b></td>
+      <td><b>US$ 280,00</b></td>
+      <td><b>US$ 370,00</b></td>
     </tr>
   </table>
 </div>
