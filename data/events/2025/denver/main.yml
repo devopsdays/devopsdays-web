@@ -81,6 +81,8 @@ organizer_email: "denver@devopsdays.org"
 sponsors:
   - id: suse
     level: gold
+  - id: castai
+    level: gold
   - id: fairwinds
     level: supporter
   - id: code-talent
