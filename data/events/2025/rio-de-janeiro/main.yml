@@ -103,12 +103,23 @@ organizer_email: "rio-de-janeiro@devopsdays.org" # Put your organizer email addr
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  #Diamond Sponsors
+  - id: realcloud
+    level: diamond
+
+  #Gold Sponsors
+  - id: loka
+    level: gold
+
   #Silver Sponsors
   - id: oracle
     level: silver
 
   #Community
   - id: punkdodevops
+    level: community
+
+  - id: fluxxorama
     level: community
 
   - id: docker-rio
@@ -120,11 +131,20 @@ sponsors:
   - id: novatec
     level: community
 
+  - id: nerdweek
+    level: community
+
+  - id: cps1
+    level: community
+
+  # - id: picpay
+  #   level: community
+
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 sponsor_levels:
-  - id: Diamond
-    label: diamond
+  - id: diamond
+    label: Diamond
   - id: gold
     label: Gold
   - id: silver
@@ -156,7 +176,7 @@ program:
     comments: "Sala: Rollback"
 
   #Keynote-1
-  - title: "dan"
+  - title: "dan-maher"
     type: talk
     date: 2025-08-16
     start_time: "09:30"
@@ -264,15 +284,15 @@ program:
     comments: "Trilha Avançada - Sala: Rollback"
     background_color: "#81b29a"
 
-  - title: "TBA"
-    type: custom
+  - title: luiz-guilherme-trindade-ribeiro
+    type: talk
     date: 2025-08-16
     start_time: "14:45"
     end_time: "15:15"
     comments: "Trilha Iniciante - Sala: Deploy"
     background_color: "#fdf0d5"
-  - title: "TBA"
-    type: custom
+  - title: miguel-di-ciurcio-filho
+    type: talk
     date: 2025-08-16
     start_time: "14:45"
     end_time: "15:15"
@@ -286,8 +306,8 @@ program:
     end_time: "15:45"
     comments: "Trilha Iniciante - Sala: Deploy"
     background_color: "#fdf0d5"
-  - title: "TBA"
-    type: custom
+  - title: nicole-pereira-pessoa
+    type: talk
     date: 2025-08-16
     start_time: "15:15"
     end_time: "15:45"
@@ -325,14 +345,8 @@ program:
     comments: "Sala: Rollback"
     # background_color: #FFB566
 
-    #Session-9
-  - title: "Sessão 9"
-    type: custom
-    date: 2025-08-16
-    start_time: "17:15"
-    end_time: "17:45"
-  - title: "TBA"
-    type: custom
+  - title: carla-piazzon-ramos-vieira
+    type: talk
     date: 2025-08-16
     start_time: "17:15"
     end_time: "17:45"

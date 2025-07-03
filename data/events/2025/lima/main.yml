@@ -116,9 +116,25 @@ sponsors:
    - id: cleverit
      level: gold
      url: https://www.cleveritgroup.com/es
-   - id: dynatrace
+   - id: kyndryl
      level: gold
-     url: https://www.dynatrace.com/
+     url: https://www.kyndryl.com/es/es
+   - id: fluidattacks
+     level: gold
+     url: https://www.fluidattacks.com/
+   - id: nttdata
+     level: gold
+     url: https://pe.nttdata.com/
+   - id: linearb
+     level: silver
+     url: https://linearb.io/
+   - id: idm
+     level: bronze
+     url: https://idmtechnology.com.pe/
+   - id: om-tech
+     level: bronze
+   - id: orexe
+     level: bronze
    - id: devopsinstitute
      level: community
      url: https://www.devopsinstitute.com/
