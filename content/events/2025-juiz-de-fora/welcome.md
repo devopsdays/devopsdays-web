@@ -125,7 +125,7 @@ Description = "DevOpsDays Juiz De Fora 2025"
           <a  target="_blank" style="text-align:left;" class="btn btn-secondary btn-block" href="https://www.facebook.com/DevopsDaysJF"> <i class="fa fa-facebook fa-fw"></i>&nbsp; Facebook</a>
         </div>
         <div style="width: max-content; padding-right: 1em; padding-bottom: 1em;">
-          <a  target="_blank" style="text-align:left;" class="btn btn-secondary btn-block" href="https://discord.gg/GK7DmRvYPW"> <i class="fa fa-users fa-fw"></i>&nbsp; Discord</a>
+          <a  target="_blank" style="text-align:left;" class="btn btn-secondary btn-block" href="https://discord.gg/TkdCcvkZTV"> <i class="fa fa-users fa-fw"></i>&nbsp; Discord</a>
         </div>
         <div style="width: max-content; padding-right: 1em; padding-bottom: 1em;">
           <a  target="_blank" style="text-align:left;" class="btn btn-secondary btn-block" href="https://t.me/+LbMyYyjmyEA5OGQx"> <i class="fa fa-telegram fa-fw"></i>&nbsp; Telegram</a>
