@@ -1,18 +1,18 @@
 +++
-Title = "DevOpsDays Juiz De Fora 2024"
+Title = "DevOpsDays Juiz De Fora 2025"
 Type = "welcome"
-aliases = ["/events/2024-juiz-de-fora/"]
-Description = "DevOpsDays Juiz De Fora 2024"
+aliases = ["/events/2025-juiz-de-fora/"]
+Description = "DevOpsDays Juiz De Fora 2025"
 +++
 
 <div style="padding: 10px;">
   <div style="padding-bottom: 1em;">
-    <h2>DevOpsDays Juiz de Fora 2024</h2>
+    <h2>DevOpsDays Juiz de Fora 2025</h2>
   </div>
   <div style="padding-bottom: 1em;">
     <div class = "row">
       <div class="col-md-2">
-        <img alt="DevOpsDays Juiz De Fora 2024" src="/events/2024-juiz-de-fora/images/event-logo.png" style="width:100%; max-width: 164px;">
+        <img alt="DevOpsDays Juiz De Fora 2025" src="/events/2025-juiz-de-fora/images/event-logo.png" style="width:100%; max-width: 164px;">
       </div>
       <div class = "col-md-10">
         <div class = "row">
@@ -28,17 +28,17 @@ Description = "DevOpsDays Juiz De Fora 2024"
             <strong>Patrocinadores</strong>
           </div>
           <div class="col-md-6">
-            {{< event_link page="sponsor" text="Apoie o DevOpsDays Juiz de Fora em 2024!" >}}
+            {{< event_link page="sponsor" text="Apoie o DevOpsDays Juiz de Fora em 2025!" >}}
           </div>
         </div>
-        <div class = "row">
+        <!-- <div class = "row">
           <div class = "col-md-2">
             <strong>Local</strong>
           </div>
           <div class = "col-md-8">
             {{< event_link page="local" text="UniAcademia" title="UniAcademia" >}}
           </div>
-        </div>
+        </div> -->
         <div class = "row">
           <div class = "col-md-2">
             <strong>Contato</strong>
@@ -77,10 +77,10 @@ Description = "DevOpsDays Juiz De Fora 2024"
   
   <div>
     <h4 style="padding-bottom: 1em;">
-      <strong>O DevOpsDays Juiz de Fora em 2024!</strong>
+      <strong>O DevOpsDays Juiz de Fora em 2025!</strong>
     </h4>
     <p>
-    Essa será a segunda edição, de muitas que estão por vir :), do DevOpsDays em Juiz de Fora, queremos que todos tenhamos mais uma excelente oportunidade de compartilhar conhecimento, contar histórias, socializar e fazer novos amigos!
+    Essa será a terceira edição, de muitas que estão por vir :), do DevOpsDays em Juiz de Fora, queremos que todos tenhamos mais uma excelente oportunidade de compartilhar conhecimento, contar histórias, socializar e fazer novos amigos!
     </p>
     <p>
     Queremos tornar a cultura DevOps cada vez mais presente, participe e venha contribuir para essa jornada!
@@ -94,7 +94,7 @@ Description = "DevOpsDays Juiz De Fora 2024"
       </h4>
       <div class="d-flex flex-row">
         <div style="width: max-content; padding-right: 1em;">
-          <a style="text-align:left;" class="btn btn-secondary btn-block" href="/events/2024-juiz-de-fora/contact"> <i class="fa fa-envelope-o fa-fw"></i> Entre em contato</a>
+          <a style="text-align:left;" class="btn btn-secondary btn-block" href="/events/2025-juiz-de-fora/contact"> <i class="fa fa-envelope-o fa-fw"></i> Entre em contato</a>
         </div>
         <!-- JGT -->
         <!--
@@ -125,7 +125,7 @@ Description = "DevOpsDays Juiz De Fora 2024"
           <a  target="_blank" style="text-align:left;" class="btn btn-secondary btn-block" href="https://www.facebook.com/DevopsDaysJF"> <i class="fa fa-facebook fa-fw"></i>&nbsp; Facebook</a>
         </div>
         <div style="width: max-content; padding-right: 1em; padding-bottom: 1em;">
-          <a  target="_blank" style="text-align:left;" class="btn btn-secondary btn-block" href="https://discord.gg/GK7DmRvYPW"> <i class="fa fa-users fa-fw"></i>&nbsp; Discord</a>
+          <a  target="_blank" style="text-align:left;" class="btn btn-secondary btn-block" href="https://discord.gg/TkdCcvkZTV"> <i class="fa fa-users fa-fw"></i>&nbsp; Discord</a>
         </div>
         <div style="width: max-content; padding-right: 1em; padding-bottom: 1em;">
           <a  target="_blank" style="text-align:left;" class="btn btn-secondary btn-block" href="https://t.me/+LbMyYyjmyEA5OGQx"> <i class="fa fa-telegram fa-fw"></i>&nbsp; Telegram</a>
