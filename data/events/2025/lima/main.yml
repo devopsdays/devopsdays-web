@@ -125,9 +125,17 @@ sponsors:
    - id: nttdata
      level: gold
      url: https://pe.nttdata.com/
+   - id: dynatrace
+     level: gold
+     url: https://www.dynatrace.com/es-la/
    - id: linearb
      level: silver
      url: https://linearb.io/
+   - id: softtek
+     level: silver
+     url: https://softtek.com/es/
+   - id: devco
+     level: silver
    - id: idm
      level: bronze
      url: https://idmtechnology.com.pe/
