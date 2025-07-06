@@ -83,4 +83,3 @@ Description = "devopsdays Graz 2025"
   </div>
 </div>
 
-
