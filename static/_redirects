@@ -262,3 +262,4 @@
 /sibiu/*            /events/2025-sibiu/:splat           302
 /wollongong/*            /events/2025-wollongong/:splat           302
 /cluj-napoca/*            /events/2025-cluj-napoca/:splat           302
+/graz/*            /events/2025-graz/:splat           302
