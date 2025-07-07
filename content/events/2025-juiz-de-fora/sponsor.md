@@ -105,10 +105,10 @@ Visando valorizar a participação de instituições na realização do evento, 
     </tr>
     <tr>
       <td>Inscrições para o evento*</td>
+      <td>1</td>
       <td>3</td>
       <td>8</td>
       <td>10</td>
-      <td>15</td>
     </tr>
     <tr>
       <td><b>Contribuição</b></td>
@@ -120,7 +120,7 @@ Visando valorizar a participação de instituições na realização do evento, 
   </table>
 </div>
 <div>
-  <p><strong>COMUNIDADE:</strong> Apoiadores que contribuiram com algum beneficio para o público ou quantia menor que R$ 1.000,00 terão direito à divulgação nas redes sociais e 1 inscrição para o evento.</p>
+  <p><strong>COMUNIDADE:</strong> Apoiadores que contribuiram com algum beneficio para o público ou quantia menor ou igual a <strong>R$ 500,00</strong> terão direito à divulgação nas redes sociais e 1 inscrição para o evento.</p>
     <!-- <p style="font-size:18px">Veja mais e nosso mídia kit no documento completo clicando <a href="https://docs.google.com/presentation/d/1MzhF2pWpETGvC61k9tpoLmreKbB9yGXGEcv7EWbvLQ0/edit?usp=sharing"><i class="fa fa-download" style="font-size:30px"></i></a></p> -->
 </div>
 
