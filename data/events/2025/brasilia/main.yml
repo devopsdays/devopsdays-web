@@ -126,14 +126,16 @@ sponsor_levels:
 sponsors:
   - id: jack-experts
     level: platinum
-  # - id: kubecareers
-  #   level: media
-  # - id: kubeevents
-  #   level: media
+  - id: cps1
+    level: platinum
+  - id: kubecareers
+    level: media
+  - id: kubeevents
+    level: media
   # - id: suse
   #   level: community
-  # - id: 4linux
-  #   level: silver
+  - id: 4linux
+    level: silver
   # - id: linuxtips
   #   level: silver
   # - id: pointer
