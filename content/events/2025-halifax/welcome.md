@@ -151,22 +151,42 @@ Description = "DevOpsDays Halifax 2025"
       {{< event_logo >}}
     </div>
     <div class="text">
+      <div style="background:#f8e9a1; color:#303030; border-radius:8px; padding:1em; margin-bottom:1em; font-weight:bold;">
+        Special discounted tickets are available for students and folks from underrepresented communities. Please email <a href="mailto:halifax@devopsdays.org">halifax@devopsdays.org</a> for a voucher.
+      </div>
       <p>DevOpsDays Halifax 2025 – bigger, bolder, and back for more!</p>
-      <p>Last year, we welcomed nearly 200 attendees from across the Maritime provinces, hosted 20 expert speakers from around the world, and saw representation from leading tech companies. With a three-day program featuring conference sessions, hands-on workshops, a social networking event, and a speaker dinner cruise, it was a milestone event for the region’s tech community.</p>
+      <p>Last year, we welcomed nearly 200 attendees from across the Maritime provinces, hosted 20 expert speakers from around the world, and saw representation from leading tech companies. With a three-day program featuring conference sessions, hands-on workshops, a social networking event, and a speaker dinner cruise, it was a milestone event for the region's tech community.</p>
       <p>Join us in 2025 as we build on this momentum! Expect insightful talks, engaging Open Spaces, and hands-on learning opportunities on topics such as Cloud Native, Platform Engineering, AI in DevOps, and more.</p>
       <p><strong>Who attends?</strong></p>
       <p>DevOpsDays Halifax attracts a diverse mix of professionals, from senior technical leaders and executives to software engineers, platform teams, site reliability engineers, security specialists, and students. Whether you're shaping DevOps strategy at an enterprise level or just starting out in the field, this event is your chance to connect, learn, and grow with the best in the industry.</p>
-      <p>Set against the stunning backdrop of Halifax’s waterfront, DevOpsDays Halifax also offers the opportunity to connect over fresh seafood, scenic views, and the warmth of the Atlantic Canadian tech community.</p>
+      <p>Set against the stunning backdrop of Halifax's waterfront, DevOpsDays Halifax also offers the opportunity to connect over fresh seafood, scenic views, and the warmth of the Atlantic Canadian tech community.</p>
       <p><strong>Early Bird Price is in effect.</strong> <a href="https://tickets.devopsdays.org/devopsdays-halifax/2025">Get your tickets </a> <strong>before July 15, 2025</strong> to receive a 15% discount on regular tickets!</p>
+      <div style="margin-top: 2em; display: flex; justify-content: center; width: 100%;">
+        <div style="position: relative; padding-bottom: 56.25%; height: 0; width: 100%; max-width: 800px; overflow: hidden; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+          <iframe 
+            src="https://www.youtube.com/embed/ndZHjj8lEpw?rel=0" 
+            frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+            allowfullscreen 
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 10px;">
+          </iframe>
+        </div>
+      </div>
+      <p style="text-align: center; font-size: 1em; color: #303030; margin-top: 0.5em;">
+        🎬 Highlights from DevOpsDays Halifax 2024
+      </p>
       <p><a href="https://www.flickr.com/photos/201499771@N04/albums/72177720320854462" style="color:#48BD86; font-weight:bold; text-decoration:underline;">DevOpsDays Halifax 2024 Photo Album</a></p>
       <p>By attending this event, you agree to the <a href="../conduct/">DevOpsDays Halifax Code of Conduct</a>.</p>
     </div>
   </div>
   <div class="buttons">
     <a href="https://tickets.devopsdays.org/devopsdays-halifax/2025" class="button-link">Get your Tickets</a>
+    <a href="https://talks.devopsdays.org/devopsdays-halifax-2025/schedule/"><button>Event Schedule</button></a>
+    <a href="../location/"><button>Get Venue Info</button></a>
+    <a href="https://talks.devopsdays.org/devopsdays-halifax-2025/speaker/"><button>Check Out Our Speakers</button></a>
+    <a href="../workshop/"><button>Preconference Workshop</button></a>
     <a href="../sponsor/"><button>Become a Sponsor</button></a>
     <a href="../conduct/"><button>Code of Conduct</button></a>
+    <a href="../contact/"><button>Contact Us</button></a>
   </div>
-  </div>
-
-{{< event_twitter >}}
+</div>
