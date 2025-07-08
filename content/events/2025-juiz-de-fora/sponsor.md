@@ -221,10 +221,10 @@ Aiming to enhance the participation of institutions in the event, we organized p
     </tr>
     <tr>
       <td>Tickets*</td>
+      <td>1</td>
       <td>3</td>
       <td>8</td>
       <td>10</td>
-      <td>15</td>
     </tr>
     <tr>
       <td><b>Contribution</b></td>
@@ -236,6 +236,6 @@ Aiming to enhance the participation of institutions in the event, we organized p
   </table>
 </div>
 <div>
-<p><strong>COMMUNITY:</strong> Supporters who contributed a benefit to the public or an amount less than US$ 200,00 receive the right to be publicized on social media and 1 registration for the event.</p>
+<p><strong>COMMUNITY:</strong> Supporters who contributed a benefit to the public or an amount less than US$ 95,00 receive the right to be publicized on social media and 1 registration for the event.</p>
 <!--   <p style="font-size:18px">You can check more about sponsorship and the benefits here (in portuguese) <a href="https://docs.google.com/presentation/d/1MzhF2pWpETGvC61k9tpoLmreKbB9yGXGEcv7EWbvLQ0/edit?usp=sharing"><i class="fa fa-download" style="font-size:30px"></i></a></p> -->
 </div>
