@@ -9,7 +9,7 @@ Description = "devopsdays Denver 2025"
   <h2>{{< event_link page="registration" text="Purchase your Ticket!" >}}</h2>
 <br><br>
 
-<h2>{{< event_link page="schedule" text="View the Schedule!" >}}</h2>
+<h2>{{< event_link page="program" text="View the Program!" >}}</h2>
 <br><br>
 
 <div style="float:right;">
