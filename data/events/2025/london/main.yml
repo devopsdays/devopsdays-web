@@ -120,9 +120,9 @@ organizer_email: "london@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
-# sponsors:
-# - id: arresteddevops
-#   level: community
+sponsors:
+  - id: elastic
+    level: standard
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
