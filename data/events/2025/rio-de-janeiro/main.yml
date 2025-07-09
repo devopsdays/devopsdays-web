@@ -107,12 +107,19 @@ sponsors:
   - id: realcloud
     level: diamond
 
+  - id: kaspersky
+    level: diamond
+
   #Gold Sponsors
   - id: loka
     level: gold
 
   #Silver Sponsors
   - id: oracle
+    level: silver
+  - id: stone
+    level: silver
+  - id: gita
     level: silver
 
   #Community
