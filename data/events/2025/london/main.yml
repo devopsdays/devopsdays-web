@@ -341,8 +341,8 @@ program:
 
 ignites:
   # Day one
-  - title: "omotayo-adeleke"
-    date: 2025-09-23T00:00:00+01:00
+  - title: "heather-thacker"
+    date: 2025-09-24T00:00:00+01:00
   - title: "jos-van-schouten"
     date: 2025-09-23T00:00:00+01:00
   - title: "dave-mcallister"
@@ -354,8 +354,8 @@ ignites:
   - title: "suzie-rasnak"
     date: 2025-09-23T00:00:00+01:00
   # Day two
-  - title: "heather-thacker"
-    date: 2025-09-24T00:00:00+01:00
+  - title: "omotayo-adeleke"
+    date: 2025-09-23T00:00:00+01:00
   - title: "carly-richmond"
     date: 2025-09-24T00:00:00+01:00
   - title: "vinuja-khatode"
