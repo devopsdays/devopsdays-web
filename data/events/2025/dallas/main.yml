@@ -173,6 +173,8 @@ sponsors:
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: redhat
     level: platinum
+  - id: datadog
+    level: gold
   - id: pulumi
     level: silver
   - id: coder
@@ -186,6 +188,8 @@ sponsors:
   - id: harness
     level: media
   - id: twc
+    level: community
+  - id: nextop
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
