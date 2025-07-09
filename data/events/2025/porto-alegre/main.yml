@@ -116,15 +116,6 @@ team_members: # Name is the only required field for team members.
     website: "https://gomex.me"
     image: "rafael-gomes.jpg"
 
-  - name: Raphael Borges
-    role: "DevOps Engineer"
-    bio: "Criador e mantenedor do projeto OKE-FREE: Uma maneira fácil de garantir seu próprio cluster Kubernetes gratuitamente e para sempre na Oracle Cloud Infrastructure (OCI) utilizando OpenTofu. Expert em Container e Kubernetes pelo Programa Intensivo em Containers e Kubernetes (PICK) da Linuxtips. Coautor do livro 'Descomplicando Kubernetes'."
-    twitter: "RaphaNBorges"
-    github: "Rapha-Borges"
-    linkedin: "https://www.linkedin.com/in/raphael-do-nascimento-borges/"
-    website: "https://r11s.com.br/"
-    image: "raphael.jpg"
-
   - name: Rodrigo Ervella da Fonseca
     role: DevOps Engineer
     employer: SAP
