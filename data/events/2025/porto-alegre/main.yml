@@ -80,8 +80,8 @@ team_members: # Name is the only required field for team members.
 
   - name: Cami Martins
     employer: Storyblok
-    twitter: https://twitter.com/punkdodevops
-    github: https://github.com/camilla-m
+    twitter: punkdodevops
+    github: camilla-m
     linkedin: https://www.linkedin.com/in/camilla-martins-603344115/
     website: https://punkdodevops.com/
     image: camilla-martins.jpg
@@ -89,8 +89,8 @@ team_members: # Name is the only required field for team members.
   - name: Gabriel Barbosa
     role: Analista de Infraestrutura Linux
     bio: "Entusiasta de software livre, atualmente atuando como analista de Infraestrutura Linux na Interop, nas horas vagas corredor e ciclista e praticante de yoga. Formado em redes de computadores e atuando na área  há mais de 8 anos."
-    twitter: https://twitter.com/ollemg
-    github: https://github.com/ollemg
+    twitter: ollemg
+    github: ollemg
     linkedin: https://www.linkedin.com/in/ollemg
     image: gabriel-barbosa.jpeg
 
@@ -98,7 +98,7 @@ team_members: # Name is the only required field for team members.
     role: Automation Engineer
     employer: SAP
     bio: "Formado em redes de computadores com uma década de experiência na área de tecnologia. Atualmente, ocupo a posição de desenvolvedor Python na SAP, sou entusiasta de segurança e automação. Para desopilar dessas coisas, tenho onze gatos, dois cachorros, adoro jogar e cozinhar."
-    github: https://github.com/lbmello
+    github: lbmello
     linkedin: https://linkedin.com/in/lbmello
     image: lucas-mello.jpeg
 
@@ -111,16 +111,16 @@ team_members: # Name is the only required field for team members.
   - name: "Rafael Brito Gomes"
     pronouns: "ele/dele"
     employer: "DNSFilter"
-    github: "https://github.com/gomex"
-    twitter: "https://twitter.com/gomex"
+    github: "gomex"
+    twitter: "gomex"
     website: "https://gomex.me"
     image: "rafael-gomes.jpg"
 
   - name: Raphael Borges
     role: "DevOps Engineer"
     bio: "Criador e mantenedor do projeto OKE-FREE: Uma maneira fácil de garantir seu próprio cluster Kubernetes gratuitamente e para sempre na Oracle Cloud Infrastructure (OCI) utilizando OpenTofu. Expert em Container e Kubernetes pelo Programa Intensivo em Containers e Kubernetes (PICK) da Linuxtips. Coautor do livro 'Descomplicando Kubernetes'."
-    twitter: "https://twitter.com/RaphaNBorges"
-    github: "https://github.com/Rapha-Borges"
+    twitter: "RaphaNBorges"
+    github: "Rapha-Borges"
     linkedin: "https://www.linkedin.com/in/raphael-do-nascimento-borges/"
     website: "https://r11s.com.br/"
     image: "raphael.jpg"
@@ -139,7 +139,7 @@ team_members: # Name is the only required field for team members.
     image: tiago-dapper.jpeg
 
   - name: Vinicius Ingracio
-    github: https://github.com/viniciusingracio
+    github: viniciusingracio
     linkedin: https://www.linkedin.com/in/viniciusingracio/
     image: vinicius-ingracio.jpeg
 
