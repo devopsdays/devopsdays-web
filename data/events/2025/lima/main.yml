@@ -155,6 +155,10 @@ sponsors:
    - id: datascienceresearchperu
      level: community
      url: https://www.datascience.pe/
+   - id: kubeevents
+     level: community
+   - id: kubecareers
+     level: community
    
   
 
