@@ -121,9 +121,12 @@ organizer_email: "london@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  # Standard sponsors
   - id: elastic
     level: standard
-
+  - id: that-agile
+    level: standard
+  # Logo sponsors
   - id: cyberark
     level: logo
 
