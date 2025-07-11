@@ -126,6 +126,8 @@ sponsors:
     level: standard
   - id: that-agile
     level: standard
+  - id: chainguard
+    level: standard
   # Logo sponsors
   - id: cyberark
     level: logo
