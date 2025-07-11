@@ -77,14 +77,14 @@ team_members: # Name is the only required field for team members.
     twitter: ""
     bio: "Engenheiro DataOps, atualmente atuando em projetos de engenharia de dados e DevOps na Sauter, especializado para o Google Cloud Platform e projetos de ciências de dados e desenvolvimento FullStack, pelo IFPE e UFAL."
     linkedin: "https://www.linkedin.com/in/iamgabs/"
-    image: "Gabriel.jpg"
+    image: "gabriel.jpg"
 
   - name: "Davi Ferreira Lima"
     employer: "Sauter"
     twitter: ""
     bio: "Apaixonado por tecnologia e automação, sou SRE com certificações pela AWS e GCP, focado em criar infraestruturas escaláveis e resilientes. No dia a dia, otimizo pipelines CI/CD, gerencio Kubernetes e implemento monitoramento eficaz. Além do trabalho, também sou pesquisador e exploro novos conteúdos como Machine Learning, dados e visão computacional."
     linkedin: "https://www.linkedin.com/in/daviferreiralima/"
-    image: "Davi.jpg"
+    image: "davi.jpg"
 
 organizer_email: "garanhuns@devopsdays.org" # Put your organizer email address here
 
