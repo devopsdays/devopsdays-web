@@ -120,9 +120,17 @@ organizer_email: "london@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
-# sponsors:
-# - id: arresteddevops
-#   level: community
+sponsors:
+  # Standard sponsors
+  - id: elastic
+    level: standard
+  - id: that-agile
+    level: standard
+  - id: chainguard
+    level: standard
+  # Logo sponsors
+  - id: cyberark
+    level: logo
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -338,7 +346,7 @@ program:
 
 ignites:
   # Day one
-  - title: "omotayo-adeleke"
+  - title: "heather-thacker"
     date: 2025-09-23T00:00:00+01:00
   - title: "jos-van-schouten"
     date: 2025-09-23T00:00:00+01:00
@@ -351,7 +359,7 @@ ignites:
   - title: "suzie-rasnak"
     date: 2025-09-23T00:00:00+01:00
   # Day two
-  - title: "heather-thacker"
+  - title: "omotayo-adeleke"
     date: 2025-09-24T00:00:00+01:00
   - title: "carly-richmond"
     date: 2025-09-24T00:00:00+01:00
