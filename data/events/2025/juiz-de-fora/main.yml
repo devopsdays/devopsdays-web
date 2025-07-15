@@ -21,13 +21,13 @@ enddate: 2025-09-27T18:00:00-03:00 # The end date of your event. Leave blank if 
 #-- cfp_date_announce: 2025-04-11T03:00:00-03:00 # inform proposers of status
 
 cfp_open: "true"
-cfp_link: "https://www.papercall.io/devopsdaysjuizdefora2025"
+cfp_link: "https://talks.devopsdays.org/devopsdays-juiz-de-fora-2025/cfp"
 
 registration_date_start: 2025-07-07T00:00:00-03:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 registration_date_end: 2025-09-27T08:00:00-03:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 # registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "https://www.sympla.com.br/evento/devopsdays-juiz-de-fora-2025/2394061" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://talks.devopsdays.org/devopsdays-juiz-de-fora-2025/cfp" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 # coordinates: "-21.762058, -43.352624" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
@@ -35,11 +35,11 @@ location: "UniAcademia"
 location_address: "R. Halfeld, 1179 - Centro, Juiz de Fora - MG, 36016-000" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  # - name: Chamadas (CFP)
-  #   url: https://www.papercall.io/devopsdaysjuizdefora2025
+  - name: Chamadas (CFP)
+    url: https://talks.devopsdays.org/devopsdays-juiz-de-fora-2025/cfp
   - name: local
-  # - name: inscrição
-  #  url: https://www.sympla.com.br/evento/devopsdays-juiz-de-fora-2025/2394061
+  - name: inscrição
+    url: https://talks.devopsdays.org/devopsdays-juiz-de-fora-2025/cfp
   #- name: programação
   #  url: /events/2025-juiz-de-fora/program
   #- name: palestrantes
@@ -69,7 +69,6 @@ team_members: # Name is the only required field for team members.
   - name: "Cíntia Esteves de Paulo"
     role: "Organizer"
     employer: "MEI de Sucesso"
-    #github: "danielsobrinho"
     linkedin: "https://www.linkedin.com/in/cintia-esteves/"
     image: "cintia-esteves-de-paulo.jpeg"
   - name: "Daniel Sobrinho"
@@ -103,17 +102,6 @@ team_members: # Name is the only required field for team members.
     employer: "Progress Rail"
     linkedin: "https://www.linkedin.com/in/mauropereirafilho/"
     image: "mauro-pereira-filho.webp"
-#  - name: "Matheus Amaral"
-#    role: "Organizer"
-#    employer: "Rubeus"
-#    github: "matheusamaral"
-#    linkedin: "https://www.linkedin.com/in/matheusaamaral/"
-#    image: "matheus-amaral.jpg"
-#  - name: "Paulo Cerqueira"
-#    role: "Organizer"
-#    employer: "4Linux"
-#    linkedin: "https://www.linkedin.com/in/phcerqueira/"
-#    image: "paulo-cerqueira.jpeg"
   - name: "Ryan Pacheco"
     role: "Organizer"
     employer: "Rubeus"
@@ -129,19 +117,6 @@ team_members: # Name is the only required field for team members.
     employer: "Real Grana"
     linkedin: "https://www.linkedin.com/in/vinicius-carlos/"
     image: "vinicius-carlos-de-oliveira.jpeg"
-#  - name: "William Corrêa"
-#    role: "Organizer"
-#    employer: "Co-fundador da Libre Code"
-#    twitter: "wilcorrea"
-#    github: "wilcorrea"
-#    image: "william-correa.jpg"
-#    website: "https://wilcorrea.dev/?l=en_US"
-#  - name: "William Silva"
-#    role: "Organizer"
-#    employer: "Raro Labs"
-#    github: "WilliamSf"
-#    linkedin: "https://www.linkedin.com/in/william-silva-aa5692119/"
-#    image: "william-silva.jpeg"
 
 organizer_email: "juiz-de-fora@devopsdays.org" # Put your organizer email address here
 
@@ -149,6 +124,8 @@ organizer_email: "juiz-de-fora@devopsdays.org" # Put your organizer email addres
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
   - id: rubeus
+    level: platinum
+  - id: uniacademia
     level: platinum
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
