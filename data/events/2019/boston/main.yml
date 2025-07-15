@@ -16,7 +16,7 @@ enddate: 2019-09-24T23:59:59-04:00 # The end date of your event. Leave blank if 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2019-04-02T00:00:00-04:00 # start accepting talk proposals.
 cfp_date_end: 2019-06-16T23:59:59-04:00 # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_announce: # inform proposers of status
 
 cfp_link: "https://www.papercall.io/devopsdays-boston-2019" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
@@ -45,7 +45,6 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
-
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
@@ -104,7 +103,7 @@ sponsors:
     level: platinum
   - id: klaviyo-before-20230929
     level: platinum
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: pegasystems
     level: gold
   - id: rancher-before-20190812
@@ -143,7 +142,7 @@ sponsors:
     level: platinum
   - id: atomiccoffeeroasters
     level: alacarte
-  - id: cyberark
+  - id: cyberark-conjur
     level: platinum
   - id: threatstack
     level: gold
@@ -176,7 +175,7 @@ sponsors:
   - id: vmware
     level: gold
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
