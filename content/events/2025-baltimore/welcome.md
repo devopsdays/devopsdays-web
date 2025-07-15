@@ -10,8 +10,11 @@ Description = "devopsdays Baltimore 2025"
     <div class="row">
       <div class="col-md-8">
         <h2>Welcome to DevOpsDays Baltimore!</h2>
-        <h3>• {{< event_link url-key="registration_link" text="Register to attend the conference!" >}}</h3>
-        <h3>• {{< event_link page="sponsor" text="Interested in Sponsoring?" >}}</h3>
+        <h3>Thank you for making DevOpsDays Baltimore 2025 a success!</h3>
+        <p>We hope to see you in 2026!</p>
+        <!-- <h3>• {{< event_link url-key="registration_link" text="Register to attend the conference!" >}}</h3>
+        <h3>• {{< event_link page="sponsor" text="Interested in Sponsoring?" >}}</h3> -->
+        <hr/>
         <p>DevOpsDays Baltimore will be on {{< event_start >}} - {{< event_end >}}, at the Pava Center for Entrepreneurship at Johns Hopkins University in Baltimore.</p>
 <p>From fledgling startups to established industry, the DMV is home to a large, vibrant technology community. Baltimore, in particular, has been a flurry of activity in the past several years, drawing attention from around the globe.</p>
 
@@ -36,14 +39,14 @@ Description = "devopsdays Baltimore 2025"
             {{< event_location >}}
           </div>
         </div>
-        <div class = "row">
+        <!-- <div class = "row">
           <div class = "col-md-2">
             <strong>Register</strong>
           </div>
           <div class = "col-md-8">
-            <strong>{{< event_link url-key="registration_link" text="Register to attend the conference!" >}}</strong> <i>[Early bird discounts until 3/15, while supplies last]</i>
+            <strong>{{< event_link url-key="registration_link" text="Register to attend the conference!" >}}</strong>
           </div>
-        </div>
+        </div> -->
         <!-- <div class = "row">
           <div class = "col-md-2">
             <strong>Propose</strong>
@@ -52,7 +55,7 @@ Description = "devopsdays Baltimore 2025"
             {{< event_link url-key="cfp_link" text="Propose a talk, now!" >}}
           </div>
         </div> -->
-<!--        <div class = "row">
+        <div class = "row">
           <div class = "col-md-2">
             <strong>Schedule</strong>
           </div>
@@ -67,7 +70,7 @@ Description = "devopsdays Baltimore 2025"
           <div class = "col-md-8">
             Check out the {{< event_link page="speakers" text="speakers!" >}}
           </div>
-        </div>-->
+        </div>
         <div class="row">
           <div class="col-md-2">
             <strong>Sponsors</strong>

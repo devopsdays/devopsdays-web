@@ -41,7 +41,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: registration
     url: https://tickets.devopsdays.org/devopsdays-dallas/2025/
  # - name: program
- # - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -171,7 +171,25 @@ organizer_email: "dallas@devopsdays.org" # Put your organizer email address here
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: redhat
+    level: platinum
+  - id: datadog
+    level: gold
+  - id: pulumi
+    level: silver
+  - id: coder
+    level: silver
+  - id: openobserve
+    level: silver
   - id: arresteddevops
+    level: community
+  - id: gdgsolake
+    level: community
+  - id: harness
+    level: media
+  - id: twc
+    level: community
+  - id: nextop
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

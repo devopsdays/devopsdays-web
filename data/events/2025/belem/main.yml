@@ -40,7 +40,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: Inscreva-se
     url: https://www.sympla.com.br/evento/devopsdays-belem-2025/2818140
   - name: Programação
-    url: https://tasafo.github.io/belemdevopsdays/programacao
+    url: https://devopsdays.org/events/2025-belem/programa
   - name: Palestrantes
     url: https://tasafo.github.io/belemdevopsdays/palestrantes
   - name: Patrocínio
@@ -130,6 +130,8 @@ sponsors:
     level: community
   - id: aws-user-group-belem
     level: community
+  - id: devops-user-group-brazil
+    level: community
 
   # Diamante
   - id: idopterlabs
@@ -140,6 +142,8 @@ sponsors:
     level: diamante
 
   # Platina
+  - id: linuxtips
+    level: platinum
 
   # Ouro
   - id: easygestor
@@ -154,6 +158,8 @@ sponsors:
   # Bronze
 
   # Safo
+  - id: hage-consulting
+    level: safo
 
   # Apoio
   - id: aws
@@ -187,3 +193,109 @@ sponsor_levels:
     label: Comunidade
   - id: support
     label: Apoio
+
+
+program:
+  - title: "Credenciamento / Café da Manhã ☕️"
+    type: custom
+    date: 2025-06-07
+    start_time: "09:00"
+    end_time: "09:30"
+    background_color: "#FDF2E9"
+
+  - title: "Abertura"
+    type: custom
+    date: 2025-06-07
+    start_time: "09:30"
+    end_time: "09:45"
+
+  - title: "marcelio-leal"
+    type: talk
+    date: 2025-06-07
+    start_time: "09:45"
+    end_time: "10:30"
+    background_color: "#0984e3"
+
+  - title: "levi-leopoldino"
+    type: talk
+    date: 2025-06-07
+    start_time: "10:35"
+    end_time: "11:00"
+    background_color: "#0984e3"
+
+  - title: "allyson-brito"
+    type: talk
+    date: 2025-06-07
+    start_time: "11:05"
+    end_time: "11:30"
+    background_color: "#0984e3"
+
+  - title: "tiago-danin"
+    type: talk
+    date: 2025-06-07
+    start_time: "11:35"
+    end_time: "12:00"
+    background_color: "#0984e3"
+
+  - title: "Pausa para o Almoço 🍽️"
+    type: custom
+    date: 2025-06-07
+    start_time: "12:00"
+    end_time: "13:00"
+    background_color: "#FDF2E9"
+
+  - title: "lucas-ribeiro-mata"
+    type: talk
+    date: 2025-06-07
+    start_time: "13:00"
+    end_time: "13:25"
+    background_color: "#0984e3"
+
+  - title: "marcelo-sa"
+    type: talk
+    date: 2025-06-07
+    start_time: "13:30"
+    end_time: "13:55"
+    background_color: "#0984e3"
+
+  - title: "diego-brito"
+    type: talk
+    date: 2025-06-07
+    start_time: "14:00"
+    end_time: "14:25"
+    background_color: "#0984e3"
+
+  - title: "lucas-alberto"
+    type: talk
+    date: 2025-06-07
+    start_time: "14:30"
+    end_time: "14:55"
+    background_color: "#0984e3"
+
+  - title: "Coffee-break 🥐"
+    type: custom
+    date: 2025-06-07
+    start_time: "15:00"
+    end_time: "15:40"
+    background_color: "#FDF2E9"
+
+  - title: "Fishbowl"
+    type: custom
+    date: 2025-06-07
+    start_time: "15:40"
+    end_time: "16:30"
+    background_color: "#FDF2E9"
+
+  - title: "leticia-dornelas"
+    type: talk
+    date: 2025-06-07
+    start_time: "16:30"
+    end_time: "17:15"
+    background_color: "#0984e3"
+
+  - title: "Encerramento e Sorteios 🎉"
+    type: custom
+    date: 2025-06-07
+    start_time: "17:20"
+    end_time: "18:00"
+    background_color: "#FDF2E9"

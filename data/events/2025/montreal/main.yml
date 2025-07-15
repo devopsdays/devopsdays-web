@@ -127,11 +127,11 @@ organizer_email: "montreal@devopsdays.org" # Put your organizer email address he
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
- # - id: samplesponsorname
- #   level: gold
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  - id: arresteddevops
+  - id: morgan-stanley
+    level: bronze
+  - id: agile-montreal
     level: community
+ #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -140,20 +140,32 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: platinum
-    label: Platinum
-    max: 2
-  - id: gold
-    label: Gold
-    max: 5
-  - id: silver
-    label: Silver
-    max: 9
+  # - id: platinum
+  #   label: Platinum
+  #   max: 2
+  # - id: gold
+  #   label: Gold
+  #   max: 7
+  # - id: silver
+  #   label: Silver
+  #   max: 11
   - id: bronze
     label: Bronze
-    max: 7
-  - id: coffee
-    label: Coffee
-    max: 1
+    max: 9
+  # - id: lunch
+  #   label: Lunch
+  #   max: 2
+  # - id: lanyard
+  #   label: Lanyard
+  #   max: 1
+  # - id: breakfast
+  #   label: Breakfast
+  #   max: 2
+  # - id: startup
+  #   label: Startup
+  #   max: 9
+  # - id: non-profit
+  #   label: Non-profit
+  #   max: 5
   - id: community
     label: Community

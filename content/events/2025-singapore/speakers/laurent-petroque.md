@@ -3,6 +3,7 @@ Title = "Laurent Petroque"
 Linkedin = "https://www.linkedin.com/in/laurentpetroque"
 type = "speaker"
 linktitle = "laurent-petroque"
+image = "laurent-petroque.jpg"
 
 +++
 

@@ -14,16 +14,11 @@ One Marina Boulevard, Singapore 018989<br>
 <br>
 
 <p>
-    <img src="https://alep-p-001.sitecorecontenthub.cloud/api/public/content/34d612a18bb344929bb61303975db762" alt="Location map" class="img-fluid img-thumbnail">
-</p>
-<p>
-    <img src="https://alep-p-001.sitecorecontenthub.cloud/api/public/content/f48fdf0bfe1b4a698b04ff468d702d99" alt="Location map" class="img-fluid img-thumbnail">
-</p>
-<p>
-    <!-- <img src="https://alep-p-001.sitecorecontenthub.cloud/api/public/content/747a5734f0a849249c6b0a7026d1bcbb" alt="Location map" style="width: 1341px; height: 894px;"> -->
+<img src="https://alep-p-001.sitecorecontenthub.cloud/api/public/content/34d612a18bb344929bb61303975db762" alt="Location map" class="img-fluid img-thumbnail"></p>
+<p><img src="https://alep-p-001.sitecorecontenthub.cloud/api/public/content/f48fdf0bfe1b4a698b04ff468d702d99" alt="Location map" class="img-fluid img-thumbnail"></p>
+<p><img src="https://alep-p-001.sitecorecontenthub.cloud/api/public/content/747a5734f0a849249c6b0a7026d1bcbb" alt="Location map" class="img-fluid img-thumbnail"></p>
 
-    <img src="https://alep-p-001.sitecorecontenthub.cloud/api/public/content/747a5734f0a849249c6b0a7026d1bcbb" alt="Location map" class="img-fluid img-thumbnail">
-</p>
+<!-- <img src="https://alep-p-001.sitecorecontenthub.cloud/api/public/content/747a5734f0a849249c6b0a7026d1bcbb" alt="Location map" style="width: 1341px; height: 894px;"> -->
 
 ## Stephen Riady Auditorium
 
@@ -33,7 +28,12 @@ A good start is to read <a href="https://spaces.ntuc.org.sg/what-we-offer/our-fa
 
 ### Walking directions
 
-TBC
+Downtown MRT (DT17): 3-minute walk (200 meters). Exit at Exit A and walk straight along Marina Boulevard to One Marina Boulevard. The NTUC Centre is directly ahead.
+
+
+Raffles Place MRT (NS26/EW14): 8-minute walk (600 meters). Exit at Exit J (Clifford Pier), head toward Marina Boulevard,and follow the pedestrian path to One Marina Boulevard.
+
+Take the outside lift to Level 7
 
 # Travel Tips
 

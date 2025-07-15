@@ -27,21 +27,23 @@ registration_date_start: # start accepting registration. Leave blank if registra
 registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://tickets.devopsdays.org/devopsdays-halifax/2025/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 coordinates: ""
 location: "Kenneth C. Rowe Management Building, Dalhousie University" # The name of the venue. This will show up on the welcome page.
 location_address: "6100 University Ave, Halifax, NS B3H 1W7"
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
+location_address: "6100 University Ave, Halifax, NS B3H 1W7" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
  - name: location
- # - name: registration
- - name: program
+ - name: registration
+ - name: schedule
+   url: "https://talks.devopsdays.org/devopsdays-halifax-2025/schedule/"
  - name: speakers
+   url: "https://talks.devopsdays.org/devopsdays-halifax-2025/speaker/"
  - name: sponsor
  - name: contact
  - name: conduct
@@ -88,6 +90,12 @@ sponsors:
   level: community
 - id: kubeevents
   level: community
+- id: industrial-devops
+  level: community
+- id: gdg-halifax
+  level: community
+- id: shiftkey_labs
+  level: community     
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

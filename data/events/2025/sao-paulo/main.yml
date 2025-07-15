@@ -14,17 +14,17 @@ startdate:  2025-11-22T09:00:00+03:00 # The start date of your event. Leave blan
 enddate:  2025-11-22T19:00:00+03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  2025-04-23T10:00:00+03:00 # start accepting talk proposals.
-cfp_date_end:  2025-07-22T23:59:59+03:00 # close your call for proposals.
-cfp_date_announce:  2025-04-23T10:00:00+03:00 # inform proposers of status
+cfp_date_start:  2025-05-19T10:00:00+03:00 # start accepting talk proposals.
+cfp_date_end:  2025-07-25T23:59:59+03:00 # close your call for proposals.
+cfp_date_announce:  2025-08-25T10:00:00+03:00 # inform proposers of status
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://talks.devopsdays.org/devopsdays-sao-paulo-2025/cfp" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start: 2025-05-24T10:00:00+03:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2025-11-21T23:59:00+03:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "/events/2025-sao-paulo/registration" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -47,10 +47,11 @@ event_social_twitter: "https://twitter.com/sp_devopsdays" # Change this to the t
 # event_twitter: "sp_devopsdays" # This will create a traditional "Follow" twitter button. Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: chamadas (CfP)
- #   url: https://talks.devopsdays.org/devopsdays-sao-paulo-2025/cfp
+  - name: chamadas (CfP)
+    url: https://talks.devopsdays.org/devopsdays-sao-paulo-2025/cfp
  # - name: location
- # - name: registration
+  - name: Ingressos
+    url: /events/2025-sao-paulo/registration
  # - name: program
  # - name: speakers
   - name: patrocínio
@@ -71,19 +72,19 @@ team_members: # Name is the only required field for team members.
   - name: "Giovana do Nascimento Pena"
     email: "giovana.np1@gmail.com"
     pronouns: "ela/dela"
-    role: "Fullstack Developer"
-    employer: "IBM"
-    bio: "Application Developer Fullstack na IBM, Formada de Analise e Desenvolvimento de Sistemas na Universidade UNASP e Pós-graduanda em DevOps pela PUC Minas, Certificada em Developer Profession - Level 2 Experienced e IBM Cloud. Participante do instituto meninas negras, uma das lideres do TLC a comunidade técnica interna da IBM e Líder e contributors Bronze 2022 da comunidade Elastic São Paulo."
-    github: "https://github.com/GiovanaNp1"
-    linkedin: "https://www.linkedin.com/in/giovana-do-nascimento/"
-    website: "https://giovana-nascimento.netlify.app/"
-    image: "giovana-pena.png"
+    role: "Emgenheira de Software"
+    employer: "Itaú Unibanco"
+    bio: "Engenheira de software no Itaú, formada em Análise e Desenvolvimento de Sistemas pela Universidade UNASP. Atuo como community organizer da Elastic em São Paulo, com foco em Elasticsearch e no ecossistema ELK Stack. Além da atuação técnica, também compartilho conhecimento como professora e palestrante nas horas vagas"
+    github: "GiovanaNp1"
+    linkedin: "https://www.linkedin.com/in/giovana-do-nascimento-developer-fullstack-devops/"
+    website: ""
+    image: "giovana_pena.jpg"
   - name: "Rafael Brito Gomes"
     email: "gomex@devopsdays.org"
     pronouns: "ele/dele"
     employer: "DNSFilter"
-    github: "https://github.com/gomex"
-    twitter: "https://twitter.com/gomex"
+    github: "gomex"
+    twitter: "gomex"
     linkedin: ""
     website: "https://gomex.me"
     mastodon: ""
@@ -94,9 +95,9 @@ team_members: # Name is the only required field for team members.
     role: "DevOps Engineer | IT Architect"
     employer: "F1rst tecnologia"
     bio: ""
-    github: "https://github.com/robertsilvatech"
+    github: "robertsilvatech"
     facebook: ""
-    twitter: "https://twitter.com/robertsilvatech"
+    twitter: "robertsilvatech"
     linkedin: "https://www.linkedin.com/in/robertsilvatech/"
     website: ""
     mastodon: ""
@@ -104,16 +105,81 @@ team_members: # Name is the only required field for team members.
   - name: "Rodrigo Turatti"
     email: "rodrigo@turatti.dev"
     pronouns: "ele/dele"
-    role: "DevOps/SRE"
+    role: "DevSecOps"
     employer: ""
-    bio: ""
-    github: ""
+    bio: "Apaixonado por inovação e tecnologia. Estou sempre em busca de novos desafios, aprendizados e evolução contínua, participando ativamente da comunidade tech por meio de eventos, cursos e troca de conhecimento."
+    github: "rturatti"
     facebook: ""
     twitter: ""
     linkedin: "https://www.linkedin.com/in/rodrigoturatti"
+    website: "https://turatti.dev/"
+    mastodon: ""
+    image: "rodrigo_turatti.jpg"
+  - name: "Gregório Lixandrão"
+    email: "contato@greglixandrao.com"
+    pronouns: "ele/dele"
+    role: "DevOps/SRE"
+    employer: ""
+    bio: "Apaixonado por tecnologia e por solucionar problemas utilizando de soluções tecnologicas. Em eterna evolução."
+    github: "greglixandrao"
+    facebook: ""
+    twitter: "greglixandrao"
+    linkedin: "https://www.linkedin.com/in/gregorio-lixandrao"
+    website: "https://greglixandrao.com"
+    mastodon: ""
+    image: "gregorio-lixandrao.jpg"
+  - name: "Rarikmilkrai Sousa"
+    email: "rarikmilkrai05@gmail.com"
+    pronouns: ""
+    role: "SRE"
+    employer: ""
+    bio: ""
+    github: "rarikmilkrai"
+    facebook: ""
+    twitter: ""
+    linkedin: "https://www.linkedin.com/in/rarik-souza-94964173"
     website: ""
     mastodon: ""
-    image: "rodrigo-turatti.png"
+    image: "rarikmilkrai-souza.jpg"
+  - name: "Juan Borges"
+    email: "juanbsoares@outlook.com"
+    pronouns: ""
+    role: "SRE"
+    employer: "Serasa Experian"
+    bio: "Sou um SRE apaixonado por tecnologia e empreendedorismo. Gosto de unir tecnologia com visão de negócio, entendendo o impacto real das soluções que posso contribuir e construir. Acredito na colaboração e na cultura DevOps entre times e em tornar a complexidade algo mais simples e eficiente. Além da tecnologia, curto muito esportes (especialmente automobilismo), música, games e sempre que posso estou aprendendo algo novo."
+    github: "ssh-juan"
+    facebook: ""
+    twitter: ""
+    linkedin: "https://www.linkedin.com/in/juanbsoares/"
+    website: ""
+    mastodon: ""
+    image: "juan_borges.jpg"
+  - name: "Marcos Roberto Pereira da Silva Souza"
+    email: "marcosouzatech@gmail.com"
+    pronouns: ""
+    role: "Platform Enginner"
+    employer: ""
+    bio: "Nascido na favela ( 100% jardim Irene ) Marido da Aline, Pai da Lara , Platform Engineer e Fundador da 3DCOMTECH!"
+    github: ""
+    facebook: ""
+    twitter: ""
+    linkedin: "https://www.linkedin.com/in/marcosouzatech/"
+    website: "https://www.3dcomtech.com.br/"
+    mastodon: ""
+    image: "marcos_souza.jpg"
+  - name: "Pedro Ignácio"
+    email: "peignaciorufo@gmail.com"
+    pronouns: "Ele/Dele"
+    role: "DevOps Engineer"
+    employer: "Itaú Unibanco"
+    bio: "Docker Captain, Microsoft MVP, DevOps Engineer e um amante do open source e da comunidade!"
+    github: ""
+    facebook: ""
+    twitter: ""
+    linkedin: "https://www.linkedin.com/in/pedroirufo/"
+    website: "https://pedroignacio.dev"
+    mastodon: ""
+    image: "pedro_ignacio.jpg"
 #  - name: "John Doe"
 #  - name: "Jane Smith"
 #    twitter: "devopsdays"

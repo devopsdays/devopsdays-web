@@ -2,76 +2,57 @@
 talk_date = ""
 talk_start_time = ""
 talk_end_time = ""
-Title = "Secure, Deliver and Optimize GenAI ChatBot"
+Title = "Workshop: Secure, Deliver and Optimize a modern GenAI ChatBot"
 Type = "talk"
-Speakers = ["francois-chua", "minh-nguyen"]
+Speakers = ["francois-chua"]
 youtube = ""
 speakerdeck = ""
+sharing_image = "workshop-secure-deliver-and optimize-genai-chatbot.jpg"
 +++
+ 
+### Workshop
+
+Learn how to enhance the security, delivery, and optimization of AI applications with F5 AI Gateway. In this hands-on session, we’ll explore using F5 AI Gateway with an existing AI chat application to:
+
+* Protect against common AI attacks (OWASP LLM Top 10)
+* Optimize performance by routing AI traffic to the most suitable LLM
+
+#### Target Audience
+
+Engineers and Practitioners who are keen to explore AI application security and delivery.
+
+#### Workshop Overview
+
+* Fundamental about F5 AI Gateway AI Core / AI Processor
+* Understanding AI Gateway Configuration
+* Deploy F5 AI Gateway
+* Deploy AI Gateway User Interface.
+* Deploy F5 AI Processor
+* Validate GenAI chatbot works via AI Gateway
+* Deploy Simply-Chat App
+* Use Cases
 
 
-Prerequisite
-KASM desktop
-Windows10 Jumphost Console
-Lab Setup Environment
-### Class 1: The fundamental of Generative Artificial Intelligent (AI)
+#### Key Takeaways
 
-#### AI Primer
- - What is AI and how different with GenAI?
- - What is LLM?
- - What is SLM?
- - What is ML?
- - What hallucination means in AI?
- - What “token” means in context in AI?
- - What is quantization?
- - What is Retrival Augmented Generation?
- - What is Agentic RAG?
- - What is vectorizing in AI?
- - What is embedding in AI?
- - What is “context windows” in AI?
- - What is “temperature” in AI?
+By the end of this workshop, you should be able to:
+* Understand the use cases of AI Gateway
+* Understand how AI Gateway Core and Processor work
+* Understand how to protect AI applications against AI attacks (OWASP LLM Top 10)
 
-### Class 2: Deploy and Secure a modern application
- - Deploy Nginx Ingress Controller with App Protect to protect Web Apps Server
- - Deploy Arcadia Financial Modern Apps
- - Secure Modern Apps with NGINX App Protect WAF
- - Recap
+#### Prerequisites for Participants
 
-### Class 3: Architect, build and deploy AI Services
- - Conceptual Architecture of AI Services
- - Deploy Nginx Ingress Controller for AIGW K8S
- - Deploy Open-WebUI with Ollama Service
- - Download Language Model
- - Deploy LLM model service (Ollama)
- - Deploy LLM orchestrator service (Flowise AI)
- - Deploy Vector Database (Qdrant)
- - Build RAG pipeline with FlowsieAI/Langchain
-Vectorize Proprietary Data
-Validate your first GenAI RAG Chatbot
+* Basic understanding of containers, docker & Kubernetes experience
+* Basic understanding of LLMs
+* Bring your own laptop with RDP client (RDP protocol allowed) to access Windows10 Jump host or Chrome Browser to access KASM desktop (Linux Jump host)
+* Need Internet access to F5 remote labs (Use Wi-Fi or your own data)
 
-### Class 4: Enhance Modern Application with GenAI ChatBot
- - Integrate AI Service (RAG ChatBot) into Arcadia Trading
+Note: Participants can access the workshop training guides online, and the F5 Lab will be available for 72 hours.
 
-### Class 5: Secure, Deliver and Optimize GenAI ChatBot
- - Fundamental about F5 AI Gateway AI Core / AI Processor
- - Understanding AIGW Configuration
- - Deploy F5 AI Gateway
- - Deploy AI GW User Interface.
- - Deploy F5 AI Processor
- - Validate GenAI chatbot works via AIGW
- - Deploy Simply-Chat Apps
+#### Useful Links
 
-**Use Cases**
-* LLM Traffic Management
-* PII Redactor - Sensitive Information Disclosure
-* RAG ChatBot - Sensitive Information Disclosure
-* Prompt Injection
+https://genai.owasp.org/resource/owasp-top-10-for-llm-applications-2025/
 
-### Class 6: LLM Red Teaming
-* What is AI Governance?
-* AI Risk/Safety vs AI Security
-* What is LLM Red Teaming?
-* F5 LLM Red Teaming Solution
 
 <div class="card col-lg-12 border-0"><div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/r4afnSqn-Ns" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
