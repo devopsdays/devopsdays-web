@@ -63,10 +63,30 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Axel Labruna"
+    employer: "Nubiral"
+    linkedin: "https://www.linkedin.com/in/axelglabruna/"
+    bio: "Solution Architect"
+    github: "axellab"
+    #image: "pic.jpg"
   - name: "Rossana Suarez"
+    employer: "NaranjaX"
+    linkedin: "https://www.linkedin.com/in/roxsross/"
+    bio: "Tech Lead"
+    github: "roxsross"
+    website: "https://roxs.295devops.com/"
+    #image: "pic.jpg"
   - name: "Maika Esteves"
+    employer: "Naranja X - @Boreal IT"
+    linkedin: "https://www.linkedin.com/in/maikaesteves/"
+    bio: "DevOps Engineer"
   - name: "Matias Armandola"
+    employer: "Safe-U"
+    linkedin: "https://www.linkedin.com/in/matiarmandola/"
+    bio: "GRC Lead"
   - name: "Martin Calderon"
+    employer: "Betsol"
+    linkedin: "https://www.linkedin.com/in/martin369/"
+    bio: "Technical Product Owner"
     #twitter: "devopsdays"
     #employer: "Acme Anvil Co."
     #github: "devopsdays"
@@ -79,12 +99,12 @@ organizer_email: "buenos-aires@devopsdays.org" # Put your organizer email addres
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
-sponsors:
-  - id: samplesponsorname
-    level: gold
+#sponsors:
+#  - id: samplesponsorname
+#    level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  - id: arresteddevops
-    level: community
+#  - id: arresteddevops
+#    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
