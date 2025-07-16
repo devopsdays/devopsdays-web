@@ -1,7 +1,7 @@
 +++
 Title = "Location"
 Type = "event"
-Description = "Location for devopsdays Florianópolis 2025"
+Description = "Location for DevOpsDays Florianópolis 2025"
 +++
 
 O evento será sediado no Centro Universitário Cesusc - UNICESUSC.
