@@ -42,7 +42,6 @@ then
     sedcmd "/^\/$city_slug/s/.\{4\}-$city_slug/$event_slug/" "../static/_redirects"
 else
 # If a previous-year event does not exist, create the redirection for the desired year
-  echo "" >> "../static/_redirects"
   echo "/$city_slug/*            /events/$event_slug/:splat           302" >> "../static/_redirects"
 fi
 
