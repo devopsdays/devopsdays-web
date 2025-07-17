@@ -1,8 +1,8 @@
 +++
-Title = "devopsdays Florianópolis 2024"
+Title = "DevOpsDays Florianópolis 2025"
 Type = "welcome"
 aliases = ["/events/2025-florianopolis/"]
-Description = "devopsdays Florianópolis 2024"
+Description = "DevOpsDays Florianópolis 2025"
 +++
 <div class="row">
   <div class="col-md-2">
@@ -13,7 +13,7 @@ Description = "devopsdays Florianópolis 2024"
   </div>
   <hr>
   <div class="col-md-6">
-    <h3>DevOpsDays in Florianópolis</h3>
+    <h3>DevOpsDays Florianópolis</h3>
     <hr/>
     <div class="row">
       <div class="col-md-2">
@@ -28,7 +28,7 @@ Description = "devopsdays Florianópolis 2024"
         <strong>Sponsors</strong>
       </div>
       <div class="col-md-6">
-        {{< event_link page="sponsor" text="Apoie o Devopsdays Florianópolis 2025!" >}}
+        {{< event_link page="sponsor" text="Apoie o DevOpsDays Florianópolis 2025!" >}}
       </div>
     </div>
     <!-- <div class="row">
@@ -50,5 +50,9 @@ Description = "devopsdays Florianópolis 2024"
   </div>
 
 </div>
-
+<style>
+  .welcome-page-masthead:before {
+    background-position: bottom;
+  }
+</style>
 <!-- <img src="/events/2024-florianopolis/header.jpeg" class="img-fluid mx-auto">  -->
