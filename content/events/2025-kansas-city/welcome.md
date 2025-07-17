@@ -17,6 +17,24 @@ Description = "DevOpsDays Kansas City, after a successful return in 2024, is bac
     <p>
     Are you looking to connect with executives and senior technical leaders at the top companies in Kansas City? DevOpsDays KC had over 70 local companies represented in 2024, and we expect that number to continue to grow. Of our attendees, over 50% are senior technical leaders with titles ranging from Senior Technology Architect to CTO. This is a great opportunity to connect with senior leadership and decision makers from the top companies across Kansas City. If your target audience is more of a mix - we have students, project managers, security specialists, business analysts, and people managers.
     </p>
+    <h2>SPECIAL KARAOKE EVENT - AUGUST 14TH!</h2>
+    <div class = "row"> <!-- karaoke event signup -->
+      <div class = "col-md-12">
+        <div class = "row justify-content-center">
+          <iframe
+            src="https://lu.ma/embed/event/evt-3PYNa0kUqYICQmJ/simple"
+            width="800"
+            height="450"
+            frameborder="0"
+            style="border: 1px solid #bfcbda88; border-radius: 4px;"
+            allow="fullscreen; payment"
+            aria-hidden="false"
+            tabindex="0"
+          >
+          </iframe>
+        </div>
+      </div>
+    </div>
       <div class = "row"> <!-- another cta row-->
         <div class = "col-md-12">
           <div class = "row justify-content-center">
@@ -39,10 +57,9 @@ Description = "DevOpsDays Kansas City, after a successful return in 2024, is bac
             <div class = "d-flex p-2">
               <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px;
                 background-color: #96bfe6; border-color: #96bfe6;"
-                href="https://lists.devopsdays.org/subscription?f=TYbgJMtfqomf8uYARrTHhqAKoinSX763iDCLAvdcUFPDW2aF7J7EY53W1TeVcYoawk
-                ">
-                  <i class="fa-solid fa-envelope"></i>
-                  &nbsp;&nbsp;&nbsp;Subscribe to the Mailing List
+                href="https://ti.to/kansas-city-developers-conference/kcdc-2025/with/butv1w2odhe">
+                  <i class="fa-solid fa-ticket"></i>
+                  &nbsp;&nbsp;&nbsp;Get your Ticket!
               </a>
             </div>
 <!-- remove CFP
@@ -68,6 +85,8 @@ Description = "DevOpsDays Kansas City, after a successful return in 2024, is bac
     </div>
   </div>
 </div>
+
+<hr>
 
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
