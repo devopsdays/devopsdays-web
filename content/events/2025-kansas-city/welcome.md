@@ -69,6 +69,23 @@ Description = "DevOpsDays Kansas City, after a successful return in 2024, is bac
   </div>
 </div>
 
+<div class = "row">
+<div class = "col-md-12">
+  <iframe
+  src="https://lu.ma/embed/event/evt-3PYNa0kUqYICQmJ/simple"
+  width="600"
+  height="450"
+  frameborder="0"
+  style="border: 1px solid #bfcbda88; border-radius: 4px;"
+  allow="fullscreen; payment"
+  aria-hidden="false"
+  tabindex="0"
+></iframe>
+</div>
+</div>
+
+<hr>
+
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
 </div> -->
