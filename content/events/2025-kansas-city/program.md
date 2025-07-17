@@ -12,7 +12,7 @@ Icons = "true"
 </div>
 <div class = "row" style="margin-top: 1em;">
   <div class = "col">
-    Don't forget to check out the rest of the schedule for KCDC at <a href="https://kcdc.info">kcdc.info</a>!
+    Don't forget to check out the rest of the schedule for KCDC at <a href="https://kcdc.info">kcdc.info</a>, and <strong>make sure you sign up for the <a href="https://lu.ma/c3qaflrj" target="_blank">Karaoke event<a></strong>!
     <hr />
     <i><strong>All times are in US Central Time</strong></i>
   </div>
