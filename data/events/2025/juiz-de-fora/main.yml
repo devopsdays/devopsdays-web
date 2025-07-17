@@ -4,8 +4,8 @@ city: "Juiz de Fora" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaysjf" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "DevOpsDays em Juiz de Fora!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
-event_logo: "/events/2025-juiz-de-fora/logo.png"
-masthead_background: "vista_do_centro_de_juiz_de_fora-mg.jpeg"
+event_logo: "logo.png"
+masthead_background: "background.jpg"
 
 # All dates are in unquoted 2025-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2019-01-04T00:00:00+02:00
@@ -38,19 +38,15 @@ location_address: "R. Halfeld, 1179 - Centro, Juiz de Fora - MG, 36016-000" #Opt
 # Optional - Social badges
 # These can be used in the body of any page via matching shortcodes. See sample:  https://devopsdays.org/events/2025-denver/welcome/
 event_social_linkedin: "https://linkedin.com/company/devopsdaysjf" # Change this to the url to your Linkedin group, company, or page.
-event_social_slack: "https://join.slack.com/t/devopsdaysjf/custom_shared_invite_url" # Change this to your slack invite link.
-event_social_listserv: "https://lists.devopsdays.org/subscription?custom_listserv_invite_url" # Change this to your mailing list subscription form url.
 event_social_twitter: "devopsdaysjf" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-event_social_mastodon: "https://mastodon.social/@devopsdaysjf" # Change this to url to your mastodon page
-event_social_bsky: "https://bsky.app/profile/devopsdaysjf.bsky.social" # Change this to url to your bluesky page
-event_social_youtube: "devopsdaysjf" # Change this to the youtube channel handle for your event such as devopsdaysrox
 # legacy
 event_twitter: "devopsdaysjf" # This will create a traditional "Follow" twitter button. Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: Chamadas (CFP)
     url: https://talks.devopsdays.org/devopsdays-juiz-de-fora-2025/cfp
-  - name: location
+  - name: local
+    url: /events/2025-juiz-de-fora/location
   - name: inscrição
     url: https://www.sympla.com.br/evento/devopsdays-juiz-de-fora-2025/3027198
   #- name: programação
