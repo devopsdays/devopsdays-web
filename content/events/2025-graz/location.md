@@ -60,4 +60,4 @@ Description = "Location for DevOpsDays Graz 2025"
 <section>
   <h2>Accessibility</h2>
   <p>
-    The venues are wheelchair acces
+    The venues are wheelchair accesible.
