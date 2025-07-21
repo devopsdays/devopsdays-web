@@ -81,18 +81,21 @@ The best thing to do is send engineers to interact with the experts at devopsday
           <th>Packages</th>
           <th class="platinum">Platinum</th>
           <th class="gold">Gold</th>    
+          <th class="lanyard">Lanyard</th>
           <th class="silver">Silver</th>
       </tr>
       <tr>
           <td class="label">Remaining Sponsorhips (First come first serve)</td>
           <td class="platinum">1 of 1</td>
           <td class="gold">11 of 11</td>
+          <td class="lanyard">1 of 1</td>
           <td class="silver">Unlimited</td>
       </tr>
       <tr>
           <td class="label">Price</td>
           <td class="platinum">15,000 USD</td>
           <td class="gold">6,500 USD</td>
+          <td class="lanyard">2,500 USD</td>
           <td class="silver">2,000 USD</td>
       </tr>
       <tr>
@@ -102,10 +105,11 @@ The best thing to do is send engineers to interact with the experts at devopsday
           <td>
               <a href="https://link.waveapps.com/8s43vh-2m7mwf" target=”_blank”>
                 <img src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif"/></a></td>
-         </td>
           <td>
               <a href="https://link.waveapps.com/a967hv-9nbd3d" target=”_blank”>
                 <img src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif"/></a></td>
+        <td>              <a href="https://link.waveapps.com/xfugsp-smc3q3" target=”_blank”>
+                <img src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif"/></a></td></td>
           <td>
               <a href=" https://link.waveapps.com/85h5sv-egc4g7" target=”_blank”>
                 <img src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif"/></a></td>
@@ -115,16 +119,19 @@ The best thing to do is send engineers to interact with the experts at devopsday
           <td class="platinum"><a href="mailto:des-moines@devopsdays.org?subject=Platinum%20Sponsorship%20Invoice" target="_blank">Request</a></td>
           <td class="gold"><a href="mailto:des-moines@devopsdays.org?subject=Gold%20Sponsorship%20Invoice" target="_blank">Request</a></td>
           <td class="">Wave Payments Only</td>
+          <td class="">Wave Payments Only</td>
       </tr>
       <tr>
           <td class="label">Included tickets</td>
           <td class="platinum">6</td>
           <td class="gold">4</td>
+          <td class="lanyard">2</td>
           <td class="silver">2</td>
       </tr>
       <tr>
           <td class="label">"Presented By" Event Branding</td>
           <td class="platinum"></td>
+          <td class=""></td>
           <td class=""></td>
           <td class=""></td>
       </tr>
@@ -138,18 +145,21 @@ The best thing to do is send engineers to interact with the experts at devopsday
           <td class="label">Logo on event slides</td>
           <td class="platinum">Large</td>
           <td class="gold">Medium</td>
+          <td class="lanyard">Small</td>
           <td class="silver">Small</td>
       </tr>
       <tr>
           <td class="label">Logo printed on event lanyard</td>
-          <td class="platinum"></td>
           <td class=""></td>
+          <td class=""></td>
+          <td class="lanyard"></td>
           <td class=""></td>
       </tr>
       <tr>
           <td class="label">Logo on pre-event communication</td>
           <td class="platinum"></td>
           <td class="gold"></td>
+          <td class="lanyard"></td>
           <td class="silver"></td>
       </tr>
       <tr>
@@ -157,10 +167,12 @@ The best thing to do is send engineers to interact with the experts at devopsday
           <td class="platinum"></td>
           <td class="gold"></td>
           <td class=""></td>
+          <td class=""></td>
       </tr>
       <tr>
           <td class="label">Full 96"x30" table (Premium Location)</td>
           <td class="platinum"></td>
+          <td class=""></td>
           <td class=""></td>
           <td class=""></td>
       </tr>
@@ -169,11 +181,13 @@ The best thing to do is send engineers to interact with the experts at devopsday
           <td class=""></td>
           <td class="gold"></td>
           <td class=""></td>
+          <td class=""></td>
       </tr>
       <tr>
           <td class="label">1 minute pitch to audience (including streaming attendees if applicable)</td>
           <td class="platinum"></td>
           <td class="gold"></td>
+          <td class=""></td>
           <td class=""></td>
       </tr>
       <tr>
@@ -181,10 +195,12 @@ The best thing to do is send engineers to interact with the experts at devopsday
           <td class="platinum"></td>
           <td class=""></td>
           <td class=""></td>
+          <td class=""></td>
       </tr>
       <tr>
           <td class="label">Roll-up banners displayed at social event</td>
           <td class="platinum"></td>
+          <td class=""></td>
           <td class=""></td>
           <td class=""></td>
       </tr>
