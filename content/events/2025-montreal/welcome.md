@@ -118,7 +118,7 @@ Stay tuned for updates on future events, and thank you for being part of DevOpsD
 DevOpsDays is a series of technical conferences focused on the topics of software development, IT infrastructure operations, and the intersection between them. Our events bring together professionals from across the industry to discuss the latest trends, best practices, and challenges facing the DevOps community.
 </p>
 <p>
-As an organizer for DevOpsDays Montreal, we're thrilled to invite you to join us for our upcoming event in fall 2025 (TBD). Whether you're a developer, sysadmin, tester, product manager, or anyone else interested in DevOps, there will be something for you at DevOpsDays Montreal.
+As an organizer for DevOpsDays Montreal, we're thrilled to invite you to join us for our upcoming event in October 14th and 15th 2025. Whether you're a developer, sysadmin, tester, product manager, or anyone else interested in DevOps, there will be something for you at DevOpsDays Montreal.
 </p>
 <p>
 Our event will feature a variety of presentations, discussions, and networking opportunities, all centered around the themes of collaboration, automation, measurement, and sharing. We also believe that taking care of ourselves and each other is critical to our success in this industry, which is why we'll be including sessions focused on mental health and well-being.
@@ -147,7 +147,7 @@ Restez à l’affût des prochains événements, et merci d’avoir fait partie 
 DevOpsDays Montréal est une série de conférences axées sur le développement logiciel, les opérations d’infrastructure informatique, et la synergie entre les deux. Nos événements rassemblent des professionnels de toute l’industrie pour discuter des dernières tendances, des meilleures pratiques et des défis auxquels la communauté DevOps est confrontée. 
 </p>
 <p>
-En tant qu’organisateur du DevOpsDays Montréal, nous sommes ravis de vous inviter à nous rejoindre pour notre prochain événement qui aura lieu en automne 2025 (à définir). Que vous soyez développeur, administrateur de systèmes, testeur, chef de produit ou toute autre personne intéressée par le DevOps, vous repartirez inspirer par ce rassemblement unique! 
+En tant qu’organisateur du DevOpsDays Montréal, nous sommes ravis de vous inviter à nous rejoindre pour notre prochain événement qui aura lieu le 14 et 15 octobre 2025. Que vous soyez développeur, administrateur de systèmes, testeur, chef de produit ou toute autre personne intéressée par le DevOps, vous repartirez inspirer par ce rassemblement unique! 
 </p>
 <p>
 Notre événement proposera une variété de présentations, de discussions et d’opportunités de réseautage, tous centrés sur les thèmes de la collaboration, de l’automatisation, de la mesure et du partage. Nous pensons également que prendre soin de nous-mêmes et des autres est essentiel à notre succès dans cette industrie, c’est pourquoi nous inclurons des sessions axées sur la santé mentale et le bien-être. 
