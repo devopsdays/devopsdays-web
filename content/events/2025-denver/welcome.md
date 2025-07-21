@@ -40,7 +40,7 @@ Description = "devopsdays Denver 2025"
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="registration" text="Early bird tickets sales end July 15!" >}}
+    {{< event_link page="registration" text="Get your tickets today!" >}}
   </div>
 </div>
 
