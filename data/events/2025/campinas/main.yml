@@ -106,6 +106,8 @@ sponsors:
     level: comunidade
   - id: fiap
     level: comunidade
+  - id: bosch
+    level: prata
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
