@@ -76,7 +76,7 @@ organizer_email: "philadelphia@devopsdays.org"
 sponsors:
   - id: appdynamics
     level: silver
-  - id: portworx
+  - id: port-before-20250722worx
     level: silver
   - id: redgate
     level: silver
