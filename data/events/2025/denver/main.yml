@@ -89,6 +89,8 @@ sponsors:
     level: silver
   - id: fairwinds
     level: supporter
+  - id: releaseteam
+    level: supporter
   - id: code-talent
     level: community
   - id: kubecareers
