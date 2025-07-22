@@ -130,6 +130,8 @@ sponsors:
      url: https://pe.nttdata.com/
    - id: credicorp
      level: gold
+   - id: interbank
+     level: gold
    - id: linearb
      level: silver
      url: https://linearb.io/
