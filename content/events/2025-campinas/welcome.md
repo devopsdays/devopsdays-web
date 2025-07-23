@@ -97,6 +97,11 @@ a.jssocials-share-link, a.event-cta-button {
     <h3>18 de outubro de 2025</h3>
     <h4>Instituto de Computação - Unicamp</h4>
     <hr/>
+    <h2>Quer palestrar?</h2>
+    <h3>
+      <a href="https://talks.devopsdays.org/devopsdays-campinas-2025/cfp">Envie aqui sua proposta de palestra!</a>
+    </h3>
+    <hr/>
     <h2>Quer patrocinar?</h2>
     <h3>
       <a href="https://www.canva.com/design/DAGhWR7yW-o/aHW-PRY8qmxMehurTY_KTw/view">Acesse aqui nossa Carta de Patrocínio</a> e saiba como patrocinar e apoiar o evento.
