@@ -112,7 +112,7 @@ sponsors:
     level: community
   - id: s3
     level: bronze
-  - id: castai
+  - id: castai-before-20250721
     level: icecream
 
 #sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
