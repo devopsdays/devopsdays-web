@@ -144,8 +144,11 @@ sponsors:
   - id: cps1
     level: community
 
-  # - id: picpay
-  #   level: community
+  - id: picpay
+    level: community
+
+  - id: grafana
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
