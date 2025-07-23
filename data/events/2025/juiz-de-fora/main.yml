@@ -1,0 +1,159 @@
+name: "2025-juiz-de-fora" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2025" # The year of the event. Make sure it is in quotes.
+city: "Juiz de Fora" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaysjf" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "DevOpsDays em Juiz de Fora!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+event_logo: "logo.png"
+masthead_background: "background.jpg"
+
+# All dates are in unquoted 2025-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2025-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2025-09-27T08:00:00-03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2025-09-27T18:00:00-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2025-07-15T09:00:00-03:00 # start accepting talk proposals.
+cfp_date_end: 2025-08-10T23:59:59-03:00 # close your call for proposals.
+cfp_date_announce: 2025-08-26T09:00:00-03:00 # inform proposers of status
+
+cfp_open: "true"
+cfp_link: "https://talks.devopsdays.org/devopsdays-juiz-de-fora-2025/cfp"
+
+registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://www.sympla.com.br/evento/devopsdays-juiz-de-fora-2025/3027198" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+# coordinates: "" # No longer used
+location: "UniAcademia"
+location_address: "R. Halfeld, 1179 - Centro, Juiz de Fora - MG, 36016-000" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+# Optional - Social badges
+# These can be used in the body of any page via matching shortcodes. See sample:  https://devopsdays.org/events/2025-denver/welcome/
+event_social_linkedin: "https://linkedin.com/company/devopsdaysjf" # Change this to the url to your Linkedin group, company, or page.
+event_social_twitter: "devopsdaysjf" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+# legacy
+event_twitter: "devopsdaysjf" # This will create a traditional "Follow" twitter button. Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: Chamadas (CFP)
+    url: https://talks.devopsdays.org/devopsdays-juiz-de-fora-2025/cfp
+  - name: local
+    url: /events/2025-juiz-de-fora/location
+  - name: inscrição
+    url: https://www.sympla.com.br/evento/devopsdays-juiz-de-fora-2025/3027198
+  #- name: programação
+  #  url: /events/2025-juiz-de-fora/program
+  #- name: palestrantes
+  #  url: /events/2025-juiz-de-fora/speakers
+  - name: patrocínio
+    url: /events/2025-juiz-de-fora/sponsor
+  - name: contato
+    url: /events/2025-juiz-de-fora/contact
+  - name: código de conduta
+    url: /events/2025-juiz-de-fora/conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Brauleyn Zoffoli"
+    role: "Organizer"
+    employer: "Smart NX"
+    linkedin: "https://www.linkedin.com/in/brau/"
+    image: "brauleyn-zoffoli.jpeg"
+  - name: "Bruno Pacheco"
+    role: "Organizer"
+    employer: "Fundação Caed"
+    linkedin: "https://www.linkedin.com/in/bruno-pacheco-da-silva/"
+    image: "bruno-pacheco.jpg"
+  - name: "Cíntia Esteves de Paulo"
+    role: "Organizer"
+    employer: "MEI de Sucesso"
+    linkedin: "https://www.linkedin.com/in/cintia-esteves/"
+    image: "cintia-esteves-de-paulo.jpeg"
+  - name: "Daniel Sobrinho"
+    role: "Organizer"
+    employer: "Unimed Juiz de Fora"
+    github: "danielsobrinho"
+    linkedin: "https://www.linkedin.com/in/dsobrinho/"
+    image: "daniel-sobrinho.jpg"
+  - name: "Guilherme Ferraz"
+    role: "Organizer"
+    employer: "Rubeus"
+    github: "guilherme-ferraz"
+    linkedin: "https://www.linkedin.com/in/guilhermeaugustoferraz/"
+    image: "guilherme-ferraz.jpg"
+  - name: "João Medina"
+    role: "Organizer"
+    employer: "iFood"
+    linkedin: "https://www.linkedin.com/in/joaomedinadev/"
+    image: "joao-medina.jpeg"
+  - name: "José Geraldo"
+    role: "Organizer"
+    employer: "Rubeus"
+    twitter: "JgtJoseGeraldo"
+    github: "jgt-josegeraldo"
+    linkedin: "https://www.linkedin.com/in/josegeraldocosta/"
+    image: "jose-geraldo.jpg"
+    bio: "Nascido em Rosário da Limeira"
+    facebook: "https://www.facebook.com/josegeraldo.costa.129"
+  - name: "Mauro Pereira Filho"
+    role: "Organizer"
+    employer: "Progress Rail"
+    linkedin: "https://www.linkedin.com/in/mauropereirafilho/"
+    image: "mauro-pereira-filho.webp"
+  - name: "Ryan Pacheco"
+    role: "Organizer"
+    employer: "Rubeus"
+    linkedin: "https://www.linkedin.com/in/ryanvpacheco/"
+    image: "ryan-pacheco.jpeg"
+  - name: "Tabita Magalhães da Costa"
+    role: "Organizer"
+    employer: "Rubeus"
+    linkedin: "https://www.linkedin.com/in/tabitacosta/"
+    image: "tabita-magalhaes-da-costa.jpeg"
+  - name: "Vinicius Carlos de Oliveira"
+    role: "Organizer"
+    employer: "Real Grana"
+    linkedin: "https://www.linkedin.com/in/vinicius-carlos/"
+    image: "vinicius-carlos-de-oliveira.jpeg"
+
+organizer_email: "juiz-de-fora@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: rubeus
+    level: platinum
+  - id: uniacademia
+    level: platinum
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: platinum
+    label: Platinum
+  - id: gold
+    label: Gold
+  - id: silver
+    label: Silver
+  - id: bronze
+    label: Bronze
+  - id: gifts
+    label: Gifts
+  - id: community
+    label: Community
