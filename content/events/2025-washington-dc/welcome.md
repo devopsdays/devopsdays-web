@@ -31,14 +31,14 @@ Description = "devopsdays washington-dc 2025"
         {{< event_link page="registration" text="Register to attend the conference!" >}}
       </div>
     </div>
-    <div class = "row">
+    <!-- <div class = "row">
       <div class = "col-md-2">
         <strong>Propose</strong>
       </div>
       <div class = "col-md-8">
         {{< event_link url-key="cfp_link" text="Propose a talk!" >}}
       </div>
-    </div>
+    </div> -->
     <!-- <div class = "row">
       <div class = "col-md-2">
         <strong>Program</strong>
@@ -88,6 +88,14 @@ Description = "devopsdays washington-dc 2025"
         <h4 class="speaker-bio-talks">Engineering's Quest for Responsible Efficiency</h3>
         <p>When done right, efficiency enables access—this fundamental principle drives responsible engineering practices. A low cost operating platform means you can expand access, serving customers and use cases that may have been underserved or ignored previously. Drawing from Nubank's real-world examples, this talk explores how efficiency frequently provides optionality in engineering decisions while demonstrating practical approaches to pursue it responsibly. We'll examine specific strategies such as differentiating between demand and supply side approaches, and measuring efficiency of entire value chains and flows rather than optimizing individual services or components in isolation. Join us to discover how the quest for responsible efficiency can transform technical operations while expanding reach.
         </p>
+      </div>
+    </div>
+    <h2 class="speaker-page" style="color: #17a2b8; display: inline-block;">Another Featured Keynote Speaker!!</h2>
+    <div class="speaker-bio">
+      <img class="organizer-image" src="/events/2025-washington-dc/john-willis-square.jpg" alt="John Willis" class="speaker-image">
+      <div>
+        <h3 class="speaker-page">John Willis</h3>
+        <p>John Willis has worked in the IT management industry for more than 35 years and is a prolific author, including "Deming's Journey to Profound Knowledge" and "The DevOps Handbook." He is researching DevOps, DevSecOps, IT risk, modern governance, and audit compliance. Previously he was an Evangelist at Docker Inc., VP of Solutions for Socketplane (sold to Docker) and Enstratius (sold to Dell), and VP of Training & Services at Opscode where he formalized the training, evangelism, and professional services functions at the firm. Willis also founded Gulf Breeze Software, an award winning IBM business partner, which specializes in deploying Tivoli technology for the enterprise. Willis has authored six IBM Redbooks for IBM on enterprise systems management and was the founder and chief architect at Chain Bridge Systems.</p>
       </div>
     </div>
   </div>

@@ -130,6 +130,8 @@ sponsors:
      url: https://pe.nttdata.com/
    - id: credicorp
      level: gold
+   - id: interbank
+     level: gold
    - id: linearb
      level: silver
      url: https://linearb.io/
@@ -138,6 +140,8 @@ sponsors:
      url: https://softtek.com/es/
    - id: devco
      level: silver
+   - id: port
+     level: silver 
    - id: idm
      level: bronze
      url: https://idmtechnology.com.pe/
