@@ -95,7 +95,9 @@ sponsors:
 - id: gdg-halifax
   level: community
 - id: shiftkey_labs
-  level: community     
+  level: community
+- id: ccia
+  level: community       
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
