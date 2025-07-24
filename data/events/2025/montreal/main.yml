@@ -28,6 +28,7 @@ registration_closed: "" #set this to true if you need to manually close registra
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 masthead_background: "montreal-background.jpg"
 sharing_image: "montreal-sharing.png"
+event_logo: "logo-square.jpg"
 
 # Location
 #
