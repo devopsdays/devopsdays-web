@@ -132,6 +132,10 @@ sponsors:
      level: gold
    - id: interbank
      level: gold
+   - id: manage-engine
+     level: gold
+   - id: esan
+     level: gold
    - id: linearb
      level: silver
      url: https://linearb.io/
