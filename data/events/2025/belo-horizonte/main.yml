@@ -57,8 +57,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: speakers
  # - name: ENVIE SUA PALESTRA (CFP)
  #   url: https://www.papercall.io/devopsdaysbhz
-  # - name: patrocínio
-  #   url: /events/2025-belo-horizonte/sponsor
+  - name: patrocínio
+    url: /events/2025-belo-horizonte/sponsor
   - name: organizadores
   - name: código de conduta
     url: /events/2025-belo-horizonte/conduta 
@@ -74,9 +74,9 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Anna Luiza Laudares"
-    employer: "Finance and BI Analyst na Saudetec"
+    employer: "DevOps Engineer na CI&T"
     linkedin: "https://www.linkedin.com/in/anna-luiza-laudares-b0680b2b3/"
-    bio: "Apaixonada por tecnologia e movida por comunidades, sou Analista de Sistemas na Engineering Brasil no tempo integral — e no tempo livre, estou sempre buscando compartilhar conhecimento com quem estiver por perto <br><br><br><br><br>"  
+    bio: "Sou estudante de Sistemas de Informação na PUC Minas e entusiasta de cloud. Minha história com Cloud começou em um evento da comunidade, e essa é minha motivação para continuar fazendo parte dela.Atualmente sou DevOps Engineer na CI&T, com um pézinho em FinOps. No meu tempo livre, acompanho a NFL e amo viajar. <br><br><br><br><br>"  
     github: "annalaudaress"
     linkedin: "https://br.linkedin.com/in/anna-luiza-laudares-b0680b2b3"
     image: "ana.jpeg"
@@ -93,8 +93,6 @@ team_members: # Name is the only required field for team members.
   - name: "Caio Miranda"
     employer: "DevOps Consultant no Banco BV"
     bio: "SRE|DevOps, entusiasta de automação de práticas de desenvolvimento e para sempre um estudante.É isso que costumo ser em horário comercial, no tempo livre gosto de bons jogos e pratico esportes.Entendo que como profissionais DevOps buscamos o equilíbrio entre eficiência e velocidade, sendo assim, carrego em mente a seguinte frase: 'Não tenhamos pressa, mas não percamos tempo'. <br>"
-    github: "caiiomiiranda"
-    twitter: "https://twitter.com/caiomiranda2000"
     linkedin: "https://www.linkedin.com/in/caio-miranda-38162b16a/"
     image: "caio.jpeg" 
 
@@ -130,13 +128,6 @@ team_members: # Name is the only required field for team members.
     image: "pimenta.jpeg"
 
 
-  - name: "Jéssica Coelho"
-    employer: "Platform DB Engineer - @MCSA SQL Server"
-    bio: "Especialista em Dados com mais de 10 anos de experiência, MCSA em SQL Server e Azure, Cloud DBA em Azure e AWS e configuração e manutenção para Redshift Clusters. Atualmente atua como consultora de dados, com foco em performance e disponibilidade de ambientes críticos, engenharia e ciência de Dados. Professora de MBA nos Cursos de Data Engineering e Banco de Dados e AWS Community Builder.Palestrante e host do PodCast de Dados Data Talks Brasil, disponível no Youtube e Spotify."
-    linkedin: "https://www.linkedin.com/in/jessicaccoelho/"
-    image: "jessica.jpeg"   
-
-
   - name: Natália Granato
     employer: Plataform Engineer na Magalu Cloud
     linkedin: https://www.linkedin.com/in/nataliagranato
@@ -144,7 +135,7 @@ team_members: # Name is the only required field for team members.
     twitter: https://x.com/granatowp
     bluesky: https://bsky.app/profile/nataliagranato.bsky.social
     site: https://www.nataliagranato.xyz
-    bio: Sou CNCF Ambassador e Docker Captain, contribuo com o Kubernetes e outros softwares de código aberto, minha missão é popularizar as tecnologias Cloud Native, compartilhar conhecimento técnico e incluir pessoas negras, mulheres e LGBTQIA no mundo da tecnologia <br><br><br><br><br><br><br><br><br><br><br><br><br>.
+    bio: Sou CNCF Ambassador e Docker Captain, contribuo com o Kubernetes e outros softwares de código aberto, minha missão é popularizar as tecnologias Cloud Native, compartilhar conhecimento técnico e incluir pessoas negras, mulheres e LGBTQIA no mundo da tecnologia <br><br><br><br><br>.
     image: "natalia.jpg" 
 
 
@@ -158,11 +149,11 @@ team_members: # Name is the only required field for team members.
 
 
   - name: "Paloma Lataliza"
-    employer: "Cloud Engineer na Claro Brasil"
+    employer: "Senior Cloud Engineer na Caylent"
     linkedin: "https://www.linkedin.com/in/palomalataliza/"
     github: "shescloud"
     twitter: "shescloud_"
-    bio:  "Entusiasta de containers, fã de Cavaleiros do Zodíaco e apaixonada por compartilhar conhecimento. Paloma é formada em Ciência da Computação pela Universidade FUMEC, pós-graduada em Cloud Computing pela PUC Minas e mestranda em TICGC pela Universidade FUMEC. É também uma AWS HERO, líder do AWS User Group BH, Docker Captain, Embaixadora do Women Techmakers, Organizadora do primeiro AWSomeWomenCommunity Summit Brasil e  co-fundadora do projeto Mulheres na Nuvem MG. Ela tem se dedicado a incentivar a presença feminina no setor de tecnologia e nuvem.<br><br><br><br><br><br><br>"
+    bio:  "Entusiasta de containers, fã de Cavaleiros do Zodíaco e apaixonada por compartilhar conhecimento. Paloma é formada em Ciência da Computação pela Universidade FUMEC, pós-graduada em Cloud Computing pela PUC Minas e mestranda em TICGC pela Universidade FUMEC. É também uma AWS HERO, líder do AWS User Group BH, Embaixadora do Women Techmakers, Organizadora do primeiro AWSomeWomenCommunity Summit Brasil e  co-fundadora do projeto Mulheres na Nuvem MG. Ela tem se dedicado a incentivar a presença feminina no setor de tecnologia e nuvem.<br><br><br><br><br><br><br>"
     image: "paloma.jpeg"
 
 
@@ -179,7 +170,7 @@ team_members: # Name is the only required field for team members.
   - name: "Victor Parreira"
     employer: "SRE Analyst no Inter"
     linkedin: "https://www.linkedin.com/in/victorparreira/"
-    bio: "Um cara de humanas que descobriu em tech sua maior paixão. Gosto de misturar tudo aquilo que aprendi na minha carreira até agora para trazer uma nova visão sobre o mundo de cloud e suas ferramentas.  <br> <br>"
+    bio: "Um cara de humanas que descobriu em tech sua maior paixão. Gosto de misturar tudo aquilo que aprendi na minha carreira até agora para trazer uma nova visão sobre o mundo de cloud e suas ferramentas.   <br><br><br><br><br><br><br><br><br><br><br><br> <br>"
     image: "victor.jpg" 
 
 
