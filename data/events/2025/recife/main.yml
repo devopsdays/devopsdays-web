@@ -24,8 +24,8 @@ cfp_date_announce: "2025-10-15T00:00:00-03:00" #2019-10-20T00:09:00-03:00 # info
 cfp_open: "true"
 cfp_link: "https://www.papercall.io/dodrec25" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: "2025-07-05T00:09:00-03:00" #2022-10-01T00:09:00-03:00 # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: "2025-12-10T00:09:00-03:00" #2022-10-31T00:09:00-03:00 # close registration. Leave blank if registration is not open yet.
+registration_date_start: "" #2022-10-01T00:09:00-03:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: "" #2022-10-31T00:09:00-03:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
