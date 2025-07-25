@@ -72,13 +72,13 @@ Description = "DevOpsDays Recife 2025"
       </h4>
       <div class="d-flex flex-row">
         <div style="witdh: auto; padding-right: 1em;">
-          <a style="text-align:left;" class="btn btn-secondary btn-block" href="/events/2025-recife/contact"> <i class="fa fa-envelope-o fa-fw"></i> Entre em contato</a>
+          <a style="text-align:left;" class="btn btn-secondary btn-block" href="/events/2025-recife/contact"> <i class="fa fa-envelope fa-fw"></i> Entre em contato</a>
         </div>
         <div style="witdh: auto; padding-right: 1em; ">
           <a target="_blank" style="text-align:left;" class="disabled btn btn-secondary btn-block" href=""> <i class="fa fa-user-plus fa-fw"></i> Inscrições </a>
         </div>
         <div style="witdh: auto; padding-right: 1em;">
-          <a target="_blank" style="text-align:left;" class="disabled btn btn-secondary btn-block" href=""> <i class="fa fa-file-text-o fa-fw"></i> Call for Papers </a>
+          <a target="_blank" style="text-align:left;" class="btn btn-secondary btn-block" href="https://www.papercall.io/dodrec25"> <i class="fa fa-file-text fa-fw"></i> Call for Papers</a>
         </div>
         <div style="witdh: auto; padding-right: 1em;">
           <a target="_blank" style="text-align:left;" class="btn btn-secondary btn-block" href="/events/2025-recife/local"> <i class="fa fa-map-marker fa-fw"></i> Local </a>
