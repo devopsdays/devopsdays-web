@@ -40,7 +40,7 @@ Description = "DevOpsDays Recife 2025"
         <strong>CFP</strong>
       </div>
       <div class="col-md-6">
-        Em Breve!
+        <a href="https://www.papercall.io/dodrec25">CFP</a>
       </div>
     </div>
     <div class="row">
