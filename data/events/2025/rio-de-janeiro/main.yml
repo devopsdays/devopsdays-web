@@ -144,8 +144,11 @@ sponsors:
   - id: cps1
     level: community
 
-  # - id: picpay
-  #   level: community
+  - id: picpay
+    level: community
+
+  - id: grafana
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -191,7 +194,7 @@ program:
     comments: "Keynote - Sala: Rollback"
     background_color: "#FFFA99"
 
-  - title: "TBA"
+  - title: "Alexandre (Loka Sponsor)"
     type: custom
     date: 2025-08-16
     start_time: "10:00"
@@ -276,8 +279,8 @@ program:
     comments: "Keynote - Sala: Rollback"
     background_color: "#FFFA99"
 
-  - title: "TBA Sponsor"
-    type: custom
+  - title: pedro-alpis-fernandes
+    type: talk
     date: 2025-08-16
     start_time: "14:15"
     end_time: "14:45"
@@ -366,7 +369,7 @@ program:
     end_time: "17:25"
     comments: "Trilha Avançada - Sala: Rollback"
     background_color: "#81b29a"
-  - title: "Storyblok"
+  - title: "Alura"
     type: custom
     date: 2025-08-16
     start_time: "17:25"

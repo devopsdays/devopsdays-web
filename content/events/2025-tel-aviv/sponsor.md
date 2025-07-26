@@ -10,20 +10,20 @@ Description = "Sponsor devopsdays Tel Aviv 2025"
 
 <hr>
 
-## Diamond Booth Sample
+## Diamond Booth Sample - SOLD OUT
 <img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Diamond-Booth.JPG?raw=true" width="500">
 
-## Platinum Booth Sample
+## Platinum Booth Sample - SOLD OUT
 <img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Platinum-1.JPG?raw=true" width="500">&nbsp;<img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Platinum-3.JPG?raw=true" width="500">&nbsp;<img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Platinum-2.JPG?raw=true" width="500">
 
-## Gold Booth Sample
+## Gold Booth Sample - 12 LEFT
 <img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Gold.JPG?raw=true" width="500">
 
 ## Demo Theater
 <img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Demo-Theater.JPG?raw=true" width="500">
 
 ## Coffee Sponsor
-<img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/coffee-1.JPG?raw=true" width="500">&nbpsp;<img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Coffee-2.JPG?raw=true" width="500">
+<img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/coffee-1.JPG?raw=true" width="500">&nbsp;<img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Coffee-2.JPG?raw=true" width="500">
 
 ## Happy Hour Sponsor
 <img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Happy-Hour-Sponsor.JPG?raw=true" width="500">

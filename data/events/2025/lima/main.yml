@@ -116,6 +116,9 @@ sponsors:
    - id: cleverit
      level: gold
      url: https://www.cleveritgroup.com/es
+   - id: dynatrace
+     level: gold
+     url: https://www.dynatrace.com/es-la/
    - id: kyndryl
      level: gold
      url: https://www.kyndryl.com/es/es
@@ -125,9 +128,14 @@ sponsors:
    - id: nttdata
      level: gold
      url: https://pe.nttdata.com/
-   - id: dynatrace
+   - id: credicorp
      level: gold
-     url: https://www.dynatrace.com/es-la/
+   - id: interbank
+     level: gold
+   - id: manage-engine
+     level: gold
+   - id: esan
+     level: gold
    - id: linearb
      level: silver
      url: https://linearb.io/
@@ -136,6 +144,8 @@ sponsors:
      url: https://softtek.com/es/
    - id: devco
      level: silver
+   - id: port
+     level: silver 
    - id: idm
      level: bronze
      url: https://idmtechnology.com.pe/
@@ -143,18 +153,23 @@ sponsors:
      level: bronze
    - id: orexe
      level: bronze
+   - id: inetum
+     level: bronze
+   - id: ekiscyber
+     level: bronze
    - id: devopsinstitute
      level: community
      url: https://www.devopsinstitute.com/
    - id: hackemate
      level: community
      url: https://youtube.com/@hackemate
-   - id: learnk8s
-     level: community
-     url: https://learnk8s.io/
    - id: datascienceresearchperu
      level: community
      url: https://www.datascience.pe/
+   - id: kubeevents
+     level: community
+   - id: kubecareers
+     level: community
    
   
 
