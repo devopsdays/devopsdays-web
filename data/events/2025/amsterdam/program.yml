@@ -119,6 +119,7 @@ program:
   date: "2025-06-19"
   start_time: "09:15"
   end_time: "09:55"
+  background_color: "#bfe3b4"
 - title: the_sociotechnical_debt_of_ai_breaking_conways_third_law
   type: talk
   date: "2025-06-19"
@@ -219,6 +220,7 @@ program:
   date: "2025-06-20"
   start_time: "09:45"
   end_time: "10:25"
+  background_color: "#bfe3b4"
 - title: a_cognitive_theory_of_community
   type: talk
   date: "2025-06-20"
