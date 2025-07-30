@@ -2,7 +2,7 @@
 Title = "Bharath B"
 Twitter = ""
 linkedin = ""
-image = ""
+image = "no-photo.jpg"
 type = "speaker"
 linktitle = "bharath-b"
 
