@@ -1,6 +1,6 @@
 +++
-Title = "Bezaleel Silva"
-Twitter = "http://twitter.com/juniorjbn"
+Title = "João Brito"
+Twitter = "juniorjbn"
 linkedin = ""
 image = "joao-brito.png"
 type = "speaker"
