@@ -204,23 +204,3 @@ body {
         padding: 1rem;
     }
 }
-
-/* Animation for page load */
-.day-section {
-    animation: slideInUp 0.6s ease-out;
-}
-
-.day-section:nth-child(3) {
-    animation-delay: 0.2s;
-}
-
-@keyframes slideInUp {
-    from {
-        opacity: 0;
-        transform: translateY(30px);
-    }
-    to {
-        opacity: 1;
-        transform: translateY(0);
-    }
-}
