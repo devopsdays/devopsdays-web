@@ -58,9 +58,17 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Patrick Koch"
+    employer: "AVL List GmbH"
   - name: "Sandra Niederl"
+    employer: "Guid.New"
   - name: "Bernd Hirschmann"
+    employer: "EG Austria"
   - name: "Linda Kolb"
+    employer: "AVL List GmbH"
+  - name: "Alexandra Torrico Perez"
+    employer: "ilvi GmbH"
+  - name: "Claudia Schlacher"
+    employer: "Guid.New"
 #    employer: "Acme Anvil Co."
 #    github: "devopsdays"
 #    facebook: "https://www.facebook.com/sally.fields"
