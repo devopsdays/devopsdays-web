@@ -89,7 +89,7 @@ a.jssocials-share-link, a.event-cta-button {
 <!-- <img src="/events/2023-montreal/logo-square.jpg"> -->
 <p></p>
 <p><a href="https://www.papercall.io/devopsdayspoa2025"><button>SUBMENTA SUA PALESTRA</button></a></p>
-<p><a href="https://www.sympla.com.br/evento/devopsdays-porto-alegre-2025/3021306"><button>INSCREVA-SE</button></a></p>
+<p><a href="https://www.sympla.com.br/evento/devopsdays-porto-alegre-2025/3047392"><button>INSCREVA-SE</button></a></p>
 <p><a href="../sponsor/"><button>SEJA UM PATRICINADOR</button></a></p>
 <p><a href="/events/2025-porto-alegre/contact"><button>CONTATO</button></a></p>
 <p><a href="https://maps.app.goo.gl/dQmTtf9U24Ygd4aG9"><button>LOCALIZAÇÃO</button></a></p>
