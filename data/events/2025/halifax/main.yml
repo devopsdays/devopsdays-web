@@ -97,7 +97,11 @@ sponsors:
 - id: shiftkey_labs
   level: community
 - id: ccia
-  level: community       
+  level: community
+- id: startup-atlantic
+  level: community
+- id: volta
+  level: community         
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
