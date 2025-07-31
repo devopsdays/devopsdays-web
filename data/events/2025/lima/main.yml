@@ -133,6 +133,7 @@ sponsors:
    - id: interbank
      level: gold
    - id: manage-engine
+     url: https://www.manageengine.com/latam/
      level: gold
    - id: esan
      level: gold
@@ -156,6 +157,10 @@ sponsors:
    - id: inetum
      level: bronze
    - id: ekiscyber
+     level: bronze
+   - id: bindit
+     level: bronze
+   - id: crubyt
      level: bronze
    - id: devopsinstitute
      level: community
