@@ -97,6 +97,11 @@ team_members: # Name is the only required field for team members.
     linkedin: "linkedIn.com/in/jlamenza"
     image: julia.jpg
     bio: "Juliana is an SRE with 15 years of Linux experience. Obsessed with automation, uptime, and catching flights more than outages. 🌍🐧"
+  - name: Ana Carmona
+    employer: 'Adevinta Spain / Infojobs'
+    linkedin: 'https://www.linkedin.com/in/ana-carmona-ag'
+    image: ana.jpg
+    bio: 'Ana Carmona is an engineering leader at InfoJobs, where she works with platform and infrastructure teams to boost developer experience and reliability. <br><br>She’s been part of the Barcelona tech community for years, helping organize events like Women Techmakers, DotNet, and Software Crafters Barcelona. <br><br>Outside of work, she’s a slow runner, a mom of two, and a big fan of building communities. Her motto? “If I don’t know it, I’ll learn it."'
 
 organizer_email: "barcelona@devopsdays.org" # Put your organizer email address here
 
