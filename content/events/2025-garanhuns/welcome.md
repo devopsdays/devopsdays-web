@@ -84,11 +84,10 @@ a.jssocials-share-link, a.event-cta-button {
 
 <br><br>
 <p></p>
-<p><a href=" " target="_blank"><button type="button">ENVIE SUA PALESTRA</button></a></p>
-<p><a href="_" onclick="alert('EM BREVE!'); return false"><button>INSCREVA-SE</button></a></p>
-<p><a href="../sponsor/"><button>SEJA UM SPONSOR</button></a></p>
+<p><a href="https://forms.gle/w4QxXfiwgaocA3Sy8"><button type="button">ENVIE SUA PALESTRA</button></a></p>
+<p><a href="/events/2025-garanhuns/sponsor/"><button>SEJA UM SPONSOR</button></a></p>
 <p><a href="/events/2025-garanhuns/contact/"><button>CONTATO</button></a></p>
-<p><a href="" onclick="alert('EM BREVE!'); return false" target="_blank"><button type="button">LOCALIZAÇÃO</button></a></p>
+<p><a href="/events/2025-garanhuns/conduct-pt-br/" target="_blank"><button>TERMO DE CONDUTA</button></a></p>
 </div>
 
 <div class="sidebar">
@@ -104,8 +103,9 @@ Esses eventos, que começaram em Ghent, Bélgica, em 2009, promovem a troca de c
 <br>
 <h2 style ="color:#6F2B52"> DEVOPSDAYS GARANHUNS - 2025</h2>
 <p align="justify">
-É com grande entusiasmo que convidamos você para participar do DevOpsDays Garanhuns 2025 que acontecerá em Agosto.
- Como organizadores, estamos empolgados em reunir entusiastas, profissionais e especialistas do ecossistema DevOps para um encontro enriquecedor e inspirador.
+É com grande entusiasmo que convidamos você para participar do DevOpsDays Garanhuns 2025, fique ligado nas atualizações.
+Confirmação de data e local em breve!
+Como organizadores, estamos empolgados em reunir entusiastas, profissionais e especialistas do ecossistema DevOps para um encontro enriquecedor e inspirador.
 </p>
 
 <p align="justify">
