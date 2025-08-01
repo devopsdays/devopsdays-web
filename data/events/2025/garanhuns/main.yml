@@ -2,7 +2,7 @@ name: "2025-garanhuns" # The name of the event. Four digit year with the city na
 year: "2025" # The year of the event. Make sure it is in quotes.
 city: "Garanhuns" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdays" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "Devopsdays está chegando em Garanhuns!" # Edit this to suit your preferences
+description: "Devopsdays está chegando em Garanhuns! \n Data a Confirmar em breve!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2025-MM-DDTHH:MM:SS+TZ:TZ, like this:
@@ -10,8 +10,8 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2025-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: 2025-10-20T08:00:00-03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2025-10-20T08:00:00-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+# startdate: 2025-10-20T08:00:00-03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+# enddate: 2025-10-20T08:00:00-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  # start accepting talk proposals.
@@ -42,7 +42,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: speakers
   - name: sponsor
   - name: contact
-  - name: conduct
+  - name: conduct-pt-br
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -53,38 +53,33 @@ team_members: # Name is the only required field for team members.
   
   - name: "Mayara Araujo"
     employer: "Salesforce"
-    twitter: ""
-    bio: ""
+    bio: "Tenho aproximadamente 10 anos de experiencia no mercado de tecnologia. Amo desafios onde possa aplicar meu conhecimento e continuar evoluindo com o intuito de impulsionar projetos com eficiência e inovação. No momento atuando com arquitetura empresarial e de plataforma. E um propósito: impactar pessoas por meio da formação tecnológica e inclusão social"
     linkedin: "https://www.linkedin.com/in/mniedja/"
     image: "mayara-araujo.jpg"
 
+  - name: "Davi Ferreira Lima"
+    employer: "Sauter"
+    bio: "Apaixonado por tecnologia e automação, sou SRE com certificações pela AWS e GCP, focado em criar infraestruturas escaláveis e resilientes. No dia a dia, otimizo pipelines CI/CD, gerencio Kubernetes e implemento monitoramento eficaz. Além do trabalho, também sou pesquisador e exploro novos conteúdos como Machine Learning, dados e visão computacional."
+    linkedin: "https://www.linkedin.com/in/daviferreiralima/"
+    image: "davi.jpg"
+
+  - name: "Gabriel Carvalho"
+    employer: "Sauter"
+    bio: "Engenheiro DataOps, atualmente atuando em projetos de engenharia de dados e DevOps na Sauter, especializado para o Google Cloud Platform e projetos de ciências de dados e desenvolvimento FullStack, pelo IFPE e UFAL."
+    linkedin: "https://www.linkedin.com/in/iamgabs/"
+    image: "gabriel.jpg"
+
   - name: "Shenia Andrade"
     employer: "LuizaLabs"
-    twitter: ""
-    bio: ""
+    bio: "" 
     linkedin: "https://www.linkedin.com/in/shenia-tamires-andrade/"
     image: "shenia-andrade.jpg"
 
   - name: "Carlos Diêgo Bezerra"
     employer: "Gupy"
-    twitter: ""
     bio: ""
     linkedin: "https://www.linkedin.com/in/carlosdbezerra/"
     image: "carlos-diêgo-bezerra.jpg"
-
-  - name: "Gabriel Carvalho"
-    employer: "Sauter"
-    twitter: ""
-    bio: "Engenheiro DataOps, atualmente atuando em projetos de engenharia de dados e DevOps na Sauter, especializado para o Google Cloud Platform e projetos de ciências de dados e desenvolvimento FullStack, pelo IFPE e UFAL."
-    linkedin: "https://www.linkedin.com/in/iamgabs/"
-    image: "gabriel.jpg"
-
-  - name: "Davi Ferreira Lima"
-    employer: "Sauter"
-    twitter: ""
-    bio: "Apaixonado por tecnologia e automação, sou SRE com certificações pela AWS e GCP, focado em criar infraestruturas escaláveis e resilientes. No dia a dia, otimizo pipelines CI/CD, gerencio Kubernetes e implemento monitoramento eficaz. Além do trabalho, também sou pesquisador e exploro novos conteúdos como Machine Learning, dados e visão computacional."
-    linkedin: "https://www.linkedin.com/in/daviferreiralima/"
-    image: "davi.jpg"
 
 organizer_email: "garanhuns@devopsdays.org" # Put your organizer email address here
 
@@ -94,7 +89,7 @@ sponsors:
   - id: _
     level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  - id: _
+  - id: comunidade-sete-colinas
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

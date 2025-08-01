@@ -40,7 +40,7 @@ We greatly value sponsors for this open event.  If you are interested in sponsor
     </tr>
   </thead>
   <tbody>
-    <tr><td>Number available</td><td>SOLD OUT</td><td>SOLD OUT</td><td>4</td><td>5</td><td>1</td></tr>
+    <tr><td>Number available</td><td>SOLD OUT</td><td>SOLD OUT</td><td>3</td><td>4</td><td>1</td></tr>
     <tr><td>Package price</td><td>€7,000</td><td>€5,000</td><td>€3,000</td><td>€1,000</td><td>€3,000</td></tr>
     <tr><td>Complementary tickets</td><td>7</td><td>5</td><td>3</td><td>1</td><td>3</td></tr>
     <tr><td>Your logo on global Devopsdays website</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td></tr>
