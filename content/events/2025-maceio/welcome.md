@@ -112,16 +112,18 @@ a.jssocials-share-link, a.event-cta-button {
 <!-- <img src="/events/2023-montreal/logo-square.jpg"> -->
 <p></p>
 <!--<p><a href="https://www.papercall.io/devopsdaysmaceio2024"><button>SUBMENTA SUA PALESTRA</button></a></p>-->
+<p><button onclick="alert('EM BREVE!')">SUBMETA SUA PALESTRA</button></p>
 <!--<p><a href="https://www.sympla.com.br/evento/devopsdays-maceio-2024/2628162"><button>INSCREVA-SE</button></a></p>-->
+<p><button onclick="alert('EM BREVE!')">INSCREVA-SE</button></p>
 <p><a href="/events/2025-maceio/sponsor"><button>SEJA UM PATROCINADOR</button></a></p>
 <p><a href="/events/2025-maceio/contact"><button>CONTATO</button></a></p>
-<!--<p><a href="https://www.google.com/maps/place/Centro+de+Forma%C3%A7%C3%A3o+Profissional+Gustavo+Paiva+(Senai+-+Po%C3%A7o)/@-9.660776,-35.7259411,17z/data=!4m14!1m7!3m6!1s0x701459e6ce6e737:0x6a09fd3dd100da11!2sCentro+de+Forma%C3%A7%C3%A3o+Profissional+Gustavo+Paiva+(Senai+-+Po%C3%A7o)!8m2!3d-9.660776!4d-35.7233662!16s%2Fg%2F1td1dlzb!3m5!1s0x701459e6ce6e737:0x6a09fd3dd100da11!8m2!3d-9.660776!4d-35.7233662!16s%2Fg%2F1td1dlzb?entry=ttu&g_ep=EgoyMDI0MDgyOC4wIKXMDSoASAFQAw%3D%3D"><button>LOCALIZAÇÃO</button></a></p>-->
+<p><a href="https://www.google.com.br/maps/place/Est%C3%A1cio+Unidade+Jati%C3%BAca+-+Macei%C3%B3+-+AL/@-9.651942,-35.7047798,17z/data=!3m1!4b1!4m6!3m5!1s0x70145b0709f88ed:0xc26788b99486c130!8m2!3d-9.6519473!4d-35.7022049!16s%2Fg%2F1tdj4dhm?entry=ttu&g_ep=EgoyMDI1MDcyOS4wIKXMDSoASAFQAw%3D%3D"><button>LOCALIZAÇÃO</button></a></p>
 <br>
 <div class="showcase">
   <h4 style ="color:#6ea0cd"><strong> REDES SOCIAIS </strong></h4>
-  <a class="social-button" href='https://www.instagram.com/dodmaceio/' target="_blank"><i class="fa fa-instagram fa-fw"></i> Instagram </a>
-  <a class="social-button" href='https://www.linkedin.com/company/devopsdays-maceio/' target="_blank"><i class="fa fa-linkedin fa-fw"></i> Linkedin </a>
-  <a class="social-button" href='https://t.me/+3U8wbFc4vy84MDEx' target="_blank"><i class="fa fa-telegram fa-fw"></i> Telegram </a>
+  <a class="social-button" href='https://www.instagram.com/dodmaceio/' target="_blank"><i class="fa-brands fa-instagram fa-fw"></i> Instagram </a>
+  <a class="social-button" href='https://www.linkedin.com/company/devopsdays-maceio/' target="_blank"><i class="fa-brands fa-linkedin fa-fw"></i> Linkedin </a>
+  <a class="social-button" href='https://t.me/+3U8wbFc4vy84MDEx' target="_blank"><i class="fa-brands fa-telegram fa-fw"></i> Telegram </a>
 </div>  
 </div>
 

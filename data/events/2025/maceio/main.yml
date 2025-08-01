@@ -30,8 +30,8 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 # Location
 # coordinates: "" # No longer used
-location: "Undefined" # Defaults to city, but you can make it the venue name.
-location_address: "Undefined" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
+location: "Auditório - Estácio Jatiúca" # Defaults to city, but you can make it the venue name.
+location_address: "Av. Pio XII, 350 - Jatiúca, Maceió - AL, 57035-560" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: CFP
