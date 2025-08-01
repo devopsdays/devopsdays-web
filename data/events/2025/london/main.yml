@@ -124,11 +124,11 @@ sponsors:
   # Standard sponsors
   - id: elastic
     level: standard
-  - id: that-agile
-    level: standard
   - id: chainguard
     level: standard
   # Logo sponsors
+  - id: that-agile
+    level: standard
   - id: "google"
     level: logo
   - id: cyberark
