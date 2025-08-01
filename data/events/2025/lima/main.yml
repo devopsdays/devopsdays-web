@@ -175,8 +175,8 @@ sponsors:
      level: community
    - id: kubecareers
      level: community
-   
-  
+   - id: mitocode
+     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
