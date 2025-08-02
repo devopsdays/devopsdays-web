@@ -9,7 +9,7 @@ Description = "devopsdays Wollongong 2025"
 
 <div class="row" style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <div class="col-md-4" style="text-align: center;">
-    <img alt="Wollongong Logo - Sea Cliff Bridge" src="/events/2025-wollongong/logo-square.png" class="img-fluid" style="max-width: 100%; border-radius: 8px;">
+    {{< event_logo >}}
   </div>
   <div class="col-md-7" style="padding: 10px 20px;">
     <h2 style="color: #8C51BF; font-weight: bold; font-size: 1.8em; margin-bottom: 15px;">Join us by the beach! 🏖️</h2>
