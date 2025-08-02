@@ -1,0 +1,50 @@
+.expectations-section h3 {
+    font-size: 1.25rem;
+    color: #2c3e50;
+    font-weight: 600;
+    margin-bottom: 1rem;
+}
+
+.expectations-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.expectations-list li {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 0.75rem;
+    font-size: 1.1rem;
+    color: #34495e;
+    padding: 0.5rem 0;
+}
+
+.expectations-list li .emoji {
+    margin-right: 0.75rem;
+    font-size: 1.25rem;
+    flex-shrink: 0;
+}
+
+.expectations-list li .text {
+    flex: 1;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .expectations-list li {
+        font-size: 1rem;
+    }
+}
+
+/* Hover effects for interactive feel */
+.expectations-list li {
+    transition: transform 0.2s ease, background-color 0.2s ease;
+    border-radius: 8px;
+    padding: 0.75rem 0.5rem;
+}
+
+.expectations-list li:hover {
+    transform: translateX(5px);
+    background-color: rgba(140, 81, 191, 0.05);
+}
