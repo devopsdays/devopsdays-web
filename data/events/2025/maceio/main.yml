@@ -35,9 +35,9 @@ location_address: "Av. Pio XII, 350 - Jatiúca, Maceió - AL, 57035-560" #Option
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: CFP
-    #url: https://www.papercall.io/devopsdaysmaceio2024 -- A definir
+    url: https://www.papercall.io/devopsdaysmaceio2025
   - name: location
-  - name: ticket
+  #- name: ticket
     #url: https://www.sympla.com.br/evento/devopsdays-maceio-2024/2628162 -- A definir
   - name: conduct-pt-br
   - name: sponsor

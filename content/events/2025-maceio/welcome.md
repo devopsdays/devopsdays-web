@@ -111,8 +111,7 @@ a.jssocials-share-link, a.event-cta-button {
 {{< event_logo >}}
 <!-- <img src="/events/2023-montreal/logo-square.jpg"> -->
 <p></p>
-<!--<p><a href="https://www.papercall.io/devopsdaysmaceio2024"><button>SUBMENTA SUA PALESTRA</button></a></p>-->
-<p><button onclick="alert('EM BREVE!')">SUBMETA SUA PALESTRA</button></p>
+<p><a href="https://www.papercall.io/devopsdaysmaceio2025"><button>SUBMENTA SUA PALESTRA</button></a></p>
 <!--<p><a href="https://www.sympla.com.br/evento/devopsdays-maceio-2024/2628162"><button>INSCREVA-SE</button></a></p>-->
 <p><button onclick="alert('EM BREVE!')">INSCREVA-SE</button></p>
 <p><a href="/events/2025-maceio/sponsor"><button>SEJA UM PATROCINADOR</button></a></p>
