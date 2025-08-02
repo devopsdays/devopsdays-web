@@ -95,7 +95,13 @@ sponsors:
 - id: gdg-halifax
   level: community
 - id: shiftkey_labs
-  level: community     
+  level: community
+- id: ccia
+  level: community
+- id: startup-atlantic
+  level: community
+- id: volta
+  level: social-event         
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

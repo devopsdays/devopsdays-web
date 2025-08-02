@@ -117,9 +117,13 @@ sponsors:
   #Silver Sponsors
   - id: oracle
     level: silver
+  - id: mysql
+    level: silver
   - id: stone
     level: silver
   - id: gita
+    level: silver
+  - id: neon
     level: silver
 
   #Community
@@ -142,6 +146,9 @@ sponsors:
     level: community
 
   - id: cps1
+    level: community
+  
+  - id: veecode
     level: community
 
   - id: picpay
@@ -194,8 +201,8 @@ program:
     comments: "Keynote - Sala: Rollback"
     background_color: "#FFFA99"
 
-  - title: "Alexandre (Loka Sponsor)"
-    type: custom
+  - title: alexandre-coelho-ramos
+    type: talk
     date: 2025-08-16
     start_time: "10:00"
     end_time: "10:30"
@@ -216,7 +223,7 @@ program:
     end_time: "11:00"
     comments: "Trilha Iniciante - Sala: Deploy"
     background_color: "#fdf0d5"
-  - title: "fernando-telles"
+  - title: "fernando-teles"
     type: talk
     date: 2025-08-16
     start_time: "10:30"
@@ -286,8 +293,8 @@ program:
     end_time: "14:45"
     comments: "Trilha Iniciante - Sala: Deploy"
     background_color: "#fdf0d5"
-  - title: "TBA"
-    type: custom
+  - title: daniel-conceiçao-do-nascimento
+    type: talk
     date: 2025-08-16
     start_time: "14:15"
     end_time: "14:45"
@@ -362,21 +369,13 @@ program:
     end_time: "17:45"
     comments: "Trilha Iniciante - Sala: Deploy"
     background_color: "#fdf0d5"
-  - title: "Loka"
-    type: custom
+  - title: felipe-laporte-de-alencar-trindade
+    type: talk
     date: 2025-08-16
     start_time: "17:15"
     end_time: "17:25"
     comments: "Trilha Avançada - Sala: Rollback"
     background_color: "#81b29a"
-  - title: "Alura"
-    type: custom
-    date: 2025-08-16
-    start_time: "17:25"
-    end_time: "17:45"
-    comments: "Trilha Avançada - Sala: Rollback"
-    background_color: "#81b29a"
-
 
   #Keynote-3
   - title: "fabricio-veronez"
@@ -394,10 +393,3 @@ program:
     start_time: "18:15"
     end_time: "18:45"
     comments: "Sala: Rollback"
-
-  # #HappyHour
-  - title: "Happy Hour"
-    type: custom
-    date: 2025-08-16
-    start_time: "18:45"
-    end_time: "22:00"

@@ -54,7 +54,7 @@ program:
     date: 2025-08-13
     start_time: "13:30"
     end_time: "14:00"
-  - title: "rhia-dixon"
+  - title: "carl-chesser"
     type: talk
     date: 2025-08-13
     start_time: "14:00"
@@ -79,21 +79,16 @@ program:
     date: 2025-08-13
     start_time: "16:15"
     end_time: "16:30"
-  - title: "nathan-loding"
+  - title: "rhia-dixon"
     type: talk
     date: 2025-08-13
     start_time: "16:30"
     end_time: "17:00"
-  - title: "carl-chesser"
-    type: talk
-    date: 2025-08-13
-    start_time: "17:00"
-    end_time: "17:30"
   - title: "Closing"
     type: custom
     date: 2025-08-13
-    start_time: "17:30"
-    end_time: "17:45"
+    start_time: "17:00"
+    end_time: "17:30"
 
 ignites:
   - title: "ed-legault"
