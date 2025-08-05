@@ -166,7 +166,7 @@ Description = "DevOpsDays Barcelona 2026"
             </p>
         </td>
         <td width="40%" valign="top" align="center">
-            <img alt="DevOpsDays Barcelona 2026" src="/events/2026-barcelona/logo.png" width="300" height="450" border="0">
+            {{< event_logo >}}
             <br><small>DevOpsDays Barcelona 2026</small>
         </td>
     </tr>
