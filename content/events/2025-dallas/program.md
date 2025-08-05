@@ -11,8 +11,8 @@ icons = "true"
 <h5>If Open Space is new to you, you may be interested in <a href="/pages/open-space-format">more details about Open Space</a>.<br>
 <p><p>
 Our <img alt="DoDDFW Slack" src="/events/2025-dallas/slack.png" style="max-width: 100%;"><strong>Slack</strong> team is:<strong> <a href="https://doddfw.slack.com/">doddfw.slack.com</a></strong>.  Click <strong><a href="https://join.slack.com/t/doddfw/shared_invite/zt-14po9i929-tJI37csQQxurwIBXnb7lkA">here</a></strong> to join.<br>
-Click <strong><a href="https://www.youtube.com/c/DevOpsDaysDFW/playlists"> here</a></strong> to see the<a href="https://www.youtube.com/c/DevOpsDaysDFW/playlists"><img alt="DoDDFW YouTube Playlists" src="/events/2024-dallas/youtube.png" style="max-width: 50%;">YouTube</a> video playlists for DevOpsDays DFW.<br>
-If you would like to see both full (8-hour) day videos uncut, just click on 👉🏽 <a href="https://vimeo.com/857172506">Day 1</a> & <a href="https://vimeo.com/857177084">Day 2</a>.<br>
+<!-- Click <strong><a href="https://www.youtube.com/c/DevOpsDaysDFW/playlists"> here</a></strong> to see the<a href="https://www.youtube.com/c/DevOpsDaysDFW/playlists"><img alt="DoDDFW YouTube Playlists" src="/events/2024-dallas/youtube.png" style="max-width: 50%;">YouTube</a> video playlists for DevOpsDays DFW.<br>
+If you would like to see both full (8-hour) day videos uncut, just click on 👉🏽 <a href="https://vimeo.com/857172506">Day 1</a> & <a href="https://vimeo.com/857177084">Day 2</a>.<br> -->
 <!-- B4CON Photo Gallery - click <strong><a href="https://photos.app.goo.gl/2jXp7dpkvmnQjUad9">here</a></strong> to see pictures.<br>
 Leadership Summit Photo Gallery - click <strong><a href="https://photos.app.goo.gl/V4yBoeq9aaHD1okG7">here</a></strong> to see pictures.<br>
 DevOpsDays DFW Photo Gallery - click <strong><a href="https://photos.app.goo.gl/xvbLVsDPRkATGV6P7">here</a></strong> to see pictures.</h5><hr />  -->
@@ -23,7 +23,6 @@ DevOpsDays DFW Photo Gallery - click <strong><a href="https://photos.app.goo.gl/
 <div class="col-lg-2 col-md-3 program-element program-talk">Talk</div>
 <div class="col-lg-2 col-md-3 program-element program-ignite">Ignite</div>
 <div class="col-lg-2 col-md-3 program-element program-open-space">Open Space</div>
-<div class="col-lg-2 col-md-3 program-element program-break">break</div>
 <!-- <div class="col-lg-4 col-md-3 program-element program-workshop">Workshop<br>(Leadership Summit - <strong>Nominations Only</strong>)</div> -->
 <br />
 <!-- <h3><b>NOTE:</b> <strong><a href="/events/2018-dallas/b4con/">B4CON</a></strong> is on Aug 29th, 2018 from 3:00pm - 7:30pm and will be hosted at the:<br> 
