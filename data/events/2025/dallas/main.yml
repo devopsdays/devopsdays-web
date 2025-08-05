@@ -175,11 +175,15 @@ sponsors:
     level: platinum
   - id: datadog
     level: gold
+  - id: fluidattacks
+    level: gold
   - id: pulumi
     level: silver
   - id: coder
     level: silver
   - id: openobserve
+    level: silver
+  - id: harness
     level: silver
   - id: arresteddevops
     level: community
@@ -190,6 +194,8 @@ sponsors:
   - id: twc
     level: community
   - id: nextop
+    level: community
+  - id: redhatmug
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
