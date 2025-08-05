@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "To Be Announced"
 Type = "talk"
-Speakers = ["vasu-andolu"]
+Speakers = ["nihari-p"]
 +++
 
 
