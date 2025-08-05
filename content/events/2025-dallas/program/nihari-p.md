@@ -2,9 +2,9 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = ""
+Title = "To Be Announced"
 Type = "talk"
-Speakers = ["kumar-singirikonda"]
+Speakers = ["nihari-p"]
 +++
 
 
