@@ -4,8 +4,11 @@ Type = "event"
 Description = "Sponsor devopsdays Graz 2025"
 +++
 
-We greatly value sponsors for this open event. If you are interested in sponsoring, please drop us an email at <a href="mailto:sponsor@devopsdays.at?subject=Sponsorship - DevOpsDays Graz 2025">sponsor@devopsdays.at</a> and we'll promptly provide you with all the necessary details. If you have any questions or need further clarification, feel free to reach out to us. We offer some flexibility in our sponsorship packages
+We greatly value sponsors for this open event. If you are interested in sponsoring, please drop us an email and we'll promptly provide you with all the necessary details. If you have any questions or need further clarification, feel free to reach out to us. We offer some flexibility in our sponsorship packages
 and are happy to tailor a solution that suits your budget and requirements.
+
+<!-- 
+<a href="mailto:sponsor@devopsdays.at?subject=Sponsorship - DevOpsDays Graz 2025">sponsor@devopsdays.at</a> -->
 
 <a class="btn btn-primary btn-block"  style = "width: 200px; margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://www.devopsdays.at/_files/ugd/925933_047104ec4a554378abf30a166dc272d1.pdf"  target="_blank">Download Sponsoring Packages!</a>
 
