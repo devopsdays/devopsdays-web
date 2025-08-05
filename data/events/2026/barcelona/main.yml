@@ -47,10 +47,10 @@ location_address: "" #Optional - use the street address of your venue. This will
 #event_twitter: "devopsdays" # This will create a traditional "Follow" twitter button. Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: location
   - name: contact
   - name: conduct
 # - name: propose
+# - name: location
 # - name: registration
 # - name: program
 # - name: speakers
