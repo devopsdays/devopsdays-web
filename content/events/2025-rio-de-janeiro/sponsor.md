@@ -79,6 +79,11 @@ Visando valorizar a participação de instituições na realização do evento, 
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
+      <td><b>Posts nas redes sociais*</b></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
     </tr>
     <tr>
       <td><b>Citação nos comunicados de e-mail</b></td>
@@ -124,7 +129,10 @@ Visando valorizar a participação de instituições na realização do evento, 
     </tr>
   </table>
 </div>
-* 1 Post Reals nas cotas Silver, Gold e Diamante , 1 Carousel Fotos do evento , 1 Story por patrocinador , 1 Repost/Mention por patrocinador
+* 1 Post Reals nas cotas Silver, Gold e Diamante
+* 1 Carousel Fotos do evento
+* 1 Story por patrocinador
+* 1 Repost/Mention por patrocinador
 <br>
 
 <div>
@@ -247,4 +255,7 @@ To recognize the participation of institutions in making this event possible, we
     </tr>
   </table>
 </div>
-* 1 Reels post for Silver, Gold, and Diamond tiers , 1 Event photo carousel ,  1 Story per sponsor , 1 Repost/Mention per sponsor
+* 1 Reels post for Silver, Gold, and Diamond tiers
+* 1 Event photo carousel
+* 1 Story per sponsor
+* 1 Repost/Mention per sponsor
