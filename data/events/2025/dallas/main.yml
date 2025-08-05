@@ -233,4 +233,200 @@ sponsor_levels:
     label: Community
     max: 10
 
-  
+  program:
+  - title: "Registration & Breakfast"
+    type: custom
+    date: 2024-10-09
+    start_time: "08:00"
+    end_time: "08:45"
+  - title: "Intro and Code of Conduct"
+    type: custom
+    date: 2024-10-09
+    start_time: "08:45"
+    end_time: "09:00"
+  - title: "john-willis"
+    type: talk
+    date: 2024-10-09
+    start_time: "09:00"
+    end_time: "09:45"
+  - title: "vasu-andolu"
+    type: talk
+    date: 2024-10-09
+    start_time: "09:45"
+    end_time: "10:15"
+  - title: "Break"
+    type: custom
+    date: 2024-10-09
+    start_time: "10:15"
+    end_time: "10:30"
+  - title: "pipelines"
+    type: talk
+    date: 2024-10-09
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "Sponsors"
+    type: custom
+    date: 2024-10-09
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "vibe-coding"
+    type: talk
+    date: 2024-10-09
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch (catered) | Open Space - Overview"
+    type: custom
+    date: 2024-10-09
+    start_time: "12:00"
+    end_time: "12:45"
+  - title: "pamela-dukes"
+    type: talk
+    date: 2024-10-09
+    start_time: "12:45"
+    end_time: "13:30"
+  - title: "Sponsors"
+    type: custom
+    date: 2024-10-09
+    start_time: "13:30"
+    end_time: "13:50"
+  - title: "kyle-shelton"
+    type: talk
+    date: 2024-10-09
+    start_time: "13:50"
+    end_time: "14:20"
+  - title: "TBD"
+    type: talk
+    date: 2024-10-09
+    start_time: "14:20"
+    end_time: "14:50"
+  - title: "Open Space - Topic Proposals & Selection"
+    type: open-space
+    date: 2024-10-09
+    start_time: "14:50"
+    end_time: "15:10"
+  - title: "Open Space Day 1 - Session 1"
+    type: open-space
+    date: 2024-10-09
+    start_time: "15:10"
+    end_time: "15:40"
+  - title: "Break"
+    type: custom
+    date: 2024-10-09
+    start_time: "15:40"
+    end_time: "16:00"
+  - title: "Open Space Day 1 - Session 2"
+    type: open-space
+    date: 2024-10-09
+    start_time: "16:00"
+    end_time: "16:30"
+  - title: "Close Day & Logistics"
+    type: custom
+    date: 2024-10-09
+    start_time: "16:20"
+    end_time: "16:30"
+  - title: "Social Networking - Happy Hour"
+    type: custom
+    date: 2024-10-09
+    start_time: "16:30"
+    end_time: "19:00"
+
+  - title: "Registration & Breakfast"
+    type: custom
+    date: 2024-10-10
+    start_time: "08:00"
+    end_time: "08:45"
+  - title: "Welcome"
+    type: custom
+    date: 2024-10-10
+    start_time: "08:45"
+    end_time: "09:00"
+  - title: "raj-iyer"
+    type: talk
+    date: 2024-10-10
+    start_time: "09:00"
+    end_time: "09:45"
+  - title: "priya-ananthasankar"
+    type: talk
+    date: 2024-10-10
+    start_time: "09:45"
+    end_time: "10:15"
+  - title: "Break"
+    type: custom
+    date: 2024-10-10
+    start_time: "10:15"
+    end_time: "10:30"
+  - title: "eric-smalling"
+    type: talk
+    date: 2024-10-10
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "Sponsors"
+    type: custom
+    date: 2024-10-10
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "Ignite Talks"
+    type: ignite
+    date: 2024-10-10
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch (catered) | Open Space - Overview"
+    type: custom
+    date: 2024-10-10
+    start_time: "12:00"
+    end_time: "12:45"
+  - title: "nora-jones"
+    type: talk
+    date: 2024-10-10
+    start_time: "12:45"
+    end_time: "13:30"
+  - title: "Open Space - Topic Proposals & Selection"
+    type: open-space
+    date: 2024-10-10
+    start_time: "13:30"
+    end_time: "13:45"
+  - title: "jered-sutton"
+    type: talk
+    date: 2024-10-10
+    start_time: "13:45"
+    end_time: "14:30"
+  - title: "Break"
+    type: custom
+    date: 2024-10-10
+    start_time: "14:30"
+    end_time: "14:45"
+  - title: "Open Space Day 2"
+    type: open-space
+    date: 2024-10-10
+    start_time: "14:45"
+    end_time: "15:30"
+  - title: "Speaker Discussion Panel"
+    type: custom
+    date: 2024-10-10
+    start_time: "15:30"
+    end_time: "16:15"
+    # custom_url: "https://youtu.be/CDbYfRHfp3U"
+  - title: "Organizers Recognition"
+    type: custom
+    date: 2024-10-10
+    start_time: "16:15"
+    end_time: "16:20"
+  - title: "Closing, Organizer's Raffle Giveaway & Farewell"
+    type: custom
+    date: 2024-10-10
+    start_time: "16:20"
+    end_time: "17:00"
+
+ignites:
+  #  - title: "ignite-talks"
+  #    date: 2024-10-10
+  - title: "roxane-fischer"
+    date: 2024-10-10
+  - title: "faisal-alnahhas"
+    date: 2024-10-10
+  - title: "joseph-clay"
+    date: 2024-10-10
+  - title: "aditya-singh"
+    date: 2024-10-10
+  - title: "michael-robinson"
+    date: 2024-10-10
