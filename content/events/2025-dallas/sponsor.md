@@ -191,7 +191,7 @@ All Media / Community sponsors are entities we value as pillars of continuous le
             <li><i class="fa-li fa fa-check-square"></i>10% discount code for ten (10) tickets to share with your audience.</li>
             <li><i class="fa-li fa fa-check-square"></i>Logo on a shared slide, rotating during breaks.</li>
             <li><i class="fa-li fa fa-check-square"></i>Logo on the DevOpsDays Dallas 2025 event website.</li>
-      <td><s>10</s></td>
+      <td>10</td>
     </tr>
   </tbody>
 </table>
