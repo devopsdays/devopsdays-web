@@ -40,7 +40,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: location
   - name: registration
     url: https://tickets.devopsdays.org/devopsdays-dallas/2025/
-  # - name: program
+  - name: program
   - name: speakers
   - name: sponsor
   - name: contact
@@ -368,11 +368,6 @@ program:
     type: ignite
     date: 2025-09-18
     start_time: "11:30"
-    end_time: "11:55"
-  - title: "Break"
-    type: custom
-    date: 2025-09-18
-    start_time: "11:55"
     end_time: "12:00"
   - title: "Lunch (catered) | Open Space - Overview"
     type: custom
@@ -399,12 +394,12 @@ program:
     date: 2025-09-18
     start_time: "14:30"
     end_time: "14:45"
-  - title: "Open Space Day 2"
+  - title: "Open Space Day 2 - Session 1"
     type: open-space
     date: 2025-09-18
     start_time: "14:45"
     end_time: "15:15"
-  - title: "Open Space Day 2"
+  - title: "Open Space Day 2 - Session 2"
     type: open-space
     date: 2025-09-18
     start_time: "15:15"
@@ -431,7 +426,7 @@ ignites:
   #    date: 2025-09-18
   - title: "james-thomas"
     date: 2025-09-18
-  - title: "mohammed-hassan"
+  - title: "mohammad-hassan"
     date: 2025-09-18
   - title: "david-burkhalter"
     date: 2025-09-18

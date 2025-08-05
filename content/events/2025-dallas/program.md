@@ -23,6 +23,7 @@ DevOpsDays DFW Photo Gallery - click <strong><a href="https://photos.app.goo.gl/
 <div class="col-lg-2 col-md-3 program-element program-talk">Talk</div>
 <div class="col-lg-2 col-md-3 program-element program-ignite">Ignite</div>
 <div class="col-lg-2 col-md-3 program-element program-open-space">Open Space</div>
+<div class="col-lg-2 col-md-3 program-element program-break">break</div>
 <!-- <div class="col-lg-4 col-md-3 program-element program-workshop">Workshop<br>(Leadership Summit - <strong>Nominations Only</strong>)</div> -->
 <br />
 <!-- <h3><b>NOTE:</b> <strong><a href="/events/2018-dallas/b4con/">B4CON</a></strong> is on Aug 29th, 2018 from 3:00pm - 7:30pm and will be hosted at the:<br> 
