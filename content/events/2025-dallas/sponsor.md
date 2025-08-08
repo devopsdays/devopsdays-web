@@ -16,6 +16,8 @@ description = "Interested in sponsoring DevOpsDays Dallas 2025? We greatly value
 
 <h4><a href="https://assets.devopsdays.org/events/2025/dallas/DevOpsDaysDallasSponsorFAQ2025.pdf" target="_blank">Sponsors FAQ 2025</a></h4>
 <hr> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZWWI6AknjXs?si=k4BVzMCtkUieFs7g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 DevOpsDays is a self-organizing conference for DevOps practitioners that depends on your sponsorships. We do not have a traditional trade show conference floor, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during, and after the event. Sponsors are encouraged to participate and engage with the attendees as peers.
 <br><br>
 Any attendee also has the opportunity to demonstrate products or projects as part of any of the Open Space sessions.  Platinum sponsors will also have access to a dedicated demo room to provide hands-on demos to individuals or small groups.  Be sure to send technical practitioners to interact with customers and peers at DevOpsDays on their own terms.
@@ -189,7 +191,7 @@ All Media / Community sponsors are entities we value as pillars of continuous le
             <li><i class="fa-li fa fa-check-square"></i>10% discount code for ten (10) tickets to share with your audience.</li>
             <li><i class="fa-li fa fa-check-square"></i>Logo on a shared slide, rotating during breaks.</li>
             <li><i class="fa-li fa fa-check-square"></i>Logo on the DevOpsDays Dallas 2025 event website.</li>
-      <td><s>10</s></td>
+      <td>10</td>
     </tr>
   </tbody>
 </table>

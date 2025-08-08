@@ -1,4 +1,4 @@
-+++
+<!-- +++
 Title = "Registration"
 Type = "event"
 Description = "Registration for devopsdays Detroit 2025"
@@ -9,4 +9,4 @@ Description = "Registration for devopsdays Detroit 2025"
 {{< tix city="detroit" year="2025" info="show" >}}
 
 </div></div>
-</div>
+</div> -->

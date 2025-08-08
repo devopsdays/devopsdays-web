@@ -30,9 +30,9 @@ Para patrocinar la conferencia, envíanos un correo electrónico a [santiago@dev
 <tr>
 <th scope="row">Precio del Paquete</th>
 <td></td>
-<td><center>USD 4000</center></td>
-<td><center>USD 2000</center></td>
-<td><center>USD 1000</center></td>
+<td><center>USD 4800</center></td>
+<td><center>USD 2400</center></td>
+<td><center>USD 1200</center></td>
 <td></td>
 </tr>
 <tr>

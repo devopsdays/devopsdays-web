@@ -125,8 +125,8 @@ program:
     date: 2025-06-07T08:00:00-03:00
     start_time: "09:00"
     end_time: "09:30"
-  - title: ""
-    type: custom
+  - title: adarlan-teixeira
+    type: talk
     date: 2025-06-07T08:00:00-03:00
     start_time: "09:30"
     end_time: "10:00"
@@ -134,36 +134,31 @@ program:
     type: talk
     date: 2025-06-07T08:00:00-03:00
     start_time: "10:00"
-    end_time: "10:20"
-  - title: cleiton-pessoa
-    type: talk
-    date: 2025-06-07T08:00:00-03:00
-    start_time: "10:20"
-    end_time: "10:40"
+    end_time: "10:30"
   - title: "Coffee Break"
     type: custom
     date: 2025-06-07T08:00:00-03:00
-    start_time: "10:40"
+    start_time: "10:30"
     end_time: "11:00"
   - title: eric-do-rosrio
     type: talk
     date: 2025-06-07T08:00:00-03:00
     start_time: "11:00"
-    end_time: "11:20"
-  - title: ""
-    type: custom
+    end_time: "11:30"
+  - title: cleiton-pessoa
+    type: talk
     date: 2025-06-07T08:00:00-03:00
-    start_time: "11:20"
-    end_time: "11:40"
+    start_time: "11:30"
+    end_time: "12:00"
   - title: "Almoço"
     type: custom
     date: 2025-06-07T08:00:00-03:00
-    start_time: "11:40"
-    end_time: "12:40"
+    start_time: "12:00"
+    end_time: "13:00"
   - title: "Networking"
     type: custom
     date: 2025-06-07T08:00:00-03:00
-    start_time: "12:40"
+    start_time: "13:00"
     end_time: "13:30"
   - title: "Ignite Karaoke"
     type: custom
@@ -175,43 +170,33 @@ program:
     date: 2025-06-07T08:00:00-03:00
     start_time: "14:00"
     end_time: "14:30"
-  - title: ""
-    type: custom
+  - title: elenita-santos-de-oliveira
+    type: talk
     date: 2025-06-07T08:00:00-03:00
     start_time: "14:30"
-    end_time: "14:50"
-  - title: ""
-    type: custom
-    date: 2025-06-07T08:00:00-03:00
-    start_time: "14:50"
-    end_time: "15:10"
+    end_time: "15:00"
   - title: "Coffee Break"
     type: custom
     date: 2025-06-07T08:00:00-03:00
-    start_time: "15:10"
+    start_time: "15:00"
     end_time: "15:30"
   - title: "Open Spaces"
     type: custom
     date: 2025-06-07T08:00:00-03:00
-    start_time: "15:40"
+    start_time: "15:30"
     end_time: "16:20"
   - title: daniel-nascimento
     type: talk
     date: 2025-06-07T08:00:00-03:00
     start_time: "16:20"
-    end_time: "16:40"
-  - title: ""
-    type: custom
+    end_time: "16:50"
+  - title: kaique-de-jesus
+    type: talk
     date: 2025-06-07T08:00:00-03:00
-    start_time: "16:40"
-    end_time: "17:00"
-  - title: ""
-    type: custom
-    date: 2025-06-07T08:00:00-03:00
-    start_time: "17:00"
-    end_time: "17:30"
+    start_time: "16:50"
+    end_time: "17:20"
   - title: "Closing"
     type: custom
     date: 2025-06-07T08:00:00-03:00
-    start_time: "17:30"
+    start_time: "17:20"
     end_time: "18:00"

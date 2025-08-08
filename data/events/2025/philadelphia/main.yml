@@ -20,11 +20,11 @@ cfp_date_end: 2025-06-22T23:59:59-03:00 # close your call for proposals.
 
 cfp_link: "https://talks.devopsdays.org/devopsdays-philadelphia-2025/cfp" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start: 2025-08-04T00:00:00+02:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2025-10-01T00:00:00+02:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.eventbrite.com/e/devopsdays-philadelphia-2025-september-30th-october-1st-2025-tickets-1549913154969" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -47,7 +47,7 @@ event_twitter: "DevOpsDaysPHL" # This will create a traditional "Follow" twitter
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
  # - name: location
- # - name: registration
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
@@ -90,6 +90,9 @@ sponsors:
   # - id: samplesponsorname
   # level: gold
   #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: flox
+    level: gold
+    url: https://flox.dev/
   - id: kubeevents
     level: community
     url: https://kube.events
@@ -101,13 +104,13 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: platinum
+    label: Platinum
+#    max: 10
   - id: gold
     label: Gold
-#    max: 10
+    max: 0 # This is the same as omitting the max limit.
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
-  - id: bronze
-    label: Bronze
   - id: community
     label: Community
