@@ -81,19 +81,6 @@ team_members: # Name is the only required field for team members.
     linkedin: "LinkedIn.com/in/igorguedes"
     image: "igor-medella.jpg"
 
-  - name: "Cristiane Cardoso"
-    employer: "Fluxxorama Design & Co"
-    twitter: "cardosocrica"
-    linkedin: "https://www.linkedin.com/in/cardosocrica/"
-    website: "https://www.instagram.com/fluxxoramadesign?igsh=MTBpZDFrbXJpcDcwZQ=="
-    image: "cris-cardoso.jpg"
-
-  - name: "Pedro Ignácio"
-    employer: "Itaú Unibanco"
-    linkedin: "https://www.linkedin.com/in/pedroirufo"
-    website: "pedroscloudsecurity.com"
-    image: "pedro-ignacio.jpg"
-
   - name: "Bruna Caroline de Jesus"
     linkedin: "https://www.linkedin.com/in/brunacarolinedejesus/"
     image: "bruna-jesus.jpg"
@@ -130,9 +117,6 @@ sponsors:
   - id: punkdodevops
     level: community
 
-  - id: fluxxorama
-    level: community
-
   - id: docker-rio
     level: community
 
@@ -149,9 +133,6 @@ sponsors:
     level: community
   
   - id: veecode
-    level: community
-
-  - id: picpay
     level: community
 
   - id: grafana
