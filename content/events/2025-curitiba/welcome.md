@@ -1,5 +1,5 @@
 +++
-Title = "devopsdays Curitiba 2025"
+Title = "Devopsdays Curitiba 2025"
 Type = "welcome"
 aliases = ["/events/2025-curitiba/"]
 Description = "Devopsdays Curitiba 2025"
@@ -11,7 +11,7 @@ Description = "Devopsdays Curitiba 2025"
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Dates</strong>
+    <strong>Datas</strong>
   </div>
   <div class = "col-md-8">
     {{< event_start >}} - {{< event_end >}}
@@ -20,7 +20,7 @@ Description = "Devopsdays Curitiba 2025"
 
 <!-- <div class = "row">
   <div class = "col-md-2">
-    <strong>Location</strong>
+    <strong>Localização</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
@@ -29,55 +29,55 @@ Description = "Devopsdays Curitiba 2025"
 
 <!-- <div class = "row">
   <div class = "col-md-2">
-    <strong>Register</strong>
+    <strong>Ingressos</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
+    {{< event_link page="registration" text="Garanta seu ingresso!" >}}
   </div>
 </div> -->
 
 <!-- <div class = "row">
   <div class = "col-md-2">
-    <strong>Propose</strong>
+    <strong>Proposta de Palestra</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
+    {{< event_link page="propose" text="Proponha uma palestra!" >}}
   </div>
 </div> -->
 
 <!-- <div class = "row">
   <div class = "col-md-2">
-    <strong>Program</strong>
+    <strong>Grade do Evento</strong>
   </div>
   <div class = "col-md-8">
-    View the {{< event_link page="program" text="program." >}}
+    Veja a {{< event_link page="program" text="Grade." >}}
   </div>
 </div> -->
 
 <!-- <div class = "row">
   <div class = "col-md-2">
-    <strong>Speakers</strong>
+    <strong>Palestrantes</strong>
   </div>
   <div class = "col-md-8">
-    Check out the {{< event_link page="speakers" text="speakers!" >}}
+    Confira {{< event_link page="speakers" text="speakers!" >}}
   </div>
 </div> -->
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Sponsors</strong>
+    <strong>Patrocinadores</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="sponsor" text="Sponsor the conference!" >}}
+    {{< event_link page="sponsor" text="Seja um patrocinador!" >}}
   </div>
 </div>
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Contact</strong>
+    <strong>Contatos</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="contact" text="Get in touch with the organizers" >}}
+    {{< event_link page="contact" text="Entre em contato com os organizadores" >}}
   </div>
 </div>
 
