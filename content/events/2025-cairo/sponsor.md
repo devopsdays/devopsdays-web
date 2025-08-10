@@ -25,7 +25,7 @@ Description = "Sponsor devopsdays Cairo 2025"
 </td>
 <td>
 <p><strong>Strategic Sponsor</strong></p>
-<p>(EGP 250,000)</p>
+<p>(EGP 250,000)<br>Only 1 Sponsor</p>
 </td>
 </tr>
 <tr>
@@ -156,6 +156,9 @@ Description = "Sponsor devopsdays Cairo 2025"
 <tr>
 <td>
 <p>Exam Vouchers/ Seats</p>
+</td>
+<td>
+<p>X</p>
 </td>
 <td>
 <p>&radic;</p>
