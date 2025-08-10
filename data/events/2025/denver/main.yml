@@ -87,6 +87,8 @@ sponsors:
     level: gold
   - id: flox
     level: silver
+  - id: fluidattacks
+    level: silver
   - id: fairwinds
     level: supporter
   - id: releaseteam

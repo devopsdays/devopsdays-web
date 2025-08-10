@@ -124,8 +124,8 @@ Follow us on [Twitter](https://twitter.com/DevOpsDaysDC) or [LinkedIn](https://w
 
 <div class="row">
   <div class="col-md-12">
-  <!--  <h2>This Year's Speakers</h2>
-        <script type="text/javascript" src="https://sessionize.com/api/v2/iyil0abm/view/SpeakerWall"></script> -->
+    <h2>This Year's Speakers</h2>
+      <script type="text/javascript" src="https://sessionize.com/api/v2/bks6lqx4/view/SpeakerWall"></script>
   </div>
   <div class="col-md-12">
     <h2>Who has attended?</h2>
