@@ -128,10 +128,16 @@ sponsors:
     level: standard
   # Logo sponsors
   - id: that-agile
-    level: standard
+    level: logo
   - id: "google"
     level: logo
   - id: cyberark
+    level: logo
+  - id: commify
+    level: logo
+  - id: "oxa"
+    level: logo
+  - id: "clearbank"
     level: logo
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
