@@ -4,8 +4,15 @@ Type = "event"
 Description = "Sponsor devopsdays Cairo 2025"
 +++
 
-<p style="text-align: center;"><strong>Sponsorship Packages</strong></p>
-<table style="width: 98%;">
+<style>
+TD,TH {
+border:1px solid black;
+}
+</style>
+
+<p style="text-align: center;"><h3>Sponsorship Packages</h3></p>
+
+<table style="width: 98%;" border="1">
 <tbody>
 <tr>
 <td>
