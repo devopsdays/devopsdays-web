@@ -1,7 +1,7 @@
 +++
 Title = "Código de Conduta"
 Type = "event"
-Description = ""Código de conduta do devopsdays Curitiba 2025"
+Description = "Código de conduta do devopsdays Curitiba 2025"
 +++
 
 Todos os participantes, palestrantes, patrocinadores e voluntários do **devopsdays Curitiba 2025** devem concordar com o seguinte código de conduta. Os organizadores farão cumprir estas regras durante todo o evento. Esperamos a cooperação de todos para garantir um ambiente seguro para todas as pessoas.  
