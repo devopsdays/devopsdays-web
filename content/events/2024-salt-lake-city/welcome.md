@@ -1,7 +1,14 @@
 +++
 Title = "DevOpsDays SLC 2024"
 Type = "welcome"
-aliases = ["/events/2024-salt-lake-city/"]
+aliases = [
+    "/events/2024-salt-lake-city/",
+    "/events/2024-salt-lake-city/location/",
+    "/events/2024-salt-lake-city/program/",
+    "/events/2024-salt-lake-city/propose/",
+    "/events/2024-salt-lake-city/registration/",
+    "/events/2024-salt-lake-city/sponsor/"
+    ]
 Description = "DevOpsDays SLC 2024"
 +++
 
@@ -23,7 +30,7 @@ Description = "DevOpsDays SLC 2024"
 <br><br>
 <span>Every year, we look forward to connecting with our local DevOps community at SLC DevOps Days; Sharing and learning from experts in our community, and working with DevOps thought leaders that visit our event. After several years of uncertainty around large gatherings, we are very excited to bring this event back to the Salt Lake City area and our local technology community. 
 
-More information forthcoming - will update soon!
+Notice: This event has been rescheduled for Q2 of 2025.
 </span>
 
 

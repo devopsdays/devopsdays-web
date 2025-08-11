@@ -6,7 +6,6 @@ talk_start_time: ""
 talk_end_time: ""
 speakers:
   - david-sandilands
-
 ---
 
 Jim Collins’ Five Stages of Decline shows how many great companies overstep themselves and suddenly find themselves falling, more and more rapidly. See, most startups only care about early growth—just like tech debt, we think we can always come back to sustainability after we’ve made it. Open source community is a great way to kickstart that initial success and growth. It’s practically free and your users are throwing contributions at you left and right....

@@ -7,8 +7,8 @@ talk_end_time = "14:10"
 Title = "The 3 Unfunded Pillars of Digital Business"
 Type = "talk"
 Speakers = ["sasha-rosenbaum"]
-youtube = ""
-speakerdeck = ""
+youtube = "qXoZ2P7t1TI"
+speakerdeck = "https://speakerdeck.com/devopsdayssg/the-3-unfunded-pillars-of-digital-business-by-sasha-rosenbaum"
 sharing_image = "2024-sasha-rosenbaum.jpg"
 +++
 

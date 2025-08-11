@@ -124,7 +124,7 @@ sponsors:
     level: silver
   - id: redhat-before-20190528
     level: silver
-  - id: cloudbees-before-20210804
+  - id: cloudbees-before-20250128-before-20210804
     level: silver
   - id: nginx
     level: silver

@@ -45,8 +45,10 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     url: /events/2024-brasilia/conduct
   - name: contato
     url: /events/2024-brasilia/contact
-  # - name: Programação
-  #   url: /events/2024-brasilia/program
+  - name: patrocinadores
+    url: /events/2024-brasilia/sponsor
+  - name: Programação
+    url: /events/2024-brasilia/program
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
@@ -57,9 +59,10 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/ruan-sysadmin/"
 
   - name: "Jorge Santana"
+    employer: "X-Via"
     image: "jorge.jpeg"
     twitter: "https://twitter.com/JorgeSantanaDev"
-    bio: "Desenvolvedor FullStack Senior"
+    bio: "Desenvolvedor FullStack Senior - NodeJs/React/Angular"
     linkedin: "https://www.linkedin.com/in/jorge-santana-developer"
 
   - name: "Herberson Miranda"
@@ -82,45 +85,17 @@ team_members: # Name is the only required field for team members.
     bio: "Founder of OceanPipeTech / DevOps / DataOps / SRE / Platform Engineer"
     linkedin: "https://www.linkedin.com/in/alexandremjcastro/"
 
-  - name: "Ana Sabino"
-    employer: "Sodexo/Pluxee"
-    image: "ana.jpeg"
-    twitter: "https://twitter.com/anamariasabino"
-    bio: "DevOps Engineer na Pluxee Global/América Latina | GDG Cloud Brasília"
-    linkedin: "https://www.linkedin.com/in/ana-sabino-b9726a55/"
-
   - name: "Marcus Castelar"
     employer: "Globant"
     image: "marcus.jpg"
-
-  - name: "Matheus Araujo"
-    image: "matheus.jpeg"
-    linkedin: "https://www.linkedin.com/in/matheus-araujo-19670676/"
-
-  - name: "Rafael Santos (RafaR)"
-    employer: "Vitslab e Zarv"
-    image: ""
-    linkedin: "https://www.linkedin.com/in/rafaelrsantosti/"
-
-  - name: "Guaracy Carvajal"
-    employer: "GWCloud"
-    image: "guaracy.jpeg"
-    twitter: "https://twitter.com/blnk0_"
-    bio: "DevOps / Cybersec"
-    linkedin: "https://www.linkedin.com/in/guaracy-carvajal-ba762b247/"
+    bio: "DevOps | Cloud (Azure/AWS) | Kubernetes (CKAD/CKA) | SRE"
+    linkedin: "https://www.linkedin.com/in/marcusbrito/"
 
   - name: "Wander Macedo da Silva"
     employer: "G4F/Global Hitss"
     image: "wander.jpg"
     bio: "DevOps / Platform Engineers / Sysadmin "
     linkedin: "https://www.linkedin.com/in/wander-macedo-da-silva-151271a2/"
-
-  - name: "Gustavo Santos"
-    employer: "Cognizant"
-    image: "gustavo.png"
-    twitter: "https://twitter.com/gustavribeirods"
-    bio: "Cloud Data Engineer | GDG Organizer "
-    linkedin: "https://www.linkedin.com/in/gustavribeiro/"
 
 organizer_email: "brasilia@devopsdays.org" # Put your organizer email address here
 
@@ -143,34 +118,117 @@ sponsor_levels:
     label: Silver
     max: 5
   - id: community
-    label: Comunidade
+    label: Bronze
   - id: media
     label: Media
 
 sponsors:
-  # - id: elastic
-  #   level: platinum
-  # - id: governo-pernambuco
-  #   level: platinum
-  # - id: espaco-cloud
-  #   level: gold
-  # - id: novatec
-  #   level: community
-#program:
-# - title: "Credenciamento"
-#   type: custom
-#   date: 2022-12-10T00:09:00-03:00
-#   start_time: "08:15"
-#   end_time: "10:00"
+  - id: jack-experts
+    level: platinum
+  - id: kubecareers
+    level: media
+  - id: kubeevents
+    level: media
+  - id: suse
+    level: community
+  - id: 4linux
+    level: silver
+  - id: linuxtips
+    level: silver
+  - id: pointer
+    level: gold
+  - id: hub-connect
+    level: community
+  - id: aws-user-group-brasilia
+    level: community
+program:
+  - title: "Credenciamento"
+    type: custom
+    date: 2024-11-23
+    start_time: "08:00"
+    end_time: "09:00"
 
-# - title: "marylia-gutierrez"
-#   type: talk
-#   date: 2022-12-10T00:09:00-03:00
-#   start_time: "09:00"
-#   end_time: "09:30"
+  - title: "Abertura"
+    type: custom
+    date: 2024-11-23
+    start_time: "09:00"
+    end_time: "09:30"
+    background-color: #93ff97
 
-# - title: "Open Spaces 💬 / Cofee Break ☕️"
-#   type: open-space
-#   date: 2022-12-10T00:09:00-03:00
-#   start_time: "15:00"
-#   end_time: "15:30"
+  - title: "americo-junior"
+    type: talk
+    date: 2024-11-23
+    start_time: "09:30"
+    end_time: "10:00"
+
+  - title: "clayton-cavaleiro"
+    type: talk
+    date: 2024-11-23
+    start_time: "10:00"
+    end_time: "10:30"
+
+  - title: "Coffe Break"
+    type: custom
+    date: 2024-11-23
+    start_time: "10:30"
+    end_time: "11:10"
+
+  - title: "levi-leopoldino"
+    type: talk
+    date: 2024-11-23
+    start_time: "11:10"
+    end_time: "11:40"
+
+  - title: "joao-neto"
+    type: talk
+    date: 2024-11-23
+    start_time: "11:40"
+    end_time: "12:10"
+
+  - title: "Almoço"
+    type: custom
+    date: 2024-11-23
+    start_time: "12:10"
+    end_time: "13:40"
+
+  - title: "Open Space"
+    type: open-space
+    date: 2024-11-23
+    start_time: "13:40"
+    end_time: "14:30"
+
+  - title: "daniel-rodrigues"
+    type: talk
+    date: 2024-11-23
+    start_time: "14:30"
+    end_time: "15:00"
+
+  - title: "odilon-junior"
+    type: talk
+    date: 2024-11-23
+    start_time: "15:00"
+    end_time: "15:30"
+
+  - title: "Coffe Break"
+    type: custom
+    date: 2024-11-23
+    start_time: "15:30"
+    end_time: "16:10"
+
+  - title: "paulo-santiago"
+    type: talk
+    date: 2024-11-23
+    start_time: "16:10"
+    end_time: "16:40"
+
+  - title: "danilo-dorgam"
+    type: talk
+    date: 2024-11-23
+    start_time: "17:10"
+    end_time: "17:40"
+
+  - title: "Encerramento, sorteios e agradecimentos"
+    type: custom
+    date: 2024-11-23
+    start_time: "17:40"
+    end_time: "18:30"

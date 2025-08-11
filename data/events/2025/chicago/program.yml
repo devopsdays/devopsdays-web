@@ -1,0 +1,128 @@
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2025-03-18
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2025-03-18
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "reid-savage"
+    type: talk
+    date: 2025-03-18
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2025-03-18
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: "paul-czarkowski"
+    type: talk
+    date: 2025-03-18
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2025-03-18
+    start_time: "10:25"
+    end_time: "10:40"
+  - title: "annie-hedgpeth"
+    type: talk
+    date: 2025-03-18
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2025-03-18
+    start_time: "11:10"
+    end_time: "11:20"
+  - title: "Ignites"
+    type: ignite
+    date: 2025-03-18
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Sponsors"
+    type: custom
+    date: 2025-03-18
+    start_time: "11:50"
+    end_time: "12:00"
+  - title: "Lunch"
+    type: custom
+    date: 2025-03-18
+    start_time: "12:00"
+    end_time: "13:00"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2025-03-18
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Sponsors"
+    type: custom
+    date: 2025-03-18
+    start_time: "13:30"
+    end_time: "13:40"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2025-03-18
+    start_time: "13:45"
+    end_time: "14:30"
+  - title: "leigh-capili"
+    type: workshop
+    date: 2025-03-18
+    start_time: "13:45"
+    end_time: "14:30"
+  - title: "Break"
+    type: custom
+    date: 2025-03-18
+    start_time: "14:30"
+    end_time: "14:45"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2025-03-18
+    start_time: "14:45"
+    end_time: "15:30"
+  - title: "peter-zaitsev"
+    type: workshop
+    date: 2025-03-18
+    start_time: "14:45"
+    end_time: "15:30"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2025-03-18
+    start_time: "15:30"
+    end_time: "16:15"
+  - title: "tracey-barrett"
+    type: workshop
+    date: 2025-03-18
+    start_time: "15:30"
+    end_time: "16:15"
+  - title: "Sponsor Giveaways"
+    type: custom
+    date: 2025-03-18
+    start_time: "16:15"
+    end_time: "16:45"
+  - title: "michael-stahnke"
+    type: talk
+    date: 2025-03-18
+    start_time: "16:45"
+    end_time: "17:15"
+  - title: "Close Day"
+    type: custom
+    date: 2025-03-18
+    start_time: "17:15"
+    end_time: "17:30"
+
+ignites:
+  - title: "robert-snyder"
+    date: 2025-03-18
+  - title: "henrietta-dombrovskaya"
+    date: 2025-03-18
+  - title: "robert-hafner"
+    date: 2025-03-18
+  - title: "heather-thacker"
+    date: 2025-03-18
+  - title: "keith-willoughby"
+    date: 2025-03-18

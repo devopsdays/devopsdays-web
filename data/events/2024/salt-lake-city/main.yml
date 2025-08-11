@@ -16,9 +16,10 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 # startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
 # enddate:   # The end date of your event. Leave blank if you don't have a venue reserved yet.
 # startdate: 2024-03-13T08:00:00-06:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-startdate: 2024-10-17T08:00:00-06:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+cancel: "true"
+startdate: # The start date of your event. Leave blank if you don't have a venue reserved yet.
 # enddate: 2024-03-14T18:00:00-06:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2024-10-18T18:00:00-06:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2023-09-02T00:00:00-06:00  # start accepting talk proposals.
@@ -40,14 +41,14 @@ location_address: "9750 S 300 W Sandy UT 84070" # Optional - use the street addr
 nav_elements: # List of pages you want to show up in the navigation of your page.
 #   - name: slcdevopsdays.org
 #     url: https://www.slcdevopsdays.org
-  - name: propose
-  - name: location
-  - name: registration
+  # - name: propose
+  # - name: location
+  # - name: registration
     # url: https://slcdevopsdays.org/conference
   # - name: program
     # url: https://saltlakecitydevopsdays2023.sched.com/
   # - name: speakers
-  - name: sponsor
+  # - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
@@ -117,7 +118,7 @@ organizer_email: "salt-lake-city@devopsdays.org" # Put your organizer email addr
   #  level: community
   #  url: "https://www.sponsorsurl.com/" # Use this if you need to over-ride a sponsor URL.
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 # sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.

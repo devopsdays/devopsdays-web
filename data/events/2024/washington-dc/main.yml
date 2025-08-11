@@ -213,18 +213,20 @@ sponsors:
     level: gold
   - id: devopsdc-meetup
     level: community
-  - id: fianu
+  - id: fianu-before-20250409
     level: platinum
   - id: axiom
     level: platinum
   - id: progresschef
     level: platinum
-  - id: redhat
-    level: gold
   - id: tailscale
     level: silver
   - id: googlecloud
     level: silver
+  - id: site24x7
+    level: gold
+  - id: redhat
+    level: gold
     
 
     #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
@@ -240,9 +242,6 @@ sponsor_levels:
   - id: platinum
     label: Platinum
     max: 5
-  - id: lanyard
-    label: Lanyard
-    max: 1
   - id: gold
     label: Gold
     max: 6
@@ -250,6 +249,12 @@ sponsor_levels:
     label: Silver
     max: 6
     #max: 0 # This is the same as omitting the max limit.
+  - id: closedcaptioning
+    label: Closed Captioning
+    max: 1
+  - id: lanyard
+    label: Lanyard
+    max: 1
   - id: breakfast
     label: Breakfast
     max: 1
@@ -258,9 +263,6 @@ sponsor_levels:
     max: 1
   - id: break
     label: Break
-    max: 1
-  - id: closedcaptioning
-    label: Closed Captioning
     max: 1
   - id: community
     label: Community

@@ -29,3 +29,7 @@ In this talk, we will explore together what is the investment required to start 
   <li>Closing thoughts</li>
 </ul>
 </p>
+
+Slide decks: <a target="_blank" href="https://assets.devopsdays.es/documents/slide-decks/DevOpsDays+Ca%CC%81ceres+2024+-+ROI+Calculator+-+Marisa+Marti%CC%81n+Serrano.pdf">PDF</a> and <a target="_blank" href="https://assets.devopsdays.es/documents/slide-decks/DevOpsDays+Ca%CC%81ceres+2024+-+ROI+Calculator+-+Marisa+Marti%CC%81n+Serrano.pptx">PPTX</a>
+
+DevOpsDays Cáceres 2024 <a target="_blank" href="https://open.spotify.com/playlist/4fsPidKihD7s32IvALN0le?si=fe811d68558046b0">playlist</a>

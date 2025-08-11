@@ -1,11 +1,7 @@
 +++
 Title = "Registration"
 Type = "event"
-Description = "Registration for DevOpsDays Amsterdam 2025"
+Description = "Registration for devopsdays Amsterdam 2025"
 +++
 
-<div style="width:100%; text-align:left;">
-
-Embed registration iframe/link/etc.
-</div></div>
-</div>
+{{< tix city="amsterdam" year="2025" info="show" >}}

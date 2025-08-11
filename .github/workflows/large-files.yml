@@ -12,7 +12,7 @@ jobs:
    runs-on: ubuntu-latest
    steps:
     - name: Checkout repository
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
       with:
           fetch-depth: 0
 
@@ -32,11 +32,11 @@ jobs:
           fi
         done
         echo "HAS_LARGE_FILE=${has_large_file}" >> $GITHUB_ENV
-        
+
     - name: Comment on PR
       id: comment
       if: ${{ env.HAS_LARGE_FILE == 'true' }}
       uses: thollander/actions-comment-pull-request@v2
       with:
         message: |
-           :warning: Warning: This PR contains a PDF or large file(s). In most cases, you should use the [asset repository](https://github.com/devopsdays/devopsdays-assets/)         
+           :warning: Warning: This PR contains a PDF or large file(s). In most cases, you should use the [asset repository](https://github.com/devopsdays/devopsdays-assets/)

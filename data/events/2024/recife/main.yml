@@ -21,28 +21,26 @@ cfp_date_end:  "2024-04-30T23:59:59-03:00" #2019-10-25T00:09:00-03:00 # close yo
 cfp_date_announce: "2023-12-22T00:00:00-03:00" #2019-10-20T00:09:00-03:00 # inform proposers of status
 
 
-cfp_open: "true"
+cfp_open: "false"
 cfp_link: "https://www.papercall.io/dodrec24" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: "" #2022-10-01T00:09:00-03:00 # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: "" #2022-10-31T00:09:00-03:00 # close registration. Leave blank if registration is not open yet.
+registration_date_start: "2024-11-01T00:09:00-03:00" #2022-10-01T00:09:00-03:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: "2024-12-08T00:09:00-03:00" #2022-10-31T00:09:00-03:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.sympla.com.br/evento/devops-days-recife-2024/2659465" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
 coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "TBA" # Defaults to city, but you can make it the venue name.
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location: "Centro de Convençoes - Teatro Ribeira" # Defaults to city, but you can make it the venue name.
+location_address: "Av. Prof. Andrade Bezerra, S/N, Olinda - PE" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
 #   icon: "" deprecated - This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
  - name: local
    url: /events/2024-recife/local
-#  - name: inscricao
-#    url: ""
  - name: código de conduta
    url: /events/2024-recife/conduct
  - name: contato
@@ -66,6 +64,12 @@ team_members: # Name is the only required field for team members.
     bio: ""
     linkedin: "https://www.linkedin.com/in/fabioqcorreia"
 
+  - name: "Henrique Cordeiro"
+    employer: "Avantsoft"
+    image: "henrique-cordeiro.png"
+    bio: ""
+    linkedin: "https://www.linkedin.com/in/henrique-cordeiro-pereira/"
+
   - name: "Lucas Assad"
     employer: "Ustore"
     image: "lucas-assad.jpg" 
@@ -85,7 +89,7 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/mariliaangela/"
 
   - name: "Shenia Andrade"
-    employer: "Neon"
+    employer: "Magazine Luiza"
     image: "shenia-andrade.jpg"
     bio: ""
     linkedin: "https://www.linkedin.com/in/shenia-tamires-andrade/"
@@ -119,19 +123,18 @@ sponsor_levels:
     max: 5
   - id: community
     label: Comunidade
-  - id: media
-    label: Media
 
 sponsors:
-  # - id: elastic
-  #   level: platinum
-  # - id: governo-pernambuco
-  #   level: platinum
-  # - id: espaco-cloud
-  #   level: gold
-  # - id: novatec
-  #   level: community
-
+   - id: elastic
+     level: platinum
+   - id: encora
+     level: platinum
+   - id: aws
+     level: gold
+   - id: lunio
+     level: silver
+   - id: novatec
+     level: community
 program:
   # - title: "Credenciamento"
   #   type: custom

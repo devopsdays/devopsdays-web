@@ -6,7 +6,7 @@ talk_start_time: ""
 talk_end_time: ""
 speakers:
   - patrick-debois
-
+Youtube: "v17-vT-efhM"
 ---
 
 The value of the new genAI capabilities shine when they really become part of our daily workflows. 

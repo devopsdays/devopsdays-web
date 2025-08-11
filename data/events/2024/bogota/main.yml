@@ -79,13 +79,29 @@ sponsors:
     level: diamond
   - id: fluidattacks
     level: diamond
-  - id: certjoin
-    level: community
+  - id: manage-engine
+    level: diamond
+  - id: globant
+    level: diamond
+  - id: epam
+    level: diamond
   - id: softtek
+    level: platinum
+  - id: thales
     level: platinum
   - id: elastic
     level: gold
-    
+  - id: encora
+    level: gold
+  - id: certjoin
+    level: education
+  - id: datapath
+    level: education  
+  - id: tribuiacolombia
+    level: community
+  - id: aws-women
+    level: community  
+      
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -103,3 +119,5 @@ sponsor_levels:
     max: 0 # This is the same as omitting the max limit.
   - id: community
     label: Community
+  - id: education
+    label: Education

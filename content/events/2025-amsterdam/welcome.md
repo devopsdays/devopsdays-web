@@ -2,7 +2,7 @@
 Title = "DevOpsDays Amsterdam 2025"
 Type = "welcome"
 aliases = ["/events/2025-amsterdam/"]
-Description = "DevOpsDays Amsterdam will take place June 18-20, 2025! The group that brought you DevOpsDays Amsterdam is back together and planning the 2025 event."
+Description = "DevOpsDays Amsterdam took place June 18-20, 2025! Thanks everyone, for another great event."
 +++
 
 <div style="text-align:center;">
@@ -47,12 +47,12 @@ Description = "DevOpsDays Amsterdam will take place June 18-20, 2025! The group 
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Register / Get a ticket</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="registration" text="Register / buy a ticket to attend the conference!" >}}
+    {{< event_link page="registration" text="Get a ticket to attend the conference!" >}}
   </div>
 </div>
 
@@ -72,7 +72,7 @@ Description = "DevOpsDays Amsterdam will take place June 18-20, 2025! The group 
   <div class = "col-md-8">
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -100,21 +100,21 @@ Description = "DevOpsDays Amsterdam will take place June 18-20, 2025! The group 
           <a class="btn btn-primary btn-block"
             style="margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;"
             href="/events/2025-amsterdam/sponsor">
-            <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference
+            <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;Sponsor the Conference
           </a>
         </div>
-        <!-- <div class="d-flex p-2">
+        <div class="d-flex p-2">
           <a class="btn btn-primary btn-block"
             style="margin-top: 10px; margin-bottom: 10px; background-color: #e59049; border-color: #e59049;"
             href="/events/2025-amsterdam/registration">
-            <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Buy a ticket
+            <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;Buy a ticket
           </a>
-        </div> -->
+        </div>
         <div class="d-flex p-2">
           <a class="btn btn-primary btn-block"
             style="margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;"
             href="/events/2025-amsterdam/contact">
-            <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Contact the Organizers
+            <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;Contact the Organizers
           </a>
         </div>
       </div>
@@ -125,11 +125,9 @@ Description = "DevOpsDays Amsterdam will take place June 18-20, 2025! The group 
     <div class="col-12">
         From fledgling startups to established industry, The Netherlands is home to a large, vibrant technology community. Amsterdam, in particular, has been a flurry of activity in the past several years, drawing attention from around the globe.
       <br><br>
-        DevOpsDays Amsterdam brings all disciplines, such as development, operations, QA, InfoSec, management, and leadership, together to discuss culture, tools and skills to make better organizations and products. The 2025 event will be the 13th time we have held DevOpsDays Amsterdam, and it should be bigger and better than ever before!
+        DevOpsDays Amsterdam brings all disciplines, such as development, operations, QA, InfoSec, management, and leadership, together to discuss culture, tools and skills to make better organizations and products. The 2025 event was the 13th time we have held DevOpsDays Amsterdam, and we had a great time at the <a href="/events/2025-amsterdam/location">Pakhuis de Zwijger</a> in the center of Amsterdam.
       <br><br>
-        We expect 600 people this year and will be holding the event on June 18-20, 2025 at the <a href="/events/2025-amsterdam/location">Pakhuis de Zwijger</a> in the center of Amsterdam.
-      <br><br>
-        The first day will be a workshop day, focusing on hands-on activities, from coding to cooperation in several parallel tracks in smaller settings. The format of the following 2 days includes a single track of 30-minute talks in the morning, followed by Ignite talks (5-minute, auto forwarding slides). There will be room for Open Spaces in the afternoon, which is considered a vital portion of the event. For those not interested in the Open Spaces, we continue offering the single track around a specific theme.
+        The first day was a workshop day, focused on hands-on activities, from coding to cooperation in several parallel tracks in smaller settings. The format for the other 2 days includes a single track of 30-minute talks, Ignite talks (5-minute, auto forwarding slides), and "Open Spaces". The latter is considered a vital portion of the event. For those not interested in the Open Spaces, we continue offering the single track in the main room.
     </div>
   </div>
   <div class="row">

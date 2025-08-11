@@ -4,19 +4,46 @@ Type = "welcome"
 aliases = ["/events/2025-aarhus/"]
 Description = "devopsdays Aarhus 2025"
 +++
-
-
-
 <div class="row">
-  <div class="col-md-8">
-    <h2>Devopsdays Denmark is coming back to Aarhus in 2025!</h2>
-    <p>We look forward to welcoming the local DevOps scene, inspiring speakers and our sponsors, to a great event.</p>
+  <div class="col-md-6">
+    <h2>DevOpsDays Aarhus 2025</h2>
+    <p>
+      Thank you for participating in Devopsdays Aarhus 2025!
+    </p>
+    <h3>Stay in contact</h3>
+    <p>
+      Keep the conversation going in the <a href="https://www.linkedin.com/groups/10079001">DevOpsDays – Denmark LinkedIn group</a>.
+    </p>
+    <h3>About this event</h3>
+    <p>
+      DevOpsDays is a global series of technical conferences covering topics in
+      software development, IT infrastructure operations, and the intersection
+      between the two. Each event is organized by dedicated local volunteers, making
+      it a unique space for exchanging ideas and building connections within the
+      DevOps community.
+    </p>
     <div class="row">
       <div class="col-md-2">
         <strong>Dates</strong>
       </div>
       <div class="col-md-8">
         {{< event_start>}} - {{< event_end>}}
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-2">
+        <strong>Program</strong>
+      </div>
+      <div class="col-md-8">
+        {{< event_link page="program" text="See the full program" >}}
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-2">
+        <strong>Sponsors</strong>
+      </div>
+      <div class="col-md-8">
+        {{< event_link page="sponsor" text="Sponsor the conference" >}}
       </div>
     </div>
     <div class="row">
@@ -43,6 +70,11 @@ Description = "devopsdays Aarhus 2025"
       <div class="col-md-8">
         {{< event_link page="contact" text="Get in touch with the organizers">}}
       </div>
+    </div>
+  </div>
+  <div class="col-md-6">
+    <div style="text-align:center;">
+      {{< event_logo>}}
     </div>
   </div>
 </div>

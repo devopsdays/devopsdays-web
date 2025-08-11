@@ -27,14 +27,15 @@ Description = "DevOpsDays Paris 2024"
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
+    <a href="https://www.devopsrex.fr/fr/inscription">Commandez votre pass !</a>
+    <!-- {{< event_link page="registration" text="Commandez votre pass !" >}} -->
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -85,8 +86,12 @@ Description = "DevOpsDays Paris 2024"
 
 {{< event_twitter >}}
 
+## Pour plus d'informations, veuillez visiter notre site principal : <a href="https://www.devopsrex.fr/">devopsREX.fr</a>
+
 <br>
 <br>
-<div>Après une courte pause, DevOpsDays / DevOps REX revient à Paris en 2024 ! Nous serons colocalisés avec <a href="https://www.opensource-experience.com/fr/">Open Source Experience</a> en décembre. Restez à l'écoute pour plus d'informations !</div>
+<div>Après une courte pause, DevOpsDays / DevOps REX revient à Paris en 2024 ! Nous serons colocalisés avec <a href="https://www.opensource-experience.com/fr/">Open Source Experience</a> en décembre.<br>
+<b>La langue principale de cette conférence sera le français.</b></div>
 <br>
-<div><i>(en)</i> After a short hiatus, DevOpsDays / DevOps REX is coming back to Paris in 2024! We'll be colocating with the <a href="https://www.opensource-experience.com/en/">Open Source Experience</a> in December. Stay tuned for more information!</div>
+<div><i>(en)</i> After a short hiatus, DevOpsDays / DevOps REX is coming back to Paris in 2024! We'll be colocating with the <a href="https://www.opensource-experience.com/en/">Open Source Experience</a> in December.<br>
+<b>The principal language of this conference will be French.</b></div>

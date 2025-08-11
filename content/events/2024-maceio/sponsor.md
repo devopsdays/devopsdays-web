@@ -124,10 +124,10 @@ Visando valorizar a participação de instituições na realização do evento, 
     </tr>
     <tr>
       <td><b>Contribuição</b></td>
+      <td><b>R$ 500,00</b></td>
+      <td><b>R$ 1.000,00</b></td>
       <td><b>R$ 3.000,00</b></td>
       <td><b>R$ 5.000,00</b></td>
-      <td><b>R$ 7.000,00</b></td>
-      <td><b>R$ 10.000,00</b></td>
     </tr>
   </table>
 </div>
@@ -254,16 +254,15 @@ Aiming to enhance the participation of institutions in the event, we organized p
     </tr>
     <tr>
       <td><b>Contribution*</b></td>
-      <td><b>US$ 600,00</b></td>
-      <td><b>US$ 1.000,00</b></td>
-      <td><b>US$ 1.500,00</b></td>
-      <td><b>US$ 2.000,00</b></td>
+      <td><b>US$ 90,00</b></td>
+      <td><b>US$ 180,00</b></td>
+      <td><b>US$ 535,00</b></td>
+      <td><b>US$ 890,00</b></td>
     </tr>
   </table>
 </div>
 <div>
 <p>* Prices in USD are subject to the exchange rate on the day of payment.</p>
 <p><strong>COMMUNITY:</strong> Supporters who have contributed some benefit to the public or amount of
-up to US$ 500,00 receive the right to be publicized on social media and 1 registration for the event.</p>
-<p style="font-size:18px">See more in the full document here (in portuguese) <a href="https://assets.devopsdays.org/events/2024/sao-paulo/DevOpsDays%20São%20Paulo%20-%20Mídia%20Kit.pdf"><i class="fa fa-download" style="font-size:30px"></i></a></p>
+up to US$ 180,00 receive the right to be publicized on social media and 1 registration for the event.</p>
 </div>

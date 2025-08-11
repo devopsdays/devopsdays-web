@@ -14,11 +14,11 @@ startdate:  2024-11-30T09:00:00-03:00
 enddate:  2024-11-30T18:00:00-03:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2024-09-12T09:00:00-03:00 # start accepting talk proposals.
+cfp_date_end: 2024-10-14T22:10:00-03:00 # close your call for proposals.
+cfp_date_announce: 2024-09-12T09:00:00-03:00 # inform proposers of status
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://www.papercall.io/devopsdayspoa2023" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2024-08-20T08:00:00-03:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 registration_date_end: 2024-11-30T18:00:00-03:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
@@ -49,6 +49,18 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: patrocínio
     icon: "money"
     url: /events/2024-porto-alegre/sponsor
+
+  - name: Chamadas (C4P)
+    icon: "paper-plane-o"
+    url: https://www.papercall.io/devopsdayspoa2023
+  
+  - name: programação
+    icon: "calendar"
+    url: /events/2024-porto-alegre/program
+
+  - name: palestrantes
+    icon: "microphone"
+    url: /events/2024-porto-alegre/speakers
 
   - name: contato
     icon: "envelope-o"
@@ -98,6 +110,12 @@ team_members: # Name is the only required field for team members.
     linkedin: https://linkedin.com/in/lbmello
     image: lucas-mello.jpeg
 
+  - name: "Maiara Fagundes"
+    role: "Head of DevOps & SRE"
+    linkedin: "https://www.linkedin.com/in/maiarafagundes/"
+    bio: "Profissional com mais de 15 anos de experiência em Tecnologia, especializada em áreas como Infraestrutura, DevOps/SRE e Cloud Engineering. Atualmente, ocupa o cargo de Head of DevOps & SRE and QA na V8.Tech, liderando projetos de Inovação, Qualidade e Engenharia de Plataforma. Com uma paixão genuína pela área de TI e pela transformação digital, possui uma ampla expertise em gestão de equipes de alta performance e no desenvolvimento de soluções tecnológicas avançadas, garantindo a entrega eficiente e inovadora dos projetos."
+    image: "maiara-fagundes.jpeg"
+
   - name: "Marco Antonio Martins Junior (Somatório)"
     employer: "Wunderman Thompson Commerce & Technology"
     twitter: "somatorio"
@@ -145,8 +163,18 @@ organizer_email: "porto-alegre@devopsdays.org" # Put your organizer email addres
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: samplesponsorname
-    level: gold
+  - id: dot
+    level: platinum
+  - id: tecnopuc
+    level: platinum
+  - id: ntconsult
+    level: silver
+  - id: adp
+    level: bronze
+  - id: grafana
+    level: bronze
+  - id: timescale
+    level: bronze
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   # - id: arresteddevops
   #   level: community
@@ -158,6 +186,8 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: platinum
+    label: Platinum
   - id: gold
     label: Gold
 #    max: 10
@@ -166,5 +196,3 @@ sponsor_levels:
     max: 0 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
-  - id: community
-    label: Community

@@ -41,6 +41,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: conduct
   - name: contact
   - name: location
+  - name: register
+    url: "https://ti.to/devopsdaysbos/2024"
   - name: program
   - name: speakers
   - name: sponsor
@@ -100,7 +102,19 @@ sponsors:
   - id: observe
     level: platinum
   - id: oodleai
+    level: startupalley
+  - id: scaleops
     level: platinum
+  - id: observe
+    level: snacks
+  - id: atomiccoffeeroasters
+    level: coffee
+  - id: dryrun-security
+    level: startupalley
+  - id: groundcover
+    level: platinum
+  - id: qmcloud
+    level: startupalley
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -113,6 +127,12 @@ sponsor_levels:
     label: Platinum
   - id: startupalley
     label: Startup Alley
+  - id: snacks
+    label: Snacks
+    max: 1
+  - id: coffee
+    label: Coffee
+    max: 1
 
 program:
 # Day 1
@@ -126,7 +146,7 @@ program:
     date: 2024-10-21
     start_time: "9:15"
     end_time: "9:30"
-  - title: "sabrina-battiston"
+  - title: "sara-gerion"
     type: talk
     date: 2024-10-21
     start_time: "9:30"
@@ -213,13 +233,13 @@ program:
     date: 2024-10-22
     start_time: "9:15"
     end_time: "9:30"
-  - title: "sara-gerion"
+  - title: "sanjita-gupta"
     type: talk
     date: 2024-10-22
     start_time: "9:30"
     end_time: "10:00"
-  - title: "Watch this space for our speaker!"
-    type: custom
+  - title: "kanish-sharma"
+    type: talk
     date: 2024-10-22
     start_time: "10:05"
     end_time: "10:35"
@@ -243,8 +263,8 @@ program:
     date: 2024-10-22
     start_time: "12:00"
     end_time: "13:30"
-  - title: "kanish-sharma"
-    type: talk
+  - title: "Lightning Talks"
+    type: custom
     date: 2024-10-22
     start_time: "13:30"
     end_time: "14:00"

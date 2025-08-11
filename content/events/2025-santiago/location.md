@@ -1,17 +1,38 @@
 +++
-Title = "Location"
+Title = "Ubicación del Evento"
 Type = "event"
-Description = "Location for devopsdays santiago 2025"
+Description = "Ubicación del evento DevOpsDays Santiago de Chile 2025"
 +++
 
-Watch this space for information about the venue including address, map/direction, parking/transit, and any hotel details.
+# DevOpsDays Santiago de Chile 2025 sera en la Universidad Inacap Santiago sur
 
-<!-- Uncomment this only if you have set the coordinates for your location in the config yaml. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html -->
-<!-- {{< event_map >}} -->
+En este espacio encontrarás información sobre la sede del evento, incluyendo la dirección, opciones de transporte, estacionamiento, y recomendaciones de alojamiento.
 
-<!-- Edit and uncomment to let people know what accessibility features you have available -->
-<!-- 
-    Example from Minneapolis 2020
+## Dirección del Evento
+**Inacap Santiago Sur**
+- Av. Vicuña Mackenna 3864
+- Santiago, Macul, Región Metropolitana
+  (Metro Camino Agricola)
 
-    We offer wheelchair-designated spaces, chairs, and standing options (with tall tables) in the mainstage session room; a quiet room; bathrooms labeled according to the facilities they contain; professional live captioning of mainstage sessions; ingredient labeling (based on data provided when registering); and private space (upon request) for those nursing. We'd also be happy to accommodate any other accessibility needs upon request: {{< email_organizers >}}    
--->
+
+<!-- Descomenta la línea de abajo si tienes configuradas las coordenadas en el archivo de configuración yaml -->
+{{< event_map >}}
+
+## Opciones de Estacionamiento y Transporte Público
+- **Estacionamiento:** La universidad cuenta con estacionamiento para asistentes. Se recomienda llegar temprano ya que el espacio es limitado.
+- **Transporte Público:** Las estaciones de metro más cercanas son "Estación Camino Agricola" (Línea 5) a menos de 02 minutos a pie.
+- **Transporte en bicicleta:** El centro cuenta con estacionamiento para bicicletas en la entrada principal.
+
+## Accesibilidad
+Nos comprometemos a que DevOpsDays Santiago de Chile 2025 sea accesible para todos. Contamos con las siguientes opciones:
+- Espacios designados para sillas de ruedas y áreas accesibles.
+- Mesas altas para quienes prefieren estar de pie en la sala principal.
+- **Sala de silencio** para aquellos que necesiten un espacio tranquilo.
+- Baños etiquetados según las instalaciones que contienen.
+- Etiquetado de ingredientes (según datos proporcionados durante el registro) y un espacio privado (bajo solicitud) para quienes necesiten lactar.
+
+Si tienes necesidades de accesibilidad adicionales, no dudes en contactarnos: {{< email_organizers >}}
+
+---
+
+Con esta información, esperamos que tengas una experiencia cómoda y accesible durante DevOpsDays Santiago de Chile 2025. ¡Nos vemos allí!

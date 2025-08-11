@@ -7,7 +7,7 @@ talk_end_time = "14:05"
 Title = "DevOps and Baking"
 Type = "talk"
 Speakers = ["heather-thacker"]
-youtube = ""
+youtube = "qXoZ2P7t1TI"
 speakerdeck = ""
 sharing_image = "2024-heather-thacker.jpg"
 +++
