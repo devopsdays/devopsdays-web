@@ -1,12 +1,12 @@
 +++
-Title = "Registration"
+Title = "Ingressos"
 Type = "event"
-Description = "Registration for devopsdays Curitiba 2025"
+Description = "Ingressos para o Devopsdays Curitiba 2025"
 +++
 
 <div style="width:100%; text-align:left;">
 
 
-[url para registrar em breve](https://www.sympla.com.br/)
+[https://www.sympla.com.br/evento/devopsdays-curitiba-2025/3070191](https://www.sympla.com.br/evento/devopsdays-curitiba-2025/3070191)
 </div></div>
 </div>
