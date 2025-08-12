@@ -2,7 +2,7 @@
 Title = "Pedro Kaneto"
 Twitter = ""
 linkedin = ""
-image = "pedro-augusto-kaneto.jpg"
+image = "pedro-augusto-kaneto.png"
 type = "speaker"
 linktitle = "pedro-augusto-kaneto"
 
