@@ -189,6 +189,7 @@ program:
     end_time: "10:30"
     comments: "Trilha Iniciante - Sala: Deploy"
     background_color: "#fdf0d5"
+
   - title: "narciso-junior"
     type: talk
     date: 2025-08-16
@@ -271,9 +272,18 @@ program:
     type: talk
     date: 2025-08-16
     start_time: "14:15"
+    end_time: "14:30"
+    comments: "Trilha Iniciante - Sala: Deploy"
+    background_color: "#fdf0d5"
+
+  - title: pedro-augusto-kaneto
+    type: talk
+    date: 2025-08-16
+    start_time: "14:30"
     end_time: "14:45"
     comments: "Trilha Iniciante - Sala: Deploy"
     background_color: "#fdf0d5"
+
   - title: daniel-conceiçao-do-nascimento
     type: talk
     date: 2025-08-16
@@ -350,11 +360,20 @@ program:
     end_time: "17:45"
     comments: "Trilha Iniciante - Sala: Deploy"
     background_color: "#fdf0d5"
+
   - title: felipe-laporte-de-alencar-trindade
     type: talk
     date: 2025-08-16
     start_time: "17:15"
-    end_time: "17:25"
+    end_time: "17:30"
+    comments: "Trilha Avançada - Sala: Rollback"
+    background_color: "#81b29a"
+
+  - title: alberico-de-castro-barros-filho
+    type: talk
+    date: 2025-08-16
+    start_time: "17:30"
+    end_time: "17:45"
     comments: "Trilha Avançada - Sala: Rollback"
     background_color: "#81b29a"
 
