@@ -139,6 +139,8 @@ sponsors:
     level: logo
   - id: "clearbank"
     level: logo
+  - id: mindgard
+    level: logo
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
