@@ -2,9 +2,11 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "What Chickens Can Teach Us About Job Orchestration"
+Title = "What Chickens Can Teach Us About Performance Testing"
 Type = "talk"
 Speakers = ["heather-thacker"]
 +++
 
-Every DevOps setup is unique, with its own mix of tools and constraints, just like every backyard chicken coop has its own quirks. Orchestrating jobs effectively isn’t about forcing a one-size-fits-all solution, rather it’s about adapting to the environment and making the most of your toolset. After five years of raising chickens in a city, I’ve experienced how planning, scheduling, and automating can make—or break—a system, or a few eggs. Let’s explore lessons in job orchestration from the coop, covering dependency management, failure handling, and keeping workflows running smoothly, whether in the cloud or in the backyard.
+Like eggs from backyard chickens, performance testing in DevOps is a vital indicator of system health. Just as a steady egg supply reflects a well-balanced coop, consistent performance results reflect strong observability, resilient pipelines, and thoughtful automation.
+
+After five years of raising chickens in a city, I've seen how systems fail under stress. Let's look at three parallels between egg production and performance testing, focusing on scenarios of resource exhaustion, overload, and external threats. Chickens offer valuable lessons on integrating performance tests that help systems deliver consistent reliability in production environments.
