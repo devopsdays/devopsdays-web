@@ -68,7 +68,7 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/ruspanov/"
   - name: "Nurbek Sadykov"
     linkedin: "https://www.linkedin.com/in/nurbeksadykov/"
-  - name: "Viktor Homenko"
+  - name: "Viktor Khomenko"
     linkedin: "https://www.linkedin.com/company/devopsdays-almaty"
 
 organizer_email: "almaty@devopsdays.org" # Put your organizer email address here
