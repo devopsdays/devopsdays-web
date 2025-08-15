@@ -133,6 +133,12 @@ sponsors:
     level: silver
   - id: dynatrace
     level: gold
+  - id: control-monkey
+    level: silver
+  - id: densify
+    level: gold
+  - id: kcdc
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

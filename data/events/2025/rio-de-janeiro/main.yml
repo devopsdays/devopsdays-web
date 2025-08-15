@@ -81,19 +81,6 @@ team_members: # Name is the only required field for team members.
     linkedin: "LinkedIn.com/in/igorguedes"
     image: "igor-medella.jpg"
 
-  - name: "Cristiane Cardoso"
-    employer: "Fluxxorama Design & Co"
-    twitter: "cardosocrica"
-    linkedin: "https://www.linkedin.com/in/cardosocrica/"
-    website: "https://www.instagram.com/fluxxoramadesign?igsh=MTBpZDFrbXJpcDcwZQ=="
-    image: "cris-cardoso.jpg"
-
-  - name: "Pedro Ignácio"
-    employer: "Itaú Unibanco"
-    linkedin: "https://www.linkedin.com/in/pedroirufo"
-    website: "pedroscloudsecurity.com"
-    image: "pedro-ignacio.jpg"
-
   - name: "Bruna Caroline de Jesus"
     linkedin: "https://www.linkedin.com/in/brunacarolinedejesus/"
     image: "bruna-jesus.jpg"
@@ -103,6 +90,13 @@ organizer_email: "rio-de-janeiro@devopsdays.org" # Put your organizer email addr
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  #Diamond Sponsors
+  - id: realcloud
+    level: diamond
+
+  - id: kaspersky
+    level: diamond
+
   #Gold Sponsors
   - id: loka
     level: gold
@@ -110,12 +104,17 @@ sponsors:
   #Silver Sponsors
   - id: oracle
     level: silver
+  - id: mysql
+    level: silver
+  - id: stone
+    level: silver
+  - id: gita
+    level: silver
+  - id: neon
+    level: silver
 
   #Community
   - id: punkdodevops
-    level: community
-
-  - id: fluxxorama
     level: community
 
   - id: docker-rio
@@ -132,15 +131,18 @@ sponsors:
 
   - id: cps1
     level: community
+  
+  - id: veecode
+    level: community
 
-  - id: picpay
+  - id: grafana
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 sponsor_levels:
-  - id: Diamond
-    label: diamond
+  - id: diamond
+    label: Diamond
   - id: gold
     label: Gold
   - id: silver
@@ -180,13 +182,14 @@ program:
     comments: "Keynote - Sala: Rollback"
     background_color: "#FFFA99"
 
-  - title: "TBA"
-    type: custom
+  - title: alexandre-coelho-ramos
+    type: talk
     date: 2025-08-16
     start_time: "10:00"
     end_time: "10:30"
     comments: "Trilha Iniciante - Sala: Deploy"
     background_color: "#fdf0d5"
+
   - title: "narciso-junior"
     type: talk
     date: 2025-08-16
@@ -202,7 +205,7 @@ program:
     end_time: "11:00"
     comments: "Trilha Iniciante - Sala: Deploy"
     background_color: "#fdf0d5"
-  - title: "fernando-telles"
+  - title: "fernando-teles"
     type: talk
     date: 2025-08-16
     start_time: "10:30"
@@ -265,15 +268,24 @@ program:
     comments: "Keynote - Sala: Rollback"
     background_color: "#FFFA99"
 
-  - title: "TBA Sponsor"
-    type: custom
+  - title: pedro-alpis-fernandes
+    type: talk
     date: 2025-08-16
     start_time: "14:15"
+    end_time: "14:30"
+    comments: "Trilha Iniciante - Sala: Deploy"
+    background_color: "#fdf0d5"
+
+  - title: pedro-augusto-kaneto
+    type: talk
+    date: 2025-08-16
+    start_time: "14:30"
     end_time: "14:45"
     comments: "Trilha Iniciante - Sala: Deploy"
     background_color: "#fdf0d5"
-  - title: "TBA"
-    type: custom
+
+  - title: daniel-conceiçao-do-nascimento
+    type: talk
     date: 2025-08-16
     start_time: "14:15"
     end_time: "14:45"
@@ -348,21 +360,22 @@ program:
     end_time: "17:45"
     comments: "Trilha Iniciante - Sala: Deploy"
     background_color: "#fdf0d5"
-  - title: "Loka"
-    type: custom
+
+  - title: felipe-laporte-de-alencar-trindade
+    type: talk
     date: 2025-08-16
     start_time: "17:15"
-    end_time: "17:25"
-    comments: "Trilha Avançada - Sala: Rollback"
-    background_color: "#81b29a"
-  - title: "Storyblok"
-    type: custom
-    date: 2025-08-16
-    start_time: "17:25"
-    end_time: "17:45"
+    end_time: "17:30"
     comments: "Trilha Avançada - Sala: Rollback"
     background_color: "#81b29a"
 
+  - title: alberico-de-castro-barros-filho
+    type: talk
+    date: 2025-08-16
+    start_time: "17:30"
+    end_time: "17:45"
+    comments: "Trilha Avançada - Sala: Rollback"
+    background_color: "#81b29a"
 
   #Keynote-3
   - title: "fabricio-veronez"
@@ -380,10 +393,3 @@ program:
     start_time: "18:15"
     end_time: "18:45"
     comments: "Sala: Rollback"
-
-  # #HappyHour
-  - title: "Happy Hour"
-    type: custom
-    date: 2025-08-16
-    start_time: "18:45"
-    end_time: "22:00"

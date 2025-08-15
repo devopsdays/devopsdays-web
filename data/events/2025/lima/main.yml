@@ -42,6 +42,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     url: https://devopsdays.pe/
   - name: registration
     url: https://devopsdays.pe/entradas
+  - name: schedule
   - name: speakers
   - name: sponsor
   - name: contact
@@ -116,6 +117,9 @@ sponsors:
    - id: cleverit
      level: gold
      url: https://www.cleveritgroup.com/es
+   - id: dynatrace
+     level: gold
+     url: https://www.dynatrace.com/es-la/
    - id: kyndryl
      level: gold
      url: https://www.kyndryl.com/es/es
@@ -125,13 +129,39 @@ sponsors:
    - id: nttdata
      level: gold
      url: https://pe.nttdata.com/
+   - id: credicorp
+     level: gold
+   - id: interbank
+     level: gold
+   - id: manage-engine
+     url: https://www.manageengine.com/latam/
+     level: gold
+   - id: esan
+     level: gold
    - id: linearb
      level: silver
      url: https://linearb.io/
+   - id: softtek
+     level: silver
+     url: https://softtek.com/es/
+   - id: devco
+     level: silver
+   - id: port
+     level: silver 
    - id: idm
      level: bronze
      url: https://idmtechnology.com.pe/
    - id: om-tech
+     level: bronze
+   - id: orexe
+     level: bronze
+   - id: inetum
+     level: bronze
+   - id: ekiscyber
+     level: bronze
+   - id: bindit
+     level: bronze
+   - id: crubyt
      level: bronze
    - id: devopsinstitute
      level: community
@@ -139,14 +169,15 @@ sponsors:
    - id: hackemate
      level: community
      url: https://youtube.com/@hackemate
-   - id: learnk8s
-     level: community
-     url: https://learnk8s.io/
    - id: datascienceresearchperu
      level: community
      url: https://www.datascience.pe/
-   
-  
+   - id: kubeevents
+     level: community
+   - id: kubecareers
+     level: community
+   - id: mitocode
+     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
