@@ -124,12 +124,22 @@ sponsors:
   # Standard sponsors
   - id: elastic
     level: standard
-  - id: that-agile
-    level: standard
   - id: chainguard
     level: standard
   # Logo sponsors
+  - id: that-agile
+    level: logo
+  - id: "google"
+    level: logo
   - id: cyberark
+    level: logo
+  - id: commify
+    level: logo
+  - id: "oxa"
+    level: logo
+  - id: "clearbank"
+    level: logo
+  - id: mindgard
     level: logo
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link

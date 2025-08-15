@@ -190,6 +190,10 @@ sponsors:
     level: gold
   - id: gomboc
     level: gold
+  - id: elastic
+    level: platinum
+  - id: gruntwork
+    level: platinum
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

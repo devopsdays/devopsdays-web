@@ -85,9 +85,15 @@ sponsors:
     level: gold
   - id: spacelift
     level: gold
+  - id: minimus
+    level: gold
+  - id: infisical
+    level: gold
   - id: flox
     level: silver
   - id: fluidattacks
+    level: silver
+  - id: dryrun-security
     level: silver
   - id: fairwinds
     level: supporter
@@ -100,6 +106,8 @@ sponsors:
   - id: kubeevents
     level: community
   - id: mentorsintech
+    level: community
+  - id: naloseed
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
