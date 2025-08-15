@@ -93,6 +93,8 @@ sponsors:
     level: silver
   - id: fluidattacks
     level: silver
+  - id: dryrun-security
+    level: silver
   - id: fairwinds
     level: supporter
   - id: releaseteam
