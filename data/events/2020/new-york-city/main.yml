@@ -154,7 +154,7 @@ sponsors:
     level: silver
   - id: site24x7-before-20230414
     level: silver
-  - id: honeycomb
+  - id: honeycomb-before-20240703
     level: silver
   - id: codefresh
     level: silver
@@ -162,7 +162,7 @@ sponsors:
     level: gold
   - id: chef-before-20210112
     level: silver
-  - id: sysdig
+  - id: sysdig-before-20240607
     level: silver
   - id: logz
     level: silver
@@ -176,7 +176,7 @@ sponsors:
     level: social
   - id: paloaltonetworks-before-20230321
     level: social
-  - id: redis-labs
+  - id: redis-before-20250508-labs
     level: silver
   - id: twosigma-before-20230603
     level: captioning

@@ -3,8 +3,8 @@ name: test hugo
 on: [pull_request]
 
 env:
-  NODE_VERSION: 16
-  HUGO_VERSION: 0.121.2
+  NODE_VERSION: 22
+  HUGO_VERSION: 0.126.1
 
 jobs:
   lint:
@@ -12,7 +12,7 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Lint Filenames
         uses: julie-ng/lowercase-linter@v1
@@ -27,30 +27,19 @@ jobs:
     name: Build hugo on Linux
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           submodules: true # Fetch Hugo themes (true OR recursive)
-          fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
+          fetch-depth: 1 # Fetch recent history for .GitInfo and .Lastmod at level 1
 
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
+        uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: ${{ env.HUGO_VERSION }}
-          # extended: true
+          extended: true
 
       - name: Build Hugo
-        run: hugo -v
-
-      - uses: actions/setup-node@v3
-        name: Setup Node
-        with:
-          node-version: ${{ env.NODE_VERSION }}
-
-      - run: npm ci
-        name: Run npm ci
-
-      - name: Test through minifying
-        run: gulp min-html
+        run: hugo --environment=production --minify --templateMetrics --logLevel info
 
   # test-windows:
   #   needs: lint

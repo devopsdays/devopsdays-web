@@ -1,0 +1,204 @@
+name: "2025-belo-horizonte" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2025" # The year of the event. Make sure it is in quotes.
+city: "Belo Horizonte" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaysbhz" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays is coming to Belo Horizonte!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2025-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2025-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start:  # start accepting talk proposals.
+cfp_date_end:  # close your call for proposals.
+cfp_date_announce:  # inform proposers of status
+
+cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+# coordinates: "" # No longer used
+masthead_background: "capa-dod-1.png"
+location: "Belo Horizonte" # Defaults to city, but you can make it the venue name.
+#
+location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
+
+# Optional - Social badges
+# These can be used in the body of any page via matching shortcodes. See sample:  https://devopsdays.org/events/2025-denver/welcome/
+event_social_linkedin: "https://www.linkedin.com/company/devopsdays-belo-horizonte" # Change this to the url to your Linkedin group, company, or page.
+#event_social_slack: "https://join.slack.com/t/devopsdaysbhz/custom_shared_invite_url" # Change this to your slack invite link.
+e#vent_social_listserv: "https://lists.devopsdays.org/subscription?custom_listserv_invite_url" # Change this to your mailing list subscription form url.
+event_social_twitter: "devopsdaysbhz" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+#event_social_mastadon: "https://mastodon.social/@devopsdaysbhz" # Change this to url to your mastadon page
+#event_social_bsky: "https://bsky.app/profile/devopsdaysbhz.bsky.social" # Change this to url to your bluesky page
+#event_social_youtube: "devopsdaysbhz" # Change this to the youtube channel handle for your event such as devopsdaysrox
+# legacy
+event_twitter: "devopsdaysbhz" # This will create a traditional "Follow" twitter button. Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+ # - name: propose
+ # - name: Local do Evento
+ #   url: /events/2024-belo-horizonte/location
+ # - name: Inscrições
+ #   url: https://www.even3.com.br/devopsdays-belo-horizonte
+ # - name: GRADE DE PALESTRAS
+ #   url: /events/2024-belo-horizonte/program
+ # - name: speakers
+ # - name: ENVIE SUA PALESTRA (CFP)
+ #   url: https://www.papercall.io/devopsdaysbhz
+  - name: patrocínio
+    url: /events/2025-belo-horizonte/sponsor
+  - name: organizadores
+  - name: código de conduta
+    url: /events/2025-belo-horizonte/conduta 
+  # - name: requisitos para as palestras
+  #   url: /events/2024-belo-horizonte/propose 
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+# These are the same people you have on the mailing list and Slack channel.
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Anna Luiza Laudares"
+    employer: "DevOps Engineer na CI&T"
+    linkedin: "https://www.linkedin.com/in/anna-luiza-laudares-b0680b2b3/"
+    bio: "Sou estudante de Sistemas de Informação na PUC Minas e entusiasta de cloud. Minha história com Cloud começou em um evento da comunidade, e essa é minha motivação para continuar fazendo parte dela.Atualmente sou DevOps Engineer na CI&T, com um pézinho em FinOps. No meu tempo livre, acompanho a NFL e amo viajar. <br><br><br><br><br>"  
+    github: "annalaudaress"
+    linkedin: "https://br.linkedin.com/in/anna-luiza-laudares-b0680b2b3"
+    image: "ana.jpeg"
+
+
+  - name: "Arthur Gomes"
+    employer: "Consultor DevOps na Arkhi Business Agility"
+    linkedin: "https://www.linkedin.com/in/arthur-faria-97b676144/"
+    bio: "Consultor sênior de DevOps em horário comercial, barista amador em horário de lazer, e eterno estudante de Engenharia de Sistemas na UFMG. Tenho paixão em otimizar o tempo e uma predileção pelo universo DevOps (tanto a cultura quanto as ferramentas). Afinal,'Estamos presos à tecnologia quando o que realmente queremos é apenas coisas que funcionem' (Douglas Adams). <br><br>"
+    github: "tutagomes"
+    image: "arthur.jpeg"  
+
+
+  - name: "Caio Miranda"
+    employer: "DevOps Consultant no Banco BV"
+    bio: "SRE|DevOps, entusiasta de automação de práticas de desenvolvimento e para sempre um estudante.É isso que costumo ser em horário comercial, no tempo livre gosto de bons jogos e pratico esportes.Entendo que como profissionais DevOps buscamos o equilíbrio entre eficiência e velocidade, sendo assim, carrego em mente a seguinte frase: 'Não tenhamos pressa, mas não percamos tempo'. <br>"
+    linkedin: "https://www.linkedin.com/in/caio-miranda-38162b16a/"
+    image: "caio.jpeg" 
+
+
+  - name: "Daniel Rodrigues"
+    employer: "Tech Lead na Flash"
+    linkedin: "https://www.linkedin.com/in/eusouodaniel"
+    bio: "Amplo conhecimento e experiência profissional em desenvolvimento web, com conhecimento em diversas ferramentas e linguagens, facilidade no aprendizado e alto foco. Atualmente atua como Engenheiro de Software, Mentor e Professor. <br><br><br><br><br>"
+    image: "daniel-rodrigues.jpeg"
+
+
+  - name: "Derick Rodrigues"
+    employer: "SRE no Inter"
+    linkedin: "https://www.linkedin.com/in/dericklrodrigues"
+    github: "dericklrodrigues"
+    bio: "Um cara direto da terra do peão, apaixonado por tecnologias e nas facilidades que ela traz no dia a dia. Sou estudante de sistema de informação na puc minas, onde também vivo um flerte com carreira acadêmica, nas horas que sobra sou especialista em piadas ruins, fã da cultura nerd, praticante(ou tentando) de esportes e sou uma pessoa extrovertida <br><br><br><br>"
+    image: "derick.jpg"
+
+
+  - name: "Everton Fonseca"
+    employer: "SRE na Pagarme/StoneCo"
+    bio: "Curioso por tecnologia desde pequeno e apaixonado por Futebol. Atualmente vivendo desafios diários na nuvem e nas horas vagas atuando como Atleta Jr de Futevôlei. Acredito fortemente que todos temos algo a aprender e a ensinar e que o pouco que sabemos sobre algo é muito para quem está aprendendo algo novo. <br><br><br><br><br>"
+    github: "everton17"
+    linkedin: "https://www.linkedin.com/in/evertondvfonseca/"
+    image: "everton.jpeg"   
+
+
+  - name: "Flávio Pimenta"
+    employer: "Staff Engineer na Select Soluções"
+    twitter: "https://twitter.com/pimentaflavio"
+    linkedin: "https://www.linkedin.com/in/flaap/"
+    bio: "Arquiteto de Soluções nas horas comerciais vagas. Liderar comunidades de tecnologia AWS, DevTestsBR, Elastic, ser host em eventos como TDC e AWS Summit e coordenar os inimigos do fim no happy dos eventos é minha pegada! Javeiro de longa data que escreve códigos Python, flutua na AWS e desenha diagramas.  <br><br><br><br> <br>"
+    image: "pimenta.jpeg"
+
+
+  - name: Natália Granato
+    employer: Plataform Engineer na Magalu Cloud
+    linkedin: https://www.linkedin.com/in/nataliagranato
+    github: https://github.com/nataliagranato
+    twitter: https://x.com/granatowp
+    bluesky: https://bsky.app/profile/nataliagranato.bsky.social
+    site: https://www.nataliagranato.xyz
+    bio: Sou CNCF Ambassador e Docker Captain, contribuo com o Kubernetes e outros softwares de código aberto, minha missão é popularizar as tecnologias Cloud Native, compartilhar conhecimento técnico e incluir pessoas negras, mulheres e LGBTQIA no mundo da tecnologia <br><br><br><br><br>.
+    image: "natalia.jpg" 
+
+
+  - name: "Mariana Aguilar"
+    employer: "Analista e Desenvolvedora de Software na Ivory"
+    linkedin: "https://www.linkedin.com/in/mariana-aguilar-silva"
+    github: https://github.com/maguilarsilva
+    bio: "Sou uma mulher negra na tecnologia que escolheu transformar a vida das pessoas com muito código, coragem e um toque de humor (porque ninguém merece um bug mal-humorado). Hoje atuo como analista de sistemas, desenvolvendo em Java e React e salvando usuários desesperados com problemas no dia a dia! Resolver problemas é minha praia, e acredito que a tecnologia tem o superpoder de melhorar o trabalho de todo mundo. Fã assumida de Star Wars, sigo com meu sabre de luz (ou teclado) enfrentando desafios do lado da força. Tive o privilégio de ser liderada por mulheres incríveis na maior parte da minha carreira, o que só reforça que lugar de mulher é onde ela quiser — principalmente na TI. Atualmente, também sou organizadora do DevOpsDays BH, onde ajudo a espalhar conhecimento e diversidade!"
+    image: "mariana.jpg"
+
+
+
+  - name: "Paloma Lataliza"
+    employer: "Senior Cloud Engineer na Caylent"
+    linkedin: "https://www.linkedin.com/in/palomalataliza/"
+    github: "shescloud"
+    twitter: "shescloud_"
+    bio:  "Entusiasta de containers, fã de Cavaleiros do Zodíaco e apaixonada por compartilhar conhecimento. Paloma é formada em Ciência da Computação pela Universidade FUMEC, pós-graduada em Cloud Computing pela PUC Minas e mestranda em TICGC pela Universidade FUMEC. É também uma AWS HERO, líder do AWS User Group BH, Embaixadora do Women Techmakers, Organizadora do primeiro AWSomeWomenCommunity Summit Brasil e  co-fundadora do projeto Mulheres na Nuvem MG. Ela tem se dedicado a incentivar a presença feminina no setor de tecnologia e nuvem.<br><br><br><br><br><br><br>"
+    image: "paloma.jpeg"
+
+
+  - name: "Rafael Fernandes"
+    employer: "DevOps Engineer at LWSA"
+    bio: "Sou DevOps Engineer no grupo LWSA, onde construo infraestruturas IaC (Terraform) reutilizáveis, orquestro microsserviços em containers e automatizo pipelines de CI/CD. Monitoro ambientes com ferramentas AWS, sempre visando otimização de custos e performance.Formado em Sistemas de Informação, sou um dos organizadores do AWS User Group BH e do DevOpsDays BH, onde sempre fico empolgado em conectar pessoas e compartilhar dicas. Também ajudei como voluntário na organização do AWS Women Community Brasil, reforçando minha paixão por inclusão e aprendizado coletivo. Fora do trabalho, meu escape é acampar na natureza e suar a camisa com esportes. Com essa vibe mão-na-massa, adoro bater papo sobre tecnologia — acredito que conhecimento compartilhado é o motor que faz nossa comunidade evoluir."
+    github: "rafaelfernandessilva"
+    twitter: "https://twitter.com/therafs"
+    linkedin: "https://www.linkedin.com/in/therafs/"
+    image: "rafael.jpeg"
+
+
+
+  - name: "Victor Parreira"
+    employer: "SRE Analyst no Inter"
+    linkedin: "https://www.linkedin.com/in/victorparreira/"
+    bio: "Um cara de humanas que descobriu em tech sua maior paixão. Gosto de misturar tudo aquilo que aprendi na minha carreira até agora para trazer uma nova visão sobre o mundo de cloud e suas ferramentas.   <br><br><br><br><br><br><br><br><br><br><br><br> <br>"
+    image: "victor.jpg" 
+
+
+
+
+organizer_email: "belo-horizonte@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: samplesponsorname
+    level: gold
+ #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: arresteddevops
+    level: community
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: gold
+    label: Gold
+#    max: 10
+  - id: silver
+    label: Silver
+    max: 0 # This is the same as omitting the max limit.
+  - id: bronze
+    label: Bronze
+  - id: community
+    label: Community

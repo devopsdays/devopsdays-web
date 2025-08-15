@@ -1,0 +1,203 @@
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2024-05-15T08:00:00-06:00
+    start_time: "07:00"
+    end_time: "08:30"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2024-05-15T08:00:00-06:00
+    start_time: "08:30"
+    end_time: "09:00"
+  - title: "laura-santamaria-talk"
+    type: talk
+    date: 2024-05-15T08:00:00-06:00
+    start_time: "09:00"
+    end_time: "09:30"
+  - title: "natalie-lunbeck-talk"
+    type: talk
+    date: 2024-05-15T08:00:00-06:00
+    start_time: "09:30"
+    end_time: "10:00"
+  - title: "jt-perry-talk"
+    type: talk
+    date: 2024-05-15T08:00:00-06:00
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Sponsors"
+    type: custom
+    date: 2024-05-15T08:00:00-06:00
+    start_time: "10:30"
+    end_time: "10:45"
+  - title: "Break"
+    type: custom
+    date: 2024-05-15T08:00:00-06:00
+    start_time: "10:45"
+    end_time: "11:00"
+  - title: "rhia-dixon-talk"
+    type: talk
+    date: 2024-05-15T08:00:00-06:00
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "christina-aldan-talk"
+    type: talk
+    date: 2024-05-15T08:00:00-06:00
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch"
+    type: custom
+    date: 2024-05-15T08:00:00-06:00
+    start_time: "12:00"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2024-05-15T08:00:00-06:00
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2024-05-15T08:00:00-06:00
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Break"
+    type: custom
+    date: 2024-05-15T08:00:00-06:00
+    start_time: "14:00"
+    end_time: "14:15"
+  - title: "Open Space Logistics"
+    type: open-space
+    date: 2024-05-15T08:00:00-06:00
+    start_time: "14:15"
+    end_time: "14:30"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2024-05-15T08:00:00-06:00
+    start_time: "14:30"
+    end_time: "15:15"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2024-05-15T08:00:00-06:00
+    start_time: "15:15"
+    end_time: "16:00"
+  - title: "Break"
+    type: custom
+    date: 2024-05-15T08:00:00-06:00
+    start_time: "16:00"
+    end_time: "16:15"
+  - title: "mark-shead-talk"
+    type: talk
+    date: 2024-05-15T08:00:00-06:00
+    start_time: "16:15"
+    end_time: "16:45"
+  - title: "Close Day"
+    type: custom
+    date: 2024-05-15T08:00:00-06:00
+    start_time: "16:45"
+    end_time: "17:00"
+  - title: "Evening Event"
+    type: custom
+    date: 2024-05-15T08:00:00-06:00
+    start_time: "18:00"
+    end_time: "late"
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2024-05-16T08:00:00-06:00
+    start_time: "07:30"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2024-05-16T08:00:00-06:00
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "erin-mikail-staples-talk"
+    type: talk
+    date: 2024-05-16T08:00:00-06:00
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "thomas-haver-talk"
+    type: talk
+    date: 2024-05-16T08:00:00-06:00
+    start_time: "09:45"
+    end_time: "10:15"
+  - title: "asaf-blubshtein-talk"
+    type: talk
+    date: 2024-05-16T08:00:00-06:00
+    start_time: "10:15"
+    end_time: "10:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2024-05-16T08:00:00-06:00
+    start_time: "10:45"
+    end_time: "11:00"
+  - title: "Break"
+    type: custom
+    date: 2024-05-16T08:00:00-06:00
+    start_time: "11:00"
+    end_time: "11:15"
+  - title: "nathen-harvey-talk"
+    type: talk
+    date: 2024-05-16T08:00:00-06:00
+    start_time: "11:15"
+    end_time: "11:45"
+  - title: "Lunch"
+    type: custom
+    date: 2024-05-16T08:00:00-06:00
+    start_time: "11:45"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2024-05-16T08:00:00-06:00
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2024-05-16T08:00:00-06:00
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2024-05-16T08:00:00-06:00
+    start_time: "14:00"
+    end_time: "14:45"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2024-05-16T08:00:00-06:00
+    start_time: "14:45"
+    end_time: "15:30"
+  - title: "Break"
+    type: custom
+    date: 2024-05-16T08:00:00-06:00
+    start_time: "15:30"
+    end_time: "16:00"
+  - title: "seth-eliot-talk"
+    type: talk
+    date: 2024-05-16T08:00:00-06:00
+    start_time: "16:00"
+    end_time: "16:30"
+  - title: "Closing / Raffle"
+    type: custom
+    date: 2024-05-16T08:00:00-06:00
+    start_time: "16:30"
+    end_time: "17:00"
+
+ignites:
+  - title: "jj-asghar-ignite"
+    date: 2024-05-15T08:00:00-06:00
+  - title: "budhaditya-bhattacharya-ignite"
+    date: 2024-05-15T08:00:00-06:00
+  - title: "curtis-blackthorne-ignite"
+    date: 2024-05-15T08:00:00-06:00
+  - title: "duan-lightfoot-ignite"
+    date: 2024-05-15T08:00:00-06:00
+  - title: "eric-lee-ignite"
+    date: 2024-05-15T08:00:00-06:00
+  - title: "laura-santamaria-ignite"
+    date: 2024-05-16T08:00:00-06:00
+  - title: "carl-chesser-ignite"
+    date: 2024-05-16T08:00:00-06:00
+  - title: "rhia-dixon-ignite"
+    date: 2024-05-16T08:00:00-06:00
+  - title: "aj-jester-ignite"
+    date: 2024-05-16T08:00:00-06:00
+  - title: "nathen-harvey-ignite"
+    date: 2024-05-16T08:00:00-06:00

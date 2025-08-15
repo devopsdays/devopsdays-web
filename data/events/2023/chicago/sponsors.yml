@@ -1,7 +1,7 @@
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: site24x7
+  - id: site24x7-before-20240321
     level: platinum
   - id: newrelic
     level: platinum
@@ -9,13 +9,13 @@ sponsors:
     level: platinum
   - id: acorn
     level: gold
-  - id: appdynamics
+  - id: appdynamics-before-20240418
     level: gold
   - id: britive
     level: gold
   - id: circleci
     level: gold
-  - id: cloudbees
+  - id: cloudbees-before-20250128
     level: gold
   - id: dell-technologies
     level: gold
@@ -55,11 +55,11 @@ sponsors:
     level: gold
   - id: trendmicro
     level: gold
-  - id: zesty
+  - id: zesty-before-20250308
     level: gold
   - id: cloudeq-virtana
     level: gold
-  - id: honeycomb
+  - id: honeycomb-before-20240703
     level: bronze
   - id: aspire-systems
     level: bronze

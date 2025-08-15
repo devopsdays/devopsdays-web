@@ -37,11 +37,11 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: propose
  # - name: location
   - name: registration
-    url: "https://tlvcommunity.dev/devopsdays#register"
+    url: "https://app.icount.co.il/m/0a17a/c82642p21u64ac1b12f?lng=en"
   - name: program
-    url: "https://tlvcommunity.dev/devopsdays/agenda-2023"
+    url: "https://tlvcommunity.dev/devopsdays/agenda-2024"
   - name: speakers
-    url: "https://tlvcommunity.dev/devopsdays/speakers-2023"
+    url: "https://tlvcommunity.dev/devopsdays/speakers-2024"
   - name: sponsor
   - name: contact
   - name: conduct
@@ -192,9 +192,9 @@ sponsors:
     level: platinum
   - id: couchbase
     level: platinum
-  - id: pulumi
+  - id: aws
     level: platinum
-  - id: komodor
+  - id: komodor-before-20250811
     level: gold
   - id: aerospike
     level: gold
@@ -210,15 +210,17 @@ sponsors:
     level: gold
   - id: elastic
     level: gold
+  - id: perfectscale
+    level: gold
   - id: hetz
     level: gold
-  - id: esl-cloudbees
+  - id: terasky
+    level: gold
+  - id: cloudbees-before-20250128
     level: gold
   - id: appsflyer
     level: gold
   - id: doit
-    level: gold
-  - id: jfrog
     level: gold
   - id: apono
     level: gold
@@ -226,31 +228,51 @@ sponsors:
     level: gold
   - id: redhat
     level: gold
-  - id: slimai
+  - id: castai-before-20250721
+    level: gold
+  - id: coralogix
+    level: gold
+  - id: bigdataboutique
+    level: gold
+  - id: hyperspace
+    level: gold
+  - id: wizards-vmw
+    level: gold
+  - id: finout
+    level: gold
+  - id: bigpanda
+    level: gold
+  - id: quali
+    level: gold
+  - id: honeybook
     level: gold
   #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: velocitytech
     level: community
+  - id: draftt
+    level: community
+  - id: jit
+    level: community
+  - id: lunardev
+    level: community
+  - id: tlvpartners
+    level: community
   - id: hetz
+    level: community
+  - id: devinterrupted
+    level: community
+  - id: iacpodcast
     level: community
   - id: aerospike
     level: community
   - id: apono
     level: community
-  - id: tlvpartners
-    level: community
-  - id: bigdataboutique
-    level: community
-  - id: lunardev
-    level: community
   - id: statscraft
-    level: community
-  - id: opsschool
-    level: community
-  - id: devinterrupted
     level: community
   - id: cloudnativeil
     level: community
+  - id: opsschool
+    level: community 
   - id: owasp
     level: community
   - id: appleseeds

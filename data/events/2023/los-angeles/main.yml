@@ -136,7 +136,7 @@ sponsors:
     level: gold
   - id: observeinc
     level: gold
-  - id: port
+  - id: port-before-20250722
     level: gold
   - id: prosperops
     level: gold
@@ -154,7 +154,7 @@ sponsors:
     level: gold
   - id: transition-technologies-psc
     level: silver
-  - id: zesty
+  - id: zesty-before-20250308
     level: gold
   - id: tailscale
     level: coffee

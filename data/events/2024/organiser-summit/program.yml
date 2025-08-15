@@ -1,0 +1,82 @@
+program:
+- title: Registration / Breakfast
+  type: custom
+  date: "2024-09-03"
+  start_time: "09:00"
+  end_time: "10:00"
+- title: everything-you-wanted-to-know-about-venue-selection-but-were-afraid-to-ask
+  type: talk
+  date: "2024-09-03"
+  start_time: "10:00"
+  end_time: "10:15"
+- title: how-to-devopsdays--planning-sponsors-and-more!
+  type: talk
+  date: "2024-09-03"
+  start_time: "10:15"
+  end_time: "10:30"
+- title: getting-sponsors--an-events-marketing-primer
+  type: talk
+  date: "2024-09-03"
+  start_time: "10:30"
+  end_time: "10:45"
+- title: devopsdays-zürich--bigger-is-not-always-better
+  type: talk
+  date: "2024-09-03"
+  start_time: "10:45"
+  end_time: "11:00"
+- title: Coffee Break
+  type: custom
+  date: "2024-09-03"
+  start_time: "11:00"
+  end_time: "11:20"
+- title: devopsdays-in-brazil-from-the-first-dod-to-top2
+  type: talk
+  date: "2024-09-03"
+  start_time: "11:30"
+  end_time: "11:45"
+- title: using-foss-tooling-for-your-conference
+  type: talk
+  date: "2024-09-03"
+  start_time: "11:45"
+  end_time: "12:00"
+- title: Lunch
+  type: custom
+  date: "2024-09-03"
+  start_time: "12:00"
+  end_time: "13:30"
+- title: Open Space Opening
+  type: custom
+  date: "2024-09-03"
+  start_time: "13:50"
+  end_time: "14:10"
+- title: Open Space  1
+  type: open-space
+  date: "2024-09-03"
+  start_time: "14:10"
+  end_time: "14:40"
+- title: Open Space 2
+  type: open-space
+  date: "2024-09-03"
+  start_time: "14:40"
+  end_time: "15:10"
+- title: Coffee Break
+  type: custom
+  date: "2024-09-03"
+  start_time: "15:10"
+  end_time: "15:30"
+- title: Open Space 3
+  type: open-space
+  date: "2024-09-03"
+  start_time: "15:30"
+  end_time: "16:00"
+- title: Open Space 4
+  type: open-space
+  date: "2024-09-03"
+  start_time: "16:00"
+  end_time: "16:30"
+- title: Social Event and Dinner
+  type: custom
+  date: "2024-09-03"
+  start_time: "18:30"
+  end_time: "20:00"
+ignites: []

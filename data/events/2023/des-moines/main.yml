@@ -107,13 +107,13 @@ sponsors:
    level: gold
  - id: emc-ins
    level: gold
- - id: jetbrains
+ - id: jetbrains-before-20250604
    level: community
  - id: john-deere
    level: gold
 #  - id: launch-darkly
 #    level: gold
- - id: leantechniques
+ - id: leantechniques-before-20240516
    level: gold
  - id: mongodb
    level: gold
@@ -133,7 +133,7 @@ sponsors:
    level: gold
  - id: turnberry
    level: lanyard
-#  - id: we-write-code
+#  - id: we-write-code-before-20250812
 #    level: gold
  - id: vmware
    level: gold

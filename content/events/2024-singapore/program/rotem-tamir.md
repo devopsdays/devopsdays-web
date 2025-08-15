@@ -7,7 +7,7 @@ talk_end_time = "9:55"
 Title = "Schema-as-Code: Developer platforms and database schema changes"
 Type = "talk"
 Speakers = ["rotem-tamir"]
-youtube = ""
+youtube = "u2oXxvMiDzg"
 speakerdeck = ""
 sharing_image = "2024-rotem-tamir.jpg"
 +++

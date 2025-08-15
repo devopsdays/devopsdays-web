@@ -1,0 +1,449 @@
+name: "2025-singapore" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2025" # The year of the event. Make sure it is in quotes.
+city: "singapore" # The displayed city name of the event. Capitalize it.
+event_logo: "logo-square.png"
+event_twitter: "devopsdaysSG" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays Singapore is on 14-15 May, 2025" # Edit this to suit your preferences
+ga_tracking_id: "UA-157812456-1" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+sharing_image: "logo-square.png"
+# All dates are in unquoted 2023-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2023-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2025-05-14T00:00:00+08:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:   2025-05-15T23:59:59+08:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2024-12-15T00:00:00+08:00
+cfp_date_end: 2025-02-23T23:59:59+08:00
+cfp_date_announce: 2025-03-17T23:59:59+08:00
+
+cfp_link: "https://www.papercall.io/dodsin24" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: 2024-12-15T23:59:59+08:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2025-05-13T23:59:59+08:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://ti.to/devopsdays-singapore/2025/" # "" If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+masthead_background: "singapore-banner-masthead.jpg"
+# Location
+#
+location: "Singapore" # Defaults to city, but you can make it the venue name.
+#
+location_address: "Stephen Riady Auditorium, One Marina Boulevard, #07-01, Singapore 018989" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+ # - name: propose
+  - name: location
+    icon: "map"
+  - name: registration
+    icon: "ticket"
+  - name: program
+  - name: speakers
+  - name: sponsor
+    icon: "money"
+  - name: contact
+    icon: "comment"
+  - name: conduct
+    icon: universal-access
+  - name: volunteer
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Sergiu Bodiu"
+    image: "sergiu-bodiu.jpg"
+    employer: "Independent"
+    twitter: "sergiu_bodiu"
+    linkedin: "https://www.linkedin.com/in/sergiubodiu"
+    github: "sergiubodiu"
+    bio: "Sergiu Bodiu is a frequent speaker and program committee member for tech conferences, he leads the devops community at home in Singapore."
+
+  - name: "Diana Bodiu"
+    image: "diana-bodiu.jpg"
+    employer: "Cloud Ops Lab"
+    github: "dianabodiu"
+    twitter: "DianaBodiu"
+
+  - name: "Tamara Draguta"
+    linkedin: https://www.linkedin.com/in/tamara-draguta/
+    image: "tamara-draguta.jpg"
+    twitter: "tamara_draguta"
+    employer: "NCS"
+
+  - name: "Lin Ling"
+    image: "lin-ling.jpg"
+    twitter: "linlingwsg"
+    linkedin: https://www.linkedin.com/in/linlingwsg/
+    employer: "Bank of America"
+
+organizer_email: "singapore@devopsdays.org" # Put your organizer email address here
+proposal_email: "singapore@devopsdays.org" # Put your proposal email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: ttabsg
+    level: platinum 
+  - id: redis
+    level: gold
+  - id: f5
+    level: gold
+  - id: grafana
+    level: gold
+  - id: findy-team
+    level: gold
+  - id: cloudopslab
+    level: silver 
+  - id: learnk8s
+    level: silver   
+  - id: clickhouse
+    level: silver    
+  - id: singapore-devops-community
+    level: community
+  - id: singapore-devsecops-community
+    level: community
+  - id: singapore-spring-community
+    level: community
+  - id: kubecareers
+    level: community
+  - id: kubeevents
+    level: community
+  - id: snyk
+    level: travel
+  - id: redhat
+    level: travel
+  - id: snowflake
+    level: travel
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: platinum
+    label: Platinum
+    max: 1
+  - id: gold
+    label: Gold
+    max: 10
+  - id: silver
+    label: Silver
+    max: 0 # This is the same as omitting the max limit.
+  - id: community
+    label: Community
+  - id: travel
+    label: Travel
+
+program: 
+
+  - title: "Registration & Morning Coffee"
+    type: custom
+    date: 2025-05-14
+    start_time: "08:00"
+    end_time: "08:45"
+
+  - title: "welcome-address"
+    type: talk
+    date: 2025-05-14
+    start_time: "08:45"
+    end_time: "09:10"
+    background_color: "#B4C6E7"
+
+  - title: "ai-savvy-operating-model"
+    type: talk
+    date: 2025-05-14
+    start_time: "09:10"
+    end_time: "09:50"
+    background_color: "#B4C6E7"
+
+  - title: "what-exactly-are-ai-agents"
+    type: talk
+    date: 2025-05-14
+    start_time: "09:50"
+    end_time: "10:05"
+
+  - title: "Tea Break, Visit Sponsors"
+    type: custom
+    date: 2025-05-14
+    start_time: "10:05"
+    end_time: "10:30"
+    background_color: "#C6E0B4"
+
+  - title: "bridging-aws-cdk-and-terraform"
+    type: talk
+    date: 2025-05-14
+    start_time: "10:30"
+    end_time: "11:00"
+
+  - title: "workshop-building-and-breaking-kubernetes-clusters"
+    type: workshop
+    date: 2025-05-14
+    start_time: "10:30"
+    end_time: "12:00"
+
+  - title: "workshop-from-zero-to-hero"
+    type: workshop
+    date: 2025-05-14
+    start_time: "10:30"
+    end_time: "14:45"
+
+  - title: "scalable-storage"
+    type: talk
+    date: 2025-05-14
+    start_time: "11:00"
+    end_time: "11:30"
+
+  - title: "ai-adoption-pyramid"
+    type: talk
+    date: 2025-05-14
+    start_time: "11:30"
+    end_time: "12:00"
+
+  - title: "Lunch, Visit Sponsors"
+    type: custom
+    date: 2025-05-14
+    start_time: "12:00"
+    end_time: "13:20"
+    background_color: "#C6E0B4"
+
+  - title: "fintech-panel-discussion"
+    type: talk
+    date: 2025-05-14
+    start_time: "13:20"
+    end_time: "14:00"
+
+  - title: "workshop-snyk-fetch-the-flag"
+    type: workshop
+    date: 2025-05-14
+    start_time: "13:15"
+    end_time: "14:45"
+
+  - title: "workshop-prompt-engineering"
+    type: workshop
+    date: 2025-05-14
+    start_time: "13:15"
+    end_time: "14:45"
+
+  - title: "Ignite Day 1"
+    type: ignite
+    date: 2025-05-14
+    start_time: "14:10"
+    end_time: "14:30"
+
+  - title: "Open Space Opening"
+    type: custom
+    date: 2025-05-14
+    start_time: "14:30"
+    end_time: "14:45"
+
+  - title: "Tea Break, Visit Sponsors"
+    type: custom
+    date: 2025-05-14
+    start_time: "14:45"
+    end_time: "15:20"
+    background_color: "#C6E0B4"
+
+  - title: "Open Space (Attendee Led Breakout Session) #1"
+    type: open-space
+    date: 2025-05-14
+    start_time: "15:20"
+    end_time: "16:10"
+
+  - title: "Open Space Break, Sponsors Demo"
+    type: custom
+    date: 2025-05-14
+    start_time: "16:10"
+    end_time: "16:20"
+
+  - title: "Open Space (Attendee Led Breakout Session) #2"
+    type: open-space
+    date: 2025-05-14
+    start_time: "16:20"
+    end_time: "17:10"
+
+  - title: "Closing"
+    type: custom
+    date: 2025-05-14
+    start_time: "17:10"
+    end_time: "17:25"
+    background_color: "#ffcccb"
+
+  - title: "Happy Hour"
+    type: custom
+    date: 2025-05-14
+    start_time: "17:40"
+    end_time: "20:30"
+    background_color: "#C6E0B4"
+
+  # Day 2
+
+  - title: "Welcome and registration"
+    type: custom
+    date: 2025-05-15
+    start_time: "08:00"
+    end_time: "08:45"
+
+  - title: "Day 2 opening welcome"
+    type: custom
+    date: 2025-05-15
+    start_time: "08:45"
+    end_time: "09:05"
+
+  - title: "devsecops-2025"
+    type: talk
+    date: 2025-05-15
+    start_time: "09:10"
+    end_time: "09:50"
+    background_color: "#B4C6E7"
+
+  - title: "the-on-prem-ai-challenge-devops-strategies-for-air-gapped-success"
+    type: talk
+    date: 2025-05-15
+    start_time: "09:50"
+    end_time: "10:05"
+
+  - title: "Tea Break, Visit Sponsors"
+    type: custom
+    date: 2025-05-15
+    start_time: "10:05"
+    end_time: "10:30"
+    background_color: "#C6E0B4"
+
+  - title: "let-the-algorithms-decide"
+    type: talk
+    date: 2025-05-15
+    start_time: "10:30"
+    end_time: "11:00"
+
+  - title: "workshop-clickhouse"
+    type: workshop
+    date: 2025-05-15
+    start_time: "10:30"
+    end_time: "12:00"
+
+  - title: "workshop-team-topologies"
+    type: workshop
+    date: 2025-05-15
+    start_time: "10:30"
+    end_time: "14:45"
+
+  - title: "workshop-secure-deliver-optimize-genai"
+    type: workshop
+    date: 2025-05-15
+    start_time: "10:30"
+    end_time: "14:45"
+
+  - title: "supercharge-agentic-ai-projects"
+    type: talk
+    date: 2025-05-15
+    start_time: "11:00"
+    end_time: "11:30"
+
+  - title: "10 Years of DevOpsDays Singapore"
+    type: custom
+    date: 2025-05-15
+    start_time: "11:30"
+    end_time: "12:00"
+
+  - title: "Lunch, Visit Sponsors"
+    type: custom
+    date: 2025-05-15
+    start_time: "12:00"
+    end_time: "13:20"
+    background_color: "#C6E0B4"
+
+  - title: "techhub-panel-discussion"
+    type: talk
+    date: 2025-05-15
+    start_time: "13:20"
+    end_time: "14:00"
+
+  - title: "workshop-llm-applications"
+    type: workshop
+    date: 2025-05-15
+    start_time: "13:15"
+    end_time: "14:45"
+
+  - title: "Ignite Day 2"
+    type: ignite
+    date: 2025-05-15
+    start_time: "14:10"
+    end_time: "14:30"
+
+  - title: "Open Space Opening"
+    type: custom
+    date: 2025-05-15
+    start_time: "14:30"
+    end_time: "14:45"
+
+  - title: "Tea Break, Visit Sponsors"
+    type: custom
+    date: 2025-05-15
+    start_time: "14:45"
+    end_time: "15:20"
+    background_color: "#C6E0B4"
+
+  - title: "Open Space (Attendee Led Breakout Session) #3"
+    type: open-space
+    date: 2025-05-15
+    start_time: "15:20"
+    end_time: "16:10"
+
+  - title: "Open Space Break, Sponsors Demo"
+    type: custom
+    date: 2025-05-15
+    start_time: "16:10"
+    end_time: "16:20"
+
+  - title: "Open Space (Attendee Led Breakout Session) #4"
+    type: open-space
+    date: 2025-05-15
+    start_time: "16:20"
+    end_time: "17:10"
+
+  - title: "Afternoon Raffle & Closing"
+    type: custom
+    date: 2025-05-15
+    start_time: "17:10"
+    end_time: "17:25"
+    background_color: "#ffcccb"
+
+ignites:
+
+  - title: "streamlined-streaming-analytics"
+    date: 2025-05-14
+  
+  - title: "where-dora-meets-dora"
+    date: 2025-05-14
+
+  - title: "expanding-capi-with-k0rdent"
+    date: 2025-05-14
+  
+  - title: "k0s-at-the-edge-minimal-kubernetes-maximum-impact"
+    date: 2025-05-14
+
+  - title: "devops-dating-advice"
+    date: 2025-05-14
+
+  - title: "optimizing-operations-compliance-api-management-with-ai-gateway"
+    date: 2025-05-15
+
+  - title: "harnessing-in-memory-speed-for-ai-driven-devops"
+    date: 2025-05-15
+
+  - title: "kubecost"
+    date: 2025-05-15
+
+  - title: "the-fast-and-the-curious"
+    date: 2025-05-15
+
+  - title: "understanding-k0s"
+    date: 2025-05-15

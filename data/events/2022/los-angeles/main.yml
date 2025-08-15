@@ -103,7 +103,7 @@ sponsors:
     level: gold
   - id: confluent
     level: gold
-  - id: cloudbees
+  - id: cloudbees-before-20250128
     level: gold
   - id: d2iq
     level: gold
@@ -149,7 +149,7 @@ sponsors:
     level: bronze
   - id: firehydrant
     level: bronze
-  - id: snyk
+  - id: snyk-before-20240621
     level: bronze
   - id: scale
     level: community

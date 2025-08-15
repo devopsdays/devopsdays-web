@@ -72,7 +72,7 @@ sponsors:
   - id: ceskasporitelna
     level: gold
     url: "https://www.csas.cz"
-  - id: cloudbees
+  - id: cloudbees-before-20250128
     level: gold
     url: "https://www.cloudbees.com"
   - id: pure-storage

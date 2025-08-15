@@ -13,7 +13,7 @@ source common_code
 SPONSOR_NAME=${1:-}
 IMAGE_TO_COPY=${2:-}
 TODAY=$(date +%Y%m%d)
-
+SPONSOR_INITIAL=$(echo "${SPONSOR_NAME}" | cut -c 1)
 # Make sure we have everything we need to run.
 
 if [ $# -ne 2 ]; then
@@ -22,7 +22,7 @@ if [ $# -ne 2 ]; then
   exit 1
 fi
 
-IMAGE_FILE="$(gitroot)/static/img/sponsors/$SPONSOR_NAME.png"
+IMAGE_FILE="$(gitroot)/assets/sponsors/$SPONSOR_INITIAL/$SPONSOR_NAME.png"
 if [ ! -f "$IMAGE_FILE" ]; then
   echo "Couldn't find a sponsor image at $IMAGE_FILE."
   exit 1
@@ -41,16 +41,18 @@ fi
 
 # Start by copying the existing definitions as the "old" definitions
 
-OLD_IMAGE_FILE=$(gitroot)/static/img/sponsors/$SPONSOR_NAME-before-$TODAY.png
+OLD_IMAGE_FILE=$(gitroot)/assets/sponsors/$SPONSOR_INITIAL/$SPONSOR_NAME-before-$TODAY.png
+OLD_STATIC_IMAGE=$(gitroot)/static/img/sponsors/$SPONSOR_NAME-before-$TODAY.png
 OLD_SPONSOR_FILE=$(gitroot)/data/sponsors/$SPONSOR_NAME-before-$TODAY.yml
 
 cp "$IMAGE_FILE" "$OLD_IMAGE_FILE"
+cp "$IMAGE_FILE" "$OLD_STATIC_IMAGE"
 cp "$SPONSOR_FILE" "$OLD_SPONSOR_FILE"
 
 # Find all events with this sponsor in years other than this year, excluding existing renames
 SPONSOR_REGEX="id:[ ]+$SPONSOR_NAME[ $]*"
 pushd "$(gitroot)/data/events" > /dev/null
-EVENTS_TO_MODIFY=($(grep -E "$SPONSOR_REGEX" * | grep -v 'before' | grep -v "^$(date +%Y)" | cut -d ':' -f 1))
+EVENTS_TO_MODIFY=($(git ls-tree -r --name-only HEAD | xargs grep -E "$SPONSOR_REGEX" | grep -v 'before' | grep -v "^$(date +%Y)" | cut -d ':' -f 1))
 
 # Modify the events.
 for event_file in "${EVENTS_TO_MODIFY[@]}"; do
@@ -60,6 +62,7 @@ done
 popd > /dev/null
 
 # Put the new image in place.
+
 cp "$IMAGE_TO_COPY" "$IMAGE_FILE"
 
 # Modify any archived events.

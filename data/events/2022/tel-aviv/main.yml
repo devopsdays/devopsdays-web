@@ -210,7 +210,7 @@ sponsors:
     level: platinum
   - id: armosec
     level: gold
-  - id: komodor
+  - id: komodor-before-20250811
     level: gold
   - id: aeropspike
     level: gold
@@ -248,7 +248,7 @@ sponsors:
     level: gold
   - id: wix
     level: gold
-  - id: snyk
+  - id: snyk-before-20240621
     level: gold
   - id: jfrog
     level: gold
@@ -270,8 +270,8 @@ sponsors:
     level: gold
   - id: spectralops
     level: media
-  - id: doit-before-2023-07-07
-    level: media
+  # - id: doit-before-2023-07-07
+  #   level: media
   - id: velocitytech
     level: media
   - id: cloudify

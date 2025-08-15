@@ -24,7 +24,7 @@ Description = "DevOpsDays Recife 2024"
         <strong>Local</strong>
       </div>
       <div class = "col-md-8">
-        {{< event_link page="local" text="TBA" title="Local" >}}
+        {{< event_link page="local" text="Centro de Convençoes - Teatro Ribeira" title="Local" >}}
       </div>
     </div>
     <div class = "row">
@@ -40,7 +40,7 @@ Description = "DevOpsDays Recife 2024"
         <strong>CFP</strong>
       </div>
       <div class="col-md-6">
-        {{< event_link url-key="cfp_link" text="Submeta a sua talk!" >}}
+        Encerrado!
       </div>
     </div>
     <div class="row">
@@ -48,7 +48,7 @@ Description = "DevOpsDays Recife 2024"
         <strong>Ingresso</strong>
       </div>
       <div class="col-md-6">
-        {{< event_link url-key="registration_link" text="Em breve!" >}}
+        Esgotado!
       </div>
     </div>
   </div>
@@ -75,13 +75,13 @@ Description = "DevOpsDays Recife 2024"
           <a style="text-align:left;" class="btn btn-secondary btn-block" href="/events/2024-recife/contact"> <i class="fa fa-envelope-o fa-fw"></i> Entre em contato</a>
         </div>
         <div style="witdh: auto; padding-right: 1em; ">
-          <a target="_blank" style="text-align:left;" class="disabled btn btn-secondary btn-block" href=""> <i class="fa fa-user-plus fa-fw"></i> Inscrições </a>
+          <a target="_blank" style="text-align:left;" class="disabled btn btn-secondary btn-block" href="https://www.sympla.com.br/evento/devops-days-recife-2024/2659465"> <i class="fa fa-user-plus fa-fw"></i> Inscrições </a>
         </div>
         <div style="witdh: auto; padding-right: 1em;">
-          <a target="_blank" style="text-align:left;" class="btn btn-secondary btn-block" href="https://www.papercall.io/dodrec24"> <i class="fa fa-file-text-o fa-fw"></i> Call for Papers </a>
+          <a target="_blank" style="text-align:left;" class="disabled btn btn-secondary btn-block" href="https://www.papercall.io/dodrec24"> <i class="fa fa-file-text-o fa-fw"></i> Call for Papers </a>
         </div>
         <div style="witdh: auto; padding-right: 1em;">
-          <a target="_blank" style="text-align:left;" class="disabled btn btn-secondary btn-block" href=""> <i class="fa fa-map-marker fa-fw"></i> Local </a>
+          <a target="_blank" style="text-align:left;" class="btn btn-secondary btn-block" href="/events/2024-recife/local"> <i class="fa fa-map-marker fa-fw"></i> Local </a>
         </div>
       </div>
     </div>

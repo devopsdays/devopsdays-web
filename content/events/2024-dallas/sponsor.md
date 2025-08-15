@@ -10,13 +10,13 @@ description = "Interested in sponsoring DevOpsDays Dallas 2024? We greatly value
 <div class = "row">
 <div class = "col-md-8 col-sm-12">
 <br><br>
-We greatly value sponsors for this community event. If you are interested in sponsoring, please check out our prospectus below. If you need a soft copy of our prospectus, click here to <a href="https://assets.devopsdays.org/events/2024/dallas/DevOpsDays_Dallas_2024_Prospectus.pdf" target="_blank"><strong>download PDF</strong></a> or <a href="mailto:dallas@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Dallas%202024"><strong>send us an email</strong></a>.
+<!-- We greatly value sponsors for this community event. If you are interested in sponsoring, please check out our prospectus below. If you need a soft copy of our prospectus, click here to <a href="https://assets.devopsdays.org/events/2024/dallas/DevOpsDays_Dallas_2024_Prospectus.pdf" target="_blank"><strong>download PDF</strong></a> or <a href="mailto:dallas@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Dallas%202024"><strong>send us an email</strong></a>.
 <br>
 <hr>
 <h4><a href="https://assets.devopsdays.org/events/2024/dallas/DevOpsDaysDallasSponsorGuide2024.pdf" target="_blank">Sponsor Guide 2024</a></h4>
 
 <h4><a href="https://assets.devopsdays.org/events/2024/dallas/DevOpsDaysDallasSponsorFAQ2024.pdf" target="_blank">Sponsors FAQ 2024</a></h4>
-<hr>
+<hr> -->
 DevOpsDays is a self-organizing conference for DevOps practitioners that depends on your sponsorships. We do not have a traditional trade show conference floor, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during, and after the event. Sponsors are encouraged to participate and engage with the attendees as peers.
 <br><br>
 Any attendee also has the opportunity to demonstrate products or projects as part of any of the Open Space sessions.  Platinum sponsors will also have access to a dedicated demo room to provide hands-on demos to individuals or small groups.  Be sure to send technical practitioners to interact with customers and peers at DevOpsDays on their own terms.
@@ -47,7 +47,7 @@ Please email the organizers at <a href="mailto:dallas@devopsdays.org?subject=Gen
       <td colspan="2"></td>
       <td colspan="5">
       <!-- Note: PayPal payments include 3% service charge. -->
-      <strong><a href="mailto:dallas@devopsdays.org?subject=DevOpsDays%20Dallas%202020%20Sponsorship">Email us</a> if you prefer to pay by check.</strong>
+      <strong><a href="mailto:dallas@devopsdays.org?subject=DevOpsDays%20Dallas%202024%20Sponsorship">Email us</a> if you prefer to pay by check.</strong>
       </td>
     </tr>
     <tr>
@@ -182,7 +182,7 @@ All Media / Community sponsors are entities we value as pillars of continuous le
       <td align="center"><i class="fa fa-handshake-o fa-4x"></td>
       <td>Community & Non-Profit (NPO)
         <br><br>
-        <img src = "/events/2024-dallas/not_available.png"></td>
+        <!-- <img src = "/events/2024-dallas/not_available.png"></td> -->
       <td>$0.00</td>
       <td>The community and non-profit (NPO) sponsorships is ideal for local meetups, co-working spaces, and other non-commercial communities who support DevOps. These sponsorships are free, but we ask that you share information about DevOpsDays Dallas 2024 with your members in order to become a Community Sponsor.
           <ul class="fa-ul">
@@ -216,7 +216,7 @@ All Media / Community sponsors are entities we value as pillars of continuous le
       <td>Happy Hour</td>
       <td align="center">$10,000
         <br><br>
-         <img src = "/events/2024-dallas/not_available.png">
+        <img src = "/events/2024-dallas/not_available.png">
         <!-- <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
             <input type="hidden" name="cmd" value="_s-xclick">
             <input type="hidden" name="hosted_button_id" value="7N7YJXNS9X9JS">
@@ -282,17 +282,20 @@ All Media / Community sponsors are entities we value as pillars of continuous le
     </tr>
   </tbody>
 </table>
-  <br/>
+<br/>
 <h2>Refund Policy</h2>
 We are excited to have you sponsor our event. We also understand that there are sometimes circumstances that may cause you to need to withdraw that sponsorship. Refunds for sponsorships are available according to the following schedule:
 <br><br>
 <h4>À La Carte sponsorships</h4>
- <li><i class="fa-li fa fa-check-square"></i>No refunds are available for À La Carte sponsorships.</li>
+ <ul class="fa-ul">
+  <li><i class="fa-li fa fa-check-square"></i>No refunds are available for À La Carte sponsorships.</li>
+  </ul>
  <br>
 <h4>All other sponsorship levels</h4>
- <li><i class="fa-li fa fa-check-square"></i>Before June 1, 2024 - 80% refund is available.</li>
- <li><i class="fa-li fa fa-check-square"></i>Between June 2 and July 31, 2024 - 75% refund is available.</li>
- <li><i class="fa-li fa fa-check-square"></i>After August 1, 2024 - No refund is available.</li>
+ <ul class="fa-ul">
+  <li><i class="fa-li fa fa-check-square"></i>Before June 1, 2024 - 80% refund is available.</li>
+  <li><i class="fa-li fa fa-check-square"></i>Between June 2 and July 31, 2024 - 75% refund is available.</li>
+  <li><i class="fa-li fa fa-check-square"></i>After August 1, 2024 - No refund is available.</li>
 <br>
 Please email the organizers at <a href="mailto:dallas@devopsdays.org?subject=General%20Questions%20Regarding%20Sponsorship%20of%20DevOpsDays%20Dallas%202024">dallas@devopsdays.org</a> with any questions you may have about sponsoring the event or requesting a refund.
 <br><br>

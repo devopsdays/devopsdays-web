@@ -1,0 +1,210 @@
+name: "2024-natal" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2024" # The year of the event. Make sure it is in quotes.
+city: "Natal" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaysnatal" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "O Devopsdays Natal está de volta!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+event_logo: "/events/2024-natal/logo-square.jpg"
+masthead_background: "cartao-postal.png"
+
+# All dates are in unquoted 2024-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2024-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2024-11-23T08:00:00+03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2024-11-23T18:00:00+03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start:  # start accepting talk proposals.
+cfp_date_end:  # close your call for proposals.
+cfp_date_announce:  # inform proposers of status
+
+cfp_link: "https://talks.devopsdays.org/devopsdays-natal-2024/cfp" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+# coordinates: "" # No longer used
+
+location: "SEBRAE RN" # Defaults to city, but you can make it the venue name.
+#
+location_address: "Av. Lima e Silva, 76 - Lagoa Nova, Natal - RN, 59075-710" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: local
+    icon: "map-o"
+    url: /events/2024-natal/location
+
+  - name: Chamadas (CFP)
+    icon: "paper-plane-o"
+    # url: /events/2024-natal/propose
+    url: https://talks.devopsdays.org/devopsdays-natal-2024/cfp
+
+  # - name: inscrições
+  #   icon: "ticket"
+  #   url: https://www.sympla.com.br/evento/devopsdays-sao-paulo-2024/2326413
+
+  # - name: programação
+  #   icon: "calendar"
+  #   url: /events/2024-natal/program
+
+  # - name: palestrantes
+  #   icon: "microphone"
+  #   url: /events/2024-natal/speakers
+
+  - name: patrocínio
+    icon: "money"
+    url: /events/2024-natal/sponsor
+    
+  - name: speakers
+
+  - name: código de conduta
+    icon: "handshake-o"
+    url: /events/2024-natal/conduct-pt-br
+
+  - name: contato
+    icon: "envelope-o"
+    url: /events/2024-natal/contact
+ # - name: propose
+ # - name: location
+ # - name: registration
+ # - name: program
+ # - name: sponsor
+ # - name: contact
+ # - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Luan Carlos"
+    employer: "Mercado Eletrônico"
+    twitter: "luancarlos021"
+    github: "luancarlos021"
+    linkedin: "https://www.linkedin.com/in/luan-carlos/"
+    website: "https://linktr.ee/luancarlos0"
+    bio: "Profissional qualificado com ampla experiência em suporte a sistemas, suporte ao usuário e infraestrutura. Atualmente, atuo como DevOps Engineer, utilizando ferramentas avançadas como Linux, Docker, Kubernetes, Helm, Terraform, Jenkins, Cloud computing, entre outras.\n\nAtivamente envolvido nas comunidades de tecnologia, sou organizador da CNCF | Cloud Native Community Group RN e do DevOpsDays Natal. Esse é um trabalho muito gratificante, onde posso construir novas conexões e fortalecer as comunidades."
+    image: "luan-carlos.jpeg"
+
+  - name: "Gian Cavalcante"
+    email: "glcdlima@gmail.com"
+    pronouns: "Ele/Dele"
+    role: ""
+    employer: "Magalu Cloud"
+    bio: "Sou apaixonado por Linux a mais de 10 anos, defensor de software livre e fomentador de comunidades. Trabalho com devops desde 2019 e em 2022 mergulhei de cabeça nos DevOpsDays, fui organizador do devopsdays de Vitória 2022, e atualmente componho as organizações dos DevOpsDays de Vitória, Natal e São Paulo."
+    github: "gianlcl"
+    facebook: ""
+    twitter: "gianlcl"
+    linkedin: "https://www.linkedin.com/in/gian-cavalcante/"
+    website: ""
+    mastodon: "https://bolha.us/@gianlcl"
+    image: "gian-cavalcante.png"
+
+  - name: "Emídio Neto"
+    pronouns: "Ele/Dele"
+    employer: "PicPay"
+    bio: "Ao longo dos últimos anos, tenho me dedicado a ajudar as empresas a melhorar a escalabilidade e confiabilidade das suas aplicações e infraestruturas de larga escala na cloud."
+    github: "emdneto"
+    linkedin: "https://www.linkedin.com/in/emidioneto/"
+    website: "https://linktr.ee/emdneto"
+    image: "emidio-neto.jpeg"
+
+  - name: "Ariane Corrêa"
+    pronouns: "Ela/Dela"
+    employer: "Celero"
+    bio: "Sou uma acriana vivendo em Natal, RN. Estudo Análise e Desenvolvimento de Sistemas no IFRN e tenho cinco anos de experiência em desenvolvimento de software. Além da tecnologia, sou praticante de pole sport e adoro dançar forró. Sou fã de um bom café e valorizo momentos com a familia e amigos."
+    github: "arianesc"
+    linkedin: "https://www.linkedin.com/in/ariane-silveira/"
+    website: ""
+    image: "ariane-correa.jpg"
+  
+  - name: "Ivan Álisson C N Lima"
+    pronouns: "Ele/Dele"
+    employer: "Invillia"
+    bio: "Formado em TI e especialista em Business Intelligence e Analytics pela UFRN e TRE/RN. Tenho paixão por tecnologia, pesquisa e ensino."
+    github: "bombermal"
+    linkedin: "https://www.linkedin.com/in/ivanalisson/"
+    website: ""
+    image: "ivan-alisson.jpg"
+
+  - name: "Cassius Clay"
+    pronouns: "Ele/Dele"
+    employer: ""
+    bio: "Formado em Tecnologia em Redes de Computadores pelo IFRN e pós-graduado em Computação em Nuvem pela PUC-Minas, sou apaixonado por Star Wars e transito por diversas tribos sociais. Vivo a tecnologia há 7 anos, com uma trajetória em suporte, administração de sistemas, SRE e, atualemente, atuo como Engenheiro de DevOps. Busco colaborar para o desenvolvimento de tecnologias que impactem positivamente a vida das pessoas."
+    github: "CassiusClayB"
+    linkedin: "https://www.linkedin.com/in/cassius-clay-filho/"
+    website: "https://medium.com/@cassiussilvafilho"
+    image: "cassius-clay.jpeg"
+
+  - name: "Clara Nobre"
+    pronouns: "Ela/Dela"
+    employer: "Conta Simples"
+    bio: "Pós Graduada em Cybersecurity e Cyber Forensics, atualmente trabalhando como Engenheira DevSecOps na Conta Simples e entusiasta em compartilhar conhecimento. Coordenadora da Comunidade Software Livre Potiguar (Potilivre) e cofundadora do Pyladies Brasil. Participo e coordeno comunidades das minhas áreas de interesse: Segurança da Informação, Redes Sensores sem Fio, Python, Cloud Computing, Software Livre, Hardware Livre, BioHacking e também defendo que pessoas > tecnologia."
+    github: "claranobre"
+    twitter: "_claranobre"
+    linkedin: "https://www.linkedin.com/in/claranobre/"
+    image: "clara-nobre.jpg"
+
+  - name: "Frederico Pranto"
+    pronouns: "Ele/Dele"
+    employer: "TCE-RN"
+    bio: "Mestre e Doutorando em Sistemas e Computação pela UFRN, Analista de Controle Externo na área de TI no TCE/RN e Pesquisador Convidado - IMD/UFRN. Atuando como responsável pelas ações de DevOps no TCE-RN."
+    github: "fredericopranto"
+    twitter: "fredericopranto"
+    linkedin: "https://www.linkedin.com/in/fredericopranto/"
+    image: "frederico-pranto.jpg"
+
+  - name: "Mateus Freire"
+    pronouns: "Ele/Dele"
+    employer: "SpiritSec"
+    bio: "Sou um explorador das redes de computadores e um eterno curioso que adora meter a mão na massa (ou no código). Como entusiasta de DevOps, vivo tentando automatizar até a máquina de café. Sempre pronto para colaborar com as comunidades de software livre, acredito que compartilhar é multiplicar."
+    github: ""
+    twitter: ""
+    linkedin: "https://www.linkedin.com/in/mateus-afreire"
+    image: "mateus-freire.jpg"
+
+organizer_email: "natal@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: novatec
+    level: community
+  - id: 3dcomtech
+    level: community
+  - id: cloud-plusplus
+    level: platinum
+  - id: guia-foca-linux
+    level: startup
+
+ #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+
+sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: platinum
+    label: Platinum
+    max: 4
+  - id: gold
+    label: Gold
+    max: 6
+  - id: silver
+    label: Silver
+    max: 8
+  - id: startup
+    label: Startup
+    max: 10
+  - id: community
+    label: Community

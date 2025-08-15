@@ -1,4 +1,5 @@
 /public
+/resources/_gen
 # General CodeKit files to ignore
 config.codekit
 # config.toml # This is a dangerous file, but we need it not in here.
@@ -84,3 +85,6 @@ hugo.log
 
 # we don't use yarn
 yarn.lock
+
+# hugo rendering folder
+resources/_gen/

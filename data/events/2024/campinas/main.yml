@@ -1,0 +1,273 @@
+name: "2024-campinas" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2024" # The year of the event. Make sure it is in quotes.
+city: "Campinas" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdayscps" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "DevOpsDays está voltando a Campinas!" # Edit this to suit your preferences
+masthead_background: "background.jpg"
+ga_tracking_id: "G-3X9XBDMGXM" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2024-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2024-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2024-10-19T09:00:00-03:00
+enddate: 2024-10-19T18:00:00-03:00
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2024-07-31T09:00:00-03:00
+cfp_date_end: 2024-09-13T20:00:00-03:00
+cfp_date_announce: 2024-07-31T09:00:00-03:00
+
+cfp_link: "https://www.papercall.io/devopsdays-campinas" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: 2024-09-03T17:00:00-03:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2024-10-19T18:00:00-03:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://devopsdays-campinas.eventbrite.com.br" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "-22.874486662183347, -47.06509853097971" # No longer used
+location: "Unisal - Campus São José" # Defaults to city, but you can make it the venue name.
+location_address: "Av. Almeida Garret, 267 - Jd. Nossa Senhora Auxiliadora, Campinas - SP" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  # - name: propose
+  # - name: registration
+  # - name: speakers
+
+  - name: programação
+    icon: "calendar"
+    url: /events/2024-campinas/program
+
+  - name: local
+    icon: "map-marker"
+    url: /events/2024-campinas/location
+
+  - name: inscrições
+    icon: "ticket"
+    url: https://devopsdays-campinas.eventbrite.com.br
+
+  - name: patrocínio
+    icon: "money"
+    url: /events/2024-campinas/sponsor
+
+  - name: palestrantes
+    icon: "microphone"
+    url: /events/2024-campinas/speakers
+
+  - name: Chamadas (C4P)
+    icon: "paper-plane-o"
+    url: https://www.papercall.io/devopsdays-campinas
+
+  - name: contato
+    icon: "envelope-o"
+    url: /events/2024-campinas/contact
+
+  - name: código de conduta
+    icon: "handshake-o"
+    url: /events/2024-campinas/conduct-pt-br
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Daniele Pishinin"
+    employer: "Conta Simples"
+    twitter: "danipishinin"
+    bio: "Desenvolvedora mobile, mentora na Reprograma, Embaixadora na Google Women Techmakers, faixa amarela no Krav Maga e iniciante no mundo de trekking e academia."
+    pronouns: "ela/dela"
+    role: "Software Engineer"
+    image: "dani.png"
+    linkedin: "https://www.linkedin.com/in/danipishinin/"
+  - name: "Flavio Pimenta"
+    role: "Software Engineer"
+    twitter: "pimentaflavio"
+    bio: "Arquiteto de Soluções focado em traduzir necessidades de negócio em soluções técnicas robustas e com alta qualidade de ponta a ponta.."
+    image: "pimenta.jpeg"
+    github: "https://github.com/flap"
+    linkedin: "https://www.linkedin.com/in/flaap/?originalSubdomain=br"
+    website: "https://campsite.bio/pimenta/"
+  - name: "Giovana do Nascimento Pena"
+    employer: "Itaú Unibanco"
+    role: "Fullstack Developer"
+    twitter: "GiovanaNp1"
+    bio: "Engenheira de Software no Itaú, Formada de Analise e Desenvolvimento de Sistemas na Universidade UNASP e Pós-graduanda em DevOps pela PUC Minas, Certificada em Developer Profession - Level 2 Experienced e IBM Cloud. Participante do instituto meninas negras, uma das lideres do TLC a comunidade técnica interna da IBM e Líder da comunidade Elastic São Paulo. Além de organizadora do DevOpsDays São Paulo e Campinas"
+    image: "giovana.png"
+    pronouns: "ela/dela"
+    github: "https://github.com/GiovanaNp1"
+    linkedin: "https://www.linkedin.com/in/giovana-do-nascimento/"
+    website: "https://giovana-nascimento.netlify.app/"
+  - name: "Julia Katharine Teixeira Silva dos Santos"
+    employer: "CI&T"
+    role: "Site Reliability Engineering"
+    bio: "Site Reliability Engineering na CI&T com foco em observabilidade e monitoramento. Granduanda do ultimo semestre do curso de Analise e Desenvolvimento de Sistemas da FATEC."
+    image: "julia.jpeg"
+    linkedin: "https://www.linkedin.com/in/julia-santos22/"
+  - name: "Paula Santos"
+    employer: "Ab-Inbev"
+    role: "Cloud Architect"
+    bio: "Cloud Architect na Ab-Inbev, graduanda em Sistemas da Informação pela UNESA e certificada Microsoft e AWS. Parte do corpo de membros da comunidade FinOps Foundation e WOMCY além de organizadora do DevOps Days Campinas. Fruto de uma transição de carreira de Bióloga e Médica Veterinária especialista em diagnóstico por imagem de animais para Tech, hoje sou participante de iniciativas para inclusão de mulheres em tecnologia pela comunidade Transformar.tech, Mulheres na Nuvem MG e Cloud Women."
+    image: "paula.jpg"
+    linkedin: "https://www.linkedin.com/in/paula-santos-/"
+  - name: "Raphael Borges"
+    employer: "Dedalus Prime"
+    role: "Analista de Operações Cloud Sênior"
+    twitter: "RaphaNBorges"
+    bio: "Criador e mantenedor do projeto OKE-FREE: Uma maneira fácil de garantir seu próprio cluster Kubernetes gratuitamente e para sempre na Oracle Cloud Infrastructure (OCI) utilizando OpenTofu. Expert em Container e Kubernetes pelo Programa Intensivo em Containers e Kubernetes (PICK) da Linuxtips. Coautor do livro 'Descomplicando Kubernetes'."
+    image: "raphael.jpg"
+    github: "https://github.com/Rapha-Borges"
+    linkedin: "https://www.linkedin.com/in/raphael-do-nascimento-borges/"
+    website: "https://r11s.com.br/"
+  - name: "Renne Rocha"
+    role: "Senior Python Engineer"
+    mastodon: "https://chaos.social/@rennerocha"
+    bio: "Renne Rocha é desenvolvedor Python, graduado em Engenharia Elétrica com mais de 10 anos de experiência em desenvolvimento. Ativo na comunidade Python brasileira organizando e apresentando palestras em diversas conferências no mundo todo. Co-fundador do Laboratório Hacker de Campinas, um dos primeiros hackerspaces do Brasil. Nas horas vagas, é aprendiz de marceneiro e cervejeiro caseiro."
+    image: "renne.png"
+    github: "https://github.com/rennerocha"
+    linkedin: "https://www.linkedin.com/in/rennerocha/"
+    website: "https://rennerocha.com/"
+  - name: "Erik Henrique"
+    role: "Full-Stack Developer"
+    twitter: "theer1k"
+    bio: "Desenvolvedor Full-Stack com expertise em tecnologias web e desenvolvimento de interface usuário, se aprofundando em arquitetura e soluções na nuvem."
+    image: "erik.jpg"
+    github: "https://github.com/theer1k"
+    linkedin: "https://www.linkedin.com/in/erikhenriquealvescunha/"
+    website: "https://www.indianboy.com.br/"
+  - name: "Douglas Esteves"
+    role: "Profissional de Tecnologia da Informação na UNICAMP"
+    bio: "Membro e Organizador do Laboratório Hacker de Campinas. Entusiasta em Internet das Coisas, ferramentas de monitoramento e Hardware Aberto."
+    image: "douglas.jpg"
+    github: "https://github.com/EstevesDouglas/"
+    linkedin: "https://www.linkedin.com/in/douglasesteves/"
+    website: "https://douglasesteves.eng.br/"
+
+organizer_email: "campinas@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: bosch
+    level: platinum
+    url: https://www.bosch.com.br/ # Use this if you need to over-ride a sponsor URL.
+  - id: cps1
+    level: gold
+  - id: aws
+    level: bronze
+  - id: lhc
+    level: community
+  - id: unisal
+    level: community
+  - id: betech
+    level: community
+  - id: novatec
+    level: community
+  - id: 3dcomtech
+    level: community
+  - id: aws-user-group-campinas
+    level: community
+
+sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
+
+program:
+  - title: "Credenciamento e coffee"
+    type: custom
+    date: 2024-10-19T08:00:00-03:00
+    start_time: "09:00"
+    end_time: "09:40"
+  - title: "Abertura"
+    type: custom
+    date: 2024-10-19T08:00:00-03:00
+    start_time: "09:50"
+    end_time: "10:00"
+    background_color: "#0082AB"
+  - title: "patricia-tozi"
+    type: talk
+    date: 2024-10-19T08:00:00-03:00
+    start_time: "10:00"
+    end_time: "10:50"
+    background_color: "#FF8300"
+  - title: "renicius-pagotto"
+    type: talk
+    date: 2024-10-19T08:00:00-03:00
+    start_time: "10:50"
+    end_time: "11:30"
+  - title: "bianca-veit"
+    type: talk
+    date: 2024-10-19T08:00:00-03:00
+    start_time: "11:30"
+    end_time: "12:10"
+  - title: "Almoço"
+    type: custom
+    date: 2024-10-19T08:00:00-03:00
+    start_time: "12:10"
+    end_time: "13:40"
+  - title: "Ignite Karaoke"
+    type: open-space
+    date: 2024-10-19T08:00:00-03:00
+    start_time: "13:10"
+    end_time: "13:40"
+  - title: "julia-pedrosa"
+    type: talk
+    date: 2024-10-19T08:00:00-03:00
+    start_time: "13:40"
+    end_time: "14:20"
+  - title: "lucas-ribeiro"
+    type: talk
+    date: 2024-10-19T08:00:00-03:00
+    start_time: "14:20"
+    end_time: "15:00"
+  - title: "levi-leopoldino"
+    type: talk
+    date: 2024-10-19T08:00:00-03:00
+    start_time: "15:00"
+    end_time: "15:40"
+    background_color: "#FF8300"
+  - title: "Coffee Break"
+    type: custom
+    date: 2024-10-19T08:00:00-03:00
+    start_time: "15:40"
+    end_time: "16:10"
+  - title: "Open Space"
+    type: open-space
+    date: 2024-10-19T08:00:00-03:00
+    start_time: "16:10"
+    end_time: "16:50"
+  - title: "marivone-araujo"
+    type: talk
+    date: 2024-10-19T08:00:00-03:00
+    start_time: "16:50"
+    end_time: "17:30"
+  - title: "julia-lamenza"
+    type: talk
+    date: 2024-10-19T08:00:00-03:00
+    start_time: "17:30"
+    end_time: "18:10"
+    background_color: "#FF8300"
+  - title: "Encerramento"
+    type: custom
+    date: 2024-10-19T08:00:00-03:00
+    start_time: "18:10"
+    end_time: "18:20"
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: platinum
+    label: Platinum
+  - id: gold
+    label: Gold
+  #    max: 10
+  - id: silver
+    label: Silver
+    max: 0 # This is the same as omitting the max limit.
+  - id: bronze
+    label: Bronze
+  - id: community
+    label: Community

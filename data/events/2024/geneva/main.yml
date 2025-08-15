@@ -41,7 +41,7 @@ location_address: "Campus de Battelle, Rue de la Tambourine 17, 1227 Carouge" #O
 nav_elements: # List of pages you want to show up in the navigation of your page.
 #  - name: propose
   - name: location
-  - name: registration
+#  - name: registration
   - name: program
   - name: speakers
   - name: sponsor
@@ -102,7 +102,7 @@ organizer_email: "geneva@devopsdays.org" # Put your organizer email address here
 sponsors:
   - id: veeam
     level: silver
-  - id: infomaniak
+  - id: infomaniak-before-20241013
     level: gold
   - id: hidora
     level: gold
@@ -153,6 +153,14 @@ sponsors:
   - id: cisel
     level: gold
   - id: swissdevjobs
+    level: community
+  - id: swiss-digital-network
+    level: gold
+  - id: portworx
+    level: silver
+  - id: keyteo
+    level: silver
+  - id: caroster
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -470,7 +478,7 @@ program:
 ignites:
   - title: "kubernetes-birthday"
     date: 2024-05-13
-  - title: "llms-introduction"
+  - title: "rex-redefine-your-devops-objectives"
     date: 2024-05-13
   - title: "preparing-a-new-devopsdays"
     date: 2024-05-13

@@ -91,7 +91,7 @@ organizer_email: "indianapolis@devopsdays.org" # Put your organizer email addres
 sponsors:
   - id: tailored-automation
     level: gold
-  - id: appdynamics
+  - id: appdynamics-before-20240418
     level: gold
   - id: arresteddevops
     level: community
@@ -123,7 +123,7 @@ sponsors:
     level: silver
   - id: indyhackers
     level: community
-  - id: devitjobs
+  - id: devitjobs-before-20250404
     level: community
   - id: cloudtruth
     level: alacarte

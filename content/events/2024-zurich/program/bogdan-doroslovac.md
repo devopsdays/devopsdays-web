@@ -16,4 +16,13 @@ slides = ""
 
 ### Workshop
 
+<strong>Room:</strong> “Seminar” / 1st floor 
+
+<strong>Abstract:</strong>
 In this simple movement game, we will learn about how we communicate as humans while having some fun. Main concepts here covered in practice are Tuckman's team dynamics and Lencioni's 5 Dysfunctions of a Team models. Applying team coaching techniques to support team as it is forming.
+
+<strong>Prerequisites for this workshop:</strong>
+There are no special prerequisites. The participants should be simply  open to move around and to connect with other people. 
+
+<strong>Number of participants:</strong>
+25 participants max 

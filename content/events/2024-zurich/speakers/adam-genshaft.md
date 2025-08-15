@@ -1,5 +1,5 @@
 +++
-Title = "Adam Genshaft"
+Title = "CANCELED: Adam Genshaft"
 image = "adam-genshaft.jpg"
 linktitle = "adam-genshaft"
 type = "speaker"

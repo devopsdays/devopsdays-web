@@ -142,9 +142,9 @@ sponsors:
     level: startupalley
   - id: kosli
     level: platinum
-  - id: cloudbees
+  - id: cloudbees-before-20250128
     level: platinum
-  - id: snyk
+  - id: snyk-before-20240621
     level: platinum
   - id: splunk
     level: platinum

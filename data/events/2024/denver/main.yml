@@ -2,7 +2,7 @@ name: "2024-denver" # The name of the event. Four digit year with the city name 
 year: "2024" # The year of the event. Make sure it is in quotes.
 city: "Denver" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaysrox" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "Devopsdays is coming to Denver!" # Edit this to suit your preferences
+description: "Devopsdays is coming back to Denver!" # Edit this to suit your preferences
 ga_tracking_id: "G-9SR9GD94E0" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2024-MM-DDTHH:MM:SS+TZ:TZ, like this:
@@ -10,8 +10,10 @@ ga_tracking_id: "G-9SR9GD94E0" # If you have your own Google Analytics tracking 
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2024-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate:  2024-09-16 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  2024-09-17 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate:  2024-09-16T08:00:59-06:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  2024-09-17T23:59:59-06:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+timeoffset: "-0600"
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2023-10-31T23:59:59-06:00 # start accepting talk proposals.
@@ -21,27 +23,25 @@ cfp_date_announce:  2024-06-04T23:59:59-06:00 # inform proposers of status
 cfp_link: "https://talks.devopsdays.org/devopsdays-denver-2024/cfp" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2024-01-01T23:59:59-06:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: 2024-09-14T23:59:59-06:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_end: 2024-09-16T23:59:59-06:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://tickets.devopsdays.org/devopsdays-denver/2024/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
-coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "TBA" # Defaults to city, but you can make it the venue name.
+coordinates: "39.76501182324041, -104.98017114451217" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "14er Brewing & Beer Garden" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "3120 Blake St Ste C, Denver, CO 80205" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location
   - name: register
     url: https://tickets.devopsdays.org/devopsdays-denver/2024/
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
-  - name: propose
-    url: https://talks.devopsdays.org/devopsdays-denver-2024/cfp
   - name: contact
   - name: conduct
 # - name: example
@@ -67,8 +67,6 @@ team_members: # Name is the only required field for team members.
   - name: "Matt Knox"
     twitter: "mknox42"
     employer: "Splunk"
-  - name: "Jason Sharp"
-    twitter: "1971hemicuda"
   - name: "Keri Melich"
     employer: "DuckDuckGo"
     twitter: "themightymuppet"
@@ -77,16 +75,13 @@ team_members: # Name is the only required field for team members.
     employer: "Parry Labs"
     twitter: "ds_morse"
   - name: "Peter ONeil Jr"
-    employer: "WebRiot"
+    employer: "Teleport"
     twitter: "peteroneilljr"
   - name: "Leigh Capili"
-    employer: "Tanzu by Broadcom"
+    employer: "Flox"
     twitter: "capileigh"
-  - name: "Mary Goodheart"
-    employer: "VelocityGlobal"
-  - name: "Ed Schaefer"
-    employer: "Agile Ideation Coaching & Consulting"
-    twitter: "agileideation"
+  - name: "Mike Nabhan"
+    employer: "Akamai"
 organizer_email: "denver@devopsdays.org"
 
 # List all of your sponsors here along with what level of sponsorship they have.
@@ -96,19 +91,47 @@ sponsors:
     level: gold
   - id: elastic
     level: gold
+  - id: flox
+    level: gold
   - id: observeinc
     level: gold
+  - id: honeycomb
+    level: silver
+  - id: kubefirst
+    level: silver
+  - id: crystaldb
+    level: supporter
+  - id: deviq
+    level: supporter
+  - id: duckduckgo
+    level: supporter
+  - id: checkmarx
+    level: supporter
+  - id: focusedlabs-before-01222005
+    level: supporter
+  - id: kloudfuse
+    level: supporter
+  - id: masterpoint
+    level: supporter
+  - id: mogenius
+    level: supporter
   - id: parrylabs
     level: supporter
   - id: pax8
     level: supporter
-  - id: deviq
+  - id: platonicsystems
+    level: supporter
+  - id: releaseteam
+    level: supporter
+  - id: tailscale
     level: supporter
   - id: webriot
     level: supporter
   - id: kubecareers
     level: community
   - id: kubeevents
+    level: community
+  - id: code-talent
     level: community
   - id: nadog
     level: community
@@ -122,12 +145,214 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Gold
-    max: 10
+    max: 0
   - id: silver
     label: Silver
-    max: 9
+    max: 0
   - id: supporter
     label: Supporter
-    max: 9
+    max: 0
   - id: community
     label: Community
+
+program:
+    # Day 1
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2024-09-16
+    start_time: "08:00"
+    end_time: "08:45"
+  - title: "Day 1 Kickoff"
+    type: custom
+    date: 2024-09-16
+    start_time: "08:45"
+    end_time: "08:55"
+  - title: "jason-hand"
+    type: talk
+    date: 2024-09-16
+    start_time: "09:00"
+    end_time: "09:45"
+  - title: "tara-walton"
+    type: talk
+    date: 2024-09-16
+    start_time: "09:45"
+    end_time: "10:30"
+  - title: "tom-hastings"
+    type: talk
+    date: 2024-09-16
+    start_time: "10:30"
+    end_time: "11:15"
+  - title: "Break"
+    type: custom
+    date: 2024-09-16
+    start_time: "11:15"
+    end_time: "11:30"
+  - title: "Ignites"
+    type: ignite
+    date: 2024-09-16
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch"
+    type: custom
+    date: 2024-09-16
+    start_time: "12:00"
+    end_time: "13:30"
+  - title: "alex-wise"
+    date: 2024-09-16
+    type: talk
+    start_time: "13:30"
+    end_time: "14:15"
+  - title: "cory-watson"
+    type: talk
+    date: 2024-09-16
+    start_time: "14:15"
+    end_time: "15:00"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2024-09-16
+    start_time: "15:00"
+    end_time: "15:15"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2024-09-16
+    start_time: "15:15"
+    end_time: "15:45"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2024-09-16
+    start_time: "15:45"
+    end_time: "16:15"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2024-09-16
+    start_time: "16:15"
+    end_time: "16:45"
+  - title: "Open Space #4"
+    type: open-space
+    date: 2024-09-16
+    start_time: "16:45"
+    end_time: "17:15"
+  - title: "Day 1 Wrap-up"
+    type: custom
+    date: 2024-09-16
+    start_time: "17:15"
+    end_time: "17:30"
+  - title: "Happy Hour"
+    background_color: "#b39eff"
+    type: custom
+    date: 2024-09-16
+    start_time: "17:30"
+    end_time: "late"
+
+    # Day 2
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2024-09-17
+    start_time: "08:00"
+    end_time: "08:45"
+  - title: "Day 2 Kickoff"
+    type: custom
+    date: 2024-09-17
+    start_time: "08:45"
+    end_time: "08:55"
+  - title: "jessica-kerr"
+    type: talk
+    date: 2024-09-17
+    start_time: "09:00"
+    end_time: "09:45"
+  - title: "matthew-arnow"
+    type: talk
+    date: 2024-09-17
+    start_time: "09:45"
+    end_time: "10:30"
+  - title: "rae-krantz"
+    type: talk
+    date: 2024-09-17
+    start_time: "10:30"
+    end_time: "11:15"
+  - title: "Break"
+    type: custom
+    date: 2024-09-17
+    start_time: "11:15"
+    end_time: "11:30"
+  - title: "Ignites"
+    type: ignite
+    date: 2024-09-17
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch"
+    type: custom
+    date: 2024-09-17
+    start_time: "12:00"
+    end_time: "13:30"
+  - title: "matt-kuritz"
+    date: 2024-09-17
+    type: talk
+    start_time: "13:30"
+    end_time: "14:15"
+  - title: "code-talent"
+    type: workshop
+    date: 2024-09-17
+    start_time: "14:15"
+    end_time: "15:00"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2024-09-17
+    start_time: "15:00"
+    end_time: "15:15"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2024-09-17
+    start_time: "15:15"
+    end_time: "15:45"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2024-09-17
+    start_time: "15:45"
+    end_time: "16:15"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2024-09-17
+    start_time: "16:15"
+    end_time: "16:45"
+  - title: "Open Space #4"
+    type: open-space
+    date: 2024-09-17
+    start_time: "16:45"
+    end_time: "17:15"
+  - title: "Day 2: Wrap-up"
+    type: custom
+    date: 2024-09-17
+    start_time: "17:15"
+    end_time: "17:30"
+  - title: "Sponsor Raffles/Closing"
+    type: custom
+    date: 2024-09-17
+    start_time: "17:30"
+    end_time: "18:00"
+  - title: "Community Happy Hour @ Improper City"
+    background_color: "#b39eff"
+    type: custom
+    date: 2024-09-17
+    start_time: "18:00"
+    end_time: "late"
+
+ignites:
+  - title: "dan-cook"
+    date: 2024-09-16
+  - title: "joyce-lin"
+    date: 2024-09-16
+  - title: "amanda-aguayo"
+    date: 2024-09-16
+  - title: "devin-wilson"
+    date: 2024-09-16
+  - title: "eloise-ann-friedman"
+    date: 2024-09-16
+  - title: "gwyneth-allwright"
+    date: 2024-09-17
+  - title: "benjie-de-groot"
+    date: 2024-09-17
+  - title: "jessica-garson"
+    date: 2024-09-17
+  - title: "jj-asghar"
+    date: 2024-09-17

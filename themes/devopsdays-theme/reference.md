@@ -36,6 +36,9 @@
 &emsp;[event_twitter](#event_twitter)
 &emsp;[registration_start](#registration_start)
 &emsp;[registration_end](#registration_end)
+&emsp;[event_map](#event_map)
+&emsp;[tix](#tix)
+&emsp;[asset](#asset)
 
 <!-- /MDTOC -->
 
@@ -45,35 +48,49 @@ The `/data/events/YYYY/CITY.main.yml` file is the main configuration file for yo
 
 ### General Fields
 
-| Field Name       | Type   | Required | Description                                                                                           | Example                                       |
-|------------------|--------|----------|-------------------------------------------------------------------------------------------------------|-----------------------------------------------|
-| `name`           | String | Yes      | The name of the event. Four digit year with the city name in lower-case, with no spaces.              | "2017-chicago"                                |
-| `year`           | String | Yes      | The year of the event. Make sure it is in quotes.                                                     | "2017"                                        |
-| `city`           | String | Yes      | The displayed city name of the event. Capitalize it.                                                  | "Salt Lake City"                              |
-| `event_twitter`  | String | Yes      | The twitter handle for your event such as "devopsdayschi" or "devopsdaysmsp". Exclude the "@" symbol. | "devopsdayschi"                               |
-| `description`    | String | No       | Overall description of your event. Quotation marks need to be escaped.                                | "It's time for more DevOpsDays at Ponyville!" |
-| `ga_tracking_id` | String | No       | If you have your own Google Analytics tracking ID, enter it here.                                     | "UA-74738648-1"                               |
-| `gtm_tracking_id` | String | No       | If you have your own Google Analytics v4 tracking ID, enter it here.                                     | "G-NCBC4PBEMK"                               |
-| `speakers_verbose` | String | No     | Set this to "true" if you want verbose speaker attributes (URLs visible).                             | "true"                                        |
-| `cancel`       | String     | No       | If your event must be cancelled, add this field with the value of "true" (case-sensitive). This will keep it from being listed in the "upcoming events" views.                                                                                         | "true"  |                                                                                   |
+| Field Name         | Type   | Required | Description                                                                                           | Example                                       |
+|--------------------|--------|----------|-------------------------------------------------------------------------------------------------------|-----------------------------------------------|
+| `name`             | String | Yes      | The name of the event. Four digit year with the city name in lower-case, with no spaces.              | "2017-chicago"                                |
+| `year`             | String | Yes      | The year of the event. Make sure it is in quotes.                                                     | "2017"                                        |
+| `city`             | String | Yes      | The displayed city name of the event. Capitalize it.                                                  | "Salt Lake City"                              |
+| `description`      | String | No       | Overall description of your event. Quotation marks need to be escaped.                                | "It's time for more DevOpsDays at Ponyville!" |
+| `ga_tracking_id`   | String | No       | If you have your own Google Analytics tracking ID, enter it here.                                     | "UA-74738648-1"                               |
+| `gtm_tracking_id`  | String | No       | If you have your own Google Analytics v4 tracking ID, enter it here.                                  | "G-NCBC4PBEMK"                                |
+| `event_group`      | String | No       | If you'd like to group different events together (ie, "australia"), set them to the same "event_group"| "ponyville"                                   |
+| `speakers_verbose` | String | No       | Set this to "true" if you want verbose speaker attributes (URLs visible).                             | "true"                                        |
+| `cancel`           | String | No       | If your event must be cancelled, add this field with the value of "true" (case-sensitive). This will keep it from being listed in the "upcoming events" views. | "true"  |      
 
 ### Date-related Fields
 All dates are in unquoted YYYY-MM-DD, like this: `variable: 2016-01-05`, or like `variable: 2016-01-05T23:59:00-06:00`
 
-| Field Name              | Type       | Required | Description                                                                                                                                                                                                                   | Example                                               |
-|-------------------------|------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|
-| `startdate`               | YYYY-MM-DD | No       | The start date of your event. Leave blank if you don't have a venue reserved yet.                                                                                                                                             | 2016-01-05                                            |
-| `enddate`                 | YYYY-MM-DD | No       | The end date of your event. Leave blank if you don't have a venue reserved yet.                                                                                                                                               | 2016-01-05                                            |
-| `cfp_date_start`          | YYYY-MM-DD | No       | The date you will start accepting talk proposals. Can be a blank value.                                                                                                                                                       | 2016-01-05                                            |
-| `cfp_date_end`            | YYYY-MM-DD | No       | The date you will close your call for proposals. Can be a blank value. If you set the full datetime string with correct TZ, CFP will display as open until local close time.                                                  | 2016-01-05T23:59:00-06:00                             |
-| `cfp_date_announce`       | YYYY-MM-DD | No       | The date you will inform proposers of status. Can be a blank value.                                                                                                                                                           | 2016-01-05                                            |
-| `cfp_open`                | String     | No       | Either "true" or "false". Can be blank. This controls whether or not the "propose" button shows on your event page. *Deprecated field; if you have set `cfp_date_start` and `cfp_date_end` they will serve the same purpose.* | "true"                                                |
-| `cfp_link`                | String     | No       | If you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.                                                                                     | "https://myurlhere" - reference it like "{{< event_link url-key="cfp_link" text="Propose a talk!" >}}" |
-| `registration_date_start` | YYYY-MM-DD | No       | The date you will start accepting registration. If this is set, will make the "Register" button appear on the event's "Welcome" page. Can be a blank value.                                                                                                                                                         | 2016-01-05                                            |
-| `registration_date_end`   | YYYY-MM-DD | No       | The date you will close registration. Controls the appearance of the "Register" button on the "Welcome" page. If you set `registration_date_start` you must set `registration_date_end`. Can be a blank value (unless `registration_date_start` has been set).                                                                                                                                                                   | 2016-01-05                                            |
-| `registration_closed`     | String     | No       | Set this to "true" if you need to manually close registration before your registration end date.                                                                                                                              | "true"                                                |
-| `registration_link`       | String     | No       | If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.                                                                                         | "https://myurlhere" reference it like {{< event_link url-key="registration_link" text="Register to attend the conference!" >}} |                                                                                   |
-| `sponsor_link`       | String     | No       | If you have a custom sponsorship link, enter it here. This will control the "Become an X Sponsor!" links. It does NOT change the "Sponsor" button.                                                                                         | "https://myurlhere"  |                                                                                   |
+| Field Name                   | Type       | Required | Description                                                                                                                                                                                                                   | Example                                               |
+|------------------------------|------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|
+| `startdate`                  | YYYY-MM-DD | No       | The start date of your event. Leave blank if you don't have a venue reserved yet.                                                                                                                                             | 2016-01-05                                            |
+| `enddate`                    | YYYY-MM-DD | No       | The end date of your event. Leave blank if you don't have a venue reserved yet.                                                                                                                                               | 2016-01-05                                            |
+| `timeoffset`                 | +/-HHMM    | No       | The offset of the timezone of your event from UTC                                                                                                                                                                             | "-0600"                                               |
+| `timezone`                   | String     | No       | The timezone of the event [https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)                                                              | "Europe/London"                                       |
+| `cfp_date_start`             | YYYY-MM-DD | No       | The date you will start accepting talk proposals. Can be a blank value.                                                                                                                                                       | 2016-01-05                                            |
+| `cfp_date_end`               | YYYY-MM-DD | No       | The date you will close your call for proposals. Can be a blank value. If you set the full datetime string with correct TZ, CFP will display as open until local close time.                                                  | 2016-01-05T23:59:00-06:00                             |
+| `cfp_date_announce`          | YYYY-MM-DD | No       | The date you will inform proposers of status. Can be a blank value.                                                                                                                                                           | 2016-01-05                                            |
+| `cfp_open`                   | String     | No       | Either "true" or "false". Can be blank. This controls whether or not the "propose" button shows on your event page. *Deprecated field; if you have set `cfp_date_start` and `cfp_date_end` they will serve the same purpose.* | "true"                                                |
+| `cfp_link`                   | String     | No       | If you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.                                                                                     | "https://myurlhere" - reference it like "{{< event_link url-key="cfp_link" text="Propose a talk!" >}}" |
+| `registration_date_start`    | YYYY-MM-DD | No       | The date you will start accepting registration. If this is set, will make the "Register" button appear on the event's "Welcome" page. Can be a blank value.                                                                   | 2016-01-05                                            |
+| `registration_date_end`      | YYYY-MM-DD | No       | The date you will close registration. Controls the appearance of the "Register" button on the "Welcome" page. If you set `registration_date_start` you must set `registration_date_end`. Can be a blank value (unless `registration_date_start` has been set).                                                                                                                                                                   | 2016-01-05                                            |
+| `registration_closed`        | String     | No       | Set this to "true" if you need to manually close registration before your registration end date.                                                                                                                              | "true"                                                |
+| `registration_link`          | String     | No       | If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.                                                                                         | "https://myurlhere" reference it like {{< event_link url-key="registration_link" text="Register to attend the conference!" >}} |                                                                                   |
+| `sponsor_link`               | String     | No       | If you have a custom sponsorship link, enter it here. This will control the "Become an X Sponsor!" links. It does NOT change the "Sponsor" button.                                                                            | "https://myurlhere"  |                                                                                   |
+
+### Social Fields
+| Field Name              | Type   | Required | Description                                                                                           | Example                                              |
+|-------------------------|--------|----------|-------------------------------------------------------------------------------------------------------|------------------------------------------------------|
+| `event_social_twitter`  | String | No       | The twitter handle for your event such as "devopsdayschi" or "devopsdaysmsp". Exclude the "@" symbol. | "devopsdaysrox"                                      |
+| `event_social_linkedin` | String | No       | The direct URL to your linkedin event or group/company page.                                          | "https://www.linkedin.com/company/devopsdaysrox"     |
+| `event_social_youtube`  | String | No       | The Youtube handle for your event such as "devopsdaysrox" or "devopsdayschi". Exclude the "@" symbol. | "devopsdaysrox"                                      |
+| `event_social_bsky`     | String | No       | The BlueSky direct URL for your event/group profile. Can link to a custom server.                     | "https://bsky.app/profile/dodrox.bsky.social"        |
+| `event_social_mastodon` | String | No       | The Mastodon direct URL for your event/group profile. Can link to a custom server.                    | "https://mastodon.social/@dodrox"                    |
+| `event_social_slack`    | String | No       | The invite URL to your slack workspace.                                                               | "https://join.slack.com/t/dodrox/shared_invite/xyz"  |
+| `event_social_listserv` | String | No       | The URL to subscribe to your group mailing list.                                                      | "https://lists.devopsdays.org/subscription?f=xyz".   |
+| `event_twitter`         | String | No       | Legacy field for the twitter handle. Exclude the "@" symbol. Kept for backward support.               | "devopsdayschi"                                      |
 
 ### Branding Fields
 
@@ -86,9 +103,9 @@ All dates are in unquoted YYYY-MM-DD, like this: `variable: 2016-01-05`, or like
 
 | Field Name         | Type   | Required | Description                                                                                                                                     | Example                                         |
 |--------------------|--------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
-| `coordinates`      | String | Yes      | The coordinates of your city. [Get Latitude and Longitude of a Point](http://itouchmap.com/latlong.html). Required to display event on the map. | "41.882219, -87.640530"                         |
+| ~~`coordinates`~~      | String | Yes      | The coordinates of your city. [Get Latitude and Longitude of a Point](http://itouchmap.com/latlong.html). DEPRECATED. | "41.882219, -87.640530"                         |
 | `location`         | String | Yes      | The generator scripts will default to the value of `City`, but you can make it the venue name.                                                  | "Chicago Mart West"                             |
-| `location_address` | String | No       | Use the street address of your venue. This will show up on the welcome page if set.                                                             | "350 West Mart Center Drive, Chicago, IL 60654" |
+| `location_address` | String | No       | Use the street address of your venue. This will show up on the welcome page if set. Also used by the `event_map` shortcode.                                              | "350 West Mart Center Drive, Chicago, IL 60654" |
 
 ### Navigation Fields
 These fields are used to control the navigation elements (menu) of your event's page. The syntax for navigation is thus:
@@ -144,6 +161,7 @@ Each team member is an element of `team_members`.
 | `linkedin` | String | No       | The full URL to the person's LinkedIn page                                                                                                                 | "https://www.linkedin.com/in/sallyfields"                                                                                                                                                                                                                                                                           |
 | `website`  | String | No       | The full URL to the person's webpage                                                                                                                       | "https://mattstratton.com"                                                                                                                                                                                                                                                                                          |
 | `mastodon` | String | No       | The full URL to the person's Mastodon profile                                                                                                                       | "https://hachyderm.io/@mattstratton"                                                                                                                                                                                                                                                                                          |
+| `bluesky` | String | No       | The full URL to the person's Bluesky profile                                                                                                                       | "https://bsky.app/profile/matty.wtf"                                                                                                                                                                                                                                                                                          |
 | `image`    | String | No       | The name of the image for this user, located in `static/events/YYYY-CITY/organizers/`. This image must be a JPEG, and should be either 300px square or (optimally) 600px square. | "sally-fields.jpg"                                                                                                                                                                                                                                                                                                  |
 | `bio`      | String | No       | The bio for the user. Markdown is supported. Quotation marks must be escaped.                                                                              | "Thought leader paradigm affordances physical computing quantitative vs. qualitative disrupt thought leader disrupt. Venture capital Steve Jobs pitch deck moleskine sticky note agile Steve Jobs pivot disrupt grok driven. Human-centered design bootstrapping agile driven grok food-truck ship it long shadow." |
 
@@ -151,8 +169,8 @@ Each team member is an element of `team_members`.
 
 | Field Name         | Type   | Required | Description             | Example                                    |
 |--------------------|--------|----------|-------------------------|--------------------------------------------|
-| `organizer_email` | String | Yes      | Organizer email address | "organizers-ponyville-2017@devopsdays.org" |
-| `proposal_email`   | String | Yes      | Proposal email address  | "proposals-ponyville-2017@devopsdays.org"  |
+| `organizer_email` | String | Yes      | Organizer email address | "ponyville@devopsdays.org" |
+| `proposal_email`   | String | Yes      | Proposal email address  | "ponyville-proposals@devopsdays.org"  |
 
 ### Sponsor fields
 
@@ -165,9 +183,10 @@ Each team member is an element of `sponsors`.
 | `url`      | String | No       | Will override the URL specified in the sponsor file. Useful if you have event-specific URL's for a sponsor. | http://mysponsor.com/?campaign=me |
 
 
-| Field Name          | Type   | Required | Description                                                               | Example |
-|---------------------|--------|----------|---------------------------------------------------------------------------|---------|
-| `sponsors_accepted` | String | No       | Set this to "yes" if you would like the "become a sponsor" link to appear | "yes"   |
+| Field Name           | Type   | Required | Description                                                               | Example |
+|----------------------|--------|----------|---------------------------------------------------------------------------|---------|
+| `sponsors_accepted`  | String | No       | Set this to "yes" if you would like the "become a sponsor" link to appear | "yes"   |
+| `sponsors_showempty` | String | No       | Set this to "no" to hide the sponsor levels without a sponsor             | "no"    |
 
 #### Sponsor Levels
 
@@ -304,6 +323,7 @@ Pages of the type `speaker` have a few additional frontmatter elements available
 | `gitlab`   | No       | Speakers' GitLab username.                                                                                                                                                                                 | "mattstratton"                              |
 | `twitch`   | No       | Speakers' Twitch username.                                                                                                                                                                                 | "mattstratton"                              |
 | `mastodon`   | No       | Speakers' Mastodon URL username.                                                                                                                                                                                 | "https://hachyderm.io/@mattstratton"                              |
+| `bluesky`   | No       | Speakers' Bluesky profile.                                                                                                                                                                                 | "https://bsky.app/profile/matty.wtf"                              |
 | `image`    | No       | The image for the speaker. This image is relative to the `static/events/YYYY-CITY/speakers` directory. It can be either .png or .jpg. It is recommended to be 600px square.  | "matt-stratton.jpg"                         |
 
 ### Program Page Fields
@@ -410,3 +430,35 @@ Returns the end date of registration for your event
 ```
 {{< registration_end >}}
 ```
+### event_map
+If you have `location_address` set in your datafile, this will return a Google Map of that address. Takes two optional parameters (`height` and `width`) to set the dimensions of the map. Both parameters are optional. If not set, the map will default to 450px wide and 250px tall.
+```
+{{< event_map >}}
+```
+or
+```
+{{< event_map width = "600" height="500" >}}
+```
+
+### tix
+Embeds the DevOpsDays Pretix ticket and registration system
+This shortcode requires two parameters, city and year, where the city is typically the organiser city and the year the event year.
+Please note this may be differ, please check with in your Pretix for the two names.
+To enable the header text, add `info=show` to enable showing of the Event Info section.
+
+```
+{{< tix city="belgium" year="antwerp-2024" info="show">}}
+```
+
+### asset
+Create a links to a file or image from the DevOpsDays assset website.
+This shorcode requires the city name `city`, the year `year`, the name `name` being file or image and the link type, being `file` which creates a hyperlink or `image` which embeds the image on the page.
+
+```
+{{< asset year="2025" city="chicago" name="prospectus" file="2025-chicago-devopsdays-prospectus.pdf" >}}
+```
+
+```
+{{< asset year="2025" city="chicago" name="map layout" image="map.png" >}}
+```
+

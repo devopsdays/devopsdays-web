@@ -1,0 +1,234 @@
+name: "2024-brasilia" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2024" # The year of the event. Make sure it is in quotes.
+city: "Brasília" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaysbsb" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "DevOpsDays Brasília!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+event_logo: "logo.jpg"
+masthead_background: "background.jpg"
+
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2024-11-23T09:00:00-03:00
+enddate: 2024-11-23T19:00:00-03:00
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: "2024-08-01T00:00:00-03:00" #2019-09-17T00:09:00-03:00 # start accepting talk proposals.
+cfp_date_end: "2024-09-11T23:59:59-03:00" #2019-10-25T00:09:00-03:00 # close your call for proposals.
+cfp_date_announce: "" #2019-10-20T00:09:00-03:00 # inform proposers of status
+
+cfp_open: "true"
+cfp_link: "https://linktr.ee/devopsdaysbsb" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: 2024-07-11T00:00:00-03:00 #2022-10-01T00:09:00-03:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2024-11-23T14:00:00-03:00 #2022-10-31T00:09:00-03:00 # close registration. Leave blank if registration is not open yet.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://devopsdaysbrasilia.eventize.com.br/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Fenix Eventos" # Defaults to city, but you can make it the venue name.
+location_address: "Lotes 75, Brasília - DF, 70390-150" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  #   icon: "" deprecated - This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+  - name: local
+    url: /events/2024-brasilia/local
+  #  - name: inscricao
+  #    url: ""
+  - name: código de conduta
+    url: /events/2024-brasilia/conduct
+  - name: contato
+    url: /events/2024-brasilia/contact
+  - name: patrocinadores
+    url: /events/2024-brasilia/sponsor
+  - name: Programação
+    url: /events/2024-brasilia/program
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Ruan Oliveira"
+    employer: "Jack Experts"
+    image: "ruan.jpeg"
+    bio: "CTO na Jack Experts"
+    linkedin: "https://www.linkedin.com/in/ruan-sysadmin/"
+
+  - name: "Jorge Santana"
+    employer: "X-Via"
+    image: "jorge.jpeg"
+    twitter: "https://twitter.com/JorgeSantanaDev"
+    bio: "Desenvolvedor FullStack Senior - NodeJs/React/Angular"
+    linkedin: "https://www.linkedin.com/in/jorge-santana-developer"
+
+  - name: "Herberson Miranda"
+    employer: "Extreme Digital"
+    image: "herberson.jpg"
+    twitter: "https://twitter.com/_hsmiranda"
+    bio: "Software Architect - Java/Scala Developer - Cybersecurity - Sci-Fi - Heavy Metal - Trekking - BJJ - Airsoft"
+    linkedin: "https://www.linkedin.com/in/herberson/"
+
+  - name: "Jady Pâmella"
+    employer: "Banco BRB"
+    image: "jady.jpeg"
+    twitter: "https://twitter.com/jadypamella"
+    bio: "Gestora de TI no Banco BRB e mestranda em Cibersegurança com ênfase em Inteligência Artificial na Universidade de Brasília - UnB. Responsável pelo núcleo da esteira DevSecOps oficial do BRB."
+    linkedin: "https://www.linkedin.com/in/jadypamella/"
+
+  - name: "Alexandre Castro"
+    employer: "OceanPipeTech"
+    image: "alexandre.jpeg"
+    bio: "Founder of OceanPipeTech / DevOps / DataOps / SRE / Platform Engineer"
+    linkedin: "https://www.linkedin.com/in/alexandremjcastro/"
+
+  - name: "Marcus Castelar"
+    employer: "Globant"
+    image: "marcus.jpg"
+    bio: "DevOps | Cloud (Azure/AWS) | Kubernetes (CKAD/CKA) | SRE"
+    linkedin: "https://www.linkedin.com/in/marcusbrito/"
+
+  - name: "Wander Macedo da Silva"
+    employer: "G4F/Global Hitss"
+    image: "wander.jpg"
+    bio: "DevOps / Platform Engineers / Sysadmin "
+    linkedin: "https://www.linkedin.com/in/wander-macedo-da-silva-151271a2/"
+
+organizer_email: "brasilia@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: platinum
+    label: Platina
+    max: 6
+  - id: gold
+    label: Gold
+    max: 5
+  - id: silver
+    label: Silver
+    max: 5
+  - id: community
+    label: Bronze
+  - id: media
+    label: Media
+
+sponsors:
+  - id: jack-experts
+    level: platinum
+  - id: kubecareers
+    level: media
+  - id: kubeevents
+    level: media
+  - id: suse
+    level: community
+  - id: 4linux
+    level: silver
+  - id: linuxtips
+    level: silver
+  - id: pointer
+    level: gold
+  - id: hub-connect
+    level: community
+  - id: aws-user-group-brasilia
+    level: community
+program:
+  - title: "Credenciamento"
+    type: custom
+    date: 2024-11-23
+    start_time: "08:00"
+    end_time: "09:00"
+
+  - title: "Abertura"
+    type: custom
+    date: 2024-11-23
+    start_time: "09:00"
+    end_time: "09:30"
+    background-color: #93ff97
+
+  - title: "americo-junior"
+    type: talk
+    date: 2024-11-23
+    start_time: "09:30"
+    end_time: "10:00"
+
+  - title: "clayton-cavaleiro"
+    type: talk
+    date: 2024-11-23
+    start_time: "10:00"
+    end_time: "10:30"
+
+  - title: "Coffe Break"
+    type: custom
+    date: 2024-11-23
+    start_time: "10:30"
+    end_time: "11:10"
+
+  - title: "levi-leopoldino"
+    type: talk
+    date: 2024-11-23
+    start_time: "11:10"
+    end_time: "11:40"
+
+  - title: "joao-neto"
+    type: talk
+    date: 2024-11-23
+    start_time: "11:40"
+    end_time: "12:10"
+
+  - title: "Almoço"
+    type: custom
+    date: 2024-11-23
+    start_time: "12:10"
+    end_time: "13:40"
+
+  - title: "Open Space"
+    type: open-space
+    date: 2024-11-23
+    start_time: "13:40"
+    end_time: "14:30"
+
+  - title: "daniel-rodrigues"
+    type: talk
+    date: 2024-11-23
+    start_time: "14:30"
+    end_time: "15:00"
+
+  - title: "odilon-junior"
+    type: talk
+    date: 2024-11-23
+    start_time: "15:00"
+    end_time: "15:30"
+
+  - title: "Coffe Break"
+    type: custom
+    date: 2024-11-23
+    start_time: "15:30"
+    end_time: "16:10"
+
+  - title: "paulo-santiago"
+    type: talk
+    date: 2024-11-23
+    start_time: "16:10"
+    end_time: "16:40"
+
+  - title: "danilo-dorgam"
+    type: talk
+    date: 2024-11-23
+    start_time: "17:10"
+    end_time: "17:40"
+
+  - title: "Encerramento, sorteios e agradecimentos"
+    type: custom
+    date: 2024-11-23
+    start_time: "17:40"
+    end_time: "18:30"

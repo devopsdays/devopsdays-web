@@ -4,7 +4,7 @@ Type = "event"
 Description = "Sponsor devopsdays seattle 2024"
 +++
 
-We greatly value sponsors for this community event. If you are interested in sponsoring, please email us at <a href="mailto:seattle@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Seattle%202024">email</a> - you can view the different levels below, or download our <a href="https://assets.devopsdays.org/events/2024/seattle/DevOpsDays-Seattle-2024-Sponsorship-Prospectus.pdf">2024 prospectus</a> for the full details. The 2024 event will be held at the Seattle Convention Center on {{< event_start >}} - {{< event_end >}}.
+We greatly value sponsors for this community event. If you are interested in sponsoring, please email us at <a href="mailto:sponsors@dodseattle.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Seattle%202024">email</a> - you can view the different levels below, or download our <a href="https://assets.devopsdays.org/events/2024/seattle/DevOpsDays-Seattle-2024-Sponsorship-Prospectus.pdf">2024 prospectus</a> for the full details. The 2024 event will be held at the Seattle Convention Center on {{< event_start >}} - {{< event_end >}}.
 
 <hr>
 
@@ -21,7 +21,6 @@ The best thing to do is send engineers to interact with the experts at devopsday
   <thead>
     <tr>
       <th scope="col">THE GOODS</th>
-      <th scope="col">PLATINUM</th>
       <th scope="col">GOLD</th>
       <th scope="col">SILVER</th>
       <th scope="col">WIFI<br>PASSWORD</th>
@@ -33,7 +32,6 @@ The best thing to do is send engineers to interact with the experts at devopsday
   <tbody>
     <tr>
       <td>Price</td>
-      <td>$12,000</td>
       <td>$6,000</td>
       <td>$1,000</td>
       <td>$2,000</td>
@@ -43,7 +41,6 @@ The best thing to do is send engineers to interact with the experts at devopsday
     </tr>
     <tr>
       <td>Number available</td>
-      <td>2</td>
       <td>13</td>
       <td>30</td>
       <td>1</td>
@@ -59,11 +56,9 @@ The best thing to do is send engineers to interact with the experts at devopsday
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
-      <td>✅</td>
     </tr>
     <tr>
       <td>Social media shout-out</td>
-      <td>✅</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -78,12 +73,10 @@ The best thing to do is send engineers to interact with the experts at devopsday
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
-      <td>✅</td>
       <td>-</td>
     </tr>
     <tr>
       <td>Logo on participant emails</td>
-      <td>✅</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -95,7 +88,6 @@ The best thing to do is send engineers to interact with the experts at devopsday
       <td>Logo on Event Posters</td>
       <td>✅</td>
       <td>✅</td>
-      <td>✅</td>
       <td>-</td>
       <td>-</td>
       <td>-</td>
@@ -103,7 +95,6 @@ The best thing to do is send engineers to interact with the experts at devopsday
     </tr>
     <tr>
       <td>Stage time to pitch to audience at start of each day</td>
-      <td>5 mins</td>
       <td>1 min</td>
       <td>-</td>
       <td>-</td>
@@ -113,7 +104,6 @@ The best thing to do is send engineers to interact with the experts at devopsday
     </tr>
     <tr>
       <td>Stage time to pitch to audience before prizes</td>
-      <td>5 mins</td>
       <td>1 min</td>
       <td>-</td>
       <td>-</td>
@@ -123,7 +113,6 @@ The best thing to do is send engineers to interact with the experts at devopsday
     </tr>
     <tr>
       <td>6' Table in Expo hall</td>
-      <td>2</td>
       <td>1</td>
       <td>-</td>
       <td>-</td>
@@ -133,7 +122,6 @@ The best thing to do is send engineers to interact with the experts at devopsday
     </tr>
     <tr>
       <td>Tickets Included</td>
-      <td>6</td>
       <td>4</td>
       <td>2</td>
       <td>1</td>
@@ -201,7 +189,7 @@ The best thing to do is send engineers to interact with the experts at devopsday
           <br>
           <a href="mailto:seattle@devopsdays.org?subject=Interested%20in%20Sponsoring%20by%20other%20DevOpsDays%20Seattle%202024">Email us</a> if you prefer to pay by another method.
           <br>
-          <a href="mailto:seattle@devopsdays.org?subject=Interested%20in%20Community%20Sponsorship%20DevOpsDays%20Seattle%202022">Contact us</a>  if you have any other questions.
+          <a href="mailto:sponsors@dodseattle.org?subject=Interested%20in%20Community%20Sponsorship%20DevOpsDays%20Seattle%202022">Contact us</a>  if you have any other questions.
         </small>
       </td>
       <td></td>
@@ -218,4 +206,10 @@ The best thing to do is send engineers to interact with the experts at devopsday
   <br/>
   <b>All sponsors attendees must be registered to attend.</b> We offer sponsors 20% off all additional registrations.
   <br/>
+</div>
+</div>
+</div>
+
+</div>
+</div>
 </div>

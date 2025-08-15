@@ -42,15 +42,31 @@
   </div>
   <div class = "col-md-3 offset-md-1">
     {{- with .Params.image -}}
-      {{- if ne . "" -}}
+      {{- $assetsfolder := (printf "assets/events/") -}}
+      {{- if (where (readDir $assetsfolder) "Name" $e.name) -}}
+        {{- $assetspeakersfolder := (printf "assets/events/%s/speakers/" $e.name) -}}
+<!-- check if the speaker folder exists here -->
+        {{- if fileExists $assetspeakersfolder -}}
+          {{- if (where (readDir $assetspeakersfolder) "Name" .) -}}
+            {{- $imagelocation := (printf "events/%s/speakers/%s" $e.name .) -}}
+            {{- $imageresource := resources.Get $imagelocation -}}
+            {{- $imagefile := $imageresource.Fit "600x600 webp Lanczos q100" -}}
+            <img src = '{{ $imagefile.RelPermalink }}' class="img-fluid" alt="{{ $.Title }}"/><br />
+          {{- else -}}
+          <img src = '{{ (printf "/events/%s/speakers/%s" $e.name .) }}' class="img-fluid" alt="{{ $.Title }}"/><br />
+          {{- end -}}
+        {{- else -}}
+          <img src = '{{ (printf "/events/%s/speakers/%s" $e.name .) }}' class="img-fluid" alt="{{ $.Title }}"/><br />
+        {{- end -}}
+      {{- else if ne . "" -}}
         <img src = '{{ (printf "/events/%s/speakers/%s" $e.name .) }}' class="img-fluid" alt="{{ $.Title }}"/><br />
       {{- end -}}
-      {{- else -}}
+    {{- else -}}
         <img src = "/img/speaker-default.jpg" class="img-fluid" alt="{{ .Title }}"/><br />
     {{- end -}}
     {{- if isset .Params "twitter" -}}
       {{- if ne .Params.twitter "" -}}
-        <a href = "https://twitter.com/{{ .Params.twitter }}"><i class="fa fa-twitter fa-2x" aria-hidden="true"></i>
+        <a href = "https://twitter.com/{{ .Params.twitter }}"><i class="fa-brands fa-twitter fa-2x" aria-hidden="true"></i>
       {{- if $e.speakers_verbose -}}
         @{{ .Params.twitter }}<br />
       {{- end -}}
@@ -59,7 +75,7 @@
     {{- end -}}
     {{- if isset .Params "website" -}}
       {{- if ne .Params.website "" -}}
-        <a href = "{{ .Params.website }}"><i class="fa fa-home fa-2x" aria-hidden="true"></i>&nbsp;
+        <a href = "{{ .Params.website }}"><i class="fa-solid fa-house fa-2x" aria-hidden="true"></i>&nbsp;
       {{- if $e.speakers_verbose -}}
         {{ .Params.website }}<br />
       {{- end -}}
@@ -68,7 +84,7 @@
     {{- end -}}
     {{- if isset .Params "facebook" -}}
       {{- if ne .Params.facebook "" -}}
-        <a href = "{{ .Params.facebook }}"><i class="fa fa-facebook-official fa-2x" aria-hidden="true"></i>&nbsp;
+        <a href = "{{ .Params.facebook }}"><i class="fa-brands fa-facebook fa-2x" aria-hidden="true"></i>&nbsp;
       {{- if $e.speakers_verbose -}}
         {{ .Params.facebook }}<br />
       {{- end -}}
@@ -77,7 +93,7 @@
     {{- end -}}
     {{- if isset .Params "linkedin" -}}
       {{- if ne .Params.linkedin "" -}}
-        <a href = "{{ .Params.linkedin }}"><i class="fa fa-linkedin fa-2x" aria-hidden="true"></i>&nbsp;
+        <a href = "{{ .Params.linkedin }}"><i class="fa-brands fa-linkedin fa-2x" aria-hidden="true"></i>&nbsp;
       {{- if $e.speakers_verbose -}}
         {{ .Params.linkedin }}<br />
       {{- end -}}
@@ -86,7 +102,7 @@
     {{- end -}}
     {{- if isset .Params "github" -}}
       {{- if ne .Params.github "" -}}
-        <a href = "https://github.com/{{ .Params.github }}"><i class="fa fa-github fa-2x" aria-hidden="true"></i>&nbsp;
+        <a href = "https://github.com/{{ .Params.github }}"><i class="fa-brands fa-github fa-2x" aria-hidden="true"></i>&nbsp;
       {{- if $e.speakers_verbose -}}
         {{ .Params.github }}<br />
       {{- end -}}
@@ -95,7 +111,7 @@
     {{- end -}}
     {{- if isset .Params "pronouns" -}}
       {{- if ne .Params.pronouns "" -}}
-        <a href = "https://pronoun.is/{{ .Params.pronouns }}"><i class="fa fa-user fa-2x" aria-hidden="true"></i>&nbsp;
+        <a href = "https://pronoun.is/{{ .Params.pronouns }}"><i class="fa-solid fa-user fa-2x" aria-hidden="true"></i>&nbsp;
       {{- if $e.speakers_verbose -}}
         https://pronoun.is/{{ .Params.pronouns }}<br />
       {{- end -}}
@@ -104,7 +120,7 @@
     {{- end -}}
     {{- if isset .Params "twitch" -}}
       {{- if ne .Params.twitch "" -}}
-        <a href = "https://twitch.tv/{{ .Params.twitch }}"><i class="fa fa-twitch fa-2x" aria-hidden="true"></i>&nbsp;
+        <a href = "https://twitch.tv/{{ .Params.twitch }}"><i class="fa-brands fa-twitch fa-2x" aria-hidden="true"></i>&nbsp;
         {{- if $e.speakers_verbose -}}
           {{ .Params.twitch }}<br />
         {{- end -}}
@@ -112,14 +128,24 @@
       {{- end -}}
     {{- end -}}
     {{- if isset .Params "mastodon" -}}
-      {{- if ne .Params.twitch "" -}}
-        <a href = "{{ .Params.mastodon }}"><i class="fab fa-mastodon fa-2x" aria-hidden="true"></i>&nbsp;
+      {{- if ne .Params.mastodon "" -}}
+        <a href = "{{ .Params.mastodon }}"><i class="fa-brands fa-mastodon fa-2x" aria-hidden="true"></i>&nbsp;
           {{- if $e.speakers_verbose -}}
             {{ .Params.mastodon }}<br />
           {{- end -}}
         </a>
       {{- end -}}
     {{- end -}}
+
+    {{- if isset .Params "bluesky" -}}
+    {{- if ne .Params.bluesky "" -}}
+      <a href = "{{ .Params.bluesky }}"><i class="fa-brands fa-bluesky fa-2x" aria-hidden="true"></i>&nbsp;
+        {{- if $e.speakers_verbose -}}
+          {{ .Params.bluesky }}<br />
+        {{- end -}}
+      </a>
+    {{- end -}}
+  {{- end -}}
   </div>
 </div>
 {{ partial "sponsors.html" . }}

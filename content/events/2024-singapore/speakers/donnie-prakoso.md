@@ -3,7 +3,7 @@ Title = "Donnie Prakoso"
 Twitter = "donnieprakoso"
 Type = "speaker"
 Linkedin = "https://www.linkedin.com/in/donnieprakoso"
-Github = "https://github.com/donnieprakoso"
+Github = "donnieprakoso"
 image = "donnie-prakoso.jpg"
 sharing_image = "singapore2024.png"
 +++

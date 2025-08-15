@@ -14,8 +14,8 @@ startdate: 2019-05-02T00:01:00-05:00 # The start date of your event. Leave blank
 enddate: 2019-05-03T23:59:59-05:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  2019-01-01T00:00:00-06:00 # start accepting talk proposals.
-cfp_date_end:  2019-02-08T23:59:00-06:00 # close your call for proposals.
+cfp_date_start: 2019-01-01T00:00:00-06:00 # start accepting talk proposals.
+cfp_date_end: 2019-02-08T23:59:00-06:00 # close your call for proposals.
 # this should be the date you plan to announce your completed program
 #cfp_date_announce:  2018-12-30T00:00:00-06:00 # inform proposers of status
 
@@ -39,7 +39,7 @@ location_address: "730 3rd St, Des Moines, IA 50309" #Optional - use the street 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location
   - name: registration
-#  - name: propose
+  #  - name: propose
   - name: program
   - name: speakers
   - name: sponsor
@@ -48,7 +48,6 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #  - name: example
 #    icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #    url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
-
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
@@ -90,7 +89,7 @@ proposal_email: "proposals-des-moines-2019@devopsdays.org" # Put your proposal e
 sponsors:
   - id: ahead-before-20220407
     level: gold
-  - id: cyberark
+  - id: cyberark-conjur
     level: gold
   - id: dynatrace
     level: gold
@@ -113,13 +112,13 @@ sponsors:
   - id: sourceallies
     level: social
   - id: aureon
-    level: lanyard 
+    level: lanyard
   - id: oreilly-before-20190725
     level: community
   - id: sidegarage
-    level: community    
+    level: community
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -134,7 +133,7 @@ sponsor_levels:
     max: 1
   - id: lanyard
     label: Lanyard
-    max: 1  
+    max: 1
   - id: community
     label: Community
 

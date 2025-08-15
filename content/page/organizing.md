@@ -67,11 +67,11 @@ A well-defined Code of Conduct (CoC) is essential for every event. It sets the b
 The code of conduct must include the following:
 
 - **Establish Reporting Mechanisms**: Clearly define how attendees can report any CoC violations. Offer multiple reporting avenues.
-  
+
 - **Train Staff and Volunteers**: Ensure your staff and volunteers are well-versed with the CoC and understand how to handle potential violations.
-  
+
 - **Swift Action**: In case of a reported violation, take prompt action. This might involve removing the offender from the event or involving law enforcement in severe cases.
-  
+
 - **Post-Event Review**: After the event, review any CoC violations and assess how they were handled. This review can provide insights for future events.
 
 ---
@@ -87,23 +87,25 @@ The code of conduct must include the following:
 * **T-9 Months to Event:** Confirm organizers
   - Why: Start formulating and start [distributing the work](#distributing-the-work)
 * **T-8 Months to Event:** Start org dinner
-  - Why: "Breaking bread" with your fellow organizers is a good way to kick things off. Organizing will have its ups and downs, start it off strong. 
+  - Why: "Breaking bread" with your fellow organizers is a good way to kick things off. Organizing will have its ups and downs, start it off strong.
 * **T-8 Months to Event:** Ensure sponsor prospectus goes out.
   - Why: Sponsors, especially larger companies, lock in budgets the financial year prior. It is best to get on their radar now instead of after your program has gone live. See [Finding & Handling Sponsors](#findinghandling-sponsors) for more information.
 * **T-7.5 Months to Event:** Ensure CFP goes out
   - Why: If you're trying to draw in the most content possible, having your CFP open for maximum duration draws the most abstracts. It allows your team to also set a good program. See [Call for Proposals](#call-for-proposals) for more information.
 * **T-7.5 Months to Event:** Kick off semimonthly meetings
-  - Why: It is good to establish a healthy cadence with check-in points and being able to get visibility on how ticket, sponsorship and submissions are going. 
+  - Why: It is good to establish a healthy cadence with check-in points and being able to get visibility on how ticket, sponsorship and submissions are going.
 * **T-7 Months to Event:** Ensure marketing is off and running
   - Why: Marketing is tricky, especially as a new event in a world where social media is quickly changing. Be sure to check out the [Visibility](#visibility) section for some tips and tricks.
 * **T-6.5 Months to Event:** Ensure registration opens
   - Why: The more time the registration is open, the more potential visibility it gets. Be sure to checkout the [Setting Up Registration](#setting-up-registration) section for more information.
+* **T-5 months before Event:** Contribute "sustainability donation"
+  - Why: Once you have started selling tickets, you should have the liquidity to make this donation, to [help devopsdays itself continue to operate](#sustainability-donation).
 * **T-4.5 months before Event:** Initiate voting of submissions with the organizers
-  - Why: Certain speakers submit to multiple events, require notice to their employers and/or require (international) travel. Getting voting done, on time, and in advance, allows those individuals to arrange the needful. Visit [Setting Your Program](#setting-your-program) for more information. 
+  - Why: Certain speakers submit to multiple events, require notice to their employers and/or require (international) travel. Getting voting done, on time, and in advance, allows those individuals to arrange the needful. Visit [Setting Your Program](#setting-your-program) for more information.
 * **T-3.5 months before Event:** Launch the program
-  - Why: Your program absolutely drives [visibility](#visibility) of your event. Your speakers can help market the event and at the same time would-be buyers might be waiting on your program before purchasing a ticket. 
+  - Why: Your program absolutely drives [visibility](#visibility) of your event. Your speakers can help market the event and at the same time would-be buyers might be waiting on your program before purchasing a ticket.
 * **T-3.5 months before Event:** Ensure early bird closes
-  - Why: Often paired with launching the program, you should close early bird. Reward those that made an investment to purchase a ticket to an event without a program and encourage your population next year to do the same. 
+  - Why: Often paired with launching the program, you should close early bird. Reward those that made an investment to purchase a ticket to an event without a program and encourage your population next year to do the same.
 * **One Month before Event:** Check on volunteers
   - Why: The team has been organizing, but you might need day of volunteers to help out. Check with your friends, family, colleagues, meetup participants, etc to see who can help in exchange for access to the event.
 * **Month of Event:** Host
@@ -118,6 +120,7 @@ Part of organizing the event is handling of the local event's money. This will b
 - **Sponsorship**: Invoicing sponsors and processing their payments.
 - **Registrations**: Collecting payments from attendees and, if required, issuing official invoices.
 - **Expenses**: Paying for services such as venue booking, catering, merchandise, and more.
+- **Sustainability Donation**: The donation back to devopsdays to help pay for community infrastructure, and more.
 
 You cannot announce a date until you know you have a way to handle money. Realizing too late that you cannot process money has led to rescheduled or canceled events in the past.
 
@@ -141,16 +144,16 @@ To make invoicing smooth, it helps to use that company's paypal account for regi
 Now that you have assembled your team, the next step is choosing a date. We usually take the following into consideration to find a good date:
 
 - **Avoid Overlapping with Other DevOpsDays**: Ensure your event doesn't coincide with other DevOpsDays, especially those nearby. Think of it as load balancing. Check the [devopsdays.org](/) homepage for scheduled DevOpsDays events.
-  
+
 - **Local Event Conflicts**: Be mindful of other significant local events. Concurrent events could adversely impact your attendance.
-  
+
 - **Piggybacking Strategy**: Consider scheduling your event immediately before or after another major event. Attendees already in the area might find it convenient to attend another related conference.
-  
+
 - **Industry Calendar**: Keep track of major industry events. This helps in avoiding clashes and ensures you can attract the speakers and sponsors you desire.
 
 - **Get Options**: Look at a few two-day choices you can accept. When talking to a venue, you might find that they can accommodate you better during some parts of the week than others. Sometimes they may be fully booked a given week, but available the next.
 
-- **Avoid the weekend**: DevOps is part of people's work life, and the weekends are typically used for refreshing energy with family. We recommend choosing weekdays. 
+- **Avoid the weekend**: DevOps is part of people's work life, and the weekends are typically used for refreshing energy with family. We recommend choosing weekdays.
 
 - **Venue and Financial Readiness**: Before announcing a date, ensure you have secured a venue and have a system in place to handle finances.
 
@@ -165,7 +168,7 @@ Categories to consider:
 ### Income Categories:
 
 - **Sponsors**: Sponsorships can constitute a significant portion of your income—potentially up to 75%, depending on the sponsorship levels you establish.
-  
+
 - **Registrations**: Price your registrations to cover the per-attendee costs. Remember, this is a primary source of event revenue.
 
 ### Expense Categories:
@@ -180,6 +183,7 @@ Categories to consider:
 - **Signage**: Directional and informational signs for the event.
 - **Speaker Expenses**: Hosting a speakers' dinner and small appreciation gifts.
 - **Administrative Costs**: Insurance, taxes, and payment for accounting services.
+- **Sustainability Donation**: Cost of a full price ticket.
 
 **Important Reminder:** As you've seen in the [rules](#essential-rules-for-organizing) above, these events are not intended for individual or corporate profit. This includes unnecessary high personal expenditures for the benefit of organizers. We can't give precise numbers as to what qualifies as large amounts, since that would vary widely. Consider typical appropriate pricing for your region, and determine if you would find it to be unusually expensive.
 
@@ -206,6 +210,61 @@ With all of these expenses, your event will likely be handling a lot of money. A
 First, a recommendation: Have a tiered budget for a Good, Better, Best. A Good version of your conference has the bare minimum. Maybe you don’t have food and send people out for a long lunch break, saving money on the food portion. Maybe you don’t do swag, or have pared-down badges. Whatever is a minimum viable event for you, have that planned. Then have a Better version that costs a bit more but has those nice to haves. Then have a Best version where you can add the fun things that make your event unique (e.g., a few years in Austin had a mariachi band come in for lunch) and start handing away tickets for free.
 
 However you set up that tiered system for your event, have some go/no-go dates in mind for deciding when you can do each one. A Good vs Better event call might come in the month leading up to your event when you evaluate how much sponsorship money you have gotten in. This is why we say 80%+ of your event budget should come from sponsorship funds! If you set yourself up this way, you know you can put on a good event for the community regardless of how many people actually come, avoiding the need to cancel. Some cities might not have the luxury of having a Good version that is doable because all of the event venues are huge and require food and beverage contracts, for example, but if you can do it, do so.
+
+---
+
+## Sustainability Donation
+
+🆕 New in 2025
+
+The management and operations of the DevOpsDays infrastructure has always been, and will continue to be, run on a volunteer basis. The services that provide this infrastructure, however, are not free. While we have benefitted from punctual donations and free tiers of services over the years, the reality is that this model is not sustainable. In order to promote a sustainable funding model, and to ensure the continuity of the DevOpsDays global community, as of 1 January 2025, we are introducing a modest event fee: each time you run an event (generally once per year), you donate the equivalent of at least **one full price attendee ticket to your event** to the global DevOpsDays organisation (though you may choose to donate more, if you want). 
+
+We expect that this donation will be made **on or around when you announce your ticket prices, as then you will know the amount**. This may also be around when your tickets go on sale, and you start receiving funds that can then be paid out to vendors, etc.
+
+This will help us pay for the following: 
+ * Cloud hosting for our conference services, including the content and ticketing management platforms, as well as the password manager
+ * Cloud hosting for our Mastodon instance, social.devopsdays.org
+ * Domain name registration for devopsdays.org
+ * Google Workspace for devopsdays.org for the event mailing lists and backend management
+
+We will continue to provide all of these tools and services to the entire DevOpsDays community. By accepting donations in this fashion, we can ensure a healthy future for events around the world, regardless of their location or situation.
+
+Currently, we have the means and logistics in place to handle financial transactions in USD in the United States of America via ConferenceOps, and in official European currencies within the European Union via the Stichting DevOps Foundation. For this reason, we will be asking DevOpsDays events in those regions to participate in this sustainability programme from 1 January 2025. Events in other regions will be onboarded as we build out our capacity to manage them. 
+
+ * ConferenceOps: email Laura Wickett ([laura@conferenceops.com](laura@conferenceops.com)) for banking details
+ * Stichting DevOps Foundation [banking details](https://devops.foundation/)
+
+
+### Sustainability Donation FAQs
+
+Q: Our location doesn’t use USD or a European currency—what do we do?<br>
+A: For now, nothing. We’ll contact events individually as we build out our capacity to accept worldwide currencies.
+
+Q: Our event doesn’t charge for tickets—how much should we contribute?<br>
+A: If the full ticket price is zero, then your donation is technically also zero; you may donate another amount if you want to.
+
+Q: Our event is co-located and we don’t sell tickets directly—does this apply to us?<br>
+A: If your event is ticketed, and the ticket costs money, then yes, this new policy does apply to you.
+
+Q: What happens if we can’t afford to contribute the event fee?<br>
+A: Then the cost of your event is prohibitively expensive for attendees too, and should be lowered to a reasonable amount.
+
+Q: What if we don't use the conference services?<br>
+A: At a minimum, your event uses the mailing lists, web hosting, and DNS by default.
+
+Q: What if we don't work with ConferenceOps or Stichting DevOps Foundation?<br>
+A: That’s fine—beyond this one instance, you don’t need to have any other interaction with either of these entities.
+
+Q: Concretely, when should the event fee be contributed?<br>
+A: At any point between the day when tickets become available and the first day of your event.
+
+Q: What happens if we cancel our event but we’ve already sent the contribution?<br>
+A: The contribution will be put towards your next event. Under exceptional circumstances, and on a case-by-case basis, we can arrange for the contribution to be refunded.
+
+Q: I have another question and/or comment!<br>
+A: Please get in touch via [info@devopsdays.org](mailto:info@devopsdays.org) or reach out on the organiser Slack.
+
+
 
 ---
 
@@ -254,12 +313,12 @@ The DevOpsDays logo, characterized by gears in the brain, has become an emblemat
 ### Inspiration from Past Logos:
 
 - [Seattle 2016](https://www.devopsdays.org/events/2016-seattle/logo.png): Features the iconic needle using the gears set against a backdrop of mountains.
-  
+
 - [Chicago 2016](https://www.devopsdays.org/events/2016-chicago/logo.png): A local twist on the gears in the brain.
-  
+
 - [Cape Town 2016](https://www.devopsdays.org/events/2016-capetown/logo.png): Incorporates the distinctive Table Mountain skyline with the gears.
 
-- [Amsterdam 2022](https://devopsdays.org/events/2022-amsterdam/logo.png): Incorporates the venue that the conference has used for all of the editions with the gears in the background. 
+- [Amsterdam 2022](https://devopsdays.org/events/2022-amsterdam/logo.png): Incorporates the venue that the conference has used for all of the editions with the gears in the background.
 
 ### Design Exercise:
 
@@ -306,23 +365,26 @@ With the dispersal of tech communities from Twitter, a lot of community events a
 Effective delegation is key to ensuring the smooth organization of your event. It's advisable to divide responsibilities among your organizing team to allow focused attention on different tasks. While the following distribution is a suggestion and not prescriptive, it can provide a starting point:
 
 - **Talk Proposals**: Assign a person or a pair to manage and review talk submissions.
-  
+
 - **Ignite Proposals**: Delegate someone to handle ignite talk submissions.
-  
+
 - **Website Updates**: Designate a person or a pair to maintain and update the event's website.
 
 - **Speakers**: Designate a person or pair to handle all speaker communications, so speakers have a clear point of contact ensuring that all their details are in place.
 
 - **Sponsorships**: Assign responsibilities for liaising with sponsors, managing agreements, and ensuring deliverables.
-  
+
 - **Registration & Invoicing**: Designate someone to oversee attendee registrations, handle invoicing, and respond to related queries.
-  
+
 - **Venue & Local Logistics**: This includes managing the venue, catering, local arrangements, and hotel bookings.
-  
+
 - **Merchandise**: Assign a person or a pair to handle merchandise, such as t-shirts.
-  
+
 - **Evening Event Logistics**: Delegate responsibilities for organizing any evening activities or gatherings.
 
+Along with all of these tasks and responsibilities, you'll have to also manage lots of different usernames and passwords for various vendor sites, social media accounts, and so forth. You'll need a way to store all of this securely, centrally, and sanely.
+
+💡 **Vaultwarden** is an open source credential storage platform that can store usernames, passwords, MFA tokens, and so forth. It's compatible with the free-to-use family of [Bitwarden clients](https://bitwarden.com/download/) (available for every device). The core organizers run an instance of Vaultwarden that is made _freely available_ to the DevOpsDays organizer community. If you're interested in setting up a secure, shared vault for your event, reach out in `#conference-services` on the global DevOpsDays Slack.
 
 ---
 
@@ -341,9 +403,9 @@ Set an official theme if one beyond "devops" is desired. Within the context of t
 
 Events usually have 4 30-min talks per day + ignite talks. Open space sessions are scheduled during the conference, not ahead of time.
 
-For people to respond to the call for proposals you can use your city@devopsdays.org address, a web form, a third-party CFP tool, etc. 
+For people to respond to the call for proposals you can use your city@devopsdays.org address, a web form, a third-party CFP tool, etc.
 
-💡 **Pretalx** is an open source event management platform that handles the CFP, review & talk selection, scheduling, and more. The core organizers run an instance of [Pretalx](https://talks.devopsdays.org) that is made _freely available_ to the DevOpsDays community. You're under no obligation to use it—but you can if you want to! Please visit `#conference-services` on the global DevOpsDays Slack for more information. 
+💡 **Pretalx** is an open source event management platform that handles the CFP, review & talk selection, scheduling, and more. The core organizers run an instance of [Pretalx](https://talks.devopsdays.org) that is made _freely available_ to the DevOpsDays community. You're under no obligation to use it—but you can if you want to! Please visit `#conference-services` on the global DevOpsDays Slack for more information.
 
 Keep in mind that under-represented people in tech are much less likely to respond to your CFP. If you would like to encourage diverse viewpoints from voices other than those you hear the most often, you will need to reach out into those communities and encourage participation.
 
@@ -454,7 +516,7 @@ Remember that the goal is building and maintaining a community, so as long as th
 
 ### Free registration
 
-There are some tradeoffs for free tickets. If you offer a lot of them or offer at random, understand that your actual attendance rate (i.e., checked-in people vs tickets sold) will be lower than if people pay for them. 
+There are some tradeoffs for free tickets. If you offer a lot of them or offer at random, understand that your actual attendance rate (i.e., checked-in people vs tickets sold) will be lower than if people pay for them.
 
 We do not recommend making your event free. Experience has taught us that 'free' events come with a cost:
 
@@ -533,14 +595,14 @@ If you’re struggling to sell tickets, try some of the following ideas:
 
 ## Setting up registration
 
-Once pricing has been decided you're ready to set up registration. 
+Once pricing has been decided you're ready to set up registration.
 
-💡 **Pretix** is an open source ticketing and payment management platform that handles registrations, issuing tickets, waitlists, and more. The core organizers make a [Pretix instance](https://tickets.devopsdays.org) freely available to the DevOpsDays community. You're under no obligation to use it—but you can if you want to! Please visit `#conference-services` on the DevOpsDays Slack. 
+💡 **Pretix** is an open source ticketing and payment management platform that handles registrations, issuing tickets, waitlists, and more. The core organizers make a [Pretix instance](https://tickets.devopsdays.org) freely available to the DevOpsDays community. You're under no obligation to use it—but you can if you want to! Please visit `#conference-services` on the DevOpsDays Slack.
 
 Alternatively, event organizers have had good experiences with [Eventbrite](http://www.eventbrite.com) integrated with [PayPal](http://paypal.com) payments. The Paypal account for payment needs to be linked directly to the company that does the invoicing.
 (Note: if using Eventbrite, use Paypal, not "Eventbrite payment processing", or configure Eventbrite to disperse funds frequently so you don't have to wait until after your event.)
 
-When setting up an event please consider the following: 
+When setting up an event please consider the following:
 
 - require information for each attendee (rather than for the buyer only)
 - ask for employer name (optional) if people want it printed on their badge
@@ -609,9 +671,9 @@ You may also want to order stickers or other items. Give yourself plenty of lead
 ### Swag vendor recommendations
 Below are some *personal* vendor recommendations based on good past experience.
 
-**T-shirts, hats, jackets etc.**: https://www.lock-promo.com/. Good quality, reliable delivery, very affordable. Used in: Chicago, Seattle 
+**T-shirts, hats, jackets etc.**: https://www.lock-promo.com/. Good quality, reliable delivery, very affordable. Used in: Chicago, Seattle
 
-**Stickers and other printed materials**: https://www.minutemanpress.com/. Good quality, affordable pricing, VERY quick turnaround. Used in: Chicago, Seattle 
+**Stickers and other printed materials**: https://www.minutemanpress.com/. Good quality, affordable pricing, VERY quick turnaround. Used in: Chicago, Seattle
 
 ---
 
@@ -711,6 +773,8 @@ Running Ignites can be a challenge: people tend to submit them last minute, or t
   - or even build all slides in Slidedeck and build in a bio slide as a interludium and have that autoadvance as well
 
 [Ignite format page](/ignite-talks-format/)
+
+If you're looking for a way to fill in for more ignites (i.e. pad the schedule), or just to have some fun, "Ignite Karaoke" is a great way to engage with your audience. The idea is straightforward: one minute per participant, four slides of 15 seconds each, where each slide has a title and a "funny" picture. It's great for some laughs and engagement—people really enjoy it! JJ Asghar maintains a tool to help create these slides if you want to experiment with this fun ignite format: [GitHub repo](https://github.com/jjasghar/ignite_karaoke)
 
 ---
 

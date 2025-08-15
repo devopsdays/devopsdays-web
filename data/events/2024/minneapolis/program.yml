@@ -1,0 +1,160 @@
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2024-08-06T00:00:00-05:00
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2024-08-06T00:00:00-05:00
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "ian-coldwater"
+    type: talk
+    date: 2024-08-06T00:00:00-05:00
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2024-08-06T00:00:00-05:00
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: "jam-leomi"
+    type: talk
+    date: 2024-08-06T00:00:00-05:00
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Break"
+    type: custom
+    date: 2024-08-06T00:00:00-05:00
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "shilad-sen-susan-fox"
+    type: talk
+    date: 2024-08-06T00:00:00-05:00
+    start_time: "11:00"
+    end_time: "11:45"
+  - title: "Lunch"
+    type: custom
+    date: 2024-08-06T00:00:00-05:00
+    start_time: "11:50"
+    end_time: "13:00"
+
+  - title: "Open Space Opening"
+    type: custom
+    date: 2024-08-06T00:00:00-05:00
+    start_time: "13:00"
+    end_time: "14:00"
+  - title: "attendee-suggested breakout discussions - Open Space #1"
+    type: custom
+    date: 2024-08-06T00:00:00-05:00
+    start_time: "14:00"
+    end_time: "14:30"
+  - title: "attendee-suggested breakout discussions - Open Space #2"
+    type: custom
+    date: 2024-08-06T00:00:00-05:00
+    start_time: "14:30"
+    end_time: "15:00"
+
+  - title: "Afternoon Break"
+    type: custom
+    date: 2024-08-06T00:00:00-05:00
+    start_time: "15:00"
+    end_time: "15:30"
+
+  - title: "Ignite Social"
+    type: ignite
+    date: 2024-08-06T00:00:00-05:00
+    start_time: "15:30"
+    end_time: "17:00"
+
+
+
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2024-08-07T17:00:00-05:00
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2024-08-07T17:00:00-05:00
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "corwin-diamond"
+    type: talk
+    date: 2024-08-07T17:00:00-05:00
+    start_time: "09:10"
+    end_time: "09:40"
+  - title: "jenessa-petersen"
+    type: talk
+    date: 2024-08-07T17:00:00-05:00
+    start_time: "09:50"
+    end_time: "10:20"
+  - title: "Break"
+    type: custom
+    date: 2024-08-07T17:00:00-05:00
+    start_time: "10:20"
+    end_time: "10:50"
+  - title: "xe-iaso"
+    type: talk
+    date: 2024-08-07T17:00:00-05:00
+    start_time: "10:50"
+    end_time: "11:20"
+  - title: "steve-jones"
+    type: talk
+    date: 2024-08-07T17:00:00-05:00
+    start_time: "11:30"
+    end_time: "12:00"
+
+  - title: "Lunch"
+    type: custom
+    date: 2024-08-07T17:00:00-05:00
+    start_time: "12:00"
+    end_time: "13:00"
+
+  - title: "Open Space Opening"
+    type: custom
+    date: 2024-08-07T17:00:00-05:00
+    start_time: "13:00"
+    end_time: "13:30"
+
+  - title: "attendee-suggested breakout discussions - Open Space #1"
+    type: custom
+    date: 2024-08-07T17:00:00-05:00
+    start_time: "13:30"
+    end_time: "14:15"
+  - title: "attendee-suggested breakout discussions - Open Space #2"
+    type: custom
+    date: 2024-08-07T17:00:00-05:00
+    start_time: "14:15"
+    end_time: "15:00"
+
+  - title: "Afternoon Break"
+    type: custom
+    date: 2024-08-07T17:00:00-05:00
+    start_time: "15:00"
+    end_time: "15:45"
+
+  - title: "attendee-suggested breakout discussions - Open Space #3"
+    type: custom
+    date: 2024-08-07T17:00:00-05:00
+    start_time: "15:45"
+    end_time: "16:30"
+
+
+ignites:
+  - title: "joel-tosi"
+    date: 2024-08-06T00:00:00-05:00
+  - title: "wyatt-walter"
+    date: 2024-08-06T00:00:00-05:00
+  - title: "darnell-otterson"
+    date: 2024-08-06T00:00:00-05:00
+  - title: "emma-sax"
+    date: 2024-08-06T00:00:00-05:00
+  - title: "leo-drewitz"
+    date: 2024-08-06T00:00:00-05:00
+  - title: "derek-ardolf"
+    date: 2024-08-06T00:00:00-05:00
+  - title: "jorn-knuttila"
+    date: 2024-08-06T00:00:00-05:00
+

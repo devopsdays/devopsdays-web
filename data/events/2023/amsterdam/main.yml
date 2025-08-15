@@ -162,7 +162,7 @@ sponsors:
     level: gold
   - id: isovalent
     level: gold
-  - id: zesty
+  - id: zesty-before-20250308
     level: gold
   - id: luminis
     level: gold
@@ -191,7 +191,7 @@ sponsors:
     level: silver
   - id: cert2connect-checkmarx
     level: silver
-  - id: sysdig
+  - id: sysdig-before-20240607
     level: silver
   - id: appvia
     level: silver

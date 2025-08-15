@@ -2,20 +2,28 @@
 # Each line is a file pattern followed by one or more owners.
 
 .gitignore  @devopsdays/build-infra
-config.toml @devopsdays/code-reviewers
+/config/ @devopsdays/code-reviewers
 netlify.toml    @devopsdays/build-infra
 gulpfile.js @devopsdays/build-infra
+/gulp/ @devopsdays/build-infra
 hugoserver.sh   @devopsdays/build-infra
 hugoserver.ps1  @devopsdays/build-infra
 package-lock.json   @devopsdays/build-infra
 package.json    @devopsdays/build-infra
 /data/core.toml @devopsdays/code-reviewers
+/archetypes/ @devopsdays/code-reviewers
 /utilities/ @devopsdays/code-reviewers
 /themes/devopsdays-theme/   @devopsdays/theme-maintainers
 /content/page/  @devopsdays/code-reviewers
-/.circleci/ @devopsdays/build-infra
+/.devcontainer/ @devopsdays/build-infra
 /bin/   @devopsdays/build-infra
 /.github/   @devopsdays/build-infra
 /static/robots.txt @devopsdays/build-infra
 .gitpod.yml @devopsdays/build-infra
 /.github/workflow/ @devopsdays/build-infra
+.nvmrc  @devopsdays/build-infra
+/data/events/ @devopsdays/content-reviewers
+/data/sponsors/ @devopsdays/content-reviewers
+/content/events/ @devopsdays/content-reviewers
+/static/events/ @devopsdays/content-reviewers
+/assets/ @devopsdays/content-reviewers

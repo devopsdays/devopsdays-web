@@ -1,0 +1,263 @@
+name: "2025-sibiu" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2025" # The year of the event. Make sure it is in quotes.
+city: "Sibiu" # The displayed city name of the event. Capitalize it.
+event_twitter: "Devopsdays" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays is coming to Sibiu!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+event_logo: "/assets/2025-sibiu/logo-square.jpg" # TODO: for some reason this does not work
+sharing_image: "logo.png"
+masthead_background: "sibiu-header.png"
+
+# All dates are in unquoted 2025-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2025-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate:  2025-05-22T00:00:00+03:00
+enddate:  2025-05-23T00:00:00+03:00
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start:  # start accepting talk proposals.
+cfp_date_end:  # close your call for proposals.
+cfp_date_announce:  # inform proposers of status
+
+cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: 'https://devopsdays-sibiu-2025.eventbrite.com' # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+# coordinates: "" # No longer used
+
+location: "Sibiu" # Defaults to city, but you can make it the venue name.
+#
+location_address: "Sibiu, jud. Sibiu, Strada Ștrandului nr. 2B, Sibiu 550068, Visma Sibiu" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+ # - name: propose
+  - name: location
+  - name: registration
+    url: "https://devopsdays-sibiu-2025.eventbrite.com"
+  - name: program
+  - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Mihai Satmarean"
+    image: "mihai.jpg"
+    employer: "Nexodus, Skylite Tek"
+    linkedin: "https://www.linkedin.com/in/mihai-cristian-satmarean-3465958/"
+    bio: "Mihai Cristian Satmarean is a seasoned technologist with over 25 years of experience within various fields of the IT industry among them: software tester, developer, embedded systems developer, sysadmin, DevOps pioneer and automation Evangelist, infrastructure management, and team leadership. Currently serving as a Fractional CTO and Senior DevOps Architect, he provides strategic technology guidance and advisory services to senior management. Recognized as an authority in Ansible, Mihai has contributed to, taught, and shaped its roadmap, fostering a culture of knowledge sharing. His expertise spans across various platforms including Linux, MacOS, Unix, and Windows, with a focus on IT security, network management, UI design, and cloud services optimization. Throughout his career, he has managed large-scale infrastructure automation, handling over 200k servers across 250 global locations. Mihai is proficient in network setup and management, user interface design, resources administration and configuration, backup procedures, disaster recovery, and project, resources, and team management. He is hands-on and up-to-date with technologies and many related DevOps techniques like CI/CD and continuous testing. Mihai is passionate about mentoring and empowering team members to achieve their full potential, contributing to both personal growth and project success. He is always open to exchanging innovative technology ideas and enabling other groups and enterprises to harness the power of automation. He also acts as a Scrum Master, co-manages the Ansible meet-ups for Munich-Germany area and acts as an Ansible Trainer and Coach."
+  - name: "Daniela Chrzanovski"
+    linkedin: "https://www.linkedin.com/in/daniela-chrzanovski-00859676/"
+    image: "daniela.jpg"
+    employer: "Swiss Webacademy"
+    twitter: "devopsdays"
+    bio: "Daniela Chrzanovski is an IT engineer. In 2003, she created the first web training center in Romania, a project funded by the Swiss Confederation, training over 1000 specialists in the field of the Web Development over 10 years. She then launched the Swiss Webacademy in Sibiu in partnership with the Haute Ecole d’Ingénieurs Neuchatel, Switzerland, which provides expertise and accreditation for the training programs. For the past 7 years, she has been an associate professor at the University of Franche-Comté in France, teaching Digital Technologies at the IUT Belfort, as well as a course within the Master en Droit du numerique program in Besancon. She also taught the Web Hosting and Referencing course as part of the Web Application Development Master's program at Haute Ecole ARC Ingenierie in Switzerland. She is a promoter of Digital Transformation and, along with her team, supports digital skills courses for companies. She is one of the founders of the Cybersecurity Congress in Romania, organizing 10 editions in Sibiu, a congress supported by the International Telecommunication Union at the UN-Geneva. She is the founder and vice president of the Francophone Business Club."
+  - name: "Valentin-Marius Amza "
+    image: "amza.jpg"
+    employer: "Swiss Webacademy"
+    github: "devopsdays"
+    linkedin: "https://www.linkedin.com/in/amza-valentin-marius/"
+    bio: "Marius Amza serves as the Director of Swiss WebBusiness SRL and as the Vice President of the Swiss Webacademy. He holds Swiss certifications as a Web Software Engineer, Web Developer, and Web Designer, and has overseen the coordination and development of numerous international projects within the web domain. As an Associate Professor at the Swiss University - Haute École Arc Ingénierie, Marius teaches courses on Software Engineering and Agile Methods as part of the MAS-RAD master's program. Additionally, he has instructed Web Security courses at HEIG-VD - Haute Ecole d’Ingénierie et de Gestion in Switzerland. Furthermore, he has supervised undergraduate internships for Swiss students. With over 10 years of experience as an IT Trainer, Marius has taught courses for both aspiring specialists and numerous private companies and governmental institutions in Romania, focusing on Web Development, OSINT, Cybersecurity, Web Design, Programming, and Information Security. For the past 6 years, Marius has also served as an Associate Professor at the University of Franche-Comté (Belfort-Montbéliard), teaching web technology courses. Together with the Swiss WebAcademy team, he is actively involved in organizing Cybersecurity Congresses in Romania, Switzerland, and Italy. He contributes to the development of online platforms for these congresses and designs courses tailored to the participants' needs."
+  - name: "Sergiu-Valentin Dilimoț"
+    image: "sergiu.jpeg"
+    employer: "Visma Romania"
+    linkedin: "https://www.linkedin.com/in/sdilimot/"
+    bio: "IT Services Director with over 19 years of experience in the Information Technology area focusing on helping the organization to grow by: 
+     promoting and implementing Cloud Solutions within the company, supporting technical integrations between Visma companies, attracting, recruiting and developing our colleagues,
+     defining and implementing methodologies and best practices for developing, delivering and operating software, measuring operational performance through our 24/7/365 teams, 
+     actively involved in development of the local IT community and university"
+  - name: "Valentin Oprea"
+    image: "vali.jpg"
+    employer: "General Engineering & Management Solutions"
+    linkedin: "General Engineering & Management Solutions"
+    bio: "Valentin Oprea is an experienced and versatile aerospace engineer with more than 8 years active in various critical industries, ranging from aerospace, automotive, banking and more. Having a diverse and multidisciplinary engineering experience, he was involved in delivering high-tier products using state-of-the-art technologies for OEMs such as Airbus, Boeing, BMWW, Rolls Royce and more.
+     Founder of General Engineering & Management Solutions, the mission is to leverage the absolute best industry professionals to aid businesses achieve their maximum market potential in the shortest amount of time given the technology at hand."
+  - name: "Ovidiu Costea"
+    image: "ovi.jpg"
+    employer: "Bosch Service Solutions"
+    linkedin: "https://www.linkedin.com/in/ovicostea"
+    bio: "Senior DevOps Engineer with a strong focus on scaling products and optimizing their entire lifecycle. Works as a contractor and freelancer, bringing practical experience in DevOps and infrastructure to deliver efficient, results-driven solutions. Combines software engineering skills with a no-nonsense approach to improving system reliability and performance."
+
+organizer_email: "sibiu@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  # - id: samplesponsorname
+  #   level: gold
+ #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: sibiu-it-cluster
+    level: gold
+  - id: swiss-web-academy
+    level: gold
+  - id: sibiu-visma
+    level: gold
+  - id: skylite-tek
+    level: gold
+#  - id: agile-network-technologies
+#    level: gold
+#  - id: agile-freaks
+#    level: gold
+  - id: general-engineering--management-solutions
+    level: gold
+  - id: kubecareers
+    level: media
+  - id: kubeevents
+    level: media
+  - id: emailtree-ai
+    level: community
+  - id: ulbsibiu
+    level: community
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: gold
+    label: Gold
+#    max: 10
+  - id: silver
+    label: Silver
+    max: 0 # This is the same as omitting the max limit.
+  - id: bronze
+    label: Bronze
+  - id: media
+    label: Media
+  - id: community
+    label: community
+
+
+
+program:
+# DAY 1
+  - title: "Registration & Welcoming"
+    type: custom
+    date: 2025-05-22T00:00:00+03:00
+    start_time: "09:30"
+    end_time: "10:00"
+
+  - title: "Opening Statements: Cătălin Mihacea (Sibiu IT Cluster), Sergiu Dilimoț (Visma Software România), Mihai Sătmărean (Skylite Tech)"
+    type: custom   
+    date: 2025-05-22T00:00:00+03:00
+    start_time: "10:00"
+    end_time: "10:20"
+
+  - title: "alejandro-betancor"
+    type: "talk"
+    date: 2025-05-22T00:00:00+03:00
+    start_time: "10:20"
+    end_time: "11:00"
+
+  - title: "Coffee Break & Networking"
+    date: 2025-05-22T00:00:00+03:00
+    start_time: "11:00"
+    end_time: "11:15"
+    background_color: "#B4C6E7"
+
+  - title: "marian-mocanu"
+    type: "talk"
+    date: 2025-05-22T00:00:00+03:00
+    start_time: "11:15"
+    end_time: "12:00"
+
+  - title: "Lunch Break & Networking"
+    date: 2025-05-22T00:00:00+03:00
+    start_time: "12:00"
+    end_time: "13:15"
+    background_color: "#B4C6E7"
+
+  - title: "sergiuvalentin-dilimo"
+    type: "talk"
+    date: 2025-05-22T00:00:00+03:00
+    start_time: "13:15"
+    end_time: "14:00"
+
+  - title: "Coffee Break & Networking"
+    date: 2025-05-22T00:00:00+03:00
+    start_time: "14:00"
+    end_time: "14:15"
+    background_color: "#B4C6E7"
+
+  - title: "Panel with guest speakers of the day + Q&A: Alejandro Betancor, Marian Mocanu, Sergiu Dilimoț, Mihai Sătmărean"
+    type: custom
+    date: 2025-05-22T00:00:00+03:00
+    start_time: "14:15"
+    end_time: "15:30"
+    background_color: "#ffb566"
+
+# DAY 2
+  - title: "Registration & Welcoming"
+    type: custom
+    date: 2025-05-23T00:00:00+03:00
+    start_time: "09:30"
+    end_time: "10:00"
+
+  - title: "guillermo-gomez"
+    type: "talk"
+    date: 2025-05-23T00:00:00+03:00
+    start_time: "10:00"
+    end_time: "10:45"
+
+  - title: "Coffee Break & Networking"
+    type: custom
+    date: 2025-05-23T00:00:00+03:00
+    start_time: "10:45"
+    end_time: "11:00"
+    background_color: "#B4C6E7"
+
+  - title: "ioana-alberttth"
+    type: "talk"
+    date: 2025-05-23T00:00:00+03:00
+    start_time: "11:00"
+    end_time: "11:45"
+
+  - title: "Coffee Break & Networking"
+    date: 2025-05-23T00:00:00+03:00
+    start_time: "11:45"
+    end_time: "12:00"
+    background_color: "#B4C6E7"
+
+  - title: "artur-pajk"
+    type: "talk"
+    date: 2025-05-23T00:00:00+03:00
+    start_time: "12:00"
+    end_time: "12:45"
+
+  - title: "Lunch Break & Networking"
+    date: 2025-05-23T00:00:00+03:00
+    start_time: "12:45"
+    end_time: "14:00"
+    background_color: "#B4C6E7"
+
+  - title: "istvn-alberttth"
+    type: "talk"
+    date: 2025-05-23T00:00:00+03:00
+    start_time: "14:00"
+    end_time: "14:45"
+
+  - title: "Coffee Break & Networking"
+    date: 2025-05-23T00:00:00+03:00
+    start_time: "14:45"
+    end_time: "15:00"
+    background_color: "#B4C6E7"
+
+  - title: "cristian-oancea"
+    type: "talk"
+    date: 2025-05-23T00:00:00+03:00
+    start_time: "15:00"
+    end_time: "16:15"

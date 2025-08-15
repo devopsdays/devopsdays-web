@@ -1,0 +1,237 @@
+program:
+- title: Registration and Breakfast
+  type: custom
+  date: "2024-09-05"
+  start_time: "08:30"
+  end_time: "09:30"
+- title: Registration and Breakfast
+  type: custom
+  date: "2024-09-04"
+  start_time: "08:30"
+  end_time: "09:30"
+- title: welcome-to-devopsdays-15th
+  type: talk
+  date: "2024-09-04"
+  start_time: "09:30"
+  end_time: "09:40"
+- title: Welcome to Day 2
+  type: custom
+  date: "2024-09-05"
+  start_time: "09:30"
+  end_time: "09:40"
+- title: wiring-for-flow
+  type: talk
+  date: "2024-09-04"
+  start_time: "09:40"
+  end_time: "10:00"
+- title: ai-you-complete-me
+  type: talk
+  date: "2024-09-05"
+  start_time: "09:40"
+  end_time: "10:00"
+- title: fast-flow--blockers-and-pitfalls
+  type: talk
+  date: "2024-09-04"
+  start_time: "10:00"
+  end_time: "10:20"
+- title: green-code-on-the-cloud--integrating-sustainability-into-devops-practices
+  type: talk
+  date: "2024-09-05"
+  start_time: "10:00"
+  end_time: "10:20"
+- title: platform-engineering-xxl
+  type: talk
+  date: "2024-09-05"
+  start_time: "10:20"
+  end_time: "10:40"
+- title: a-decade-with-dora
+  type: talk
+  date: "2024-09-04"
+  start_time: "10:20"
+  end_time: "10:40"
+- title: Coffee Break
+  type: custom
+  date: "2024-09-05"
+  start_time: "10:40"
+  end_time: "11:00"
+- title: Coffee Break
+  type: custom
+  date: "2024-09-04"
+  start_time: "10:40"
+  end_time: "11:00"
+- title: devops-is-not-a-factory
+  type: talk
+  date: "2024-09-04"
+  start_time: "11:00"
+  end_time: "11:20"
+- title: evolving-devops-teams-and-flexible-organizational-culture
+  type: talk
+  date: "2024-09-05"
+  start_time: "11:00"
+  end_time: "11:20"
+- title: devsecoops--15-years-of-devops-and-patching-is-still-horrible-but-should-you-care-
+  type: talk
+  date: "2024-09-04"
+  start_time: "11:20"
+  end_time: "11:40"
+- title: culture-is-still-a-challenge
+  type: talk
+  date: "2024-09-05"
+  start_time: "11:20"
+  end_time: "11:40"
+- title: 'Ignites :'
+  type: ignite
+  date: "2024-09-05"
+  start_time: "11:40"
+  end_time: "12:00"
+- title: platform-engineering-is-not-about-tech
+  type: talk
+  date: "2024-09-04"
+  start_time: "11:40"
+  end_time: "12:00"
+- title: Lunch
+  type: custom
+  date: "2024-09-04"
+  start_time: "12:00"
+  end_time: "13:30"
+- title: Open Space Opening Day 2
+  type: custom
+  date: "2024-09-05"
+  start_time: "12:05"
+  end_time: "12:20"
+- title: Lunch
+  type: custom
+  date: "2024-09-05"
+  start_time: "12:20"
+  end_time: "13:50"
+- title: 'Ignites :'
+  type: ignite
+  date: "2024-09-04"
+  start_time: "13:30"
+  end_time: "13:45"
+- title: Open Space Slot 1 Day 2
+  type: open-space
+  date: "2024-09-05"
+  start_time: "13:50"
+  end_time: "14:20"
+- title: Open Space Opening Day 1
+  type: custom
+  date: "2024-09-04"
+  start_time: "14:00"
+  end_time: "14:15"
+- title: Open Space Slot 1 Day 1
+  type: open-space
+  date: "2024-09-04"
+  start_time: "14:15"
+  end_time: "14:45"
+- title: Open Space Slot 2 Day 2
+  type: open-space
+  date: "2024-09-05"
+  start_time: "14:20"
+  end_time: "14:50"
+- title: Open Space Slot 2 Day 1
+  type: open-space
+  date: "2024-09-04"
+  start_time: "14:45"
+  end_time: "15:15"
+- title: Coffee Break
+  type: custom
+  date: "2024-09-05"
+  start_time: "14:50"
+  end_time: "15:10"
+- title: Open Space Slot 3 Day 2
+  type: open-space
+  date: "2024-09-05"
+  start_time: "15:10"
+  end_time: "15:40"
+- title: Open Space Slot 3 Day 1
+  type: open-space
+  date: "2024-09-04"
+  start_time: "15:15"
+  end_time: "15:45"
+- title: Open Space Slot 4 Day 2
+  type: open-space
+  date: "2024-09-05"
+  start_time: "15:40"
+  end_time: "16:10"
+- title: Coffee Break
+  type: custom
+  date: "2024-09-04"
+  start_time: "15:45"
+  end_time: "16:05"
+- title: Open Space Slot 4 Day 1
+  type: open-space
+  date: "2024-09-04"
+  start_time: "16:05"
+  end_time: "16:35"
+- title: Open Space Slot 5 Day 2
+  type: open-space
+  date: "2024-09-05"
+  start_time: "16:10"
+  end_time: "16:40"
+- title: Open Space Slot 5 Day 1
+  type: open-space
+  date: "2024-09-04"
+  start_time: "16:35"
+  end_time: "17:05"
+- title: Closing session of 15 years of DevOpsDays
+  type: custom
+  date: "2024-09-05"
+  start_time: "16:40"
+  end_time: "17:00"
+- title: failing-to-learn-vs-learning-to-fail
+  type: talk
+  date: "2024-09-04"
+  start_time: "17:05"
+  end_time: "17:25"
+- title: deming-to-devops-revisited-2024
+  type: talk
+  date: "2024-09-04"
+  start_time: "17:25"
+  end_time: "17:45"
+- title: Closing Session Day 1
+  type: custom
+  date: "2024-09-04"
+  start_time: "17:45"
+  end_time: "18:00"
+- title: Social Event with Walking Dinner
+  type: custom
+  date: "2024-09-04"
+  start_time: "18:00"
+  end_time: "21:00"
+ignites:
+- title: low-growth-devops
+  type: ignite
+  date: "2024-09-05"
+  start_time: "11:40"
+  end_time: "11:45"
+- title: integer-programming-to-optimize-costs-in-kubernetes
+  type: ignite
+  date: "2024-09-05"
+  start_time: "11:45"
+  end_time: "11:50"
+- title: all-good-ends-can-be-worked-out-by-good-means-or-how-to-do-open-source-enterprise-software-as-a-mature-org
+  type: ignite
+  date: "2024-09-05"
+  start_time: "11:50"
+  end_time: "11:55"
+- title: devops-and-baking
+  type: ignite
+  date: "2024-09-05"
+  start_time: "11:55"
+  end_time: "12:00"
+- title: continuously-update-everything
+  type: ignite
+  date: "2024-09-04"
+  start_time: "13:30"
+  end_time: "13:35"
+- title: developer-experience-can-drive-business-growth
+  type: ignite
+  date: "2024-09-04"
+  start_time: "13:35"
+  end_time: "13:40"
+- title: never-ever-upgrade
+  type: ignite
+  date: "2024-09-04"
+  start_time: "13:40"
+  end_time: "13:45"

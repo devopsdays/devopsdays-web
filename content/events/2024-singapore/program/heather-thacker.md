@@ -2,12 +2,12 @@
 City = "Singapore"
 Year = "2024"
 talk_date = "2024-03-21"
-talk_start_time = "14:45"
-talk_end_time = "14:50"
+talk_start_time = "14:00"
+talk_end_time = "14:05"
 Title = "DevOps and Baking"
 Type = "talk"
 Speakers = ["heather-thacker"]
-youtube = ""
+youtube = "qXoZ2P7t1TI"
 speakerdeck = ""
 sharing_image = "2024-heather-thacker.jpg"
 +++

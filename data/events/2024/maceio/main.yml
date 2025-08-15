@@ -1,0 +1,221 @@
+name: "2024-maceio" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2024" # The year of the event. Make sure it is in quotes.
+city: "Maceio" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaysmaceio" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays está chegando em Maceió!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+event_logo: "/events/2024-maceio/logo-square.jpg"
+masthead_background: "cartao-postal.png"
+
+# All dates are in unquoted 2024-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2024-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2024-11-30T08:00:00+03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2024-11-30T18:00:00+03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start:  # start accepting talk proposals.
+cfp_date_end:  # close your call for proposals.
+cfp_date_announce:  # inform proposers of status
+
+cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+# coordinates: "" # No longer used
+location: "SENAI AL" # Defaults to city, but you can make it the venue name.
+location_address: "R. Pedro Ámerico, 18 - Poço, Maceió - AL, 57025-890" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: CFP
+    url: https://www.papercall.io/devopsdaysmaceio2024
+  - name: location
+  - name: ticket
+    url: https://www.sympla.com.br/evento/devopsdays-maceio-2024/2628162
+  - name: conduct-pt-br
+  - name: sponsor
+  - name: contact
+  - name: program
+  # - name: speakers
+  #   url: /events/2024-maceio/welcome
+ # - name: propose
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Albert Judson"
+    employer: "Administrador de Sistemas na Edge UOL"
+    bio: "Profissional de TI com vasta experiência em infraestrutura e implantação em nuvem. Atualmente atuando como DevOps e Administrador de Sistemas, possuo uma paixão por containers e uma sólida experiência em gerenciar equipes de TI."
+    linkedin: "https://www.linkedin.com/in/albertjudson/"
+    image: "albert-judson.png"
+
+  - name: "Byron Lanverly"
+    employer: "Docente na Uncisal"
+    bio: "Professor na Uncisal, pesquisador e especialista em Segurança da Informação, com uma vasta experiência no ensino e na aplicação de boas práticas de segurança no desenvolvimento de software. Como referência em sua área, está na vanguarda das iniciativas de segurança digital no Estado e lidera esforços para a criação de um chapter OWASP em Maceió. Com um profundo conhecimento em DevOps e segurança, combina habilidades técnicas e pedagógicas para capacitar profissionais e estudantes a adotarem práticas seguras e eficientes no ciclo de desenvolvimento de software."
+    github: "lanverly"
+    linkedin: "https://www.linkedin.com/in/lanverly/"
+    image: "byron-lanverly.png"
+
+  - name: "Cleoncio Cruz"
+    employer: "Analista de TI na Aloo Telecom"
+    bio: "Profissional de TI, atuando na área de monitoramento de redes, automação e containers."
+    linkedin: "https://www.linkedin.com/in/cleoncio-cruz-728011a8"
+    image: "cleoncio-cruz.png"
+
+  - name: "Hitalo Silva"
+    employer: "Técnico Judiciário na Justiça Federal em Alagoas"
+    bio: "Administrador de servidores linux (email, DNS, http, firewalls e mais recentemente clusters kubernetes) e desenvolvedor web desde 1998. Servidor público desde 2004. Entusiasta do software livre e padrões abertos."
+    github: "hitalos"
+    linkedin: "https://www.linkedin.com/in/hitalos"
+    image: "hitalo-silva.png"
+  
+  - name: "José Aparecido"
+    employer: "DevOps Engineer na Pluxee Brasil"
+    bio: "Graduado pelo Instituto Federal de Alagoas, com sólida experiência em Engenharia de Broadcast, Telecom, Cloud e DevOps. Apaixonado por automação de redes (DevNetOps), Cloud e DevSecOps, está em constante busca por explorar e implementar soluções inovadoras nessas áreas."
+    github: "jafsilva"
+    linkedin: "https://www.linkedin.com/in/jafsilva"
+    image: "jose-aparecido.png"
+
+organizer_email: "maceio@devopsdays.org" # Put your organizer email address here
+proposal_email: "maceio@devopsdays.org" # Put your proposal email address here
+
+sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: platinum
+    label: Platinum
+    max: 4
+  - id: gold
+    label: Gold
+    max: 6
+  - id: silver
+    label: Silver
+    max: 8
+  - id: startup
+    label: Startup
+    max: 10
+  - id: community
+    label: Community
+
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+# Platinum
+  #- id: mulvi
+    #level: platinum
+
+# Gold
+  #- id:
+    #level:
+
+# Silver
+  #- id:
+    #level:
+
+# Startup
+  #- id:
+    #level:
+
+# Community
+# - id: senai-al
+#   level: community
+
+
+program:
+  - title: "Recepção / Credenciamento dos participantes"
+    type: custom
+    date: 2024-11-30
+    start_time: "09:00"
+    end_time: "09:00"
+  - title: "Abertura do evento e boas-vindas"
+    type: custom
+    date: 2024-11-30
+    start_time: "09:30"
+    end_time: "09:55"
+  - title: "Coffee break matutino"
+    type: custom
+    date: 2024-11-30
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "erivaldo"
+    type: talk
+    date: 2024-11-30
+    start_time: "10:30"
+    end_time: "10:55"
+    background_color: "#cc99ff"
+  - title: "guilherme"
+    type: talk
+    date: 2024-11-30
+    start_time: "11:00"
+    end_time: "11:25"
+  - title: "lara"
+    type: talk
+    date: 2024-11-30
+    start_time: "11:30"
+    end_time: "11:55"
+  - title: "tony"
+    type: talk
+    date: 2024-11-30
+    start_time: "12:00"
+    end_time: "12:25"
+  - title: "Almoço"
+    type: custom
+    date: 2024-11-30
+    start_time: "12:30"
+    end_time: "13:50"
+  - title: "Retorno almoço / Reabertura do evento"
+    type: custom
+    date: 2024-11-30
+    start_time: "13:50"
+    end_time: "13:55"
+  - title: "daniel"
+    type: talk
+    date: 2024-11-30
+    start_time: "14:00"
+    end_time: "14:25"
+  - title: "baltazar"
+    type: talk
+    date: 2024-11-30
+    start_time: "14:30"
+    end_time: "14:55"
+  - title: "marcello"
+    type: talk
+    date: 2024-11-30
+    start_time: "15:00"
+    end_time: "15:25"
+  - title: "lucas"
+    type: talk
+    date: 2024-11-30
+    start_time: "15:30"
+    end_time: "15:55"
+  - title: "Coffee break vespertino"
+    type: custom
+    date: 2024-11-30
+    start_time: "16:00"
+    end_time: "16:30"
+  - title: "vinicius"
+    type: talk
+    date: 2024-11-30
+    start_time: "16:30"
+    end_time: "16:55"
+  - title: "carlos"
+    type: talk
+    date: 2024-11-30
+    start_time: "17:00"
+    end_time: "17:25"
+  - title: "Encerramento"
+    type: custom
+    date: 2024-11-30
+    start_time: "17:30"
+    end_time: "18:00"

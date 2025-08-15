@@ -2,11 +2,10 @@
 Title = "DevOpsDays Kansas City 2024"
 Type = "welcome"
 aliases = ["/events/2024-kansas-city/"]
-Description = "DevOpsDays Kansas City 2024 will take place May 15-16, 2024!"
+Description = "DevOpsDays Kansas City 2024, May 15-16, 2024!"
 +++
 
-# After 4 years, DevOpsDays Kansas City is BACK for 2024!
-
+# After 4 years, DevOpsDays Kansas City is May 15-16, 2024!
 
 
 <div style="text-align:center;">
@@ -31,15 +30,21 @@ Description = "DevOpsDays Kansas City 2024 will take place May 15-16, 2024!"
   </div>
 </div>
 
+<!-- Removed after the event
 <div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
-  <div class = "col-md-8">
-    <a href="https://tickets.devopsdays.org/devopsdays-kansascity/2024/">Register to attend the conference!</a>
+  <div class = "col-md-2">
+    <a href="https://tickets.devopsdays.org/devopsdays-kansascity/2024/c/9X9kZg4vJ/">Register to attend the conference!</a>
+  </div>
+  <div class = "col-md-2">
+    <strong><a href="https://docs.google.com/document/d/e/2PACX-1vSDeTjAqu-KtzW3-2Hp-HvxxbBiSUjpUCxtN3mGjHd9IFcaSUDTBXuNI4RJ5Z9pabtB6YXPOm8MMGJ-/pub">Convince your boss!</a></strong>
   </div>
 </div>
+-->
 
+<!-- 
 <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
@@ -47,25 +52,26 @@ Description = "DevOpsDays Kansas City 2024 will take place May 15-16, 2024!"
   <div class = "col-md-8">
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
-</div>
+</div> 
+-->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
-    <strong>Program</strong>
+    <strong>Schedule</strong>
   </div>
   <div class = "col-md-8">
-    View the {{< event_link page="program" text="program." >}}
+    View the {{< event_link page="schedule" text="schedule." >}}
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -107,6 +113,13 @@ Description = "DevOpsDays Kansas City 2024 will take place May 15-16, 2024!"
             style="margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;"
             href="/events/2024-kansas-city/contact">
             <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Contact the Organizers
+          </a>
+        </div>
+        <div class="d-flex p-2">
+          <a class="btn btn-primary btn-block"
+            style="margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;"
+            href="https://lists.devopsdays.org/subscription?f=TYbgJMtfqomf8uYARrTHhqAKoinSX763iDCLAvdcUFPDW2aF7J7EY53W1TeVcYoawk">
+            <i class="fa fa-wpforms fa-lg"></i>&nbsp;&nbsp;&nbsp;Join the mailing list
           </a>
         </div>
       </div>

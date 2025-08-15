@@ -136,7 +136,7 @@ sponsors:
     level: gold
   - id: appdynamics-before-20190121
     level: gold
-  - id: servicenow
+  - id: servicenow-before-20250402
     level: gold
   - id: confluent-before-20220426
     level: gold
@@ -176,7 +176,7 @@ sponsors:
     level: silver
   - id: hyatt
     level: silver
-  - id: nvisia
+  - id: nvisia-before-20240927
     level: silver
   - id: corptax
     level: silver

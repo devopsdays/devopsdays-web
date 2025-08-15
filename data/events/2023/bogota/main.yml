@@ -73,6 +73,8 @@ organizer_email: "bogota@devopsdays.org" # Put your organizer email address here
 sponsors:
   - id: devops-latam
     level: diamond
+  - id: oracle
+    level: diamond
   - id: sigitat
     level: diamond
   - id: harness
@@ -83,7 +85,7 @@ sponsors:
     level: platinum
   - id: devco
     level: gold
-  - id: fluidattacks
+  - id: fluidattacks-before-20250811
     level: diamond
   - id: certiprof
     level: community

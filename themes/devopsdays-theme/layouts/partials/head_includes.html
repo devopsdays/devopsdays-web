@@ -1,11 +1,19 @@
 {{ partial "google_analytics.html" . }}
 {{ partial "google_tag_manager.html" . }}
-<link href="/css/site.css" rel="stylesheet">
+{{ $sass := resources.Get "scss/site.scss" | toCSS (dict "targetPath" "css/site.css" "enableSourceMap" true "outputStyle" "compressed") | minify | fingerprint }}
+<link rel="stylesheet" href="{{ $sass.RelPermalink }}" integrity="{{ $sass.Data.Integrity }}">
 <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400,700" rel="stylesheet">
 {{- if eq .Type "speaking" -}}
   <link href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css" rel="stylesheet">
 {{- end -}}
-<script src="https://kit.fontawesome.com/f6f25dc1e1.js" crossorigin="anonymous"></script>
+{{/*  <script src="https://kit.fontawesome.com/f6f25dc1e1.js" crossorigin="anonymous"></script>  */}}
+  <!-- Loading the v6 core styles and the Solid and Brands styles -->
+  <link href="/fontawesome/css/fontawesome.min.css" rel="stylesheet" />
+  <link href="/fontawesome/css/brands.min.css" rel="stylesheet" />
+  <link href="/fontawesome/css/solid.min.css" rel="stylesheet" />
+
+  <!-- update existing v4 CSS to use v6 icons and assets -->
+  <link href="/fontawesome/css/v4-font-face.min.css" rel="stylesheet" />
 
 <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
 <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
@@ -43,7 +51,14 @@
   <link href="/events/index.xml" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
 {{ end }}
 
-<script src=/js/devopsdays-min.js></script>
+{{ $jquery := resources.Get "js/vendor/jquery.js" }}
+{{ $bootstrap := resources.Get "js/vendor/bootstrap.js" }}
+{{ $jssocials := resources.Get "js/components/jssocials-modified.js" }}
+{{ $jquery_oembed := resources.Get "js/components/jquery.oembed.js" }}
+{{ $devopsdays := resources.Get "js/devopsdays.js" }}
+
+{{ $js := slice $jquery $bootstrap $jssocials $jquery_oembed $devopsdays | resources.Concat "js/devopsdays-min.js" | resources.Minify | resources.Fingerprint }}
+<script src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}"></script>
 
 {{- if eq .Type "speaking" -}}
   <script src={{"https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"}}></script>

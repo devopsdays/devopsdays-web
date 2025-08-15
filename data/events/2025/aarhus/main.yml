@@ -1,0 +1,354 @@
+name: "2025-aarhus" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2025" # The year of the event. Make sure it is in quotes.
+city: "Aarhus" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdayscph" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays is back in Aarhus, Denmark" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2022-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2022-01-04T00:00:00+02:00
+#   variable: 2022-01-05T23:59:59+02:00
+# Note: we allow 2022-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2025-04-29 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2025-04-30 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2024-10-14 # start accepting talk proposals.
+cfp_date_end: 2025-01-11 # close your call for proposals.
+cfp_date_announce: 2025-02-01 # inform proposers of status
+
+cfp_link: https://sessionize.com/devopsdays-aarhus-2025/ #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "56.106700, 10.150430" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "SAVVÆRKET - Søren Nymarksvej 8 A - 8270 Højbjerg" # Defaults to city, but you can make it the venue name.
+#
+location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  # - name: propose
+  # - name: register
+  # url: https://devopsdaysdenmark.ticketbutler.io/e/devopsdays-aarhus-2025/
+  - name: location
+  # - name: registration
+  - name: program
+  - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Adam Henriques"
+    employer: "Eficode"
+    image: "adam-henriques.jpg"
+  - name: "Amalie Hansen"
+    employer: "Destination AARhus"
+    image: "amalie-hansen.jpg"
+  - name: "Anne Louise Møller Lauritzen"
+    employer: "Destination AARhus"
+    image: "anne-louise-lauritzen.jpg"
+  - name: "Danny Lajer"
+    employer: "Eficode"
+    image: "danny-lajer.jpg"
+  - name: "Jannich Ibsen"
+    employer: "Kraftvaerk"
+    image: "jannich-ibsen.jpg"
+  - name: "Johanne Sundtoft"
+    employer: "Systematic"
+    image: "johanne-sundtoft.jpg"
+  - name: "Lars Kruse"
+    employer: ".the tech collective"
+    image: "lars-kruse.jpg"
+  - name: "Mads Høgstedt Danquah"
+    employer: "The LEGO Group"
+    image: "mads-danquah.jpg"
+  - name: "Rasmus Hald"
+    twitter: "RasmusHaldDK"
+    employer: "The LEGO Group"
+    image: "rasmus-hald.jpg"
+  - name: "Sille Aarslev"
+    employer: "Systematic"
+    image: "sille-aarslev.jpg"
+  - name: "Viktoria Lindbäck"
+    employer: "Eficode"
+    image: "viktoria-lindbaeck.jpg"
+
+# Example
+  # - name: "Sally Fields"
+  #   employer: "Acme Anvil Co."
+  #   twitter: "devopsdays"
+  #   github: "devopsdays"
+  #   facebook: "https://www.facebook.com/sally.fields"
+  #   linkedin: "https://www.linkedin.com/in/sallyfields"
+  #   website: "https://mattstratton.com"
+  #   image: "sally-fields.jpg"
+
+
+organizer_email: "aarhus@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: eficode
+    level: gold
+  - id: solidify
+    level: silver
+  - id: systematic
+    level: silver
+  - id: bankdata
+    level: community
+  - id: danske-bank
+    level: community
+  - id: jysk
+    level: community
+  - id: knowit
+    level: community
+  - id: ok
+    level: community
+  - id: ramboll
+    level: community
+  - id: salling-group
+    level: community
+  - id: stibo-systems
+    level: community
+  - id: stickermule
+    level: community
+  - id: tech-hub-aarhus
+    level: community
+  - id: the-tech-collective
+    level: community
+
+sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: gold
+    label: Gold
+  #    max: 10
+  - id: silver
+    label: Silver
+    max: 0 # This is the same as omitting the max limit.
+  # - id: bronze
+  #   label: Bronze
+  - id: community
+    label: Community
+
+program:
+  - title: "Registration & Breakfast"
+    type: custom
+    date: 2025-04-29
+    start_time: "08:30"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2025-04-29
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "paulina-dubas"
+    type: talk
+    date: 2025-04-29
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Break"
+    date: 2025-04-29
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: "robert-jensen"
+    type: talk
+    date: 2025-04-29
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    date: 2025-04-29
+    start_time: "10:25"
+    end_time: "10:35"
+  - title: "niek-van-raaij"
+    type: talk
+    date: 2025-04-29
+    start_time: "10:35"
+    end_time: "11:05"
+  - title: "Break"
+    date: 2025-04-29
+    start_time: "11:05"
+    end_time: "11:15"
+  - title: "lars-kruse"
+    type: talk
+    date: 2025-04-29
+    start_time: "11:15"
+    end_time: "11:45"
+  - title: "LUNCH"
+    type: custom
+    date: 2025-04-29
+    start_time: "11:45"
+    end_time: "12:35"
+  - title: "Intro Ignite talks"
+    type: custom
+    date: 2025-04-29
+    start_time: "12:35"
+    end_time: "12:40"
+  - title: "Ignite Talks"
+    type: ignite
+    date: 2025-04-29
+    start_time: "12:40"
+    end_time: "13:25"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2025-04-29
+    start_time: "13:25"
+    end_time: "13:40"
+  - title: "Open Space Discussions #1"
+    type: open-space
+    date: 2025-04-29
+    start_time: "13:40"
+    end_time: "14:10"
+  - title: "Break"
+    date: 2025-04-29
+    start_time: "14:10"
+    end_time: "14:35"
+  - title: "Open Space Discussions #2"
+    type: open-space
+    date: 2025-04-29
+    start_time: "14:35"
+    end_time: "15:20"
+  - title: "Break"
+    date: 2025-04-29
+    start_time: "15:20"
+    end_time: "15:25"
+  - title: "Open Space Discussions #3"
+    type: open-space
+    date: 2025-04-29
+    start_time: "15:25"
+    end_time: "16:10"
+  - title: "Break"
+    date: 2025-04-29
+    start_time: "16:10"
+    end_time: "16:20"
+  - title: "johan-abildskov"
+    type: talk
+    date: 2025-04-29
+    start_time: "16:20"
+    end_time: "16:50"
+  - title: "Wrap-up of the Day"
+    type: custom
+    date: 2025-04-29
+    start_time: "16:50"
+    end_time: "17:00"
+  - title: "Mingle & Drinks"
+    type: custom
+    date: 2025-04-29
+    start_time: "17:00"
+    end_time: "17:45"
+  - title: "Dinner & Mingle"
+    type: custom
+    date: 2025-04-29
+    start_time: "17:45"
+    end_time: "22:00"
+  - title: "Breakfast"
+    type: custom
+    date: 2025-04-30
+    start_time: "08:30"
+    end_time: "09:00"
+  - title: "Welcome"
+    type: custom
+    date: 2025-04-30
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "marko-klemetti"
+    type: talk
+    date: 2025-04-30
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Break"
+    date: 2025-04-30
+    start_time: "09:45"
+    end_time: "10:00"
+  - title: "andrey-adamovich"
+    type: talk
+    date: 2025-04-30
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2025-04-30
+    start_time: "10:30"
+    end_time: "10:40"
+  - title: "Open Space Discussions #1"
+    type: open-space
+    date: 2025-04-30
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Break"
+    date: 2025-04-30
+    start_time: "11:10"
+    end_time: "11:15"
+  - title: "Open Space Discussions #2"
+    type: open-space
+    date: 2025-04-30
+    start_time: "11:15"
+    end_time: "12:05"
+  - title: "LUNCH"
+    type: custom
+    date: 2025-04-30
+    start_time: "12:05"
+    end_time: "12:55"
+  - title: "Open Space Discussions #3"
+    type: open-space
+    date: 2025-04-30
+    start_time: "12:55"
+    end_time: "13:40"
+  - title: "Break"
+    date: 2025-04-30
+    start_time: "13:40"
+    end_time: "13:50"
+  - title: "daniel-raniz-raneland"
+    type: talk
+    date: 2025-04-30
+    start_time: "13:50"
+    end_time: "14:20"
+  - title: "Break"
+    date: 2025-04-30
+    start_time: "14:20"
+    end_time: "14:45"
+  - title: "kristina-kondrashevich"
+    type: talk
+    date: 2025-04-30
+    start_time: "14:45"
+    end_time: "15:15"
+  - title: "Break"
+    date: 2025-04-30
+    start_time: "15:15"
+    end_time: "15:25"
+  - title: "henning-kjaer"
+    type: talk
+    date: 2025-04-30
+    start_time: "15:25"
+    end_time: "15:55"
+  - title: "Wrap Up"
+    date: 2025-04-30
+    start_time: "15:55"
+    end_time: "16:10"
+
+ignites:
+  - title: "rasmus-lystrom"
+    date: 2025-04-29
+  - title: "simon-izydorek"
+    date: 2025-04-29
+  - title: "jessica-andersson"
+    date: 2025-04-29
+  - title: "marius-tanawa-tsamo"
+    date: 2025-04-29

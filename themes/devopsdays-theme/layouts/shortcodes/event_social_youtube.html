@@ -1,0 +1,7 @@
+{{- $e := partial "functions/get-event-data" . -}}
+
+{{- if $e.event_social_youtube -}}
+  <a href="https://www.youtube.com/@{{ $e.event_social_youtube }}" class="fa-brands social-yt fa-youtube" target="_blank" title="Subscribe to our channel"></a>
+{{- else -}}
+  <a href="https://www.youtube.com/@{{ index .Params 0 }}" class="fa-brands fa-youtube" target="_blank" title="subscribe to our channel"></a>
+{{- end -}}

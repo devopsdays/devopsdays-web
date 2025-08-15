@@ -1,6 +1,14 @@
 {{- $e := partial "functions/get-event-data" . -}}
 {{- $.Scratch.Set "contentdir" (printf "static/events/%s/" $e.name) -}}
-{{- if (where (readDir "static/events") "Name" $e.name) -}}
+{{- $.Scratch.Set "assetsdir" (printf "assets/events/%s/" $e.name) -}}
+{{- if (where (readDir "assets/events") "Name" $e.name) -}}
+  {{- if (where (readDir ($.Scratch.Get "assetsdir")) "Name" "logo.png") -}} 
+    {{- $imagelocation := (printf "events/%s/logo.png" $e.name) -}}
+    {{- $imageresource := resources.Get $imagelocation -}}
+    {{- $imagefile := $imageresource.Resize "600x webp Lanczos q100" -}}
+    <img alt="devopsdays {{ $e.city }} {{ $e.year }}" src='{{ $imagefile.RelPermalink }}' class="welcome-page-event-logo"/>
+  {{- end -}}
+  {{- else if (where (readDir "static/events") "Name" $e.name) -}}
   {{- if (where (readDir ($.Scratch.Get "contentdir")) "Name" "logo.jpg") -}}
     {{- $.Scratch.Set "logo" "logo.jpg" -}}
   {{- else -}}

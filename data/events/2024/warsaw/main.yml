@@ -1,0 +1,197 @@
+name: "2024-warsaw" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2024" # The year of the event. Make sure it is in quotes.
+city: "Warsaw" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdayswaw" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays is coming to Warsaw!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+masthead_background: "dod_warsaw_banner.jpg"
+event_logo: "logo-square.png"
+
+# All dates are in unquoted 2024-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2024-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2024-11-05T00:00:00+02:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2024-11-06T19:00:00+02:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2024-03-31
+cfp_date_end: 2024-07-14
+cfp_date_announce: 2024-03-31
+
+cfp_link: "https://devopsdays.pl/call-for-papers-2024/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: 2024-03-31T09:00:00+02:00
+registration_date_end: 2024-11-06T19:00:00+02:00
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://eventory.cc/event/devopsdays-warsaw-2024/tickets" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+# coordinates: "" # No longer used
+
+location: "EXPO XXI in Warsaw"
+location_address: "Ignacego Prądzyńskiego 12/14, 01-222 Warsaw"
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: propose
+ # - name: location
+  - name: registration
+  - name: program
+    url: "https://devopsdays.pl/#schedule"
+ # - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Kuba Barć"
+    image: "jakub_barc.jpg"
+    bio: "SRE with Splunk, trying to get Splunk Monitoring (a.k.a SignalFx) to scale properly. 10+ years of experience with companies like IBM, UBS, Splunk and Facebook. Not a fan of Jenkins"
+  - name: "Piotr Godowski"
+    image: "pior-godowski.jpg"
+    employer: "IBM"
+    linkedin: "https://www.linkedin.com/in/piotr-godowski-4274091/"
+    bio: "Piotr is a seasoned software architect working at IBM, currently focused on Hybrid Clouds management and software licensing in the containerized world. Passionate of IT technologies, including AI, cyber security, BI, IoT and distributed systems. Member of ISO/IEC Polish National Body, owner of several software patents."
+  - name: "Andrzej Grzesik"
+    image: "grzesik.jpg"
+    bio: "ags loves distributed systems in all shapes and forms. He has written software in many languages, and continuously finds JVM his favourite platform.He believes „most software problems are people problems”, so he stirrs communities (Polish JUG), organizes and speaks at conferences (proud to be a JavaONE Rockstar!). He is passionate about all things data, because science! In his spare time… cycling, photography and books. And he is a Java Champion!"
+  - name: "Janusz Kamieński"
+    linkedin: "https://www.linkedin.com/in/jakamienski/"
+    employer: "Splunk - a Cisco company"
+    image: "dod_jk.jpg"
+    bio: "Developer, journalist, tabletop RPG Game Master and milkoholic. Active participant of dev communities, co-organizer of meetups and DevOps conferences in Poland. Applies DevOps pattern on tech and business side in all projects he touches. For a dozen of years worked in web technologies. Full-stack developer since 2008. Gains experience and new levels in everyday work at Splunk. Loves to train Acro Yoga and ride a bike in his spare time."
+  - name: "Przemysław Koltermann"
+    image: "koltermann.jpg"
+    bio: "Docker Certified Associate and Docker Community Leader in Warsaw. Senior Software Engineer at GOG.com. Team DevOps, active everywhere where developers and IT meet, like development environment, deploy pipelines or Kubernetes. Master of Science in Computer Networking. Active Docker and Kubernetes advocate, performing lectures and trainings."
+  - name: "Joanna Matusiak"
+    image: "joanna-matusiak.jpg"
+    employer: "PROIDEA"
+  - name: "Olga Michaliszyn"
+    image: "placeholder.jpg"
+    employer: "PROIDEA"
+  - name: "Aleksandra Michalska"
+    image: "aleksandra-michalska.jpg"
+    employer: "PROIDEA"
+    bio: "Communication, connecting the community, talking about IT from a non-tech perspective. Aleksandra is the invisible voice of the conference, making sure everyone feels well-informed and gets answers to all questions."
+  - name: "Karolina Ochlik"
+    image: "karolina.jpg"
+    employer: "AstraZeneca"
+    bio: "DevOps Consultant that believes in integrating IT and soft skills while bringing DevOps best practices and SRE approach. Leader, tech enthusiast, coder, CKAD, CKA certified and certified communications trainer."
+    linkedin: "https://www.linkedin.com/in/karolina-ochlik/"
+  - name: "Paweł Piwosz"
+    employer: "Tameshi"
+    image: "piwosz.jpg"
+    bio: "DevOps Institute Ambassador. CD.Foundation Ambassador. AWS Community Builder. Engineer, leader, mentor, speaker. My focus is on CALMS. I am building better understanding of DevOps as driver for the organization. I am devoted to Serverless and CI/CD. I authored the framework for design the CI/CD - www.cicd.run. Host of Last Week In IT and DevOps In Agile Way podcasts."
+  - name: "Pedro Ivo Raimundo"
+    image: "pedro_ivo_raimundo.jpg"
+    bio: "Olá, tudo bem? My name is Pedro and I'm a Cloud Engineering Manager at Pegasystems. I've worked for companies like IBM, Luxoft, Eaton, and now Pega. These days, my focus is on Cloud, SaaS, DevOps and mostly, leadership. When I'm not catching up with my Steam games backlog, I love participating in conferences, hackathons, learning new things and meeting new people. See you around!"
+  - name: "Natalia Stawarz"
+    image: "natalia_stawarz.jpg"
+    bio: "DevOps Lead and Engineer from Lodz with nearly 4 years of dedicated experience in the field, has become a seasoned professional specializing in AWS Cloud computing and infrastructure. Certified AWS Solution Architect Associate & AWS Security Specialty. Started pretty late with Kubernetes yet caching up very quickly so really keen on discussing different approaches in k8s world. Experienced in teaching and onboarding not tech-savvy people into AWS Cloud and DevOps world. Big fan of Terraform and Github Actions, not so great into Jenkins and Helm. Enthusiast of holistic and KISS approach as much as in DevOPs field and in real live, especially physical activities and sports."
+  - name: "Paulina Tomaszewska"
+    employer: "PROIDEA"
+    image: "paulina-tomaszewska.jpg"
+  - name: "Agnieszka Welian"
+    employer: "Pegasystems"
+    image: "agnieszka_welian.jpg"
+    linkedin: "https://www.linkedin.com/in/agnieszka-welian/"
+    bio: "Agnieszka is a dedicated engineer specializing in cloud solutions, with expertise in cutting-edge technologies such as Kubernetes and Terraform. She also brings valuable insights from her experience in testing activities. Agnieszka is passionate about enhancing people’s wellbeing and promoting a healthy work-life balance. Outside of her professional endeavors,  she is a sports freak, board game lover and owner of two adorable cats."
+
+
+organizer_email: "warsaw@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: elastic
+    level: platinum
+    url: https://www.elastic.co
+  - id: spacelift
+    level: gold_partner
+  - id: googlecloud
+    level: partner
+  - id: tameshi
+    level: partner
+  - id: clari
+    level: partner
+  - id: ergo
+    level: partner
+  - id: flox
+    level: partner
+  - id: kubeevents
+    level: media
+  - id: kubecareers
+    level: media
+  - id: challenge-rocket
+    level: media
+  - id: cloudowski
+    level: media
+  - id: crossweb
+    level: media
+  - id: it-leaders
+    level: media
+  - id: justjoinit
+    level: media
+  - id: programista
+    level: media
+  - id: megapraca
+    level: media
+  - id: radio17
+    level: media
+  - id: solidjobs
+    level: media
+  - id: teoriabiznesu
+    level: media
+  - id: testerzypl
+    level: media
+  - id: wkontenerach
+    level: media
+  - id: asiwroclaw
+    level: community
+  - id: future
+    level: community
+  - id: jesien-linuksowa
+    level: community
+  - id: cloud-native-group-krakow
+    level: community
+  - id: akskonsultant
+    level: community
+  - id: secopspolska
+    level: community
+  - id: sysopspolska
+    level: community
+  - id: wearedevelopers
+    level: community
+
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: platinum
+    label: Platinum Partner
+  - id: gold_partner
+    label: Gold Parner
+  - id: partner
+    label: Partners
+#    max: 10
+#  - id: silver
+#    label: Silver
+#    max: 0 # This is the same as omitting the max limit.
+#  - id: bronze
+#    label: Bronze
+  - id: media
+    label: Media Partner
+  - id: community
+    label: Community Partner

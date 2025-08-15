@@ -4,11 +4,184 @@ Type = "event"
 Description = "Sponsor devopsdays Belo Horizonte 2024"
 +++
 
-Valorizamos muito os patrocinadores para este evento aberto. Se você estiver interessado em patrocinar, envie-nos um e-mail para [{{< email_organizers >}}].
-
+Valorizamos muito os patrocinadores deste evento aberto. Se você estiver interessado em patrocinar, envie um e-mail para devopsdaysbhz@gmail.com 
 <hr>
+<br><br>
+<div>
+<h2> PROPOSTA DE PATROCÍNIO</h2>
+<p>
+Os nossos parceiros são encorajados a assumirem uma postura de participação ativa, se engajarem com os participantes e a sugerirem temas para os open spaces, sessões auto-organizadas abertas para discussões revelantes. <strong>Queremos que nossos parceiros se envolvam no evento!</strong>
+</p>
+<p>
+Entendemos que uma maior quantidade de parceirias é benéfica para o evento, proporcionando uma ótima oportunidade para "mergulhar" mais fundo no mundo DevOps, assim como fazer networking e afins, por conta disso optamos por trabalhar com cotas com valores mais acessíveis para esse evento.
+</p>
+<p>
+Visando valorizar a participação de instituições na realização do evento, foram organizados grupos de parcerias. Cada grupo proporciona uma série de vantagens aos parceiros oficiais, com os requisitos definidos e a contrapartida correspondente, conforme demonstado na tabela abaixo.
+</p>
+<br>
+<h3> <b>INFORMAÇÃO IMPORTANTE SOBRE O PATROCÍNIO</b></h3>
+Cada cota de investimento, além dos benefícios abaixo também dá direito a mais um beneficio a sua escolha. 
+Para entender qual benefício você pode escolher, entre em contato no e-mail devopsdaysbhz@gmail.com ou visite nosso midia kit clicando no icone abaixo:</p> 
+<p><a href="https://drive.google.com/file/d/1qtUfaBgc7pZb9rKXJOYLcPNlpvpBdTSn/view?usp=sharing"><i class="fa fa-download" style="font-size:30px"></i></a></p>
+</div>
+<br>
 
-devopsdays é uma conferência auto-organizada para praticantes que depende de patrocínios. Não temos estandes de fornecedores, não vendemos apresentações de produtos nem distribuímos listas de contatos de participantes. Os patrocinadores têm a oportunidade de fazer apresentações curtas durante o programa e obterão reconhecimento no site e nas mídias sociais antes, durante e depois do evento. Os patrocinadores são incentivados a se representar participando ativamente e se envolvendo com os participantes como colegas. Qualquer participante também tem a oportunidade de demonstrar produtos/projetos como parte de uma sessão open space.
+<div class="table-responsive text-center">
+
+  <table class="table table-bordered table-hover table-responsive-md">
+    <thead class="thead-light">
+      <th>BENEFÍCIOS</th>
+        <th>BRONZE</th>
+        <th>PRATA</th>
+        <th>OURO</th>
+        <th>PLATINA</th>
+        <th>DIAMANTE</th>
+    </thead>
+    <tr>
+      <td>Participação no jantar dos palestrantes</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Definir um tema no openspaces</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Acesso o e-mail dos paticipantes que concordaram com o compartilhamento</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>05 minutos de fala</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Exibição de vídeo institucional durante o evento (no máximo 30 segundos)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Balcão/Stand promocionaL</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+     <tr>
+      <td>Logo no fundo de palco</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Logo nos cordões de crachá</td>
+      <td></td>
+      <td></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Logo nos materiais de marketing</td>
+      <td></td>
+      <td></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Logo no fundo de palco</td>
+      <td></td>
+      <td></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Logo nos materiais de marketing</td>
+      <td></td>
+      <td></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Distribuição de brindes nas pastas dos participantes</td>
+      <td></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Destaque nos banners físicos</td>
+      <td></td>
+      <td>Tamanho P</td>
+      <td>Tamanho M</td>
+      <td>Tamanho G</td>
+      <td>Tamanho Extra G</td>
+    </tr>
+    <tr>
+      <td>Logo no site do evento/releases</td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Divulgação nas redes sociais</td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Inscrições para o evento*</td>
+      <td>02</td>
+      <td>04</td>
+      <td>06</td>
+      <td>08</td>
+      <td>08</td>
+    </tr>
+    <tr>
+      <td><b>Contribuição</b></td>
+      <td><b>R$ 2.500,00</b></td>
+      <td><b>R$ 5.000,00</b></td>
+      <td><b>R$ 7.000,00</b></td>
+      <td><b>R$ 10.000,00</b></td>
+      <td><b>R$ 18.000,00</b></td>
+    </tr>
+  </table>
+</div>
+<div>
+
+<br>
+<h4><b>COMUNIDADE</b></h4>
+  <p>Apoiadores que contribuiram com algum beneficio para o público ou quantia entre R$ 1.000 e R$ 1.500 terão direito à divulgação nas redes sociais e 1 inscrição para o evento.</p>
+   
+</div>
 <!-- <p>
 Gold sponsors get a full table and Silver sponsors a shared table where they can interact with those interested to come visit during breaks. All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
 <p>

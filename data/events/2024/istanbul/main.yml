@@ -38,7 +38,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: location
   - name: registration
  # - name: program
- # - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -79,10 +79,22 @@ organizer_email: "istanbul@devopsdays.org" # Put your organizer email address he
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: devopsturkey
-    level: community
-  - id: serverlessturkey
-    level: community
+  - id: kloia
+    level: platinum
+  - id: bestcloudforme
+    level: platinum
+  - id: jumpcloud
+    level: gold
+  - id: oobeya
+    level: gold
+  - id: parny
+    level: silver
+  - id: appcircle
+    level: silver
+  - id: akbank
+    level: platinum
+  - id: sufle
+    level: platinum
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -91,6 +103,8 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id : platinum
+    label: Platinum
   - id: gold
     label: Gold
 #    max: 10
