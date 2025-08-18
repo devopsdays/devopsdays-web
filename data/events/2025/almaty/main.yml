@@ -20,8 +20,8 @@ cfp_date_announce:  # inform proposers of status
 
 cfp_link: "https://forms.gle/Q8fpFi6UhatxLmsb6" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start: 2025-07-15T09:00:00+06:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2025-10-23T18:00:00+06:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://tickets.devopsdays.kz/?lang=en" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -36,23 +36,16 @@ location_address: "Farabi Hub, Al-Farabi Avenue 71" # Optional - use the street 
 
 # Optional - Social badges
 # These can be used in the body of any page via matching shortcodes. See sample:  https://devopsdays.org/events/2025-denver/welcome/
-event_social_linkedin: "https://linkedin.com/company/devopsdays" # Change this to the url to your Linkedin group, company, or page.
-event_social_slack: "https://join.slack.com/t/devopsdays/custom_shared_invite_url" # Change this to your slack invite link.
-event_social_listserv: "https://lists.devopsdays.org/subscription?custom_listserv_invite_url" # Change this to your mailing list subscription form url.
-event_social_twitter: "devopsdays" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-event_social_mastodon: "https://mastodon.social/@devopsdays" # Change this to url to your mastodon page
-event_social_bsky: "https://bsky.app/profile/devopsdays.bsky.social" # Change this to url to your bluesky page
-event_social_youtube: "devopsdays" # Change this to the youtube channel handle for your event such as devopsdaysrox
-# legacy
-event_twitter: "devopsdays" # This will create a traditional "Follow" twitter button. Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp.
+event_social_linkedin: "https://linkedin.com/company/devopsdays-almaty" # Change this to the url to your Linkedin group, company, or page.
+event_social_youtube: "devopsdaysalmaty5046" # Change this to the youtube channel handle for your event such as devopsdaysrox
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
-  - name: location
+ # - name: location
   - name: registration
  # - name: program
  # - name: speakers
-  - name: sponsor
+ # - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
@@ -76,6 +69,18 @@ organizer_email: "almaty@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: halyk
+    level: gold
+  - id: pskz
+    level: silver
+  - id: suse
+    level: silver
+  - id: vk-cloud
+    level: silver
+  - id: servercore
+    level: silver
+  - id: yandexcloud
+    level: silver
   - id: kubeevents
     level: community
   - id: kubecareers
@@ -90,10 +95,8 @@ sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Gold
-#    max: 10
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
   - id: community
