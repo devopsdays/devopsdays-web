@@ -99,4 +99,3 @@ Andrew is a Principal at Ergonautic.
 <!--
 {{< event_twitter >}}
 -->
-<img width="896" height="2954" alt="image" src="https://github.com/user-attachments/assets/19ee98cf-57d7-405c-8521-b29cc71d4e24" />
