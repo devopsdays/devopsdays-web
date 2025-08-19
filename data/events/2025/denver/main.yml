@@ -41,7 +41,7 @@ location_address: "2875 Blake St, Denver, CO 80205" #Optional - use the street a
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   # - name: propose
- # - name: location
+  - name: location
   - name: registration
   - name: program
   - name: speakers
@@ -88,6 +88,8 @@ sponsors:
   - id: minimus
     level: gold
   - id: infisical
+    level: gold
+  - id: komodor
     level: gold
   - id: flox
     level: silver
