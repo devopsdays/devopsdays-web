@@ -385,8 +385,8 @@ program:
     date: 2025-09-18
     start_time: "12:45"
     end_time: "13:30"
-  - title: "TBD"
-    type: custom
+  - title: "dave-stokes"
+    type: talk
     date: 2025-09-18
     start_time: "13:30"
     end_time: "14:00"

@@ -1,9 +1,9 @@
 +++
-Title = "Jeff Lloyd"
+Title = "Jeff Loyd"
 Twitter = "jeffloyd"
 website = "https://try.cloudteamtx.com/jeff-linktree/"
 linkedin = "https://www.linkedin.com/in/cloud-realtor/"
-image = "jeff-lloyd.jpg"
+image = "jeff-loyd.jpg"
 type = "speaker"
 linktitle = "vibe-coding"
 
