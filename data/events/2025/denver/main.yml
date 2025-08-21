@@ -97,6 +97,8 @@ sponsors:
     level: silver
   - id: dryrun-security
     level: silver
+  - id: launch-darkly
+    level: silver
   - id: fairwinds
     level: supporter
   - id: releaseteam
