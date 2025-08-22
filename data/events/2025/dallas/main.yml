@@ -202,6 +202,8 @@ sponsors:
     level: community
   - id: redhatmug
     level: community
+  - id: texas-state-university
+    level: community
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
