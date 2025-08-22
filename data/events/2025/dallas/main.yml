@@ -178,6 +178,8 @@ sponsors:
     level: gold
   - id: fluidattacks
     level: gold
+  - id: launch-darkly
+    level: gold
   - id: pulumi
     level: silver
   - id: coder
