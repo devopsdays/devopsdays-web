@@ -6,8 +6,15 @@ Description = "DevOpsDays Cairo 2025"
 +++
 <p>For the 8th consecutive year, ITIDA/SECC is organizing DevOpsDays Cairo Conference 2025 in cooperation with: ATOS, AUC, Cairo University, Cegedim, DXC Technology, Egypt University of Informatics, Orange Innovation Egypt,  Stakpak, and Vodafone Intelligent Solutions. 
 </p>
+ We are pleased to announce that one of our Keynote speakers will be <strong><a href="https://www.linkedin.com/in/andrewclayshafer/">Andrew Clay Shafer</a></strong> with other DevOps Heroes. 
+  <img alt="" border ="0" height="200" align="right" src="/events/2025-cairo/speakers/andrew-clay-shafer.jpg" />
+</p>
+  <p>
+  Andrew was devopsing before devops was a word. He is often referenced as a foundational voice in the devops movement with a lot of experience and perspective contributing to open source, operating services and building communities. DevOps has been very good to Andrew and he has tried to return the favor.
+<br>
+Andrew is a Principal at Ergonautic.
+</p>
 
-<p>&nbsp;</p>
 <p><strong>Date &amp; Time: </strong>Saturday, Sep 27th, 2025</p>
 <p>Follow us, adjust your calendar notifications and stay tuned!
 </p>

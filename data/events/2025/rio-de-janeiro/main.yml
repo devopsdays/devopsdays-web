@@ -205,7 +205,7 @@ program:
     end_time: "11:00"
     comments: "Trilha Iniciante - Sala: Deploy"
     background_color: "#fdf0d5"
-  - title: "fernando-teles"
+  - title: "miguel-di-ciurcio-filho"
     type: talk
     date: 2025-08-16
     start_time: "10:30"
@@ -292,14 +292,14 @@ program:
     comments: "Trilha Avançada - Sala: Rollback"
     background_color: "#81b29a"
 
-  - title: luiz-guilherme-trindade-ribeiro
+  - title: thadeu
     type: talk
     date: 2025-08-16
     start_time: "14:45"
     end_time: "15:15"
     comments: "Trilha Iniciante - Sala: Deploy"
     background_color: "#fdf0d5"
-  - title: miguel-di-ciurcio-filho
+  - title: luiz-guilherme-trindade-ribeiro
     type: talk
     date: 2025-08-16
     start_time: "14:45"
