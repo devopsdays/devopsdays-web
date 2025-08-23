@@ -178,6 +178,8 @@ sponsors:
     level: gold
   - id: fluidattacks
     level: gold
+  - id: launch-darkly
+    level: gold
   - id: pulumi
     level: silver
   - id: coder
@@ -201,6 +203,8 @@ sponsors:
   - id: nextop
     level: community
   - id: redhatmug
+    level: community
+  - id: texas-state-university
     level: community
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -385,8 +389,8 @@ program:
     date: 2025-09-18
     start_time: "12:45"
     end_time: "13:30"
-  - title: "TBD"
-    type: custom
+  - title: "dave-stokes"
+    type: talk
     date: 2025-09-18
     start_time: "13:30"
     end_time: "14:00"
