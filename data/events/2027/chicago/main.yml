@@ -76,6 +76,7 @@ team_members: # Name is the only required field for team members.
     image: "schuyler-bishop.jpg"
     github: "shoeler"
     linkedin: "https://www.linkedin.com/in/schuylerbishop/"
+    website: "https://schuyler.sreconsulting.io"
     bio: "Hopeless technology / computer geek with a deep interest in SRE, high-trust teams, moving ops towards devs, and the Oxford comma.  I love moving fast, breaking a few things, and showing how true blameless cultures conquer all preconceived fears of other leaders."
   - name: "Courtney Bolton"
   - name: "Dawn Parzych"
