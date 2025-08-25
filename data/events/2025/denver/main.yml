@@ -103,6 +103,8 @@ sponsors:
     level: supporter
   - id: releaseteam
     level: supporter
+  - id: semgrep
+    level: supporter
   - id: code-talent
     level: community
   - id: kubecareers
