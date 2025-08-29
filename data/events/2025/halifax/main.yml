@@ -90,6 +90,8 @@ sponsors:
   level: venue
 - id: dns
   level: networking-event
+- id: netlify
+  level: raffle
 - id: kubecareers
   level: community
 - id: kubeevents
@@ -123,6 +125,9 @@ sponsor_levels:
   - id: networking-event
     label: Networking Event
     max: 1
+  - id: raffle
+    label: Raffle
+    max: 1    
   - id: community
     label: Community
     max: 3

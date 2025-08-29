@@ -67,7 +67,7 @@
 /london/*		/events/2025-london/:splat		302
 /los-angeles/*		/events/2025-los-angeles/:splat		302
 /macapa/*		/events/2019-macapa/:splat		302
-/maceio/*		/events/2024-maceio/:splat		302
+/maceio/*		/events/2025-maceio/:splat		302
 /madison/*		/events/2020-madison/:splat		302
 /madrid/*		/events/2023-madrid/:splat		302
 /manila/*		/events/2011-manila/:splat		302
@@ -173,7 +173,7 @@
 /lima/*            /events/2025-lima/:splat           302
 /rosario/*            /events/2020-rosario/:splat           302
 /aarhus/*            /events/2025-aarhus/:splat           302
-/almaty/*            /events/2024-almaty/:splat           302
+/almaty/*            /events/2025-almaty/:splat           302
 /organizer-summit/*            /events/2024-organiser-summit/:splat           302
 /organiser-summit/cfp          https://talks.devopsdays.org/organiser-summit-2024/cfp           302
 /belo-horizonte/*	/events/2025-belo-horizonte/:splat	302
