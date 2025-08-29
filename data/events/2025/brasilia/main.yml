@@ -136,8 +136,12 @@ sponsors:
   #   level: community
   - id: 4linux
     level: silver
-  # - id: linuxtips
-  #   level: silver
+  - id: linuxtips
+    level: silver
+  - id: elastic
+    level: gold
+  - id: somostech
+    level: media
   # - id: pointer
   #   level: gold
   # - id: hub-connect

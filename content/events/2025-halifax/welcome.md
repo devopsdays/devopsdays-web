@@ -45,7 +45,7 @@ Description = "DevOpsDays Halifax 2025"
   width: 100%;
 }
 .hfx .buttons a {
-  flex: 1 1 200px;
+  flex: 0 1 200px;
   display: flex;
   justify-content: center;
 }
@@ -182,7 +182,7 @@ Special discounted tickets are available for students and folks from underrepres
     </div>
   </div>
   <div class="buttons">
-    <a href="https://tickets.devopsdays.org/devopsdays-halifax/2025" class="button-link">Get your Tickets</a>
+    <a href="https://tickets.devopsdays.org/devopsdays-halifax/2025"><button>Get your Tickets</button></a>
     <a href="https://talks.devopsdays.org/devopsdays-halifax-2025/schedule/"><button>Event Schedule</button></a>
     <a href="../location/"><button>Get Venue Info</button></a>
     <a href="https://talks.devopsdays.org/devopsdays-halifax-2025/speaker/"><button>Check Out Our Speakers</button></a>
@@ -190,5 +190,6 @@ Special discounted tickets are available for students and folks from underrepres
     <a href="../sponsor/"><button>Become a Sponsor</button></a>
     <a href="../conduct/"><button>Code of Conduct</button></a>
     <a href="../contact/"><button>Contact Us</button></a>
+    <a href="../convince-your-boss/"><button>Convince Your Boss</button></a>
   </div>
 </div>

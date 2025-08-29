@@ -1,7 +1,7 @@
 +++
-Title = "Location"
+Title = "Local"
 Type = "event"
-Description = "Location for devopsdays Curitiba 2025"
+Description = "Local do Devopsdays Curitiba 2025"
 +++
 
 Esse ano o evento ocorre no Auditório Bloco C do Centro Politécnido da Universidade Federal do Paraná (UFPR)

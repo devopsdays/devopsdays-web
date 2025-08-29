@@ -35,7 +35,7 @@ location_address: "" #Optional - use the street address of your venue. This will
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
- # - name: location
+  - name: location
   - name: registration
   - name: schedule
   - name: speakers
@@ -107,6 +107,10 @@ sponsors:
     level: gold
   - id: jetbrains
     level: community
+  - id: sidegarage
+    level: community
+  - id: we-write-code
+    level: lanyard
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
