@@ -129,6 +129,8 @@ organizer_email: "montreal@devopsdays.org" # Put your organizer email address he
 sponsors:
   - id: morgan-stanley
     level: bronze
+  - id: polytechnique-montreal
+    level: venue
   - id: agile-montreal
     level: community
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
@@ -152,6 +154,9 @@ sponsor_levels:
   - id: bronze
     label: Bronze
     max: 9
+  - id: venue
+    label: Venue
+    max: 1
   # - id: lunch
   #   label: Lunch
   #   max: 2

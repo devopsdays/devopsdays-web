@@ -196,6 +196,8 @@ sponsors:
     level: platinum
   - id: manage-engine
     level: gold
+  - id: grafana
+    level: platinum
 
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 

@@ -129,9 +129,7 @@ sponsors:
   # Logo sponsors
   - id: that-agile
     level: logo
-  - id: "google"
-    level: logo
-  - id: cyberark
+  - id: "googlecloud"
     level: logo
   - id: commify
     level: logo
@@ -140,6 +138,8 @@ sponsors:
   - id: "clearbank"
     level: logo
   - id: mindgard
+    level: logo
+  - id: syntasso
     level: logo
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link

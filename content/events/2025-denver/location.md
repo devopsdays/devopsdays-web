@@ -15,8 +15,9 @@ This year’s event will be held in Downtown Denver at [Bierstadt Lagerhaus](htt
 **[Denver, CO 80205](https://maps.app.goo.gl/2EcYB5L7as1Wjzrv9)**
 
 ### Parking
-There is extremely limited parking at the brewery, with open street parking surrounding. Details to come on reserved parking in a nearby lot/garage.
-<!-- We plan to have parking available for attendees at no additional cost at the Parkwell Parking Garage on 3500 Blake st. (3 blocks away from the venue.) A QR code will be sent out to attendees the night before the event which can be used for parking entry.-->
+There is extremely limited parking at the brewery, with open street parking surrounding. 
+
+We also have parking available for attendees at no additional cost at the [LAZ Parking - Coors Field Garage - 2701 Blake Street Denver, CO 80205](https://maps.app.goo.gl/uGmJCMde2H5NW1hA6), 1 block away from the venue. A QR code will be sent out to attendees the night before the event which can be used for parking entry.
 
 If possible, we recommend carpooling or taking public transportation. Bierstadt is a 10-15 minute walk to numerous stations!
 
