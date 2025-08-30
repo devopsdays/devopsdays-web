@@ -177,6 +177,16 @@ sponsors:
     level: gold
   - id: aerospike
     level: gold
+  - id: doit
+    level: gold
+  - id: robusta
+    level: gold
+  - id: automat_it
+    level: gold
+  - id: baseshift
+    level: community
+  - id: devops_leaders_il
+    level: community
   - id: statscraft
     level: community
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
@@ -189,6 +199,8 @@ sponsors:
   - id: terasky-only
     level: community-day
   - id: quali
+    level: community-day
+  - id: scylladb
     level: community-day
   
   

@@ -22,7 +22,7 @@ Description = "Sponsor devopsdays Tel Aviv 2025"
 ## Demo Theater
 <img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Demo-Theater.JPG?raw=true" width="500">
 
-## Coffee Sponsor
+## Coffee Sponsor - SOLD OUT
 <img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/coffee-1.JPG?raw=true" width="500">&nbsp;<img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Coffee-2.JPG?raw=true" width="500">
 
 ## Happy Hour Sponsor
