@@ -370,8 +370,8 @@ program:
     date: 2025-09-18
     start_time: "10:15"
     end_time: "10:30"
-  - title: "elena-marquetti-ali"
-    type: talk
+  - title: "TBD"
+    type: custom
     date: 2025-09-18
     start_time: "10:30"
     end_time: "11:00"
