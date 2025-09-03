@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Observabilidade como estratégia: Estabilizando produção do iFood"
+Title = "Observabilidade como estratégia: Resiliência na prática no IFood"
 Type = "talk"
 Speakers = ["luiz-guilherme-trindade-ribeiro"]
 +++

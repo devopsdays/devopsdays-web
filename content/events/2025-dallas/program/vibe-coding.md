@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Build, Buy, or Ask the Bots? Re-pricing Software Economics in the Vibe-Coding Era"
 Type = "talk"
-Speakers = ["jeff-lloyd", "neer-patel"]
+Speakers = ["jeff-loyd", "neer-patel"]
 +++
 
 We once chose “build” or “buy” with spreadsheets full of human-hour rates and three-year license costs. Vibe-coding and swarms of code-writing agents have flipped that script. During this talk you will:

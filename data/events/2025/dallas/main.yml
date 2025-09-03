@@ -178,6 +178,12 @@ sponsors:
     level: gold
   - id: fluidattacks
     level: gold
+  - id: launch-darkly
+    level: gold
+  - id: gmfinancial
+    level: gold
+  - id: cockroachlabs
+    level: gold
   - id: pulumi
     level: silver
   - id: coder
@@ -187,6 +193,8 @@ sponsors:
   - id: harness
     level: silver
   - id: komodor
+    level: silver
+  - id: swa
     level: silver
   - id: arresteddevops
     level: community
@@ -199,6 +207,10 @@ sponsors:
   - id: nextop
     level: community
   - id: redhatmug
+    level: community
+  - id: texas-state-university
+    level: community
+  - id: dallastechxchange
     level: community
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -358,8 +370,8 @@ program:
     date: 2025-09-18
     start_time: "10:15"
     end_time: "10:30"
-  - title: "elena-marquetti-ali"
-    type: talk
+  - title: "TBD"
+    type: custom
     date: 2025-09-18
     start_time: "10:30"
     end_time: "11:00"
@@ -383,8 +395,8 @@ program:
     date: 2025-09-18
     start_time: "12:45"
     end_time: "13:30"
-  - title: "TBD"
-    type: custom
+  - title: "dave-stokes"
+    type: talk
     date: 2025-09-18
     start_time: "13:30"
     end_time: "14:00"
