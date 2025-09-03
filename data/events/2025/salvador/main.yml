@@ -24,7 +24,7 @@ registration_date_start: 2025-08-01T08:00:00-03:00 # start accepting registratio
 registration_date_end: 2025-12-05T23:59:59-03:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "devopsdayssalvador.eventize.com.b" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://devopsdayssalvador.eventize.com.br" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 masthead_background: "bg-dodssa.jpg" 
 
