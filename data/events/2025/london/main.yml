@@ -133,6 +133,10 @@ sponsors:
     level: logo
   - id: commify
     level: logo
+  - id: dxw
+    level: logo
+  - id: github
+    level: logo
   - id: "oxa"
     level: logo
   - id: "clearbank"
@@ -173,7 +177,7 @@ sponsor_levels:
 
 program:
   # Day one
-  - title: "Registration, Breakfast"
+  - title: "Registration & Coffee"
     type: custom
     date: 2025-09-23T00:00:00+01:00
     start_time: "09:00"
@@ -270,7 +274,7 @@ program:
   #   end_time: "Onwards"
 
   # Day two
-  - title: "Breakfast"
+  - title: "Registration & Coffee"
     type: custom
     date: 2025-09-24T00:00:00+01:00
     start_time: "09:00"
