@@ -80,6 +80,16 @@ a.jssocials-share-link, a.event-cta-button {
 <div class="mtl">
   <div class="showcase">
     <p>
+      <a href="https://lets.events/e/devopsdays-campinas-2025/">
+        <button>INSCREVA-SE</button>
+      </a>
+    </p>
+    <p>
+      <a href="https://talks.devopsdays.org/devopsdays-campinas-2025/schedule/">
+        <button>PROGRAMAÇÃO</button>
+      </a>
+    </p>
+    <p>
       <a href="https://www.canva.com/design/DAGhWR7yW-o/aHW-PRY8qmxMehurTY_KTw/view">
         <button>PATROCINE</button>
       </a>
@@ -97,9 +107,14 @@ a.jssocials-share-link, a.event-cta-button {
     <h3>18 de outubro de 2025</h3>
     <h4>Instituto de Computação - Unicamp</h4>
     <hr/>
-    <h2>Quer palestrar?</h2>
+    <h2>Quer participar?</h2>
     <h3>
-      <a href="https://talks.devopsdays.org/devopsdays-campinas-2025/cfp">Envie aqui sua proposta de palestra!</a>
+      <a href="https://lets.events/e/devopsdays-campinas-2025/">Faça sua inscrição</a>
+    </h3>
+    <hr/>
+    <h2>O que vai rolar?</h2>
+    <h3>
+      <a href="https://talks.devopsdays.org/devopsdays-campinas-2025/schedule/">Veja a programação atualizada</a>
     </h3>
     <hr/>
     <h2>Quer patrocinar?</h2>
