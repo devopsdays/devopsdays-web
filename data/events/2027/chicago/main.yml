@@ -85,6 +85,7 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/corey-ward-508ab63a/"
     bio: "Corey Ward is a Senior Software Engineer at Relativity. He is a father of two children. He loves talking to people. In his free time, Corey reads fantasy novels, plays Beat Saber and loses in Horizon World's Arena Clash."
   - name: "Courtney Bolton"
+    image: "courtney-bolton.jpg"
     linkedin: "https://www.linkedin.com/in/c-e-bolton/"
   - name: "Dawn Parzych"
     image: "dawn-parzych.jpg"
