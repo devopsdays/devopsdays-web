@@ -185,7 +185,7 @@ sponsors:
     level: silver
   - id: mulesoft
     level: silver
-  - id: dynatrace
+  - id: dynatrace-before-20250905
     level: silver
   - id: origoss
     level: silver
