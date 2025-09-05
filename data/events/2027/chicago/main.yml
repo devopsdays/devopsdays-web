@@ -135,6 +135,7 @@ team_members: # Name is the only required field for team members.
   - name: "Trevor Hess"
     twitter: "trevorghess"
     image: "trevor-hess.jpg"
+    role: "Advisory"
   - name: "Albert Cheung"
     image: "albert-cheung.jpg"
     role: "Advisory"
