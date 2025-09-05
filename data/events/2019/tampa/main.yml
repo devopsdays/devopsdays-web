@@ -114,7 +114,7 @@ proposal_email: "tampa@devopsdays.org" # Put your proposal email address here
 sponsors:
   - id: nielsen
     level: venue
-  - id: dynatrace
+  - id: dynatrace-before-20250905
     level: platinum
   - id: gitlab-before-20220516
     level: platinum

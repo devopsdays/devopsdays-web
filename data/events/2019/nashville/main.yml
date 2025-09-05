@@ -64,7 +64,7 @@ proposal_email: "proposals-nashville-2019@devopsdays.org" # Put your proposal em
 sponsors:
   - id: codefresh
     level: gold
-  - id: dynatrace
+  - id: dynatrace-before-20250905
     level: gold
   - id: signalfx
     level: silver

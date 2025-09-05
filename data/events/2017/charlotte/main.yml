@@ -90,7 +90,7 @@ sponsors:
     level: community
   - id: softwaredefinedtalk
     level: community
-  - id: dynatrace
+  - id: dynatrace-before-20250905
     level: coffee
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

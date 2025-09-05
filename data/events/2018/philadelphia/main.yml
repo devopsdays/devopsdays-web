@@ -79,7 +79,7 @@ proposal_email: "proposals-philadelphia-2018@devopsdays.org" # Put your proposal
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: dynatrace
+  - id: dynatrace-before-20250905
     level: gold
   - id: influxdata-before-20220629
     level: gold

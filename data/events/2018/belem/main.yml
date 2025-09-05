@@ -142,7 +142,7 @@ sponsors:
   - id: techlead
     level: platinum
 
-  - id: dynatrace
+  - id: dynatrace-before-20250905
     level: platinum
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link

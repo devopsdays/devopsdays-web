@@ -157,7 +157,7 @@ sponsors:
     level: gold
   - id: rancher-before-20190812
     level: silver
-  - id: dynatrace
+  - id: dynatrace-before-20250905
     level: platinum
   - id: technovation-mn
     level: community
