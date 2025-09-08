@@ -116,7 +116,7 @@ sponsors:
     level: AV
   - id: tonic
     level: gold
-  - id: dynatrace
+  - id: dynatrace-before-20250905
     level: silver
   - id: rightbrain
     level: silver

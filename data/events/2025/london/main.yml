@@ -126,6 +126,8 @@ sponsors:
     level: standard
   - id: chainguard
     level: standard
+  - id: dynatrace
+    level: standard
   # Logo sponsors
   - id: that-agile
     level: logo
