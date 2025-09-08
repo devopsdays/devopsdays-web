@@ -16,7 +16,7 @@ Platinum, Gold, and Silver sponsors get a full table where they can interact wit
 <p>
 The best thing to do is send engineers to interact with the experts at devopsdays on their own terms.
 <p>
-The deadline to purchase a sponsorship package is September 5th, 2025.
+The deadline to purchase a sponsorship package is September 12th, 2025.
 
 <h2>Sponsorship Packages</h2>
 
