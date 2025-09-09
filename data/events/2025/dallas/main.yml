@@ -51,14 +51,6 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
-  - name: "Cayla Halliday"
-    employer: "GM Financial"
-    bio: "Hi there! I'm Cayla Halliday, a passionate and results-oriented program management professional with a knack for problem-solving. \n\nI'm a certified SAFe Agilist PMP and CSM with extensive experience building and optimizing Agile processes, managing teams, and delivering projects on time and within budget. \n\nI'm currently a Portfolio Manager for the Technology Organization within GM Financial. \n\nI am excited to help with the Devopsdays event this year, growing my network and knowledge for improving workflows and automations!"
-    role: "Social Media"
-    twitter: ""
-    linkedin: "https://www.linkedin.com/in/cayla-halliday-pmp-csm-257a9645/"
-    image: "cayla.jpg"
-
   - name: "Gokul Sridharan"
     employer: "Katalon"
     bio: "Gokul Sridharan is a Master’s Degree holder in IT, an entrepreneur by nature and a successful presales management professional at CA Technologies. He has worked there for the past 3 years and successfully managing a business of $10m+ from a technical sales standpoint. Prior to joining CA and pursuing his master’s degree, Gokul started off his career at Accenture as a software developer.<br><br>During that time frame, he also started his own restaurant venture called ‘The Snack Shack’ in India. He loves DevOps concepts and likes to be a part of local meetups. He is also part of the organizing committee in DevOpsDays Dallas, and on in his spare time likes to work on new and innovative ideas."
