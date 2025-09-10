@@ -11,8 +11,6 @@ border:1px solid black;
 </style>
 
 <p style="text-align: center;"><h3>Sponsorship Packages</h3>
-
-  Deadline to submit your Request for Sponsorship is 31 August 2025.
 </p>
 
 <table style="width: 98%;" border="1">
