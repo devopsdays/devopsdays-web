@@ -108,9 +108,9 @@ sponsors:
    level: corporate
  - id: orange
    level: corporate 
- - id: vois
-   level: corporate
  - id: stakpak
+   level: corporate
+ - id: vois
    level: corporate
  - id: cairo-university
    level: academia
@@ -118,8 +118,8 @@ sponsors:
    level: academia
  - id: eui
    level: academia
-# - id: microsoft
-#   level: technology
+ - id: archer
+   level: technology
 # - id: huawei
 #   level: technology
 # - id: ericsson
@@ -132,9 +132,9 @@ sponsors:
 #   level: technology
 # - id: efinance
 #   level: technology
- - id: foss
-   level: community
-   url: #
+# - id: foss
+#   level: community
+#   url: #
  - id: egyptinnovate
    level: community
  - id: tiec
