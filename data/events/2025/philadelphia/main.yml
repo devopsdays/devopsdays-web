@@ -99,7 +99,7 @@ sponsors:
     url: https://flox.dev/
   - id: dynatrace
     level: silver
-  - id: xorg-labs
+  - id: xorq-labs
     level: silver
   - id: kubeevents
     level: community
