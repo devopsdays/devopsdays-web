@@ -5,7 +5,6 @@ Talk_end_time = "13:45"
 Title = "DevEx as a Strategic Asset: Linking Developer Success into Business Outcomes"
 Type = "talk"
 Speakers = ["sara-huddleston"]
-Youtube = "imz9_7F7kNU"
 +++
 
 Platform Engineering and DevOps leaders must move beyond traditional technical and productivity metrics to ensure lasting success. Developer Experience (DevEx) is no longer a luxury—it's a critical business factor that directly influences developer retention, minimizes bottlenecks, speeds up time to market, and leads to superior business outcomes, including higher revenue.

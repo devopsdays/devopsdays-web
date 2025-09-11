@@ -5,7 +5,6 @@ Talk_end_time = "15:45"
 Title = "Strengthening Vulnerability Management in Cloud Development Environments"
 Type = "talk"
 Speakers = ["rob-fletcher"]
-Youtube = "zSrDFCX84yk"
 +++
 
 Effective vulnerability management is essential for secure cloud-native environments. This talk covers key elements like asset tracking, SBOMs, and risk prioritization. Attendees will learn how to implement monitoring pipelines to detect threats early and evaluate vulnerability impacts in fast-paced DevOps workflows.

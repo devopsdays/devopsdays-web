@@ -5,7 +5,6 @@ Talk_end_time = "15:15"
 Title = "Turning Incidents into Insights, Not Insults"
 Type = "talk"
 Speakers = ["heather-osborn"]
-Youtube = "8TuZG0KJB0w"
 +++
 
 Let's face it—most incident retrospectives are about as useful as debug logs without timestamps. They're full of finger-pointing, hindsight bias, and theoretical scenarios where everyone acts with perfect foresight. It's time to change the script. In this talk, we'll explore a blame-aware, human-centered approach to incident management, where every incident becomes an opportunity for meaningful growth, not just a checkbox on the postmortem list.

@@ -5,7 +5,6 @@ Talk_end_time = "17:45"
 Title = "Adding API Security to your DevSecOps Toolbelt"
 Type = "talk"
 Speakers = ["scott-bly"]
-Youtube = "BGz2MPvctMY"
 +++
 
 How do you integrate API Security into your DevSecOps processes? You have DevOps tooling and CI/CD pipelines for your product release cycle. Your Dev & Ops teams work well together. You started a DevSecOps transformation to Shift Left and test code security in pipelines. But how do you integrate the Security teams into DevOps to achieve true DevSecOps? Then, how do you integrate APIs, as they are behavior-based? Traditional AppSec can't identify vulnerabilities in API consumption. Learn how to integrate API testing into Shift Left DevSecOps pipelines to eliminate vulnerabilities. Learn how to bring Dev, Sec, Ops teams together to improve Mean Time To Remediation, and keep your teams happy!

@@ -5,7 +5,6 @@ Talk_end_time = "14:00"
 Title = "Platform Engineers are Product Managers: 10x Your Developer Experience"
 Type = "talk"
 Speakers = ["justin-reock"]
-Youtube = "kq2zwSAEZnA"
 +++
 
 Platform engineering is the foundation of modern software development, equipping teams with the tools and workflows they need to move faster. However, to truly drive impact, platform engineers must think like product managers—leveraging productivity metrics to guide decisions, prioritize investments, and measure success. By applying a data-driven approach, platform teams can optimize developer experience, streamline workflows, and demonstrate tangible ROI on platform initiatives.
