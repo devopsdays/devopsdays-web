@@ -7,7 +7,7 @@
 /austin/*		/events/2025-austin/:splat		302
 /baku/*			/events/2019-baku/:splat		302
 /baltimore/*		/events/2025-baltimore/:splat		302
-/barcelona/*		/events/2013-barcelona/:splat		302
+/barcelona/*		/events/2026-barcelona/:splat		302
 /beijing/*		/events/2023-beijing/:splat		302
 /belem/*		/events/2019-belem/:splat		302
 /belo-horizonte/*	/events/2025-belo-horizonte/:splat	302
@@ -26,8 +26,8 @@
 /cape-town/*		/events/2020-cape-town/:splat		302
 /charlotte/*		/events/2022-charlotte/:splat		302
 /chattanooga/*		/events/2024-chattanooga/:splat		302
-/chicago/cfp    https://talks.devopsdays.org/devopsdays-chicago-2025/cfp 302
-/chicago/*		/events/2025-chicago/:splat		302
+/chicago/cfp    https://talks.devopsdays.org/devops2027-chicago-2025/cfp 302
+/chicago/*		/events/2027-chicago/:splat		302
 /columbus/*		/events/2020-columbus/:splat		302
 /copenhagen/*		/events/2023-copenhagen/:splat		302
 /cuba/*			/events/2019-cuba/:splat		302

@@ -22,11 +22,11 @@ cfp_date_announce: 2025-07-18
 
 cfp_link: https://talks.devopsdays.org/devopsdays-campinas-2025/cfp
 
-registration_date_start:
-registration_date_end:
+registration_date_start: 2025-09-04
+registration_date_end: 2025-10-18
 
 registration_closed:
-registration_link:
+registration_link: https://lets.events/e/devopsdays-campinas-2025/
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
 

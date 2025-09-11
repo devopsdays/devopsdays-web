@@ -1,0 +1,183 @@
+name: "2027-chicago" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2027" # The year of the event. Make sure it is in quotes.
+city: "Chicago" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdayschi" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays is coming to Chicago!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2027-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2027-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start:  # start accepting talk proposals.
+cfp_date_end:  # close your call for proposals.
+cfp_date_announce:  # inform proposers of status
+
+cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+# coordinates: "" # No longer used
+
+location: "Chicago" # Defaults to city, but you can make it the venue name.
+#
+location_address: "233 S Wacker Dr, Chicago, IL 60606" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
+
+# Optional - Social badges
+# These can be used in the body of any page via matching shortcodes. See sample:  https://devopsdays.org/events/2025-denver/welcome/
+event_social_linkedin: "https://linkedin.com/company/devopsdays-chicago" # Change this to the url to your Linkedin group, company, or page.
+# event_social_slack: "https://join.slack.com/t/devopsdays/custom_shared_invite_url" # Change this to your slack invite link.
+event_social_listserv: "https://lists.devopsdays.org/subscription?f=YygWFavzQmVeA892lp2ir3iJlL6c8927oBq5DRpKm8Gc0RD763s6iXPbp892WA763hM6x8GHM5VuiIT8lhvHNOJu6SKVo0IQ" # Change this to your mailing list subscription form url.
+event_social_twitter: "devopsdayschi" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+event_social_mastodon: "https://hachyderm.io/@devopsdayschi" # Change this to url to your mastodon page
+event_social_bsky: "https://bsky.app/profile/chicago.devopsdays.org" # Change this to url to your bluesky page
+event_social_youtube: "DevOpsDaysChicago" # Change this to the youtube channel handle for your event such as devopsdaysrox
+# legacy
+event_twitter: "devopsdayschi" # This will create a traditional "Follow" twitter button. Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+ # - name: propose
+ # - name: location
+ # - name: registration
+ # - name: program
+ # - name: speakers
+ # - name: sponsor
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Richard Lewis"
+    image: "richard-lewis.jpg"
+    employer: "3Cloud Solutions"
+    twitter: "Gogorichie"
+    github: "Gogorichie"
+    facebook: "https://facebook.com/RichardLewisJCI"
+    linkedin: "https://linkedin.com/in/gogorichie"
+    website: "https://www.gogorichie.com/"
+    mastodon: "https://mastodon.world/@gogorichie"
+    bio: "Richard is seasoned DevSecOps Consulting Manager at 3Cloud Solutions, boasts over 20 years of experience combining both operations and software development. He specializes in areas such as DevOps, automation of software delivery, monitoring software performance, and infrastructure management throughout the development cycle. In his free time, Richard is an active volunteer with Junior Chamber International (JCI), also known as the Jaycees, and has served on their executive board for numerous years. He is a frequent speaker and participant in user groups in the Chicago area and enjoys discussing topics such as Observability, Cloud Migration, and experiences from DevOps transformations."
+  - name: "Schulyer Bishop"
+    image: "schuyler-bishop.jpg"
+    github: "shoeler"
+    linkedin: "https://www.linkedin.com/in/schuylerbishop/"
+    website: "https://schuyler.sreconsulting.io"
+    bio: "Hopeless technology / computer geek with a deep interest in SRE, high-trust teams, moving ops towards devs, and the Oxford comma.  I love moving fast, breaking a few things, and showing how true blameless cultures conquer all preconceived fears of other leaders."
+  - name: "Corey Ward"
+    image: "corey-ward.jpg"
+    employer: "Relativity"
+    twitter: "CoreyWardCS"
+    linkedin: "https://www.linkedin.com/in/corey-ward-508ab63a/"
+    bio: "Corey Ward is a Senior Software Engineer at Relativity. He is a father of two children. He loves talking to people. In his free time, Corey reads fantasy novels, plays Beat Saber and loses in Horizon World's Arena Clash."
+  - name: "Courtney Bolton"
+    image: "courtney-bolton.jpg"
+    linkedin: "https://www.linkedin.com/in/c-e-bolton/"
+  - name: "Dawn Parzych"
+    image: "dawn-parzych.jpg"
+    twitter: "dparzych"
+    linkedin: "https://www.linkedin.com/in/dawn-parzych/"
+    bio: "Dawn is a developer‑focused marketing leader with expertise in cloud, edge, and developer platforms. She combines technical acumen and psychological insight to translate complex tech into human-centered narratives. A recognized speaker and community builder, she has led major developer events at Cloudflare and LaunchDarkly, and has served as a volunteer organizer for DevOpsDays Seattle, and Write/Speak/Code."
+  - name: "Chris Wiegman"
+    image: "chris-wiegman.jpg"
+    github: "ChrisWiegman"
+    linkedin: "https://linkedin.com/in/chriswiegman"
+    website: "https://chriswiegman.com"
+    mastodon: "https://mastodon.chriswiegman.com/@chris"
+    bluesky: "https://bsky.app/profile/chriswiegman.com"
+    bio: "Chris Wiegman is a developer, educator, blogger and open-source contributor dedicated to creating human-centered, privacy-focused technology. Over the past two decades, he has built everything from WordPress plugins (including iThemes Security) to Chrome extensions, development environments and developer tools. A teacher at heart, Chris has lectured in aviation and computer science, mentored emerging technologists, and spoken at conferences worldwide. A former pilot turned software engineer, he remains passionate about building ethical, sustainable tools for real people."
+  - name: "Kevin Cichon"
+    bio: "Kevin started his career as a developer before discovering his passion for DevOps. He thrives on tackling tough challenges, building resilient systems, and learning from every problem he solves. In his free time, you’ll often find him volunteering at his kids’ high school or experimenting at home—breaking (and fixing) his own network just for the fun of it."
+    image: "kevin-cichon.jpg"
+  - name: "Chris Read"
+    image: "chris-read.jpg"
+    role: "Advisory"
+    linkedin: "https://www.linkedin.com/in/devopscread/"
+    twitter: "cread"
+    github: "cread"
+    bio: "I help developers understand the environments they are developing for, and helps infrastructure people build better systems. Specialties are Unix (any flavour), scripting and networking. I've done time as a Developer and as a Sys Admin, but now I am both..."
+  - name: "Matty Stratton"
+    image: "matt-stratton.jpg"
+    role: "Advisory"
+    website: "https://www.mattstratton.com"
+    linkedin: "https://www.linkedin.com/in/mattstratton"
+    github: "mattstratton"
+    mastodon: "https://hachyderm.io/@mattstratton"
+    bluesky: "https://bsky.app/profile/matty.wtf"
+    bio: "Matty Stratton is a well-known member of the DevOps community and the founder and co-host of the popular [Arrested DevOps](https://www.arresteddevops.com/) podcast. Matty has over 20 years of experience in IT operations and is a sought-after speaker internationally, presenting at Agile, DevOps, and cloud engineering focused events worldwide. Demonstrating his keen insight into the changing landscape of technology, he recently changed his license plate from `DEVOPS` to `KUBECTL`. He lives in Chicago and has three awesome kids and two Australian Shepherds, whom he loves just a little bit more than he loves Diet Coke."
+  - name: "Hari Vedam"
+    image: "hari-vedam.jpg"
+    employer: "Discover"
+    bio: "Hari Vedam is a cloud engineer.  He is an avid technologist.    His experience includes IT architecture, front-end development, and public + private cloud. When he is not playing with the cloud, his free time includes cooking, reading, and watching movies, especially Marvel."
+    linkedin: "https://www.linkedin.com/in/hariv82"
+    twitter: "HariVedam"
+    github: "harushimo"
+    role: "Advisory"
+  - name: "Brian Andersen"
+    image: "brian-andersen.jpg"
+    linkedin: "https://www.linkedin.com/in/brian-andersen-9a16587"
+    bio: "Brian Andersen is Manager, Production Operations at Basis.  In his free time he plays (possibly) an unhealthy amount of games, both of the video and board variety. He also has really enjoys visiting cities with zoos in them."
+    role: "Advisory"
+  - name: "Trevor Hess"
+    twitter: "trevorghess"
+    image: "trevor-hess.jpg"
+    role: "Advisory"
+  - name: "Albert Cheung"
+    image: "albert-cheung.jpg"
+    role: "Advisory"
+    linkedin: "http://www.linkedin.com/in/albcheung"
+    bio: "Albert Cheung works in support for a financial institution dealing with production issues and change management. In his free time, he likes to: sail, play pickleball, visit friends outside of Chicago and brew kombucha."
+  - name: "Kevin Reedy"
+    image: "kevin-reedy.jpg"
+    twitter: "kevinreedy"
+    website: "https://kevinreedy.net"
+    linkedin: "https://www.linkedin.com/in/kevinreedy"
+    github: "kevinreedy"
+    bio: "Kevin Reedy is engineer from Chicago, currently working for GitHub as a Customer Success Architect. He also founded RecRec, where he uses technology to help build communities in recreation sports groups. In his free time, you'll find him Playing Shuffleboard (the kind you'd expect to see on a cruise ship), Cycling, and Cooking."
+    role: "Advisory"
+
+organizer_email: "chicago@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  # - id: samplesponsorname
+  #   level: gold
+ #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: arresteddevops
+    level: community
+
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: platinum
+    label: Platinum
+    max: 1
+  - id: gold
+    label: Gold
+    max: 10
+  - id: bronze
+    label: Bronze
+  - id: community
+    label: Community
+  - id: lanyard
+    label: Lanyard
+    max: 1
