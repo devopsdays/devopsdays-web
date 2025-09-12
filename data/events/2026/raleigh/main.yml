@@ -48,7 +48,7 @@ event_twitter: "devopsdaysrdu" # This will create a traditional "Follow" twitter
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
   - name: location
- # - name: registration
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
@@ -76,8 +76,6 @@ team_members: # Name is the only required field for team members.
     employer: "Cprime"
     linkedin: "https://www.linkedin.com/in/kathleencothran/"
     image: "katie-cothran.jpg"
-  - name: "Craig Cook (Emeritus)"
-    image: "craig-cook.jpg"
   - name: "Michael Roberts"
     twitter: "MichaelRoberts0"
     website: "https://www.spkaa.com"
@@ -107,12 +105,14 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/andrew-mckinnon/"
     image: "andrew-mckinnon.jpg"
     github: "andrewmckinnon2"
-  - name: Carlotta Sepulveda
-    linkedin: "https://www.linkedin.com/in/carlottacs8620/"
-    image: "carlotta-sepulveda.jpg"
   - name: "Shawn Taylor"
     linkedin: "https://www.linkedin.com/in/taylorshawn/"
     image: "shawn-taylor.jpg"
+  - name: Ketankumar Jani 
+    image: "ketan-jani.jpg"
+    linkedin: "https://www.linkedin.com/in/kpjani/"
+  - name: "Craig Cook (Emeritus)"
+    image: "craig-cook.jpg"
 
 organizer_email: "raleigh@devopsdays.org" # Put your organizer email address here
 
