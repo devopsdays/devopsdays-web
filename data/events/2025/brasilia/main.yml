@@ -47,8 +47,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     url: /events/2025-brasilia/contact
   - name: patrocinadores
     url: /events/2025-brasilia/sponsor
-  # - name: Programação
-  #   url: /events/2025-brasilia/program
+  - name: Programação
+    url: /events/2025-brasilia/program
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
@@ -148,94 +148,100 @@ sponsors:
   #   level: community
   # - id: aws-user-group-brasilia
   #   level: community
-# program:
-#   - title: "Credenciamento"
-#     type: custom
-#     date: 2025-09-13
-#     start_time: "08:00"
-#     end_time: "09:00"
-#
-#   - title: "Abertura"
-#     type: custom
-#     date: 2025-09-13
-#     start_time: "09:00"
-#     end_time: "09:30"
-#     background-color: #93ff97
-#
-#   - title: "americo-junior"
-#     type: talk
-#     date: 2025-09-13
-#     start_time: "09:30"
-#     end_time: "10:00"
-#
-#   - title: "clayton-cavaleiro"
-#     type: talk
-#     date: 2025-09-13
-#     start_time: "10:00"
-#     end_time: "10:30"
-#
-#   - title: "Coffe Break"
-#     type: custom
-#     date: 2025-09-13
-#     start_time: "10:30"
-#     end_time: "11:10"
-#
-#   - title: "levi-leopoldino"
-#     type: talk
-#     date: 2025-09-13
-#     start_time: "11:10"
-#     end_time: "11:40"
-#
-#   - title: "joao-neto"
-#     type: talk
-#     date: 2025-09-13
-#     start_time: "11:40"
-#     end_time: "12:10"
-#
-#   - title: "Almoço"
-#     type: custom
-#     date: 2025-09-13
-#     start_time: "12:10"
-#     end_time: "13:40"
-#
-#   - title: "Open Space"
-#     type: open-space
-#     date: 2025-09-13
-#     start_time: "13:40"
-#     end_time: "14:30"
-#
-#   - title: "daniel-rodrigues"
-#     type: talk
-#     date: 2025-09-13
-#     start_time: "14:30"
-#     end_time: "15:00"
-#
-#   - title: "odilon-junior"
-#     type: talk
-#     date: 2025-09-13
-#     start_time: "15:00"
-#     end_time: "15:30"
-#
-#   - title: "Coffe Break"
-#     type: custom
-#     date: 2025-09-13
-#     start_time: "15:30"
-#     end_time: "16:10"
-#
-#   - title: "paulo-santiago"
-#     type: talk
-#     date: 2025-09-13
-#     start_time: "16:10"
-#     end_time: "16:40"
-#
-#   - title: "danilo-dorgam"
-#     type: talk
-#     date: 2025-09-13
-#     start_time: "17:10"
-#     end_time: "17:40"
-#
-#   - title: "Encerramento, sorteios e agradecimentos"
-#     type: custom
-#     date: 2025-09-13
-#     start_time: "17:40"
-#     end_time: "18:30"
+program:
+  - title: "Credenciamento"
+    type: custom
+    date: 2025-09-20
+    start_time: "08:00"
+    end_time: "09:00"
+
+  - title: "Abertura"
+    type: custom
+    date: 2025-09-20
+    start_time: "09:00"
+    end_time: "09:30"
+    background-color: #93ff97
+
+  - title: "livia-goncalves"
+    type: talk
+    date: 2025-09-20
+    start_time: "09:30"
+    end_time: "10:00"
+
+  - title: "bezaleel-silva"
+    type: talk
+    date: 2025-09-20
+    start_time: "10:00"
+    end_time: "10:30"
+
+  - title: "Coffe Break"
+    type: custom
+    date: 2025-09-20
+    start_time: "10:30"
+    end_time: "11:10"
+
+  - title: "rafael-zago"
+    type: talk
+    date: 2025-09-20
+    start_time: "11:10"
+    end_time: "11:40"
+
+  - title: "joao-neto"
+    type: talk
+    date: 2025-09-20
+    start_time: "11:40"
+    end_time: "12:10"
+
+  - title: "Almoço"
+    type: custom
+    date: 2025-09-20
+    start_time: "12:10"
+    end_time: "13:40"
+
+  - title: "Open Space"
+    type: open-space
+    date: 2025-09-20
+    start_time: "13:40"
+    end_time: "14:30"
+
+  - title: "rodolfo-batista"
+    type: talk
+    date: 2025-09-20
+    start_time: "14:30"
+    end_time: "15:00"
+
+  - title: "samuel-goncalves"
+    type: talk
+    date: 2025-09-20
+    start_time: "15:00"
+    end_time: "15:30"
+
+  - title: "Coffe Break"
+    type: custom
+    date: 2025-09-20
+    start_time: "15:30"
+    end_time: "16:10"
+
+  - title: "marco-ollivier"
+    type: talk
+    date: 2025-09-20
+    start_time: "16:10"
+    end_time: "16:40"
+
+  - title: "alexandre-castro"
+    type: talk
+    date: 2025-09-20
+    start_time: "16:40"
+    end_time: "17:10"
+
+  - title: "aretha-araujo"
+    type: talk
+    date: 2025-09-20
+    start_time: "17:10"
+    end_time: "17:40"
+
+  - title: "Encerramento, sorteios e agradecimentos"
+    type: custom
+    date: 2025-09-20
+    start_time: "17:40"
+    end_time: "18:30"
