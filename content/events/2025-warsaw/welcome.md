@@ -54,7 +54,8 @@ Description = "devopsdays Warsaw 2025"
   </div>
   <div class="text">
     <a href="https://eventory.cc/event/devopsdays-warsaw-2025/tickets" type="button" class="btn btn-danger btn-lg btn-block">REGISTRATION</a>
-    <a href="https://devopsdays.pl/call-for-papers-2025/" type="button" class="btn btn-danger btn-lg btn-block">CALL FOR PROPOSALS</a>
+    <a href="https://devopsdays.pl/#schedule" type="button" class="btn btn-danger btn-lg btn-block">PROGRAM</a>
+    <a href="https://devopsdays.pl/speakers/" type="button" class="btn btn-danger btn-lg btn-block">SPEAKERS</a>
     <a href="mailto:warsaw@devopsdays.org " type="button" class="btn btn-primary btn-lg btn-block">SPONSOR</a>
     <a href="/events/2025-warsaw/contact" type="button" class="btn btn-primary btn-lg btn-block">CONTACT</a>
   </div>
