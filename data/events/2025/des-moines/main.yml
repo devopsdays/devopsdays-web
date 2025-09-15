@@ -105,6 +105,8 @@ sponsors:
     level: gold
   - id: turnberry
     level: gold
+  - id: harness
+    level: happyhour
   - id: jetbrains
     level: community
   - id: sidegarage
@@ -127,6 +129,9 @@ sponsor_levels:
     max: 11
   - id:  lanyard
     label: Lanyard
+    max: 1
+  - id: happyhour
+    label: Happy Hour
     max: 1
   - id: silver
     label: Silver
