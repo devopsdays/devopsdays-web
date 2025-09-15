@@ -97,6 +97,10 @@ sponsors:
   - id: flox
     level: gold
     url: https://flox.dev/
+  - id: dynatrace
+    level: silver
+  - id: xorq-labs
+    level: silver
   - id: kubeevents
     level: community
     url: https://kube.events
