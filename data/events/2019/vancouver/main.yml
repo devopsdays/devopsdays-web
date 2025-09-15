@@ -86,7 +86,7 @@ sponsors:
     level: gold
   - id: codefresh
     level: gold
-  - id: dynatrace
+  - id: dynatrace-before-20250905
     level: gold
   - id: influxdata-before-20220629
     level: gold 

@@ -108,7 +108,7 @@ sponsors:
     level: silver
   - id: revdebug
     level: community
-  - id: dynatrace
+  - id: dynatrace-before-20250905
     level: silver
   - id: datadog
     level: silver

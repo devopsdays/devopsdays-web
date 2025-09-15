@@ -5,6 +5,7 @@ Talk_end_time = "10:45"
 Title = "What's an Anthropologist doing in Meta's Infrastructure?"
 Type = "talk"
 Speakers = ["kathryn-bouskill"]
+Youtube = "c-O2dNcCBL8"
 +++
 
 As an anthropologist on Meta's Reliability Engineering team, my job is to integrate culture to applied systems analysis and to design and conduct interventions to effect positive change. This talk explores how we used anthropological research to help Meta make a 180-degree shift from "Move Fast and Break Things" to "Move Fast with Stable Infrastructure." Instead of trying to go from one extreme to another, we used culture and the concept of behavioral "nudges" to drive change from the bottom up and top down. 
