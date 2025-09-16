@@ -128,6 +128,15 @@ sponsors:
     level: standard
   - id: dynatrace
     level: standard
+  - id: incidentio
+    level: standard
+  - id: launch-darkly
+    level: standard
+  - id: puppet-by-perforce
+    level: standard
+  # Accessibility sponsors
+  - id: ai4ru
+    level: accessibility
   # Logo sponsors
   - id: that-agile
     level: logo
@@ -158,18 +167,9 @@ sponsor_levels:
   - id: standard
     label: Standard
     max: 14
-  - id: evening
-    label: Evening
-    max: 2
   - id: accessibility
     label: Accessibility
     max: 1
-  - id: childcare
-    label: Childcare
-    max: 1
-  - id: Outreach
-    label: Outreach
-    max: 3
   - id: logo
     label: Logo
     max: 20
@@ -268,12 +268,6 @@ program:
     date: 2025-09-23T00:00:00+01:00
     start_time: "17:00"
     end_time: "18:10"
-
-  # - title: "Evening event at local venue, announced during Keynote"
-  #   type: custom
-  #   date: 2025-09-23T00:00:00+01:00
-  #   start_time: "18:30"
-  #   end_time: "Onwards"
 
   # Day two
   - title: "Registration & Coffee"
