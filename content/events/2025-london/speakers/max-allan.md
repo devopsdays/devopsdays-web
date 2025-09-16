@@ -3,7 +3,7 @@ Title = "Max Allan"
 # Twitter = ""
 LinkedIn = "https://www.linkedin.com/in/j-max-allan/"
 # pronouns = ""
-# image = "max-allan.jpg"
+image = "max-allan.jpg"
 type = "speaker"
 linktitle = "max-allan"
 
