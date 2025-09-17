@@ -47,11 +47,13 @@ event_social_youtube: "" # Change this to the youtube channel handle for your ev
 event_twitter: "devopsdayswaw" # This will create a traditional "Follow" twitter button. Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+ # - name: propose
  # - name: location
   - name: registration
- # - name: program
- # - name: speakers
+  - name: program
+    url: https://devopsdays.pl/#schedule
+  - name: speakers
+    url: https://devopsdays.pl/speakers/
   - name: sponsor
   - name: contact
   - name: conduct
@@ -130,12 +132,37 @@ organizer_email: "warsaw@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
-#sponsors:
-#  - id: samplesponsorname
-#    level: gold
-# #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-#  - id: arresteddevops
-#    level: community
+sponsors:
+  - id: flox
+    level: partner
+  - id: googlecloud
+    level: partner
+  - id: kg-broker
+    level: partner
+  - id: xebia
+    level: partner
+  - id: asiwroclaw
+    level: community
+  - id: kcd-warsaw
+    level: community
+  - id: sysopspolska
+    level: community
+  - id: helion
+    level: media
+  - id: it-schulungen
+    level: media
+  - id: kubecareers
+    level: media
+  - id: kubeevents
+    level: media
+  - id: magazyn-rekruter
+    level: media
+  - id: megapraca
+    level: media
+  - id: mobile-trends
+    level: media
+  - id: pracapl
+    level: media
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -144,13 +171,9 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: platinum
-    label: Platinum Partner
-  - id: gold_partner
-    label: Gold Parner
   - id: partner
     label: Partners
-  - id: media
-    label: Media Partner
   - id: community
     label: Community Partner
+  - id: media
+    label: Media Partner
