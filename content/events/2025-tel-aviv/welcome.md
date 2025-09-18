@@ -35,7 +35,7 @@ Description = "devopsdays Tel Aviv 2025"
  <h3 style="text-align:center;">We are thrilled to announce that Solomon Hykes, creator of Docker, CEO and Co-Founder of Dagger will be taking the stage at the upcoming DevOpsDays TLV as our KEYNOTE SPEAKER!</h3>
 <h4 style="text-align:center;">So let's show him some fine TLV hospitality!</h4>
 
-<h4 style="text-align:center;">Early Bird tickets are still on sale - now's the time to register!
+<h4 style="text-align:center;">Tickets are now on sale - now's the time to register!
 <br/>
 <a href="https://rtfmp.lease/devopsdaystlv-2025-tix" target="_blank" style="text-align:center;"> REGISTER NOW </a></h4>
 

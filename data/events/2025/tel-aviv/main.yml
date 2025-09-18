@@ -189,7 +189,11 @@ sponsors:
     level: gold
   - id: baseshift
     level: community
+  - id: minimus
+    level: community
   - id: statscraft
+    level: community
+  - id: devopsleadersil
     level: community
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: cloudnativeil
