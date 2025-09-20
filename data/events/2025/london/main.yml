@@ -132,8 +132,6 @@ sponsors:
     level: standard
   - id: launch-darkly
     level: standard
-  - id: puppet-by-perforce
-    level: standard
   # Accessibility sponsors
   - id: ai4ru
     level: accessibility
@@ -155,6 +153,8 @@ sponsors:
   - id: mindgard
     level: logo
   - id: syntasso
+    level: logo
+  - id: puppet-by-perforce
     level: logo
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
