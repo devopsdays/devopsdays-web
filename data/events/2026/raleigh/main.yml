@@ -18,7 +18,7 @@ cfp_date_start: 2025-11-01T00:00:00-04:00 # start accepting talk proposals.
 cfp_date_end:  2026-01-01T00:00:00-04:00  # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
 
-cfp_link: "https://docs.google.com/forms/d/e/1FAIpQLSeo5cm7_Ss7vfO__R9Q5RqyC3FZEer7qpMWGjz-3pwDQwzphw/viewform" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://docs.google.com/forms/d/e/1FAIpQLSfHUEW4C1gPenE56f8DiXlwDKJUk4S8AILZ4IbhAxjbLnEtsw/viewform" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2025-09-01T08:00:00-04:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 registration_date_end: 2026-05-01T08:00:00-04:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
