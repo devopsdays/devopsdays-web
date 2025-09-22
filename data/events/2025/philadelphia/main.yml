@@ -101,6 +101,8 @@ sponsors:
     level: silver
   - id: xorq-labs
     level: silver
+  - id: pulumi
+    level: silver
   - id: kubeevents
     level: community
     url: https://kube.events
