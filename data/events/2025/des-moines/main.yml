@@ -99,6 +99,8 @@ organizer_email: "des-moines@devopsdays.org" # Put your organizer email address 
 sponsors:
   - id: leantechniques
     level: gold
+  - id: openobserve
+    level: gold
   - id: principal
     level: gold
   - id: sourceallies
