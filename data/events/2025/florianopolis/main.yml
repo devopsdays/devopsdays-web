@@ -71,20 +71,20 @@ team_members: # Name is the only required field for team members.
     github: "rafaelmaferreira"
     website: "https://rafaelmaferreira.com.br/"
 
-  # - name: "Jean Morais"
-  #   employer: "Unico IDtech"
-  #   image: "jean-morais.jpg"
-  #   linkedin: "https://www.linkedin.com/in/jean-morais/"
+  - name: "Jean Morais"
+    employer: "Unico IDtech"
+    image: "jean-morais.jpg"
+    linkedin: "https://www.linkedin.com/in/jean-morais/"
 
   - name: "Patrick Machado"
     # employer: "Unico IDtech"
     image: "patrick-machado.png"
     linkedin: "https://www.linkedin.com/in/patrickfreiremachado/"
 
-  # - name: "Kleber Souza"
-  #   # employer: "Unico IDtech"
-  #   image: "kleber-souza.png"
-  #   linkedin: "https://www.linkedin.com/in/souzaklebersc/"
+  - name: "Kleber Souza"
+    # employer: "Unico IDtech"
+    image: "kleber-souza.png"
+    linkedin: "https://www.linkedin.com/in/souzaklebersc/"
 
   # - name: "Gilmar Moraes"
   #   employer: "Seprol - IT by Experts"
