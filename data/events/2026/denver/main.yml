@@ -64,10 +64,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 team_members: # Name is the only required field for team members.
   - name: "Keri Melich"
     employer: "DuckDuckGo"
-    twitter: "themightymuppet"
     linkedin: "https://www.linkedin.com/in/kmelich/"
     website: "https://kwild.co"
-    image: "kmelich.jpg"
   - name: "Robby Baccary"
     employer: "Edifecs"
     linkedin: "https://www.linkedin.com/in/rbaccary/"
