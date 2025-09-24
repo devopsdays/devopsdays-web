@@ -72,7 +72,7 @@ Description = "devopsdays Denver 2026"
 </div>
 <br>
 <br>
-Thank you for everyone who participated in DevOpsDays Rockies 2026! We're hard at work preparing for the next big event and we're looking forward to seeing y'all there!<br>
+We're hard at work preparing for the next big event and we're looking forward to seeing y'all there!<br>
 In the meantime, follow us below to stay in the know:
 <br>
 {{< event_social_linkedin >}}
