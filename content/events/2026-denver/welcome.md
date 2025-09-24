@@ -1,39 +1,39 @@
 +++
-Title = "devopsdays Denver 2025"
+Title = "devopsdays Denver 2026"
 Type = "welcome"
-aliases = ["/events/2025-denver/"]
-Description = "devopsdays Denver 2025"
+aliases = ["/events/2026-denver/"]
+Description = "devopsdays Denver 2026"
 +++
-<b>This event has ended. Please stay tuned for DevOpsDays Rockies 2026!</b><br><br>
+<b>DevOpsDays Rockies will be back in 2026! Please stay tuned for details!</b><br><br>
 
-  <h2>{{< event_link page="registration" text="Purchase your Ticket!" >}}</h2>
-<br><br>
+  <!-- <h2>{{< event_link page="registration" text="Purchase your Ticket!" >}}</h2>
+<br><br> -->
 
-<h2>{{< event_link page="program" text="View the Program!" >}}</h2>
-<br><br>
+<!-- <h2>{{< event_link page="program" text="View the Program!" >}}</h2>
+<br><br> -->
 
 <div style="float:right;">
   <!-- {{< event_logo >}} -->
   <img src="/events/2025-denver/colorado_square.png" width="300" style="padding: 20px 0;"/>
 </div>
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Dates</strong>
   </div>
   <div class = "col-md-8">
     {{< event_start >}} - {{< event_end >}}
   </div>
-</div>
+</div> -->
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div>
+</div> -->
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -46,10 +46,10 @@ Description = "devopsdays Denver 2025"
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Program</strong>
+    <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="program" text="Checkout our speaker lineup!" >}}
+    {{< event_link page="propose" text="Submit your talk today!" >}}
   </div>
 </div>
 
