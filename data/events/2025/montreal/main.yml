@@ -46,8 +46,6 @@ event_social_twitter: "devopsdaysmtl" # Change this to the twitter handle for yo
 event_social_mastadon: "https://mastodon.social/@devopsdaysmtl" # Change this to url to your mastadon page
 event_social_bsky: "https://bsky.app/profile/devopsdaysmtl.bsky.social" # Change this to url to your bluesky page
 event_social_youtube: "devopsdaysmtl" # Change this to the youtube channel handle for your event such as devopsdaysrox
-# legacy
-event_twitter: "devopsdaysmtl" # This will create a traditional "Follow" twitter button. Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
@@ -128,6 +126,8 @@ organizer_email: "montreal@devopsdays.org" # Put your organizer email address he
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
   - id: morgan-stanley
+    level: bronze
+  - id: fortinet
     level: bronze
   - id: polytechnique-montreal
     level: venue
