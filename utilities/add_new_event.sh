@@ -46,6 +46,13 @@ else
   echo "/$city_slug/*            /events/$event_slug/:splat           302" >> "../static/_redirects"
 fi
 
+# Check if the event directory already exists
+if [ -d "../data/events/$year/$city_slug" ]; then
+  echo "The event data directory already exists:"
+  echo "./data/events/$year/$city_slug"
+  exit 1
+fi
+
 # Create data directory for the event
 mkdir -p ../data/events/$year/$city_slug
 # Create default event datafile
