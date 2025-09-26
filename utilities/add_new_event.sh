@@ -36,6 +36,13 @@ twitter=$(echo $twitter | sed 's/@//')
 # We use the term event_slug in the hugo files too
 event_slug=$year-$city_slug
 
+# Check if the event directory already exists
+if [ -d "../content/events/$event_slug" ]; then
+  echo "The event content directory already exists:"
+  echo "./content/events/$event_slug"
+  exit 1
+fi
+
 # Update the redirection for a previous year of this event to the desired year
 if grep -q "^/$city_slug" "../static/_redirects";
 then
