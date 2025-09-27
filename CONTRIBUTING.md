@@ -13,6 +13,7 @@ If you'd like to edit a specific devopsdays event site (and/or contribute code),
 1. Have the ability to run Hugo. This can be done locally or through
    Docker.
 1. [Fork](https://help.github.com/articles/fork-a-repo/) this repo and clone a copy locally.
+1. Check out the available [utility scripts](./utilities/README.md) to help organize your event.
 
 #### Run Hugo with Docker (Recommended)
 
