@@ -53,24 +53,21 @@ event_social_linkedin: "https://www.linkedin.com/company/devopsdays-wollongong"
 # event_twitter: "devopsdays" # This will create a traditional "Follow" twitter button. Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
-    url: "https://www.papercall.io/devopsdays-wollongong"
-    icon: comments
-  # - name: location
+  # - name: propose
+  #   url: "https://www.papercall.io/devopsdays-wollongong"
+  #   icon: comments
   - name: registration
     url: "https://ti.to/devopsaustralia/devopsdays-wollongong-2025"
     icon: ticket
   - name: program
-  # - name: speakers
+  - name: speakers
+    icon: microphone
   - name: sponsor
     icon: heart
   - name: contact
     icon: envelope
   - name: conduct
     icon: face-smile-beam
-# - name: example
-#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
-#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
@@ -162,3 +159,209 @@ sponsor_levels:
   - id: startup
     label: Startup
     max: 4
+
+program:
+  # Day 1
+  - title: "Registration"
+    type: custom
+    date: 2025-11-27T07:00:00+10:00
+    start_time: "08:00"
+    end_time: "09:00"
+
+  - title: "Opening Welcome"
+    type: custom
+    date: 2025-11-27T07:00:00+10:00
+    start_time: "09:00"
+    end_time: "09:15"
+
+  - title: "kat-cosgrove"
+    type: talk
+    date: 2025-11-27T07:00:00+10:00
+    start_time: "09:15"
+    end_time: "09:50"
+
+  - title: "james-bozzie-boswell"
+    type: talk
+    date: 2025-11-27T07:00:00+10:00
+    start_time: "9:55"
+    end_time: "10:20"
+
+  - title: "Coffee Break"
+    type: custom
+    date: 2025-11-27T07:00:00+10:00
+    start_time: "10:20"
+    end_time: "10:45"
+
+  - title: "tmir-julius"
+    type: talk
+    date: 2025-11-27T07:00:00+10:00
+    start_time: "10:45"
+    end_time: "11:15"
+
+  - title: "rhommel-lamas"
+    type: talk
+    date: 2025-11-27T07:00:00+10:00
+    start_time: "11:20"
+    end_time: "11:50"
+
+  - title: "Ignites"
+    type: ignite
+    date: 2025-11-27T07:00:00+10:00
+    start_time: "11:55"
+    end_time: "12:20"
+
+  - title: "Open Space Proposals"
+    type: open-space
+    date: 2025-11-27T07:00:00+10:00
+    start_time: "12:20"
+    end_time: "12:30"
+
+  - title: "Lunch"
+    type: custom
+    date: 2025-11-27T07:00:00+10:00
+    start_time: "12:30"
+    end_time: "13:30"
+
+  - title: "Open Space #1"
+    type: open-space
+    date: 2025-11-27T07:00:00+10:00
+    start_time: "13:40"
+    end_time: "14:15"
+
+  - title: "Open Space #2"
+    type: open-space
+    date: 2025-11-27T07:00:00+10:00
+    start_time: "14:15"
+    end_time: "14:55"
+
+  - title: "Coffee Break"
+    type: custom
+    date: 2025-11-27T07:00:00+10:00
+    start_time: "15:00"
+    end_time: "15:30"
+
+  - title: "Open Space #3"
+    type: open-space
+    date: 2025-11-27T07:00:00+10:00
+    start_time: "15:30"
+    end_time: "16:00"
+
+  - title: "Open Space #4"
+    type: open-space
+    date: 2025-11-27T07:00:00+10:00
+    start_time: "16:00"
+    end_time: "16:30"
+
+  - title: "Close Day"
+    type: custom
+    date: 2025-11-27T07:00:00+10:00
+    start_time: "16:30"
+    end_time: "16:45"
+
+  # Day 2
+  - title: "Pre-event networking"
+    type: custom
+    date: 2025-11-28T07:00:00+10:00
+    start_time: "08:30"
+    end_time: "09:00"
+
+  - title: "Opening Welcome"
+    type: custom
+    date: 2025-11-28T07:00:00+10:00
+    start_time: "09:00"
+    end_time: "09:15"
+
+  - title: "liz-fongjones"
+    type: talk
+    date: 2025-11-28T07:00:00+10:00
+    start_time: "09:15"
+    end_time: "09:50"
+
+  - title: "sam-dwyer"
+    type: talk
+    date: 2025-11-28T07:00:00+10:00
+    start_time: "9:55"
+    end_time: "10:20"
+
+  - title: "Coffee Break"
+    type: custom
+    date: 2025-11-28T07:00:00+10:00
+    start_time: "10:20"
+    end_time: "10:45"
+
+  - title: "anima-acharya"
+    type: talk
+    date: 2025-11-28T07:00:00+10:00
+    start_time: "10:45"
+    end_time: "11:15"
+
+  - title: "geshan-manandhar"
+    type: talk
+    date: 2025-11-28T07:00:00+10:00
+    start_time: "11:20"
+    end_time: "11:50"
+
+  - title: "francesco-sbaraglia"
+    type: talk
+    date: 2025-11-28T07:00:00+10:00
+    start_time: "11:55"
+    end_time: "12:20"
+
+  - title: "Open Space Proposals"
+    type: open-space
+    date: 2025-11-28T07:00:00+10:00
+    start_time: "12:20"
+    end_time: "12:30"
+
+  - title: "Lunch"
+    type: custom
+    date: 2025-11-28T07:00:00+10:00
+    start_time: "12:30"
+    end_time: "13:30"
+
+  - title: "Open Space #1"
+    type: open-space
+    date: 2025-11-28T07:00:00+10:00
+    start_time: "13:40"
+    end_time: "14:15"
+
+  - title: "Open Space #2"
+    type: open-space
+    date: 2025-11-28T07:00:00+10:00
+    start_time: "14:15"
+    end_time: "14:55"
+
+  - title: "Coffee Break"
+    type: custom
+    date: 2025-11-28T07:00:00+10:00
+    start_time: "15:00"
+    end_time: "15:30"
+
+  - title: "Open Space #3"
+    type: open-space
+    date: 2025-11-28T07:00:00+10:00
+    start_time: "15:30"
+    end_time: "16:00"
+
+  - title: "Open Space #4"
+    type: open-space
+    date: 2025-11-28T07:00:00+10:00
+    start_time: "16:00"
+    end_time: "16:30"
+
+  - title: "Close Day"
+    type: custom
+    date: 2025-11-28T07:00:00+10:00
+    start_time: "16:30"
+    end_time: "16:45"
+
+ignites:
+  # Day one
+  - title: "parisasadat-shojaei"
+    date: 2025-11-27T07:00:00+10:00
+  - title: "pete-hayman"
+    date: 2025-11-27T07:00:00+10:00
+  - title: "spot-3"
+    date: 2025-11-27T07:00:00+10:00
+  - title: "spot-4"
+    date: 2025-11-27T07:00:00+10:00
