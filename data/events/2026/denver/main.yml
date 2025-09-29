@@ -69,6 +69,8 @@ team_members: # Name is the only required field for team members.
   - name: "Robby Baccary"
     employer: "Edifecs"
     linkedin: "https://www.linkedin.com/in/rbaccary/"
+  - name: "Dale Coyner"
+    linkedin: "https://www.linkedin.com/in/dale-coyner/"
 organizer_email: "denver@devopsdays.org"
 
 # List all of your sponsors here along with what level of sponsorship they have.
