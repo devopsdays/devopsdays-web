@@ -46,14 +46,12 @@ event_social_twitter: "devopsdaysmtl" # Change this to the twitter handle for yo
 event_social_mastadon: "https://mastodon.social/@devopsdaysmtl" # Change this to url to your mastadon page
 event_social_bsky: "https://bsky.app/profile/devopsdaysmtl.bsky.social" # Change this to url to your bluesky page
 event_social_youtube: "devopsdaysmtl" # Change this to the youtube channel handle for your event such as devopsdaysrox
-# legacy
-event_twitter: "devopsdaysmtl" # This will create a traditional "Follow" twitter button. Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
   - name: location
  # - name: registration
- # - name: program
+  - name: program
   - name: speakers
   - name: sponsor
   - name: contact
@@ -81,14 +79,14 @@ team_members: # Name is the only required field for team members.
     github: "idcrosby"
     twitter: "IanDCrosby"
     linkedin: "https://www.linkedin.com/in/iandcrosby/"
-  - name: "Sydney Pagliuca"
-    image: "sydney-pagliuca.jpg"
-    bio: "I am a student at McGill University enrolled in the Bachelor of Education program. As I progress through my degree, work, and teaching experiences, so does my love for education.I consider myself to be a kind, reliable, patient, and personable individual with a strong motivation to succeed. I enjoy working on projects, learning new things, making new mistakes, and teaching others. I have a particular and keen interest in space and technology, and am always questioning and exploring, with a lot to still to learn - I 💜 🍫"
-    role: ""
-    employer: ""
-    github: ""
-    twitter: ""
-    linkedin: "https://www.linkedin.com/in/sydneypagliuca"
+  # - name: "Sydney Pagliuca"
+  #   image: "sydney-pagliuca.jpg"
+  #   bio: "I am a student at McGill University enrolled in the Bachelor of Education program. As I progress through my degree, work, and teaching experiences, so does my love for education.I consider myself to be a kind, reliable, patient, and personable individual with a strong motivation to succeed. I enjoy working on projects, learning new things, making new mistakes, and teaching others. I have a particular and keen interest in space and technology, and am always questioning and exploring, with a lot to still to learn - I 💜 🍫"
+  #   role: ""
+  #   employer: ""
+  #   github: ""
+  #   twitter: ""
+  #   linkedin: "https://www.linkedin.com/in/sydneypagliuca"
   - name: "Donald Donovan"
     image: "donald-donovan.png"
     bio: "I'm a seasoned technologically promiscuous janitor with a unique set of industry experiences in several key technology, communications, and business areas having the greatest impact on most organizations today. I have an overactive interest in data, practical technology applications, and their effects on human behavior, human society, and people's interactions as they continue to change due to new technologies and communication mediums. I'm a dedicated father of two, an INTP, and have a long list of successful (and failed) projects in both individual contributor and leadership roles. I do not like chocolate."
@@ -107,7 +105,7 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/franck-clerget/"
   - name: "Sebastián Gómez"
     image: "seb.jpg"
-    bio: "Grafana forensic investigator by day, father of three by night, I've been in the IT industry for almost 20 years. It all started with a `echo Hello World` on my mom’s computer’s AUTOEXEC.BAT. I am now a Tech Lead for Rainbow Six mobile at Ubisoft."
+    bio: "Grafana forensic investigator by day, father of three by night, I've been in the IT industry for over 20 years. It all started with a `echo Hello World` on my mom’s computer’s AUTOEXEC.BAT. I am now a Tech Lead for Rainbow Six mobile at Ubisoft."
     role: "CFP, Speaker liaison + Website"
     employer: "Ubisoft"
     github: "sebagomez"
@@ -128,6 +126,8 @@ organizer_email: "montreal@devopsdays.org" # Put your organizer email address he
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
   - id: morgan-stanley
+    level: bronze
+  - id: fortinet
     level: bronze
   - id: polytechnique-montreal
     level: venue

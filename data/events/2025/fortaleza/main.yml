@@ -194,7 +194,15 @@ sponsors:
 
   - id: novatec
     level: community
-    url: https://trustd.solutions    
+    url: https://trustd.solutions
+
+  - id: queordev
+    level: community
+    url: #
+
+  - id: govintech
+    level: community
+    url: https://www.linkedin.com/company/govintech     
 
 program:
   - title: "Credenciamento e Coffee Break"
