@@ -31,8 +31,9 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     url: "https://fienta.com/devopsdays-vilnius-2025"
   - name: speakers
   - name: program
-  - name: propose
-    url: "https://talks.devopsdays.org/devopsdays-vilnius-2025/cfp"
+    url: "https://talks.devopsdays.org/devopsdays-vilnius-2025/schedule/"
+  # - name: propose
+  #   url: "https://talks.devopsdays.org/devopsdays-vilnius-2025/cfp"
   - name: sponsor
   - name: location
   - name: contact
@@ -106,6 +107,8 @@ sponsor_levels:
     label: Beverage
   - id: silver
     label: Silver
+  - id: social
+    label: "Social Impact"
   - id: bronze
     label: Bronze
   - id: community
@@ -138,4 +141,10 @@ sponsors:
     level: bronze
   - id: castai
     level: beverage
+  - id: devoteam
+    level: bronze
+  - id: hostinger
+    level: silver   
+  - id: cencora
+    level: social
 # program:

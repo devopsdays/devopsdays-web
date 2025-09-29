@@ -188,6 +188,23 @@ sponsors:
     level: gold
   - id: checkmarx
     level: gold
+  - id: gomboc
+    level: gold
+  - id: elastic
+    level: platinum
+  - id: gruntwork
+    level: platinum
+  - id: manage-engine
+    level: gold
+  - id: grafana
+    level: platinum
+  - id: fianu-plus-coveros
+    level: platinum
+  - id: anchore
+    level: gold
+  - id: peoplecert
+    level: platinum
+
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

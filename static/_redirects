@@ -7,7 +7,7 @@
 /austin/*		/events/2025-austin/:splat		302
 /baku/*			/events/2019-baku/:splat		302
 /baltimore/*		/events/2025-baltimore/:splat		302
-/barcelona/*		/events/2013-barcelona/:splat		302
+/barcelona/*		/events/2026-barcelona/:splat		302
 /beijing/*		/events/2023-beijing/:splat		302
 /belem/*		/events/2019-belem/:splat		302
 /belo-horizonte/*	/events/2025-belo-horizonte/:splat	302
@@ -26,8 +26,8 @@
 /cape-town/*		/events/2020-cape-town/:splat		302
 /charlotte/*		/events/2022-charlotte/:splat		302
 /chattanooga/*		/events/2024-chattanooga/:splat		302
-/chicago/cfp    https://talks.devopsdays.org/devopsdays-chicago-2025/cfp 302
-/chicago/*		/events/2025-chicago/:splat		302
+/chicago/cfp    https://talks.devopsdays.org/devops2027-chicago-2025/cfp 302
+/chicago/*		/events/2027-chicago/:splat		302
 /columbus/*		/events/2020-columbus/:splat		302
 /copenhagen/*		/events/2023-copenhagen/:splat		302
 /cuba/*			/events/2019-cuba/:splat		302
@@ -65,9 +65,9 @@
 /kyiv/*			/events/2025-kyiv/:splat		302
 /ljubljana/*		/events/2025-ljubljana/:splat		302
 /london/*		/events/2025-london/:splat		302
-/los-angeles/*		/events/2025-los-angeles/:splat		302
+/los-angeles/*		/events/2026-los-angeles/:splat		302
 /macapa/*		/events/2019-macapa/:splat		302
-/maceio/*		/events/2024-maceio/:splat		302
+/maceio/*		/events/2025-maceio/:splat		302
 /madison/*		/events/2020-madison/:splat		302
 /madrid/*		/events/2023-madrid/:splat		302
 /manila/*		/events/2011-manila/:splat		302
@@ -95,15 +95,15 @@
 /portugal/*		/events/2024-portugal/:splat		302
 /poznan/*		/events/2023-poznan/:splat		302
 /prague/*		/events/2025-prague/:splat		302
-/raleigh/*		/events/2025-raleigh/:splat		302
-/recife/cfp     https://www.papercall.io/dodrec24    302
-/recife/*		/events/2024-recife/:splat		302
+/raleigh/*		/events/2026-raleigh/:splat		302
+/recife/cfp     https://www.papercall.io/dodrec25    302
+/recife/*		/events/2025-recife/:splat		302
 /riga/*			/events/2018-riga/:splat		302
 /rio-de-janeiro/*	/events/2025-rio-de-janeiro/:splat	302
 /rome/*			/events/2012-italy/:splat		302
 /saint-louis/*		/events/2020-saint-louis/:splat		302
 /salt-lake-city/*	/events/2025-salt-lake-city/:splat	302
-/salvador/*		/events/2024-salvador/:splat		302
+/salvador/*		/events/2025-salvador/:splat		302
 /santa-maria/*		/events/2018-santa-maria/:splat		302
 /santiago/*		/events/2025-santiago/:splat		302
 /sao-paulo/*		/events/2025-sao-paulo/:splat		302
@@ -173,7 +173,7 @@
 /lima/*            /events/2025-lima/:splat           302
 /rosario/*            /events/2020-rosario/:splat           302
 /aarhus/*            /events/2025-aarhus/:splat           302
-/almaty/*            /events/2024-almaty/:splat           302
+/almaty/*            /events/2025-almaty/:splat           302
 /organizer-summit/*            /events/2024-organiser-summit/:splat           302
 /organiser-summit/cfp          https://talks.devopsdays.org/organiser-summit-2024/cfp           302
 /belo-horizonte/*	/events/2025-belo-horizonte/:splat	302
@@ -263,3 +263,4 @@
 /sibiu/*            /events/2025-sibiu/:splat           302
 /wollongong/*            /events/2025-wollongong/:splat           302
 /cluj-napoca/*            /events/2025-cluj-napoca/:splat           302
+/graz/*            /events/2025-graz/:splat           302

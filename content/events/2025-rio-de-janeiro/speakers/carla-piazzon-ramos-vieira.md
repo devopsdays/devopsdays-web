@@ -1,5 +1,5 @@
 +++
-Title = "Carla Piazzon Ramos Vieira"
+Title = "Carla Vieira"
 Twitter = ""
 linkedin = ""
 image = "carla-piazzon-ramos-vieira.png"

@@ -35,10 +35,10 @@ location_address: "" #Optional - use the street address of your venue. This will
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
- # - name: location
+  - name: location
   - name: registration
   - name: schedule
- # - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -99,14 +99,22 @@ organizer_email: "des-moines@devopsdays.org" # Put your organizer email address 
 sponsors:
   - id: leantechniques
     level: gold
+  - id: openobserve
+    level: gold
   - id: principal
     level: gold
   - id: sourceallies
     level: gold
   - id: turnberry
     level: gold
+  - id: harness
+    level: happyhour
   - id: jetbrains
     level: community
+  - id: sidegarage
+    level: community
+  - id: we-write-code
+    level: lanyard
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -123,6 +131,9 @@ sponsor_levels:
     max: 11
   - id:  lanyard
     label: Lanyard
+    max: 1
+  - id: happyhour
+    label: Happy Hour
     max: 1
   - id: silver
     label: Silver

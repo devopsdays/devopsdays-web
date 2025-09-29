@@ -151,6 +151,8 @@ sponsors:
     level: platinum
   - id: dell-israel
     level: platinum
+  - id: aws
+    level: platinum
   - id: terasky-only
     level: gold
   - id: coralogix
@@ -171,7 +173,27 @@ sponsors:
     level: gold
   - id: elastic
     level: gold
+  - id: controlmonkey
+    level: gold
+  - id: aerospike
+    level: gold
+  - id: doit
+    level: gold
+  - id: robusta
+    level: gold
+  - id: datadog
+    level: gold
+  - id: automat_it
+    level: gold
+  - id: profisea
+    level: gold
+  - id: baseshift
+    level: community
+  - id: minimus
+    level: community
   - id: statscraft
+    level: community
+  - id: devopsleadersil
     level: community
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: cloudnativeil
@@ -183,6 +205,8 @@ sponsors:
   - id: terasky-only
     level: community-day
   - id: quali
+    level: community-day
+  - id: scylladb
     level: community-day
   
   

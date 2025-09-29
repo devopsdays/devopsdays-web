@@ -10,13 +10,13 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2025-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate:  2025-09-17T00:00:00-05:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  2025-09-18T23:59:59-05:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2025-09-17T00:00:00-05:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2025-09-18T23:59:59-05:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: # start accepting talk proposals.
+cfp_date_end: # close your call for proposals.
+cfp_date_announce: # inform proposers of status
 
 cfp_link: "https://www.papercall.io/dod-dfw-2025" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
@@ -36,11 +36,11 @@ location: "Plano Event Center" # Defaults to city, but you can make it the venue
 location_address: "2000 East Spring Creek Parkway, Plano, TX 75074" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+  # - name: propose
   - name: location
   - name: registration
     url: https://tickets.devopsdays.org/devopsdays-dallas/2025/
- # - name: program
+  - name: program
   - name: speakers
   - name: sponsor
   - name: contact
@@ -48,7 +48,6 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
-
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
@@ -117,7 +116,7 @@ team_members: # Name is the only required field for team members.
     website: "https://www.capitalone.com/"
     github: "https://github.com/mandersen94/"
     image: "mark-andersen.jpg"
-  
+
   - name: "Paula Lipnick"
     employer: "JP Morgan Chase"
     bio: "Paula has had the opportunity to be a part of innovative organizations for over 10 years, and she enjoys continuously improving processes to increase long-term business value. Currently, Paula is a Product Agility Lead at JP Morgan Chase.\n\nAlso, Paula is a huge fan of the benefits and measurable impacts that are created using DevOps, Agile, and Lean practices. She volunteered at DevOpsDays DFW in 2022, and she is overjoyed to join the Organizer Team for DevOpsDays DFW in 2023. \n\nAlso, Paula holds a Professional Scrum Master Certification, Project Management Professional Certification, MBA with a concentration in Business Intelligence and Accounting, and a Bachelor of Science in Finance. In addition, Paula loves volunteering in the community, hiking, and surfing anytime she is close to the ocean."
@@ -170,16 +169,34 @@ organizer_email: "dallas@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: redhat
     level: platinum
+  - id: dynatrace
+    level: platinum
   - id: datadog
+    level: gold
+  - id: fluidattacks
+    level: gold
+  - id: launch-darkly
+    level: gold
+  - id: gmfinancial
+    level: gold
+  - id: cockroachlabs
+    level: gold
+  - id: peoplecert
     level: gold
   - id: pulumi
     level: silver
   - id: coder
     level: silver
   - id: openobserve
+    level: silver
+  - id: harness
+    level: silver
+  - id: komodor
+    level: silver
+  - id: swa
     level: silver
   - id: arresteddevops
     level: community
@@ -191,8 +208,14 @@ sponsors:
     level: community
   - id: nextop
     level: community
+  - id: redhatmug
+    level: community
+  - id: texas-state-university
+    level: community
+  - id: dallastechxchange
+    level: community
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -227,4 +250,205 @@ sponsor_levels:
     label: Community
     max: 10
 
-  
+program:
+  - title: "Registration & Breakfast"
+    type: custom
+    date: 2025-09-17
+    start_time: "08:00"
+    end_time: "08:45"
+  - title: "Intro and Code of Conduct"
+    type: custom
+    date: 2025-09-17
+    start_time: "08:45"
+    end_time: "09:00"
+  - title: "john-willis"
+    type: talk
+    date: 2025-09-17
+    start_time: "09:00"
+    end_time: "09:45"
+  - title: "vasu-andolu"
+    type: talk
+    date: 2025-09-17
+    start_time: "09:45"
+    end_time: "10:20"
+  - title: "Break"
+    type: custom
+    date: 2025-09-17
+    start_time: "10:20"
+    end_time: "10:30"
+  - title: "pipelines"
+    type: talk
+    date: 2025-09-17
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "Sponsors"
+    type: custom
+    date: 2025-09-17
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "vibe-coding"
+    type: talk
+    date: 2025-09-17
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch (catered) | Open Space - Overview"
+    type: custom
+    date: 2025-09-17
+    start_time: "12:00"
+    end_time: "12:45"
+  - title: "pamela-dukes"
+    type: talk
+    date: 2025-09-17
+    start_time: "12:45"
+    end_time: "13:30"
+  - title: "Sponsors"
+    type: custom
+    date: 2025-09-17
+    start_time: "13:30"
+    end_time: "13:50"
+  - title: "kyle-shelton"
+    type: talk
+    date: 2025-09-17
+    start_time: "13:50"
+    end_time: "14:20"
+  - title: "seth-eliot"
+    type: talk
+    date: 2025-09-17
+    start_time: "14:20"
+    end_time: "14:50"
+  - title: "Break"
+    type: custom
+    date: 2025-09-17
+    start_time: "14:50"
+    end_time: "15:00"
+  - title: "Open Space - Topic Proposals & Selection"
+    type: open-space
+    date: 2025-09-17
+    start_time: "15:00"
+    end_time: "15:15"
+  - title: "Open Space Day 1 - Session 1"
+    type: open-space
+    date: 2025-09-17
+    start_time: "15:15"
+    end_time: "15:45"
+  - title: "Open Space Day 1 - Session 2"
+    type: open-space
+    date: 2025-09-17
+    start_time: "15:45"
+    end_time: "16:15"
+  - title: "Close Day & Logistics"
+    type: custom
+    date: 2025-09-17
+    start_time: "16:15"
+    end_time: "16:30"
+  - title: "Social Networking - Happy Hour"
+    type: custom
+    date: 2025-09-17
+    start_time: "16:30"
+    end_time: "19:00"
+
+  - title: "Registration & Breakfast"
+    type: custom
+    date: 2025-09-18
+    start_time: "08:00"
+    end_time: "08:45"
+  - title: "Welcome"
+    type: custom
+    date: 2025-09-18
+    start_time: "08:45"
+    end_time: "09:00"
+  - title: "david-giambruno"
+    type: talk
+    date: 2025-09-18
+    start_time: "09:00"
+    end_time: "09:45"
+  - title: "nihari-p"
+    type: talk
+    date: 2025-09-18
+    start_time: "09:45"
+    end_time: "10:15"
+  - title: "Break"
+    type: custom
+    date: 2025-09-18
+    start_time: "10:15"
+    end_time: "10:30"
+  - title: "bryan-finster"
+    type: talk
+    date: 2025-09-18
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "Sponsors"
+    type: custom
+    date: 2025-09-18
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "Ignite Talks"
+    type: ignite
+    date: 2025-09-18
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch (catered) | Open Space - Overview"
+    type: custom
+    date: 2025-09-18
+    start_time: "12:00"
+    end_time: "12:45"
+  - title: "sushma-sunkollu-nagaraj"
+    type: talk
+    date: 2025-09-18
+    start_time: "12:45"
+    end_time: "13:30"
+  - title: "dave-stokes"
+    type: talk
+    date: 2025-09-18
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Break"
+    type: custom
+    date: 2025-09-18
+    start_time: "14:00"
+    end_time: "14:10"
+  - title: "Open Space - Topic Proposals & Selection"
+    type: open-space
+    date: 2025-09-18
+    start_time: "14:30"
+    end_time: "14:45"
+  - title: "Open Space Day 2 - Session 1"
+    type: open-space
+    date: 2025-09-18
+    start_time: "14:45"
+    end_time: "15:15"
+  - title: "Open Space Day 2 - Session 2"
+    type: open-space
+    date: 2025-09-18
+    start_time: "15:15"
+    end_time: "15:45"
+  - title: "Speaker Discussion Panel"
+    type: custom
+    date: 2025-09-18
+    start_time: "15:45"
+    end_time: "16:20"
+    # custom_url: "https://youtu.be/CDbYfRHfp3U"
+  - title: "Organizers Recognition"
+    type: custom
+    date: 2025-09-18
+    start_time: "16:20"
+    end_time: "16:30"
+  - title: "Closing, Organizer's Raffle Giveaway & Farewell"
+    type: custom
+    date: 2025-09-18
+    start_time: "16:30"
+    end_time: "16:45"
+
+ignites:
+  #  - title: "ignite-talks"
+  #    date: 2025-09-18
+  - title: "james-thomas"
+    date: 2025-09-18
+  - title: "mohammad-hassan"
+    date: 2025-09-18
+  - title: "david-burkhalter"
+    date: 2025-09-18
+  - title: "silver-bowen"
+    date: 2025-09-18
+  - title: "nihar-karra"
+    date: 2025-09-18

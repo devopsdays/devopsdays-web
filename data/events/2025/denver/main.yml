@@ -41,7 +41,7 @@ location_address: "2875 Blake St, Denver, CO 80205" #Optional - use the street a
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   # - name: propose
- # - name: location
+  - name: location
   - name: registration
   - name: program
   - name: speakers
@@ -85,11 +85,27 @@ sponsors:
     level: gold
   - id: spacelift
     level: gold
+  - id: minimus
+    level: gold
+  - id: infisical
+    level: gold
+  - id: komodor
+    level: gold
+  - id: terracotta-ai
+    level: gold
   - id: flox
+    level: silver
+  - id: fluidattacks
+    level: silver
+  - id: dryrun-security
+    level: silver
+  - id: launch-darkly
     level: silver
   - id: fairwinds
     level: supporter
   - id: releaseteam
+    level: supporter
+  - id: semgrep
     level: supporter
   - id: code-talent
     level: community
@@ -98,6 +114,8 @@ sponsors:
   - id: kubeevents
     level: community
   - id: mentorsintech
+    level: community
+  - id: naloseed
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

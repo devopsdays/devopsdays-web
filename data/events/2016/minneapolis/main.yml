@@ -97,7 +97,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: silver
   - id: apprenda
     level: gold
-  - id: dynatrace
+  - id: dynatrace-before-20250905
     level: silver
   - id: workiva
     level: gold

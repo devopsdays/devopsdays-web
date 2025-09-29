@@ -58,6 +58,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: accessibility
   - name: contact
   - name: conduct
+  - name: links
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -124,12 +125,37 @@ sponsors:
   # Standard sponsors
   - id: elastic
     level: standard
-  - id: that-agile
-    level: standard
   - id: chainguard
     level: standard
+  - id: dynatrace
+    level: standard
+  - id: incidentio
+    level: standard
+  - id: launch-darkly
+    level: standard
+  # Accessibility sponsors
+  - id: ai4ru
+    level: accessibility
   # Logo sponsors
-  - id: cyberark
+  - id: that-agile
+    level: logo
+  - id: "googlecloud"
+    level: logo
+  - id: commify
+    level: logo
+  - id: dxw
+    level: logo
+  - id: github
+    level: logo
+  - id: "oxa"
+    level: logo
+  - id: "clearbank"
+    level: logo
+  - id: mindgard
+    level: logo
+  - id: syntasso
+    level: logo
+  - id: puppet-by-perforce
     level: logo
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -142,18 +168,9 @@ sponsor_levels:
   - id: standard
     label: Standard
     max: 14
-  - id: evening
-    label: Evening
-    max: 2
   - id: accessibility
     label: Accessibility
     max: 1
-  - id: childcare
-    label: Childcare
-    max: 1
-  - id: Outreach
-    label: Outreach
-    max: 3
   - id: logo
     label: Logo
     max: 20
@@ -163,7 +180,7 @@ sponsor_levels:
 
 program:
   # Day one
-  - title: "Registration, Breakfast"
+  - title: "Registration & Coffee"
     type: custom
     date: 2025-09-23T00:00:00+01:00
     start_time: "09:00"
@@ -253,14 +270,8 @@ program:
     start_time: "17:00"
     end_time: "18:10"
 
-  # - title: "Evening event at local venue, announced during Keynote"
-  #   type: custom
-  #   date: 2025-09-23T00:00:00+01:00
-  #   start_time: "18:30"
-  #   end_time: "Onwards"
-
   # Day two
-  - title: "Breakfast"
+  - title: "Registration & Coffee"
     type: custom
     date: 2025-09-24T00:00:00+01:00
     start_time: "09:00"
@@ -354,16 +365,12 @@ ignites:
     date: 2025-09-23T00:00:00+01:00
   - title: "cameron-adams"
     date: 2025-09-23T00:00:00+01:00
-  - title: "chaitali-kanetkar"
-    date: 2025-09-23T00:00:00+01:00
   - title: "suzie-rasnak"
     date: 2025-09-23T00:00:00+01:00
   # Day two
   - title: "omotayo-adeleke"
     date: 2025-09-24T00:00:00+01:00
   - title: "carly-richmond"
-    date: 2025-09-24T00:00:00+01:00
-  - title: "vinuja-khatode"
     date: 2025-09-24T00:00:00+01:00
   - title: "max-allan"
     date: 2025-09-24T00:00:00+01:00

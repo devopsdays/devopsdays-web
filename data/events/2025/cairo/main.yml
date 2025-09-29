@@ -18,7 +18,7 @@ cfp_date_start: 2025-03-22T00:00:00+02:00 # start accepting talk proposals.
 cfp_date_end: 2025-07-17T23:59:59+02:00 # close your call for proposals.
 cfp_date_announce: # inform proposers of status
 
-cfp_open: "true"
+cfp_open: "false"
 cfp_link: "https://talks.devopsdays.org/devopsdays-cairo-2025/cfp" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
@@ -30,21 +30,21 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 # Location
 
 
-coordinates: "30.04674517041495,31.231945771704563" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "The Nile Ritz-Carlton, Cairo" # Defaults to city, but you can make it the venue name.
+coordinates: "30.02818095421703, 31.20199485767019" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Creativa Innovation Hub - Giza" # Defaults to city, but you can make it the venue name.
 
-location_address: "The Nile Ritz-Carlton, Cairo" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "Creativa Innovation Hub - Giza" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+#  - name: propose
 #  - name: location
 #  - name: local
-#  - name: registration
-#    url: https://secc.org.eg/English/Pages/Event_Registration.aspx
-#  - name: agenda
-#    url: https://secc.org.eg/English/Documents/DevOpsDays/DevOpsDays-Cairo2025-Agenda.pdf
-#  - name: speakers
-#    url: https://secc.org.eg/English/MediaCenter/Events/Pages/DevOpsDays-Cairo-2025.aspx  
+  - name: registration
+    url: https://www.devopsdays.org.eg/registration
+  - name: agenda
+    url: https://www.devopsdays.org.eg/program
+  - name: speakers
+    url: https://www.devopsdays.org.eg/speakers  
   - name: sponsor
   - name: contact
   - name: conduct
@@ -108,18 +108,22 @@ sponsors:
    level: corporate
  - id: orange
    level: corporate 
- - id: vois
-   level: corporate
  - id: stakpak
    level: corporate
- - id: cairo-university
+ - id: vois
+   level: corporate
+ - id: cairo-university25
    level: academia
  - id: auc
    level: academia
  - id: eui
    level: academia
-# - id: microsoft
-#   level: technology
+ - id: archer
+   level: technology
+ - id: deloitteme
+   level: technology
+ - id: noventiq
+   level: technology
 # - id: huawei
 #   level: technology
 # - id: ericsson
@@ -132,17 +136,17 @@ sponsors:
 #   level: technology
 # - id: efinance
 #   level: technology
- - id: foss
-   level: community
-   url: #
- - id: egyptinnovate
+# - id: foss
+#   level: community
+#   url: #
+ - id: egyptinnovate25
    level: community
  - id: tiec
    level: community
  - id: creativa
    level: community
- #- id: guc
- #  level: community
+ - id: peoplecert
+   level: community
  #- id: auc
  #  level: community
  #- id: eui
@@ -165,11 +169,18 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-#  - id: platinum
-#    label: Platinum
-#    max: 5
+  - id: strategic
+    label: "Strategic"
+    max: 1
+  - id: technology
+    label: "Technology"
+  - id: techadvocate
+    label: "Tech. Advocate"
+  - id: devops
+    label: "DevOps"
+  #  max: 0 # This is the same as omitting the max limit.
   - id: governament
-    label: "Governamental Organizer"
+    label: "Governmental Organizer"
     max: 1 # to prevent "join as" string from appearing
   - id: corporate
     label: "Corporate Organizers"
@@ -177,15 +188,6 @@ sponsor_levels:
   - id: academia
     label: "Academia Organizers"
     max: 2 # to prevent "join as" string from appearing
-#  - id: technology
-#    label: "Technology"
-#    max: 10 # to prevent "join as" string from appearing
-  #- id: gold
-  #  label: Gold
-  #  max: 10
-  #- id: silver
-  #  label: Silver
-  #  max: 0 # This is the same as omitting the max limit.
   - id: community
     label: Community
     max: 2

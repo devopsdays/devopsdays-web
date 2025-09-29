@@ -85,9 +85,9 @@ a.jssocials-share-link, a.event-cta-button {
 <div class="showcase">
 {{< event_logo >}}
 <p></p>
-<p><a href="https://talks.devopsdays.org/devopsdays-montreal-2025/cfp"><button>Propose your talk!</button></a></p>
+<!-- <p><a href="https://talks.devopsdays.org/devopsdays-montreal-2025/cfp"><button>Propose your talk!</button></a></p> -->
 
-<!-- <p><a href="https://www.eventbrite.ca/e/devopsdays-montreal-2024-may-2728-confirmed-tickets-643838146227"><button>Register</button></a></p> -->
+<p><a href="https://www.eventbrite.ca/e/devopsdays-montreal-2025-tickets-1406161329389"><button>Register</button></a></p>
 <!-- <p><a href="../location/"><button>Get venue info</button></a></p> -->
 <p><a href="../sponsor/"><button>Sponsor</button></a></p>
 <!-- <p><a href="../speakers/"><button>Check out our awesome lineup</button></a></p> -->

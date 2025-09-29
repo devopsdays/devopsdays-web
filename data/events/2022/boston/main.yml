@@ -114,7 +114,7 @@ sponsors:
     level: platinum
   - id: couchbase
     level: platinum
-  - id: dynatrace
+  - id: dynatrace-before-20250905
     level: platinum
   - id: circleci
     level: platinum
