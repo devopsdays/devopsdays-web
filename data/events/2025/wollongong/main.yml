@@ -53,9 +53,9 @@ event_social_linkedin: "https://www.linkedin.com/company/devopsdays-wollongong"
 # event_twitter: "devopsdays" # This will create a traditional "Follow" twitter button. Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
-    url: "https://www.papercall.io/devopsdays-wollongong"
-    icon: comments
+  # - name: propose
+  #   url: "https://www.papercall.io/devopsdays-wollongong"
+  #   icon: comments
   - name: registration
     url: "https://ti.to/devopsaustralia/devopsdays-wollongong-2025"
     icon: ticket
@@ -178,18 +178,18 @@ program:
     type: talk
     date: 2025-11-27T07:00:00+10:00
     start_time: "09:15"
-    end_time: "09:55"
+    end_time: "09:50"
 
   - title: "james-bozzie-boswell"
     type: talk
     date: 2025-11-27T07:00:00+10:00
-    start_time: "10:00"
-    end_time: "10:25"
+    start_time: "9:55"
+    end_time: "10:20"
 
   - title: "Coffee Break"
     type: custom
     date: 2025-11-27T07:00:00+10:00
-    start_time: "10:30"
+    start_time: "10:20"
     end_time: "10:45"
 
   - title: "tmir-julius"
@@ -275,18 +275,18 @@ program:
     type: talk
     date: 2025-11-28T07:00:00+10:00
     start_time: "09:15"
-    end_time: "09:55"
+    end_time: "09:50"
 
   - title: "sam-dwyer"
     type: talk
     date: 2025-11-28T07:00:00+10:00
-    start_time: "10:00"
-    end_time: "10:25"
+    start_time: "9:55"
+    end_time: "10:20"
 
   - title: "Coffee Break"
     type: custom
     date: 2025-11-28T07:00:00+10:00
-    start_time: "10:30"
+    start_time: "10:20"
     end_time: "10:45"
 
   - title: "anima-acharya"

@@ -2,7 +2,7 @@
 Title = "Rhommel Lamas"
 Twitter = ""
 linkedin = ""
-image = ""
+image = "rhommel-lamas.png"
 type = "speaker"
 linktitle = "rhommel-lamas"
 

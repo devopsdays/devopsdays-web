@@ -2,7 +2,7 @@
 Title = "Liz Fong-Jones"
 Twitter = ""
 linkedin = ""
-image = ""
+image = "liz-fongjones.png"
 type = "speaker"
 linktitle = "liz-fongjones"
 

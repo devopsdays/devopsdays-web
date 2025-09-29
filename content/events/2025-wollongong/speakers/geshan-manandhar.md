@@ -2,7 +2,7 @@
 Title = "Geshan Manandhar"
 Twitter = ""
 linkedin = ""
-image = ""
+image = "geshan-manandhar.png"
 type = "speaker"
 linktitle = "geshan-manandhar"
 

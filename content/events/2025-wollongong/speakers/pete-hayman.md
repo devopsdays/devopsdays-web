@@ -2,7 +2,7 @@
 Title = "Pete Hayman"
 Twitter = ""
 linkedin = ""
-image = ""
+image = "pete-hayman.png"
 type = "speaker"
 linktitle = "pete-hayman"
 

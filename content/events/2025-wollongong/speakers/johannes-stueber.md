@@ -2,7 +2,7 @@
 Title = "Johannes Stueber"
 Twitter = ""
 linkedin = ""
-image = ""
+image = "johannes-stueber.png"
 type = "speaker"
 linktitle = "johannes-stueber"
 

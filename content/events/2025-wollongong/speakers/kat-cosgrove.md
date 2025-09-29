@@ -2,7 +2,7 @@
 Title = "Kat Cosgrove"
 Twitter = ""
 linkedin = ""
-image = ""
+image = "kat-cosgrove.png"
 type = "speaker"
 linktitle = "kat-cosgrove"
 

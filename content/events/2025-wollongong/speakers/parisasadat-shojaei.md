@@ -2,7 +2,7 @@
 Title = "Parisasadat Shojaei"
 Twitter = ""
 linkedin = ""
-image = ""
+image = "parisasadat-shojaei.png"
 type = "speaker"
 linktitle = "parisasadat-shojaei"
 

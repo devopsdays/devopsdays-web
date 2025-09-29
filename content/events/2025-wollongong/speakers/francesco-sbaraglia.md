@@ -2,7 +2,7 @@
 Title = "Francesco Sbaraglia"
 Twitter = ""
 linkedin = ""
-image = ""
+image = "francesco-sbaraglia.png"
 type = "speaker"
 linktitle = "francesco-sbaraglia"
 
