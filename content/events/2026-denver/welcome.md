@@ -49,7 +49,7 @@ Description = "devopsdays Denver 2026"
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="propose" text="Submit your talk today!" >}}
+    {{< event_link url-key="cfp_link" text="Submit your talk today!" >}}
   </div>
 </div>
 
