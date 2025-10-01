@@ -1,7 +1,7 @@
 name: "2025-denver" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2025" # The year of the event. Make sure it is in quotes.
 city: "Denver" # The displayed city name of the event. Capitalize it.
-description: "Devopsdays is returning to Denver!" # Edit this to suit your preferences
+description: "This event has ended. Thank you to everyone who participated!" # Edit this to suit your preferences
 ga_tracking_id: "G-9SR9GD94E0" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2025-MM-DDTHH:MM:SS+TZ:TZ, like this:
@@ -42,7 +42,7 @@ location_address: "2875 Blake St, Denver, CO 80205" #Optional - use the street a
 nav_elements: # List of pages you want to show up in the navigation of your page.
   # - name: propose
   - name: location
-  - name: registration
+  # - name: registration
   - name: program
   - name: speakers
   - name: sponsor
