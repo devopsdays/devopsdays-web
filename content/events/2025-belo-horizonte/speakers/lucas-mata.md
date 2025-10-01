@@ -1,5 +1,5 @@
 +++
-Title = "André Brandão"
+Title = "Lucas Mata"
 linkedin = "" 
 image = "lucas-mata.png"
 type = "speaker"
