@@ -1,0 +1,144 @@
+name: "2025-joao-pessoa" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2025" # The year of the event. Make sure it is in quotes.
+city: "João Pessoa" # The displayed city name of the event. Capitalize it.
+event_twitter: "dodjoaopessoa" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays esta chegando em João Pessoa!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2025-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2025-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: "2025-11-01T08:00:00-03:00"  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  "2025-11-01T17:00:00-03:00" # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: "2025-09-15T10:00:00-03:00"  # start accepting talk proposals.
+cfp_date_end:  "2025-10-20T15:00:00-03:00" # close your call for proposals.
+
+cpf_open: "true"
+cfp_link: "https://talks.devopsdays.org/dod-jp-meetup/cfp" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+# Location
+#
+# coordinates: "" # No longer used
+
+location: "João Pessoa" # Defaults to city, but you can make it the venue name.
+#
+location_address: "Centro Universitário - UNIESP - BR-230, Km 14 - s/n - Morada Nova, Cabedelo - PB, 58109-303" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
+
+# Optional - Social badges
+# These can be used in the body of any page via matching shortcodes. See sample:  https://devopsdays.org/events/2025-denver/welcome/
+event_social_linkedin: "https://linkedin.com/company/devopsdays" # Change this to the url to your Linkedin group, company, or page.
+event_social_twitter: "devopsdays" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+# legacy
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: CFP
+    url: https://talks.devopsdays.org/dod-jp-meetup/cfp
+  - name: location
+  - name: ticket
+    url: https://www.even3.com.br/devopsdays-joao-pessoa-2025-633303/
+  - name: sponsor
+  - name: contact
+  - name: conduct-pt-br
+  - name: speakers
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Adrieny Dantas"
+    pronouns: "Ela/Dela"
+    role: "DevOps Engineer"
+    employer: "NEON"
+    bio: "Quase 5 anos no mundo de TI e 3 como DevOps, gosto de resolver bugs e amo gatos!"
+    github: "adrienyds"
+    facebook: ""
+    twitter: ""
+    linkedin: "https://www.linkedin.com/in/adrienyds/"
+    website: ""
+    mastodon: ""
+    image: "adrienydantas.jpeg"
+
+  - name: "Carlos Bezerra"
+    pronouns: "Ele/Dele"
+    role: "DevOps Engineer"
+    employer: "Gupy"
+    bio: "Profissional de TI com mais de 15 anos de experiência, especializado em projetos de Infraestrutura de TI, arquitetura de sistemas, implantação em nuvem, micro serviços, automatização utilizando Phyton, Bash e Powershell, além de experiencia com gerenciamento de times de DevOps/Plataforma e infraestrutura, palestrante, mentor e organizador do DevOpsDays João Pessoa."
+    github: "cdiegoo"
+    facebook: ""
+    twitter: "CarlosDiegoB"
+    linkedin: "https://www.linkedin.com/in/carlosdbezerra/"
+    website: ""
+    mastodon: ""
+    image: "carlos-bezerra.jpeg"
+
+  - name: "Marcelo Freire"
+    pronouns: "Ele/Dele"
+    role: "Site Reliability Engineer"
+    employer: "Storyblok"
+    bio: "DevOps na Storyblok, ama containers , infraestrutura como código. Corredor Amador, Maratonista, Otaku e Vegano."
+    github: ""
+    facebook: ""
+    twitter: "marcelofreire28"
+    linkedin: "https://www.linkedin.com/in/marcelofreire88/"
+    website: ""
+    mastodon: ""
+    image: "marcelo-freire.jpg"
+
+  - name: "Thiago Alexandria"
+    pronouns: "Ele/Dele"
+    role: "Cloud Specialist"
+    employer: "Livelo"
+    bio: "Especialista Cloud na Livelo, apaixonado por arquitetura em nuvem, automação e DevOps. Entusiasta de tecnologia, comunidade e aprendizado contínuo."
+    github: ""
+    facebook: ""
+    twitter: ""
+    linkedin: "https://www.linkedin.com/in/thiago-alexandria/"
+    website: "https://thiagoalexxandria.com.br"
+    mastodon: ""
+    image: "thiago-alexandria.jpg"
+
+  - name: "Thallyson"
+    pronouns: "Ele/Dele"
+    role: "Devops"
+    employer: "Elven"
+    bio: "Sou Site Reliability Engineer, vindo de redes e hoje focado em Cloud, DevOps e SRE.Curioso por natureza, adoro explorar os bastidores da tecnologia. Movido por pessoas e comunidades, participo de iniciativas como DevOpsDays."
+    github: ""
+    facebook: ""
+    twitter: ""
+    linkedin: "https://www.linkedin.com/in/thallysonyakko/"
+    website: "https://thallysonyakko.com.br"
+    mastodon: ""
+    image: "thallyson-yakko.jpg"
+
+
+organizer_email: "joao-pessoa@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+ # - id: samplesponsorname
+ #   level: gold
+ #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.dd
+ # - id: arresteddevops
+ #   level: community
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: platinum
+    label: Platinum
+  - id: gold
+    label: Gold
+  - id: silver
+    label: Silver
+  - id: bronze
+    label: Bronze
+  - id: community
+    label: Community
