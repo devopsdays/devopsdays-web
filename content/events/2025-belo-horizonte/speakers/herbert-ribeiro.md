@@ -1,5 +1,5 @@
 +++
-Title = "Herbert Ribeiro"
+Title = "Hebert Ribeiro"
 linkedin = ""
 Twitter = ""
 image = "hebert-ribeiro.jpg"
