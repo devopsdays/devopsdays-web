@@ -21,7 +21,7 @@
 /brasilia/*		/events/2017-brasilia/:splat		302
 /buffalo/*		/events/2023-buffalo/:splat		302
 /caceres/*		/events/2024-caceres/:splat		302
-/cairo/*		/events/2025-cairo/:splat		302
+/cairo/*		/events/2026-cairo/:splat		302
 /campinas/*		/events/2024-campinas/:splat		302
 /cape-town/*		/events/2020-cape-town/:splat		302
 /charlotte/*		/events/2022-charlotte/:splat		302
@@ -94,7 +94,7 @@
 /porto-alegre/*		/events/2025-porto-alegre/:splat	302
 /portugal/*		/events/2024-portugal/:splat		302
 /poznan/*		/events/2023-poznan/:splat		302
-/prague/*		/events/2025-prague/:splat		302
+/prague/*		/events/2026-prague/:splat		302
 /raleigh/*		/events/2026-raleigh/:splat		302
 /recife/cfp     https://www.papercall.io/dodrec25    302
 /recife/*		/events/2025-recife/:splat		302
