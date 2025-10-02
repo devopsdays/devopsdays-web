@@ -45,7 +45,7 @@ event_social_bsky: "https://bsky.app/profile/DevOpsDaysPrg.bsky.social" # Change
 event_social_youtube: "DevOpsDaysPrg" # Change this to the youtube channel handle for your event such as devopsdaysrox
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-   - name: propose
+  - name: propose
   # - name: location
   # - name: registration
   # - name: program
