@@ -16,7 +16,7 @@ enddate:  "2025-11-01T17:00:00-03:00" # The end date of your event. Leave blank 
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: "2025-09-15T10:00:00-03:00"  # start accepting talk proposals.
-cfp_date_end:  "2025-10-20T15:00:00-03:00" # close your call for proposals.
+cfp_date_end:  "2025-10-12T00:01:00-03:00" # close your call for proposals.
 
 cpf_open: "true"
 cfp_link: "https://talks.devopsdays.org/dod-jp-meetup/cfp" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
