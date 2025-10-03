@@ -257,7 +257,7 @@
 /events/2016-chicago/devopsdays-chicago-2016-prospectus.pdf                             https://assets.devopsdays.org/events/2016/chicago/devopsdays-chicago-2016-prospectus.pdf                           301
 
 /curitiba/*            /events/2024-curitiba/:splat           302
-/joao-pessoa/*            /events/2024-joao-pessoa/:splat           302
+/joao-pessoa/*            /events/2025-joao-pessoa/:splat           302
 /kerala/*            /events/2024-kerala/:splat           302
 /garanhuns/*            /events/2025-garanhuns/:splat           302
 /sibiu/*            /events/2025-sibiu/:splat           302
