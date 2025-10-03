@@ -4,6 +4,14 @@ Type = "event"
 Description = "Location for devopsdays Montreal 2025"
 +++
 
+<style type="text/css">
+
+.footer-nav-row {
+  display: block;
+}
+
+</style>
+
 Event will be taking place at [Polytechnique Montréal](https://www.polymtl.ca/)
 
 {{< event_map >}}

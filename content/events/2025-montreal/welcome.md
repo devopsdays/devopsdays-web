@@ -7,6 +7,10 @@ Description = "DevOpsDays Montréal is back for another unique conference experi
 
 <style type="text/css">
 
+.footer-nav-row {
+  display: block;
+}
+
 /* Thank you Buffalo */
 
 .mtl {
