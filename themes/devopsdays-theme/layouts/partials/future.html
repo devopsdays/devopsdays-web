@@ -12,10 +12,10 @@
   {{- if ne ($.Scratch.Get "month") (dateFormat "January" .startdate ) -}}
     {{- $.Scratch.Set "month" (dateFormat "January" .startdate ) -}}
     {{- $.Scratch.Set "month-displayed" "false" -}}
-<br />
+
   {{- end -}}
   {{- if ne ($.Scratch.Get "year-displayed") "true" -}}
-    <h3 class="left-nav-year">{{ dateFormat "2006" .startdate }}</h3>
+    <h3 class="left-nav-year mt-4">{{ dateFormat "2006" .startdate }}</h3>
     {{- $.Scratch.Set "year-displayed" "true" -}}
   {{- end -}}
   {{- if ne ($.Scratch.Get "month-displayed") "true" -}}
@@ -27,21 +27,21 @@
       <a href = "{{ (printf "/events/%s" .name ) }}" class = "left-nav-event">
     {{ dateFormat "Jan 2" .startdate }} - {{ dateFormat "2" .enddate }}:
     {{ .city }}
-      </a><br />
+      </a>
     {{- else -}}
-  <a href = "{{ (printf "/events/%s" .name) }}" class = "left-nav-event">
-    {{ dateFormat "Jan 2" .startdate }} - {{ dateFormat "Jan 2" .enddate }}:
-    {{ .city }}
-  </a><br />
+      <a href = "{{ (printf "/events/%s" .name) }}" class = "left-nav-event">
+        {{ dateFormat "Jan 2" .startdate }} - {{ dateFormat "Jan 2" .enddate }}:
+        {{ .city }}
+      </a>
     {{- end -}}
   {{- else -}}
-  <a href = "{{ (printf "/events/%s" .name) }}" class = "left-nav-event">
-    {{ dateFormat "Jan 2" .startdate }}:
-    {{ .city }}
-  </a><br />
+    <a href = "{{ (printf "/events/%s" .name) }}" class = "left-nav-event">
+      {{ dateFormat "Jan 2" .startdate }}:
+      {{ .city }}
+    </a>
   {{- end -}}
 {{- end -}}
-<h3 class="left-nav-year">TBD</h3>
+<h3 class="left-nav-year mt-3">TBD</h3>
 {{- range sort $tbd "city" -}}
-    <a href = "{{ (printf "/events/%s" .name) }}" class = "left-nav-event">{{ .city }}</a><br />
+  <a href = "{{ (printf "/events/%s" .name) }}" class = "left-nav-event">{{ .city }}</a>
 {{- end -}}
