@@ -125,6 +125,12 @@ team_members:
   github: "franbuehler"
   twitter: "@bufrasch"
   linkedin: "https://www.linkedin.com/in/franziska-buehler-bb037a163/"
+- name: "Zoltan Vitus"
+  twitter: "vituszoli2"
+  employer: "Federal Office of Information Technology"
+  bio: "Experienced agile coach, SAFe Program consultant with a demonstrated history of working in the information technology and services industry. Skilled in agile coaching and leadership, enterprise architecture management, portfolio management and IT strategy."
+  linkedin: "https://www.linkedin.com/in/zoltan-vitus-828abb/"
+  image: "zoltan-vitus.jpg"
 organizer_email: "zurich@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
