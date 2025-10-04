@@ -2,7 +2,7 @@
 Title = "Patrick Wolthausen"
 Twitter = ""
 linkedin = ""
-image = ""
+image = "speaker-default.jpg"
 type = "speaker"
 linktitle = "patrick-wolthausen"
 

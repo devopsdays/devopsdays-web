@@ -2,7 +2,7 @@
 Title = "Van Kim Nguyen"
 Twitter = ""
 linkedin = ""
-image = ""
+image = "speaker-default.jpg"
 type = "speaker"
 linktitle = "van-kim-nguyen"
 

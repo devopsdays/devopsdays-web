@@ -2,7 +2,7 @@
 Title = "Robert Babaev"
 Twitter = ""
 linkedin = ""
-image = ""
+image = "robert-babaev.jpg"
 type = "speaker"
 linktitle = "robert-babaev"
 
