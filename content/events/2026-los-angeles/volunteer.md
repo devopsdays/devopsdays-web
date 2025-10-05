@@ -4,30 +4,57 @@ Type = "event"
 Description = "About DevOpsDays Los Angeles 2026"
 +++
 <br>
-<hr>
-<h3>Become A Volunteer</h3>
-
-<p>
-DevOpsDaysLA, now in its 15th year, is Southern California's only annual conference focused on the practice of DevOps - a proven, joint approach that emphasizes the need for collaboration between the Development (Dev) and Operations/IT (Ops) teams within an organization to continually deliver high-quality solutions. The conference provides a relaxed, casual, and diverse environment where experienced professionals, evangelists, agile practitioners, developers, job seekers, business executives, educators, students, and curiosity seekers can connect and attend talks on current topics. DevOpsDaysLA sponsors offer job opportunities, demonstrations of the latest tools, and world-class service offerings to facilitate organizations' DevOps journey. The conference typically attracts 800 people.
-
-<p>
-We are seeking enthusiastic volunteers to help with conference setup, attendee management, and put away. Volunteering offers substantial career development benefits including:
-
-- Introductions to seasoned technology leaders & professionals
-- Opportunities to hear talks
-- Exceptional resume experience
-- Strong differentiation when applying for internships
-
-<p>
-The conference will provide volunteers with breakfast, lunch, and snacks throughout the day. They will also receive a special "Thank You" swag gift.
-
-<div class="row">
-  <div class="alert alert-info" role="alert">
-  <p>
-  If you are interested in volunteering, please contact the DevOpsDaysLA organizers at {{< email_organizers >}}
+<div class="row" id="main-row">
+  <div class="col-md-6 push-md-8" id="left-col">
+    <hr>
+    <h1>Become A Volunteer</h1>
+    <h2>Join DevOpsDayLA 2026: DevOps in an AI World</h2>
+    <p>DevOpsDayLA, now in its 15th anniversary year, is Southern California's premier conference focused on the human side of technology delivery. We bring together practitioners, engineers, and leaders who understand that great software isn't just about tools and automation—it's about people working together effectively.</p>
+    <p>As part of the global DevOpsDays movement and co-located with the Southern California Linux Expo (SCALE), the conference provides a welcoming environment where experienced professionals, evangelists, developers, students, and technology enthusiasts can connect and learn from authentic implementation stories. Our 2026 theme explores how teams adapt and collaborate as AI reshapes the technology landscape.</p>
+    <h2>Why Volunteer with DevOpsDayLA?</h2>
+    <p>We're seeking enthusiastic volunteers to help both in the months leading up to the conference and during the event itself. Volunteering offers substantial career development benefits including:</p>
+    <ul>
+      <li><strong>Networking opportunities:</strong> Direct introductions to seasoned technology leaders and professionals from across Southern California's diverse tech ecosystem</li>
+      <li><strong>Learning access:</strong> Opportunities to attend talks and participate in discussions about modern DevOps practices</li>
+      <li><strong>Resume enhancement:</strong> Exceptional experience that demonstrates community involvement, event management, and professional communication skills</li>
+      <li><strong>Career differentiation:</strong> Strong advantage when applying for internships, jobs, or advancing in your current role</li>
+      <li><strong>Community connection:</strong> Become part of Southern California's vibrant DevOps community</li>
+    </ul>
+    <h3>Pre-Event (September 2025 - March 2026)</h3>
+    <ul>
+      <li><strong>CFP Review:</strong> Evaluate speaker submissions and help select talks that deliver practical value to the SoCal DevOps community</li>
+      <li><strong>Marketing & Social Media:</strong> Create content, manage LinkedIn presence, and amplify event messaging across professional networks</li>
+      <li><strong>Sponsor Outreach:</strong> Research potential sponsors, craft outreach emails, and help build relationships with companies that support our community</li>
+      <li><strong>Community Engagement:</strong> Connect with local DevOps meetups, user groups, and professional organizations to encourage attendance</li>
+    </ul>
+  </div>
+  <div class="col-md-6 pull-md-4" id="right-col">
+    <hr>
+    <h2>Volunteer Opportunities</h2>
+    <p>We need help throughout the planning process and during the event, including:</p>
+    <ul>
+      <li><strong>Student Outreach:</strong> Partner with universities and coding bootcamps to bring emerging talent to the conference</li>
+      <li><strong>Corporate Outreach:</strong> Engage with SoCal companies across entertainment, aerospace, healthcare, and tech to drive professional attendance</li>
+      <li><strong>Speaker Coordination:</strong> Help with speaker communications, logistics planning, and content promotion</li>
+    </ul>
+    <h3>Day-of-Event (March 6, 2026)</h3>
+    <ul>
+      <li><strong>Registration & Check-in:</strong> Welcome attendees, manage badge distribution, and provide event orientation</li>
+      <li><strong>Session Management:</strong> Support speakers, manage room logistics, and ensure smooth presentation flow</li>
+      <li><strong>Technical Support:</strong> Assist with A/V setup, livestream coordination, and troubleshooting</li>
+      <li><strong>Open Spaces Facilitation:</strong> Help attendees propose topics, organize discussions, and manage collaborative sessions</li>
+      <li><strong>Attendee Experience:</strong> Provide information, resolve issues, and ensure positive conference experience</li>
+      <li><strong>Event Logistics:</strong> Setup, breakdown, and general problem-solving throughout the day</li>
+    </ul>
+    <h2>What We Provide</h2>
+    <p>The conference will provide volunteers with breakfast, lunch, and snacks throughout the day, plus a special commemorative "Thank You" swag gift to mark our 15th anniversary celebration.</p>
+    <h2>Get Involved</h2>
+    <div class="alert alert-info" role="alert">
+      <p>If you're interested in volunteering and becoming part of our 15th anniversary celebration, please contact the DevOpsDayLA organizers at <strong>{{< email_organizers >}}</strong></p>
+    </div>
+    <h2>DevOpsDayLA 2026: Where Human Collaboration Meets Modern Technology</h2>
   </div>
 </div>
-
 <hr>
 <style>
   p {
