@@ -88,3 +88,6 @@ yarn.lock
 
 # hugo rendering folder
 resources/_gen/
+
+# cache files
+.*cache
