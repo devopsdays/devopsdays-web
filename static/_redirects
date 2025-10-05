@@ -29,7 +29,8 @@
 /chicago/cfp    https://talks.devopsdays.org/devops2027-chicago-2025/cfp 302
 /chicago/*		/events/2027-chicago/:splat		302
 /columbus/*		/events/2020-columbus/:splat		302
-/copenhagen/*		/events/2023-copenhagen/:splat		302
+/copenhagen/*		/events/2026-copenhagen/:splat		302
+/denmark/*		/events/2026-copenhagen/:splat		302
 /cuba/*			/events/2019-cuba/:splat		302
 /dallas/*		/events/2025-dallas/:splat		302
 /denver/*		/events/2025-denver/:splat		302
