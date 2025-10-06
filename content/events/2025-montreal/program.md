@@ -5,6 +5,13 @@ Description = "Program for devopsdays Montreal 2025"
 Icons = "false"
 +++
 
+<style type="text/css">
+
+.footer-nav-row {
+  display: block;
+}
+
+</style>
 
 <div>
 <b>Color Keys:</b>
