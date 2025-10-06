@@ -54,13 +54,14 @@ event_twitter: "devopsdaysbhz" # This will create a traditional "Follow" twitter
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
-  - name: UniBH - Estoril
-    url: /events/2024-belo-horizonte/location
+  - name: LOCAL - UniBH - Estoril
+    url: /events/2025-belo-horizonte/location
   - name: Inscrições
     url: https://www.even3.com.br/devopsdays-belo-horizonte-2025-562352/
- # - name: GRADE DE PALESTRAS
- #   url: /events/2024-belo-horizonte/program
- # - name: speakers
+  - name: GRADE DE PALESTRAS
+    url: /events/2025-belo-horizonte/program
+  - name: PALESTRANTES
+    url: /events/2025-belo-horizonte/speakers
  # - name: ENVIE SUA PALESTRA (CFP)
  #   url: https://www.papercall.io/devopsdaysbhz
   - name: patrocínio
@@ -222,3 +223,109 @@ sponsor_levels:
   - id: community
     label: Community
 
+
+program:
+  - title: "Credenciamento e Abertura"
+    type: custom
+    date: 2025-10-11T08:00:00-03:00
+    start_time: "08:30"
+    end_time: "09:00"
+
+  - title: "bruno"
+    type: talk
+    date: 2025-10-11T08:00:00-03:00
+    start_time: "09:00"
+    end_time: "09:30"
+    background_color: "#d79afc"
+
+  - title: "diego-duarte"
+    type: talk
+    date: 2025-10-11T08:00:00-03:00
+    start_time: "09:30"
+    end_time: "10:00"
+
+  - title: "Pausa para Café"
+    type: custom
+    date: 2025-10-11T08:00:00-03:00
+    start_time: "10:05"
+    end_time: "10:45"
+    background_color: "#84C6B7"
+  
+
+  - title: "lucas-mata"
+    type: talk
+    date: 2025-10-11T08:00:00-03:00
+    start_time: "10:50"
+    end_time: "11:20"
+  
+
+  - title: "ana"
+    type: talk
+    date: 2025-10-11T08:00:00-03:00
+    start_time: "11:25"
+    end_time: "11:55"
+
+
+  - title: "Almoço"
+    type: custom
+    date: 2025-10-11T08:00:00-03:00
+    start_time: "12:00"
+    end_time: "13:30"
+    background_color: "#84C6B7"  
+  
+  - title: "pokemao"
+    type: talk
+    date: 2025-10-11T08:00:00-03:00
+    start_time: "13:30"
+    end_time: "14:15"
+    background_color: "#d79afc"
+
+  - title: "Ignite Karaoke"
+    type: custom
+    date: 2025-10-11T08:00:00-03:00
+    start_time: "14:20"
+    end_time: "14:50"
+
+  - title: "denilson"
+    type: talk
+    date: 2025-10-11T08:00:00-03:00
+    start_time: "14:55"
+    end_time: "15:25"
+    background_color: "#d79afc"
+
+  - title: "OpenSpace"
+    type: custom
+    date: 2025-10-11T08:00:00-03:00
+    start_time: "15:30"
+    end_time: "16:00"  
+
+  - title: "Pausa para Café"
+    type: custom
+    date: 2025-10-11T08:00:00-03:00
+    start_time: "16:05"
+    end_time: "16:35"   
+    background_color: "#84C6B7"
+
+  - title: "Sorteios"
+    type: custom
+    date: 2025-10-11T08:00:00-03:00
+    start_time: "16:35"
+    end_time: "17:00"  
+
+  - title: "ana-luiza"
+    type: talk
+    date: 2025-10-11T08:00:00-03:00
+    start_time: "17:00"
+    end_time: "17:30"
+
+  - title: "herbert-ribeiro"
+    type: talk
+    date: 2025-10-11T08:00:00-03:00
+    start_time: "17:35"
+    end_time: "18:05"
+
+  - title: "Encerramento e Sorteios"
+    type: custom
+    date: 2025-10-11T08:00:00-03:00
+    start_time: "18:05"
+    end_time: "18:30"      
