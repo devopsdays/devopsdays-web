@@ -50,9 +50,9 @@ languages:
 #     identifier: about
 
 permalinks:
-  page: /:filename/
+  page: /:contentbasename/
   blog: /blog/:year/:month/:day/:title/
-  speaking: /:filename/
+  speaking: /:contentbasename/
 
 params:
   Facebook: //www.facebook.com/group.php?gid=106761636771

@@ -88,8 +88,37 @@ sponsors:
     level: diamond
   - id: sigitat
     level: diamond
+  - id: oracle
+    level: diamond
+  - id: fluidattacks-before-20250811
+    level: diamond
+  - id: manage-engine
+    level: diamond
+  - id: globant
+    level: diamond
+  - id: epam
+    level: diamond
+  - id: colsubsidio
+    level: diamond
+  - id: amadeus
+    level: platinum
+  - id: dynatrace
+    level: platinum
   - id: encora
     level: gold
+  - id: intelllogic
+  - id: kaspersky
+    level: gold
+  - id: intelllogic
+    level: gold
+  - id: cloudcamp
+    level: education
+  - id: tribuiacolombia
+    level: community
+  - id: aws-women
+    level: community
+  - id: kcd-colombia
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
