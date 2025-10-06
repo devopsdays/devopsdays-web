@@ -155,7 +155,7 @@ sponsor_levels:
   #   max: 11
   - id: bronze
     label: Bronze
-    max: 9
+    max: 1
   - id: venue
     label: Venue
     max: 1
@@ -176,3 +176,4 @@ sponsor_levels:
   #   max: 5
   - id: community
     label: Community
+    max: 1 # to prevent "join as" string from appearing
