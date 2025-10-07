@@ -160,21 +160,21 @@ sponsor_levels:
   - id: bronze
     label: Bronze
     max: 1
+  - id: lanyard
+    label: Lanyard
+    max: 1
+  - id: startup
+    label: Startup
+    max: 1
   - id: venue
     label: Venue
     max: 1
   # - id: lunch
   #   label: Lunch
   #   max: 2
-  - id: lanyard
-    label: Lanyard
-    max: 1
   # - id: breakfast
   #   label: Breakfast
   #   max: 2
-  - id: startup
-    label: Startup
-    max: 1
   # - id: non-profit
   #   label: Non-profit
   #   max: 5
