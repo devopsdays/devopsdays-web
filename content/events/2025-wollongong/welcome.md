@@ -73,7 +73,7 @@ Description = "devopsdays Wollongong 2025"
         <strong>Speakers:</strong>
       </div>
       <div class = "col-md-8">
-        {{< event_link url-key="cfp_link" text="Propose a talk!" >}}
+        View the {{< event_link page="speakers" text="speakers." >}}  
       </div>
     </div>
     <div class = "row">
