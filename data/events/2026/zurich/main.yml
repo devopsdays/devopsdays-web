@@ -15,12 +15,12 @@ startdate: 2026-05-06T00:00:00+02:00 # The start date of your event. Leave blank
 enddate: 2026-05-07T23:59:59+02:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2025-12-01T00:00:00+02:00 # start accepting talk proposals.
-cfp_date_end: 2026-02-01T23:59:59+02:00 # close your call for proposals.
-cfp_date_announce: 2025-12-01T00:00:00+02:00 # inform proposers of status
+cfp_date_start: 2025-10-01T00:00:00+02:00 # start accepting talk proposals.
+cfp_date_end: 2026-01-31T23:59:59+02:00 # close your call for proposals.
+cfp_date_announce: 2026-02-28T00:00:00+02:00 # inform proposers of status
 
-cfp_link: "false" 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "true" 
+cfp_link: "https://sessionize.com/devopsdays-zurich-2026/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2026-01-05T00:00:00+02:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 registration_date_end: 2026-05-06T00:00:00+02:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
@@ -49,7 +49,6 @@ event_social_youtube: "DevOpsDaysZurich" # Change this to the youtube channel ha
 event_twitter: "DevOpsZH" # This will create a traditional "Follow" twitter button. Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
   - name: location
  # - name: registration
  # - name: program
@@ -156,6 +155,10 @@ sponsors:
   level: community
 - id: girlscodetoo
   level: community
+- id: vshn
+  level: gold
+- id: cyberlink
+  level: event
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

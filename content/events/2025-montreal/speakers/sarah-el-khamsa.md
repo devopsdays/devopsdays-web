@@ -2,7 +2,7 @@
 Title = "sarah El khamsa"
 Twitter = ""
 linkedin = ""
-image = ""
+image = "speaker-default.jpg"
 type = "speaker"
 linktitle = "sarah-el-khamsa"
 
