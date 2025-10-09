@@ -48,7 +48,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: propose
  # - name: location
   - name: registration
- # - name: program
+  - name: program
  # - name: speakers
   - name: sponsor
   - name: contact
@@ -90,9 +90,19 @@ sponsors:
   # - id: samplesponsorname
   # level: gold
   #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: appfire
+    level: platinum
+  - id: launch-darkly
+    level: platinum
   - id: flox
     level: gold
     url: https://flox.dev/
+  - id: dynatrace
+    level: silver
+  - id: xorq-labs
+    level: silver
+  - id: pulumi
+    level: silver
   - id: kubeevents
     level: community
     url: https://kube.events

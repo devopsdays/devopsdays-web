@@ -4,7 +4,7 @@ Type = "welcome"
 aliases = ["/events/2025-denver/"]
 Description = "devopsdays Denver 2025"
 +++
-<b>DevOpsDays Rockies is returning to Denver in 2025!</b><br><br>
+<b>This event has ended. Please stay tuned for DevOpsDays Rockies 2026!</b><br><br>
 
   <h2>{{< event_link page="registration" text="Purchase your Ticket!" >}}</h2>
 <br><br>
@@ -35,14 +35,14 @@ Description = "devopsdays Denver 2025"
   </div>
 </div>
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="registration" text="Get your tickets today!" >}}
   </div>
-</div>
+</div> -->
 
 <div class = "row">
   <div class = "col-md-2">
@@ -72,7 +72,7 @@ Description = "devopsdays Denver 2025"
 </div>
 <br>
 <br>
-We're hard at work preparing for the big event and we're looking forward to seeing y'all there!<br>
+Thank you for everyone who participated in DevOpsDays Rockies 2026! We're hard at work preparing for the next big event and we're looking forward to seeing y'all there!<br>
 In the meantime, follow us below to stay in the know:
 <br>
 {{< event_social_linkedin >}}

@@ -112,7 +112,7 @@ sponsors:
      level: bronze
    - id: containersolutions
      level: gold
-   - id: dynatrace
+   - id: dynatrace-before-20250905
      level: silver
    - id: gitlab-before-20220516
      level: gold

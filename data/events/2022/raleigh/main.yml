@@ -124,7 +124,7 @@ sponsors:
     level: gold
   - id: aws
     level: silver
-  - id: dynatrace
+  - id: dynatrace-before-20250905
     level: gold
   - id: relay
     level: gold

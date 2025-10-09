@@ -9,6 +9,11 @@ Description = "Sponsor devopsdays Montreal 2025"
 
 <style type="text/css">
 
+.footer-nav-row {
+  display: block;
+}
+
+
 .paypal-btn{
   padding: 10px;
 }

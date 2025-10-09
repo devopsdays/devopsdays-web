@@ -1,7 +1,7 @@
 +++
 Title = "Program"
 Type = "event"
-Description = "Program for devopsdays Denver 2024"
+Description = "Program for devopsdays Denver 2025"
 +++
 
 <script type="text/javascript" src="https://talks.devopsdays.org/dodrox-2025/widgets/schedule.js"></script>
