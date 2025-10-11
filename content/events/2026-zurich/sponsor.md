@@ -4,15 +4,15 @@ Type = "event"
 Description = "Sponsor DevOpsDays Zurich 2026"
 +++
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at <a href="mailto:organizer@devopsdays.ch">organizer@devopsdays.ch</a>. With sponsoring this event you accept our {{< event_link page="conduct" text="Code of Conduct" >}} and the <a href="https://assets.devopsdays.org/events/2025/zurich/2025-general-sponsorship-rules.pdf">General Sponsorship Rules</a>.  
+We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at <a href="mailto:organizer@devopsdays.ch">organizer@devopsdays.ch</a>. With sponsoring this event you accept our {{< event_link page="conduct" text="Code of Conduct" >}} and the <a href="https://assets.devopsdays.org/events/2026/zurich/2026-general-sponsorship-rules.pdf">General Sponsorship Rules</a>.  
 
 <b>We do not sell or bundle speaker spots as part of any Sponsoring activities with our conference.</b> Do not ask for it. We don’t do it. <a href="https://devopsdays.org/organizing">No DevOpsDays conference does it</a>. Never. Period. 
-We encourage everyone, including Sponsor employees, to take part in our open <a href="https://sessionize.com/devopsdays-zurich-2025/">Call for Proposals</a> process. However, working (or any other relation) to a Sponsor does not result in preferences or disadvantages in our selection process.”
+We encourage everyone, including Sponsor employees, to take part in our open <a href="https://sessionize.com/devopsdays-zurich-2026/">Call for Proposals</a> process. However, working (or any other relation) to a Sponsor does not result in preferences or disadvantages in our selection process.”
 
 <b>We do not sell or distribute attendee information.</b> Do not ask for it. We don’t do it. <a href="https://devopsdays.org/organizing">No DevOpsDays conference does it</a>. Never. Period.
 Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers (e.g. via proposing <a href="https://devopsdays.org/open-space-format/">OpenSpace</a> topics). Any Sponsor is free to collect attendee information with mutual consensus at their booth.
 
-<a class="btn btn-primary btn-block"  style = "width: 200px; margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://assets.devopsdays.org/events/2025/zurich/2025-zurich-devopsdays-prospectus.pdf"  target="_blank">Download Sponsoring Kit!</a>
+<a class="btn btn-primary btn-block"  style = "width: 200px; margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://assets.devopsdays.org/events/2026/zurich/2026-zurich-devopsdays-prospectus.pdf"  target="_blank">Download Sponsoring Kit!</a>
 
 ### Sponsoring packages
 <p>
@@ -149,7 +149,7 @@ Sponsors are encouraged to represent themselves by actively participating and en
     </tr>
     <tr>
       <th><b># Available Packages</b></th>
-      <td bgcolor="#FFE8A3"><center>4</center></td>
+      <td bgcolor="#FFE8A3"><center>3</center></td>
       <td bgcolor="#E5E5E5"><center>4</center></td>
       <td bgcolor="#FFBB7F"><center>unlimited</center></td>
       <td bgcolor="#85cdad"><center>SOLD OUT</center></td>
