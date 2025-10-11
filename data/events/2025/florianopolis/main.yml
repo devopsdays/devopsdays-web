@@ -26,8 +26,8 @@ cfp_link: "https://www.papercall.io/devopsdays-fln-2025" # #if you have a custom
 # registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 # registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
-registration_closed: "true" #set this to true if you need to manually close registration before your registration end date
-# registration_link: "https://www.sympla.com.br/evento/devopsdays-florianopolis-2025/2588454" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_closed: "false" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://meuingresso.com.br/eventos/devopsdays-floripa-2025" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
