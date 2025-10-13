@@ -15,7 +15,7 @@ The event is on!  We're working hard behind the scenes to set this up. What we k
 
 Feel free to suggest a topic for a speak or an Open Space discussion. Our slack is also we're you'll get instant news about the event.
 
-Or send a mail to the organizers at <a href="mailto:organizers@devopsdays.dk">organizers@devopsdays.dk</a>
+Or send a mail to the organizers at <a href="{{< email_organizers >}}">{{< email_organizers >}}</a>
 
 <div class = "row">
   <div class = "col-md-2">

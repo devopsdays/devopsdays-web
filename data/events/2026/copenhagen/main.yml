@@ -95,7 +95,8 @@ team_members: # Name is the only required field for team membe
     image: "simon-izydorek.jpg"
     employer: "Thales"
 
-organizer_email: "organizers@devopsdays.dk" # Put your organizer email address here
+# organizer_email: "organizers@devopsdays.dk" # Put your organizer email address here
+organizer_email: "denmark@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
