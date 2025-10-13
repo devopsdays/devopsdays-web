@@ -14,9 +14,9 @@ startdate: 2026-03-06T08:00:00-08:00 # The start date of your event. Leave blank
 enddate: 2026-03-06T22:00:00-08:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2025-09-01T00:00:00-08:00  # start accepting talk proposals.
-cfp_date_end:  2025-11-01T00:00:00-08:00 # close your call for proposals.
-cfp_date_announce: 2025-12-01T00:00:00-08:00 # inform proposers of status
+cfp_date_start: 2025-10-01T00:00:00-08:00  # start accepting talk proposals.
+cfp_date_end:  2025-12-01T00:00:00-08:00 # close your call for proposals.
+#cfp_date_announce: 2025-12-01T00:00:00-08:00 # inform proposers of status
 cfp_open: "true"
 
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
@@ -42,8 +42,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   #  url: https://www.socallinuxexpo.org/scale/23x/venue
   #- name: registration
   #  url: https://register.socallinuxexpo.org/reg6/
-  #- name: CFP
-  #  url: https://www.socallinuxexpo.org/scale/23x/cfp
+  - name: CFP
+    url: https://www.socallinuxexpo.org/scale/23x/cfp
   #- name: program
   #- name: speakers
   - name: propose
