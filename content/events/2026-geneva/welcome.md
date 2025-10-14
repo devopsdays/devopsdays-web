@@ -23,7 +23,7 @@ Description = "DevOpsDays Geneva 2026"
     color: #fff;
   }
   a.jssocials-share-link, a.event-cta-button {
-    background-color: #8e44b3;
+    background-color: #ED1C24;
   }
 
   .content-text {
@@ -48,10 +48,10 @@ Description = "DevOpsDays Geneva 2026"
   }
 </style>
 
-<!-- <div style="text-align:center;">
-  {{< event_logo >}}
-</div> -->
 
+
+<div class = "row">
+<div class = "col-md-8">
 <div class = "row">
   <div class = "col-md-2">
     <strong>Dates</strong>
@@ -131,6 +131,13 @@ Description = "DevOpsDays Geneva 2026"
   <div class = "col-md-8">
     {{< event_link page="contact" text="Get in touch with the organizers" >}}
   </div>
+</div>
+</div>
+<div class = "col-md-4">
+<div style="text-align:center">
+  {{< event_logo >}}
+</div>
+</div>
 </div>
 
 <!-- Uncomment if you added your city twitter name -->
