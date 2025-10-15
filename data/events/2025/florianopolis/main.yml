@@ -26,8 +26,8 @@ cfp_link: "https://www.papercall.io/devopsdays-fln-2025" # #if you have a custom
 # registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 # registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
-registration_closed: "true" #set this to true if you need to manually close registration before your registration end date
-# registration_link: "https://www.sympla.com.br/evento/devopsdays-florianopolis-2025/2588454" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://meuingresso.com.br/eventos/devopsdays-floripa-2025" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -35,6 +35,10 @@ location: Florianópolis
 coordinates: "-27.499903326916883, -48.514595" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: Auditório do Centro Universitário Cesusc - UNICESUSC
 location_address: SC-401, 9301 - Santo Antonio de Lisboa, Florianópolis - SC, 88050-001
+
+event_social_linkedin: "https://www.linkedin.com/company/devopsdaysfln/" # Change this to the url to your Linkedin group, company, or page.
+event_social_youtube: "devopsdaysfloripa" # Change this to the youtube channel handle for your event such as devopsdaysrox
+# event_social
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   # - name: propose
@@ -86,6 +90,8 @@ sponsors:
     level: platinum
   - id: elastic
     level: platinum
+  - id: software.com.br
+    level: gold
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
