@@ -265,3 +265,4 @@
 /wollongong/*            /events/2025-wollongong/:splat           302
 /cluj-napoca/*            /events/2025-cluj-napoca/:splat           302
 /graz/*            /events/2025-graz/:splat           302
+/ciudad-autonoma-de-buenos-aires/*            /events/2026-ciudad-autonoma-de-buenos-aires/:splat           302
