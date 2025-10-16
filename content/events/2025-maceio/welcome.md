@@ -112,8 +112,7 @@ a.jssocials-share-link, a.event-cta-button {
 <!-- <img src="/events/2023-montreal/logo-square.jpg"> -->
 <p></p>
 <p><a href="https://www.papercall.io/devopsdaysmaceio2025"><button>SUBMENTA SUA PALESTRA</button></a></p>
-<!--<p><a href="https://www.sympla.com.br/evento/devopsdays-maceio-2024/2628162"><button>INSCREVA-SE</button></a></p>-->
-<p><button onclick="alert('EM BREVE!')">INSCREVA-SE</button></p>
+<p><a href="https://www.sympla.com.br/evento/devopsdays-maceio-2025/3061065"><button>INSCREVA-SE</button></a></p>
 <p><a href="/events/2025-maceio/sponsor"><button>SEJA UM PATROCINADOR</button></a></p>
 <p><a href="/events/2025-maceio/contact"><button>CONTATO</button></a></p>
 <p><a href="https://www.google.com.br/maps/place/Est%C3%A1cio+Unidade+Jati%C3%BAca+-+Macei%C3%B3+-+AL/@-9.651942,-35.7047798,17z/data=!3m1!4b1!4m6!3m5!1s0x70145b0709f88ed:0xc26788b99486c130!8m2!3d-9.6519473!4d-35.7022049!16s%2Fg%2F1tdj4dhm?entry=ttu&g_ep=EgoyMDI1MDcyOS4wIKXMDSoASAFQAw%3D%3D"><button>LOCALIZAÇÃO</button></a></p>

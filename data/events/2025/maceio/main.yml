@@ -34,16 +34,20 @@ location: "Auditório - Estácio Jatiúca" # Defaults to city, but you can make 
 location_address: "Av. Pio XII, 350 - Jatiúca, Maceió - AL, 57035-560" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: CFP
-    url: https://www.papercall.io/devopsdaysmaceio2025
-  - name: location
+  - name: código de conduta
+    url: /events/2025-maceio/conduta
+  # - name: CFP
+  #   url: https://www.papercall.io/devopsdaysmaceio2025
+  - name: LOCAL
+    url: /events/2025-maceio/location
   #- name: ticket
     #url: https://www.sympla.com.br/evento/devopsdays-maceio-2024/2628162 -- A definir
-  - name: conduct-pt-br
-  - name: sponsor
-  - name: contact
-  - name: program
-  # - name: speakers
+  - name: patrocínio
+    url: /events/2025-maceio/sponsor
+  - name: PALESTRANTES
+    url: /events/2025-maceio/speakers
+  - name: GRADE DE PALESTRAS
+    url: /events/2025-maceio/program
   #   url: /events/2025-maceio/welcome
  # - name: propose
 
@@ -111,111 +115,89 @@ sponsor_levels:
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-# Platinum
-  #- id: 
-    #level: 
-
-# Gold
-  #- id:
-    #level:
-
-# Silver
-  #- id:
-    #level:
-
-# Startup
-  #- id:
-    #level:
-
 # Community
-# - id: 
-#   level: 
-
+  - id: novatec
+    level: community
+  - id: kubeevents
+    level: community
+  - id: estacio
+    level: community
+  - id: oxehacker
+    level: community
 
 program:
   - title: "Recepção / Credenciamento dos participantes"
     type: custom
     date: 2025-10-25
-    start_time: "09:00"
+    start_time: "08:30"
     end_time: "09:00"
   - title: "Abertura do evento e boas-vindas"
     type: custom
     date: 2025-10-25
-    start_time: "09:30"
-    end_time: "09:55"
-  - title: "Coffee break matutino"
+    start_time: "09:00"
+    end_time: "09:20"
+  - title: "Coffee break matutino ☕"
     type: custom
     date: 2025-10-25
+    start_time: "09:30"
+    end_time: "10:00"
+  - title: "pedro"
+    type: talk
+    date: 2025-10-25
     start_time: "10:00"
-    end_time: "10:30"
-  - title: " - "
+    end_time: "10:25"
+  - title: "lara"
     type: talk
     date: 2025-10-25
     start_time: "10:30"
     end_time: "10:55"
-    background_color: "#cc99ff"
-  - title: " - "
+  - title: "marco"
     type: talk
     date: 2025-10-25
     start_time: "11:00"
     end_time: "11:25"
-  - title: " - "
+  - title: "thiago"
     type: talk
     date: 2025-10-25
     start_time: "11:30"
     end_time: "11:55"
-  - title: " - "
-    type: talk
-    date: 2025-10-25
-    start_time: "12:00"
-    end_time: "12:25"
-  - title: "Almoço"
+  - title: "Almoço 🍽️"
     type: custom
     date: 2025-10-25
-    start_time: "12:30"
-    end_time: "13:50"
+    start_time: "12:00"
+    end_time: "13:25"
   - title: "Retorno almoço / Reabertura do evento"
     type: custom
     date: 2025-10-25
-    start_time: "13:50"
+    start_time: "13:25"
+    end_time: "13:30"
+  - title: "giovana"
+    type: talk
+    date: 2025-10-25
+    start_time: "13:30"
     end_time: "13:55"
-  - title: " - "
+  - title: "lanay"
     type: talk
     date: 2025-10-25
     start_time: "14:00"
     end_time: "14:25"
-  - title: " - "
+  - title: "carlos"
     type: talk
     date: 2025-10-25
     start_time: "14:30"
     end_time: "14:55"
-  - title: " - "
-    type: talk
+  - title: "Coffee break vespertino ☕"
+    type: custom
     date: 2025-10-25
     start_time: "15:00"
-    end_time: "15:25"
-  - title: " - "
+    end_time: "15:30"
+  - title: "adriano"
     type: talk
     date: 2025-10-25
     start_time: "15:30"
     end_time: "15:55"
-  - title: "Coffee break vespertino"
+  - title: "Mesa Redonda - Encerramento"
     type: custom
     date: 2025-10-25
     start_time: "16:00"
-    end_time: "16:30"
-  - title: " - "
-    type: talk
-    date: 2025-10-25
-    start_time: "16:30"
-    end_time: "16:55"
-  - title: " - "
-    type: talk
-    date: 2025-10-25
-    start_time: "17:00"
-    end_time: "17:25"
-  - title: "Encerramento"
-    type: custom
-    date: 2025-10-25
-    start_time: "17:30"
-    end_time: "18:00"
+    end_time: "17:00"
