@@ -187,6 +187,10 @@ sponsors:
     level: gold
   - id: profisea
     level: gold
+  - id: dynatrace
+    level: gold
+  - id: flexera
+    level: gold
   - id: baseshift
     level: community
   - id: minimus
