@@ -4,7 +4,7 @@ Type = "event"
 Description = "Sponsor DevOpsDays Zurich 2026"
 +++
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at <a href="mailto:organizer@devopsdays.ch">organizer@devopsdays.ch</a>. With sponsoring this event you accept our {{< event_link page="conduct" text="Code of Conduct" >}} and the <a href="https://assets.devopsdays.org/events/2026/zurich/2026-general-sponsorship-rules.pdf">General Sponsorship Rules</a>.  
+We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at <a href="mailto:zurich@devopsdays.org">zurich@devopsdays.org</a>. With sponsoring this event you accept our {{< event_link page="conduct" text="Code of Conduct" >}} and the <a href="https://assets.devopsdays.org/events/2026/zurich/2026-general-sponsorship-rules.pdf">General Sponsorship Rules</a>.  
 
 <b>We do not sell or bundle speaker spots as part of any Sponsoring activities with our conference.</b> Do not ask for it. We don’t do it. <a href="https://devopsdays.org/organizing">No DevOpsDays conference does it</a>. Never. Period. 
 We encourage everyone, including Sponsor employees, to take part in our open <a href="https://sessionize.com/devopsdays-zurich-2026/">Call for Proposals</a> process. However, working (or any other relation) to a Sponsor does not result in preferences or disadvantages in our selection process.”
