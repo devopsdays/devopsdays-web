@@ -45,14 +45,15 @@ event_social_mastadon: "https://mastodon.social/@devopsdaysist" # Change this to
 event_social_bsky: "https://bsky.app/profile/devopsdaysist.bsky.social" # Change this to url to your bluesky page
 event_social_youtube: "devopsdaysist" # Change this to the youtube channel handle for your event such as devopsdaysrox
 # legacy
-event_twitter: "devopsdaysist" # This will create a traditional "Follow" twitter button. Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
  # - name: location
  # - name: registration
- # - name: program
- # - name: speakers
+  - name: program
+    url: https://devopsdays.istanbul/#schedules
+  - name: speakers
+    url: https://devopsdays.istanbul/#ts-speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -109,12 +110,23 @@ organizer_email: "istanbul@devopsdays.org" # Put your organizer email address he
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+# platinum
 - id: akbank
   level: platinum
+- id: kloia
+  level: platinum
+- id: bestcloudforme
+  level: platinum
+# gold
 - id: aws
   level: gold
-- id: kloia
+- id: axoft
   level: gold
+# silver
+- id: parny
+  level: silver
+- id: turknet
+  level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
