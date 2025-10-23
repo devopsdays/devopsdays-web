@@ -7,7 +7,7 @@ Description = "Lei Geral de Proteção de Dados Pessoais (LGPD)"
 <p>
 <h1>Política de Privacidade</h1>
 
-<p>A sua privacidade é importante para nós. É política do site DevOpsDays Rio de Janeiro respeitar a sua privacidade em relação a qualquer informação sua que possamos coletar no site <a href="https://devopsdays.org/events/2025-rio-de-janeiro/" target="_blank" rel="noopener">DevOpsDays Rio de Janeiro</a>, e outros sites que possuímos e operamos.</p>
+<p>A sua privacidade é importante para nós. É política do site DevOpsDays Rio de Janeiro respeitar a sua privacidade em relação a qualquer informação sua que possamos coletar no site {{< event_link page="contact" text="DevOpsDays Rio de Janeiro" >}} , e outros sites que possuímos e operamos.</p>
 
 <p>Trabalhamos com base na Lei de Proteção de Dados (13.709/2018) que traz garantias de privacidade, confidencialidade, retenção, proteção aos direitos fundamentais de liberdade e  o livre desenvolvimento da personalidade da pessoa. Além disso, respeitamos a Constituição Federal da República Federativa do Brasil, o Código de Defesa do Consumidor (Lei 8.078/90), Marco Civil da Internet (Lei 12.965/14).</p><p>
 
@@ -23,7 +23,7 @@ Description = "Lei Geral de Proteção de Dados Pessoais (LGPD)"
 
 <p>Na qualidade de consumidor, você é livre para recusar a nossa solicitação de informações pessoais, entendendo que talvez não possamos fornecer alguns dos serviços desejados.</p>
 
-<p>O uso continuado de nosso site será considerado como aceitação de nossas práticas em torno de privacidade e informações pessoais. Se você tiver alguma dúvida sobre como lidamos com dados do usuário e informações pessoais, entre em contato conosco através <a href="https://devopsdays.org/events/2025-rio-de-janeiro/contact" target="_blank">do nosso formulário</a>.</p>
+<p>O uso continuado de nosso site será considerado como aceitação de nossas práticas em torno de privacidade e informações pessoais. Se você tiver alguma dúvida sobre como lidamos com dados do usuário e informações pessoais, entre em contato conosco através {{< event_link page="contact" text="Fale com os organizadores!" >}}.</p>
 
 <p>Nossa política é atualizada de forma constante.</p>
 
