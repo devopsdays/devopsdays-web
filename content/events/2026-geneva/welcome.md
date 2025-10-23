@@ -23,7 +23,7 @@ Description = "DevOpsDays Geneva 2026"
     color: #fff;
   }
   a.jssocials-share-link, a.event-cta-button {
-    background-color: #8e44b3;
+    background-color: #ED1C24;
   }
 
   .content-text {
@@ -48,10 +48,22 @@ Description = "DevOpsDays Geneva 2026"
   }
 </style>
 
-<!-- <div style="text-align:center;">
-  {{< event_logo >}}
-</div> -->
+<div class="row">
+    <div class="col-md-12">
+      <div class="row justify-content-center">
+        <div class="d-flex p-2">
+          <a class="btn btn-primary btn-block"
+            style="margin-top: 15px; margin-bottom: 15px; background-color: #ED1C24; border-color: #ED1C24;"
+            href="/events/2026-geneva/registration">
+            <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Register to attend the conference!
+          </a>
+        </div>
+        <div class="d-flex p-2">
+    </div>
+</div>
 
+<div class = "row">
+<div class = "col-md-8">
 <div class = "row">
   <div class = "col-md-2">
     <strong>Dates</strong>
@@ -70,14 +82,14 @@ Description = "DevOpsDays Geneva 2026"
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="registration" text="Register to attend the conference!" >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -131,6 +143,13 @@ Description = "DevOpsDays Geneva 2026"
   <div class = "col-md-8">
     {{< event_link page="contact" text="Get in touch with the organizers" >}}
   </div>
+</div>
+</div>
+<div class = "col-md-4">
+<div style="text-align:center">
+  {{< event_logo >}}
+</div>
+</div>
 </div>
 
 <!-- Uncomment if you added your city twitter name -->
