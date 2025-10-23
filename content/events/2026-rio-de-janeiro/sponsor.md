@@ -4,7 +4,7 @@ Type = "event"
 Description = "Sponsor DevOps Days Rio de Janeiro 2026"
 +++
 
-Valorizamos muito os patrocinadores deste evento aberto. Se você estiver interessado em patrocinar, envie um e-mail para [<a href="mailto:patrocine@devopsdays.org.br">patrocine@devopsdays.rio.br</a>].
+Valorizamos muito os patrocinadores deste evento aberto. Se você estiver interessado em patrocinar, envie um e-mail para [<a href="mailto:rio-de-janeiro@devopsdays.org">rio-de-janeiro@devopsdays.org</a>].
 
 <hr>
 <div>
