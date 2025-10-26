@@ -2,7 +2,7 @@
 Title = "Paulo Eduardo"
 Twitter = ""
 linkedin = "https://www.linkedin.com/in/pauloeduardoazevedodacosta/"
-image = "paulo-eduardo"
+image = "paulo-eduardo.png"
 type = "speaker"
 linktitle = "paulo-eduardo"
 
