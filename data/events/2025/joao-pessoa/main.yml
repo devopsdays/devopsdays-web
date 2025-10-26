@@ -120,11 +120,10 @@ organizer_email: "joao-pessoa@devopsdays.org" # Put your organizer email address
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
- # - id: samplesponsorname
- #   level: gold
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.dd
- # - id: arresteddevops
- #   level: community
+  - id: uniesp
+    level: gold
+  - id: grafana
+    level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
