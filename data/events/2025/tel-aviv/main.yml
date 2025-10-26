@@ -191,6 +191,8 @@ sponsors:
     level: gold
   - id: flexera
     level: gold
+  - id: cloudflare
+    level: gold
   - id: baseshift
     level: community
   - id: minimus
