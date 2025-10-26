@@ -37,13 +37,14 @@ location_address: "Expo TLV, Pavillion 10, 101 Rokach Blvd, Tel Aviv-Jaffa" #Opt
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: location
  # - name: registration
- # - name: program
- # - name: speakers
-  - name: sponsor
-  - name: contact
-  - name: propose
-    url: https://sessionize.com/devopsdays-tel-aviv-2025/
-  - name: conduct
+ - name: program
+   url: https://tlvcommunity.dev/devopsdays/agenda-2025
+ - name: speakers
+   url: https://tlvcommunity.dev/devopsdays/speakers-2025
+ # - name: sponsor
+ - name: contact
+# - name: propose
+# - name: conduct
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
