@@ -205,6 +205,12 @@ sponsors:
     level: platinum
   - id: fluidattacks
     level: platinum
+  - id: tecnocomp
+    level: platinum
+  - id: novatec
+    level: community
+  - id: edcomtech
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
