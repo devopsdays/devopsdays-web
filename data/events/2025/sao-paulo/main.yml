@@ -199,12 +199,18 @@ sponsors:
   - id: linuxtips
     level: gold
  ##  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  - id: sonarsource 
+  - id: sonarsource
     level: platinum
   - id: software.com.br
     level: platinum
   - id: fluidattacks
     level: platinum
+  - id: tecnocomp
+    level: platinum
+  - id: novatec
+    level: community
+  - id: 3dcomtech
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
