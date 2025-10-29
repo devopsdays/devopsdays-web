@@ -90,7 +90,7 @@ sponsors:
     level: gold
   - id: harness
     level: silver
-  - id: dynatrace
+  - id: dynatrace-before-20250905
     level: gold
   - id: logz
     level: silver

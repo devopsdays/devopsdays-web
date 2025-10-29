@@ -115,7 +115,7 @@ proposal_email: "proposals-houston-2019@devopsdays.org" # Put your proposal emai
 sponsors:
   - id: collabnet-versionone
     level: platinum
-  - id: dynatrace
+  - id: dynatrace-before-20250905
     level: platinum
   - id: twosigma-before-20230603
     level: gold

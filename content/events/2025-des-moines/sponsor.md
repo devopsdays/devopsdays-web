@@ -87,8 +87,8 @@ The best thing to do is send engineers to interact with the experts at devopsday
       <tr>
           <td class="label">Remaining Sponsorhips (First come first serve)</td>
           <td class="platinum">1 of 1</td>
-          <td class="gold">11 of 11</td>
-          <td class="lanyard">1 of 1</td>
+          <td class="gold">6 of 11</td>
+          <td class="lanyard">0 of 1</td>
           <td class="silver">Unlimited</td>
       </tr>
       <tr>
@@ -108,8 +108,7 @@ The best thing to do is send engineers to interact with the experts at devopsday
           <td>
               <a href="https://link.waveapps.com/a967hv-9nbd3d" target=”_blank”>
                 <img src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif"/></a></td>
-        <td>              <a href="https://link.waveapps.com/xfugsp-smc3q3" target=”_blank”>
-                <img src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif"/></a></td></td>
+        <td>              SOLD</td>
           <td>
               <a href=" https://link.waveapps.com/85h5sv-egc4g7" target=”_blank”>
                 <img src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif"/></a></td>

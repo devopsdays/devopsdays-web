@@ -52,43 +52,38 @@ program:
   - title: "michael-stahnke"
     type: talk
     date: 2025-08-13
-    start_time: "13:30"
-    end_time: "14:00"
+    start_time: "13:45"
+    end_time: "14:15"
   - title: "carl-chesser"
     type: talk
     date: 2025-08-13
-    start_time: "14:00"
-    end_time: "14:30"
+    start_time: "14:15"
+    end_time: "14:45"
   - title: "Sponsors, Break"
     type: custom
     date: 2025-08-13
-    start_time: "14:30"
-    end_time: "14:50"
+    start_time: "14:45"
+    end_time: "15:15"
   - title: "Open Spaces Kickoff"
     type: open-space
     date: 2025-08-13
-    start_time: "14:50"
-    end_time: "15:00"
+    start_time: "15:15"
+    end_time: "15:30"
   - title: "Open Spaces"
     type: open-space
     date: 2025-08-13
-    start_time: "15:00"
+    start_time: "15:30"
     end_time: "16:15"
   - title: "Sponsors, Break"
     type: custom
     date: 2025-08-13
     start_time: "16:15"
     end_time: "16:30"
-  - title: "rhia-dixon"
-    type: talk
-    date: 2025-08-13
-    start_time: "16:30"
-    end_time: "17:00"
   - title: "Closing"
     type: custom
     date: 2025-08-13
-    start_time: "17:00"
-    end_time: "17:30"
+    start_time: "16:30"
+    end_time: "17:00"
 
 ignites:
   - title: "ed-legault"

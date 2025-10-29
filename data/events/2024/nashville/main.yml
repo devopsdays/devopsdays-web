@@ -133,7 +133,7 @@ sponsors:
    level: media
  - id: netappfsxn
    level: gold
- - id: dynatrace
+ - id: dynatrace-before-20250905
    level: gold
  - id: hasura
    level: gold

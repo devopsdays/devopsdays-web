@@ -5,6 +5,7 @@ Talk_end_time = "15:30"
 Title = "Firewalls and Friendships: Building a Balanced Professional Network"
 Type = "talk"
 Speakers = ["annie-hedgpeth"]
+Youtube = "UvNeiILKHF0"
 +++
 
 Many people really struggle with intentional career networking. It can seem scary or pointless or overwhelming, so they end up falling back on default networking, only maintaining professional relationships with those in their immediate circle of influence. Others are very intentional with their networking but end up being takers and not givers, offending those in their network. Still others are worried about asking for anything from their network for fear of seeming like a taker. Being a genuine person in the corporate world is a tricky business.
