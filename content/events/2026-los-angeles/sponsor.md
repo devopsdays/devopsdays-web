@@ -31,7 +31,7 @@ Description = "Sponsor DevOpsDays Los Angeles 2026"
 
 <h3>Why Sponsor DevOpsDayLA 2026?</h3>
 
-<img src="https://assets.devopsdays.org/events/2026/los-angeles/dprospectus1.png" style="width: 100%; margin: 20px 0;">
+<img src="https://assets.devopsdays.org/events/2026/los-angeles/prospectus1.png" style="width: 100%; margin: 20px 0;">
 
 <p><strong>Reach Your Target Audience:</strong> Connect with 400+ engaged DevOps practitioners, engineers, and decision-makers from across Southern California's diverse technology landscape—from entertainment and aerospace to startups and Fortune 500 companies.</p>
 
@@ -52,7 +52,7 @@ Description = "Sponsor DevOpsDays Los Angeles 2026"
 <li><strong>Startup Sponsor ($750):</strong> Community-friendly pricing for early-stage companies
 </ul>
 
-<img src="https://assets.devopsdays.org/events/2026/los-angeles/dprospectus2.png" style="width: 100%; margin: 20px 0;">
+<img src="https://assets.devopsdays.org/events/2026/los-angeles/prospectus2.png" style="width: 100%; margin: 20px 0;">
 
 <p>Add-on opportunities include lunch sponsorship, coffee breaks, social events, and our special 15th Anniversary commemorative sponsorship.</p>
   </div>
@@ -68,7 +68,7 @@ Description = "Sponsor DevOpsDays Los Angeles 2026"
 
 <h3>Ready to Sponsor DevOpsDayLA 2026?</h3>
 
-<img src="https://assets.devopsdays.org/events/2026/los-angeles/dprospectus3.png" style="width: 100%; margin: 20px 0;">
+<img src="https://assets.devopsdays.org/events/2026/los-angeles/prospectus3.png" style="width: 100%; margin: 20px 0;">
 
 <p>Contact our sponsorship team at <strong>los-angeles@devopsdays.org</strong> for detailed sponsorship packages, custom opportunities, and to discuss how your sponsorship can support our community goals.</p>
 
