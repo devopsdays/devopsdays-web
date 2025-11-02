@@ -5,7 +5,7 @@ aliases = ["/events/2026-los-angeles/"]
 Description = "DevOpsDays Los Angeles 2026"
 +++
 <br>
-
+<div style="text-align: center"><a href="https://assets.devopsdays.org/events/2026/los-angeles/devopsdayla2026_sponsor.pdf" style="font-size: 42px;">➡️ Download Our Sponsor Prospectus PDF ⬅️</a></div>
 <div class = "row" id = "main-row">
   <div class = "col-md-6 push-md-8" id = "left-col">
     <hr>
