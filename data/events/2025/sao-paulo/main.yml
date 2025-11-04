@@ -205,7 +205,13 @@ sponsors:
     level: platinum
   - id: fluidattacks
     level: platinum
+  - id: kaspersky
+    level: platinum
   - id: castai
+    level: gold
+  - id: oracle
+    level: gold
+  - id: elastic
     level: gold
   - id: novatec
     level: community
