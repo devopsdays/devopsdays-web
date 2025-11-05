@@ -139,7 +139,7 @@ sponsors:
     level: platinum
   - id: vmware
     level: platinum
-  - id: oracle
+  - id: oracle-before-20251105
     level: lanyard
   - id: circleci
     level: gold

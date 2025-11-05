@@ -127,7 +127,7 @@ sponsors:
   level: supporter
 - id: percolate
   level: supporter
-- id: oraclecloud
+- id: oracle-before-20251105cloud
   level: coffee
 - id: hashicorp-before-20220811
   level: gold

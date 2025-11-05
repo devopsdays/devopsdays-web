@@ -121,7 +121,7 @@ sponsors:
     level: silver
   - id: octopus-deploy
     level: silver
-  - id: oracle-linux
+  - id: oracle-before-20251105-linux
     level: silver
   - id: tecknuovo
     level: silver

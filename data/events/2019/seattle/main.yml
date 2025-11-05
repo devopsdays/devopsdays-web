@@ -162,7 +162,7 @@ sponsors:
     level: evening
   - id: logdna
     level: evening
-  - id: oraclecloud
+  - id: oracle-before-20251105cloud
     level: evening
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

@@ -214,7 +214,7 @@ sponsors:
     level: silver
   - id: discover
     level: lunch
-  - id: oraclecloud
+  - id: oracle-before-20251105cloud
     level: transcription
   - id: microsoftazure
     level: gold
