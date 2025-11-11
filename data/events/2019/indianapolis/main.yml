@@ -101,7 +101,7 @@ proposal_email: "proposals-indianapolis-2019@devopsdays.org" # Put your proposal
 sponsors:
   - id: arresteddevops
     level: community
-  - id: dynatrace
+  - id: dynatrace-before-20250905
     level: gold
   - id: indypy
     level: community

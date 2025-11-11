@@ -7,6 +7,10 @@ Description = "DevOpsDays Montréal is back for another unique conference experi
 
 <style type="text/css">
 
+.footer-nav-row {
+  display: block;
+}
+
 /* Thank you Buffalo */
 
 .mtl {
@@ -85,7 +89,7 @@ a.jssocials-share-link, a.event-cta-button {
 <div class="showcase">
 {{< event_logo >}}
 <p></p>
-<p><a href="https://talks.devopsdays.org/devopsdays-montreal-2025/cfp"><button>Propose your talk!</button></a></p>
+<!-- <p><a href="https://talks.devopsdays.org/devopsdays-montreal-2025/cfp"><button>Propose your talk!</button></a></p> -->
 
 <p><a href="https://www.eventbrite.ca/e/devopsdays-montreal-2025-tickets-1406161329389"><button>Register</button></a></p>
 <!-- <p><a href="../location/"><button>Get venue info</button></a></p> -->

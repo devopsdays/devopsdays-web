@@ -118,7 +118,9 @@ b, strong {
   font-size: 9pt;
   text-transform: uppercase;
   color: #000000;
+  margin-top: 1.5rem;
 }
+
 /* set the current month style */
 .left-nav-months.current {
   font-weight: 900;
@@ -131,11 +133,18 @@ b, strong {
   font-size: 18pt;
   color: #000000;
 }
+
+.left-nav-year + .left-nav-months {
+  margin-top: 0;
+}
+
 .left-nav-event {
+  display: block;
   font-family: 'Roboto', sans-serif;
   font-weight: 100;
   font-size: 9pt;
   text-transform: capitalize;
+  margin-bottom: .35rem;
 }
 
 /* Footer */

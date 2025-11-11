@@ -180,6 +180,12 @@ sponsors:
     level: gold
   - id: launch-darkly
     level: gold
+  - id: gmfinancial
+    level: gold
+  - id: cockroachlabs
+    level: gold
+  - id: peoplecert
+    level: gold
   - id: pulumi
     level: silver
   - id: coder
@@ -205,6 +211,8 @@ sponsors:
   - id: redhatmug
     level: community
   - id: texas-state-university
+    level: community
+  - id: dallastechxchange
     level: community
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -364,7 +372,7 @@ program:
     date: 2025-09-18
     start_time: "10:15"
     end_time: "10:30"
-  - title: "elena-marquetti-ali"
+  - title: "bryan-finster"
     type: talk
     date: 2025-09-18
     start_time: "10:30"

@@ -178,7 +178,7 @@ organizer_email: "natal@devopsdays.org" # Put your organizer email address here
 sponsors:
   - id: novatec
     level: community
-  - id: 3dcomtech
+  - id: 3dcomtech-before-20251028
     level: community
   - id: cloud-plusplus
     level: platinum

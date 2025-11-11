@@ -73,7 +73,7 @@ sponsors:
     level: bronze
   - id: cloudbees-before-20250128
     level: silver
-  - id: dynatrace
+  - id: dynatrace-before-20250905
     level: silver
   - id: fetch-rewards
     level: host
