@@ -80,6 +80,26 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/elenita-o/"
     image: "elenita-silva-ferreira-santos-de-oliveira.jpg"
     email: elenitasfso@gmail.com
+    
+  - name: "Rafael Valnásio Santos"
+    employer: "Moto Clube Honda"
+    linkedin: "https://www.linkedin.com/in/valnasio/"
+    image: "rafael-valnsio-santos.jpg"
+
+  - name: "Jonathas Carneiro"
+    employer: "Augepag"
+    linkedin: "https://www.linkedin.com/in/jonta-sancar"
+    image: "jonathas-carneiro.jpg"
+
+  - name: "Lucas Escolastico"
+    employer: "Serpro"
+    linkedin: "https://www.linkedin.com/in/lucasescolastico"
+    image: "lucas-escolastico.jpg"
+
+  - name: "João Rodrigues Dias Neto"
+    employer: "The RealReal"
+    linkedin: "https://linkedin.com/in/joaodath"
+    image: "joo-rodrigues-dias-neto.jpg"
 
 organizer_email: "feira-de-santana@devopsdays.org" # Put your organizer email address here
 
