@@ -17,7 +17,7 @@ cfp_date_start:  2025-11-01T00:00:00+09:00
 cfp_date_end: 2026-03-01T13:00:00+09:00  # close your call for proposals.
 cfp_date_announce: 2026-03-15T00:00:00+09:00 # inform proposers of status
 
-cfp_link: "https://www.devopsdaystokyo.org/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://confengine.com/conferences/devopsdays-tokyo-2026" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2025-11-01T00:00:00+09:00
 registration_date_end: 2026-04-16T23:59:59+09:00

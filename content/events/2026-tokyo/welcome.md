@@ -41,7 +41,7 @@ Description = "devopsdays Tokyo 2026"
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    <a href="https://confengine.com/conferences/devopsdays-tokyo-2026">Propose a talk!</a>
+    {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
 </div>
 
@@ -68,7 +68,7 @@ Description = "devopsdays Tokyo 2026"
     <strong>Sponsors</strong>
   </div>
   <div class = "col-md-8">
-    <a href="https://www.devopsdaystokyo.org/call-for-sponsor">Sponsor the conference!</a>
+    <a href="https://www.devopsdaystokyo.org/#sponsors">Sponsor the conference!</a>
   </div>
 </div>
 
