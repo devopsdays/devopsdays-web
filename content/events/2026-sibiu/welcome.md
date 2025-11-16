@@ -1,7 +1,7 @@
 +++
 Title = "Devopsdays Sibiu 2026"
 Type = "welcome"
-aliases = ["/events/2026-cluj-napoca/"]
+aliases = ["/events/2026-sibiu-napoca/"]
 Description = "devopsdays Sibiu 2026"
 +++
 
