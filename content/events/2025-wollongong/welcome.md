@@ -20,7 +20,7 @@ Description = "devopsdays Wollongong 2025"
   <div class="row bg-light wollongong-text-800">
     <div class="container py-5">
       <div class="text-center mb-5">
-        <h1 class="display-5 fw-bold">Welcome to Devopsdays Wollonong</h1>
+        <h1 class="display-5 fw-bold">Welcome to Devopsdays Wollongong</h1>
         <p class="lead text-muted">
           A chance to share your skills, learn from peers, and strengthen our local tech community
         </p>
