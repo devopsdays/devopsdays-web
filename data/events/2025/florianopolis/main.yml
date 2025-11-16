@@ -132,8 +132,7 @@ program:
     start_time: "09:00"
     end_time: "09:30"
 
-  - title: "Camila Maia"
-    subtitle: "O Hack das Oportunidades"
+  - title: "camila-maia"
     type: talk
     date: 2025-12-06
     start_time: "09:30"
@@ -147,21 +146,18 @@ program:
     end_time: "10:45"
 
   - title: "alison-duarte"
-    subtitle: "Construindo uma Plataforma Self-Service: Criação de Projetos utilizando um Catálogo de Serviços"
     type: talk
     date: 2025-12-06
     start_time: "10:45"
     end_time: "11:20"
 
   - title: "jonatas-baldin"
-    subtitle: "Escrevendo seu Primeiro Operador de Kubernetes"
     type: talk
     date: 2025-12-06
     start_time: "11:20"
     end_time: "11:55"
 
   - title: "ruan-oliveira"
-    subtitle: "Banalizamos a migração entre clouds com Kubernetes"
     type: talk
     date: 2025-12-06
     start_time: "11:55"
@@ -180,14 +176,12 @@ program:
     end_time: "13:55"
 
   - title: "rafael-matheus"
-    subtitle: "Backstage na Prática: É Hora de Subir uma Plataforma de DEx na sua Firma"
     type: talk
     date: 2025-12-06
     start_time: "13:55"
     end_time: "14:30"
 
-  - title: "eduardo-munari-pedro-ignacio"
-    subtitle: "Crossplane: Habilitando Engenharia de Plataforma na sua Infraestrutura"
+  - title: "eduardo-munari"
     type: talk
     date: 2025-12-06
     start_time: "14:30"
@@ -206,14 +200,12 @@ program:
     end_time: "16:15"
 
   - title: "joao-brito"
-    subtitle: "Keynote: As quatro dimensões de segurança em Kubernetes"
     type: talk
     date: 2025-12-06
     start_time: "16:15"
     end_time: "16:50"
 
-  - title: "dri-cardoso"
-    subtitle: "Cérebro e Código: saúde mental e performance cognitiva na tecnologia"
+  - title: "adriana-cardoso"
     type: talk
     date: 2025-12-06
     start_time: "16:50"

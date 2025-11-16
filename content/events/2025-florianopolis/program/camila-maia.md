@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "O Hack das Oportunidades"
+Title = "Keynote - O Hack das Oportunidades"
 Type = "talk"
 Speakers = ["camila-maia"]
 aliases = ["/events/2025-florianopolis/program/camila-maia/"]
