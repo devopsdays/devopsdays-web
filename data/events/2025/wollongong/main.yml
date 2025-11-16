@@ -7,7 +7,6 @@ description: "Devopsdays is coming to Wollongong!" # Edit this to suit your pref
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 event_logo: "logo.png"
 
-masthead_background: "background-nav.png"
 sharing_image: "sharing.png"
 
 # All dates are in unquoted 2025-MM-DDTHH:MM:SS+TZ:TZ, like this:
