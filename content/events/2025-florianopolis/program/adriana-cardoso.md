@@ -4,13 +4,8 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Cérebro e Código: saúde mental e performance cognitiva na tecnologia"
 Type = "talk"
-Speakers = []
-aliases = []
 Speakers = ["adriana-cardoso", "joao-brito"]
 aliases = ["/events/2025-florianopolis/program/adriana-cardoso/", "/events/2025-florianopolis/program/joao-brito/"]
-
-Speakers = []
-aliases = []
 youtube = ""
 slideshare = ""
 slides = ""
