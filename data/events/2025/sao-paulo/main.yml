@@ -217,6 +217,8 @@ sponsors:
     level: community
   - id: 3dcomtech
     level: community
+  - id: smartbadge
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
