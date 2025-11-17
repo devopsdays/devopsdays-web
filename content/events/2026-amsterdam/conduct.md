@@ -4,8 +4,6 @@ Type = "event"
 Description = "Code of conduct for devopsdays Amsterdam 2026"
 +++
 
-
-
 ### Purpose
 The organizers of devopsdays Amsterdam are committed to enabling an event at which everyone can participate in an inclusive, respectful and safe environment. All participants are expected to behave with integrity and respect towards all participants attending or involved with devopsdays Amsterdam.
 
@@ -13,7 +11,7 @@ The organizers of devopsdays Amsterdam are committed to enabling an event at whi
 The Code of Conduct applies to all devopsdays Amsterdam events which includes conferences, workshops, meetups, social events and any other event organized by devopsdays Amsterdam. 
 
 The Code of Conduct applies to all participants at a devopsdays Amsterdam event. Including attendees, speakers, sponsors, volunteers, organizers and guests.
-
+<!-- 
 ### Report contact details
 Our Code of Conduct team members are:
 - Floor Drees (organizer), she/her, NL/DE/EN, floordrees on Telegram
@@ -24,7 +22,7 @@ Our Code of Conduct team members are:
 
 All Code of Conduct team members, except for Laura Santamaria, will be on-site, at DevOpsDays Amsterdam. You can reach all 5 members of the team via email: amsterdam-coc@devopsdays.org
 
-Our Code of Conduct team is available during all official events, including the speaker dinner and the social event(s), and stays sober throughout all events. 
+Our Code of Conduct team is available during all official events, including the speaker dinner and the social event(s), and stays sober throughout all events.  -->
 
 ### Our standards & values
 Inclusiveness and respect for differences are core DevOps values, and we invite you to help us make this event a place that is welcoming and respectful to all participants. Examples of behavior that contributes to a positive environment for our community include:
