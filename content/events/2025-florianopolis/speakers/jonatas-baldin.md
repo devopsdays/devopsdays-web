@@ -1,5 +1,5 @@
 +++
-Title = "Jonatas "jojo" Baldin"
+Title = "Jonatas (jojo) Baldin"
 Linkedin = "https://www.linkedin.com/in/jonatas-baldin-de-oliveira-5138a02a4/"
 Website = "https://jojo.garden/"
 Twitter = ""
