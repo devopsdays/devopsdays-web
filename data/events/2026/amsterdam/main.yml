@@ -82,14 +82,14 @@ team_members: # Name is the only required field for team members.
   - name: "Stephan Mousset"
     pronouns: "he/him"
     linkedin: "https://www.linkedin.com/in/stephanmousset/"
-    image: "stephan.png"
+    image: "stephan.jpg"
 
   - name: "Niek Palm"
     pronouns: "he/him"
     linkedin: "https://www.linkedin.com/in/niekpalm/"
     github: "npalm"
     website: "https://040code.github.io"
-    image: "niek.jpeg"
+    image: "niek.jpg"
 
   - name: "Joep Piscaer"
     linkedin: "https://www.linkedin.com/in/jpiscaer"
