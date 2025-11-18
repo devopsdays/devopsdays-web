@@ -15,7 +15,7 @@ For those stepping into DevOpsDays for the first time, becoming a part of Confer
 
 But Conference Buddy isn't just about networking—it's about creating an inclusive environment where everyone feels valued and empowered. Through our program, we aim to foster a sense of community, break down barriers, and ensure that every participant feels seen and heard.
 
-Join us at DevOpsDays and be a part of something bigger. Whether you're a veteran looking to pay it forward or a newcomer seeking guidance, Conference Buddy is your ultimate companion for a memorable and rewarding conference experience. Together, let's connect, collaborate, and make DevOpsDays 2025 truly unforgettable.
+Join us at DevOpsDays and be a part of something bigger. Whether you're a veteran looking to pay it forward or a newcomer seeking guidance, Conference Buddy is your ultimate companion for a memorable and rewarding conference experience. Together, let's connect, collaborate, and make DevOpsDays 2026 truly unforgettable.
 
 ## What matters most
 

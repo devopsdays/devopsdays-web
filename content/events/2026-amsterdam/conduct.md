@@ -61,5 +61,5 @@ Examples of appropriate action may include, but are not limited to:
 We’re happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
 
 ### Attribution
-The devopsdays Amsterdam 2025 Code of Conduct is based on the [Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct.html), version 2.1, and the [UN Code of Conduct](https://indico.un.org/static/plugins/un/assets/un-code-of-conduct.pdf).
+The devopsdays Amsterdam Code of Conduct is based on the [Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct.html), version 2.1, and the [UN Code of Conduct](https://indico.un.org/static/plugins/un/assets/un-code-of-conduct.pdf).
 
