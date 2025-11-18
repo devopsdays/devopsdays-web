@@ -100,6 +100,7 @@ team_members: # Name is the only required field for team members.
     image: "tim.jpeg"
     fediverse: "https://fosstodon.org/@timstoop"
     github: timstoop
+    linkedin: "https://www.linkedin.com/in/timstoop"
 
   - name: Paraskevi Tragotsalou
     linkedin: "https://www.linkedin.com/in/paraskevi-tragotsalou/" 
