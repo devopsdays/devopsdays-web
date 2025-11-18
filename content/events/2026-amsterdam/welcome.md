@@ -146,13 +146,6 @@ Description = "DevOpsDays Amsterdam 2026 - Join us June 17 and 18, 2026 in Amste
         <div class="d-flex p-2">
           <a class="btn btn-primary btn-block"
             style="margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;"
-            href="https://twitter.com/devopsams/">
-            <i class="fa fa-twitter fa-lg"></i>&nbsp;&nbsp;&nbsp;Follow Us On Twitter
-          </a>
-        </div>
-        <div class="d-flex p-2">
-          <a class="btn btn-primary btn-block"
-            style="margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;"
             href="https://www.meetup.com/DevOpsAmsterdam/">
             <i class="fa fa-meetup fa-lg"></i>&nbsp;&nbsp;&nbsp;Join Us On Meetup
           </a>
