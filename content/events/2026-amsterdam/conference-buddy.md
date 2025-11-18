@@ -21,7 +21,7 @@ Join us at DevOpsDays and be a part of something bigger. Whether you're a vetera
 
 We want to help people to feel more included and welcome in our community. We all have to feel safe to do so! 
 
-This event provides a Code of Conduct. While following this code is important anyway, you as Conference Buddy should be extra aware of it. If you ever feel uncomfortable or unsafe, don't hesitate to reach out to someone from the [Code of Conduct team](https://devopsdays.org/events/2025-amsterdam/conduct).
+This event provides a Code of Conduct. While following this code is important anyway, you as Conference Buddy should be extra aware of it. If you ever feel uncomfortable or unsafe, don't hesitate to reach out to someone from the [Code of Conduct team](https://devopsdays.org/events/2026-amsterdam/conduct).
 
 We are here to support you!
 
