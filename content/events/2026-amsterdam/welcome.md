@@ -123,11 +123,13 @@ Description = "DevOpsDays Amsterdam took place June 17 and 18, 2026! Thanks ever
 
   <div class="row">
     <div class="col-12">
-        From fledgling startups to established industry, The Netherlands is home to a large, vibrant technology community. Amsterdam, in particular, has been a flurry of activity in the past several years, drawing attention from around the globe.
+        From fledgling startups to established enterprises, The Netherlands hosts a vibrant and growing technology community. Amsterdam, in particular, has emerged as a global hub of innovation and activity in recent years.
       <br><br>
-        DevOpsDays Amsterdam brings all disciplines, such as development, operations, QA, InfoSec, management, and leadership, together to discuss culture, tools and skills to make better organizations and products. The 2026 event will be the 14th time we host DevOpsDays Amsterdam, taking place at the <a href="/events/2026-amsterdam/location">Pakhuis de Zwijger</a> in the center of Amsterdam.
+        DevOpsDays Amsterdam brings together professionals across development, operations, QA, InfoSec, management, and leadership to discuss the culture, tools, and skills needed to build better organizations and products. The 2026 event marks the 14th iteration, taking place at the <a href="/events/2026-amsterdam/location">Pakhuis de Zwijger</a> in the center of Amsterdam.
       <br><br>
-        This year we're bringing you two focused days exploring the cutting edge of DevOps. Day one dives into the exciting intersection of AI Agents and DevOps, where we'll explore how artificial intelligence is transforming how we build, deploy, and operate software. Day two shifts focus to Platform Engineering, examining how teams are creating powerful developer platforms that enable velocity and reliability at scale. Both days feature a single track of 30-minute talks, lightning-fast Ignite talks (5-minute, auto-forwarding slides), and our beloved "Open Spaces" sessions. Open Spaces are considered a vital portion of the event, where the community drives the conversation. For those preferring structured content, we'll continue offering the single track in the main room throughout.
+        This year features two focused days exploring the frontiers of DevOps. The first day examines AI Agents and DevOps—how artificial intelligence is transforming software development, deployment, and operations. The second day turns to Platform Engineering, exploring how teams build developer platforms that drive velocity and reliability at scale.
+      <br><br>
+        Both days offer a single track of 30-minute talks, rapid-fire Ignite talks (5 minutes with auto-advancing slides), and "Open Spaces" sessions where the community shapes the agenda. Open Spaces are a cornerstone of the event, and we also maintain a structured track in the main room throughout for those who prefer it.
     </div>
   </div>
   <div class="row">
