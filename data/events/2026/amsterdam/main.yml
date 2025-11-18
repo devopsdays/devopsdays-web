@@ -42,10 +42,12 @@ masthead_background: "backdrop.png"
 event_social_linkedin: "https://linkedin.com/company/devopsams" # Change this to the url to your Linkedin group, company, or page.
 event_social_slack: "https://join.slack.com/t/devopsams/custom_shared_invite_url" # Change this to your slack invite link.
 event_social_listserv: "https://lists.devopsdays.org/subscription?custom_listserv_invite_url" # Change this to your mailing list subscription form url.
+event_social_twitter: "" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 event_social_mastodon: "https://mastodon.social/@devopsams" # Change this to url to your mastodon page
 event_social_bsky: "https://bsky.app/profile/devopsams.bsky.social" # Change this to url to your bluesky page
 event_social_youtube: "devopsams" # Change this to the youtube channel handle for your event such as devopsdaysrox
 # legacy
+event_twitter: "" # This will create a traditional "Follow" twitter button. Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
