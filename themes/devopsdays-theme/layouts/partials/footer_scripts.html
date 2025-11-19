@@ -66,14 +66,12 @@
 {{- $shares_js_parts := slice -}}
 {{- range $shares -}}
   {{- $share_str := "" -}}
-  {{- $share_type := "" -}}
-  {{- $share_via := "" -}}
-  {{- with .share -}}
-    {{- $share_type = . -}}
-    {{- $share_via = ($.Scratch.Get "twitter_handle") -}}
-    {{- $share_str = printf "{share: \"%s\", via: '%s'}" $share_type $share_via -}}
+  {{- $current_item := . -}}
+  {{- $share_type_val := index $current_item "share" -}}
+  {{- if $share_type_val -}}
+    {{- $share_str = printf "{share: \"%s\", via: '%s'}" $share_type_val ($.Scratch.Get "twitter_handle") -}}
   {{- else -}}
-    {{- $share_str = printf "\"%s\"" . -}}
+    {{- $share_str = printf "\"%s\"" $current_item -}}
   {{- end -}}
   {{- if $share_str -}}
     {{- $shares_js_parts = $shares_js_parts | append $share_str -}}
