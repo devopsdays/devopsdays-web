@@ -90,24 +90,16 @@
 {{- if not $shares_js_str -}}
   {{- $shares_js_str = "\"email\", {share: \"twitter\", via: 'devopsdays'}, \"facebook\", \"linkedin\"" -}}
 {{- end -}}
-{{- $.Scratch.Set "shares_js" $shares_js_str -}}
+{{- $sharing_title_final := $.Scratch.Get "sharing_title" -}}
+{{- if not $sharing_title_final -}}
+  {{- $sharing_title_final = "devopsdays" -}}
+{{- end -}}
+{{- $full_script := printf "$(document).ready(function () {\n  //YOUR JQUERY CODE\n\n  $(\"#share\").jsSocials({\n      shares: [%s],\n      text: '%s',\n      showLabel: false,\n      showCount: false\n  });\n});" $shares_js_str $sharing_title_final -}}
 
 <script>
 //shares
 
 
-$(document).ready(function () {
-  //YOUR JQUERY CODE
-  {{- $shares_js_final := $.Scratch.Get "shares_js" -}}
-  {{- if not $shares_js_final -}}
-    {{- $shares_js_final = "\"email\", {share: \"twitter\", via: 'devopsdays'}, \"facebook\", \"linkedin\"" -}}
-  {{- end -}}
-  $("#share").jsSocials({
-      shares: [{{ $shares_js_final }}],
-      text: '{{ ($.Scratch.Get "sharing_title") }}',
-      showLabel: false,
-      showCount: false
-  });
-});
+{{ $full_script | safeJS }}
 
 </script>
