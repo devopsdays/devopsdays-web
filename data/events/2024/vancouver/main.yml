@@ -238,7 +238,7 @@ program:
     start_time: "13:00"
     end_time: "13:05"
     block: ignite-2
-  - title: "Ayesha Bhutto	(she/her): Power Tools to Hammer through Conversations"
+  - title: "Ayesha Bhutto (she/her): Power Tools to Hammer through Conversations"
     type: ignite
     date: 2024-05-18T23:59:59-08:00
     start_time: "13:05"

@@ -62,9 +62,8 @@ team_members: # Name is the only required field for team members.
     bio: "Maria is VP of Engineering at Edinburgh-based FreeAgent, one of the UK’s largest and most popular online accounting software providers.
 
 With 18 years of experience in the software industry, Maria has previously worked at LivingSocial leading globally distributed teams, and at Adobe where she worked in the developer technologies group. Maria is one of the Directors of the WomenWhoCode Edinburgh network. WomenWhoCode is a global non-profit dedicated to inspiring women to excel in technology careers."
-    twitter: mariagutierrez
-    image: "maria.jpg"
     twitter: "@mariagutierrez"
+    image: "maria.jpg"
   - name: "Matthew Slane"
     employer: "Skyscanner"
     bio: "Senior Engineer at Skyscanner currently working as product owner for the Container Operations Squad building kubernetes platforms. Experienced with monitoring systems and cloud architecture. Enjoys homebrewing, boardgames, road cycling and being covered in cats."
