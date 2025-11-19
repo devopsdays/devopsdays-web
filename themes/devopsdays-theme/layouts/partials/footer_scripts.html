@@ -51,6 +51,9 @@
         {{- $.Scratch.Set "sharing_title" "devopsdays" -}}
       {{- end -}}
     {{- end -}}
+    {{- /* Set default shares for non-event pages */ -}}
+    {{- $default_shares := slice "email" (dict "share" "twitter" "via" "devopsdays") "facebook" "linkedin" -}}
+    {{- $.Scratch.Set "social_shares" $default_shares -}}
   {{- end -}}
 {{- end -}}
 {{- /* Ensure sharing_title is always set */ -}}
@@ -67,8 +70,12 @@
 {{- range $shares -}}
   {{- $share_str := "" -}}
   {{- $current_item := . -}}
-  {{- if or (eq $current_item "email") (eq $current_item "facebook") (eq $current_item "linkedin") -}}
-    {{- $share_str = printf "\"%s\"" $current_item -}}
+  {{- if eq $current_item "email" -}}
+    {{- $share_str = "\"email\"" -}}
+  {{- else if eq $current_item "facebook" -}}
+    {{- $share_str = "\"facebook\"" -}}
+  {{- else if eq $current_item "linkedin" -}}
+    {{- $share_str = "\"linkedin\"" -}}
   {{- else -}}
     {{- $twitter_share_val := index $current_item "share" -}}
     {{- if $twitter_share_val -}}
@@ -80,6 +87,9 @@
   {{- end -}}
 {{- end -}}
 {{- $shares_js_str := delimit $shares_js_parts ", " -}}
+{{- if not $shares_js_str -}}
+  {{- $shares_js_str = "\"email\", {share: \"twitter\", via: 'devopsdays'}, \"facebook\", \"linkedin\"" -}}
+{{- end -}}
 {{- $.Scratch.Set "shares_js" $shares_js_str -}}
 
 <script>
@@ -88,9 +98,12 @@
 
 $(document).ready(function () {
   //YOUR JQUERY CODE
-
+  {{- $shares_js_final := $.Scratch.Get "shares_js" -}}
+  {{- if not $shares_js_final -}}
+    {{- $shares_js_final = "\"email\", {share: \"twitter\", via: 'devopsdays'}, \"facebook\", \"linkedin\"" -}}
+  {{- end -}}
   $("#share").jsSocials({
-      shares: [{{ $.Scratch.Get "shares_js" }}],
+      shares: [{{ $shares_js_final }}],
       text: '{{ ($.Scratch.Get "sharing_title") }}',
       showLabel: false,
       showCount: false
