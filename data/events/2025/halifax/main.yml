@@ -5,6 +5,9 @@ event_twitter: "DevOpsDaysHali" # Change this to the twitter handle for your eve
 description: "The premier DevOps conference for Atlantic Canada" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
+# Social Share Buttons - Only show email and LinkedIn (no Facebook or Twitter)
+social_shares: ["email", "linkedin"]
+
 masthead_background: "halifax-background.png"
 sharing_image: "halifax-sharing.png"
 
