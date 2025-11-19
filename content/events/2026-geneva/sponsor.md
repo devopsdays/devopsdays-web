@@ -39,7 +39,7 @@ Description = "Sponsor DevOpsDays Geneva 2026"
 
 Sponsors are crucial for the success of the event, and we will show you our love better than ever :heart_eyes:
 
-If you want to sponsor this year edition, please fill in [this form](https://devopsdays-geneva.ch/forms/SponsorInputs.php?who=pb0cb47956025e73c797e5e17f16fc38466e34f5ae) and if the sponsoring level you chose is still available we will quickly confirm and send you the corresponding invoice.
+If you want to sponsor this year edition, please fill in [this form](https://devopsdays-geneva.ch/forms/PublicFormSponsors.php) and if the sponsoring level you chose is still available we will quickly confirm and send you the corresponding invoice.
 
 We apply the simple rule of “first come firs served” with the order being the timestamp of the filled form.
 
