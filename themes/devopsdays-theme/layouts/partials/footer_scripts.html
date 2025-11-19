@@ -67,11 +67,13 @@
 {{- range $shares -}}
   {{- $share_str := "" -}}
   {{- $current_item := . -}}
-  {{- $share_type_val := index $current_item "share" -}}
-  {{- if $share_type_val -}}
-    {{- $share_str = printf "{share: \"%s\", via: '%s'}" $share_type_val ($.Scratch.Get "twitter_handle") -}}
-  {{- else -}}
+  {{- if or (eq $current_item "email") (eq $current_item "facebook") (eq $current_item "linkedin") -}}
     {{- $share_str = printf "\"%s\"" $current_item -}}
+  {{- else -}}
+    {{- $twitter_share_val := index $current_item "share" -}}
+    {{- if $twitter_share_val -}}
+      {{- $share_str = printf "{share: \"%s\", via: '%s'}" $twitter_share_val ($.Scratch.Get "twitter_handle") -}}
+    {{- end -}}
   {{- end -}}
   {{- if $share_str -}}
     {{- $shares_js_parts = $shares_js_parts | append $share_str -}}
