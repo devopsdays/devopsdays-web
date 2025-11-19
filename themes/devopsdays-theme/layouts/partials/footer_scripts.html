@@ -41,16 +41,42 @@
     {{- if isset .Params "Title" -}}
       {{- if ne .Params.Title "" -}}
         {{- $.Scratch.Set "sharing_title" .Params.Title -}}
+      {{- else -}}
+        {{- $.Scratch.Set "sharing_title" .Title -}}
       {{- end -}}
     {{- else -}}
       {{- if eq .Type "blog" -}}
-        {{- $.Scratch.Set "sharing_title" .Params.Title -}}
+        {{- $.Scratch.Set "sharing_title" .Title -}}
       {{- else -}}
         {{- $.Scratch.Set "sharing_title" "devopsdays" -}}
       {{- end -}}
     {{- end -}}
   {{- end -}}
 {{- end -}}
+{{- /* Ensure sharing_title is always set */ -}}
+{{- if not ($.Scratch.Get "sharing_title") -}}
+  {{- $.Scratch.Set "sharing_title" "devopsdays" -}}
+{{- end -}}
+{{- /* Build shares array as JavaScript string before script tag */ -}}
+{{- $shares := $.Scratch.Get "social_shares" -}}
+{{- if not $shares -}}
+  {{- /* Default for non-event pages */ -}}
+  {{- $shares = slice "email" (dict "share" "twitter" "via" ($.Scratch.Get "twitter_handle")) "facebook" "linkedin" -}}
+{{- end -}}
+{{- $shares_js := "" -}}
+{{- $first := true -}}
+{{- range $shares -}}
+  {{- if not $first -}}
+    {{- $shares_js = printf "%s, " $shares_js -}}
+  {{- end -}}
+  {{- if isset . "share" -}}
+    {{- $shares_js = printf "%s{share: \"%s\", via: '%s'}" $shares_js .share ($.Scratch.Get "twitter_handle") -}}
+  {{- else -}}
+    {{- $shares_js = printf "%s\"%s\"" $shares_js . -}}
+  {{- end -}}
+  {{- $first = false -}}
+{{- end -}}
+{{- $.Scratch.Set "shares_js" $shares_js -}}
 
 <script>
 //shares
@@ -59,13 +85,8 @@
 $(document).ready(function () {
   //YOUR JQUERY CODE
 
-  {{- $shares := $.Scratch.Get "social_shares" -}}
-  {{- if not $shares -}}
-    {{- /* Default for non-event pages */ -}}
-    {{- $shares = slice "email" (dict "share" "twitter" "via" ($.Scratch.Get "twitter_handle")) "facebook" "linkedin" -}}
-  {{- end -}}
   $("#share").jsSocials({
-      shares: {{ $shares | jsonify }},
+      shares: [{{ $.Scratch.Get "shares_js" }}],
       text: '{{ ($.Scratch.Get "sharing_title") }}',
       showLabel: false,
       showCount: false
