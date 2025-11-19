@@ -63,26 +63,24 @@
   {{- /* Default for non-event pages */ -}}
   {{- $shares = slice "email" (dict "share" "twitter" "via" ($.Scratch.Get "twitter_handle")) "facebook" "linkedin" -}}
 {{- end -}}
-{{- $shares_js := "" -}}
-{{- $first := true -}}
+{{- $shares_js_parts := slice -}}
 {{- range $shares -}}
-  {{- if not $first -}}
-    {{- $shares_js = printf "%s, " $shares_js -}}
-  {{- end -}}
-  {{- $is_twitter := false -}}
-  {{- $share_val := "" -}}
-  {{- if isset . "share" -}}
-    {{- $is_twitter = true -}}
-    {{- $share_val = .share -}}
-  {{- end -}}
-  {{- if $is_twitter -}}
-    {{- $shares_js = printf "%s{share: \"%s\", via: '%s'}" $shares_js $share_val ($.Scratch.Get "twitter_handle") -}}
+  {{- $share_str := "" -}}
+  {{- $share_type := "" -}}
+  {{- $share_via := "" -}}
+  {{- with .share -}}
+    {{- $share_type = . -}}
+    {{- $share_via = ($.Scratch.Get "twitter_handle") -}}
+    {{- $share_str = printf "{share: \"%s\", via: '%s'}" $share_type $share_via -}}
   {{- else -}}
-    {{- $shares_js = printf "%s\"%s\"" $shares_js . -}}
+    {{- $share_str = printf "\"%s\"" . -}}
   {{- end -}}
-  {{- $first = false -}}
+  {{- if $share_str -}}
+    {{- $shares_js_parts = $shares_js_parts | append $share_str -}}
+  {{- end -}}
 {{- end -}}
-{{- $.Scratch.Set "shares_js" $shares_js -}}
+{{- $shares_js_str := delimit $shares_js_parts ", " -}}
+{{- $.Scratch.Set "shares_js" $shares_js_str -}}
 
 <script>
 //shares
