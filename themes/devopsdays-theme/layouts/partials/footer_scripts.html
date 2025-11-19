@@ -59,7 +59,7 @@
 {{- end -}}
 {{- /* Build shares array as JavaScript string before script tag */ -}}
 {{- $shares := $.Scratch.Get "social_shares" -}}
-{{- if not $shares -}}
+{{- if or (not $shares) (eq (len $shares) 0) -}}
   {{- /* Default for non-event pages */ -}}
   {{- $shares = slice "email" (dict "share" "twitter" "via" ($.Scratch.Get "twitter_handle")) "facebook" "linkedin" -}}
 {{- end -}}
@@ -69,8 +69,14 @@
   {{- if not $first -}}
     {{- $shares_js = printf "%s, " $shares_js -}}
   {{- end -}}
+  {{- $is_twitter := false -}}
+  {{- $share_val := "" -}}
   {{- if isset . "share" -}}
-    {{- $shares_js = printf "%s{share: \"%s\", via: '%s'}" $shares_js .share ($.Scratch.Get "twitter_handle") -}}
+    {{- $is_twitter = true -}}
+    {{- $share_val = .share -}}
+  {{- end -}}
+  {{- if $is_twitter -}}
+    {{- $shares_js = printf "%s{share: \"%s\", via: '%s'}" $shares_js $share_val ($.Scratch.Get "twitter_handle") -}}
   {{- else -}}
     {{- $shares_js = printf "%s\"%s\"" $shares_js . -}}
   {{- end -}}
