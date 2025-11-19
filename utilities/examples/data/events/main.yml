@@ -45,6 +45,13 @@ event_social_bsky: "https://bsky.app/profile/devopsdayscityabbr.bsky.social" # C
 event_social_youtube: "devopsdayscityabbr" # Change this to the youtube channel handle for your event such as devopsdaysrox
 
 
+# Social Share Buttons
+# Optional: Specify which social share buttons to display on event pages.
+# If not specified, defaults to all: ["email", "twitter", "facebook", "linkedin"]
+# Valid values: "email", "twitter", "facebook", "linkedin"
+# Example: social_shares: ["email", "linkedin"]  # Only show email and LinkedIn share buttons
+social_shares: # ["email", "twitter", "facebook", "linkedin"]
+
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
  # - name: location
