@@ -146,7 +146,7 @@ team_members: # Name is the only required field for team members.
     pronouns: ""
     role: "SRE"
     employer: "Serasa Experian"
-    bio: "Sou um SRE apaixonado por tecnologia e empreendedorismo. Gosto de unir tecnologia com visão de negócio, entendendo o impacto real das soluções que posso contribuir e construir. Acredito na colaboração e na cultura DevOps entre times e em tornar a complexidade algo mais simples e eficiente. Além da tecnologia, curto muito esportes (especialmente automobilismo), música, games e sempre que posso estou aprendendo algo novo."
+    bio: "SRE na Serasa Experian. Atua em ambientes cloud com foco em confiabilidade, automação, IaC, boas práticas DevOps, etc. Apaixonado por comunidade e por compartilhar conhecimento."
     github: "ssh-juan"
     facebook: ""
     twitter: ""
