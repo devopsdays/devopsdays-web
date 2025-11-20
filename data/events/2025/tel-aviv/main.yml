@@ -206,6 +206,8 @@ sponsors:
     level: community
   - id: devopsleadersil
     level: community
+  - id: k8sforhumans
+    level: community
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: cloudnativeil
     level: community
