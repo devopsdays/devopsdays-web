@@ -194,6 +194,10 @@ sponsors:
     level: gold
   - id: cloudflare
     level: gold
+  - id: matrix_devops
+    level: gold
+  - id: echo
+    level: gold
   - id: baseshift
     level: community
   - id: minimus
