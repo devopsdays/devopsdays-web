@@ -194,6 +194,10 @@ sponsors:
     level: gold
   - id: cloudflare
     level: gold
+  - id: matrixdevops
+    level: gold
+  - id: echo
+    level: gold
   - id: baseshift
     level: community
   - id: minimus
@@ -201,6 +205,8 @@ sponsors:
   - id: statscraft
     level: community
   - id: devopsleadersil
+    level: community
+  - id: k8sforhumans
     level: community
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: cloudnativeil
