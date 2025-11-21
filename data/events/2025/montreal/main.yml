@@ -131,6 +131,12 @@ sponsors:
     level: bronze
   - id: polytechnique-montreal
     level: venue
+  - id: desjardins
+    level: lanyard
+  - id: tailed
+    level: startup
+  - id: datanextstep
+    level: startup
   - id: agile-montreal
     level: community
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
@@ -153,24 +159,25 @@ sponsor_levels:
   #   max: 11
   - id: bronze
     label: Bronze
-    max: 9
+    max: 1
+  - id: lanyard
+    label: Lanyard
+    max: 1
+  - id: startup
+    label: Startup
+    max: 1
   - id: venue
     label: Venue
     max: 1
   # - id: lunch
   #   label: Lunch
   #   max: 2
-  # - id: lanyard
-  #   label: Lanyard
-  #   max: 1
   # - id: breakfast
   #   label: Breakfast
   #   max: 2
-  # - id: startup
-  #   label: Startup
-  #   max: 9
   # - id: non-profit
   #   label: Non-profit
   #   max: 5
   - id: community
     label: Community
+    max: 1 # to prevent "join as" string from appearing

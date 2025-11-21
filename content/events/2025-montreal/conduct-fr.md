@@ -4,6 +4,14 @@ Type = "event"
 Description = "Code de conduite devopsdays Montreal 2025"
 +++
 
+<style type="text/css">
+
+.footer-nav-row {
+  display: block;
+}
+
+</style>
+
 Tous les participants, conférenciers, sponsors et volontaires à devopsdays Montreal 2025 doivent accepter le code d'éthique et de déontologie, ou « code de conduite » suivant. Les organisateurs s’attacheront à faire respecter ce code durant l’événement. Nous attendons la coopération de chacun‧e pour assurer un environnement sain pour tous.
 
 
