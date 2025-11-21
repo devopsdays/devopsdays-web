@@ -1,50 +1,121 @@
-.expectations-section h3 {
-    font-size: 1.25rem;
-    color: #2c3e50;
-    font-weight: 600;
-    margin-bottom: 1rem;
+:root {
+  --wollongong-dark-800: #253847;
+  --wollongong-dark-600: #224a47;
+  --wollongong-dark-500: #477470;
+  --wollongong-light-400: #f59162;
+  --wollongong-light-300: #fde4b7;
+  --wollongong-light-200: #f9ecd5;
+  --wollongong-light-100: #ffffff;
+  --wollongong-link-200: #addad1;
+}
+.wollongong-text-800 {
+  color: var(--wollongong-dark-800);
+}
+.wollongong-text-600 {
+  color: var(--wollongong-dark-600);
+}
+.wollongong-text-500 {
+  color: var(--wollongong-dark-500);
+}
+.wollongong-text-400 {
+  color: var(--wollongong-light-300);
+}
+.wollongong-text-300 {
+  color: var(--wollongong-light-300);
+}
+.wollongong-text-200 {
+  color: var(--wollongong-light-200);
+}
+.wollongong-text-200 a,
+.wollongong-text-200 a:visited,
+.wollongong-text-200 a:active {
+  color: var(--wollongong-link-200);
+}
+.wollongong-text-100 {
+  color: var(--wollongong-light-100);
+}
+.wollongong-background-200 {
+  background-color: var(--wollongong-light-200);
+}
+.wollongong-background-300 {
+  background-color: var(--wollongong-light-300);
+}
+.wollongong-background-400 {
+  background-color: var(--wollongong-light-400);
+}
+.wollongong-background-500 {
+  background-color: var(--wollongong-dark-500);
+}
+.wollongong-background-600 {
+  background-color: var(--wollongong-dark-600);
+}
+.wollongong-background-800 {
+  background-color: var(--wollongong-dark-800);
+}
+.wollongong-welcome .icon {
+  width: 4em;
+}
+.wollongong-banner {
+  border-top: 1px solid var(--wollongong-dark-500);
+  background: url("/events/2025-wollongong/banner.svg");
+  height: 206px;
+  background-repeat: no-repeat;
+  margin-top: -20px;
+}
+.wollongong-welcome .card {
+  background: var(--wollongong-dark-600);
+  color: var(--wollongong-light-100);
+  border: 0px;
+  width: 18em;
+  margin: 12px;
+  padding-top: 4px;
+  border: 1px solid var(--wollongong-dark-800);
+}
+.wollongong-welcome .card-img-top {
+  width: 9em;
+  margin: auto;
+  justify-content: center;
+}
+.wollongong-welcome p,
+.wollongong-welcome a,
+.wollongong-welcome div,
+.wollongong-welcome span {
+  font-size: 16px;
+  letter-spacing: 0.1px;
 }
 
-.expectations-list {
-    list-style: none;
-    padding: 0;
-    margin: 0;
+.cta-row, .cta-row h4 {
+    background: var(--wollongong-light-200);
+    color: var(--wollongong-dark-600);
+    text-transform: none;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.sponsor-row, .sponsor-row h4 {
+    justify-content: center;    
+    border-bottom: 1px solid var(--wollongong-light-100);
+   
+}
+.sponsor-cta {
+    text-transform: none;
+    font-weight: 300;
 }
 
-.expectations-list li {
-    display: flex;
-    align-items: flex-start;
-    margin-bottom: 0.75rem;
-    font-size: 1.1rem;
-    color: #34495e;
-    padding: 0.5rem 0;
+.wollongong-banner-cta-button, .wollongong-banner-cta-button:visited {
+    border: 3px solid var(--wollongong-link-200);
+    background-color: transparent;
+    border-radius: 6px;
+    text-transform: uppercase;
+    color: var(--wollongong-light-200);
+    font-weight: 500;
+    padding: 1em;
+    white-space: nowrap;
+    text-overflow: clip;
 }
-
-.expectations-list li .emoji {
-    margin-right: 0.75rem;
-    font-size: 1.25rem;
-    flex-shrink: 0;
+.wollongong-banner-cta-button img {
+    width: 2em;
 }
-
-.expectations-list li .text {
-    flex: 1;
-}
-
-/* Responsive design */
-@media (max-width: 768px) {
-    .expectations-list li {
-        font-size: 1rem;
-    }
-}
-
-/* Hover effects for interactive feel */
-.expectations-list li {
-    transition: transform 0.2s ease, background-color 0.2s ease;
-    border-radius: 8px;
-    padding: 0.75rem 0.5rem;
-}
-
-.expectations-list li:hover {
-    transform: translateX(5px);
-    background-color: rgba(140, 81, 191, 0.05);
+.welcome-page-masthead {
+    background: var(--wollongong-dark-800);
+    color: var(--wollongong-light-200);
 }
