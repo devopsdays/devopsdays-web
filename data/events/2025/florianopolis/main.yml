@@ -20,7 +20,7 @@ enddate: 2025-12-06 #2023-11-11T23:59:59-03:00 # The end date date of your event
 # cfp_date_end: 2025-05-26T00:00:00-03:00 # close your call for proposals.
 # cfp_date_announce: 2025-05-19T00:00:00-03:00 # inform proposers of status
 
-cfp_open: "yes"
+cfp_open: "no"
 cfp_link: "https://www.papercall.io/devopsdays-fln-2025" # #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 # registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
@@ -44,8 +44,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   # - name: propose
   # - name: location
   # - name: registration
-  # - name: progra-m
-  # - name: speakers
+  - name: program
+  #- name: speakers
   - name: sponsor
   - name: localização
     icon: "envelope-o"
@@ -118,90 +118,102 @@ sponsor_levels:
   #  label: Bronze
   #- id: community
   #  label: Community
-# program:
-#   - title: "Recepção / Cadastramento dos participantes"
-#     type: custom
-#     date: 2025-11-16
-#     start_time: "08:00"
-#     end_time: "09:00"
-#   - title: "Abertura do evento e boas-vindas"
-#     type: custom
-#     date: 2025-11-16
-#     start_time: "09:00"
-#     end_time: "09:20"
-#   - title: "gomex"
-#     type: talk
-#     date: 2025-11-16
-#     start_time: "09:20"
-#     end_time: "10:10"
-#     background_color: "#cc99ff"
-#   - title: "Coffee break matutino"
-#     type: custom
-#     date: 2025-11-16
-#     start_time: "10:10"
-#     end_time: "10:45"
-#   - title: "mateus-leonardi"
-#     type: talk
-#     date: 2025-11-16
-#     start_time: "10:45"
-#     end_time: "11:20"
-#   - title: "sandro-guimaraes"
-#     type: talk
-#     date: 2025-11-16
-#     start_time: "11:20"
-#     end_time: "11:55"
-#   - title: "alex-salgado"
-#     type: talk
-#     date: 2025-11-16
-#     start_time: "11:55"
-#     end_time: "12:30"
-#   - title: "Almoço"
-#     type: custom
-#     date: 2025-11-16
-#     start_time: "12:30"
-#     end_time: "13:50"
-#   - title: "Retorno almoço / Reabertura do evento"
-#     type: custom
-#     date: 2025-11-16
-#     start_time: "13:50"
-#     end_time: "13:55"
-#   - title: "arthur-sens"
-#     type: talk
-#     date: 2025-11-16
-#     start_time: "13:55"
-#     end_time: "14:30"
-#   - title: "andre-guilherme"
-#     type: talk
-#     date: 2025-11-16
-#     start_time: "14:30"
-#     end_time: "15:05"
-#   - title: "thiago-finardi"
-#     type: talk
-#     date: 2025-11-16
-#     start_time: "15:05"
-#     end_time: "15:40"
-#   - title: "Coffee break vespertino"
-#     type: custom
-#     date: 2025-11-16
-#     start_time: "15:40"
-#     end_time: "16:15"
-#   - title: "pery-lemke"
-#     type: talk
-#     date: 2025-11-16
-#     start_time: "16:15"
-#     end_time: "16:50"
-#   - title: "ruan-carlos"
-#     type: talk
-#     date: 2025-11-16
-#     start_time: "16:50"
-#     end_time: "17:25"
-#   - title: "Lightning Talks"
-#     type: custom
-#     date: 2025-11-16
-#     start_time: "17:25"
-#     end_time: "18:00"
-#   - title: "Encerramento com sorteios"
-#     type: custom
-#     date: 2025-11-16
-#     start_time: "18:00"
-#     end_time: "18:30"
+
+program:
+  - title: "Recepção / Cadastramento dos participantes"
+    type: custom
+    date: 2025-12-06
+    start_time: "08:00"
+    end_time: "09:00"
+
+  - title: "Abertura do evento"
+    type: custom
+    date: 2025-12-06
+    start_time: "09:00"
+    end_time: "09:30"
+
+  - title: "camila-maia"
+    type: talk
+    date: 2025-12-06
+    start_time: "09:30"
+    end_time: "10:05"
+    background_color: "#cc99ff"
+
+  - title: "Coffee break"
+    type: custom
+    date: 2025-12-06
+    start_time: "10:05"
+    end_time: "10:45"
+
+  - title: "alison-duarte"
+    type: talk
+    date: 2025-12-06
+    start_time: "10:45"
+    end_time: "11:20"
+
+  - title: "jonatas-baldin"
+    type: talk
+    date: 2025-12-06
+    start_time: "11:20"
+    end_time: "11:55"
+
+  - title: "ruan-oliveira"
+    type: talk
+    date: 2025-12-06
+    start_time: "11:55"
+    end_time: "12:30"
+
+  - title: "Almoço"
+    type: custom
+    date: 2025-12-06
+    start_time: "12:30"
+    end_time: "13:40"
+
+  - title: "Retorno do almoço"
+    type: custom
+    date: 2025-12-06
+    start_time: "13:40"
+    end_time: "13:55"
+
+  - title: "rafael-matheus"
+    type: talk
+    date: 2025-12-06
+    start_time: "13:55"
+    end_time: "14:30"
+
+  - title: "eduardo-munari"
+    type: talk
+    date: 2025-12-06
+    start_time: "14:30"
+    end_time: "15:05"
+
+  - title: "Lightning Talks"
+    type: custom
+    date: 2025-12-06
+    start_time: "15:05"
+    end_time: "15:40"
+
+  - title: "Coffee break"
+    type: custom
+    date: 2025-12-06
+    start_time: "15:40"
+    end_time: "16:15"
+
+  - title: "joao-brito"
+    type: talk
+    date: 2025-12-06
+    start_time: "16:15"
+    end_time: "16:50"
+
+  - title: "adriana-cardoso"
+    type: talk
+    date: 2025-12-06
+    start_time: "16:50"
+    end_time: "17:25"
+
+  - title: "Encerramento do evento com sorteios"
+    type: custom
+    date: 2025-12-06
+    start_time: "17:25"
+    end_time: "18:00"
+
