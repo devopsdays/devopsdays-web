@@ -4,8 +4,6 @@ city: "Florianópolis" # The displayed city name of the event. Capitalize it.
 # event_twitter: "DevOpsDaysFLN" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "Devopsdays está retornando a Florianópolis!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
-
-masthead_background: "background.jpg"
 # All dates are in unquoted 2023-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2019-01-04T00:00:00+02:00
 #   variable: 2019-01-05T23:59:59+02:00
@@ -31,7 +29,6 @@ registration_link: "https://meuingresso.com.br/eventos/devopsdays-floripa-2025" 
 
 # Location
 #
-location: Florianópolis
 coordinates: "-27.499903326916883, -48.514595" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: Auditório do Centro Universitário Cesusc - UNICESUSC
 location_address: SC-401, 9301 - Santo Antonio de Lisboa, Florianópolis - SC, 88050-001

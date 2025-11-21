@@ -96,7 +96,6 @@ team_members: # Name is the only required field for team members.
     employer: "Ambev Tech"
     linkedin: https://www.linkedin.com/in/ellyson-henrique-cesar-1b557a34/
     email: ellyson.cesar@gmail.com
-    image: "ellyson.jpeg"
     image: "ellyson.jpg"
   - name: "Matheus Boing"
     employer: "Stone Pagamentos S.A."

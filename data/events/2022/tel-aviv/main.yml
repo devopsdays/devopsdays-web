@@ -137,7 +137,6 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/talkimhi/"
     website: "https://bigpanda.io"
     image: "tal-kimhi.jpg"
-    image: "tal-kimhi.jpg"
 
   - name: "Roman Roberman" 
     twitter: "RomiRommm"

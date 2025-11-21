@@ -43,7 +43,7 @@ event_social_linkedin: "https://linkedin.com/company/devopsdays-raleigh" # Chang
 event_social_twitter: "devopsdaysrdu" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 event_social_youtube: "devopsdaysraleigh7250" # Change this to the youtube channel handle for your event such as devopsdaysrox
 # legacy
-event_twitter: "devopsdaysrdu" # This will create a traditional "Follow" twitter button. Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp.
+# event_twitter: "devopsdaysrdu" # This will create a traditional "Follow" twitter button. Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose

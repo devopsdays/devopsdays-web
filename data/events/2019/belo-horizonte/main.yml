@@ -221,7 +221,6 @@ program:
     end_time: "11:00"
 
   - title: "paulo-mendonca"
-    comments: Workshop
     type: workshop
     comments: Sala Workshop Kubernetes
     date: 2019-09-28
