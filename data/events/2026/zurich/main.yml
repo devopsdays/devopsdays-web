@@ -169,6 +169,14 @@ sponsors:
   level: event
 - id: zuhlke
   level: bronze
+- id: xelon
+  level: event
+- id: redgate
+  level: gold
+- id: infometis
+  level: silver
+- id: bit
+  level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
