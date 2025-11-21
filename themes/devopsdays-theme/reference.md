@@ -91,6 +91,7 @@ All dates are in unquoted YYYY-MM-DD, like this: `variable: 2016-01-05`, or like
 | `event_social_slack`    | String | No       | The invite URL to your slack workspace.                                                               | "https://join.slack.com/t/dodrox/shared_invite/xyz"  |
 | `event_social_listserv` | String | No       | The URL to subscribe to your group mailing list.                                                      | "https://lists.devopsdays.org/subscription?f=xyz".   |
 | `event_twitter`         | String | No       | Legacy field for the twitter handle. Exclude the "@" symbol. Kept for backward support.               | "devopsdayschi"                                      |
+| `social_shares`         | Array  | No       | Specify which social share buttons to display on event pages. Valid values: "email", "twitter", "facebook", "linkedin". If not specified, defaults to all four buttons. | ["email", "linkedin"]                                |
 
 ### Branding Fields
 
