@@ -134,7 +134,7 @@ sponsor_levels:
   #  label: Bronze
   - id: community
     label: Community
-    
+
 program:
   - title: "Recepção / Cadastramento dos participantes"
     type: custom
@@ -220,6 +220,7 @@ program:
     date: 2025-12-06
     start_time: "16:15"
     end_time: "16:50"
+    background_color: "#cc99ff"
 
   - title: "adriana-cardoso"
     type: talk
