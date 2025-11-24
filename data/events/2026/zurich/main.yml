@@ -165,18 +165,20 @@ sponsors:
   level: gold
 - id: cloudscalech
   level: gold
-- id: cyberlink
-  level: event
-- id: zuhlke
-  level: bronze
-- id: xelon
-  level: event
 - id: redgate
+  level: gold
+- id: bit
   level: gold
 - id: infometis
   level: silver
-- id: bit
-  level: gold
+- id: 4data
+  level: silver
+- id: cyberlink
+  level: event
+- id: xelon
+  level: event
+- id: zuhlke
+  level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
