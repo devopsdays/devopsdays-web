@@ -19,7 +19,6 @@ cfp_date_start: 2025-10-01T00:00:00+02:00 # start accepting talk proposals.
 cfp_date_end: 2026-01-31T23:59:59+02:00 # close your call for proposals.
 cfp_date_announce: 2026-02-28T00:00:00+02:00 # inform proposers of status
 
-cfp_link: "true" 
 cfp_link: "https://sessionize.com/devopsdays-zurich-2026/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2026-01-05T00:00:00+02:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
@@ -46,7 +45,7 @@ event_social_mastadon: "https://social.devopsdays.org/@zurich" # Change this to 
 # event_social_bsky: "https://bsky.app/profile/DevOpsZH.bsky.social" # Change this to url to your bluesky page
 event_social_youtube: "DevOpsDaysZurich" # Change this to the youtube channel handle for your event such as devopsdaysrox
 # legacy
-event_twitter: "DevOpsZH" # This will create a traditional "Follow" twitter button. Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp.
+# event_twitter: "DevOpsZH" # This will create a traditional "Follow" twitter button. Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location
@@ -165,7 +164,17 @@ sponsors:
   level: gold
 - id: cloudscalech
   level: gold
+- id: redgate
+  level: gold
+- id: bit
+  level: gold
+- id: infometis
+  level: silver
+- id: 4data
+  level: silver
 - id: cyberlink
+  level: event
+- id: xelon
   level: event
 - id: zuhlke
   level: bronze
