@@ -87,10 +87,16 @@ program:
     start_time: "15:45"
     end_time: "16:15"
   
-  - title: "Open Space"
-    type: open-space
+  - title: "Coffee Break"
+    type: Custom
     date: "2025-11-29"
     start_time: "16:15"
+    end_time: "16:45"
+
+  - title: "Open Space"
+    type: pen-spaceo
+    date: "2025-11-29"
+    start_time: "16:45"
     end_time: "17:15"
   
   - title: "deivid-pilla"
