@@ -43,8 +43,14 @@ event_social_twitter: "devopsdayscityabbr" # Change this to the twitter handle f
 event_social_mastodon: "https://mastodon.social/@devopsdayscityabbr" # Change this to url to your mastodon page
 event_social_bsky: "https://bsky.app/profile/devopsdayscityabbr.bsky.social" # Change this to url to your bluesky page
 event_social_youtube: "devopsdayscityabbr" # Change this to the youtube channel handle for your event such as devopsdaysrox
-# legacy
-event_twitter: "devopsdayscityabbr" # This will create a traditional "Follow" twitter button. Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp.
+
+
+# Social Share Buttons
+# Optional: Specify which social share buttons to display on event pages.
+# If not specified, defaults to all: ["email", "twitter", "facebook", "linkedin"]
+# Valid values: "email", "twitter", "facebook", "linkedin"
+# Example: social_shares: ["email", "linkedin"]  # Only show email and LinkedIn share buttons
+social_shares: # ["email", "twitter", "facebook", "linkedin"]
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose

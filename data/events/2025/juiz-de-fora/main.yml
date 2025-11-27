@@ -40,7 +40,7 @@ location_address: "R. Halfeld, 1179 - Centro, Juiz de Fora - MG, 36016-000" #Opt
 event_social_linkedin: "https://linkedin.com/company/devopsdaysjf" # Change this to the url to your Linkedin group, company, or page.
 event_social_twitter: "devopsdaysjf" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 # legacy
-event_twitter: "devopsdaysjf" # This will create a traditional "Follow" twitter button. Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp.
+# event_twitter: "devopsdaysjf" # This will create a traditional "Follow" twitter button. Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: Chamadas (CFP)

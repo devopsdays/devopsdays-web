@@ -42,7 +42,7 @@ event_social_mastadon: "https://mastodon.social/@DevOpsDaysPHL" # Change this to
 event_social_bsky: "https://bsky.app/profile/DevOpsDaysPHL.bsky.social" # Change this to url to your bluesky page
 event_social_youtube: "DevOpsDaysPHL" # Change this to the youtube channel handle for your event such as devopsdaysrox
 # legacy
-event_twitter: "DevOpsDaysPHL" # This will create a traditional "Follow" twitter button. Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp.
+# event_twitter: "DevOpsDaysPHL" # This will create a traditional "Follow" twitter button. Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
