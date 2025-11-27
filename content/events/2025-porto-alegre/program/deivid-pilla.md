@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "O Fim dos Tickets de Infra: A Era da Plataforma de Desenvolvimento Autônoma "
+Title = "Self-Service Platform: A Arquitetura por trás de uma Plataforma de Desenvolvimento Autônoma"
 Type = "talk"
 Speakers = ["deivid-pilla"]
 +++
