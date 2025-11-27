@@ -7,7 +7,7 @@ Description = "Propose a talk for DevOpsDays + AI Nashville 2026"
 
 <hr>
 
-<strong>How to submit a proposal:</strong> Visit our <a href="https://www.papercall.io/devopsdays-nashville-2024">call for speakers </a> for more information and to submit your talk.
+<strong>How to submit a proposal:</strong> Visit our <a href="https://www.papercall.io/devopsdays-nashville-2026">call for speakers </a> for more information and to submit your talk.
 <br></br>
 There are three ways to propose a topic for DevOpsDays Nashville:
 <dl>

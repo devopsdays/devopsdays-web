@@ -21,7 +21,7 @@ Description = "DevOpsDays + AI Nashville 2026"
   <div class = "col-md-6" style="box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 10px; padding: 10px; border-radius: 10px">
     <h1><p>Welcome to DevOps Days + AI Nashville 2026</p></h1>
     <p>DevOps Days + AI will be coming back to {{< event_location >}} on May 14th and 15th.</p>
-    <h1><p><a href="https://events.humanitix.com/devopsdays-nashville-2024" target="_blank">Register now!</a></p></h1>
+    <h1><p><a href="https://events.humanitix.com/devopsdays-nashville-2026" target="_blank">Register now!</a></p></h1>
     <!--<p>July 10th is right around the corner. Don't miss out on this opportunity to hear some amazing speakers, learn more about our incredible sponsors, grow your network, and be a part of this awesome community!</p>
     <h2 style="color: #C19A6B; display: inline-block;"><p>Guest Keynote Speaker John Willis!</h2>
     <p>We are happy to announce that <a href="https://itrevolution.com/author/john-willis/" target="_blank">John Willis</a> is our day one keynote speaker!</p>
