@@ -93,8 +93,6 @@ team_members: # Name is the only required field for team members.
     employer: "Mantel Group"
     bio: "Simon is passionate about driving business outcomes by strategically leveraging best of breed methodologies and tooling to deliver quantifiable and impactful value. With a keen focus on guiding teams to build scalable, reliable platforms that champion engineering excellence while driving significant improvements in business performance and achieving positive change."
     image: "simon_richards.jpeg"
-  - name: "Amanda Brown"
-    image: "amanda_brown.jpg"
 
 
 
