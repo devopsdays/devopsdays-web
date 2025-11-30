@@ -8,8 +8,6 @@ Description = "DevOpsDays Florianópolis 2025"
   <div class="col-md-2">
       {{< event_logo >}}
       <br>
-      <br>
-      {{< event_twitter >}}
   </div>
   <hr>
   <div class="col-md-6">

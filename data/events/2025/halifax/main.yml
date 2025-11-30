@@ -5,6 +5,9 @@ event_twitter: "DevOpsDaysHali" # Change this to the twitter handle for your eve
 description: "The premier DevOps conference for Atlantic Canada" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
+# Social Share Buttons - Only show email and LinkedIn (no Facebook or Twitter)
+social_shares: ["email", "linkedin"]
+
 masthead_background: "halifax-background.png"
 sharing_image: "halifax-sharing.png"
 
@@ -32,8 +35,6 @@ registration_link: "https://tickets.devopsdays.org/devopsdays-halifax/2025/" # I
 # Location
 coordinates: ""
 location: "Kenneth C. Rowe Management Building, Dalhousie University" # The name of the venue. This will show up on the welcome page.
-location_address: "6100 University Ave, Halifax, NS B3H 1W7"
-#
 location_address: "6100 University Ave, Halifax, NS B3H 1W7" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
 
 nav_elements: # List of pages you want to show up in the navigation of your page.

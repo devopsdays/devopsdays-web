@@ -106,7 +106,6 @@ team_members: # Name is the only required field for team members.
     role: "Madison, Chicago"
     twitter: "christianherro"
     image: "christian-herro.jpg"
-    twitter: "christianherro"
     linkedin: "https://www.linkedin.com/in/christianherro/"
     github : "christianherro"
   - name: "Margaret Valtierra"
