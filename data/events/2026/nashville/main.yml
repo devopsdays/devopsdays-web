@@ -44,7 +44,6 @@ event_social_twitter: "nashvilledevops" # Change this to the twitter handle for 
 #event_social_bsky: "https://bsky.app/profile/nashvilledevops.bsky.social" # Change this to url to your bluesky page
 #event_social_youtube: "nashvilledevops" # Change this to the youtube channel handle for your event such as devopsdaysrox
 # legacy
-event_twitter: "nashvilledevops" # This will create a traditional "Follow" twitter button. Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp.
 
 # Social Share Buttons
 # Optional: Specify which social share buttons to display on event pages.
