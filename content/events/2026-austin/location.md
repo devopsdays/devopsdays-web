@@ -38,7 +38,7 @@ Address: 3100 Alvin Devane Blvd, Building B, Austin, TX 78741
 
 This is the map of the venue:
 
-<img src="/events/2026-austin/layout-tcea.png" class="card-img" alt="venue layout">
+<img src="/events/2026-austin/layout-tcea.png" class="card-img" style="max-width: 500px;" alt="venue layout">
 
 ## Transportation
 
@@ -50,13 +50,55 @@ Our local buses are run by CapMetro: https://www.capmetro.org/
 
 Bus Route 228 is the closest route. The other alternative is Bus Route 311. We recommend choosing the following bus stops, as they are the closest and do not require crossing or walking along highway feeder routes.
 
-| Bus Stop                       | Stop Number | Distance from Venue                 | Route  | Link                                      |
-|--------------------------------|-------------|-------------------------------------|--------|-------------------------------------------|
-| 5413 Oltorf/Alvin Devane       | 2275        | 0.3 mi / 7-min walk                 | 228 EB | https://maps.app.goo.gl/5zRvnkWo5wCWUbA98 |
-| 5500 Oltorf (Attorney General) | 2233        | 0.3 mi / 7-min walk                 | 228 WB | https://maps.app.goo.gl/X2CQS8buiWPEQxDcA |
-| 2901 Montopolis/Oltorf         | 5974        | 0.9 mi / 19-min walk (along Oltorf) | 311 WB | https://maps.app.goo.gl/Pcozyibdcm7zxDdg7 |
-| 2821 Montopolis/Oltorf         | 4310        | 1.0 mi / 21-min walk (along Oltorf) | 311 EB | https://maps.app.goo.gl/fhbNEiSR3Pn2FJga7 |
-{.table .table-responsive}
+<table class="table table-responsive">
+    <thead>
+        <tr>
+            <th>Bus Stop</th>
+            <th>Stop Number</th>
+            <th>Distance from Venue</th>
+            <th>Route</th>
+            <th>Link</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>5413 Oltorf/Alvin Devane</td>
+            <td>2275</td>
+            <td>0.3 mi / 7-min walk</td>
+            <td>228 EB</td>
+            <td>
+                <a href="https://maps.app.goo.gl/5zRvnkWo5wCWUbA98">https://maps.app.goo.gl/5zRvnkWo5wCWUbA98</a>
+            </td>
+        </tr>
+        <tr>
+            <td>5500 Oltorf (Attorney General)</td>
+            <td>2233</td>
+            <td>0.3 mi / 7-min walk</td>
+            <td>228 WB</td>
+            <td>
+                <a href="https://maps.app.goo.gl/X2CQS8buiWPEQxDcA">https://maps.app.goo.gl/X2CQS8buiWPEQxDcA</a>
+            </td>
+        </tr>
+        <tr>
+            <td>2901 Montopolis/Oltorf</td>
+            <td>5974</td>
+            <td>0.9 mi / 19-min walk (along Oltorf)</td>
+            <td>311 WB</td>
+            <td>
+                <a href="https://maps.app.goo.gl/Pcozyibdcm7zxDdg7">https://maps.app.goo.gl/Pcozyibdcm7zxDdg7</a>
+            </td>
+        </tr>
+        <tr>
+            <td>2821 Montopolis/Oltorf</td>
+            <td>4310</td>
+            <td>1.0 mi / 21-min walk (along Oltorf)</td>
+            <td>311 EB</td>
+            <td>
+                <a href="https://maps.app.goo.gl/fhbNEiSR3Pn2FJga7">https://maps.app.goo.gl/fhbNEiSR3Pn2FJga7</a>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 ### Rideshare
 
@@ -68,7 +110,7 @@ Uber and Lyft are the most popular services in Austin. We highly recommend using
 
 Our venue has a limited number of parking spaces. Parking is around the back of the building (please reference this map) and will be clearly marked with signage. We will also have volunteers out in the parking lot to guide you. We cannot park in other parking spaces as there are other tenants in the complex; please be aware that parking in spaces that are not within our block can result in your car being towed.
 
-<img src="/events/2026-austin/tcea_parking.png" class="card-img" alt="parking map indicating spots behind the building">
+<img src="/events/2026-austin/tcea_parking.png" class="card-img" style="max-width: 500px;" alt="parking map indicating spots behind the building">
 
 For overflow parking, we also have a parking block at Tru by Hilton 2 miles away. We recommend that, if you need to go to the overflow parking, you carpool with others rather than trying to walk to the venue from there.
 
