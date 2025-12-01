@@ -19,4 +19,4 @@ If you feel like you have something to say or present at this community event - 
 
 Do you have something on your mind?
 
-Head over to our public slack <a href="https://devopsdays-dk.slack.com" target="_blank">devopsdays-dk.slack.com</a> and join our community. Feel free to suggest a topic and get a feel for who might be interested.
+Head over to our public slack <a href="https://join.slack.com/t/devopsdays-dk/shared_invite/zt-3ccd7udqv-RV1tMfoIKO8w273HiUrQng" target="_blank">devopsdays-dk.slack.com</a> and join our community. Feel free to suggest a topic and get a feel for who might be interested.

@@ -11,7 +11,7 @@ Description = "devopsdays copenhagen 2026"
 
 The event is on!  We're working hard behind the scenes to set this up. What we know at this point is the dates and location. More details will come later.
 
-**🏇🏼 HURRY**: Head over to our public slack <a href="https://devopsdays-dk.slack.com" target="_blank">devopsdays-dk.slack.com</a> and join our community. 
+**🏇🏼 HURRY**: Head over to our public slack <a href="https://join.slack.com/t/devopsdays-dk/shared_invite/zt-3ccd7udqv-RV1tMfoIKO8w273HiUrQng" target="_blank">devopsdays-dk.slack.com</a> and join our community. 
 
 Feel free to suggest a topic for a speak or an Open Space discussion. Our slack is also we're you'll get instant news about the event.
 
