@@ -5,6 +5,7 @@
           {{- if eq .File.BaseFileName "welcome" -}}
             {{- partial "welcome.html" . -}}
           {{- else -}}
+            {{- partial "events/non-current-banner.html" . -}}
             <h1>devopsdays {{ $e.city }} - {{ .Title }}</h1>
             {{ .Content }}
           {{- end -}}

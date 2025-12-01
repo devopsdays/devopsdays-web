@@ -1,0 +1,55 @@
+{{- /* 
+  Banner to display on non-current event pages, indicating this is not the current event
+  and providing a link to the current event for that city.
+*/ -}}
+
+{{- $e := partial "functions/get-event-data" . -}}
+
+{{- if and $e $e.city $e.name -}}
+  {{- /* Get the current event for this city - pass page context */ -}}
+  {{- $currentEvent := partial "functions/get-current-event-for-city" . -}}
+  
+  {{- /* Extract year from current event being viewed */ -}}
+  {{- $currentViewYear := 0 -}}
+  {{- if $e.year -}}
+    {{- $currentViewYear = int $e.year -}}
+  {{- else if $e.name -}}
+    {{- $yearStr := index (split $e.name "-") 0 -}}
+    {{- $currentViewYear = int $yearStr -}}
+  {{- end -}}
+  
+  {{- /* Extract year from current event found */ -}}
+  {{- $currentEventYear := 0 -}}
+  {{- if and $currentEvent $currentEvent.year -}}
+    {{- $currentEventYear = int $currentEvent.year -}}
+  {{- else if and $currentEvent $currentEvent.name -}}
+    {{- $yearStr := index (split $currentEvent.name "-") 0 -}}
+    {{- $currentEventYear = int $yearStr -}}
+  {{- end -}}
+  
+  {{- /* Only show banner if there is a current event, it's different, and the current view is older or not the latest year */ -}}
+  {{- if and $currentEvent (ne $currentEvent.name $e.name) (lt $currentViewYear $currentEventYear) -}}
+    {{- /* Determine if current event being viewed is past or just older */ -}}
+    {{- $isPast := false -}}
+    {{- if and $e.enddate (time $e.enddate) -}}
+      {{- $isPast = lt (time $e.enddate) now -}}
+    {{- end -}}
+    
+    <div class="row">
+      <div class="col-md-12">
+        <div class="alert alert-warning" role="alert">
+          <strong>
+            <i class="fa fa-exclamation-triangle" aria-hidden="true"></i>
+            {{- if $isPast -}}
+              This is a past event from {{ $e.year }}.
+            {{- else -}}
+              This is an older event from {{ $e.year }}.
+            {{- end -}}
+          </strong>
+          Visit the <a href='{{ (printf "/events/%s/" $currentEvent.name) }}' class="alert-link"><strong>{{ $currentEvent.year }} event page</strong></a> for current information.
+        </div>
+      </div>
+    </div>
+  {{- end -}}
+{{- end -}}
+
