@@ -105,6 +105,7 @@ team_members: # Name is the only required field for team members.
     employer: "AWS Cloud Capitain - Univali"
     image: "henriquepereirazimermann.jpg"
     github: "HenriqZimer"
+    website: "https://henriqzimer.com.br/"
     linkedin: "https://www.linkedin.com/in/henrique-zimermann/"
 
 organizer_email: "florianopolis@devopsdays.org"
