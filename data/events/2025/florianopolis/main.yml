@@ -71,7 +71,7 @@ team_members: # Name is the only required field for team members.
     image: "rafael-ferreira.jpg"
     linkedin: "https://www.linkedin.com/in/orafaelferreiraa/"
     github: "orafaelferreiraa"
-    website: "https://orafaelferreira.com/"
+    website: "https://www.orafaelferreira.com/"
 
   - name: "Patrick Machado"
     # employer:
@@ -93,6 +93,13 @@ team_members: # Name is the only required field for team members.
     employer: "Support analyst"
     image: "stefani-dal-puppo.jpeg"
     linkedin: "https://www.linkedin.com/in/stefanidalpuppo/"
+
+  - name: "Leandro Venâncio"
+    employer: "Cloud Security Architect"
+    image: "leandrovenancio.png"
+    github: "leandrohv"
+    website: "https://www.leandrovenancio.com.br"
+    linkedin: " https://www.linkedin.com/in/leandro-venancio/"
 
 organizer_email: "florianopolis@devopsdays.org"
 # masthead_background: "header.jpeg"
