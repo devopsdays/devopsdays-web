@@ -81,7 +81,7 @@ team_members: # Name is the only required field for team members.
   - name: "Matthew Jones"
     employer: "Read Guava"
     twitter: "geekle"
-    image: "matthew_jones.jpg"
+    image: "matthew_jones.png"
   - name: "Mel Kaulfuss"
     employer: "Stile"
     bio: "Mel has been building software, and technical communities for over a decade now. DevOps principles are central to her work at the intersection of technology, product and people, she loves to bring people together to deliver value in safe inclusive spaces. She watches too much k-drama, and has two cheeky border terriers."
@@ -102,11 +102,9 @@ organizer_email: "melbourne@devopsdays.org" # Put your organizer email address h
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: samplesponsorname
-    level: gold
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  - id: arresteddevops
-    level: community
+# - id: samplesponsorname
+#   level: gold
+#   url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
