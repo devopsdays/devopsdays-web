@@ -46,7 +46,7 @@ event_social_mastodon: "https://mastodon.social/@devopsdaysssa" # Change this to
 event_social_bsky: "https://bsky.app/profile/devopsdaysssa.bsky.social" # Change this to url to your bluesky page
 event_social_youtube: "devopsdaysssa" # Change this to the youtube channel handle for your event such as devopsdaysrox
 # legacy
-event_twitter: "devopsdaysssa" # This will create a traditional "Follow" twitter button. Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp.
+# event_twitter: "devopsdaysssa" # This will create a traditional "Follow" twitter button. Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
@@ -132,6 +132,10 @@ sponsors:
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
+  - id: alura
+    level: apoio
+  - id: linuxtips
+    level: apoio
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -150,3 +154,5 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+  - id: apoio
+    label: Apoio

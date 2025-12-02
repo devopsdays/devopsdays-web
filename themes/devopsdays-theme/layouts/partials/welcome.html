@@ -1,6 +1,9 @@
 {{- $e := partial "functions/get-event-data" . -}}
 {{- $.Scratch.Set "contentdir" (printf "static/events/%s/" $e.name) -}}
 
+{{- /* Display banner for non-current events */ -}}
+{{- partial "events/non-current-banner.html" . -}}
+
     {{- if $e.masthead_background -}}
       {{- if ne $e.masthead_background "" -}}
       {{- if (where (readDir "static/events") "Name" $e.name) -}}

@@ -32,9 +32,7 @@ registration_date_end: 2025-09-18T23:59:59-04:00
 # Location
 coordinates: "38.89536,-77.04075"
 location: "American Red Cross, Washington, D.C."
-location_address: "1730 E St NW, Washington, DC 20006"
-#
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
+location_address: "1730 E St NW, Washington, DC 20006" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
