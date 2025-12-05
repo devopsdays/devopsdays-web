@@ -32,7 +32,7 @@ Description = "devopsdays Tokyo 2026"
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    <a href="https://pretix.eu/devopsdaystokyo/2026/">Register to attend the conference!</a>
+    Please Visit <a href="https://www.devopsdaystokyo.org/">devopsdaystokyo.org</a> for ticket sale dates/infos."
   </div>
 </div>
 
@@ -41,7 +41,7 @@ Description = "devopsdays Tokyo 2026"
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
+    Please Visit <a href="https://www.devopsdaystokyo.org/">devopsdaystokyo.org</a> for CFP dates/infos."
   </div>
 </div>
 
@@ -68,7 +68,7 @@ Description = "devopsdays Tokyo 2026"
     <strong>Sponsors</strong>
   </div>
   <div class = "col-md-8">
-    <a href="https://www.devopsdaystokyo.org/#sponsors">Sponsor the conference!</a>
+    Please Visit <a href="https://www.devopsdaystokyo.org/">devopsdaystokyo.org</a> for Sponsorship infos."
   </div>
 </div>
 
