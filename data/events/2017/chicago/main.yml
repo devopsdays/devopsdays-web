@@ -5,8 +5,6 @@ event_twitter: "devopsdaysChi"
 description: "The group that brought you DevOpsDays Chicago 2014-2016 is back together and planning the 2017 event. We’re encouraged by the feedback from previous year’s events and are determined to bring an improved experience and continue the DevOps conversation for 2017 in Chicago." # A short blurb of text to describe your event, defaults to common DevOpsDays description
 
 # All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
-startdate: 2017-09-12 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2017-09-13 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 startdate: 2017-09-12T00:00:00-05:00
 enddate: 2017-09-13T23:59:59-05:00
 
