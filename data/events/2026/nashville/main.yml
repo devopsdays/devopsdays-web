@@ -114,6 +114,7 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
   - id: platinum
+    label: platinum
     max: 2
   - id: gold
     label: Gold
