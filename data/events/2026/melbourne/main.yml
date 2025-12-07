@@ -77,7 +77,7 @@ team_members: # Name is the only required field for team members.
     image: "peter_hall.jpeg"
   - name: "Fabian Iannarella"
     twitter: "fiannarella"
-    image: "fabian_Iannarella.jpeg"
+    image: "fabian_iannarella.jpeg"
   - name: "Matthew Jones"
     employer: "Read Guava"
     twitter: "geekle"
