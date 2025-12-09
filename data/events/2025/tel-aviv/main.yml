@@ -160,7 +160,7 @@ sponsors:
     level: gold
   - id: quali
     level: gold
-  - id: draftt
+  - id: draftt_io
     level: gold
   - id: komodor
     level: gold
@@ -184,7 +184,7 @@ sponsors:
     level: gold
   - id: datadog
     level: gold
-  - id: automat_it
+  - id: automatit
     level: gold
   - id: profisea
     level: gold
@@ -198,9 +198,9 @@ sponsors:
     level: gold
   - id: echo
     level: gold
-  - id: baseshift
-    level: community
   - id: minimus
+    level: gold
+  - id: baseshift
     level: community
   - id: statscraft
     level: community
