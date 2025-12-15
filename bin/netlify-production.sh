@@ -1,4 +1,6 @@
-# npm rebuild
+#!/bin/bash
+
 hugo version
-hugo --theme=devopsdays-theme --buildDrafts=false --baseURL="$URL/"
-# gulp
+hugo --environment=production --theme=devopsdays-theme --minify --templateMetrics --logLevel info --buildDrafts=false --baseURL="$URL/"
+CSSFINGERPRINTED=$(ls public/css/site.min.*.css)
+cp -f $CSSFINGERPRINTED public/css/site.css
