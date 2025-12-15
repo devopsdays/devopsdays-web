@@ -80,11 +80,12 @@ team_members: # Name is the only required field for team members.
     bio: "Acacio's journey started with a Spectrum 48k and has evolved into a career as a Cloud Architect ☁️, Podcaster and entrepreneur. <br><br>He thrives on building innovative solutions using Open Source, Unix/Linux systems, and applying agile & DevOps principles to drive results. 💡  <br><br>As a Cloud Architect and Podcaster 🎙️, He's dedicated to pushing the boundaries of technology and sharing my knowledge with the community"
   - name: "Imma Valls Bernaus"
     employer: "Grafana Labs"
+    pronouns: "she/her"
     twitter: "eyeveebee"
-    website: ""
+    website: "https://eyeveebee.dev"
     linkedin: "https://www.linkedin.com/in/imma-valls/"
     image: imma.jpg
-    bio: "Imma is a Staff Developer Advocate who loves automating stuff and anything that helps get apps from development to production. <br>She enjoys sharing with local communities and helping them connect and thrive. You can find her co-organizing Grafana’s meetups in Barcelona,  Madrid, Amsterdam and Stockholm, Cloud Native Barcelona meetups, Software Crafters Barcelona, DevOps Barcelona. <br><br>She also volunteers as a coach and board member at the TechFems Barcelona community and collaborates with Technovation Girls as a Judge. She is a Bruce Springsteen fan. No surrender!"
+    bio: "Imma is a Staff Developer at Grafana Labs, with a passion for simplifying Observability, OpenTelemetry, and Cloud-Native knowledge. She focuses on creating accessible technical content and driving the adoption of best practices within the community. <br>A passionate community builder and ally, she actively co-organizes local meetups at Cloud Native Barcelona, DevOps BCN, Grafana & Friends, and TechFems, focusing on creating inclusive spaces and helping underrepresented voices share their stories and expertise. <br>She is a Bruce Springsteen fan. No surrender!"
   - name: "Eduard Epure"
     pronouns: "he/him"
     employer:  "Telespazio Germany GmbH"
@@ -94,6 +95,7 @@ team_members: # Name is the only required field for team members.
     bio: "Eduard is a Cloud Engineer in the aerospace domain, passionate about travel, food, space, and CI/CD. <br><br>From day one, I’ve been all-in on cloud infrastructure and I love building systems that make engineers' lives easier"
   - name: "Almudena Vivanco"
     employer: "SCRM Lidl International Hub"
+    pronouns: "she/her"
     website: ""
     linkedin: "https://www.linkedin.com/in/deniger/"
     image: almudena.jpg
@@ -107,8 +109,14 @@ team_members: # Name is the only required field for team members.
   - name: Ana Carmona
     employer: 'Adevinta Spain / Infojobs'
     linkedin: 'https://www.linkedin.com/in/ana-carmona-ag'
+    pronouns: "she/her"
     image: ana.jpg
     bio: 'Ana Carmona is an engineering leader at InfoJobs, where she works with platform and infrastructure teams to boost developer experience and reliability. <br><br>She’s been part of the Barcelona tech community for years, helping organize events like Women Techmakers, DotNet, and Software Crafters Barcelona. <br><br>Outside of work, she’s a slow runner, a mom of two, and a big fan of building communities. Her motto? “If I don’t know it, I’ll learn it."'
+  - name: Heather Thacker
+    employer: 'Gatling'
+    linkedin: 'https://www.linkedin.com/in/hhthacker/'
+    image: heather.jpg
+    bio: 'Developer advocate with a background in full stack software engineering.'
 
 organizer_email: "barcelona@devopsdays.org" # Put your organizer email address here
 
