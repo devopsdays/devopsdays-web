@@ -132,6 +132,10 @@ sponsors:
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
+  - id: alura
+    level: apoio
+  - id: linuxtips
+    level: apoio
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -150,3 +154,5 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+  - id: apoio
+    label: Apoio

@@ -30,9 +30,9 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 #
 # coordinates: "" # No longer used
 
-location: "prague" # Defaults to city, but you can make it the venue name.
+location: "Clarion Congress Hotel" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
+location_address: "Freyova 33, Prague 9, 190 00" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
 
 # Optional - Social badges
 # These can be used in the body of any page via matching shortcodes. See sample:  https://devopsdays.org/events/2025-denver/welcome/
@@ -46,10 +46,11 @@ event_social_youtube: "DevOpsDaysPrg" # Change this to the youtube channel handl
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
-  # - name: location
+  - name: location
   # - name: registration
   # - name: program
   # - name: speakers
+  - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
@@ -78,7 +79,13 @@ organizer_email: "prague@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: arresteddevops
+  - id:  hackihub
+    level: community
+  - id: alicetechnologies
+    level: community
+  - id: cloudnativeprg
+    level: community
+  - id: art4people
     level: community
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -90,10 +97,10 @@ sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Gold
-  #    max: 10
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
+  - id: lanyard
+    label: Lanyard
   - id: bronze
     label: Bronze
   - id: community

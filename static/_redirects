@@ -3,7 +3,7 @@
 /antwerp/*		/events/2024-antwerp/:splat		302
 /aracaju/*		/events/2024-aracaju/:splat		302
 /atlanta/*		/events/2026-atlanta/:splat		302
-/austin/cfp		https://talks.devopsdays.org/devopsdays-austin-2025/cfp 302
+/austin/cfp		https://talks.devopsdays.org/devopsdays-austin-2026/cfp 302
 /austin/*		/events/2026-austin/:splat		302
 /baku/*			/events/2019-baku/:splat		302
 /baltimore/*		/events/2025-baltimore/:splat		302
@@ -32,7 +32,7 @@
 /copenhagen/*		/events/2026-copenhagen/:splat		302
 /denmark/*		/events/2026-copenhagen/:splat		302
 /cuba/*			/events/2019-cuba/:splat		302
-/dallas/*		/events/2025-dallas/:splat		302
+/dallas/*		/events/2026-dallas/:splat		302
 /denver/*		/events/2025-denver/:splat		302
 /des-moines/*		/events/2025-des-moines/:splat		302
 /detroit/*		/events/2025-detroit/:splat		302
@@ -79,7 +79,7 @@
 /montreal/*		/events/2025-montreal/:splat		302
 /moscow/*		/events/2020-moscow/:splat		302
 /nairobi/*		/events/2024-nairobi/:splat		302
-/nashville/*		/events/2024-nashville/:splat		302
+/nashville/*		/events/2026-nashville/:splat		302
 /natal/*		/events/2024-natal/:splat		302
 /new-york-city/*	/events/2023-new-york-city/:splat	302
 /new-zealand/*		/events/2019-auckland/:splat		302
@@ -169,7 +169,7 @@
 /miami/*            /events/2020-miami/:splat           302
 /luanda/*            /events/2020-luanda/:splat           302
 /criciuma/*            /events/2020-criciuma/:splat           302
-/melbourne/*            /events/2023-melbourne/:splat           302
+/melbourne/*            /events/2026-melbourne/:splat           302
 /ankara/*            /events/2020-ankara/:splat           302
 /lima/*            /events/2025-lima/:splat           302
 /rosario/*            /events/2020-rosario/:splat           302
@@ -261,7 +261,7 @@
 /joao-pessoa/*            /events/2025-joao-pessoa/:splat           302
 /kerala/*            /events/2024-kerala/:splat           302
 /garanhuns/*            /events/2025-garanhuns/:splat           302
-/sibiu/*            /events/2025-sibiu/:splat           302
+/sibiu/*            /events/2026-sibiu/:splat           302
 /wollongong/*            /events/2025-wollongong/:splat           302
 /graz/*            /events/2025-graz/:splat           302
 /ciudad-autonoma-de-buenos-aires/*            /events/2026-ciudad-autonoma-de-buenos-aires/:splat           302
