@@ -48,7 +48,11 @@
                         <br/>
                 {{- if or (ne (time .startdate).Month (time .enddate).Month) (ne (time .startdate).Day (time .enddate).Day) -}}
                         <span class="homepage-grid-date">
-                        {{ dateFormat "Jan 2" .startdate }} - {{ dateFormat "2, 2006" .enddate }}<br />
+                        {{ if ne (time .startdate).Month (time .enddate).Month }}
+                            {{ dateFormat "Jan 2" .startdate }} - {{ dateFormat "Jan 2, 2006" .enddate }}<br />
+                        {{ else }}
+                            {{ dateFormat "Jan 2" .startdate }} - {{ dateFormat "2, 2006" .enddate }}<br />
+                        {{ end }}
                         </span>
                 {{- else -}}
                         <span class="homepage-grid-date">
