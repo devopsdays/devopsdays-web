@@ -54,7 +54,7 @@ sponsors:
   - id: mailchimp
     level: social
   - id: gcp-before-20220712
-    level: social			
+    level: social
   - id: opsgenie
     level: gold
     url: http://www.opsgenie.com?utm_source=Events&utm_campaign=DevOpsDays_Atlanta_%20April&utm_medium=banner
@@ -85,7 +85,7 @@ sponsors:
   - id: nutanix-before-20200127
     level: silver
   - id: coxautomotive
-    level: silver  	
+    level: silver
   - id: sonatype-before-20190121
     level: bronze
   - id: coxautomotive
@@ -111,7 +111,7 @@ sponsor_levels:
   - id: bronze
     label: Bronze
   - id: wifi
-    label: Wifi	
+    label: Wifi
   - id: community
     label: Community
 
