@@ -75,7 +75,10 @@ team_members: # Name is the only required field for team members.
     website: "https://www.devdull.lol"
     image: "alastair-drong.jpg"
   - name: "Ben Ford"
-    twitter: "devopsdays"
+    github: "binford2k"
+    linkedin: "https://www.linkedin.com/in/binford2k/"
+    website: "https://binford2k.com"
+#   image: "binford2k.jpg"
 
 organizer_email: "portland@devopsdays.org" # Put your organizer email address here
 
