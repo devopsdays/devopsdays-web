@@ -35,8 +35,8 @@ Description = "DevOpsDays + AI Nashville 2026"
     <!-- <h2><p><a href="https://www.papercall.io/devopsdays-nashville-2024" style="color: #C19A6B">Call for Proposals Open Until May 31st</a></p></h2> -->
     <h2 style="color: #C19A6B; display: inline-block;"><p><a href="https://www.papercall.io/devopsdaysnashville2026">Call for Proposals Now Open!</a></p></h2>
     <p>Do you have a great topic for the community?  Visit our <a href="https://www.papercall.io/devopsdaysnashville2026">Call for Speakers/Papers</a> site today!  The call for proposals will be open until February 27th.</p>
-    <h2 style color="color: #C19A6B; display: inline-block;"><p>Download the <a href="https://apps.apple.com/us/app/devops-days-nashville/id6754512737">DevOps Days Nashville mobile app for iOS.</p></h2>
-    <p>The DevOps Days Nashville mobile app is the place to get information about the schedule, speakers, sponsors, and maps.</a> Android coming soon!</p>
+    <h2 style color="color: #C19A6B; display: inline-block;"><p><a href="https://apps.apple.com/us/app/devops-days-nashville/id6754512737">Download the DevOps Days Nashville mobile app for iOS.</a></p></h2>
+    <p>The DevOps Days Nashville mobile app is the place to get information about the schedule, speakers, sponsors, and maps. Android coming soon!</p>
 
 <div class = "row">
   <div class = "col-md-2">
