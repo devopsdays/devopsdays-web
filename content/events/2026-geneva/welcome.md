@@ -70,6 +70,7 @@ Description = "DevOpsDays Geneva 2026"
             href="/events/2026-geneva/sponsor">
             <i class="fa fa-handshake fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the conference</a>
         </div>
+      </div>
     </div>
 </div>
 

@@ -103,6 +103,16 @@ organizer_email: "geneva@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: hidora
+    level: gold
+  - id: sokube
+    level: silver
+  - id: dbi-services
+    level: silver
+  - id: techfirm
+    level: event
+  - id: redhat
+    level: silver
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
@@ -111,22 +121,22 @@ sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-#  - id: event
-#    label: Event
-#    max: 1
-#  - id: gold
-#    label: Gold
-#    max: 8
-#  - id: speakers
-#    label: Speakers
-#    max: 1
-#  - id: silver
-#    label: Silver
-#    max: 9
-#  - id: bronze
-#    label: Bronze
-#  - id: mic
-#    label: Mic
-#    max: 1
-#  - id: community
-#    label: Community
+  - id: event
+    label: Event
+    max: 1
+  - id: gold
+    label: Gold
+    max: 8
+  - id: speakers
+    label: Speakers
+    max: 1
+  - id: silver
+    label: Silver
+    max: 9
+  - id: bronze
+    label: Bronze
+  - id: mic
+    label: Mic
+    max: 1
+  - id: community
+    label: Community
