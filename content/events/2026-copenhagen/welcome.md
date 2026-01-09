@@ -5,17 +5,12 @@ aliases = ["/events/2026-copenhagen/"]
 Description = "devopsdays copenhagen 2026"
 +++
 
-<div style="text-align:center;width:40vh;">
-  {{< event_logo >}}
-</div>
+<a href="https://www.devopsdays.dk/#next" target="_blank">
+  <img style="text-align:center;width:40vw;" alt="DevOpsDays Denmark Coin Logo" src="https://www.devopsdays.dk/assets/images/2026/dod_dk_conf_1920x1080.jpg"/>
+</a>
 
-The event is on!  We're working hard behind the scenes to set this up. What we know at this point is the dates and location. More details will come later.
-
-**🏇🏼 HURRY**: Head over to our public slack <a href="https://devopsdays-dk.slack.com" target="_blank">devopsdays-dk.slack.com</a> and join our community. 
-
-Feel free to suggest a topic for a speak or an Open Space discussion. Our slack is also we're you'll get instant news about the event.
-
-Or send a mail to the organizers at <a href="{{< email_organizers >}}">{{< email_organizers >}}</a>
+The event is on!  We're hosting all details regarding the event on our local commuity site:
+<a href="https://www.devopsdays.dk" target="_blank"><strong>devopsdays.dk</strong></a>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -71,14 +66,14 @@ Or send a mail to the organizers at <a href="{{< email_organizers >}}">{{< email
   </div>
 </div> -->
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="sponsor" text="Sponsor the conference!" >}}
   </div>
-</div>
+</div> -->
 
 <div class = "row">
   <div class = "col-md-2">
