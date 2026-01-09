@@ -29,11 +29,12 @@ Description = "DevOpsDays + AI Nashville 2026"
     <p>We are happy to announce that Camilla Martins is our day two keynote speaker!</p>
     <h2 style="color: #C19A6B; display: inline-block;"><p>Check out our program</a></p></h2>
     <h3>{{< event_link page="program" text="We have an awesome lineup of speakers and workshops!" >}}</h3>
-    <!-- <h2 style="color: #C19A6B; display: inline-block;"><p>CFP is closed. Speaker announcements coming soon!</p></h2>
+    <h2 style="color: #C19A6B; display: inline-block;"><p>CFP is closed. Speaker announcements coming soon!</p></h2>
     <p>We just closed our CFP and now we are going through the over 130 submissions to create the best DevOps Days Nashville yet!</p>  -->
     <p>Check back often or join our <a href="https://www.linkedin.com/company/devopsdays-nashville">LinkedIn page</a>.</p>
-    <!-- <h2><p><a href="https://www.papercall.io/devopsdays-nashville-2024" style="color: #C19A6B">Call for Proposals Open Until May 31st</a></p></h2>
-    <p>Do you have a great topic for the community?  Visit our <a href="https://www.papercall.io/devopsdays-nashville-2024">Call for Speakers/Papers</a> site today!  We look forward to hearing from you.</p> -->
+    <!-- <h2><p><a href="https://www.papercall.io/devopsdays-nashville-2024" style="color: #C19A6B">Call for Proposals Open Until May 31st</a></p></h2> -->
+    <p>Do you have a great topic for the community?  Visit our <a href="https://www.papercall.io/devopsdaysnashville2026">Call for Speakers/Papers</a> site today!  The call for proposals will be open until February 27th.</p>
+    <p>Download the <a href="https://apps.apple.com/us/app/devops-days-nashville/id6754512737">DevOps Days Nashville mobile app for iOS.</a> Android coming soon!</p>
 
 <div class = "row">
   <div class = "col-md-2">
