@@ -3,6 +3,7 @@ year: "2026" # The year of the event. Make sure it is in quotes.
 city: "Melbourne" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdownunder" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "Devopsdays is coming to Melbourne!" # Edit this to suit your preferences
+event_logo: "logo.png"
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2026-MM-DDTHH:MM:SS+TZ:TZ, like this:
@@ -38,7 +39,7 @@ location_address: "" #Optional - use the street address of your venue. This will
 # These can be used in the body of any page via matching shortcodes. See sample:  https://devopsdays.org/events/2025-denver/welcome/
 event_social_linkedin: "https://linkedin.com/company/devopsdownunder" # Change this to the url to your Linkedin group, company, or page.
 event_social_slack: "https://join.slack.com/t/devopsdownunder/custom_shared_invite_url" # Change this to your slack invite link.
-event_social_listserv: "https://lists.devopsdays.org/subscription?custom_listserv_invite_url" # Change this to your mailing list subscription form url.
+# event_social_listserv: "https://lists.devopsdays.org/subscription?custom_listserv_invite_url" # Change this to your mailing list subscription form url.
 event_social_twitter: "devopsdownunder" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 event_social_mastodon: "https://mastodon.social/@devopsdownunder" # Change this to url to your mastodon page
 event_social_bsky: "https://bsky.app/profile/devopsdownunder.bsky.social" # Change this to url to your bluesky page
@@ -50,7 +51,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: registration
  # - name: program
  # - name: speakers
-  - name: sponsor
+  # - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
@@ -92,9 +93,6 @@ team_members: # Name is the only required field for team members.
     bio: "Simon is passionate about driving business outcomes by strategically leveraging best of breed methodologies and tooling to deliver quantifiable and impactful value. With a keen focus on guiding teams to build scalable, reliable platforms that champion engineering excellence while driving significant improvements in business performance and achieving positive change."
     image: "simon_richards.jpeg"
 
-
-
-
 organizer_email: "melbourne@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
@@ -111,13 +109,13 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: gold
-    label: Gold
-#    max: 10
-  - id: silver
-    label: Silver
-    max: 0 # This is the same as omitting the max limit.
-  - id: bronze
-    label: Bronze
-  - id: community
-    label: Community
+#   - id: gold
+#     label: Gold
+# #    max: 10
+#   - id: silver
+#     label: Silver
+#     max: 0 # This is the same as omitting the max limit.
+#   - id: bronze
+#     label: Bronze
+#   - id: community
+#     label: Community
