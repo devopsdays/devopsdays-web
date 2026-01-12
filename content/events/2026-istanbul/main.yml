@@ -108,7 +108,7 @@ team_members: # Name is the only required field for team members.
 
    - name: "Serhat Can"
      employer: "JumpCloud"
-     image: "serhat-can.jpg"
+     image: "serhat-can.png"
      email: "can.srht@gmail.com"
      linkedin: "https://www.linkedin.com/in/serhatcan"
 
