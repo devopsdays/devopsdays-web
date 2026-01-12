@@ -5,12 +5,14 @@ aliases = ["/events/2026-copenhagen/"]
 Description = "devopsdays copenhagen 2026"
 +++
 
-<a href="https://www.devopsdays.dk/#next" target="_blank">
+<a href="https://www.devopsdays.dk/events/2026-cph/" target="_blank">
   <img style="text-align:center;width:40vw;" alt="DevOpsDays Denmark Coin Logo" src="https://www.devopsdays.dk/assets/images/2026/dod_dk_conf_1920x1080.jpg"/>
 </a>
 
-The event is on!  We're hosting all details regarding the event on our local commuity site:
-<a href="https://www.devopsdays.dk" target="_blank"><strong>devopsdays.dk</strong></a>
+The event is on!<br/>
+We're hosting all details regarding the event on our local commuity site:
+<a href="https://www.devopsdays.dk/events/2026-cph/" target="_blank"><strong>devopsdays.dk</strong></a><br/>
+Call For Papers is still open: <a href="https://www.devopsdays.dk/stories/become-a-speaker/" target="_blank"><strong>Become a Speaker</strong></a>
 
 <div class = "row">
   <div class = "col-md-2">
