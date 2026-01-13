@@ -170,6 +170,8 @@ sponsors:
   level: gold
 - id: infometis
   level: silver
+- id: zkb
+  level: silver
 - id: 4data
   level: silver
 - id: cyberlink
@@ -177,6 +179,8 @@ sponsors:
 - id: xelon
   level: event
 - id: zuhlke
+  level: bronze
+- id: kpmg
   level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
