@@ -21,7 +21,7 @@ cfp_date_announce: 2026-02-28T00:00:00+02:00 # inform proposers of status
 
 cfp_link: "https://sessionize.com/devopsdays-zurich-2026/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: 2026-01-05T00:00:00+02:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_start: 2026-01-04T00:00:00+02:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 registration_date_end: 2026-05-06T00:00:00+02:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "false" #set this to true if you need to manually close registration before your registration end date
@@ -49,7 +49,7 @@ event_social_youtube: "DevOpsDaysZurich" # Change this to the youtube channel ha
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location
- # - name: registration
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
@@ -170,6 +170,8 @@ sponsors:
   level: gold
 - id: infometis
   level: silver
+- id: zkb
+  level: silver
 - id: 4data
   level: silver
 - id: cyberlink
@@ -177,6 +179,8 @@ sponsors:
 - id: xelon
   level: event
 - id: zuhlke
+  level: bronze
+- id: kpmg
   level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

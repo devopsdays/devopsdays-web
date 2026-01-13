@@ -12,15 +12,15 @@ masthead_background: "sibiu-header.png"
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2026-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate:  2026-05-27T00:00:00+03:00
+enddate:  2026-05-29T00:00:00+03:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
+cfp_date_start: 2026-01-01T00:00:00+03:00 # start accepting talk proposals.
+cfp_date_end: 2026-03-01T00:00:00+03:00 # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://docs.google.com/forms/d/e/1FAIpQLSewuE-FJZQwCYnrZc--SmxwHLwmbYqwZl8nLWD2IdFSqPoahQ/viewform" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
@@ -32,7 +32,7 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 #
 # coordinates: "" # No longer used
 
-location: "Sibiu" # Defaults to city, but you can make it the venue name.
+location: "Strada Emil Cioran 4, Sibiu" # Defaults to city, but you can make it the venue name.
 #
 location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
 
@@ -49,8 +49,8 @@ event_social_youtube: "devopsdays" # Change this to the youtube channel handle f
 event_twitter: "devopsdays" # This will create a traditional "Follow" twitter button. Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
- # - name: location
+  - name: propose
+  - name: location
  # - name: registration
  # - name: program
  # - name: speakers
@@ -108,7 +108,7 @@ team_members: # Name is the only required field for team members.
   - name: "Valentin Oprea"
     image: "vali.jpg"
     employer: "General Engineering & Management Solutions"
-    linkedin: "General Engineering & Management Solutions"
+    linkedin: "https://www.linkedin.com/in/valioprea"
     bio: "Valentin Oprea is an experienced and versatile aerospace engineer with more than 8 years active in various critical industries, ranging from aerospace, automotive, banking and more. Having a diverse and multidisciplinary engineering experience, he was involved in delivering high-tier products using state-of-the-art technologies for OEMs such as Airbus, Boeing, BMWW, Rolls Royce and more.
      Founder of General Engineering & Management Solutions, the mission is to leverage the absolute best industry professionals to aid businesses achieve their maximum market potential in the shortest amount of time given the technology at hand."
 
@@ -128,6 +128,8 @@ sponsors:
   #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: sibiu-it-cluster
     level: gold
+  - id: synchromind
+    level: gold
   - id: swiss-web-academy
     level: gold
   - id: sibiu-visma
@@ -144,10 +146,10 @@ sponsors:
     level: media
   - id: kubeevents
     level: media
-#  - id: emailtree-ai
-#    level: community
-#  - id: ulbsibiu
-#    level: community
+  - id: emailtree-ai
+    level: community
+  - id: ulbsibiu
+    level: community
 #  - id: women4cyber
 #    level: community
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -162,10 +164,14 @@ sponsor_levels:
 #    max: 10
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
-  - id: bronze
-    label: Bronze
+#    max: 0 # This is the same as omitting the max limit.
+#  - id: bronze
+#    label: Bronze
   - id: community
     label: Community
   - id: media
     label: Media
+  - id: Food & Drinks
+    label: Food & Drinks
+  - id: Prize & Giveaway
+    label: Prize & Giveaway
