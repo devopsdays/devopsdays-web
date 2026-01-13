@@ -10,18 +10,19 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2024-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate:  2026-08-29
-enddate: 2026-08-29 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate:  2026-08-22
+enddate: 2026-08-22 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  2026-05-04
 cfp_date_end: 2026-06-04 # close your call for proposals.
 cfp_date_announce:  2026-07-01 # inform proposers of status
 
-cfp_link: "https://docs.google.com/forms/d/e/1FAIpQLSddRAG5k1SHRkjVjKRmC-zLdSzd0TMJhdVGFute9C7tYFU4jA/viewform" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://docs.google.com/forms/d/e/1FAIpQLSeChGZYpb-mgf9ZRjwakxw2kI-rClvGznMSbNWt9gRlS0_Qyw/viewform?usp=sharing&ouid=112487201128440763752" 
+#if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2026-07-27 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: 2026-08-29 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_end: 2026-08-22 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -81,9 +82,9 @@ organizer_email: "curitiba@devopsdays.org" # Put your organizer email address he
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: NimbleEvolution
-    level: Silver
-    url: https://br.nimbleevolution.com
+#  - id: NimbleEvolution
+#    level: silver
+#    url: https://br.nimbleevolution.com
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
