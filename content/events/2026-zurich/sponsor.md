@@ -150,7 +150,7 @@ Sponsors are encouraged to represent themselves by actively participating and en
     <tr>
       <th><b># Available Packages</b></th>
       <td bgcolor="#FFE8A3"><center>1</center></td>
-      <td bgcolor="#E5E5E5"><center>1</center></td>
+      <td bgcolor="#E5E5E5"><center>SOLD OUT</center></td>
       <td bgcolor="#FFBB7F"><center>unlimited</center></td>
       <td bgcolor="#85cdad"><center>SOLD OUT</center></td>
       <td bgcolor="#8bc2d6"><center>SOLD OUT</center></td>
