@@ -117,7 +117,7 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/ana-carmona-ag"
     pronouns: "she/her"
     image: ana.jpg
-    bio: "Ana Carmona is an engineering leader at InfoJobs, where she works with platform and infrastructure teams to boost developer experience and reliability. <br><br>She’s been part of the Barcelona tech community for years, helping organize events like Women Techmakers, DotNet, and Software Crafters Barcelona. <br><br>Outside of work, she’s a slow runner, a mom of two, and a big fan of building communities. Her motto? “If I don’t know it, I’ll learn it."
+    bio: "Ana Carmona is an engineering leader at InfoJobs, where she works with platform and infrastructure teams to boost developer experience and reliability. <br><br>She’s been part of the Barcelona tech community for years, helping organize events like Women Techmakers, DotNet, and Software Crafters Barcelona. <br><br>Outside of work, she’s a slow runner, a mom of two, and a big fan of building communities. Her motto? “If I don’t know it, I’ll learn it.”"
  
   - name: Heather Thacker
     employer: "Gatling"
