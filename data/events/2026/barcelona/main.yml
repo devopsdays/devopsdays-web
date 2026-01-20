@@ -70,6 +70,7 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/devooops/"
     image: david.jpg
     bio: 'David Castañeda is a "Platform Whisperer & DevOoops Engineer" from Barcelona who is a Senior DevOps Engineer at Xcelirate. He has a background as an Infrastructure engineer and describes himself as an enthusiastic and energetic person who enjoys working in a multicultural environment. <br><br>David likes to build things the "right way" while learning as much as possible. After many years of attending different conferences and meetups, David is now a core organizer of DevOpsBCN meetup and is excited to bring back the DevOpsDays community to Barcelona'
+  
   - name: "David Acacio"
     pronouns: "he/him"
     employer: "Schneider Electric"
@@ -78,6 +79,7 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/davidacacio/"
     image: acacio.jpg
     bio: "Acacio's journey started with a Spectrum 48k and has evolved into a career as a Cloud Architect ☁️, Podcaster and entrepreneur. <br><br>He thrives on building innovative solutions using Open Source, Unix/Linux systems, and applying agile & DevOps principles to drive results. 💡 <br><br>As a Cloud Architect and Podcaster 🎙️, He's dedicated to pushing the boundaries of technology and sharing my knowledge with the community"
+ 
   - name: "Imma Valls Bernaus"
     employer: "Grafana Labs"
     pronouns: "she/her"
@@ -86,13 +88,15 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/imma-valls/"
     image: imma.jpg
     bio: "Imma is a Staff Developer at Grafana Labs, with a passion for simplifying Observability, OpenTelemetry, and Cloud-Native knowledge. She focuses on creating accessible technical content and driving the adoption of best practices within the community. <br>A passionate community builder and ally, she actively co-organizes local meetups at Cloud Native Barcelona, DevOps BCN, Grafana & Friends, and TechFems, focusing on creating inclusive spaces and helping underrepresented voices share their stories and expertise. <br>She is a Bruce Springsteen fan. No surrender!"
+  
   - name: "Eduard Epure"
     pronouns: "he/him"
-    employer:  "Telespazio Germany GmbH"
+    employer:  "Mews"
     website: ""
     linkedin: "https://www.linkedin.com/in/eduard-epure"
     image: eduard.jpg
-    bio: "Eduard is a Cloud Engineer in the aerospace domain, passionate about travel, food, space, and CI/CD. <br><br>From day one, I’ve been all-in on cloud infrastructure and I love building systems that make engineers' lives easier"
+    bio: "Eduard is a Security Engineer at Mews, with a strong background in cloud infrastructure and DevOps practices. <br><br>Passionate about building secure, scalable systems that simplify the work of engineers."
+  
   - name: "Almudena Vivanco"
     employer: "SCRM Lidl International Hub"
     pronouns: "she/her"
@@ -100,23 +104,33 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/deniger/"
     image: almudena.jpg
     bio: "Almudena is of a mathematical vocation and has been dedicated to performance engineering for 18 years. Almudena has worked on projects with high traffic and high availability from online television platforms, job portals, security proxies, and now a European retailer. <br><br>For 20 years, she has been actively involved in the dissemination of DevOps and performance culture in Spain, hosting the webperf barcelona meetup since 2014. She is also an activist for the integration of female talent in STEM."
+  
   - name: "Julia Lamenza"
     employer:  ""
     website: ""
     linkedin: "linkedIn.com/in/jlamenza"
     image: julia.jpg
-    bio: "Juliana is an SRE with 15 years of Linux experience. Obsessed with automation, uptime, and catching flights more than outages. 🌍🐧"
+    bio: "Julia is an SRE with 15 years of Linux experience. Obsessed with automation, uptime, and catching flights more than outages. 🌍🐧"
+ 
   - name: Ana Carmona
-    employer: 'Adevinta Spain / Infojobs'
-    linkedin: 'https://www.linkedin.com/in/ana-carmona-ag'
+    employer: "Adevinta Spain / Infojobs"
+    linkedin: "https://www.linkedin.com/in/ana-carmona-ag"
     pronouns: "she/her"
     image: ana.jpg
-    bio: 'Ana Carmona is an engineering leader at InfoJobs, where she works with platform and infrastructure teams to boost developer experience and reliability. <br><br>She’s been part of the Barcelona tech community for years, helping organize events like Women Techmakers, DotNet, and Software Crafters Barcelona. <br><br>Outside of work, she’s a slow runner, a mom of two, and a big fan of building communities. Her motto? “If I don’t know it, I’ll learn it."'
+    bio: "Ana Carmona is an engineering leader at InfoJobs, where she works with platform and infrastructure teams to boost developer experience and reliability. <br><br>She’s been part of the Barcelona tech community for years, helping organize events like Women Techmakers, DotNet, and Software Crafters Barcelona. <br><br>Outside of work, she’s a slow runner, a mom of two, and a big fan of building communities. Her motto? “If I don’t know it, I’ll learn it."
+ 
   - name: Heather Thacker
-    employer: 'Gatling'
-    linkedin: 'https://www.linkedin.com/in/hhthacker/'
+    employer: "Gatling"
+    linkedin: "https://www.linkedin.com/in/hhthacker/"
     image: heather.jpg
-    bio: 'Developer advocate with a background in full stack software engineering.'
+    bio: "Developer advocate with a background in full stack software engineering."
+  
+  - name: "Ricard Forcada Viladomiu"
+    employer: "Roche"
+    pronouns: "he/him"
+    linkedin: "https://www.linkedin.com/in/rforcada/"
+    image: ricard.jpg
+    bio: "Ricard is a DevOps Engineering Manager at Roche, leading CI/CD and Cloud practices for Lab Insights. With over 15 years of experience ranging from IT Audit to Software Development, he specializes in implementing DevOps strategies in the Lab Insights Chapter at Roche."
 
 organizer_email: "barcelona@devopsdays.org" # Put your organizer email address here
 
