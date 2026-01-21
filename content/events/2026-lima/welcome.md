@@ -8,7 +8,7 @@ Description = "devopsdays lima 2026"
 
 <div class="row" style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <div class="col-md-4" style="text-align: center;">
-    <img alt="DevOpsDays Lima 2025" src="/events/2025-lima/logo.png" class="img-fluid" style="max-width: 100%; border-radius: 8px;">
+    <img alt="DevOpsDays Lima 2026" src="/events/2026-lima/logo.png" class="img-fluid" style="max-width: 100%; border-radius: 8px;">
   </div>
   <div class="col-md-7" style="padding: 10px 20px;">
     <h2 style="color: #8C51BF; font-weight: bold; font-size: 1.8em; margin-bottom: 15px;">Sé parte de la historia</h2>
