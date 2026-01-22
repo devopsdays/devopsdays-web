@@ -80,6 +80,17 @@ team_members: # Name is the only required field for team members.
     mastodon: "https://hachyderm.io/@binford2k"
     website: "https://binford2k.com"
     image: "binford2k.jpg"
+  - name: "Josh Berkus"
+    github: "jberkus"
+    linkedin: "https://www.linkedin.com/in/josh-berkus/"
+    mastodon: "https://m6n.io/@fuzzychef"
+    website: "https://berkus.org/"
+  # On hold -- waiting for deets:
+  # - name: "Shobhna Shastri"
+  #   github: ""
+  #   linkedin: ""
+  #   mastodon: ""
+  #   website: ""
 
 organizer_email: "portland@devopsdays.org" # Put your organizer email address here
 
