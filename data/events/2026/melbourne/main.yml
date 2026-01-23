@@ -1,0 +1,121 @@
+name: "2026-melbourne" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2026" # The year of the event. Make sure it is in quotes.
+city: "Melbourne" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdownunder" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays is coming to Melbourne!" # Edit this to suit your preferences
+event_logo: "logo.png"
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2026-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2026-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start:  # start accepting talk proposals.
+cfp_date_end:  # close your call for proposals.
+cfp_date_announce:  # inform proposers of status
+
+cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+# coordinates: "" # No longer used
+
+location: "Melbourne" # Defaults to city, but you can make it the venue name.
+#
+location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
+
+# Optional - Social badges
+# These can be used in the body of any page via matching shortcodes. See sample:  https://devopsdays.org/events/2025-denver/welcome/
+event_social_linkedin: "https://linkedin.com/company/devopsdownunder" # Change this to the url to your Linkedin group, company, or page.
+event_social_slack: "https://join.slack.com/t/devopsdownunder/custom_shared_invite_url" # Change this to your slack invite link.
+# event_social_listserv: "https://lists.devopsdays.org/subscription?custom_listserv_invite_url" # Change this to your mailing list subscription form url.
+event_social_twitter: "devopsdownunder" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+event_social_mastodon: "https://mastodon.social/@devopsdownunder" # Change this to url to your mastodon page
+event_social_bsky: "https://bsky.app/profile/devopsdownunder.bsky.social" # Change this to url to your bluesky page
+event_social_youtube: "devopsdownunder" # Change this to the youtube channel handle for your event such as devopsdaysrox
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+ # - name: propose
+ # - name: location
+ # - name: registration
+ # - name: program
+ # - name: speakers
+  # - name: sponsor
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Vero Farias"
+    bio: "Vero is a Computer Scientist with nineteen years of experience, who’s worn a few hats over the years: DevOps, SRE, and Software engineering. A passionate advocate for women and kids in tech, she works to make technology inclusive and accessible for everyone. Outside of work, she thrives as a mom and enjoys laser-cutting projects, cooking, soccer, table tennis, cycling, and participating in tech and non-tech community events."
+    image: "vero_farias.png"
+  - name: "Wendy Ha"
+    employer: "Seek, CNCF Ambassador"
+    bio: "Wendy is an Software Engineer with passion across Platform Engineering, Site Reliability and Observability. She is a proud advocate for Women in Tech, the Deaf and Hard of Hearing community, and Women-led Entrepreneurship. When she’s not coding or contributing to the community, you’ll find her enjoying a cup of coffee or exploring Melbourne's Dandenong trails. "
+    twitter: "wendy_ha18"
+    image: "wendy_ha.jpg"
+  - name: "Peter Hall"
+    employer: "ANZ bank"
+    bio: "Peter has a long background in all things cloud, security and development and is now working as an SRE engineering manager with ANZ bank. He is a big supporter of the DevOps and SRE communities in Melbourne and was involved in the organization of both the 2015 and 2023 DevOpDays conferences in Melbourne. He is also one of the co-organizers of the Melbourne Infracoders meetup."
+    twitter: "peterkh"
+    image: "peter_hall.jpeg"
+  - name: "Fabian Iannarella"
+    twitter: "fiannarella"
+    image: "fabian_iannarella.jpg"
+  - name: "Matthew Jones"
+    employer: "Read Guava"
+    twitter: "geekle"
+    image: "matthew_jones.png"
+  - name: "Mel Kaulfuss"
+    employer: "Stile"
+    bio: "Mel has been building software, and technical communities for over a decade now. DevOps principles are central to her work at the intersection of technology, product and people, she loves to bring people together to deliver value in safe inclusive spaces. She watches too much k-drama, and has two cheeky border terriers."
+    image: "mel_kaulfuss.jpg"
+  - name: "Jordan Kueh"
+    employer: "Culture Amp"
+    image: "jordan_kueh.png"
+  - name: "Simon Richards"
+    employer: "Mantel Group"
+    bio: "Simon is passionate about driving business outcomes by strategically leveraging best of breed methodologies and tooling to deliver quantifiable and impactful value. With a keen focus on guiding teams to build scalable, reliable platforms that champion engineering excellence while driving significant improvements in business performance and achieving positive change."
+    image: "simon_richards.jpeg"
+
+organizer_email: "melbourne@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+# - id: samplesponsorname
+#   level: gold
+#   url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+#   - id: gold
+#     label: Gold
+# #    max: 10
+#   - id: silver
+#     label: Silver
+#     max: 0 # This is the same as omitting the max limit.
+#   - id: bronze
+#     label: Bronze
+#   - id: community
+#     label: Community

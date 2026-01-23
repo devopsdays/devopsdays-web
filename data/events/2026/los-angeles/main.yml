@@ -130,3 +130,19 @@ sponsor_levels:
   - id: coffee
     label: Coffee Break
   - id: community
+
+sponsors:
+  - id: crash-override
+    level: gold
+  - id: devitjobs
+    level: media
+  - id: dnsimple
+    level: gold
+  - id: ibm
+    level: gold
+  - id: redhat
+    level: gold
+  - id: terracotta-ai
+    level: gold
+  - id: unleash
+    level: gold

@@ -19,21 +19,21 @@ Description = "DevOpsDays + AI Nashville 2026"
     {{< event_logo >}}
   </div>
   <div class = "col-md-6" style="box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 10px; padding: 10px; border-radius: 10px">
-    <h1><p>Welcome to DevOps Days + AI Nashville 2026</p></h1>
+    <h1>Welcome to DevOps Days + AI Nashville 2026</h1>
     <p>DevOps Days + AI will be coming back to {{< event_location >}} on May 14th and 15th.</p>
-    <h1><p><a href="https://events.humanitix.com/devopsdays-nashville-2026" target="_blank">Register now!</a></p></h1>
-    <!--<p>July 10th is right around the corner. Don't miss out on this opportunity to hear some amazing speakers, learn more about our incredible sponsors, grow your network, and be a part of this awesome community!</p>
-    <h2 style="color: #C19A6B; display: inline-block;"><p>Guest Keynote Speaker John Willis!</h2>
-    <p>We are happy to announce that <a href="https://itrevolution.com/author/john-willis/" target="_blank">John Willis</a> is our day one keynote speaker!</p>
-    <h2 style="color: #C19A6B; display: inline-block;"><p>Guest Keynote Speaker Camilla Martins!</h2>
-    <p>We are happy to announce that Camilla Martins is our day two keynote speaker!</p>
-    <h2 style="color: #C19A6B; display: inline-block;"><p>Check out our program</a></p></h2>
-    <h3>{{< event_link page="program" text="We have an awesome lineup of speakers and workshops!" >}}</h3>
-    <!-- <h2 style="color: #C19A6B; display: inline-block;"><p>CFP is closed. Speaker announcements coming soon!</p></h2>
-    <p>We just closed our CFP and now we are going through the over 130 submissions to create the best DevOps Days Nashville yet!</p>  -->
+    <h2><a href="https://events.humanitix.com/devopsdays-nashville-2026" target="_blank">Register now!</a></h2>
+    <p><strong>Register now!  Early bird pricing ends on January 30th!</strong></p>
+    <hr>
+    <h2>Call for Proposals Now Open!</h2>
+    <p>Do you have a great topic for the community?  Visit our <a href="https://www.papercall.io/devopsdaysnashville2026">Call for Speakers/Papers</a> site today!  
+    <p><strong>The call for proposals will be open until February 27th.</strong></p>
+    <h2>Mobile App Available!</h2>
+    <p><a href="https://apps.apple.com/us/app/devops-days-nashville/id6754512737">Download the DevOps Days Nashville mobile app for iOS.</a></p>
+    <p>The DevOps Days Nashville mobile app is the place to get information about the schedule, speakers, sponsors, and maps.</p>
+    <p><em>Android coming soon!</em></p>
+    <hr>
+    <h2>Stay Connected!</h2>
     <p>Check back often or join our <a href="https://www.linkedin.com/company/devopsdays-nashville">LinkedIn page</a>.</p>
-    <!-- <h2><p><a href="https://www.papercall.io/devopsdays-nashville-2024" style="color: #C19A6B">Call for Proposals Open Until May 31st</a></p></h2>
-    <p>Do you have a great topic for the community?  Visit our <a href="https://www.papercall.io/devopsdays-nashville-2024">Call for Speakers/Papers</a> site today!  We look forward to hearing from you.</p> -->
 
 <div class = "row">
   <div class = "col-md-2">

@@ -1,10 +1,10 @@
 +++
 Title = "Conduct"
 Type = "event"
-Description = "Code de conduite devopsdays copenhagen 2026"
+Description = "Code de conduite devopsdays lima 2026"
 +++
 
-Tous les participants, conférenciers, sponsors et volontaires à devopsdays copenhagen 2026 doivent accepter le code d'éthique et de déontologie, ou « code de conduite » suivant. Les organisateurs s’attacheront à faire respecter ce code durant l’événement. Nous attendons la coopération de chacun‧e pour assurer un environnement sain pour tous.
+Tous les participants, conférenciers, sponsors et volontaires à devopsdays lima 2026 doivent accepter le code d'éthique et de déontologie, ou « code de conduite » suivant. Les organisateurs s’attacheront à faire respecter ce code durant l’événement. Nous attendons la coopération de chacun‧e pour assurer un environnement sain pour tous.
 
 
 ### La Version Rapide
@@ -34,4 +34,4 @@ Nous attendons de chacun‧e le respect de ces règles dans le bâtiment des con
 
 
 
-Le code de conduite devopsdays copenhagen 2026 est basé sur [fr.confcodeofconduct.com](https://fr.confcodeofconduct.com)._ 
+Le code de conduite devopsdays lima 2026 est basé sur [fr.confcodeofconduct.com](https://fr.confcodeofconduct.com)._ 

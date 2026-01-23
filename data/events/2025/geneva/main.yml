@@ -126,7 +126,7 @@ sponsor_levels:
 sponsors:
   - id: hidora
     level: gold
-  - id: dbi-services
+  - id: dbi-services-before-20260119
     level: silver
   - id: swarmit
     level: silver
