@@ -42,10 +42,10 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   #  url: https://www.socallinuxexpo.org/scale/23x/venue
   #- name: registration
   #  url: https://register.socallinuxexpo.org/reg6/
-  - name: CFP
-    url: https://www.socallinuxexpo.org/scale/23x/cfp
-  #- name: program
-  #- name: speakers
+  #- name: CFP
+  #  url: https://www.socallinuxexpo.org/scale/23x/cfp
+  - name: program
+  - name: speakers
   - name: propose
   - name: volunteer
   - name: sponsor
@@ -140,3 +140,60 @@ sponsors:
     level: gold
   - id: unleash
     level: gold
+
+program:
+  - title: "Registration, Breakfast, Sponsors Setup, Meet & Greet"
+    type: custom
+    date: 2026-03-06T00:00:00-08:00
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "john-willis"
+    type: talk
+    date: 2026-03-06T00:00:00-08:00
+    start_time: "09:00"
+    end_time: "09:45"
+  - title: "joshua-lee"
+    type: talk
+    date: 2026-03-06T00:00:00-08:00
+    start_time: "10:00"
+    end_time: "10:45"
+  - title: "moshe-zadka"
+    type: talk
+    date: 2026-03-06T00:00:00-08:00
+    start_time: "11:00"
+    end_time: "11:45"
+  - title: "Open Spaces Setup"
+    type: custom
+    date: 2026-03-06T00:00:00-08:00
+    start_time: "11:45"
+    end_time: "12:00"
+  - title: "Lunch / Open Spaces"
+    type: custom
+    date: 2026-03-06T00:00:00-08:00
+    start_time: "12:00"
+    end_time: "13:30"
+  - title: "dondiego-aponte"
+    type: talk
+    date: 2026-03-06T00:00:00-08:00
+    start_time: "13:30"
+    end_time: "13:45"
+  - title: "arthur-freyman"
+    type: talk
+    date: 2026-03-06T00:00:00-08:00
+    start_time: "14:00"
+    end_time: "14:45"
+  - title: "scott-mabe"
+    type: talk
+    date: 2026-03-06T00:00:00-08:00
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "shalini-sudarsan"
+    type: talk
+    date: 2026-03-06T00:00:00-08:00
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "tom-howe"
+    type: talk
+    date: 2026-03-06T00:00:00-08:00
+    start_time: "17:00"
+    end_time: "17:45"
