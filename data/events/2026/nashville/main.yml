@@ -100,11 +100,8 @@ organizer_email: "nashville@devopsdays.org" # Put your organizer email address h
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  #- id: samplesponsorname
-  #  level: gold
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  #- id: arresteddevops
-  #  level: community
+ - id: kubeevents
+   level: media
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -128,4 +125,7 @@ sponsor_levels:
   - id: startup
     label: Startup
     max: 2
+  - id: media
+    label: Media
+#    max: 10
 
