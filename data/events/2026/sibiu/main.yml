@@ -52,11 +52,12 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: propose
   - name: location
  # - name: registration
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
+  - name: legal
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -175,3 +176,185 @@ sponsor_levels:
     label: Food & Drinks
   - id: Prize & Giveaway
     label: Prize & Giveaway
+
+
+program:
+  - title: "Opening & Registration"
+    type: custom
+    date: 2026-05-27T00:00:00+03:00
+    start_time: "10:30"
+    end_time: "10:55"
+  - title: "Kick off DevOps Days Day 1"
+    type: custom
+    date: 2026-05-27T00:00:00+03:00
+    start_time: "10:55"
+    end_time: "11:00"
+  - title: "joep-piscaer-1"
+    type: talk
+    date: 2026-05-27T00:00:00+03:00
+    start_time: "11:00"
+    end_time: "11:45"
+    background_color: "#2f7d3a"
+  - title: "edith-karda"
+    type: talk
+    date: 2026-05-27T00:00:00+03:00
+    start_time: "11:45"
+    end_time: "12:30"
+  - title: "Lunch"
+    type: custom
+    date: 2026-05-27T00:00:00+03:00
+    start_time: "12:30"
+    end_time: "13:30"
+  - title: "Energizer + Ignites"
+    type: custom
+    date: 2026-05-27T00:00:00+03:00
+    start_time: "13:30"
+    end_time: "14:00"
+    background_color: "#C6FFCC"
+  - title: "sutapa-sankar"
+    type: talk
+    date: 2026-05-27T00:00:00+03:00
+    start_time: "14:00"
+    end_time: "14:45"
+  - title: "Open spaces themes elicitation"
+    type: custom
+    date: 2026-05-27T00:00:00+03:00
+    start_time: "14:45"
+    end_time: "15:00"
+    background_color: "#FFB566"
+  - title: "joep-piscaer"
+    type: talk
+    date: 2026-05-27T00:00:00+03:00
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "Coffee/Tea break/Walk towards the open spaces"
+    type: custom
+    date: 2026-05-27T00:00:00+03:00
+    start_time: "15:45"
+    end_time: "16:00"
+  - title: "Round 1 of open spaces"
+    type: custom
+    date: 2026-05-27T00:00:00+03:00
+    start_time: "16:00"
+    end_time: "16:30"
+    background_color: "#FFB566"
+  - title: "Break"
+    type: custom
+    date: 2026-05-27T00:00:00+03:00
+    start_time: "16:30"
+    end_time: "16:45"
+  - title: "Round 2 of open spaces"
+    type: custom
+    date: 2026-05-27T00:00:00+03:00
+    start_time: "16:40"
+    end_time: "17:15"
+    background_color: "#FFB566"
+  - title: "Break"
+    type: custom
+    date: 2026-05-27T00:00:00+03:00
+    start_time: "17:15"
+    end_time: "17:45"
+  - title: "Round 3 of open spaces"
+    type: custom
+    date: 2026-05-27T00:00:00+03:00
+    start_time: "17:45"
+    end_time: "18:15"
+    background_color: "#FFB566"
+  - title: "Day 1 Raffle winners + Closing of the day"
+    type: custom
+    date: 2026-05-27T00:00:00+03:00
+    start_time: "18:15"
+    end_time: "18:30"
+  - title: "Networking"
+    type: custom
+    date: 2026-05-27T00:00:00+03:00
+    start_time: "18:30"
+    end_time: "19:00"
+  - title: "Party"
+    type: custom
+    date: 2026-05-27T00:00:00+03:00
+    start_time: "19:00"
+    end_time: "late"
+
+
+
+#  - title: "Registration, Breakfast, Sponsors"
+#    type: custom
+#    date: 2026-05-29T00:00:00+03:00
+#    start_time: "08:00"
+#    end_time: "09:00"
+#  - title: "Opening Welcome"
+#    type: custom
+#    date: 2026-05-29T00:00:00+03:00
+#    start_time: "09:00"
+#    end_time: "09:15"
+#  - title: ""
+#    type: talk
+#    date: 2026-05-29T00:00:00+03:00
+#    start_time: "09:15"
+#    end_time: "09:45"
+#  - title: "Sponsors"
+#    type: custom
+#    date: 2026-05-29T00:00:00+03:00
+#    start_time: "09:45"
+#    end_time: "09:55"
+#  - title: ""
+#    type: talk
+#    date: 2026-05-29T00:00:00+03:00
+#    start_time: "09:55"
+#    end_time: "10:25"
+#  - title: "Break"
+#    type: custom
+#    date: 2026-05-29T00:00:00+03:00
+#    start_time: "10:25"
+#    end_time: "10:40"
+#  - title: ""
+#    type: talk
+#    date: 2026-05-29T00:00:00+03:00
+#    start_time: "10:40"
+#    end_time: "11:10"
+#  - title: "Sponsors"
+#    type: custom
+#    date: 2026-05-29T00:00:00+03:00
+#    start_time: "11:10"
+#    end_time: "11:20"
+#  - title: ""
+#    type: talk
+#    date: 2026-05-29T00:00:00+03:00
+#    start_time: "11:20"
+#    end_time: "11:50"
+#  - title: "Lunch"
+#    type: custom
+#    date: 2026-05-29T00:00:00+03:00
+#    start_time: "11:50"
+#    end_time: "13:00"
+#  - title: "Ignites"
+#    type: custom
+#    date: 2026-05-29T00:00:00+03:00
+#    start_time: "13:00"
+#    end_time: "13:30"
+#  - title: "Open Space Opening"
+#    type: custom
+#    date: 2026-05-29T00:00:00+03:00
+#    start_time: "13:30"
+#    end_time: "14:00"
+#  - title: "Open Space #1"
+#    type: custom
+#    date: 2026-05-29T00:00:00+03:00
+#    start_time: "14:00"
+#    end_time: "14:45"
+#  - title: "Open Space #2"
+#    type: custom
+#    date: 2026-05-29T00:00:00+03:00
+#    start_time: "15:00"
+#    end_time: "15:45"
+#  - title: "Open Space #3"
+#    type: custom
+#    date: 2026-05-29T00:00:00+03:00
+#    start_time: "16:00"
+#    end_time: "16:45"
+#  - title: "Closing"
+#    type: custom
+#    date: 2026-05-29T00:00:00+03:00
+#    start_time: "16:45"
+#    end_time: "17:00"
