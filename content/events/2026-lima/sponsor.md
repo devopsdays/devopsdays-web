@@ -148,7 +148,7 @@ DevOpsDays es fundamentalmente un evento centrado en la comunidad. Las organizac
     <tr style="height: 45px;">
       <td style="background-color:rgb(221, 221, 221);" class="table-details">
         <div class="title">Sorteo a participantes</div>
-        <div class="subtitle">En el auditoria principal</div>
+        <div class="subtitle">En el auditorio principal</div>
       </td>
       <td class="platinium">✔</td>
       <td class="gold">✔</td>
@@ -233,10 +233,10 @@ DevOpsDays es fundamentalmente un evento centrado en la comunidad. Las organizac
 
 *** *Publicidad destacada incluye video de 2 minutos en formato entrevista*
 
--- Para información detallada sobre cada nivel de patrocinio y beneficios específicos, descargue nuestro Media Kit completo:
+<!-- Para información detallada sobre cada nivel de patrocinio y beneficios específicos, descargue nuestro Media Kit completo:
 
-- [Versión en español](https://assets.devopsdays.org/events/2026/lima/devopsdayslima-sponsors-es-2026.pdf)
-<!-- - [Versión en inglés](https://assets.devopsdays.org/events/2025/lima/DevOpsDays-EN-Lima-2025.pdf)-->
+- [Versión en español](https://assets.devopsdays.org/events/2026/lima/devopsdayslima-sponsors-es-2026.pdf)-->
+<!-- - [Versión en inglés](https://assets.devopsdays.org/events/2026/lima/devopsdayslima-sponsors-2026.pdf)-->
 
 
 #### Patrocinio Comunitario
