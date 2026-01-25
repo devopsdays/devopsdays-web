@@ -2,12 +2,14 @@
 Title = "devopsdays Ciudad Autonoma de Buenos Aires 2026"
 Type = "welcome"
 aliases = ["/events/2026-ciudad-autonoma-de-buenos-aires/"]
-Description = "devopsdays Ciudad Autonoma de Buenos Aires 2026"
+Description = "DevOpsDays Buenos Aires 2026 - La conferencia de DevOps mas importante de Argentina"
 +++
 
-<!-- <div style="text-align:center;">
+<div style="text-align:center;">
   {{< event_logo >}}
-</div> -->
+</div>
+
+<h2 style="text-align:center;">9-10 de Abril 2026 - Buenos Aires, Argentina</h2>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -18,50 +20,14 @@ Description = "devopsdays Ciudad Autonoma de Buenos Aires 2026"
   </div>
 </div>
 
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Location</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_location >}}
-  </div>
-</div> -->
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Register</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
-  </div>
-</div> -->
-
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
+    {{< event_link url-key="cfp_link" text="Submit your talk / Envia tu propuesta!" >}}
   </div>
-</div> -->
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Program</strong>
-  </div>
-  <div class = "col-md-8">
-    View the {{< event_link page="program" text="program." >}}
-  </div>
-</div> -->
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Speakers</strong>
-  </div>
-  <div class = "col-md-8">
-    Check out the {{< event_link page="speakers" text="speakers!" >}}
-  </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -81,7 +47,24 @@ Description = "devopsdays Ciudad Autonoma de Buenos Aires 2026"
   </div>
 </div>
 
-<!-- Uncomment if you added your city twitter name -->
-<!--
-{{< event_twitter >}}
--->
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Website</strong>
+  </div>
+  <div class = "col-md-8">
+    <a href="https://devopsdaysba.com" target="_blank">devopsdaysba.com</a>
+  </div>
+</div>
+
+<br><br>
+
+DevOpsDays Buenos Aires es la conferencia de DevOps mas importante de Argentina. Reunimos a profesionales de tecnologia, desarrolladores, operadores, SREs, y lideres de la industria para compartir conocimientos, experiencias y las mejores practicas en DevOps, Cloud, y cultura tecnologica.
+
+<br><br>
+
+Seguinos en nuestras redes:
+<br>
+{{< event_social_linkedin >}}
+{{< event_social_twitter >}}
+
+<br><br>
