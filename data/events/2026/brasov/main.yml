@@ -1,0 +1,131 @@
+name: "2026-brasov" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2026" # The year of the event. Make sure it is in quotes.
+city: "Brasov" # The displayed city name of the event. Capitalize it.
+#event_twitter: "devopsdays" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "devopsdays is coming to Brasov!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+event_logo: "/assets/2026-brasov/logo.png"
+sharing_image: "logo.png"
+
+# All dates are in unquoted 2026-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2026-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate:  2026-04-22T00:00:00+03:00
+enddate:  2026-04-23T00:00:00+03:00
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start:  # start accepting talk proposals.
+cfp_date_end:  # close your call for proposals.
+cfp_date_announce:  # inform proposers of status
+
+cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+# coordinates: "" # No longer used
+
+location: "Brasov" # Defaults to city, but you can make it the venue name.
+#
+location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
+
+# Optional - Social badges
+# These can be used in the body of any page via matching shortcodes. See sample:  https://devopsdays.org/events/2025-denver/welcome/
+event_social_linkedin: "https://linkedin.com/company/devopsdays" # Change this to the url to your Linkedin group, company, or page.
+event_social_slack: "https://join.slack.com/t/devopsdays/custom_shared_invite_url" # Change this to your slack invite link.
+event_social_listserv: "https://lists.devopsdays.org/subscription?custom_listserv_invite_url" # Change this to your mailing list subscription form url.
+event_social_twitter: "devopsdays" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+event_social_mastodon: "https://mastodon.social/@devopsdays" # Change this to url to your mastodon page
+event_social_bsky: "https://bsky.app/profile/devopsdays.bsky.social" # Change this to url to your bluesky page
+event_social_youtube: "devopsdays" # Change this to the youtube channel handle for your event such as devopsdaysrox
+
+
+# Social Share Buttons
+# Optional: Specify which social share buttons to display on event pages.
+# If not specified, defaults to all: ["email", "twitter", "facebook", "linkedin"]
+# Valid values: "email", "twitter", "facebook", "linkedin"
+# Example: social_shares: ["email", "linkedin"]  # Only show email and LinkedIn share buttons
+social_shares: # ["email", "twitter", "facebook", "linkedin"]
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+ # - name: propose
+ # - name: location
+ # - name: registration
+ # - name: program
+ # - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Mihai Satmarean"
+    image: "mihai.jpg"
+    employer: "Nexodus, Skylite Tek"
+    linkedin: "https://www.linkedin.com/in/mihai-cristian-satmarean-3465958/"
+    bio: "Mihai Cristian Satmarean is a seasoned technologist with over 25 years of experience within various fields of the IT industry among them: software tester, developer, embedded systems developer, sysadmin, DevOps pioneer and automation Evangelist, infrastructure management, and team leadership. Currently serving as a Fractional CTO and Senior DevOps Architect, he provides strategic technology guidance and advisory services to senior management. Recognized as an authority in Ansible, Mihai has contributed to, taught, and shaped its roadmap, fostering a culture of knowledge sharing. His expertise spans across various platforms including Linux, MacOS, Unix, and Windows, with a focus on IT security, network management, UI design, and cloud services optimization. Throughout his career, he has managed large-scale infrastructure automation, handling over 200k servers across 250 global locations. Mihai is proficient in network setup and management, user interface design, resources administration and configuration, backup procedures, disaster recovery, and project, resources, and team management. He is hands-on and up-to-date with technologies and many related DevOps techniques like CI/CD and continuous testing. Mihai is passionate about mentoring and empowering team members to achieve their full potential, contributing to both personal growth and project success. He is always open to exchanging innovative technology ideas and enabling other groups and enterprises to harness the power of automation. He also acts as a Scrum Master, co-manages the Ansible meet-ups for Munich-Germany area and acts as an Ansible Trainer and Coach."
+
+  - name: "Valentin Oprea"
+    image: "vali.jpg"
+    employer: "General Engineering & Management Solutions"
+    linkedin: "https://www.linkedin.com/in/valioprea"
+    bio: "Valentin Oprea is an experienced and versatile aerospace engineer with more than 8 years active in various critical industries, ranging from aerospace, automotive, banking and more. Having a diverse and multidisciplinary engineering experience, he was involved in delivering high-tier products using state-of-the-art technologies for OEMs such as Airbus, Boeing, BMWW, Rolls Royce and more.
+     Founder of General Engineering & Management Solutions, the mission is to leverage the absolute best industry professionals to aid businesses achieve their maximum market potential in the shortest amount of time given the technology at hand."
+
+  - name: "Ovidiu Costea"
+    image: "ovi.jpg"
+    employer: "General Engineering & Management Solutions"
+    linkedin: "https://www.linkedin.com/in/ovicostea"
+    bio: "Senior DevOps Engineer with a strong focus on scaling products and optimizing their entire lifecycle. Works as a contractor and freelancer, bringing practical experience in DevOps and infrastructure to deliver efficient, results-driven solutions. Combines software engineering skills with a no-nonsense approach to improving system reliability and performance."
+
+  - name: "Mihai Tisu"
+#    image: ""
+    employer: "Endava"
+    linkedin: "https://www.linkedin.com/in/mihai-tisu-6bb98523/"
+    bio: "Mihai has over 20 years of experience in IT and is passionate about technology and the real impact it can have on people and organizations. He is currently a DevOps Capability Lead for Romania at Endava, a role he has held for the past two years, during which he has led and delivered multiple learning and development programs, actively contributing to the growth of the DevOps capability within the organization. Mihai is strongly focused on people development, creating opportunities for technology enthusiasts to grow their skills and build meaningful careers in IT."
+
+  - name: "Patricia Barbu"
+    #    image: ""
+    employer: "Scoala informala de IT"
+    linkedin: " https://www.linkedin.com/in/patriciabarbu/"
+    bio: "Program Manager passionate about IT education and people development, with extensive experience in operational management, HR, and career counseling. For over 8 years, I have been involved in designing and coordinating educational programs that support individuals in transitioning into IT careers and upskilling. I work closely with mentors, students, and companies to build relevant learning experiences focused on tangible results and current market needs."
+
+
+organizer_email: "brasov@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: skylite-tek
+    level: gold
+  - id: general-engineering--management-solutions
+    level: gold
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: gold
+    label: Gold
+#    max: 10
+#  - id: silver
+#    label: Silver
+#    max: 0 # This is the same as omitting the max limit.
+#  - id: bronze
+#    label: Bronze
+#  - id: community
+#    label: Community
