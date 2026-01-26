@@ -92,72 +92,12 @@ organizer_email: "cairo@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-# - id: cegedim
-#   level: platinum
-# - id: archer
-#   level: platinum
-# - id: bluecloud
-#   level: platinum
  - id: itida-secc
    level: governament
- - id: atos
-   level: corporate
- - id: cegedim
-   level: corporate
- - id: dxctechnology
-   level: corporate
- - id: orange
-   level: corporate 
- - id: stakpak
-   level: corporate
- - id: vois
-   level: corporate
  - id: cairo-university25
    level: academia
- - id: auc
-   level: academia
- - id: eui
-   level: academia
- - id: archer
-   level: technology
- - id: deloitteme
-   level: technology
- - id: noventiq
-   level: technology
-# - id: huawei
-#   level: technology
-# - id: ericsson
-#   level: technology
-# - id: ejada
-#   level: technology
-# - id: fixedsolutions
-#   level: technology
-# - id: paloaltonetworks
-#   level: technology
-# - id: efinance
-#   level: technology
-# - id: foss
-#   level: community
-#   url: #
- - id: egyptinnovate25
-   level: community
- - id: tiec
-   level: community
  - id: creativa
    level: community
- - id: peoplecert
-   level: community
- #- id: auc
- #  level: community
- #- id: eui
- #  level: community
- #- id: kaferelshiekh-uni
- #  level: community
- #- id: nileuni
- #  level: community
- #- id: akhbarelyoum-academy
- #  level: community
-   
  #- id: egyptinnovate
  #  level: community
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
