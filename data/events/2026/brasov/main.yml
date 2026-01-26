@@ -96,9 +96,9 @@ team_members: # Name is the only required field for team members.
     bio: "Mihai has over 20 years of experience in IT and is passionate about technology and the real impact it can have on people and organizations. He is currently a DevOps Capability Lead for Romania at Endava, a role he has held for the past two years, during which he has led and delivered multiple learning and development programs, actively contributing to the growth of the DevOps capability within the organization. Mihai is strongly focused on people development, creating opportunities for technology enthusiasts to grow their skills and build meaningful careers in IT."
 
   - name: "Patricia Barbu"
-    #    image: ""
+    image: "patricia.jpg"
     employer: "Scoala informala de IT"
-    linkedin: " https://www.linkedin.com/in/patriciabarbu/"
+    linkedin: "https://www.linkedin.com/in/patriciabarbu/"
     bio: "Program Manager passionate about IT education and people development, with extensive experience in operational management, HR, and career counseling. For over 8 years, I have been involved in designing and coordinating educational programs that support individuals in transitioning into IT careers and upskilling. I work closely with mentors, students, and companies to build relevant learning experiences focused on tangible results and current market needs."
 
 
