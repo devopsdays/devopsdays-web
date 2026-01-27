@@ -101,6 +101,12 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/patriciabarbu/"
     bio: "Program Manager passionate about IT education and people development, with extensive experience in operational management, HR, and career counseling. For over 8 years, I have been involved in designing and coordinating educational programs that support individuals in transitioning into IT careers and upskilling. I work closely with mentors, students, and companies to build relevant learning experiences focused on tangible results and current market needs."
 
+  - name: "Ioana Albert-Tóth"
+    image: "ioana.jpg"
+    employer: "Bits and Pieces"
+    linkedin: "https://www.linkedin.com/in/ioana-albert-toth/"
+    bio: "Strategy-driven professional with over 10 years of experience in compliance, risk management, and strategic partnerships, with a strong focus on NIS2 and quality-driven initiatives. I work at the intersection of business, regulation, and technology, supporting organizations in building sustainable, future-ready practices through collaboration and a pragmatic approach."
+
 
 organizer_email: "brasov@devopsdays.org" # Put your organizer email address here
 
