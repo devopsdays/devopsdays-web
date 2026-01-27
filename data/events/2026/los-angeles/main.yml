@@ -132,6 +132,8 @@ sponsor_levels:
   - id: community
 
 sponsors:
+  - id: bloom-consulting-services
+    level: startup
   - id: crash-override
     level: gold
   - id: devitjobs
@@ -141,6 +143,8 @@ sponsors:
   - id: ibm
     level: gold
   - id: redhat
+    level: gold
+  - id: teleport
     level: gold
   - id: terracotta-ai
     level: gold
