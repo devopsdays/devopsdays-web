@@ -1,8 +1,8 @@
 +++
-Title = "devopsdays portland 2026"
+Title = "devopsdays Portland, OR 2026"
 Type = "welcome"
-aliases = ["/events/2026-portland/"]
-Description = "devopsdays portland 2026"
+aliases = ["/events/2026-portland-or/"]
+Description = "devopsdays Portland, OR 2026"
 +++
 
 <div style="text-align:center; width:500px; height=auto;">
