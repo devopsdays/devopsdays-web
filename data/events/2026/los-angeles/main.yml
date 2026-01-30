@@ -132,6 +132,8 @@ sponsor_levels:
   - id: community
 
 sponsors:
+  - id: bloom-consulting-services
+    level: startup
   - id: bellsoft
     level: gold
   - id: crash-override
@@ -145,6 +147,8 @@ sponsors:
   - id: pulumi
     level: gold
   - id: redhat
+    level: gold
+  - id: teleport
     level: gold
   - id: terracotta-ai
     level: gold
