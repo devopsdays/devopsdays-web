@@ -134,6 +134,8 @@ sponsor_levels:
 sponsors:
   - id: bloom-consulting-services
     level: startup
+  - id: bellsoft
+    level: gold
   - id: crash-override
     level: gold
   - id: devitjobs
@@ -142,13 +144,19 @@ sponsors:
     level: gold
   - id: ibm
     level: gold
+  - id: pulumi
+    level: gold
   - id: redhat
     level: gold
   - id: teleport
     level: gold
   - id: terracotta-ai
     level: gold
+  - id: thales
+    level: gold
   - id: unleash
+    level: gold
+  - id: xmatters
     level: gold
 
 program:
