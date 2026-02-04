@@ -117,6 +117,10 @@ sponsors:
     level: gold
   - id: general-engineering--management-solutions
     level: gold
+  - id: scoalainformala
+    level: gold
+  - id: bitsandpieces
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
