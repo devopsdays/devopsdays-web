@@ -48,7 +48,8 @@ event_social_youtube: "DevOpsAustin"
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
   - name: location
- # - name: registration
+  - name: registration
+    url: https://tickets.devopsdays.org/devopsdays-austin/2026/
  # - name: program
  # - name: speakers
   - name: sponsor
