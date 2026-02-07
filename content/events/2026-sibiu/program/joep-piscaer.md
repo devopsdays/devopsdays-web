@@ -1,0 +1,10 @@
++++
+Talk_date = ""
+Talk_start_time = ""
+Talk_end_time = ""
+Title = "Platform Obesity, not Complexity, is killing our platforms"
+Type = "talk"
+Speakers = ["joep-piscaer"]
++++
+
+We like to say Kubernetes platforms fail because they’re “too complex”. But complexity isn’t the problem. Platforms fail because they’re obese.  They’re bloated with an excess of features, tools, abstractions, and opinions that far exceed an organization’s operational capacity and cognitive load—especially in enterprises, regulated environments, and talent-constrained teams.  The cloud-native ecosystem doesn’t help. It hands out sweets constantly: one more controller, one more abstraction, one more “best practice.” Each addition seems harmless in isolation. Saying yes is easy. Saying no is career-limiting: since no-one wants to admit their own reality doesn't match the industry narrative. The Pluralistic Ignorance is real, yo.  The ecosystem rewards addition, not subtraction. Often, “simplification” efforts often do the opposite—layering abstractions on top of abstractions until the platform is heavier, slower, and harder to operate and change than before.  Eventually, the platform collides with reality: finite talent, finite attention, finite time. Cognitive load exceeds capacity. Operational friction grows. Engineering quality cracks. Business outcomes stall. ROI quietly evaporates.  This isn’t a tooling failure. It’s a constraint failure.  So how do you fix an obese platform? The same way you fix obesity: by creating a calorie deficit, rigorous exercise and discipline. In the platform world, that means recognizing constraints and designing for and staying within those limits, across technology, processes, organizational culture, budget, engineering skills, team cognitive load and more.  Dare to play the hard 'less is more' subtraction game, not the easy game of addition: treat dealing with constraints, subtraction, prioritization and trade-offs as first-class engineering skills—not as signs of lack of ambition.
