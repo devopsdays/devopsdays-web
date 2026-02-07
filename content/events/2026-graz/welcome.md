@@ -1,8 +1,8 @@
 +++
-Title = "devopsdays Graz 2025"
+Title = "devopsdays Graz 2026"
 Type = "welcome"
-aliases = ["/events/2025-graz/"]
-Description = "devopsdays Graz 2025"
+aliases = ["/events/2026-graz/"]
+Description = "devopsdays Graz 2026"
 +++
 
 <div class="row">
@@ -33,7 +33,7 @@ Description = "devopsdays Graz 2025"
     <strong>Program</strong>
   </div>
   <div class="col-md-8">
-    View the program on our website <a href="https://pretalx.com/devopsdays-graz-2025/schedule/">DevOpsDays Graz Schedule 2025</a>.
+    View the program on our website <a href="https://www.devopsdays.at/">DevOpsDays Graz</a>.
   </div>
 </div>
 
@@ -50,7 +50,7 @@ Description = "devopsdays Graz 2025"
     <strong>Get a ticket</strong>
   </div>
   <div class="col-md-8">
-    <a href="https://www.devopsdays.at/events/devopsdays-graz-2025">
+    <a href="https://www.devopsdays.at/events/devopsdays-graz-2026">
       DevOpsDays Graz Tickets
     </a>
   </div>
@@ -59,12 +59,14 @@ Description = "devopsdays Graz 2025"
   <div class="col-md-2">
     <strong>Propose</strong>
   </div>
-  <!-- <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
-  </div> -->
-  <div class="col-md-8">
-    Our call for speakers is already closed. 
+  <div class = "col-md-8">
+    <a href="https://pretalx.com/devopsdays-graz-2026/cfp">
+      Propose a talk or workshop!
+    </a>
   </div>
+  <!-- <div class="col-md-8">
+    Our call for speakers is already closed. 
+  </div> -->
 </div>
 <div class="row">
   <div class="col-md-2">
