@@ -7,8 +7,8 @@ Description = "Sponsor devopsdays Graz 2026"
 We greatly value sponsors for this open event. If you are interested in sponsoring, please drop us an email and we'll promptly provide you with all the necessary details. If you have any questions or need further clarification, feel free to reach out to us. We offer some flexibility in our sponsorship packages
 and are happy to tailor a solution that suits your budget and requirements.
 
-<!-- 
-<a href="mailto:sponsor@devopsdays.at?subject=Sponsorship - DevOpsDays Graz 2026">sponsor@devopsdays.at</a> -->
+
+<a href="mailto:graz@devopsdays.org?subject=Sponsorship - DevOpsDays Graz 2026">graz@devopsdays.org</a> -->
 
 <a class="btn btn-primary btn-block"  style = "width: 200px; margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://www.devopsdays.at/"  target="_blank">Check out the sponsoring section on our website!</a> 
 
