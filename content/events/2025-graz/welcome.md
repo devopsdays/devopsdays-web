@@ -33,7 +33,7 @@ Description = "devopsdays Graz 2025"
     <strong>Program</strong>
   </div>
   <div class="col-md-8">
-    View the program on our website <a href="https://www.devopsdays.at/">DevOpsDays Graz</a>.
+    View the program on our website <a href="https://pretalx.com/devopsdays-graz-2025/schedule/">DevOpsDays Graz Schedule 2025</a>.
   </div>
 </div>
 
