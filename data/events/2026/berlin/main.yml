@@ -5,8 +5,6 @@ event_twitter: "blndevops" # Change this to the twitter handle for your event su
 description: "Devopsdays is coming back to Berlin!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
-event_logo: "logo-square.png"
-# sharing_image: "2022-sharing-logo-berlin.png"
 masthead_background: "berlin-masthead.png"
 
 # All dates are in unquoted 2026-MM-DDTHH:MM:SS+TZ:TZ, like this:
