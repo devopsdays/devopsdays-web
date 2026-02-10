@@ -41,6 +41,10 @@ We will not reject submissions solely based on the fact they come from a vendor,
 
 While you can submit more than one proposal, please limit yourself. We want to hear the talk you are most passionate about.
 
+<br>
+For any questions do not hesitate to contact us  {{< email_organizers subject="Talk proposal - DevOpsDays Geneva 2026 - Questions">}}
+
+<!--
 <strong>So when ready fill the CFP <a href=' https://do1.ch/dodge26cfp' target='_blank'>Here</a></strong>
 
 <br>
@@ -58,4 +62,4 @@ For any questions do not hesitate to contact us  {{< email_organizers subject="T
         </div>
       </div>
     </div>
-</div>
+</div>-->
