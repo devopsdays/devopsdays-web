@@ -30,14 +30,14 @@ Description = "DevOpsDays Austin 2026"
             {{< event_location >}}
           </div>
         </div>
-        <!--<div class = "row">
+        <div class = "row">
           <div class = "col-md-2">
             <strong>Register</strong>
           </div>
           <div class = "col-md-8">
             <a href="https://tickets.devopsdays.org/devopsdays-austin/2026/">Register to attend the conference!</a>
           </div>
-        </div>-->
+        </div>
         <div class = "row">
           <div class = "col-md-2">
             <strong>Propose</strong>
