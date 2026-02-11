@@ -143,6 +143,8 @@ sponsors:
   #    level: gold
   - id: general-engineering--management-solutions
     level: gold
+  - id: msg-systems
+    level: bronze
   - id: kubecareers
     level: media
   - id: kubeevents
@@ -166,8 +168,8 @@ sponsor_levels:
   - id: silver
     label: Silver
 #    max: 0 # This is the same as omitting the max limit.
-#  - id: bronze
-#    label: Bronze
+  - id: bronze
+    label: Bronze
   - id: community
     label: Community
   - id: media

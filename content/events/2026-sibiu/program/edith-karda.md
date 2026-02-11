@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Edith Karda - Unmasking Traefik: Multi-Domain Routing Patterns in Kubernetes"
+Title = "Unmasking Traefik: Multi-Domain Routing Patterns in Kubernetes"
 Type = "talk"
 Speakers = ["edith-karda"]
 +++
