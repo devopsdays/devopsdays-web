@@ -2,7 +2,7 @@
 Title = "Dave Westgarth"
 Twitter = "https://x.com/dave_westgarth"
 linkedin = "www.linkedin.com/in/dave-westgarth"
-image = "Dave.jpg"
+image = "dave.jpg"
 type = "speaker"
 linktitle = "dave-westgarth"
 
