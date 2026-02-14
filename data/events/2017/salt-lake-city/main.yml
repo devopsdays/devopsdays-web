@@ -72,7 +72,7 @@ proposal_email: "proposals-saltlakecity-2017@devopsdays.org" # Put your proposal
 sponsors:
   - id: morpheus_data
     level: bluesquare
-  - id: xmatters
+  - id: xmatters-before-20260131
     level: bluesquare
   - id: deis
     level: blackdiamond

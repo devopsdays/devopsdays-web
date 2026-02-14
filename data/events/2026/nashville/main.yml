@@ -102,6 +102,12 @@ organizer_email: "nashville@devopsdays.org" # Put your organizer email address h
 sponsors:
  - id: kubeevents
    level: media
+ - id: iacconf
+   level: media
+ - id: edgedelta
+   level: silver
+ - id: memphistechscene
+   level: media
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
