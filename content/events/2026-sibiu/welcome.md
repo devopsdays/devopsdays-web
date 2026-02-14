@@ -13,6 +13,10 @@ Description = "devopsdays Sibiu 2026"
     As part of the <strong>DevOpsDays</strong> global series—a worldwide network of technical gatherings born in Ghent in 2009—our event is dedicated to promoting collaboration, innovation, and shared learning across all disciplines
   </p>
 
+  <p style="color: red; font-size: 2em; font-weight: 700; margin-top: 1rem;">
+      Please note that the Call for Papers will close on March 1st.
+  </p>
+
   <hr>
 
 <div style="text-align:center;">
