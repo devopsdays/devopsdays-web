@@ -55,7 +55,7 @@ event_social_mastodon: "https://social.devopsdays.org/@berlin" # Change this to 
 social_shares: # ["email", "twitter", "facebook", "linkedin"]
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: propose
   - name: registration
  # - name: program
   - name: location
@@ -63,9 +63,6 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: sponsor
   - name: contact
   - name: conduct
-# - name: example
-#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
-#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
 
 
 # These are the same people you have on the mailing list and Slack channel.
