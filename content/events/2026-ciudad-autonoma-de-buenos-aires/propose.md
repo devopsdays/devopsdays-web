@@ -3,7 +3,14 @@ Title = "Propose"
 Type = "event"
 Description = "Propose a talk for devopsdays Ciudad Autonoma de Buenos Aires 2026"
 +++
-  {{< cfp_dates >}}
+
+{{< cfp_dates >}}
+
+<hr>
+
+<h2>Envia tu propuesta de charla!</h2>
+
+<a href="https://devopsdaysba.com/#/cfp" target="_blank" class="btn btn-primary btn-lg">Submit a Proposal / Enviar Propuesta</a>
 
 <hr>
 
@@ -13,6 +20,16 @@ There are three ways to propose a topic at devopsdays:
   <li><strong><em>An Ignite talk</em></strong> presented during the <a href="/pages/ignite-talks-format">Ignite sessions</a> (scheduling varies). These are 5 minutes slots with slides changing every 15 seconds (20 slides total).</li>
   <li><strong><em>Open Space</em></strong>: If you'd like to lead a group discussion during the attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout sessions, it is not necessary to propose it ahead of time. Those topics are suggested in person at the conference. If you'd like to demo your product or service, you should <a href="../sponsor">sponsor the event</a> and demo it at your table.
 </ol>
+
+<hr>
+
+### Tips para tu propuesta:
+
+- **Se especifico** - Propuestas concretas tienen mas chances de ser seleccionadas
+- **Incluye takeaways** - Que van a aprender los asistentes?
+- **Cuenta tu historia** - Las experiencias reales son las mas valiosas
+- **Tiempo** - Las charlas son de 30 minutos + 5 min de preguntas
+- **Ignites** - Tambien aceptamos propuestas de Ignite Talks (5 min, 20 slides auto-avance)
 
 <hr>
 
@@ -27,9 +44,4 @@ Choosing talks is part art, part science; here are some factors we consider when
 
 <hr>
 
-<strong>How to submit a proposal:</strong> Send an email to [{{< email_organizers >}}] with the following information
-<ol>
-	<li>Type (presentation, panel discussion, ignite)</li>
-	<li>Proposal Title (can be changed later)</li>
-	<li>Description (several sentences explaining what attendees will learn)</li>
-</ol>
+Si tienes preguntas sobre tu propuesta, contactanos: {{< email_organizers >}}
