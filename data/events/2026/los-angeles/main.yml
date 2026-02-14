@@ -38,15 +38,15 @@ location_address: "300 E Green St, Pasadena, CA 91101" #Optional - use the stree
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   #- name: covid
-  #- name: venue
-  #  url: https://www.socallinuxexpo.org/scale/23x/venue
-  #- name: registration
-  #  url: https://register.socallinuxexpo.org/reg6/
+  - name: venue
+    url: https://www.socallinuxexpo.org/scale/23x/venue
+  - name: registration
+    url: https://register.socallinuxexpo.org/reg6/
   #- name: CFP
   #  url: https://www.socallinuxexpo.org/scale/23x/cfp
   - name: program
   - name: speakers
-  - name: propose
+  #- name: propose
   - name: volunteer
   - name: sponsor
   - name: contact
@@ -147,6 +147,8 @@ sponsors:
   - id: pulumi
     level: gold
   - id: redhat
+    level: gold
+  - id: sawmills
     level: gold
   - id: teleport
     level: gold
