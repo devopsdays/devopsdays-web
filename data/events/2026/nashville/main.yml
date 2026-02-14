@@ -104,6 +104,10 @@ sponsors:
    level: media
  - id: iacconf
    level: media
+ - id: edgedelta
+   level: silver
+ - id: memphistechscene
+   level: media
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
