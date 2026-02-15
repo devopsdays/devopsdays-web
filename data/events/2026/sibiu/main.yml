@@ -51,7 +51,8 @@ event_twitter: "devopsdays" # This will create a traditional "Follow" twitter bu
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
   - name: location
- # - name: registration
+  - name: tickets
+    url: "https://tickets.devopsdays.org/devopsdays-sibiu/2026/"
   - name: program
   - name: speakers
   - name: sponsor
@@ -197,11 +198,23 @@ program:
     start_time: "11:00"
     end_time: "11:45"
     background_color: "#2f7d3a"
+  - title: "nick-taylor"
+    type: talk
+    date: 2026-05-27T00:00:00+03:00
+    start_time: "11:00"
+    end_time: "11:45"
+    comments: "AI Track"
   - title: "edith-karda"
     type: talk
     date: 2026-05-27T00:00:00+03:00
     start_time: "11:45"
     end_time: "12:30"
+  - title: "riccardo-soro"
+    type: talk
+    date: 2026-05-27T00:00:00+03:00
+    start_time: "11:45"
+    end_time: "12:30"
+    comments: "AI Track"
   - title: "Lunch"
     type: custom
     date: 2026-05-27T00:00:00+03:00
@@ -229,6 +242,12 @@ program:
     date: 2026-05-27T00:00:00+03:00
     start_time: "15:00"
     end_time: "15:45"
+  - title: "paulina-dubas"
+    type: talk
+    date: 2026-05-27T00:00:00+03:00
+    start_time: "15:00"
+    end_time: "15:45"
+    comments: "AI Track"
   - title: "Coffee/Tea break/Walk towards the open spaces"
     type: custom
     date: 2026-05-27T00:00:00+03:00
@@ -278,85 +297,133 @@ program:
     start_time: "19:00"
     end_time: "late"
 
+  - title: "Opening & Registration"
+    type: custom
+    date: 2026-05-28T00:00:00+03:00
+    start_time: "10:30"
+    end_time: "10:55"
+  - title: "Kick off DevOps Days Day 2"
+    type: custom
+    date: 2026-05-28T00:00:00+03:00
+    start_time: "10:55"
+    end_time: "11:00"
+  - title: "paulina-dubas-1"
+    type: talk
+    date: 2026-05-28T00:00:00+03:00
+    start_time: "11:00"
+    end_time: "11:45"
+  - title: "raluca-mihu-1"
+    type: talk
+    date: 2026-05-28T00:00:00+03:00
+    start_time: "11:45"
+    end_time: "12:30"
+  - title: "Lunch"
+    type: custom
+    date: 2026-05-28T00:00:00+03:00
+    start_time: "12:30"
+    end_time: "13:30"
+  - title: "Energizer + Ignites"
+    type: custom
+    date: 2026-05-28T00:00:00+03:00
+    start_time: "13:30"
+    end_time: "14:00"
+    background_color: "#C6FFCC"
+  - title: "dave-westgarth"
+    type: talk
+    date: 2026-05-28T00:00:00+03:00
+    start_time: "14:00"
+    end_time: "14:45"
+  - title: "Open spaces themes elicitation"
+    type: custom
+    date: 2026-05-28T00:00:00+03:00
+    start_time: "14:45"
+    end_time: "15:00"
+    background_color: "#FFB566"
+  - title: "Coffee/Tea break"
+    type: custom
+    date: 2026-05-28T00:00:00+03:00
+    start_time: "15:00"
+    end_time: "15:15"
+
+  - title: "dr-suki-sandhu-1"
+    type: talk
+    date: 2026-05-28T00:00:00+03:00
+    start_time: "15:15"
+    end_time: "16:00"
+
+  - title: "dave-westgarth-1"
+    type: talk
+    date: 2026-05-28T00:00:00+03:00
+    start_time: "16:00"
+    end_time: "16:45"
+
+  - title: "Day 2 Raffle winners + Closing of the Conference"
+    type: custom
+    date: 2026-05-28T00:00:00+03:00
+    start_time: "16:45"
+    end_time: "16:50"
+
+  - title: "Break"
+    type: custom
+    date: 2026-05-28T00:00:00+03:00
+    start_time: "16:50"
+    end_time: "18:00"
+  - title: "Round 1 of open spaces"
+    type: custom
+    date: 2026-05-28T00:00:00+03:00
+    start_time: "17:00"
+    end_time: "17:30"
+    background_color: "#FFB566"
+  - title: "Break"
+    type: custom
+    date: 2026-05-28T00:00:00+03:00
+    start_time: "17:30"
+    end_time: "17:45"
+  - title: "Round 2 of open spaces"
+    type: custom
+    date: 2026-05-28T00:00:00+03:00
+    start_time: "17:45"
+    end_time: "18:15"
+    background_color: "#FFB566"
+  - title: "Networking"
+    type: custom
+    date: 2026-05-28T00:00:00+03:00
+    start_time: "18:15"
+    end_time: "18:45"
 
 
-#  - title: "Registration, Breakfast, Sponsors"
-#    type: custom
-#    date: 2026-05-29T00:00:00+03:00
-#    start_time: "08:00"
-#    end_time: "09:00"
-#  - title: "Opening Welcome"
-#    type: custom
-#    date: 2026-05-29T00:00:00+03:00
-#    start_time: "09:00"
-#    end_time: "09:15"
-#  - title: ""
-#    type: talk
-#    date: 2026-05-29T00:00:00+03:00
-#    start_time: "09:15"
-#    end_time: "09:45"
-#  - title: "Sponsors"
-#    type: custom
-#    date: 2026-05-29T00:00:00+03:00
-#    start_time: "09:45"
-#    end_time: "09:55"
-#  - title: ""
-#    type: talk
-#    date: 2026-05-29T00:00:00+03:00
-#    start_time: "09:55"
-#    end_time: "10:25"
-#  - title: "Break"
-#    type: custom
-#    date: 2026-05-29T00:00:00+03:00
-#    start_time: "10:25"
-#    end_time: "10:40"
-#  - title: ""
-#    type: talk
-#    date: 2026-05-29T00:00:00+03:00
-#    start_time: "10:40"
-#    end_time: "11:10"
-#  - title: "Sponsors"
-#    type: custom
-#    date: 2026-05-29T00:00:00+03:00
-#    start_time: "11:10"
-#    end_time: "11:20"
-#  - title: ""
-#    type: talk
-#    date: 2026-05-29T00:00:00+03:00
-#    start_time: "11:20"
-#    end_time: "11:50"
-#  - title: "Lunch"
-#    type: custom
-#    date: 2026-05-29T00:00:00+03:00
-#    start_time: "11:50"
-#    end_time: "13:00"
-#  - title: "Ignites"
-#    type: custom
-#    date: 2026-05-29T00:00:00+03:00
-#    start_time: "13:00"
-#    end_time: "13:30"
-#  - title: "Open Space Opening"
-#    type: custom
-#    date: 2026-05-29T00:00:00+03:00
-#    start_time: "13:30"
-#    end_time: "14:00"
-#  - title: "Open Space #1"
-#    type: custom
-#    date: 2026-05-29T00:00:00+03:00
-#    start_time: "14:00"
-#    end_time: "14:45"
-#  - title: "Open Space #2"
-#    type: custom
-#    date: 2026-05-29T00:00:00+03:00
-#    start_time: "15:00"
-#    end_time: "15:45"
-#  - title: "Open Space #3"
-#    type: custom
-#    date: 2026-05-29T00:00:00+03:00
-#    start_time: "16:00"
-#    end_time: "16:45"
-#  - title: "Closing"
-#    type: custom
-#    date: 2026-05-29T00:00:00+03:00
-#    start_time: "16:45"
-#    end_time: "17:00"
+  - title: "Kick off Workshop Day"
+    type: custom
+    date: 2026-05-29T00:00:00+03:00
+    start_time: "10:45"
+    end_time: "11:00"
+  - title: "raluca-mihu"
+    type: workshop
+    date: 2026-05-29T00:00:00+03:00
+    start_time: "11:00"
+    end_time: "12:30"
+  - title: "Lunch"
+    type: custom
+    date: 2026-05-29T00:00:00+03:00
+    start_time: "12:30"
+    end_time: "13:30"
+  - title: "adeola-adeniji"
+    type: workshop
+    date: 2026-05-29T00:00:00+03:00
+    start_time: "13:30"
+    end_time: "15:00"
+  - title: "Break"
+    type: custom
+    date: 2026-05-29T00:00:00+03:00
+    start_time: "15:00"
+    end_time: "15:30"
+  - title: "dr-suki-sandhu"
+    type: workshop
+    date: 2026-05-29T00:00:00+03:00
+    start_time: "15:30"
+    end_time: "17:00"
+  - title: "Networking"
+    type: custom
+    date: 2026-05-29T00:00:00+03:00
+    start_time: "17:00"
+    end_time: "17:30"
