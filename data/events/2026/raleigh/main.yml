@@ -119,7 +119,7 @@ sponsors:
   - id: kubeevents
     level: community
   - id: iacconf
-   level: community
+    level: community
   - id: harness
     level: gold
   - id: edgedelta
