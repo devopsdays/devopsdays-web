@@ -116,9 +116,11 @@ sponsors:
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
+  - id: kubeevents
+    level: community
   - id: harness
     level: gold
-  - id: Edge Delta
+  - id: edgedelta
     level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
