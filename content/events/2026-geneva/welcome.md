@@ -61,12 +61,6 @@ Description = "DevOpsDays Geneva 2026"
         <div class="d-flex p-2">
           <a class="btn btn-primary btn-block"
             style="margin-top: 15px; margin-bottom: 15px; background-color: #ED1C24; border-color: #ED1C24;"
-            href="/events/2026-geneva/propose">
-            <i class="fa fa-person-chalkboard fa-lg"></i>&nbsp;&nbsp;&nbsp;Propose a talk</a>
-        </div>
-        <div class="d-flex p-2">
-          <a class="btn btn-primary btn-block"
-            style="margin-top: 15px; margin-bottom: 15px; background-color: #ED1C24; border-color: #ED1C24;"
             href="/events/2026-geneva/sponsor">
             <i class="fa fa-handshake fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the conference</a>
         </div>
@@ -103,14 +97,7 @@ Description = "DevOpsDays Geneva 2026"
   </div>
 </div>
 
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Propose</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
-  </div>
-</div>
+
 
 <!-- <div class = "row">
   <div class = "col-md-2">
