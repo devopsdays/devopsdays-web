@@ -1,12 +1,12 @@
 +++
 Title = "Contact"
 Type = "event"
-Description = "Contact information for devopsdays Sao Paulo 2026"
+Description = "Informações de contato para o DevOpsDays Sao Paulo 2026"
 +++
 
-If you'd like to contact us by email: {{< email_organizers >}}
+Nosso e-mail para contato: {{< email_organizers >}}
 
-**Our local team**
+**Nossa equipe para o evento de 2026**
 
 {{< list_organizers >}}
 

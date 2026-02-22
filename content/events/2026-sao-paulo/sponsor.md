@@ -1,19 +1,34 @@
 +++
-Title = "Sponsor"
+Title = "Patrocínio"
 Type = "event"
 Description = "Sponsor devopsdays Sao Paulo 2026"
 +++
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
+<br>
+<h2><strong>Aguarde por mais informações sobre as cotas de patrocínio em breve!</stromg></h2>
+<br>
+
+Valorizamos muito os patrocinadores deste evento aberto. Se você estiver interessado em patrocinar, nos envie um e-mail: [{{< email_organizers >}}].
 
 <hr>
+<div>
+<h2>[PT-BR] Proposta de Apoio</h2>
+<p>
+Os nossos parceiros são encorajados a assumirem uma postura de participação ativa, se engajarem com os participantes e a sugerirem temas para os open spaces, sessões auto-organizadas abertas para discussões revelantes. <strong>Queremos que nossos parceiros se envolvam no evento!</strong>
+</p>
+<p>
+Entendemos que uma maior quantidade de parceirias é benéfica para o evento, proporcionando uma ótima oportunidade para "mergulhar" mais fundo no mundo DevOps, assim como fazer networking e afins, por conta disso optamos por trabalhar com cotas com valores mais acessíveis para esse evento.
+</p>
+<p>
+Visando valorizar a participação de instituições na realização do evento, foram organizados grupos de parcerias. Cada grupo proporciona uma série de vantagens aos parceiros oficiais, com os requisitos definidos e a contrapartida correspondente, conforme demonstado na tabela abaixo.
+</p>
+</div>
+<br>
+<div>
+  <p><strong>COMUNIDADE:</strong> Apoiadores que contribuiram com algum beneficio para o público ou quantia de
+  até R$ 2.000,00 terão direito à divulgação nas redes sociais e 1 inscrição para o evento.</p>
+</div>
 
-devopsdays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
-<p>
-Gold sponsors get a full table and Silver sponsors a shared table where they can interact with those interested to come visit during breaks. All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
-<p>
-The best thing to do is send engineers to interact with the experts at devopsdays on their own terms.
-<p>
 
 <!--
 <hr/>
