@@ -142,8 +142,14 @@ sponsors:
     level: media
   - id: dnsimple
     level: gold
+  - id: faun
+    level: media
+  - id: iacconf
+    level: media
   - id: ibm
     level: gold
+  - id: incidentfox-ai
+    level: startup
   - id: pulumi
     level: gold
   - id: redhat
@@ -198,6 +204,11 @@ program:
     start_time: "13:30"
     end_time: "13:45"
   - title: "arthur-freyman"
+    type: talk
+    date: 2026-03-06T00:00:00-08:00
+    start_time: "13:45"
+    end_time: "14:00"
+  - title: "engin-diri"
     type: talk
     date: 2026-03-06T00:00:00-08:00
     start_time: "14:00"
