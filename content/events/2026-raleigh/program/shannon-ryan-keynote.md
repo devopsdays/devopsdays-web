@@ -1,4 +1,11 @@
-+++ Talk_date = "" Talk_start_time = "" Talk_end_time = "" Title = "From Code to Leadership: Navigating the Tech Landscape as a Woman" Type = "talk" Speakers = ["shannon-ryan"] +++
++++ 
+Talk_date = "" 
+Talk_start_time = "" 
+Talk_end_time = "" 
+Title = "From Code to Leadership: Navigating the Tech Landscape as a Woman" 
+Type = "talk" 
+Speakers = ["shannon-ryan"] 
++++
 
 Navigating the tech landscape as a woman comes with unique challenges and opportunities. "From Code to Leadership: Navigating the Tech Landscape as a Woman" offers a comprehensive guide to career growth, leadership development, and the impact of diversity in technology. 
 This presentation provides practical advice to technologists aspiring to transition from technical roles to leadership positions, emphasizing the importance of continuous learning, mentorship, and building a personal brand.
