@@ -1,4 +1,11 @@
-+++ Title = "Seth Eliot" Twitter = "setheliot" linkedin = "https://www.linkedin.com/in/setheliot/" image = "seth-eliot.jpg" type = "speaker" linktitle = "seth-eliot" +++
++++ 
+Title = "Seth Eliot" 
+Twitter = "setheliot" 
+linkedin = "https://www.linkedin.com/in/setheliot/" 
+image = "seth-eliot.jpg" 
+type = "speaker" 
+linktitle = "seth-eliot" 
++++
 
 Seth is Principal Resilience Architect at Arpio. Previously, as the Global Reliability Lead for AWS Well-Architected, he spearheaded the development of comprehensive disaster recovery (DR) guidance for AWS customers. 
 He authored the AWS whitepaper "Disaster Recovery of Workloads on AWS: Recovery in the Cloud" [http://bit.ly/DR_AWS] as well as the AWS Architecture Blog's disaster recovery series [http://bit.ly/aws-dr-blog]. 
