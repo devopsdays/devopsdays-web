@@ -11,8 +11,8 @@ event_logo: "logo-square.png"
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2026-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: "2026-08-26T00:10:00+05:00"  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: "2026-08-27T00:18:00+05:00" # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: "2026-08-27T00:10:00+05:00"  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: "2026-08-28T00:18:00+05:00" # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  # start accepting talk proposals.
@@ -21,19 +21,21 @@ cfp_date_announce:  # inform proposers of status
 
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
+masthead_background: "lima-banner-masthead.png"
+
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://devopsdays.pe/#tickets" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
 # coordinates: "" # No longer used
 
-location: "lima" # Defaults to city, but you can make it the venue name.
+location: "Lima Convention Center - LCC" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
+location_address: "Av. de la Arqueología 206, San Borja 15021" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
 
 # Optional - Social badges
 # These can be used in the body of any page via matching shortcodes. See sample:  https://devopsdays.org/events/2025-denver/welcome/
@@ -55,8 +57,8 @@ social_shares: # ["email", "twitter", "facebook", "linkedin"]
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
- # - name: location
- # - name: registration
+  - name: location
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
@@ -76,6 +78,12 @@ team_members: # Name is the only required field for team members.
     bio: "Corporate DevSecOps Lead"
     github: "lvega-root"
     image: "lenard-vega.jpg"
+  - name: "Diana Uriol"
+    email: "dianaeu.0925@gmail.com"
+    employer: "Interbank"
+    bio: "Agile Team Facilitator"
+    linkedin: https://www.linkedin.com/in/diana-uriol-more-88a62848/
+    image: "diana-uriol.jpg"
   - name: "Danilo Briceño"
     email: "danilobe@ekiscyber.com"
     employer: "EKIS Cyber"
@@ -90,35 +98,30 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/gino-leon-0217a23b/"
     bio: "Agile Chapter Lead"
     image: "gino-leon.jpg"
-  - name: "Jhonnatan Correa Maguiña"
-    bio: "Application Cybersecurity Specialist"
-    employer: "SOAINT"
-    linkedin: "https://www.linkedin.com/in/jhonnatancorrea/"
-    image: "jhonnatan-correa.jpeg"
-    github: "https://github.com/jhoncorrea"
-  - name: "Ronald Requena"
-    email: "cronald@gmail.com"
-    employer: "Rumbo"
-    linkedin: "https://www.linkedin.com/in/rcronald"
-    image: "ronald-requena.jpg"
-    bio: "CTO"
   - name: Fredy Hernandez
     email: "Ruggeri.hernandez@gmail.com"
     employer: "Tyba"
     linkedin: "https://www.linkedin.com/in/fredy-hernandez-huaricallo/"
     image: "fredy-hernandez.jpg"
     bio: "DevOps Engineer"
+  - name: "Ronald Requena"
+    email: "cronald@gmail.com"
+    employer: "Rumbo"
+    linkedin: "https://www.linkedin.com/in/rcronald"
+    image: "ronald-requena.jpg"
+    bio: "CTO"
+  - name: "Jhonnatan Correa Maguiña"
+    bio: "Application Cybersecurity Specialist"
+    employer: "SOAINT"
+    linkedin: "https://www.linkedin.com/in/jhonnatancorrea/"
+    image: "jhonnatan-correa.jpeg"
+    github: "https://github.com/jhoncorrea"
   - name: "Stefani Sánchez"
     email: "ssancheza227@gmail.com"
     employer: "Santander Consumer Bank"
     bio: "Software Engineer"
     linkedin: "https://www.linkedin.com/in/stefani-janet-s%C3%A1nchez-asto"
     image: "stefani-sanchez.jpg"
-  - name: "Diana Uriol"
-    email: "dianaeu.0925@gmail.com"
-    employer: "Interbank"
-    bio: "Agile Team Facilitator"
-    image: "diana-uriol.jpg"
 
 organizer_email: "lima@devopsdays.org" # Put your organizer email address here
 
@@ -126,8 +129,14 @@ organizer_email: "lima@devopsdays.org" # Put your organizer email address here
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  - id: arresteddevops
-    level: community
+#Platinum Sponsors
+   - id: dynatrace
+     level: platinum
+     url: https://www.dynatrace.com/es-la/
+#Gold Sponsors
+#Silver Sponsors
+#Bronze Sponsors
+#Community Sponsors 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -136,12 +145,12 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: platinum
+    label: Platinum
   - id: gold
     label: Gold
-#    max: 10
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
   - id: community

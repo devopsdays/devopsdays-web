@@ -10,18 +10,18 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2026-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2026-09-22T08:00:00-06:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2026-09-23T17:00:00-06:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2025-09-24T01:00:00-06:00 # start accepting talk proposals.
-cfp_date_end: 2026-06-10T23:59:59-06:00
-cfp_date_announce: 2026-07-01T08:00:59-06:00
+cfp_date_end: 2026-05-15T23:59:59-06:00
+cfp_date_announce: 2026-06-15T08:00:59-06:00
 
 cfp_link: "https://talks.devopsdays.org/dodroxrox26/cfp" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start: 2025-09-24T01:00:00-06:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2026-09-23T01:00:00-06:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -30,9 +30,9 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 #
 # coordinates: "" # No longer used
 
-location: "Downtown Denver" # Defaults to city, but you can make it the venue name.
+location: "Bierstadt Lagerhaus" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
+location_address: "2875 Blake St, Denver, CO 80205" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
 
 # Optional - Social badges
 # These can be used in the body of any page via matching shortcodes. See sample:  https://devopsdays.org/events/2025-denver/welcome/
@@ -49,7 +49,7 @@ event_social_youtube: "devopsdaysrox" # Change this to the youtube channel handl
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
  # - name: location
- # - name: registration
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor

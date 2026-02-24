@@ -5,7 +5,7 @@ aliases = ["/events/2026-los-angeles/"]
 Description = "DevOpsDays Los Angeles 2026"
 +++
 <br>
-<div style="text-align: center"><a href="https://assets.devopsdays.org/events/2026/los-angeles/devopsdayla2026_sponsor.pdf" style="font-size: 42px;">➡️ Download Our Sponsor Prospectus PDF ⬅️</a></div>
+<div style="text-align: center"><a href="https://register.socallinuxexpo.org/reg6/" style="font-size: 42px;">➡️ Register and join us! ⬅️</a></div>
 <div class = "row" id = "main-row">
   <div class = "col-md-6 push-md-8" id = "left-col">
     <hr>
@@ -47,7 +47,6 @@ Description = "DevOpsDays Los Angeles 2026"
     <p><em>Part of SCaLE 23x - Co-located with the Southern California Linux Expo</em></p>
     <h4>Get Involved</h4>
     <ul>
-    <li><strong>Submit a Proposal</strong> - Share your SoCal DevOps story</li>
     <li><strong>Register to Attend</strong> - Join the conversation</li>
     <li><strong>Become a Sponsor</strong> - Support our community</li>
     <li><strong>Volunteer</strong> - Help make it happen</li>
@@ -70,15 +69,6 @@ Description = "DevOpsDays Los Angeles 2026"
   </div>
   <div class = "col-md-8">
     {{< event_start >}} - {{< event_end >}}
-  </div>
-</div>
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Propose</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
 </div>
 

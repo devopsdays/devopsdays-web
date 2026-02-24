@@ -65,7 +65,7 @@
 /kiev/*			/events/2025-kyiv/:splat		302
 /kyiv/*			/events/2025-kyiv/:splat		302
 /ljubljana/*		/events/2025-ljubljana/:splat		302
-/london/*		/events/2025-london/:splat		302
+/london/*		/events/2026-london/:splat		302
 /los-angeles/*		/events/2026-los-angeles/:splat		302
 /macapa/*		/events/2019-macapa/:splat		302
 /maceio/*		/events/2025-maceio/:splat		302
@@ -80,7 +80,7 @@
 /moscow/*		/events/2020-moscow/:splat		302
 /nairobi/*		/events/2024-nairobi/:splat		302
 /nashville/*		/events/2026-nashville/:splat		302
-/natal/*		/events/2024-natal/:splat		302
+/natal/*		/events/2026-natal/:splat		302
 /new-york-city/*	/events/2023-new-york-city/:splat	302
 /new-zealand/*		/events/2019-auckland/:splat		302
 /newcastle/*		/events/2018-newcastle/:splat		302
