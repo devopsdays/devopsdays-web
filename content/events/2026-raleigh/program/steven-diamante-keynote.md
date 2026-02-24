@@ -1,4 +1,11 @@
-+++ Talk_date = "" Talk_start_time = "" Talk_end_time = "" Title = "Your Teams Need Learning Time, Not More AI Tools" Type = "talk" Speakers = ["steven-diamante"] +++
++++ 
+Talk_date = "" 
+Talk_start_time = "" 
+Talk_end_time = ""
+Title = "Your Teams Need Learning Time, Not More AI Tools"
+Type = "talk" 
+Speakers = ["steven-diamante"] 
++++
 
 Your teams have AI coding tools. Adoption rates are high. Leadership celebrates the win.
 But velocity hasn't improved. Tech debt is exploding. You're generating tons of code, but building the wrong things faster than ever.
