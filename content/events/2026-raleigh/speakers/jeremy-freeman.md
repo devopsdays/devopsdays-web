@@ -1,4 +1,11 @@
-+++ Title = "Jeremy Freeman" Twitter = "namingwaysway" linkedin = "https://www.linkedin.com/in/darrelljfreeman/" image = "jeremy-freeman.jpg" type = "speaker" linktitle = "jeremy-freeman" +++
++++ 
+Title = "Jeremy Freeman" 
+Twitter = "namingwaysway" 
+linkedin = "https://www.linkedin.com/in/darrelljfreeman/" 
+image = "jeremy-freeman.jpg" 
+type = "speaker" 
+linktitle = "jeremy-freeman" 
++++
 
 Jeremy Freeman is the Co-Founder and CTO of Allstacks, where he leads AI-native engineering intelligence initiatives that analyze millions of commits to reveal how software development is evolving. 
 His current focus is on building AI systems that synthesize engineering data to help teams understand their development patterns and bottlenecks. By combining machine learning with software analytics, Jeremy is pioneering new ways to measure and improve developer productivity while exploring how AI is reshaping not just code generation, but team collaboration itself.
