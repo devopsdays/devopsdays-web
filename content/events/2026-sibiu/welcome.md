@@ -55,16 +55,39 @@ Description = "devopsdays Sibiu 2026"
   <hr>
 
 <h2>🌟 A Community-Driven Experience</h2>
-  <p>
-    DevOpsDays Sibiu is organized <strong>by volunteers</strong>, for practitioners—no corporate sales pitches, just pure DevOps love.
-    All proceeds go back into the community, supporting future events, scholarships, and local meetups.
-  </p>
+<p>
+  DevOpsDays Sibiu is organized <strong>by volunteers</strong>, for practitioners—no corporate sales pitches, just pure DevOps love.
+  All proceeds go back into the community, supporting future events, scholarships, and local meetups.
+</p>
 
-  <hr>
+<div align="center" style="margin-top: 3rem; margin-bottom: 3rem;">
+  <h2 style="font-size: 2.5rem; font-weight: 600; margin: 0;">
+    Do you want to be a volunteer?
+  </h2>
 
-  <p style="font-size: 1.2em; font-weight: bold; text-align: center;">
-    DevOpsDays Sibiu: where code meets collaboration, infrastructure meets innovation, and ideas meet action. We can’t wait to welcome you!
+  <p style="margin-top: 1rem; margin-bottom: 0;">
+    <a
+      href="https://docs.google.com/forms/d/e/1FAIpQLSdQkgb3ec3lN0ABZMuElaN9j8przNdc1ifR9ScsfjIBWv_Rng/viewform?usp=publish-editor"
+      target="_blank"
+      rel="noopener noreferrer"
+      style="font-size: 1.8rem; font-weight: 600; text-decoration: underline;"
+    >
+      Fill in the form
+    </a>
   </p>
+</div>
+
+<p>
+  We are proud to host a sustainable, privacy-conscious, and waste-aware event. In line with this, we will not use lanyards. Instead, each badge will feature a paper label that is both eco-friendly and includes consent information. 
+</p>
+<p>
+  Our aim is to create an experience that honours the planet, respects your privacy, and nurtures a mindful, grounded atmosphere where everyone feels welcome and inspired.
+</p>
+<hr />
+
+<p style="font-size: 1.2em; font-weight: 700; text-align: center; margin-top: 2rem;">
+  DevOpsDays Sibiu: where code meets collaboration, infrastructure meets innovation, and ideas meet action. We can’t wait to welcome you!
+</p>
 
 </div>
 

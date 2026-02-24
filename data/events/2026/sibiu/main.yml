@@ -192,24 +192,24 @@ program:
     date: 2026-05-27T00:00:00+03:00
     start_time: "10:55"
     end_time: "11:00"
-  - title: "joep-piscaer-1"
+  - title: "piscaer-joep-1"
     type: talk
     date: 2026-05-27T00:00:00+03:00
     start_time: "11:00"
     end_time: "11:45"
     background_color: "#2f7d3a"
-  - title: "nick-taylor"
+  - title: "taylor-nick"
     type: talk
     date: 2026-05-27T00:00:00+03:00
     start_time: "11:00"
     end_time: "11:45"
     comments: "AI Track"
-  - title: "edith-karda"
+  - title: "karda-edith"
     type: talk
     date: 2026-05-27T00:00:00+03:00
     start_time: "11:45"
     end_time: "12:30"
-  - title: "riccardo-soro"
+  - title: "soro-riccardo"
     type: talk
     date: 2026-05-27T00:00:00+03:00
     start_time: "11:45"
@@ -226,7 +226,7 @@ program:
     start_time: "13:30"
     end_time: "14:00"
     background_color: "#C6FFCC"
-  - title: "sutapa-sankar"
+  - title: "sankar-sutapa"
     type: talk
     date: 2026-05-27T00:00:00+03:00
     start_time: "14:00"
@@ -237,12 +237,12 @@ program:
     start_time: "14:45"
     end_time: "15:00"
     background_color: "#FFB566"
-  - title: "joep-piscaer"
+  - title: "piscaer-joep"
     type: talk
     date: 2026-05-27T00:00:00+03:00
     start_time: "15:00"
     end_time: "15:45"
-  - title: "paulina-dubas"
+  - title: "dubas-paulina"
     type: talk
     date: 2026-05-27T00:00:00+03:00
     start_time: "15:00"
@@ -307,12 +307,12 @@ program:
     date: 2026-05-28T00:00:00+03:00
     start_time: "10:55"
     end_time: "11:00"
-  - title: "paulina-dubas-1"
+  - title: "dubas-paulina-1"
     type: talk
     date: 2026-05-28T00:00:00+03:00
     start_time: "11:00"
     end_time: "11:45"
-  - title: "raluca-mihu-1"
+  - title: "mihu-raluca-1"
     type: talk
     date: 2026-05-28T00:00:00+03:00
     start_time: "11:45"
@@ -328,7 +328,7 @@ program:
     start_time: "13:30"
     end_time: "14:00"
     background_color: "#C6FFCC"
-  - title: "dave-westgarth"
+  - title: "westgarth-dave"
     type: talk
     date: 2026-05-28T00:00:00+03:00
     start_time: "14:00"
@@ -345,13 +345,13 @@ program:
     start_time: "15:00"
     end_time: "15:15"
 
-  - title: "dr-suki-sandhu-1"
+  - title: "sandhu-suki-1"
     type: talk
     date: 2026-05-28T00:00:00+03:00
     start_time: "15:15"
     end_time: "16:00"
 
-  - title: "dave-westgarth-1"
+  - title: "westgarth-dave-1"
     type: talk
     date: 2026-05-28T00:00:00+03:00
     start_time: "16:00"
@@ -385,10 +385,15 @@ program:
     start_time: "17:45"
     end_time: "18:15"
     background_color: "#FFB566"
-  - title: "Networking"
+  - title: "Day 2 Raffle winners + Closing of the Conference"
     type: custom
     date: 2026-05-28T00:00:00+03:00
     start_time: "18:15"
+    end_time: "18:30"
+  - title: "Networking"
+    type: custom
+    date: 2026-05-28T00:00:00+03:00
+    start_time: "18:30"
     end_time: "18:45"
 
 
@@ -397,7 +402,7 @@ program:
     date: 2026-05-29T00:00:00+03:00
     start_time: "10:45"
     end_time: "11:00"
-  - title: "raluca-mihu"
+  - title: "mihu-raluca"
     type: workshop
     date: 2026-05-29T00:00:00+03:00
     start_time: "11:00"
@@ -407,7 +412,7 @@ program:
     date: 2026-05-29T00:00:00+03:00
     start_time: "12:30"
     end_time: "13:30"
-  - title: "adeola-adeniji"
+  - title: "adeniji-adeola"
     type: workshop
     date: 2026-05-29T00:00:00+03:00
     start_time: "13:30"
@@ -417,7 +422,7 @@ program:
     date: 2026-05-29T00:00:00+03:00
     start_time: "15:00"
     end_time: "15:30"
-  - title: "dr-suki-sandhu"
+  - title: "sandhu-suki"
     type: workshop
     date: 2026-05-29T00:00:00+03:00
     start_time: "15:30"
