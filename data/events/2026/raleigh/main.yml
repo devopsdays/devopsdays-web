@@ -170,17 +170,17 @@ program:
   - title: "shannon-ryan-keynote"
     type: talk
     date: 2026-04-30
-    start_time: "9:15"
-    end_time: "9:45"
+    start_time: "09:15"
+    end_time: "09:45"
   - title: "Break"
     type: custom
     date: 2026-04-30
-    start_time: "9:45"
-    end_time: "9:55"
+    start_time: "09:45"
+    end_time: "09:55"
   - title: "peter-zaitsev-keynote"
     type: talk
     date: 2026-04-30
-    start_time: "9:55"
+    start_time: "09:55"
     end_time: "10:25"
   - title: "Sponsor Remarks and Open Space Topic Assignment"
     type: open-space
@@ -230,7 +230,7 @@ program:
   - title: "Open Spaces"
     type: open-space
     date: 2026-04-30
-    start_time: "13:55"
+    start_time: "14:00"
     end_time: "14:30"
   - title: "Break"
     type: custom
@@ -259,7 +259,7 @@ program:
     end_time: "16:20"
   - title: "shilpi-yadav-keynote"
     type: talk
-    date: 2024-04-10
+    date: 2026-04-30
     start_time: "16:20"
     end_time: "16:50"
   - title: "Day One Closing and Sponsor Remarks"
@@ -272,7 +272,7 @@ program:
     date: 2026-04-30
     start_time: "17:00"
     end_time: "19:00"
- - title: "Registration, Breakfast"
+  - title: "Registration, Breakfast"
     type: custom
     date: 2026-05-01
     start_time: "08:00"
@@ -300,9 +300,9 @@ program:
   - title: "Break"
     type: custom
     date: 2026-05-01
-    start_time: "9:45"
-    end_time: "9:50"
- - title: "Open Spaces"
+    start_time: "09:45"
+    end_time: "09:50"
+  - title: "Open Spaces"
     type: open-space
     date: 2026-05-01
     start_time: "09:50"
@@ -357,12 +357,11 @@ program:
     date: 2026-05-01
     start_time: "14:35"
     end_time: "15:05"
- - title: "Closing Remarks, Raffle, & Prizes"
+  - title: "Closing Remarks, Raffle, & Prizes"
     type: custom
     date: 2026-05-01
     start_time: "15:05"
     end_time: "15:20"
-
 
 ignites:
   - title: "steven-diamante-ignite"
