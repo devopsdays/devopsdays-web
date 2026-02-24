@@ -1,4 +1,11 @@
-+++ Talk_date = "" Talk_start_time = "" Talk_end_time = "" Title = "FinOps for Snowflake AI" Type = "talk" Speakers = ["velu-natarajan"] +++
++++ 
+Talk_date = "" 
+Talk_start_time = "" 
+Talk_end_time = "" 
+Title = "FinOps for Snowflake AI" 
+Type = "talk" 
+Speakers = ["velu-natarajan"] 
++++
 
 As Snowflake transforms into a full-fledged AI platform, traditional FinOps models, focused on warehouse sizing and compute credits, are no longer sufficient. The rise of Cortex AI introduces token-based economics and multi-dimensional cost drivers, demanding a new FinOps playbook. 
 The workshop guides participants through actionable deliverables for mastering FinOps in the era of Snowflake AI.
