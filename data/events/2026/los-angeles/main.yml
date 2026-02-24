@@ -132,6 +132,8 @@ sponsor_levels:
   - id: community
 
 sponsors:
+  - id: anyshift
+    level: silver
   - id: bloom-consulting-services
     level: startup
   - id: bellsoft
@@ -203,12 +205,12 @@ program:
     date: 2026-03-06T00:00:00-08:00
     start_time: "13:30"
     end_time: "13:45"
-  - title: "arthur-freyman"
+  - title: "engin-diri"
     type: talk
     date: 2026-03-06T00:00:00-08:00
     start_time: "13:45"
     end_time: "14:00"
-  - title: "engin-diri"
+  - title: "arthur-freyman"
     type: talk
     date: 2026-03-06T00:00:00-08:00
     start_time: "14:00"
