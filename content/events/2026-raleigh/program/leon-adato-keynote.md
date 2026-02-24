@@ -1,4 +1,11 @@
-+++ Talk_date = "" Talk_start_time = "" Talk_end_time = "" Title = "Alerts Don't Suck. YOUR Alerts Suck!" Type = "talk" Speakers = ["leon-adato"] +++
++++ 
+Talk_date = "" 
+Talk_start_time = "" 
+Talk_end_time = "" 
+Title = "Alerts Don't Suck. YOUR Alerts Suck!" 
+Type = "talk" 
+Speakers = ["leon-adato"] 
++++
 
 The SRE handbook defines alerts as "*A notification intended to be read by a human and that is pushed to a system such as a bug or ticket queue, an email alias, or a pager. Respectively, these alerts are classified as tickets, email alerts, and pages.*" and I just want to scream.
 Not because the definition is wrong, but because it's not enough.First, that definition causes devs to (reasonably) think "Why bother?" After all, who wants an unscheduled interruption with no intrinsic value? 
