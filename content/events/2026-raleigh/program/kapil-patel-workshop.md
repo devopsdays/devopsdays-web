@@ -1,4 +1,11 @@
-+++ Talk_date = "" Talk_start_time = "" Talk_end_time = "" Title = "Burnout to Brilliance for DevOps Teams: The G.P.S. for Happiness at Work™ Playbook" Type = "talk" Speakers = ["kapil-patel"] +++
++++ 
+Talk_date = "" 
+Talk_start_time = "" 
+Talk_end_time = "" 
+Title = "Burnout to Brilliance for DevOps Teams: The G.P.S. for Happiness at Work™ Playbook" 
+Type = "talk" 
+Speakers = ["kapil-patel"] 
++++
 
 High-pressure delivery cycles, on-call fatigue, and constant context switching quietly erode the very capacity teams need to ship reliably. This session gives engineering leaders and ICs a practical playbook to reduce burnout and raise engagement—without big budgets or headcount.
 Kapil shares his G.P.S. for Happiness™ framework—Gratitude, Purpose, and Small Acts (Smile)—translated for DevOps realities: incident reviews, stand-ups, retros, and handoffs. The focus is not “feel-good” theory; it’s micro-habits that improve collaboration, psychological safety, and execution under stress.
