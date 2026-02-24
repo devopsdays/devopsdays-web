@@ -1,4 +1,11 @@
-+++ Talk_date = "" Talk_start_time = "" Talk_end_time = "" Title = "The Fundamentals of Strategy" Type = "talk" Speakers = ["joel-tosi"] +++
++++ 
+Talk_date = "" 
+Talk_start_time = "" 
+Talk_end_time = "" 
+Title = "The Fundamentals of Strategy" 
+Type = "talk" 
+Speakers = ["joel-tosi"] 
++++
 
 Strategy requires choice. No choice? No strategy.
 
