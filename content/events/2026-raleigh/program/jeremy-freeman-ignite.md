@@ -1,4 +1,11 @@
-+++ Talk_date = "" Talk_start_time = "" Talk_end_time = "" Title = "We're building the next high level coding language without realizing it." Type = "talk" Speakers = ["jeremy-freeman"] +++
++++ 
+Talk_date = "" 
+Talk_start_time = "" 
+Talk_end_time = "" 
+Title = "We're building the next high level coding language without realizing it." 
+Type = "talk" 
+Speakers = ["jeremy-freeman"] 
++++
 
 When we analyzed 15 million commits across thousands of repositories at Allstacks, we discovered AI isn't just changing how fast we code—it's fundamentally reshaping how developers communicate through code. This talk reveals three counterintuitive patterns that emerged from our data. 
 First, AI-assisted commits contain 340% more emoji than human-only commits, breaking decades of "professional" coding conventions. While developers initially resist, teams using AI-generated messages with emoji report 45% faster code review comprehension—turns out. 
