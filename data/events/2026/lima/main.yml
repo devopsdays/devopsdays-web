@@ -39,15 +39,8 @@ location_address: "Av. de la Arqueología 206, San Borja 15021" #Optional - use 
 
 # Optional - Social badges
 # These can be used in the body of any page via matching shortcodes. See sample:  https://devopsdays.org/events/2025-denver/welcome/
-event_social_linkedin: "https://linkedin.com/company/devopsdays" # Change this to the url to your Linkedin group, company, or page.
-event_social_slack: "https://join.slack.com/t/devopsdays/custom_shared_invite_url" # Change this to your slack invite link.
-event_social_listserv: "https://lists.devopsdays.org/subscription?custom_listserv_invite_url" # Change this to your mailing list subscription form url.
-event_social_twitter: "devopsdays" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-event_social_mastodon: "https://mastodon.social/@devopsdays" # Change this to url to your mastodon page
-event_social_bsky: "https://bsky.app/profile/devopsdays.bsky.social" # Change this to url to your bluesky page
-event_social_youtube: "devopsdays" # Change this to the youtube channel handle for your event such as devopsdaysrox
-
-
+event_social_linkedin: "https://www.linkedin.com/company/devops-days-lima" # Change this to the url to your Linkedin group, company, or page.
+event_social_youtube: "DevOpsDaysLima" # Change this to the youtube channel handle for your event such as devopsdaysrox
 # Social Share Buttons
 # Optional: Specify which social share buttons to display on event pages.
 # If not specified, defaults to all: ["email", "twitter", "facebook", "linkedin"]
@@ -57,6 +50,8 @@ social_shares: # ["email", "twitter", "facebook", "linkedin"]
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
+  - name: devopsdays.pe
+    url: https://devopsdays.pe/
   - name: location
   - name: registration
  # - name: program
