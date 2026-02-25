@@ -10,7 +10,7 @@ Description = "Bienvenidos a la segunda edicion DevOpsDays Santiago de Chile"
     <img alt="DevOpsDays Santiago de Chile 2026" src="/events/2026-santiago/logo.png" class="img-fluid" style="max-width: 100%; border-radius: 8px;">
   </div>
   <div class="col-md-7" style="padding: 10px 20px;">
-    <h2 style="color: #0066cc; font-weight: bold; font-size: 1.8em; margin-bottom: 15px;">DevOpsDays llega a Santiago de Chile el 05 de septiembre del 2026</h2>
+    <h2 style="color: #0066cc; font-weight: bold; font-size: 1.8em; margin-bottom: 15px;">Vuelve DevOpsDays a Santiago de Chile este 08 y 09 de septiembre del 2026</h2>
   <p style="font-size: 1.1em; color: #333;">
     Este 8 y 9 de Septiembre del 2026 sera nuestra segunda edición en Chile<br>
     Pronto publicaremos la agenda y otros detalles de este increíble evento.<br>
