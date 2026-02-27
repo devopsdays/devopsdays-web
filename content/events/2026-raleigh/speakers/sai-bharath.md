@@ -1,7 +1,7 @@
 +++ 
 Title = "Sai Bharath" 
 linkedin = "https://www.linkedin.com/in/sai-bharath-devsecops/" 
-image = "sai-bharatht.jpg" 
+image = "sai-bharath.jpg" 
 type = "speaker" 
 linktitle = "sai-bharath" 
 +++
