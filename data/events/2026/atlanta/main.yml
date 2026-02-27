@@ -90,6 +90,18 @@ team_members: # Name is the only required field for team members.
     github: "ghoneycutt"
     linkedin: "https://www.linkedin.com/in/garretthoneycutt"
     image: "garrett-honeycutt.jpg"
+  
+  - name: "Elizabeth Jamison"
+    linkedin: "https://www.linkedin.com/in/ejamison3/"
+    image: "elizabeth-jamison.jpg"
+
+  - name: "Terry Odom"
+    linkedin: "https://www.linkedin.com/in/terryodom/"
+    image: "terry-odom.jpg"
+  
+  - name: "Peter Sahlstrom"
+    linkedin: "https://www.linkedin.com/in/stormlash/"
+    image: "peter-sahlstrom.jpg"
 
 organizer_email: "atlanta@devopsdays.org" # Put your organizer email address here
 
