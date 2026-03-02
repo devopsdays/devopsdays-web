@@ -164,7 +164,7 @@ Description = "Sponsor devopsdays lima 2026"
     <tr style="height: 45px;"> <!-- Altura fija para las filas del cuerpo -->
       <td style="background-color: #c8c8c8;" class="table-details">
         <div class="title">Regular price</div>
-        <div class="subtitle">Tax not included</div>
+        <div class="subtitle">USD - Tax not included</div>
       </td>
       <td class="platinium">$10,000</td>
       <td class="gold">$7,000</td>
@@ -174,7 +174,7 @@ Description = "Sponsor devopsdays lima 2026"
     <tr style="height: 45px;">
       <td style="background-color:#c8c8c8;" class="table-details">
         <div class="title">Discounted price (20%)</div>
-        <div class="subtitle">Until MAR 30th 2026 - Tax not included</div>
+        <div class="subtitle">Until MAR 30th 2026 - USD - Tax not included</div>
         </td>
       <td class="platinium">$8,000</td>
       <td class="gold">$5,600</td>
