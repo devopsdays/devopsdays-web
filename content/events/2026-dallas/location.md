@@ -4,11 +4,11 @@ Type = "event"
 Description = "Location for devopsdays dallas 2026"
 +++
 
-Here we will provide you with information about the venue including address, map/direction, parking/transit, and any hotel details in this vicinity.
+<!-- Here we will provide you with information about the venue including address, map/direction, parking/transit, and any hotel details in this vicinity.
 <div style="float:left;">
   <img alt="DevOpsDays Dallas 2025" src="/events/2025-dallas/planoeventcenter.jpg" style="max-width: 60%;">
 </div><br><br>
-<br><br>
+<br><br> -->
 
 ### <b>Conference location:</b> 
 ### Southwest Airlines Wings Building<br>
@@ -20,7 +20,7 @@ Here we will provide you with information about the venue including address, map
 <!-- {{< event_map >}} -->
 
 <br>
-If you are traveling to attend this event, the Plano Event Center is approximately a 45-minute drive from the DFW Airport via President George Bush Turnpike (East). Here is a list of hotels and their distance from the hotel to the vicinity of the Plano Event Center for your convenience: More information about hotels in this area, <a href="https://www.hotelplanner.com/zip/Plano-TX-hotels-in-75074#dir-bar"><strong>click here</strong></a>. 
+If you are traveling to attend this event, the Southwest Airlines Wings Building is located at Dallas Love Field.  It is approximately 25 minutes from DFW Airport via Hwy 114. 
 <br>
 <br>
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
