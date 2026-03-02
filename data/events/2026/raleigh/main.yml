@@ -49,8 +49,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: propose
   - name: location
   - name: registration
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -145,3 +145,232 @@ sponsor_levels:
     label: "Happy Hour"
   - id: breakfast
     label: "breakfast"
+
+program:
+  - title: "Registration, Breakfast"
+    type: custom
+    date: 2026-04-30
+    start_time: "08:00"
+    end_time: "08:30"
+  - title: "Opening Remarks"
+    type: custom
+    date: 2026-04-30
+    start_time: "08:30"
+    end_time: "08:40"
+  - title: "chris-short-keynote"
+    type: talk
+    date: 2026-04-30
+    start_time: "08:40"
+    end_time: "09:10"
+  - title: "Sponsor Remarks"
+    type: custom
+    date: 2026-04-30
+    start_time: "09:10"
+    end_time: "09:15"
+  - title: "shannon-ryan-keynote"
+    type: talk
+    date: 2026-04-30
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Break"
+    type: custom
+    date: 2026-04-30
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: "peter-zaitsev-keynote"
+    type: talk
+    date: 2026-04-30
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Sponsor Remarks and Open Space Topic Assignment"
+    type: open-space
+    date: 2026-04-30
+    start_time: "10:25"
+    end_time: "10:30"
+  - title: "Open Spaces"
+    type: open-space
+    date: 2026-04-30
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "Break"
+    type: custom
+    date: 2026-04-30
+    start_time: "11:00"
+    end_time: "11:10"
+  - title: "leon-adato-keynote"
+    type: talk
+    date: 2026-04-30
+    start_time: "11:10"
+    end_time: "11:40"
+  - title: "joel-tosi-keynote"
+    type: talk
+    date: 2026-04-30
+    start_time: "11:40"
+    end_time: "12:10"
+  - title: "Lunch"
+    type: custom
+    date: 2026-04-30
+    start_time: "12:10"
+    end_time: "13:10"
+  - title: "Welcome back Ignite Explanation + Karaoke"
+    type: custom
+    date: 2026-04-30
+    start_time: "13:10"
+    end_time: "13:15"
+  - title: "Ignites"
+    type: ignite
+    date: 2026-04-30
+    start_time: "13:15"
+    end_time: "13:40"
+  - title: "Ignite Karaoke"
+    type: custom
+    date: 2026-04-30
+    start_time: "13:40"
+    end_time: "14:00"
+  - title: "Open Spaces"
+    type: open-space
+    date: 2026-04-30
+    start_time: "14:00"
+    end_time: "14:30"
+  - title: "Break"
+    type: custom
+    date: 2026-04-30
+    start_time: "14:30"
+    end_time: "14:40"
+  - title: "jeanne-mcclure-workshop"
+    type: workshop
+    date: 2026-04-30
+    start_time: "14:40"
+    end_time: "16:10"
+  - title: "catherine-louis-workshop"
+    type: workshop
+    date: 2026-04-30
+    start_time: "14:40"
+    end_time: "16:10"
+  - title: "suresh-palus-workshop"
+    type: workshop
+    date: 2026-04-30
+    start_time: "14:40"
+    end_time: "16:10"
+  - title: "Break"
+    type: custom
+    date: 2026-04-30
+    start_time: "16:10"
+    end_time: "16:20"
+  - title: "shilpi-yadav-keynote"
+    type: talk
+    date: 2026-04-30
+    start_time: "16:20"
+    end_time: "16:50"
+  - title: "Day One Closing and Sponsor Remarks"
+    type: custom
+    date: 2026-04-30
+    start_time: "16:50"
+    end_time: "17:00"
+  - title: "Happy Hour"
+    type: custom
+    date: 2026-04-30
+    start_time: "17:00"
+    end_time: "19:00"
+  - title: "Registration, Breakfast"
+    type: custom
+    date: 2026-05-01
+    start_time: "08:00"
+    end_time: "08:30"
+  - title: "Opening Remarks"
+    type: custom
+    date: 2026-05-01
+    start_time: "08:30"
+    end_time: "08:40"
+  - title: "dan-mckinley-keynote"
+    type: talk
+    date: 2026-05-01
+    start_time: "08:40"
+    end_time: "09:10"
+  - title: "Sponsor Remarks"
+    type: custom
+    date: 2026-05-01
+    start_time: "09:10"
+    end_time: "09:15"
+  - title: "steven-diamante-keynote"
+    type: talk
+    date: 2026-05-01
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Break"
+    type: custom
+    date: 2026-05-01
+    start_time: "09:45"
+    end_time: "09:50"
+  - title: "Open Spaces"
+    type: open-space
+    date: 2026-05-01
+    start_time: "09:50"
+    end_time: "10:20"
+  - title: "ashley-arya-workshop"
+    type: workshop
+    date: 2026-05-01
+    start_time: "10:20"
+    end_time: "11:50"
+  - title: "velu-natarajan-workshop"
+    type: workshop
+    date: 2026-05-01
+    start_time: "10:20"
+    end_time: "11:50"
+  - title: "kapil-patel-workshop"
+    type: workshop
+    date: 2026-05-01
+    start_time: "10:20"
+    end_time: "11:50"
+  - title: "Lunch"
+    type: custom
+    date: 2026-05-01
+    start_time: "11:50"
+    end_time: "12:50"
+  - title: "Welcome back Ignite Explanation + Karaoke"
+    type: custom
+    date: 2026-05-01
+    start_time: "12:50"
+    end_time: "12:55"
+  - title: "mark-koelsch-keynote"
+    type: talk
+    date: 2026-05-01
+    start_time: "12:55"
+    end_time: "13:25"
+  - title: "Open Spaces"
+    type: open-space
+    date: 2026-05-01
+    start_time: "13:25"
+    end_time: "13:55"
+  - title: "Break"
+    type: custom
+    date: 2026-05-01
+    start_time: "13:55"
+    end_time: "14:05"
+  - title: "seth-eliot-keynote"
+    type: talk
+    date: 2026-05-01
+    start_time: "14:05"
+    end_time: "14:35"
+  - title: "jeremy-meiss-keynote"
+    type: talk
+    date: 2026-05-01
+    start_time: "14:35"
+    end_time: "15:05"
+  - title: "Closing Remarks, Raffle, & Prizes"
+    type: custom
+    date: 2026-05-01
+    start_time: "15:05"
+    end_time: "15:20"
+
+ignites:
+  - title: "steven-diamante-ignite"
+    date: 2026-04-30
+  - title: "chakra-kota-ignite"
+    date: 2026-04-30
+  - title: "jeremy-freeman-ignite"
+    date: 2026-04-30
+  - title: "sai-bharath-ignite"
+    date: 2026-04-30
+  - title: "dewan-ahmed-ignite"
+    date: 2026-04-30
