@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = "" 
 Title = "Upskill or Outsource? Practical Talent Strategies for an AI Future" 
 Type = "talk" 
-Speakers = ["mark-koelsh"] 
+Speakers = ["mark-koelsch"] 
 +++
 
 The scramble for AI talent is real — and expensive. This talk helps people ops and engineering leaders make clear, practical choices about growing AI capability: when to train your existing DevOps teams, when to hire, and how to combine both without draining morale or money.
