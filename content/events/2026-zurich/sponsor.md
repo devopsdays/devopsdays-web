@@ -155,7 +155,7 @@ Sponsors are encouraged to represent themselves by actively participating and en
       <td bgcolor="#85cdad"><center>SOLD OUT</center></td>
       <td bgcolor="#8bc2d6"><center>SOLD OUT</center></td>
       <td bgcolor="#8bc2d6"><center>1</center></td>
-      <td bgcolor="#8bc2d6"><center>1</center></td>
+      <td bgcolor="#8bc2d6"><center>SOLD OUT</center></td>
     </tr>
     <tr>
       <th><b>Price (CHF excl. 8.1% VAT)</b></th>
