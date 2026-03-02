@@ -146,6 +146,8 @@ sponsors:
     level: gold
   - id: msg-systems
     level: bronze
+  - id: pomerium
+    level: bronze
   - id: kubecareers
     level: media
   - id: kubeevents

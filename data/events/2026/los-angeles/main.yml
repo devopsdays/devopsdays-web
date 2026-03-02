@@ -185,7 +185,7 @@ program:
     date: 2026-03-06T00:00:00-08:00
     start_time: "10:00"
     end_time: "10:45"
-  - title: "dustin-kirkland"
+  - title: "arthur-freyman"
     type: talk
     date: 2026-03-06T00:00:00-08:00
     start_time: "11:00"
@@ -210,7 +210,7 @@ program:
     date: 2026-03-06T00:00:00-08:00
     start_time: "13:45"
     end_time: "14:00"
-  - title: "arthur-freyman"
+  - title: "dustin-kirkland"
     type: talk
     date: 2026-03-06T00:00:00-08:00
     start_time: "14:00"
