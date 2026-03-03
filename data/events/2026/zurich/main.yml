@@ -50,8 +50,8 @@ event_social_youtube: "DevOpsDaysZurich" # Change this to the youtube channel ha
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location
   - name: registration
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -218,3 +218,260 @@ sponsor_levels:
 - id: partner
   label: Partner
   max: 0
+program:
+# Day 1
+- title: Registration Day 1
+  type: custom
+  date: 2026-05-06
+  start_time: '8:00'
+  end_time: '9:00'
+
+- title: Opening Day1
+  type: custom
+  date: 2026-05-06
+  start_time: '9:00'
+  end_time: '9:15'
+
+- title: bertrand-delacretaz
+  type: talk
+  date: 2026-05-06
+  start_time: '9:15'
+  end_time: '10:00'
+
+- title: maria-hendrike-peetz
+  type: talk
+  date: 2026-05-06
+  start_time: '10:00'
+  end_time: '10:30'
+
+- title: Coffee Break Day 1
+  type: custom
+  date: 2026-05-06
+  start_time: '10:30'
+  end_time: '11:00'
+
+- title: olga-kristjansdottir
+  type: talk
+  date: 2026-05-06
+  start_time: '11:00'
+  end_time: '11:30'
+
+- title: camille-nigon
+  type: talk
+  date: 2026-05-06
+  start_time: '11:30'
+  end_time: '12:00'
+
+- title: mohammad-ali-arabi
+  type: talk
+  date: 2026-05-06
+  start_time: '12:00'
+  end_time: '12:30'
+
+- title: Lunch Day 1
+  type: custom
+  date: 2026-05-06
+  start_time: '12:30'
+  end_time: '14:00'
+
+- title: Opening afternoon & Sponsor's speeches
+  type: custom
+  date: 2026-05-06
+  start_time: '14:00'
+  end_time: '14:10'
+
+- title: Ignites
+  type: ignite
+  date: 2026-05-06
+  start_time: '14:10'
+  end_time: '14:45'
+
+- title: Open Space Voting Day 1
+  type: custom
+  date: 2026-05-06
+  start_time: '14:45'
+  end_time: '15:15'
+
+- title: Open Space Track 1
+  type: open-space
+  date: 2026-05-06
+  start_time: '15:15'
+  end_time: '15:55'
+
+- title: Open Space Track 2
+  type: open-space
+  date: 2026-05-06
+  start_time: '16:00'
+  end_time: '16:40'
+
+- title: Open Space Track 3
+  type: open-space
+  date: 2026-05-06
+  start_time: '16:45'
+  end_time: '17:25'
+
+- title: oliver-zihler
+  type: workshop
+  date: 2026-05-06
+  start_time: '15:15'
+  end_time: '17:25'
+
+- title: cristian-schuszter
+  type: workshop
+  date: 2026-05-06
+  start_time: '15:15'
+  end_time: '17:25'
+
+- title: Closing the day 1
+  type: custom
+  date: 2026-05-06
+  start_time: '17:30'
+  end_time: '17:40'
+
+- title: Evening Event
+  type: custom
+  date: 2026-05-06
+  start_time: '17:40'
+  end_time: '19:40'
+
+# Day 2
+- title: Registration Day 2
+  type: custom
+  date: 2026-05-07
+  start_time: '8:00'
+  end_time: '9:00'
+
+- title: Opening Day 2
+  type: custom
+  date: 2026-05-07
+  start_time: '9:00'
+  end_time: '9:15'
+
+- title: limor-bergman-gross
+  type: talk
+  date: 2026-05-07
+  start_time: '9:15'
+  end_time: '10:00'
+
+- title: egor-savochkin
+  type: talk
+  date: 2026-05-07
+  start_time: '10:00'
+  end_time: '10:30'
+
+- title: Coffee break Day 2
+  type: custom
+  date: 2026-05-07
+  start_time: '10:30'
+  end_time: '11:00'
+
+- title: melchior-thambipillai
+  type: talk
+  date: 2026-05-07
+  start_time: '11:00'
+  end_time: '11:30'
+
+- title: gang-luo
+  type: talk
+  date: 2026-05-07
+  start_time: '11:30'
+  end_time: '12:00'
+
+- title: Lunch Day 2
+  type: custom
+  date: 2026-05-07
+  start_time: '12:30'
+  end_time: '14:00'
+
+- title: Opening Afternoon and Sponsor Pitches
+  type: custom
+  date: 2026-05-07
+  start_time: '14:00'
+  end_time: '14:10'
+
+- title: Ignites
+  type: ignite
+  date: 2026-05-07
+  start_time: '14:10'
+  end_time: '14:50'
+
+- title: Open Space Voting Day 2
+  type: custom
+  date: 2026-05-07
+  start_time: '14:50'
+  end_time: '15:15'
+
+- title: Open Space Track 1
+  type: open-space
+  date: 2026-05-07
+  start_time: '15:15'
+  end_time: '15:55'
+
+- title: Open Space Track 2
+  type: open-space
+  date: 2026-05-07
+  start_time: '16:00'
+  end_time: '16:40'
+
+- title: Open Space Track 3
+  type: open-space
+  date: 2026-05-07
+  start_time: '16:45'
+  end_time: '17:25'
+
+- title: marc-herren
+  type: workshop
+  date: 2026-05-07
+  start_time: '15:15'
+  end_time: '17:25'
+
+- title: betta-lyon-delsordo
+  type: workshop
+  date: 2026-05-07
+  start_time: '15:15'
+  end_time: '17:25'
+
+- title: luc-juggery
+  type: workshop
+  date: 2026-05-07
+  start_time: '15:15'
+  end_time: '17:25'
+
+- title: Closing Day 2
+  type: custom
+  date: 2026-05-07
+  start_time: '17:30'
+  end_time: '17:45'
+
+ignites:
+- title: "michele-brambilla"
+  date: 2026-05-06
+- title: "vera-herzmann"
+  date: 2026-05-06
+- title: "denniz-donmez"
+  date: 2026-05-06
+- title: "eszter-torda"
+  date: 2026-05-06
+- title: "bastian-spanneberg"
+  date: 2026-05-06
+- title: "antonio-alvino"
+  date: 2026-05-06
+- title: "simon-falsig"
+  date: 2026-05-06
+- title: "iris-hunkeler"
+  date: 2026-05-07
+- title: "peter-zylka-greger"
+  date: 2026-05-07
+- title: "marcelo-ancelmo"
+  date: 2026-05-07
+- title: "pallavi-agrawal"
+  date: 2026-05-07
+- title: "martin-fischer"
+  date: 2026-05-07
+- title: "lena-fuhrimann"
+  date: 2026-05-07
+- title: "sandro-meier"
+  date: 2026-05-07
+- title: "timo-bohm"
+  date: 2026-05-07
+
