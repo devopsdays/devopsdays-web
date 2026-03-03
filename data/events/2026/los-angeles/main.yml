@@ -144,6 +144,8 @@ sponsors:
     level: media
   - id: dnsimple
     level: gold
+  - id: edgedelta
+    level: gold
   - id: faun
     level: media
   - id: iacconf
