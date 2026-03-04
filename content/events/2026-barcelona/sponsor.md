@@ -8,7 +8,7 @@ We greatly value sponsors for this open event.  If you are interested in sponsor
 
 <table border=1 cellspacing=1>
   <tr>
-    <td><h1>We greatly value sponsors for this community event. If you are interested in sponsoring, please click here to <a href="https://drive.google.com/file/d/1tREYUFp7R393y3qkyHBhXjqRv-8i3rj9/view?usp=sharing" target="_blank"><strong>download the prospectus PDF</strong></a>. After reviewing the available packages, please submit your sponsorship request using <a href="https://docs.google.com/forms/d/e/1FAIpQLSfIDK0KR7wqN4sJgIVVozTjT8Vf-E5GJSVeZdL9rTDBTsmhzw/viewform"><strong>our form</strong></a>.</h1></td>
+    <td>We greatly value sponsors for this community event. If you are interested in sponsoring, please click here to <a href="https://drive.google.com/file/d/1tREYUFp7R393y3qkyHBhXjqRv-8i3rj9/view?usp=sharing" target="_blank"><strong>download the prospectus PDF</strong></a>. After reviewing the available packages, please submit your sponsorship request using <a href="https://docs.google.com/forms/d/e/1FAIpQLSfIDK0KR7wqN4sJgIVVozTjT8Vf-E5GJSVeZdL9rTDBTsmhzw/viewform"><strong>our form</strong></a>.</td>
   </tr>
 </table>
 
