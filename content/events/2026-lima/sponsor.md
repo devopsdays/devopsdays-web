@@ -52,7 +52,7 @@ Description = "Sponsor devopsdays lima 2026"
 <p><strong>Boost your brand at Peru’s leading DevOps event</strong>. DevOpsDays Lima is a conference organized by volunteers dedicated to the DevOps community. The success of this event depends greatly on the support of organizations committed to technological innovation.</p>
 
 <p><strong>Why sponsor DevOpsDays Lima?</strong> By becoming a sponsor, your organization will:<br>
-&check; Gain strategic visibility among more than 450 technology professionals, including DevOps engineers, cloud specialists, developers, IT leaders, and decision-makers.<br>
+&check; Gain strategic visibility among more than +800 technology professionals, including DevOps engineers, cloud specialists, developers, IT leaders, and decision-makers.<br>
 &check; Receive prominent recognition on our website and social media channels before, during, and after the event.<br>
 &check; Have the opportunity to deliver short presentations during the official program (depending on the sponsorship level).<br>
 &check; Build valuable connections with a growing community in the Peruvian tech market.</p>
@@ -164,7 +164,7 @@ Description = "Sponsor devopsdays lima 2026"
     <tr style="height: 45px;"> <!-- Altura fija para las filas del cuerpo -->
       <td style="background-color: #c8c8c8;" class="table-details">
         <div class="title">Regular price</div>
-        <div class="subtitle">Tax not included</div>
+        <div class="subtitle">USD - Tax not included</div>
       </td>
       <td class="platinium">$10,000</td>
       <td class="gold">$7,000</td>
@@ -174,7 +174,7 @@ Description = "Sponsor devopsdays lima 2026"
     <tr style="height: 45px;">
       <td style="background-color:#c8c8c8;" class="table-details">
         <div class="title">Discounted price (20%)</div>
-        <div class="subtitle">Until MAR 30th 2026 - Tax not included</div>
+        <div class="subtitle">Until MAR 30th 2026 - USD - Tax not included</div>
         </td>
       <td class="platinium">$8,000</td>
       <td class="gold">$5,600</td>
