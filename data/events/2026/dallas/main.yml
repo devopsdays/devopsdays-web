@@ -10,8 +10,8 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2026-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: 2026-09-29T00:00:00-05:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2026-09-30T00:00:00-05:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2026-09-28T00:00:00-05:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2026-09-29T00:00:00-05:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  # start accepting talk proposals.
@@ -32,8 +32,8 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 #
 # coordinates: "" # No longer used
 
-location: "Plano Event Center" # Defaults to city, but you can make it the venue name.
-location_address: "2000 East Spring Creek Parkway, Plano, TX 75074" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
+location: "Southwest Airlines Wings Building" # Defaults to city, but you can make it the venue name.
+location_address: "2195 Research Row, Dallas, TX 75235" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
 
 # Optional - Social badges
 # These can be used in the body of any page via matching shortcodes. See sample:  https://devopsdays.org/events/2025-denver/welcome/

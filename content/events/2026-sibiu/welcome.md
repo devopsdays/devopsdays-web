@@ -14,7 +14,7 @@ Description = "devopsdays Sibiu 2026"
   </p>
 
   <p style="color: red; font-size: 2em; font-weight: 700; margin-top: 1rem;">
-      Please note that the Call for Papers will close on March 1st.
+      The Call for Papers closed on March 1st. We would like to thank everyone who submitted a proposal. The final agenda will be announced by mid-March.
   </p>
 
   <hr>
