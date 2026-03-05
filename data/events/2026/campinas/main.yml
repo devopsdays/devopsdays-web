@@ -1,8 +1,8 @@
 name: "2026-campinas" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2026" # The year of the event. Make sure it is in quotes.
 city: "Campinas" # The displayed city name of the event. Capitalize it.
-description: "DevOpsDays 2025" # Edit this to suit your preferences
-masthead_background: "background.jpg"
+description: "DevOpsDays 2026" # Edit this to suit your preferences
+masthead_background: "logo.png"
 
 # All dates are in unquoted 2024-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2019-01-04T00:00:00+02:00
@@ -12,31 +12,31 @@ masthead_background: "background.jpg"
 startdate: 2026-09-19
 enddate: 2026-09-19
 
-location: "Instituto de Computação - Unicamp"
-location_address: "Av. Albert Einstein, 1251 - Cidade Universitária, Campinas-SP"
+location: ""
+location_address: ""
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: to be defined
-cfp_date_end: to be defined
-cfp_date_announce: to be defined
+cfp_date_start:
+cfp_date_end:
+cfp_date_announce:
 
-cfp_link: https://talks.devopsdays.org/devopsdays-campinas-2026/cfp
+cfp_link:
 
-registration_date_start: to be defined
-registration_date_end: to be defined
+registration_date_start:
+registration_date_end:
 
 registration_closed:
-registration_link: https://lets.events/e/devopsdays-campinas-2025/
+registration_link:
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
 
   - name: contato
     icon: "envelope-o"
-    url: /events/2025-campinas/contact
+    url: /events/2026-campinas/contact
 
   - name: código de conduta
     icon: "handshake-o"
-    url: /events/2024-campinas/conduct-pt-br
+    url: /events/2026-campinas/conduct-pt-br
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
@@ -84,14 +84,8 @@ organizer_email: "campinas@devopsdays.org"
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: -
-    level: bronze
   - id: lhc
     level: comunidade
-  - id: -
-    level: -
-  - id: -
-    level: -
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
