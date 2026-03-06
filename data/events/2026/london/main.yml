@@ -21,8 +21,8 @@ cfp_date_announce: # inform proposers of status
 
 cfp_link: "https://devopsdays.london/cfp" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start: "2026-04-06T00:00:00+01:00" # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: "" # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://ti.to/devopsdays-london/2026" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -50,7 +50,7 @@ event_social_youtube: "DevOpsDaysLondon" # Change this to the youtube channel ha
 # If not specified, defaults to all: ["email", "twitter", "facebook", "linkedin"]
 # Valid values: "email", "twitter", "facebook", "linkedin"
 # Example: social_shares: ["email", "linkedin"]  # Only show email and LinkedIn share buttons
-social_shares: # ["email", "twitter", "facebook", "linkedin"]
+social_shares: ["email", "facebook", "linkedin"]
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
@@ -94,7 +94,8 @@ team_members: # Name is the only required field for team members.
     github: "issyl0"
   - name: "Louise Paling"
     pronouns: "she/her"
-    twitter: "short_louise"
+    bluesky: "https://bsky.app/profile/shortlouise.bsky.social"
+    linkedin: "https://www.linkedin.com/in/louisepaling/"
   - name: "Sam Smith"
     pronouns: "he/him"
   - name: "Suzie Rasnak"
@@ -127,4 +128,4 @@ sponsor_levels:
   - id: bronze
     label: Bronze
   - id: community
-    label: Communitty
+    label: Community
