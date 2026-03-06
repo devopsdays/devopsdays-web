@@ -20,10 +20,10 @@ cfp_date_announce:  # inform proposers of status
 
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-masthead_background: "planoeventcenter.jpg"
+masthead_background: "swa_banner.png"
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start: 2026-03-05T00:00:00-05:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2026-09-28T00:00:00-05:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -56,7 +56,7 @@ social_shares: # ["email", "twitter", "facebook", "linkedin"]
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
  - name: location
- # - name: registration
+ - name: registration
  # - name: program
  # - name: speakers
  - name: sponsor
@@ -69,6 +69,13 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
+  - name: "Cayla Halliday"
+    employer: "GM Financial"
+    bio: "Cayla is a Portfolio Manager at GM Financial with a decade of experience leading Programs and Scrum teams. An award-winning leader, she manages portfolios of 20+ projects and presents roadmaps to audiences of 500+. A Tarrant County CASA volunteer and PTA board member, Cayla balances her professional drive with mixed-media art and life with her husband and two children."
+    role: "Coordinator"
+    linkedin: "https://www.linkedin.com/in/cayla-halliday-pmp-csm-257a9645/"
+    image: "cayla.jpg"
+  
   - name: "Gokul Sridharan"
     employer: "Katalon"
     bio: "Gokul Sridharan is a Master’s Degree holder in IT, an entrepreneur by nature and a successful presales management professional at CA Technologies. He has worked there for the past 3 years and successfully managing a business of $10m+ from a technical sales standpoint. Prior to joining CA and pursuing his master’s degree, Gokul started off his career at Accenture as a software developer.<br><br>During that time frame, he also started his own restaurant venture called ‘The Snack Shack’ in India. He loves DevOps concepts and likes to be a part of local meetups. He is also part of the organizing committee in DevOpsDays Dallas, and on in his spare time likes to work on new and innovative ideas."
@@ -79,8 +86,8 @@ team_members: # Name is the only required field for team members.
 
   - name: "Jack Teoh"
     employer: "Vizient, Inc."
-    bio: "Jack Teoh started his DevOps journey by actively volunteering for DevOpsDays Austin since 2015 and participates in multiple user group in the DevOps space. He also started volunteering for DevOpsDays Dallas when it was just starting in 2016, then become one of the core local organizer. He enjoys helping out both at DevOpsDays Austin and DevOpsDays Dallas, because he gets to meet and interact with people who are liked minded sharing a common interest which is DevOps."
-    role: "Eventbrite - Ticket Sales, SWAG, Registration"
+    bio: "I'm proud to serve as an organizer for DevOpsDays Dallas, helping cultivate a vibrant community centered around DevOps, cloud, and platform engineering. I'm passionate about connecting people, sharing lessons learned, and creating meaningful opportunities for growth and innovation."
+    role: "Ticket Sales, SWAG, Registration"
     twitter: "jaxteoh"
     linkedin: "https://www.linkedin.com/in/jackteoh/"
     github: "https://github.com/jaxteoh"
@@ -137,7 +144,7 @@ team_members: # Name is the only required field for team members.
 
   - name: "Paula Lipnick"
     employer: "JP Morgan Chase"
-    bio: "Paula has had the opportunity to be a part of innovative organizations for over 10 years, and she enjoys continuously improving processes to increase long-term business value. Currently, Paula is a Product Agility Lead at JP Morgan Chase.\n\nAlso, Paula is a huge fan of the benefits and measurable impacts that are created using DevOps, Agile, and Lean practices. She volunteered at DevOpsDays DFW in 2022, and she is overjoyed to join the Organizer Team for DevOpsDays DFW in 2023. \n\nAlso, Paula holds a Professional Scrum Master Certification, Project Management Professional Certification, MBA with a concentration in Business Intelligence and Accounting, and a Bachelor of Science in Finance. In addition, Paula loves volunteering in the community, hiking, and surfing anytime she is close to the ocean."
+    bio: "Paula has over 15 years of experience driving process improvement and long-term business value across the banking, automotive, aviation, logistics, and insurance sectors. Her versatile career includes roles at JPMorgan Chase, Citibank, Hewlett Packard, and Aflac, spanning functions that include Technical Program Management, Strategy and Planning, Technology Consulting, and Agile Coaching. A passionate advocate for the measurable impacts of DevOps, Agile, and Lean, Paula’s journey with DevOpsDays DFW began as a volunteer in 2022 before she joined the Organizing Team in 2023. She holds an MBA with a focus in Business Intelligence and Accounting. In addition, she has a PMP and a PSM. When she isn't optimizing value streams, you can find her volunteering in her community, hiking, or catching waves at the nearest beach."
     role: "Community Outreach, Non-Profit Outreach"
     linkedin: "https://www.linkedin.com/in/paula-lipnick-mba-pmp-psm/"
     image: "paula.jpg"
@@ -163,6 +170,21 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/scott-purgerson-5858224"
     image: "scott.jpg"
 
+  - name: "Sundeep Bobba"
+    employer: "Southwest Airlines"
+    bio: "Sundeep Bobba is a Tech Lead Cloud DevOps Engineer at Southwest Airlines, where he architects and leads large-scale CI/CD and cloud modernization initiatives supporting multi-billion-dollar digital platforms. He holds a Master’s degree in Computer Science from East Texas A&M University and brings over 15 years of experience in DevOps, cloud engineering, and AI-driven automation.<br><br>An IEEE Senior Member, international conference speaker, and published author, Sundeep actively serves as a program committee member and chair for multiple global technology conferences. His work focuses on AI-governed delivery systems and bringing accountability and intelligent automation into modern DevOps practices."
+    role: "Call for Papers, Website"
+    twitter: "sundeepbobba"
+    linkedin: "https://www.linkedin.com/in/sundeepbobba/"
+    image: "sundeep.png"
+  
+  - name: "Sunny Bhakta"
+    employer: "City of Carrollton"
+    bio: "Sangita (Sunny) Bhakta has over 15 years of experience driving operational excellence, revenue growth, and process improvement across government, technology, and hospitality sectors. Her diverse career spans leadership roles with Hilton, Wyndham Worldwide, Carlson Rezidor Hotel Group, and Choice Hotels International, where she has led cross-functional initiatives in technology modernization, corporate sales strategy, stakeholder engagement, and service delivery.<br><br>Currently serving in municipal IT, Sunny supports large-scale infrastructure upgrades and security initiatives, coordinating vendors and cross-departmental teams to deliver projects on time and within budget. A strong advocate for governance, standardization, and measurable outcomes, she brings a strategic lens to risk management, workflow optimization, and continuous improvement.<br><br>She holds a B.S. in Business Administration and maintains multiple industry certifications, including PMP, CJIS, CompTIA Security+, Network+, and A+.<br><br>Outside of work, Sunny enjoys mentoring others, traveling, cooking, and giving back to her community.<br><br>Grateful for the opportunity to serve as a volunteer with DevOpsDays DFW — looking forward to supporting an incredible community!"
+    role: "Sponsorship Outreach, Community Outreach"
+    linkedin: "https://www.linkedin.com/in/sunnybhakta/"
+    image: "sunny.png"
+
 organizer_email: "dallas@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
@@ -171,6 +193,10 @@ sponsors:
  # - id: samplesponsorname
  #   level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: swa
+    level: diamond
+  - id: iacconf
+    level: media
   - id: arresteddevops
     level: community
 
@@ -181,6 +207,9 @@ sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: diamond
+    label: Diamond
+    max: 1
   - id: platinum
     label: Platinum
     max: 10
