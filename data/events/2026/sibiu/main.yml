@@ -92,21 +92,6 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/amza-valentin-marius/"
     bio: "Marius Amza serves as the Director of Swiss WebBusiness SRL and as the Vice President of the Swiss Webacademy. He holds Swiss certifications as a Web Software Engineer, Web Developer, and Web Designer, and has overseen the coordination and development of numerous international projects within the web domain. As an Associate Professor at the Swiss University - Haute École Arc Ingénierie, Marius teaches courses on Software Engineering and Agile Methods as part of the MAS-RAD master's program. Additionally, he has instructed Web Security courses at HEIG-VD - Haute Ecole d’Ingénierie et de Gestion in Switzerland. Furthermore, he has supervised undergraduate internships for Swiss students. With over 10 years of experience as an IT Trainer, Marius has taught courses for both aspiring specialists and numerous private companies and governmental institutions in Romania, focusing on Web Development, OSINT, Cybersecurity, Web Design, Programming, and Information Security. For the past 6 years, Marius has also served as an Associate Professor at the University of Franche-Comté (Belfort-Montbéliard), teaching web technology courses. Together with the Swiss WebAcademy team, he is actively involved in organizing Cybersecurity Congresses in Romania, Switzerland, and Italy. He contributes to the development of online platforms for these congresses and designs courses tailored to the participants' needs."
 
-  - name: "Sergiu-Valentin Dilimoț"
-    image: "sergiu.jpeg"
-    employer: "Visma Romania"
-    linkedin: "https://www.linkedin.com/in/sdilimot/"
-    bio: "IT Services Director with over 19 years of experience in the Information Technology area focusing on helping the organization to grow by:
-     promoting and implementing Cloud Solutions within the company, supporting technical integrations between Visma companies, attracting, recruiting and developing our colleagues,
-     defining and implementing methodologies and best practices for developing, delivering and operating software, measuring operational performance through our 24/7/365 teams,
-     actively involved in development of the local IT community and university"
-
-  - name: "Cătălin Mihacea"
-    image: "catalin.jpg"
-    employer: "Sibiu IT Cluster"
-    linkedin: "https://www.linkedin.com/in/catalinmihacea"
-    bio: "Technology enthusiast with a focus on continuous learning and development. As an entrepreneur, I enjoy solving complex business problems with high-end technology. I support employees and colleagues in their creative ideas to develop their own potential. Lifelong learning and permanent development are my core values. The ability to take risks and at the same time remain solution-oriented is a key strength of mine."
-
   - name: "Valentin Oprea"
     image: "vali.jpg"
     employer: "General Engineering & Management Solutions"
@@ -128,13 +113,9 @@ sponsors:
   # - id: samplesponsorname
   #   level: gold
   #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  - id: sibiu-it-cluster
-    level: gold
   - id: synchromind
     level: gold
   - id: swiss-web-academy
-    level: gold
-  - id: sibiu-visma
     level: gold
   - id: skylite-tek
     level: gold
