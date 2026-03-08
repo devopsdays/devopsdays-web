@@ -316,6 +316,12 @@ program:
   start_time: '15:15'
   end_time: '17:25'
 
+- title: manuel-schindler
+  type: workshop
+  date: 2026-05-06
+  start_time: '15:15'
+  end_time: '17:25'
+
 - title: cristian-schuszter
   type: workshop
   date: 2026-05-06
@@ -326,13 +332,13 @@ program:
   type: custom
   date: 2026-05-06
   start_time: '17:30'
-  end_time: '17:40'
+  end_time: '17:45'
 
 - title: Evening Event
   type: custom
   date: 2026-05-06
-  start_time: '17:40'
-  end_time: '19:40'
+  start_time: '17:45'
+  end_time: '22:00'
 
 # Day 2
 - title: Registration Day 2
@@ -376,6 +382,12 @@ program:
   date: 2026-05-07
   start_time: '11:30'
   end_time: '12:00'
+
+- title: florian-mair
+  type: talk
+  date: 2026-05-07
+  start_time: '12:00'
+  end_time: '12:30'
 
 - title: Lunch Day 2
   type: custom
