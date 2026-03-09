@@ -11,6 +11,7 @@ Description = "Contact information for DevOpsDays Geneva 2026"
     position: relative;
     overflow: hidden;
     width: 100%;
+    height: 100%;
     padding-top: 56.25%; /* 16:9 Aspect Ratio */
 }
 

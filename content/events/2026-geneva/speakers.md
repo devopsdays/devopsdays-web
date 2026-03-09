@@ -11,6 +11,7 @@ Description = "Speakers for DevOpsDays Geneva 2026"
     position: relative;
     overflow: hidden;
     width: 100%;
+    height: 2400px;
     padding-top: 56.25%; /* 16:9 Aspect Ratio */
 }
 
@@ -27,5 +28,5 @@ Description = "Speakers for DevOpsDays Geneva 2026"
 </style>
 
 <div class="iframe-container">
-    <iframe class="responsive-iframe" src="https://devopsdays-geneva.ch/programma.php?who=pb9345acbffe3466983475deca4a455fc223ee340a" allowfullscreen></iframe>
+    <iframe class="responsive-iframe" src="https://devopsdays-geneva.ch/speakers.php?who=pb9345acbffe3466983475deca4a455fc223ee340a" allowfullscreen></iframe>
 </div>
