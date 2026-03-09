@@ -12,7 +12,6 @@ Description = "Interested in sponsoring DevOpsDays Dallas 2026? We greatly value
 <!-- We greatly value sponsors for this community event. If you are interested in sponsoring, please check out our prospectus below. If you need a soft copy of our prospectus, click here to <a href="https://assets.devopsdays.org/events/2026/dallas/DevOpsDays_Dallas_2026_Prospectus.pdf" target="_blank"><strong>download PDF</strong></a> or <a href="mailto:dallas@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Dallas%202026"><strong>send us an email</strong></a>.
 <br>
 <hr>
-
 <h4><a href="https://assets.devopsdays.org/events/2026/dallas/DevOpsDaysDallasSponsorFAQ2026.pdf" target="_blank">Sponsors FAQ 2026</a></h4>
 <hr> -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZWWI6AknjXs?si=k4BVzMCtkUieFs7g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
