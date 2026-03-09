@@ -28,5 +28,5 @@ Description = "Speakers for DevOpsDays Geneva 2026"
 </style>
 
 <div class="iframe-container">
-    <iframe class="responsive-iframe" src="https://devopsdays-geneva.ch/speakers.php?who=pb9345acbffe3466983475deca4a455fc223ee340a" allowfullscreen></iframe>
+    <iframe class="responsive-iframe" src="https://devopsdays-geneva.ch/speakers.php" allowfullscreen></iframe>
 </div>
