@@ -14,11 +14,11 @@ startdate:  2026-11-13T00:00:00+02:00 # The start date of your event. Leave blan
 enddate: 2026-11-14T00:00:00+02:00  # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2026-03-01T00:00:00+01:00 # start accepting talk proposals.
-cfp_date_end: 2026-06-16T00:00:00+02:00 # close your call for proposals.
-cfp_date_announce: 2026-08-01T00:00:00+02:00 # inform proposers of status
+cfp_date_start: # start accepting talk proposals.
+cfp_date_end: # close your call for proposals.
+cfp_date_announce: # inform proposers of status
 
-cfp_link: "https://talks.devopsdays.org/devopsdays-barcelona-2026/cfp" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
@@ -49,7 +49,7 @@ event_social_linkedin: "https://linkedin.com/company/devopsdays-bcn/" # Change t
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location 
   - name: sponsor
-  - name: propose
+# - name: propose
   - name: contact
   - name: conduct
 # - name: registration
