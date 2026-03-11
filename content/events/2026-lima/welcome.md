@@ -210,7 +210,7 @@ span.welcome-page-masthead-venue, span.welcome-page-date {
     <p>DevOpsDays Lima will be coming back to {{< event_location >}} on <strong class="welcome-hero-date">Aug 27-28, 2026</strong>.</p>
     <p>Our mission at DevOpsDays Lima is to drive technological evolution with an event that connects professionals, encourages sharing DevOps knowledge, and strengthens a culture of continuous innovation based on real experiences.</p>
     <div class="welcome-hero-cta">
-      <a class="welcome-hero-btn" href="https://devopsdays.pe/#tickets">
+      <a class="welcome-hero-btn" href="https://tickets.devopsdays.pe/">
         <i class="fa fa-ticket fa-lg" aria-hidden="true"></i>
         <span>Get your ticket</span>
       </a>
@@ -296,7 +296,7 @@ span.welcome-page-masthead-venue, span.welcome-page-date {
     <strong>Register</strong>
   </div>
   <div class="col-md-10">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
+    <a href="https://tickets.devopsdays.pe/">Register to attend the conference!</a>
   </div>
 </div>
 
@@ -305,7 +305,7 @@ span.welcome-page-masthead-venue, span.welcome-page-date {
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    <a href="">Propose a talk!</a>
+    <a href="https://talks.devopsdays.org/devopsdays-lima-2026/cfp">Propose a talk!</a>
   </div>
 </div> 
 
