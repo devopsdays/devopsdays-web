@@ -53,4 +53,4 @@ Examples of appropriate action may include, but are not limited to:
 We’re happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
 
 ### Attribution
-The devopsdays London 2025 Code of Conduct is based on the Contributor Covenant, version 2.1, the UN Code of Conduct and the DevOpsDays Amsterdam 2024 Code of Conduct
+The devopsdays London Code of Conduct is based on the Contributor Covenant, version 2.1, the UN Code of Conduct and the DevOpsDays Amsterdam 2024 Code of Conduct
