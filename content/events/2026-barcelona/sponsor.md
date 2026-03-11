@@ -4,20 +4,40 @@ Type = "event"
 Description = "Sponsor devopsdays Barcelona 2026"
 +++
 
-<table border=1 cellspacing=1>
-  <tr>
-    <td>We greatly value sponsors for this community event. If you are interested in sponsoring, please click here to <a href="https://drive.google.com/file/d/1tREYUFp7R393y3qkyHBhXjqRv-8i3rj9/view?usp=sharing" target="_blank"><strong>download the prospectus PDF</strong></a>. After reviewing the available packages, please submit your sponsorship request using <a href="https://docs.google.com/forms/d/e/1FAIpQLSfIDK0KR7wqN4sJgIVVozTjT8Vf-E5GJSVeZdL9rTDBTsmhzw/viewform"><strong>our form</strong></a>.<br><br>For any other question, drop us an email at [{{< email_organizers >}}].</td>
-  </tr>
-</table>
+
 
 <hr>
 
-devopsdays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
-<p>
-Gold sponsors get a full table and Silver sponsors a shared table where they can interact with those interested to come visit during breaks. All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
-<p>
-The best thing to do is send engineers to interact with the experts at devopsdays on their own terms.
-<p>
+<h2>Why sponsor DevOpsDays Barcelona 2026?</h2>
+
+<h3>Brand Recognition And Awareness</h3>
+<p>Your brand will be identified as a contributor to our
+community with promotional opportunities consistent with
+your level of sponsorship.</p>
+<h3>Reach the Right Audience</h3>
+<p>Your sponsorship positions your brand in front of a focused,
+high-quality audience of engineers and technology leaders
+who value authentic learning, collaboration, and community.</p>
+<h3>Recruiting</h3>
+<p>DevOpsDays Barcelona provides access to a concentrated
+talent pool across multiple technology disciplines and levels
+of experience.</p>
+
+<h3>Audience & Attendee Demographics</h3>
+DevOpsDays Barcelona will host over 220 attendees, including:
+<ul>
+  <li>Developers and Engineers from across the DevOps landscape</li>
+  <li>Tech Leaders and Managers interested in DevOps transformations</li>
+  <li>Operations Professionals looking to improve efficiency</li>
+  <li>Students and New Professionals eager to enter the field</li>
+  <li>Enthusiasts passionate about the latest DevOps practices and trends</li>
+</ul>
+
+<table border=1 cellspacing=1>
+  <tr>
+    <td>We greatly value sponsors for this community event! If you are <strong>interested in sponsoring</strong>, please click here to <a href="https://bit.ly/devopsdays-barcelona-2026-sponsors" target="_blank"><strong>download the prospectus PDF</strong></a>. After reviewing the available packages, please submit your sponsorship request using <a href="https://bit.ly/devopsdays-barcelona-2026-sponsors-form"><strong>our form</strong></a>.<br><br>For any other question, drop us an email at [{{< email_organizers >}}].</td>
+  </tr>
+</table>
 
 <!--
 <hr/>
