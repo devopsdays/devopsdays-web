@@ -15,11 +15,11 @@ startdate: "2026-08-27T00:10:00+05:00"  # The start date of your event. Leave bl
 enddate: "2026-08-28T00:18:00+05:00" # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start:  "2025-03-06T12:00:00-05:00"
+cfp_date_end:  "2025-05-30T12:00:00-05:00"
+cfp_date_announce: "2025-06-15T12:00:00-05:00"
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://talks.devopsdays.org/devopsdays-lima-2026/cfp" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 masthead_background: "lima-banner-masthead.png"
 
@@ -27,7 +27,7 @@ registration_date_start: # start accepting registration. Leave blank if registra
 registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "https://devopsdays.pe/#tickets" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://tickets.devopsdays.pe/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -49,9 +49,9 @@ event_social_youtube: "DevOpsDaysLima" # Change this to the youtube channel hand
 social_shares: # ["email", "twitter", "facebook", "linkedin"]
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
   - name: devopsdays.pe
     url: https://devopsdays.pe/
+  - name: propose
   - name: location
   - name: registration
  # - name: program
