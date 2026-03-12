@@ -114,16 +114,22 @@ sponsors:
   # - id: samplesponsorname
   #   level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: agiliway
+    level: community
   - id: arresteddevops
     level: community
-  - id: kubeevents
-    level: community
-  - id: iacconf
-    level: community
-  - id: harness
+  - id: cribl
     level: gold
   - id: edgedelta
     level: gold
+  - id: guiding-eyes-for-the-blind
+    level: community
+  - id: harness
+    level: gold
+  - id: iacconf
+    level: community
+  - id: kubeevents
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -248,6 +254,11 @@ program:
     start_time: "14:40"
     end_time: "16:10"
   - title: "suresh-palus-workshop"
+    type: workshop
+    date: 2026-04-30
+    start_time: "14:40"
+    end_time: "16:10"
+  - title: "guiding-eyes-for-the-blind-workshop"
     type: workshop
     date: 2026-04-30
     start_time: "14:40"
