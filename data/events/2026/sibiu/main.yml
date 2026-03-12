@@ -32,21 +32,21 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 #
 # coordinates: "" # No longer used
 
-location: "Strada Emil Cioran 4, Sibiu" # Defaults to city, but you can make it the venue name.
+location: "Strada Emil Cioran 2, Sibiu" # Defaults to city, but you can make it the venue name.
 #
 location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
 
 # Optional - Social badges
 # These can be used in the body of any page via matching shortcodes. See sample:  https://devopsdays.org/events/2025-denver/welcome/
-event_social_linkedin: "https://linkedin.com/company/devopsdays" # Change this to the url to your Linkedin group, company, or page.
-event_social_slack: "https://join.slack.com/t/devopsdays/custom_shared_invite_url" # Change this to your slack invite link.
-event_social_listserv: "https://lists.devopsdays.org/subscription?custom_listserv_invite_url" # Change this to your mailing list subscription form url.
-event_social_twitter: "devopsdays" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-event_social_mastodon: "https://mastodon.social/@devopsdays" # Change this to url to your mastodon page
-event_social_bsky: "https://bsky.app/profile/devopsdays.bsky.social" # Change this to url to your bluesky page
-event_social_youtube: "devopsdays" # Change this to the youtube channel handle for your event such as devopsdaysrox
+event_social_linkedin: "https://www.linkedin.com/company/devopsdays-sibiu/" # Change this to the url to your Linkedin group, company, or page.
+#event_social_slack: "https://join.slack.com/t/devopsdays/custom_shared_invite_url" # Change this to your slack invite link.
+#event_social_listserv: "https://lists.devopsdays.org/subscription?custom_listserv_invite_url" # Change this to your mailing list subscription form url.
+#event_social_twitter: "devopsdays" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+#event_social_mastodon: "https://mastodon.social/@devopsdays" # Change this to url to your mastodon page
+#event_social_bsky: "https://bsky.app/profile/devopsdays.bsky.social" # Change this to url to your bluesky page
+event_social_youtube: "https://www.youtube.com/@DevOpsDaysRomania" # Change this to the youtube channel handle for your event such as devopsdaysrox
 # legacy
-event_twitter: "devopsdays" # This will create a traditional "Follow" twitter button. Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp.
+#event_twitter: "devopsdays" # This will create a traditional "Follow" twitter button. Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
 #  - name: propose
@@ -136,8 +136,6 @@ sponsors:
   - id: kubeevents
     level: media
   - id: emailtree-ai
-    level: community
-  - id: ulbsibiu
     level: community
 #  - id: women4cyber
 #    level: community
