@@ -118,8 +118,12 @@ sponsors:
     level: community
   - id: arresteddevops
     level: community
+  - id: cribl
+    level: gold
   - id: edgedelta
     level: gold
+  - id: guiding-eyes-for-the-blind
+    level: community
   - id: harness
     level: gold
   - id: iacconf
@@ -250,6 +254,11 @@ program:
     start_time: "14:40"
     end_time: "16:10"
   - title: "suresh-palus-workshop"
+    type: workshop
+    date: 2026-04-30
+    start_time: "14:40"
+    end_time: "16:10"
+  - title: "guiding-eyes-for-the-blind-workshop"
     type: workshop
     date: 2026-04-30
     start_time: "14:40"
