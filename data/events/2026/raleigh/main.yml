@@ -258,6 +258,11 @@ program:
     date: 2026-04-30
     start_time: "14:40"
     end_time: "16:10"
+  - title: "guiding-eyes-for-the-blind-workshop"
+    type: workshop
+    date: 2026-04-30
+    start_time: "14:40"
+    end_time: "16:10"
   - title: "Break"
     type: custom
     date: 2026-04-30
