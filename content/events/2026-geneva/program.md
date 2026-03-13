@@ -28,5 +28,5 @@ Description = "Contact information for DevOpsDays Geneva 2026"
 </style>
 
 <div class="iframe-container">
-    <iframe class="responsive-iframe" src="https://mac.devopsdays-geneva.ch/programma.php?who=pbu0cb47956025e73c797e43515e17f16fc38466e34f5ab" allowfullscreen></iframe>
+    <iframe class="responsive-iframe" src="https://devopsdays-geneva.ch/programma.php?who=pbu0cb47956025e73c797e43515e17f16fc38466e34f5ab" allowfullscreen></iframe>
 </div>
