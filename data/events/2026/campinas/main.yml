@@ -91,6 +91,12 @@ team_members: # Name is the only required field for team members.
     image: "vilander.jpeg"
     github: "https://github.com/Vilander"
     linkedin: "https://www.linkedin.com/in/vilander-costa"
+  - name: "Aline S. S. Vieira"
+    employer: "Kasco AI"
+    role: "Gerente Comercial em Cloud, IA e IoT"
+    bio: "Profissional de tecnologia com atuação na interseção entre estratégia comercial e soluções digitais. Possui experiência em Cloud Computing, PaaS, Inteligência Artificial e IoT aplicadas à transformação digital de operações. Formada em Tecnologia da Informação com ênfase em IoT e atualmente cursando Engenharia da Computação."
+    image: "aline.jpeg"
+    linkedin: "https://www.linkedin.com/in/aline-s-s-vieira"
 
 organizer_email: "campinas@devopsdays.org"
 
