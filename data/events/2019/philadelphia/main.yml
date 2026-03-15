@@ -85,13 +85,13 @@ sponsors:
     level: gold
   - id: victorops
     level: gold
-  - id: dynatrace
+  - id: dynatrace-before-20250905
     level: gold
   - id: netapp
     level: gold
   - id: sonatype
     level: gold
-  - id: xmatters
+  - id: xmatters-before-20260131
     level: gold
   - id: 2nd-watch
     level: gold

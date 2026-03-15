@@ -75,9 +75,9 @@ sponsors:
     level: diamond
   - id: sigitat
     level: diamond
-  - id: oracle
+  - id: oracle-before-20251111
     level: diamond
-  - id: fluidattacks
+  - id: fluidattacks-before-20250811
     level: diamond
   - id: manage-engine
     level: diamond

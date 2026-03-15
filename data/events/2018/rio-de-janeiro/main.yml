@@ -114,7 +114,7 @@ sponsors:
     level: bronze    
   - id: 4linux
     level: bronze        
-  - id: dynatrace
+  - id: dynatrace-before-20250905
     level: gold
   - id: elastic-before-20221004
     level: gold 

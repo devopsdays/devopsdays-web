@@ -10,19 +10,19 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2025-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: 2025-06-04T00:00:00+03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2025-06-04T23:59:59+03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2025-09-03T00:00:00+03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2025-09-03T23:59:59+03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2025-03-04T00:00:00+03:00 # start accepting talk proposals.
-cfp_date_end: 2025-05-04T23:59:59+03:00 # close your call for proposals.
+cfp_date_end: 2025-08-03T23:59:59+03:00 # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
 
 cfp_open: "true"
 cfp_link: "https://forms.gle/MLP24SmRgs1G74Mo7" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2025-04-04T00:00:00+03:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: 2025-06-03T23:59:59+03:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_end: 2025-09-02T23:59:59+03:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://devopsdays.com.ua/#registration" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.

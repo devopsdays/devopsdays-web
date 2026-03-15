@@ -147,7 +147,6 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/anna-luiza-laudares-b0680b2b3/"
     bio: "Sou estudante de Sistemas de Informação na PUC Minas e também estudante de Cloud na formação da AWS/Proz. Atualmente trabalho na área financeira e de Business Intelligence. Minha história com DevOps começa com uma paixão desde a primeira vez que ouvi o termo  FinOps e senti identificação com a cultura e as práticas, já que era algo que eu vivenciava em uma escala menor. Agora eu não consigo parar de querer entregar valor continuamente! No meu tempo livre gosto de assistir esportes, viajar e me entreter com filmes."  
     github: "annalaudares"
-    linkedin: "https://br.linkedin.com/in/anna-luiza-laudares-b0680b2b3"
     image: "ana.jpeg"
 
   - name: "Bernardo Machado"
@@ -183,13 +182,13 @@ sponsors:
   - id: unibh
     level: community   
 
-  - id: awsugmg
+  - id: awsugmg-before-20250930
     level: community
 
   - id: mulheres_na_nuvem
     level: community
 
-  - id: 3dcomtech
+  - id: 3dcomtech-before-20251028
     level: community    
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

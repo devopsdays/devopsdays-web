@@ -5,13 +5,14 @@ event_twitter: "devopsdaysbhz" # Change this to the twitter handle for your even
 description: "Devopsdays is coming to Belo Horizonte!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
+
 # All dates are in unquoted 2025-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2019-01-04T00:00:00+02:00
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2025-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate:  2025-10-11T00:00:00+02:00
+enddate:  2025-10-11T20:00:00+02:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  # start accepting talk proposals.
@@ -24,13 +25,17 @@ registration_date_start: # start accepting registration. Leave blank if registra
 registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.even3.com.br/devopsdays-belo-horizonte-2025-562352/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+coordinates: "-19.972130, -43.964511" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "UniBH Buritis" # Defaults to city, but you can make it the venue name.
+#
+
 
 # Location
 #
 # coordinates: "" # No longer used
 masthead_background: "capa-dod-1.png"
-location: "Belo Horizonte" # Defaults to city, but you can make it the venue name.
 #
 location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
 
@@ -44,21 +49,22 @@ event_social_twitter: "devopsdaysbhz" # Change this to the twitter handle for yo
 #event_social_bsky: "https://bsky.app/profile/devopsdaysbhz.bsky.social" # Change this to url to your bluesky page
 #event_social_youtube: "devopsdaysbhz" # Change this to the youtube channel handle for your event such as devopsdaysrox
 # legacy
-event_twitter: "devopsdaysbhz" # This will create a traditional "Follow" twitter button. Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp.
+# event_twitter: "devopsdaysbhz" # This will create a traditional "Follow" twitter button. Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
- # - name: Local do Evento
- #   url: /events/2024-belo-horizonte/location
- # - name: Inscrições
- #   url: https://www.even3.com.br/devopsdays-belo-horizonte
- # - name: GRADE DE PALESTRAS
- #   url: /events/2024-belo-horizonte/program
- # - name: speakers
+  - name: LOCAL - UniBH - Estoril
+    url: /events/2025-belo-horizonte/location
+  - name: Inscrições
+    url: https://www.even3.com.br/devopsdays-belo-horizonte-2025-562352/
+  - name: GRADE DE PALESTRAS
+    url: /events/2025-belo-horizonte/program
+  - name: PALESTRANTES
+    url: /events/2025-belo-horizonte/speakers
  # - name: ENVIE SUA PALESTRA (CFP)
  #   url: https://www.papercall.io/devopsdaysbhz
-  # - name: patrocínio
-  #   url: /events/2025-belo-horizonte/sponsor
+  - name: patrocínio
+    url: /events/2025-belo-horizonte/sponsor
   - name: organizadores
   - name: código de conduta
     url: /events/2025-belo-horizonte/conduta 
@@ -68,17 +74,14 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
 
-
-
 # These are the same people you have on the mailing list and Slack channel.
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Anna Luiza Laudares"
-    employer: "Finance and BI Analyst na Saudetec"
+    employer: "DevOps Engineer na CI&T"
     linkedin: "https://www.linkedin.com/in/anna-luiza-laudares-b0680b2b3/"
-    bio: "Apaixonada por tecnologia e movida por comunidades, sou Analista de Sistemas na Engineering Brasil no tempo integral — e no tempo livre, estou sempre buscando compartilhar conhecimento com quem estiver por perto <br><br><br><br><br>"  
+    bio: "Sou estudante de Sistemas de Informação na PUC Minas e entusiasta de cloud. Minha história com Cloud começou em um evento da comunidade, e essa é minha motivação para continuar fazendo parte dela.Atualmente sou DevOps Engineer na CI&T, com um pézinho em FinOps. No meu tempo livre, acompanho a NFL e amo viajar. <br><br><br><br><br>"  
     github: "annalaudaress"
-    linkedin: "https://br.linkedin.com/in/anna-luiza-laudares-b0680b2b3"
     image: "ana.jpeg"
 
 
@@ -93,8 +96,6 @@ team_members: # Name is the only required field for team members.
   - name: "Caio Miranda"
     employer: "DevOps Consultant no Banco BV"
     bio: "SRE|DevOps, entusiasta de automação de práticas de desenvolvimento e para sempre um estudante.É isso que costumo ser em horário comercial, no tempo livre gosto de bons jogos e pratico esportes.Entendo que como profissionais DevOps buscamos o equilíbrio entre eficiência e velocidade, sendo assim, carrego em mente a seguinte frase: 'Não tenhamos pressa, mas não percamos tempo'. <br>"
-    github: "caiiomiiranda"
-    twitter: "https://twitter.com/caiomiranda2000"
     linkedin: "https://www.linkedin.com/in/caio-miranda-38162b16a/"
     image: "caio.jpeg" 
 
@@ -130,13 +131,6 @@ team_members: # Name is the only required field for team members.
     image: "pimenta.jpeg"
 
 
-  - name: "Jéssica Coelho"
-    employer: "Platform DB Engineer - @MCSA SQL Server"
-    bio: "Especialista em Dados com mais de 10 anos de experiência, MCSA em SQL Server e Azure, Cloud DBA em Azure e AWS e configuração e manutenção para Redshift Clusters. Atualmente atua como consultora de dados, com foco em performance e disponibilidade de ambientes críticos, engenharia e ciência de Dados. Professora de MBA nos Cursos de Data Engineering e Banco de Dados e AWS Community Builder.Palestrante e host do PodCast de Dados Data Talks Brasil, disponível no Youtube e Spotify."
-    linkedin: "https://www.linkedin.com/in/jessicaccoelho/"
-    image: "jessica.jpeg"   
-
-
   - name: Natália Granato
     employer: Plataform Engineer na Magalu Cloud
     linkedin: https://www.linkedin.com/in/nataliagranato
@@ -144,7 +138,7 @@ team_members: # Name is the only required field for team members.
     twitter: https://x.com/granatowp
     bluesky: https://bsky.app/profile/nataliagranato.bsky.social
     site: https://www.nataliagranato.xyz
-    bio: Sou CNCF Ambassador e Docker Captain, contribuo com o Kubernetes e outros softwares de código aberto, minha missão é popularizar as tecnologias Cloud Native, compartilhar conhecimento técnico e incluir pessoas negras, mulheres e LGBTQIA no mundo da tecnologia <br><br><br><br><br><br><br><br><br><br><br><br><br>.
+    bio: Sou CNCF Ambassador e Docker Captain, contribuo com o Kubernetes e outros softwares de código aberto, minha missão é popularizar as tecnologias Cloud Native, compartilhar conhecimento técnico e incluir pessoas negras, mulheres e LGBTQIA no mundo da tecnologia <br><br><br><br><br>.
     image: "natalia.jpg" 
 
 
@@ -158,11 +152,11 @@ team_members: # Name is the only required field for team members.
 
 
   - name: "Paloma Lataliza"
-    employer: "Cloud Engineer na Claro Brasil"
+    employer: "Senior Cloud Engineer na Caylent"
     linkedin: "https://www.linkedin.com/in/palomalataliza/"
     github: "shescloud"
     twitter: "shescloud_"
-    bio:  "Entusiasta de containers, fã de Cavaleiros do Zodíaco e apaixonada por compartilhar conhecimento. Paloma é formada em Ciência da Computação pela Universidade FUMEC, pós-graduada em Cloud Computing pela PUC Minas e mestranda em TICGC pela Universidade FUMEC. É também uma AWS HERO, líder do AWS User Group BH, Docker Captain, Embaixadora do Women Techmakers, Organizadora do primeiro AWSomeWomenCommunity Summit Brasil e  co-fundadora do projeto Mulheres na Nuvem MG. Ela tem se dedicado a incentivar a presença feminina no setor de tecnologia e nuvem.<br><br><br><br><br><br><br>"
+    bio:  "Entusiasta de containers, fã de Cavaleiros do Zodíaco e apaixonada por compartilhar conhecimento. Paloma é formada em Ciência da Computação pela Universidade FUMEC, pós-graduada em Cloud Computing pela PUC Minas e mestranda em TICGC pela Universidade FUMEC. É também uma AWS HERO, líder do AWS User Group BH, Embaixadora do Women Techmakers, Organizadora do primeiro AWSomeWomenCommunity Summit Brasil e  co-fundadora do projeto Mulheres na Nuvem MG. Ela tem se dedicado a incentivar a presença feminina no setor de tecnologia e nuvem.<br><br><br><br><br><br><br>"
     image: "paloma.jpeg"
 
 
@@ -179,7 +173,7 @@ team_members: # Name is the only required field for team members.
   - name: "Victor Parreira"
     employer: "SRE Analyst no Inter"
     linkedin: "https://www.linkedin.com/in/victorparreira/"
-    bio: "Um cara de humanas que descobriu em tech sua maior paixão. Gosto de misturar tudo aquilo que aprendi na minha carreira até agora para trazer uma nova visão sobre o mundo de cloud e suas ferramentas.  <br> <br>"
+    bio: "Um cara de humanas que descobriu em tech sua maior paixão. Gosto de misturar tudo aquilo que aprendi na minha carreira até agora para trazer uma nova visão sobre o mundo de cloud e suas ferramentas.   <br><br><br><br><br><br><br><br><br><br><br><br> <br>"
     image: "victor.jpg" 
 
 
@@ -190,11 +184,26 @@ organizer_email: "belo-horizonte@devopsdays.org" # Put your organizer email addr
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: samplesponsorname
-    level: gold
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  - id: arresteddevops
+  - id: bancointer
+    level: diamond
+
+  - id: ivory
+    level: bronze
+
+  - id: linuxtips
+    level: community   
+
+  - id: unibh
+    level: community   
+
+  - id: awsugmg
     level: community
+
+  - id: novatec
+    level: community
+
+  - id: 3dcomtech
+    level: community    
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -203,9 +212,10 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: gold
-    label: Gold
-#    max: 10
+  - id: diamond
+    label: Diamond
+  - id: platinum
+    label: Platinum
   - id: silver
     label: Silver
     max: 0 # This is the same as omitting the max limit.
@@ -213,3 +223,110 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+
+
+program:
+  - title: "Credenciamento e Abertura"
+    type: custom
+    date: 2025-10-11T08:00:00-03:00
+    start_time: "08:30"
+    end_time: "09:00"
+
+  - title: "bruno"
+    type: talk
+    date: 2025-10-11T08:00:00-03:00
+    start_time: "09:00"
+    end_time: "09:30"
+    background_color: "#d79afc"
+
+  - title: "diego-duarte"
+    type: talk
+    date: 2025-10-11T08:00:00-03:00
+    start_time: "09:30"
+    end_time: "10:00"
+
+  - title: "Pausa para Café"
+    type: custom
+    date: 2025-10-11T08:00:00-03:00
+    start_time: "10:05"
+    end_time: "10:45"
+    background_color: "#84C6B7"
+  
+
+  - title: "lucas-mata"
+    type: talk
+    date: 2025-10-11T08:00:00-03:00
+    start_time: "10:50"
+    end_time: "11:20"
+  
+
+  - title: "ana"
+    type: talk
+    date: 2025-10-11T08:00:00-03:00
+    start_time: "11:25"
+    end_time: "11:55"
+
+
+  - title: "Almoço"
+    type: custom
+    date: 2025-10-11T08:00:00-03:00
+    start_time: "12:00"
+    end_time: "13:30"
+    background_color: "#84C6B7"  
+  
+  - title: "pokemao"
+    type: talk
+    date: 2025-10-11T08:00:00-03:00
+    start_time: "13:30"
+    end_time: "14:15"
+    background_color: "#d79afc"
+
+  - title: "Ignite Karaoke"
+    type: custom
+    date: 2025-10-11T08:00:00-03:00
+    start_time: "14:20"
+    end_time: "14:50"
+
+  - title: "denilson"
+    type: talk
+    date: 2025-10-11T08:00:00-03:00
+    start_time: "14:55"
+    end_time: "15:25"
+    background_color: "#d79afc"
+
+  - title: "OpenSpace"
+    type: custom
+    date: 2025-10-11T08:00:00-03:00
+    start_time: "15:30"
+    end_time: "16:00"  
+
+  - title: "Pausa para Café"
+    type: custom
+    date: 2025-10-11T08:00:00-03:00
+    start_time: "16:05"
+    end_time: "16:35"   
+    background_color: "#84C6B7"
+
+  - title: "Sorteios"
+    type: custom
+    date: 2025-10-11T08:00:00-03:00
+    start_time: "16:35"
+    end_time: "17:00"  
+
+  - title: "ana-luiza"
+    type: talk
+    date: 2025-10-11T08:00:00-03:00
+    start_time: "17:00"
+    end_time: "17:30"
+
+  - title: "herbert-ribeiro"
+    type: talk
+    date: 2025-10-11T08:00:00-03:00
+    start_time: "17:35"
+    end_time: "18:05"
+
+  - title: "Encerramento e Sorteios"
+    type: custom
+    date: 2025-10-11T08:00:00-03:00
+    start_time: "18:05"
+    end_time: "18:30"      

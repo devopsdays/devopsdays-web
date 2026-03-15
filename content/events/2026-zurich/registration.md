@@ -4,7 +4,7 @@ Type = "event"
 Description = "Registration for DevOpsDays Zurich 2026"
 +++
 
-<h3>Rregistration for DevOpsDays Zurich 2026 will start on TBD.</h3> 
+<h3>Rregistration for DevOpsDays Zurich 2026</h3> 
 
 <p>
 With the ticket you get: 
@@ -23,7 +23,7 @@ With the ticket you get:
 </div>
 
 <p>
-If this doesn't work for you, registration can also be done here: <a href="https://ti.to/dod/dodzh2026">https://ti.to/dod/dodzh2025</a>
+If this doesn't work for you, registration can also be done here: <a href="https://ti.to/dod/dodzh2026">https://ti.to/dod/dodzh2026</a>
 </p>
 
 <p>

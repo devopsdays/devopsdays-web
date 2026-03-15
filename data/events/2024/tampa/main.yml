@@ -110,9 +110,9 @@ sponsors:
     level: gold
   - id: harness
     level: platinum
-  - id: coder
+  - id: coder-before-20250811
     level: platinum
-  - id: dynatrace
+  - id: dynatrace-before-20250905
     level: diamond
   - id: katrum
     level: platinum

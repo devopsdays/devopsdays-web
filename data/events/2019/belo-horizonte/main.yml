@@ -116,7 +116,7 @@ sponsors:
     level: ouro
   - id: signalfx
     level: ouro
-  - id: bancointer
+  - id: bancointer-before-20250930
     level: ouro
   - id: smarttbot
     level: prata
@@ -221,7 +221,6 @@ program:
     end_time: "11:00"
 
   - title: "paulo-mendonca"
-    comments: Workshop
     type: workshop
     comments: Sala Workshop Kubernetes
     date: 2019-09-28

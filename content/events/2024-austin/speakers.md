@@ -9,7 +9,7 @@ Description = "Meet our speakers for DevOpsDays Austin 2024"
 <div class="pretalx-widget">
         <div class="pretalx-widget-info-message">
             JavaScript is disabled in your browser. To access our speaker list without JavaScript,
-            please <a target="_blank" href="https://talks.devopsdays.org/devopsdays-austin-2024/speakers/">click here</a>.
+            please <a target="_blank" href="https://talks.devopsdays.org/devopsdays-austin-2024/speaker/">click here</a>.
         </div>
     </div>
 </noscript>
@@ -26,8 +26,6 @@ Description = "Meet our speakers for DevOpsDays Austin 2024"
         .then((data) => {
             let speakers = data.results;
 
-            console.log(speakers);
-
             speakers.map(function(speaker) {
                 let li = document.createElement('div');
                 li.className = `col-lg-3 col-md-6 p-3`;
@@ -38,7 +36,7 @@ Description = "Meet our speakers for DevOpsDays Austin 2024"
                 let talk = document.createElement('a');
 
                 name.innerHTML = `${speaker.name}`;
-                pic.src = speaker.avatar.length != 0 ? `${speaker.avatar}`: '/img/speaker-default.jpg';
+                pic.src = speaker.avatar_url.length != 0 ? `${speaker.avatar_url}`: '/img/speaker-default.jpg';
                 pic.className = `speakers-page`;
                 bio.innerHTML = `<summary><b>About ${speaker.name}</b></summary><p>${speaker.biography ? `${speaker.biography}`: `Ipsum`}</p>`;
                 talk.setAttribute('href', speaker.submissions[0] ? `https://talks.devopsdays.org/devopsdays-austin-2024/talk/${speaker.submissions[0]}` : ``);

@@ -4,6 +4,13 @@ Type = "event"
 Description = "Código de conduta do devopsdays Montreal 2025"
 +++
 
+<style type="text/css">
+
+.footer-nav-row {
+  display: block;
+}
+
+</style>
 
 Participantes, palestrantes, representantes de empresas e pessoas voluntárias no devopsdays Montreal 2025 são requeridos a concordar com o seguinte código de conduta. A organização irá aplicar este código pelo evento. Nós esperamos cooperação de todas as pessoas participando para garantir um ambiente seguro para todas as pessoas.
 

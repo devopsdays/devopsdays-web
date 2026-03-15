@@ -102,7 +102,7 @@ organizer_email: "boston@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: teleport
+  - id: teleport-before-20260203
     level: platinum
   - id: spectrocloud
     level: platinum
@@ -114,7 +114,7 @@ sponsors:
     level: platinum
   - id: couchbase
     level: platinum
-  - id: dynatrace
+  - id: dynatrace-before-20250905
     level: platinum
   - id: circleci
     level: platinum

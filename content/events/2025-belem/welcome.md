@@ -174,7 +174,7 @@ Description = "DevOpsDays Belém 2025"
 
   <div class="highlight-box">
     <strong style="font-size: 1.2em;display: block">Programação</strong>
-    <a href="https://www.papercall.io/devopsdays-belem-2025" target="_blank">
+    <a href="https://devopsdays.org/events/2025-belem/programa" target="_blank">
       Submeta sua palestra
     </a>
   </div>

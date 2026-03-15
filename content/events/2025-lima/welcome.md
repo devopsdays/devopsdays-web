@@ -28,7 +28,7 @@ Description = "DevOpsDays llega por primera vez a Lima, Perú"
         <strong>Registro:</strong>
       </div>
       <div class = "col-md-8">
-        Disponible próximamente
+        ¿Quieres asistir al evento? Adquiere tu entrada <a href="https://devopsdays.pe/entradas">aquí</a>
       </div>
     </div>
     <div class = "row">

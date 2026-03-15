@@ -87,14 +87,14 @@ sponsors:
      level: gold
    - id: scalar-cloudcheckr
      level: gold
-   - id: xmatters
+   - id: xmatters-before-20260131
      level: gold
    - id: salesforce
      level: gold
    - id: chef-before-20210112
      level: gold
 
-   - id: dynatrace
+   - id: dynatrace-before-20250905
      level: silver
    - id: realtor-dot-com
      level: silver

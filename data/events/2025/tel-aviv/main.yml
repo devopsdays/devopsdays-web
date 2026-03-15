@@ -15,7 +15,7 @@ enddate:  2025-12-11T17:59:59+02:00 # The end date of your event. Leave blank if
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2025-02-20T00:00:00+02:00  # start accepting talk proposals.
-cfp_date_end: 2025-06-15T23:59:59+02:00 # close your call for proposals.
+cfp_date_end: 2025-08-15T23:59:59+02:00 # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
 
 cfp_link: "https://sessionize.com/devopsdays-tel-aviv-2025/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
@@ -37,13 +37,14 @@ location_address: "Expo TLV, Pavillion 10, 101 Rokach Blvd, Tel Aviv-Jaffa" #Opt
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: location
  # - name: registration
- # - name: program
- # - name: speakers
-  - name: sponsor
-  - name: contact
-  - name: propose
-    url: https://sessionize.com/devopsdays-tel-aviv-2025/
-  - name: conduct
+ - name: program
+   url: https://tlvcommunity.dev/devopsdays/agenda-2025
+ - name: speakers
+   url: https://tlvcommunity.dev/devopsdays/speakers-2025
+ # - name: sponsor
+ - name: contact
+ - name: conduct
+# - name: propose
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -147,19 +148,65 @@ sponsors:
     level: diamond
   - id: groundcover
     level: platinum
+  - id: binat
+    level: platinum
+  - id: dell-israel
+    level: platinum
+  - id: aws
+    level: platinum
   - id: terasky-only
     level: gold
   - id: coralogix
     level: gold
   - id: quali
     level: gold
-  - id: draftt
+  - id: drafttio
     level: gold
   - id: komodor
     level: gold
   - id: castai
     level: gold
+  - id: esl-cloudbees
+    level: gold
+  - id: datafy
+    level: gold
+  - id: jit
+    level: gold
+  - id: elastic
+    level: gold
+  - id: controlmonkey
+    level: gold
+  - id: aerospike
+    level: gold
+  - id: doit
+    level: gold
+  - id: robusta-before-20260306
+    level: gold
+  - id: datadog
+    level: gold
+  - id: automatit
+    level: gold
+  - id: profisea
+    level: gold
+  - id: dynatrace
+    level: gold
+  - id: flexera
+    level: gold
+  - id: cloudflare
+    level: gold
+  - id: matrixdevops
+    level: gold
+  - id: echo
+    level: gold
+  - id: minimus
+    level: gold
+  - id: baseshift
+    level: community
   - id: statscraft
+    level: community
+  - id: devopsleadersil
+    level: community
+  - id: k8sforhumans
     level: community
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: cloudnativeil
@@ -171,6 +218,8 @@ sponsors:
   - id: terasky-only
     level: community-day
   - id: quali
+    level: community-day
+  - id: scylladb
     level: community-day
   
   

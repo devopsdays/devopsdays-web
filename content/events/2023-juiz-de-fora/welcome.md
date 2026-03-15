@@ -94,17 +94,8 @@ Description = "DevOpsDays Juiz De Fora 2023"
       </h4>
       <div class="d-flex flex-row">
         <div style="width: max-content; padding-right: 1em;">
-          <a style="text-align:left;" class="btn btn-secondary btn-block" href="/events/2023-juiz-de-fora/contact"> <i class="fa fa-envelope-o fa-fw"></i> Entre em contato</a>
+          <a style="text-align:left;" class="btn btn-secondary btn-block" href="/events/2023-juiz-de-fora/contact"> <i class="fa fa-envelope fa-fw"></i> Entre em contato</a>
         </div>
-        <!-- JGT -->
-        <!--
-        <div style="width: max-content; padding-right: 1em; ">
-          <a style="text-align:left;" class="btn btn-secondary btn-block" href="https://www.sympla.com.br/devopsdays-recife-2022__1715449"> <i class="fa fa-user-plus fa-fw"></i> Inscrições </a>
-        </div>
-        <div style="width: max-content; padding-right: 1em;">
-          <a style="text-align:left;" class="btn btn-secondary btn-block" href="https://g.page/cesarschool?share"> <i class="fa fa-map-marker fa-fw"></i> Local </a>
-        </div>
-        -->
       </div>
     </div>
     <div class="col-lg-8">
@@ -113,22 +104,22 @@ Description = "DevOpsDays Juiz De Fora 2023"
       </h4>
       <div class="d-lg-flex d-sm-flex  d-md-flex flex-row">
         <div style="width: max-content; padding-right: 1em; padding-bottom: 1em;">
-          <a  target="_blank" style="text-align:left;" class="btn btn-secondary btn-block" href="https://www.linkedin.com/company/devopsdays-jf/"><i class="fa fa-linkedin fa-fw"></i> Linkedin</a>
+          <a  target="_blank" style="text-align:left;" class="btn btn-secondary btn-block" href="https://www.linkedin.com/company/devopsdays-jf/"><i class="fa-brands fa-linkedin fa-fw"></i> Linkedin</a>
         </div>
         <div style="width: max-content; padding-right: 1em; padding-bottom: 1em;">
-          <a  target="_blank" style="text-align:left;" class="btn btn-secondary btn-block" href="https://twitter.com/devopsdaysjf/"><i class="fa fa-twitter fa-fw "></i> Twitter </a>
+          <a  target="_blank" style="text-align:left;" class="btn btn-secondary btn-block" href="https://twitter.com/devopsdaysjf/"><i class="fa-brands fa-twitter fa-fw "></i> Twitter </a>
         </div>
         <div style="width: max-content; padding-right: 1em; padding-bottom: 1em;">
-          <a  target="_blank" style="text-align:left;" class="btn btn-secondary btn-block" href="https://www.instagram.com/devopsdaysjf/"> <i class="fa fa-instagram fa-fw"></i>&nbsp; Instagram</a>
+          <a  target="_blank" style="text-align:left;" class="btn btn-secondary btn-block" href="https://www.instagram.com/devopsdaysjf/"> <i class="fa-brands fa-instagram fa-fw"></i>&nbsp; Instagram</a>
         </div>
         <div style="width: max-content; padding-right: 1em; padding-bottom: 1em;">
-          <a  target="_blank" style="text-align:left;" class="btn btn-secondary btn-block" href="https://www.facebook.com/DevopsDaysJF"> <i class="fa fa-facebook fa-fw"></i>&nbsp; Facebook</a>
+          <a  target="_blank" style="text-align:left;" class="btn btn-secondary btn-block" href="https://www.facebook.com/DevopsDaysJF"> <i class="fa-brands fa-facebook fa-fw"></i>&nbsp; Facebook</a>
         </div>
         <div style="width: max-content; padding-right: 1em; padding-bottom: 1em;">
           <a  target="_blank" style="text-align:left;" class="btn btn-secondary btn-block" href="https://discord.gg/GK7DmRvYPW"> <i class="fa fa-users fa-fw"></i>&nbsp; Discord</a>
         </div>
         <div style="width: max-content; padding-right: 1em; padding-bottom: 1em;">
-          <a  target="_blank" style="text-align:left;" class="btn btn-secondary btn-block" href="https://t.me/+LbMyYyjmyEA5OGQx"> <i class="fa fa-telegram fa-fw"></i>&nbsp; Telegram</a>
+          <a  target="_blank" style="text-align:left;" class="btn btn-secondary btn-block" href="https://t.me/+LbMyYyjmyEA5OGQx"> <i class="fa-brands fa-telegram fa-fw"></i>&nbsp; Telegram</a>
         </div>
         <!-- <div style="width: max-content; padding-right: 1em; padding-bottom: 1em;">
           <a  target="_blank" style="text-align:left;" class="btn btn-secondary btn-block" href="https://www.youtube.com/@DevOpsDaysdeJuizdeFora"> <i class="fa fa-youtube fa-fw"></i>&nbsp; YouTube</a>

@@ -1,0 +1,115 @@
+program:
+  - title: "Credenciamento"
+    type: custom
+    date: "2025-11-29"
+    start_time: "08:00"
+    end_time: "09:00"
+  
+  - title: "Coffee Break"
+    type: custom
+    date: "2025-11-29"
+    start_time: "09:00"
+    end_time: "09:30"
+  
+  - title: "Abertura"
+    type: custom
+    date: "2025-11-29"
+    start_time: "09:30"
+    end_time: "10:00"
+  
+  - title: "leonardo-fronza"
+    type: talk
+    date: "2025-11-29"
+    start_time: "10:00"
+    end_time: "10:30"
+    background_color: "#FF8300"
+  
+  - title: "heinz-nevermann"
+    type: talk
+    date: "2025-11-29"
+    start_time: "10:30"
+    end_time: "11:00"
+  
+  - title: "valeria-farias"
+    type: talk
+    date: "2025-11-29"
+    start_time: "11:00"
+    end_time: "11:30"
+  
+  - title: "antonio-azambuja"
+    type: talk
+    date: "2025-11-29"
+    start_time: "11:30"
+    end_time: "12:00"
+    background_color: "#FF8300"
+  
+  - title: "Almoço"
+    type: custom
+    date: "2025-11-29"
+    start_time: "12:00"
+    end_time: "13:30"
+  
+  - title: "Ignite Talks"
+    type: open-space
+    date: "2025-11-29"
+    start_time: "13:30"
+    end_time: "13:45"
+  
+  - title: "rafael-ferreira"
+    type: talk
+    date: "2025-11-29"
+    start_time: "13:45"
+    end_time: "14:15"
+    background_color: "#FF8300"
+  
+  - title: "daniel-rodrigues"
+    type: talk
+    date: "2025-11-29"
+    start_time: "14:15"
+    end_time: "14:45"
+  
+  - title: "joao-brito"
+    type: talk
+    date: "2025-11-29"
+    start_time: "14:40"
+    end_time: "15:15"
+    background_color: "#FF8300"
+  
+  - title: "vinicius-campitelli"
+    type: talk
+    date: "2025-11-29"
+    start_time: "15:15"
+    end_time: "15:45"
+  
+  - title: "cristiano-diedrich"
+    type: talk
+    date: "2025-11-29"
+    start_time: "15:45"
+    end_time: "16:15"
+  
+  - title: "Coffee Break"
+    type: Custom
+    date: "2025-11-29"
+    start_time: "16:15"
+    end_time: "16:45"
+
+  - title: "Open Space"
+    type: pen-spaceo
+    date: "2025-11-29"
+    start_time: "16:45"
+    end_time: "17:15"
+  
+  - title: "deivid-pilla"
+    type: talk
+    date: "2025-11-29"
+    start_time: "17:15"
+    end_time: "17:45"
+    background_color: "#FF8300"
+  
+  - title: "Encerramento"
+    type: custom
+    date: "2025-11-29"
+    start_time: "17:45"
+    end_time: "18:45"
+
+ignites: []

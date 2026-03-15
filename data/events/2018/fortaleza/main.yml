@@ -71,7 +71,6 @@ team_members: # Name is the only required field for team members.
     website: "https://mayara.gouveia.info"
     github: "https://github.com/gb8may"
     twitter: "devopsdays"
-    github: "https://github.com/gb8may"
     image: "mayara-gouveia.jpg"
   - name: "Mauricio Harley"
     role: "Senior Network/Security Engineer"

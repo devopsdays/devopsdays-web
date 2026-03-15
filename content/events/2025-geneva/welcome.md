@@ -69,14 +69,10 @@ Description = "DevopsDays Geneva 2025"
 
 
 <div class="row">
-    <div class="col-12" style="text-align:center;">
- <p>Join the 6th DevOpsDays Geneva on May 19-20, 2025, at the Haute École de Gestion in Geneva!</p><br>
-
-<p>Dive into two days packed with talks, workshops, and open spaces led by global DevOps and digital transformation experts. Discover the latest practices, tools, and strategies that help companies thrive in a world of constant change.</p>
-
-<p>This is your chance to connect, learn, and grow with a vibrant, passionate community! Explore DevSecOps trends, integration challenges, and the essential team transformations needed for success.</p>
-
-<p>Be part of a unique event where every session empowers you to drive impact and serve your customers better!</p>
+  <div class="col-md-12">
+    <div class="row justify-content-center">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/RFypIHwPElQ?si=pSp96R6a0FbXzQUj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
     </div>
 </div>
 
@@ -86,15 +82,19 @@ Description = "DevopsDays Geneva 2025"
         <div class="d-flex p-2">
           <a class="btn btn-primary btn-block"
             style="margin-top: 15px; margin-bottom: 15px; background-color: #8e44b3; border-color: #8e44b3;"
-            href="/events/2025-geneva/sponsor">
-            <i class="fa fa-handshake fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the conference!
+            href="https://www.jingoo.com/client/key/638d45/f9ec8602/">
+            <i class="fa fa-camera fa-lg"></i>&nbsp;&nbsp;DevOpsDays 2025 Photos
           </a>
         </div>
+      </div>
+    </div>
+    <div class="col-md-12">
+      <div class="row justify-content-center">
         <div class="d-flex p-2">
           <a class="btn btn-primary btn-block"
             style="margin-top: 15px; margin-bottom: 15px; background-color: #8e44b3; border-color: #8e44b3;"
-            href="/events/2025-geneva/registration">
-            <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Register to attend the conference!
+            href="https:/events/2026-geneva">
+            <i class="fa fa-hand-point-right fa-lg"></i>&nbsp;&nbsp;DevOpsDays 2026 will come back on the 21st of May !
           </a>
         </div>
       </div>
@@ -123,15 +123,6 @@ Description = "DevopsDays Geneva 2025"
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
-  </div>
-</div>
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Register</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
   </div>
 </div>
 

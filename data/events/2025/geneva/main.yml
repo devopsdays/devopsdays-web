@@ -40,7 +40,7 @@ location_address: "Campus de Battelle, Rue de la Tambourine 17, 1227 Carouge" #O
 nav_elements: # List of pages you want to show up in the navigation of your page.
 #  - name: propose
   - name: location
-  - name: registration
+#  - name: registration
   - name: program
   - name: speakers
   - name: sponsor
@@ -126,7 +126,7 @@ sponsor_levels:
 sponsors:
   - id: hidora
     level: gold
-  - id: dbi-services
+  - id: dbi-services-before-20260119
     level: silver
   - id: swarmit
     level: silver

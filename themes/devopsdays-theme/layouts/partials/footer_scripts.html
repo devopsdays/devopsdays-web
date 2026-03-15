@@ -21,35 +21,85 @@
       {{- $sharing_title := (printf "devopsdays %s - %s" $e.city $e.year) -}}
       {{- $.Scratch.Set "sharing_title" $sharing_title -}}
     {{- end -}}
+    {{- /* Build social shares array based on event configuration or use defaults */ -}}
+    {{- $shares := slice -}}
+    {{- if $e.social_shares -}}
+      {{- range $e.social_shares -}}
+        {{- if eq . "twitter" -}}
+          {{- $shares = $shares | append (dict "share" "twitter" "via" ($.Scratch.Get "twitter_handle")) -}}
+        {{- else -}}
+          {{- $shares = $shares | append . -}}
+        {{- end -}}
+      {{- end -}}
+    {{- else -}}
+      {{- /* Default: all social share buttons */ -}}
+      {{- $shares = slice "email" (dict "share" "twitter" "via" ($.Scratch.Get "twitter_handle")) "facebook" "linkedin" -}}
+    {{- end -}}
+    {{- $.Scratch.Set "social_shares" $shares -}}
   {{- else -}}
     {{- $.Scratch.Set "twitter_handle" "devopsdays" -}}
     {{- if isset .Params "Title" -}}
       {{- if ne .Params.Title "" -}}
         {{- $.Scratch.Set "sharing_title" .Params.Title -}}
+      {{- else -}}
+        {{- $.Scratch.Set "sharing_title" .Title -}}
       {{- end -}}
     {{- else -}}
       {{- if eq .Type "blog" -}}
-        {{- $.Scratch.Set "sharing_title" .Params.Title -}}
+        {{- $.Scratch.Set "sharing_title" .Title -}}
       {{- else -}}
         {{- $.Scratch.Set "sharing_title" "devopsdays" -}}
       {{- end -}}
     {{- end -}}
+    {{- /* Set default shares for non-event pages */ -}}
+    {{- $default_shares := slice "email" (dict "share" "twitter" "via" "devopsdays") "facebook" "linkedin" -}}
+    {{- $.Scratch.Set "social_shares" $default_shares -}}
   {{- end -}}
 {{- end -}}
+{{- /* Ensure sharing_title is always set */ -}}
+{{- if not ($.Scratch.Get "sharing_title") -}}
+  {{- $.Scratch.Set "sharing_title" "devopsdays" -}}
+{{- end -}}
+{{- /* Build shares array as JavaScript string before script tag */ -}}
+{{- $shares := $.Scratch.Get "social_shares" -}}
+{{- if or (not $shares) (eq (len $shares) 0) -}}
+  {{- /* Default for non-event pages */ -}}
+  {{- $shares = slice "email" (dict "share" "twitter" "via" ($.Scratch.Get "twitter_handle")) "facebook" "linkedin" -}}
+{{- end -}}
+{{- $shares_js_parts := slice -}}
+{{- range $shares -}}
+  {{- $share_str := "" -}}
+  {{- $current_item := . -}}
+  {{- if eq $current_item "email" -}}
+    {{- $share_str = "\"email\"" -}}
+  {{- else if eq $current_item "facebook" -}}
+    {{- $share_str = "\"facebook\"" -}}
+  {{- else if eq $current_item "linkedin" -}}
+    {{- $share_str = "\"linkedin\"" -}}
+  {{- else -}}
+    {{- $twitter_share_val := index $current_item "share" -}}
+    {{- if $twitter_share_val -}}
+      {{- $share_str = printf "{share: \"%s\", via: '%s'}" $twitter_share_val ($.Scratch.Get "twitter_handle") -}}
+    {{- end -}}
+  {{- end -}}
+  {{- if $share_str -}}
+    {{- $shares_js_parts = $shares_js_parts | append $share_str -}}
+  {{- end -}}
+{{- end -}}
+{{- $shares_js_str := delimit $shares_js_parts ", " -}}
+{{- if not $shares_js_str -}}
+  {{- $shares_js_str = "\"email\", {share: \"twitter\", via: 'devopsdays'}, \"facebook\", \"linkedin\"" -}}
+{{- end -}}
+{{- $sharing_title_final := $.Scratch.Get "sharing_title" -}}
+{{- if not $sharing_title_final -}}
+  {{- $sharing_title_final = "devopsdays" -}}
+{{- end -}}
+{{- $full_script := printf "$(document).ready(function () {\n  //YOUR JQUERY CODE\n\n  $(\"#share\").jsSocials({\n      shares: [%s],\n      text: '%s',\n      showLabel: false,\n      showCount: false\n  });\n});" $shares_js_str $sharing_title_final -}}
 
 <script>
 //shares
 
 
-$(document).ready(function () {
-  //YOUR JQUERY CODE
-
-  $("#share").jsSocials({
-      shares: ["email", {share: "twitter", via: '{{ $.Scratch.Get "twitter_handle" }}'}, "facebook", "linkedin"],
-      text: '{{ ($.Scratch.Get "sharing_title") }}',
-      showLabel: false,
-      showCount: false
-  });
-});
+{{ $full_script | safeJS }}
 
 </script>

@@ -114,35 +114,6 @@ ga('send', 'pageview');
 <li><a href="http://map.baidu.com/?shareurl=1&poiShareUid=1816533449feda1dfa2d619e">百度地图</a></li>
 </ul>
 
-<p><p></p>
-<!-- Uncomment this only if you have set the coordinates for your location in the config yaml. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html -->
-<div id="map_canvas" style="width: 550px; height: 265px"></div>
-
-<script type="text/javascript" language="javascript">
-  function initMap() {
-    var mapDiv = document.getElementById("map_canvas");
-    var position = new google.maps.LatLng("39.951406", " 116.2793163");
-
-    var map = new google.maps.Map(mapDiv, {
-      center: position,
-      zoom: 14,
-      mapTypeID: google.maps.MapTypeId.ROADMAP
-    });
-
-    var marker = new google.maps.Marker({
-      position: position,
-      map: map,
-      title: "Beijing - Empark Grand Hotel",
-    });
-  }
-
-  window.onload = function() {
-    initMap();
-  };
-</script>
-
-<script type="text/javascript" src="https://maps-api-ssl.google.com/maps/api/js?key=AIzaSyC1bvNK9qFJGEhoWNbQuojmJJ1Tg0DoOew"></script>
-</p>
 
           
           <br /><div class="row cta-row">

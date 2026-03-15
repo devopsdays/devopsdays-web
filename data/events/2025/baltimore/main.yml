@@ -23,9 +23,9 @@ cfp_date_announce: 2025-02-28 # inform proposers of status
 cfp_link: "https://talks.devopsdays.org/devopsdays-baltimore-2025/cfp" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: #2024-02-28 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: #2024-05-22 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_end: 2025-05-21 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
-registration_closed: "false" #set this to true if you need to manually close registration before your registration end date
+registration_closed: "true" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://tickets.devopsdays.org/devopsdays-baltimore/2025/"
 sharing_image: "logo.png"
 

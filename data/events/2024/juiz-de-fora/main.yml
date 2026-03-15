@@ -40,10 +40,10 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: local
   - name: inscrição
     url: https://www.sympla.com.br/evento/devopsdays-juiz-de-fora-2024/2394061
-  #- name: programação
-  #  url: /events/2024-juiz-de-fora/program
-  #- name: palestrantes
-  #  url: /events/2024-juiz-de-fora/speakers
+  - name: programação
+    url: /events/2024-juiz-de-fora/program
+  - name: palestrantes
+    url: /events/2024-juiz-de-fora/speakers
   - name: patrocínio
     url: /events/2024-juiz-de-fora/sponsor
   - name: contato
@@ -153,4 +153,169 @@ sponsor_levels:
   - id: community
     label: Community
 
+
 program:
+  - title: "Credenciamento"
+    type: custom
+    date: 2024-07-05T08:00:00-03:00
+    start_time: "08:30"
+    end_time: "09:00"
+  - title: "Abertura"
+    type: custom
+    date: 2024-07-05T08:00:00-03:00
+    start_time: "09:00"
+    end_time: "09:30"
+  - title: "rafael-gomex"
+    type: talk
+    date: 2024-07-05T08:00:00-03:00
+    start_time: "09:30"
+    end_time: "10:00"
+  - title: "stephanie-chaia-bartels"
+    type: talk
+    date: 2024-07-05T08:00:00-03:00
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Coffee Break"
+    type: custom
+    date: 2024-07-05T08:00:00-03:00
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "felipe-rocha"
+    type: talk
+    date: 2024-07-05T08:00:00-03:00
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "cadu-ribeiro"
+    type: talk
+    date: 2024-07-05T08:00:00-03:00
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Almoço"
+    type: custom
+    date: 2024-07-05T08:00:00-03:00
+    start_time: "12:00"
+    end_time: "14:00"
+  - title: "Ignite Talks"
+    type: custom
+    date: 2024-07-05T08:00:00-03:00
+    start_time: "14:00"
+    end_time: "14:15"
+    background_color: "#AED6F1"
+  - title: "daniel-rodrigues"
+    type: talk
+    date: 2024-07-05T08:00:00-03:00
+    start_time: "14:15"
+    end_time: "14:45"
+  - title: "francisco-cardoso"
+    type: talk
+    date: 2024-07-05T08:00:00-03:00
+    start_time: "14:45"
+    end_time: "15:15"
+  - title: "Coffee Break"
+    type: custom
+    date: 2024-07-05T08:00:00-03:00
+    start_time: "15:15"
+    end_time: "15:45"
+  - title: "Open Spaces"
+    type: custom
+    date: 2024-07-05T08:00:00-03:00
+    start_time: "15:45"
+    end_time: "16:45"
+    background_color: "#AED6F1"
+  - title: "lucas-coelho"
+    type: talk
+    date: 2024-07-05T08:00:00-03:00
+    start_time: "16:45"
+    end_time: "17:15"
+  - title: "Encerramento"
+    type: custom
+    date: 2024-07-05T08:00:00-03:00
+    start_time: "17:15"
+    end_time: "18:00"
+  - title: "Happy Hour"
+    type: custom
+    date: 2024-07-05T08:00:00-03:00
+    start_time: "18:00"
+    end_time: "22:00"
+  - title: "Credenciamento"
+    type: custom
+    date: 2024-07-08T08:00:00-03:00
+    start_time: "08:30"
+    end_time: "09:00"
+  - title: "Abertura"
+    type: custom
+    date: 2024-07-08T08:00:00-03:00
+    start_time: "09:00"
+    end_time: "09:30"
+  - title: "cintia-esteves"
+    type: talk
+    date: 2024-07-08T08:00:00-03:00
+    start_time: "09:30"
+    end_time: "10:00"
+  - title: "wendel-moreira"
+    type: talk
+    date: 2024-07-08T08:00:00-03:00
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Coffee Break"
+    type: custom
+    date: 2024-07-08T08:00:00-03:00
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "alex-salgado"
+    type: talk
+    date: 2024-07-08T08:00:00-03:00
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "natalia-granato"
+    type: talk
+    date: 2024-07-08T08:00:00-03:00
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Almoço"
+    type: custom
+    date: 2024-07-08T08:00:00-03:00
+    start_time: "12:00"
+    end_time: "14:00"
+  - title: "Ignite Talks"
+    type: custom
+    date: 2024-07-08T08:00:00-03:00
+    start_time: "14:00"
+    end_time: "14:15"
+    background_color: "#AED6F1"
+  - title: "brendo-freitas"
+    type: talk
+    date: 2024-07-08T08:00:00-03:00
+    start_time: "14:15"
+    end_time: "14:45"
+  - title: "henrique-cabral"
+    type: talk
+    date: 2024-07-08T08:00:00-03:00
+    start_time: "14:45"
+    end_time: "15:15"
+  - title: "Coffee Break"
+    type: custom
+    date: 2024-07-08T08:00:00-03:00
+    start_time: "15:15"
+    end_time: "15:45"
+  - title: "Open Spaces"
+    type: custom
+    date: 2024-07-08T08:00:00-03:00
+    start_time: "15:45"
+    end_time: "16:45"
+    background_color: "#AED6F1"
+  - title: "alexandre-cabral"
+    type: talk
+    date: 2024-07-08T08:00:00-03:00
+    start_time: "16:45"
+    end_time: "17:15"
+  - title: "Encerramento"
+    type: custom
+    date: 2024-07-08T08:00:00-03:00
+    start_time: "17:15"
+    end_time: "18:00"
+  - title: "Happy Hour"
+    type: custom
+    date: 2024-07-08T08:00:00-03:00
+    start_time: "18:00"
+    end_time: "22:00"

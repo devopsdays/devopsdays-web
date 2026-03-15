@@ -2,7 +2,7 @@
 Title = "DevOpsDays Amsterdam 2025"
 Type = "welcome"
 aliases = ["/events/2025-amsterdam/"]
-Description = "DevOpsDays Amsterdam will take place June 18-20, 2025! The group that brought you DevOpsDays Amsterdam is back together and planning the 2025 event."
+Description = "DevOpsDays Amsterdam took place June 18-20, 2025! Thanks everyone, for another great event."
 +++
 
 <div style="text-align:center;">
@@ -125,11 +125,9 @@ Description = "DevOpsDays Amsterdam will take place June 18-20, 2025! The group 
     <div class="col-12">
         From fledgling startups to established industry, The Netherlands is home to a large, vibrant technology community. Amsterdam, in particular, has been a flurry of activity in the past several years, drawing attention from around the globe.
       <br><br>
-        DevOpsDays Amsterdam brings all disciplines, such as development, operations, QA, InfoSec, management, and leadership, together to discuss culture, tools and skills to make better organizations and products. The 2025 event will be the 13th time we have held DevOpsDays Amsterdam, and it should be bigger and better than ever before!
+        DevOpsDays Amsterdam brings all disciplines, such as development, operations, QA, InfoSec, management, and leadership, together to discuss culture, tools and skills to make better organizations and products. The 2025 event was the 13th time we have held DevOpsDays Amsterdam, and we had a great time at the <a href="/events/2025-amsterdam/location">Pakhuis de Zwijger</a> in the center of Amsterdam.
       <br><br>
-        We expect 600 people this year and will be holding the event on June 18-20, 2025 at the <a href="/events/2025-amsterdam/location">Pakhuis de Zwijger</a> in the center of Amsterdam.
-      <br><br>
-        The first day will be a workshop day, focusing on hands-on activities, from coding to cooperation in several parallel tracks in smaller settings. The format of the following 2 days includes a single track of 30-minute talks in the morning, followed by Ignite talks (5-minute, auto forwarding slides). There will be room for Open Spaces in the afternoon, which is considered a vital portion of the event. For those not interested in the Open Spaces, we continue offering the single track around a specific theme.
+        The first day was a workshop day, focused on hands-on activities, from coding to cooperation in several parallel tracks in smaller settings. The format for the other 2 days includes a single track of 30-minute talks, Ignite talks (5-minute, auto forwarding slides), and "Open Spaces". The latter is considered a vital portion of the event. For those not interested in the Open Spaces, we continue offering the single track in the main room.
     </div>
   </div>
   <div class="row">

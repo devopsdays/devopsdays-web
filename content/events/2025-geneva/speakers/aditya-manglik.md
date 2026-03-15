@@ -1,10 +1,13 @@
 +++
 Title = "Aditya Manglik"
 image = "aditya-manglik.png"
-Linkedin = "https://linkedin.com/in/adityamanglik"
+Linkedin = "https://www.linkedin.com/in/adityamanglik/"
 type = "speaker"
 linktitle = "aditya-manglik"
 
 +++
+Aditya Manglik is a graduate student at ETH Zurich, specializing in sustainable computing.
 
-I am an agile technical coach / software crafter with more than 15 years of experience in software development and work for a company called Pyxis Suisse.
+He has four years of professional experience in software engineering, coupled with three years of research experience in computer architecture.
+
+He has contributed to open-source software as a Google Summer of Code student with the GNOME Foundation.

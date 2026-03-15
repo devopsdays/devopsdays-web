@@ -17,7 +17,7 @@
 {{ if eq $p nil }}
   {{ $p = $e }}
 {{ end }}
- 
+
   {{- if $e.startdate -}}
   {{/*  {{- range where $.Site.Pages "Type" "talk" -}}  */}}
   {{ if (where (readDir (printf "content/events/%s/" $e.name)) "Name" "program") }}
@@ -106,6 +106,7 @@
   {{- end -}}
   {{- if $e.timezone -}}
   <script>
+    var eventTimezone = "{{ $e.timezone }}";
     var eventTimeOffset = (Intl.DateTimeFormat(userLang,{ timeZone: "{{ $e.timezone }}", timeZoneName: 'longOffset' }).formatToParts().find(part => part.type==='timeZoneName').value).slice(3,99);
     var eventTimeAbbreviation = Intl.DateTimeFormat(userLang,{ timeZone: "{{ $e.timezone }}", timeZoneName: 'short' }).formatToParts().find(part => part.type==='timeZoneName').value;
   </script>
@@ -159,13 +160,15 @@
                               </script>
                               {{- end -}}
                               <script>
-                                document.write("<strong>");
-                                document.write(String(localstarttime.getHours()).padStart(2,"0")+":"+String(localstarttime.getMinutes()).padStart(2,"0"));
-                                document.write("&nbsp;-&nbsp;");
-                                document.write(String(localendtime.getHours()).padStart(2,"0")+":"+String(localendtime.getMinutes()).padStart(2,"0"));
-                                document.write("&nbsp;");
-                                document.write(userTimeAbbreviation);
-                                document.write("</strong>");
+                                if (userTimeZone !=eventTimezone) {
+                                  document.write("<abbr title='"+userTimeZone+"'>");
+                                  document.write(String(localstarttime.getHours()).padStart(2,"0")+":"+String(localstarttime.getMinutes()).padStart(2,"0"));
+                                  document.write("&nbsp;-&nbsp;");
+                                  document.write(String(localendtime.getHours()).padStart(2,"0")+":"+String(localendtime.getMinutes()).padStart(2,"0"));
+                                  document.write("&nbsp;");
+                                  document.write(userTimeAbbreviation);
+                                  document.write("</abbr>");
+                                }
                               </script>
                             {{- end -}}
                           </div>
@@ -179,7 +182,7 @@
                               {{- if .comments -}}
                                 <span class="program-page-desc">{{ .comments | markdownify }}<br/></span>
                               {{- end -}}
-                              {{- else if or (eq .type "talk") (eq .type "workshop") -}}
+                            {{- else if or (eq .type "talk") (eq .type "workshop") -}}
                               {{- if .custom_url -}}
                                 <a href="{{ .custom_url | safeURL }}">{{ $.Scratch.Get (printf "%s-speaker" .title) }} - {{ $.Scratch.Get .title }}</a><br/>
                               {{- else -}}
@@ -188,12 +191,12 @@
                               {{- if eq  ($.Scratch.Get "icons")  "TRUE" -}}
                                 {{- with ($.Scratch.Get (printf "%s-video_link" .title)) -}}&nbsp;<a href="{{ . }}"><i class="fa-solid fa-video" aria-hidden="true"></i>&nbsp;Video</a>&nbsp;{{- end -}}
                                 {{- with ($.Scratch.Get (printf "%s-slides_link" .title)) -}}&nbsp;<a href="{{ . }}"><i class="fa-regular fa-file-lines" aria-hidden="true"></i>&nbsp;Slides</a>&nbsp;</a>&nbsp;{{- end -}}
-                              {{- end -}}                           
-                                {{- if .comments -}}
-                                  <span class="program-page-desc">{{ .comments | markdownify }}<br/></span>
-                                {{- end -}}
+                              {{- end -}}
+                              {{- if .comments -}}
+                                <span class="program-page-desc">{{ .comments | markdownify }}<br/></span>
+                              {{- end -}}
 
-                              {{- else if eq .type "ignite" -}}
+                            {{- else if eq .type "ignite" -}}
                               {{ .title }}
                               <!-- new ignite code start -->
                               <ul class = "list-unstyled">
@@ -205,10 +208,10 @@
                                         <a href="/events/{{ $e.name }}/program/{{ .title }}">{{ $.Scratch.Get (printf "%s-speaker" .title) }} - {{ $.Scratch.Get .title }}</a>
                                         {{- if eq  ($.Scratch.Get "icons")  "TRUE" -}}
                                         {{- with ($.Scratch.Get (printf "%s-video_link" .title)) -}}&nbsp;<a href="{{ . }}"><i class="fa-solid fa-video" aria-hidden="true"></i>&nbsp;Video</a>&nbsp;{{- end -}}
-                                        {{- with ($.Scratch.Get (printf "%s-slides_link" .title)) -}}&nbsp;<a href="{{ . }}"><i class="fa-regular fa-file-lines" aria-hidden="true"></i>&nbsp;Slides</a>&nbsp;</a>&nbsp;{{- end -}}  
-                                           
+                                        {{- with ($.Scratch.Get (printf "%s-slides_link" .title)) -}}&nbsp;<a href="{{ . }}"><i class="fa-regular fa-file-lines" aria-hidden="true"></i>&nbsp;Slides</a>&nbsp;</a>&nbsp;{{- end -}}
+
                                         {{- end -}}
-      
+
                                       </li>
                                     {{- end -}}
                                   {{- end -}}
@@ -219,9 +222,9 @@
                                         <a href="/events/{{ $e.name }}/program/{{ .title }}">{{ $.Scratch.Get (printf "%s-speaker" .title) }} - {{ $.Scratch.Get .title }}</a>
                                         {{- if eq  ($.Scratch.Get "icons")  "TRUE" -}}
                                         {{- with ($.Scratch.Get (printf "%s-video_link" .title)) -}}&nbsp;<a href="{{ . }}"><i class="fa-solid fa-video" aria-hidden="true"></i>&nbsp;Video</a>&nbsp;{{- end -}}
-                                        {{- with ($.Scratch.Get (printf "%s-slides_link" .title)) -}}&nbsp;<a href="{{ . }}"><i class="fa-regular fa-file-lines" aria-hidden="true"></i>&nbsp;Slides</a>&nbsp;</a>&nbsp;{{- end -}}  
+                                        {{- with ($.Scratch.Get (printf "%s-slides_link" .title)) -}}&nbsp;<a href="{{ . }}"><i class="fa-regular fa-file-lines" aria-hidden="true"></i>&nbsp;Slides</a>&nbsp;</a>&nbsp;{{- end -}}
                                         {{- end -}}
-      
+
                                       </li>
                                     {{- end -}}
                                   {{- end -}}

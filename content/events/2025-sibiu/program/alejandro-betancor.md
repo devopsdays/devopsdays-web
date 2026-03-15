@@ -1,0 +1,10 @@
++++
+Talk_date = ""
+Talk_start_time = ""
+Talk_end_time = ""
+Title = "Building Secure Applications: Leveraging SAST, DAST and Container Security in Your GitLab Flow"
+Type = "talk"
+Speakers = ["alejandro-betancor"]
++++
+
+In today's fast-paced development landscape, security can no longer be an afterthought. Integrating security seamlessly into the DevOps workflow is crucial for building resilient and trustworthy applications. This talk provides a practical guide to embedding security directly within your GitLab flow by leveraging the power of Static Application Security Testing (SAST), Dynamic Application Security Testing (DAST), and Container Image Scanning. Attendees will learn how to implement these key security practices directly within their GitLab CI/CD pipelines. We will explore: Shifting Left with SAST: Automatically analyze your source code for vulnerabilities early in development, providing immediate feedback and preventing flaws from reaching production. Runtime Vulnerability Detection with DAST: Integrate dynamic testing to identify weaknesses in running applications, simulating real-world attacks to uncover issues missed by static analysis. Securing Your Containerized Deployments: Automate scanning of container images for known vulnerabilities and misconfigurations, ensuring runtime security. Orchestrating Security in GitLab CI/CD: Practical examples of integrating SAST, DAST, and container scanning jobs into GitLab pipelines, including configuration, managing findings, and automating build failures based on security policies. Best Practices and Lessons Learned: Insights into common challenges, strategies for managing false positives, and tips for fostering a security-conscious culture. By the end of this session, attendees will have a clear understanding of how to build more secure applications by effectively leveraging the security features available within their existing GitLab workflow, empowering them to integrate security as a fundamental part of their DevOps journey.

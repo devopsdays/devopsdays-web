@@ -22,12 +22,12 @@ Visando valorizar a participação de instituições na realização do evento, 
 <h3> <b>INFORMAÇÃO IMPORTANTE SOBRE O PATROCÍNIO</b></h3>
 Cada cota de investimento, além dos benefícios abaixo também dá direito a mais um beneficio a sua escolha. 
 Para entender qual benefício você pode escolher, entre em contato no e-mail devopsdaysbhz@gmail.com ou visite nosso midia kit clicando no icone abaixo:</p> 
-<p><a href="https://drive.google.com/file/d/1qtUfaBgc7pZb9rKXJOYLcPNlpvpBdTSn/view?usp=sharing"><i class="fa fa-download" style="font-size:30px"></i></a></p>
+<p><a href="https://drive.google.com/file/d/1sdk2g7ggEdOCPc0m5ydWcpJjRh4CGc1u/view?usp=sharing"><i class="fa fa-download" style="font-size:30px"></i></a></p>
 </div>
 <br>
 
-<div class="table-responsive text-center">
 
+<!-- <div class="table-responsive text-center">
   <table class="table table-bordered table-hover table-responsive-md">
     <thead class="thead-light">
       <th>BENEFÍCIOS</th>
@@ -181,7 +181,7 @@ Para entender qual benefício você pode escolher, entre em contato no e-mail de
 <h4><b>COMUNIDADE</b></h4>
   <p>Apoiadores que contribuiram com algum beneficio para o público ou quantia entre R$ 1.000 e R$ 1.500 terão direito à divulgação nas redes sociais e 1 inscrição para o evento.</p>
    
-</div>
+</div> -->
 <!-- <p>
 Gold sponsors get a full table and Silver sponsors a shared table where they can interact with those interested to come visit during breaks. All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
 <p>

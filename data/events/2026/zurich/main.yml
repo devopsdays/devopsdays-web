@@ -15,14 +15,13 @@ startdate: 2026-05-06T00:00:00+02:00 # The start date of your event. Leave blank
 enddate: 2026-05-07T23:59:59+02:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2025-12-01T00:00:00+02:00 # start accepting talk proposals.
-cfp_date_end: 2026-02-01T23:59:59+02:00 # close your call for proposals.
-cfp_date_announce: 2025-12-01T00:00:00+02:00 # inform proposers of status
+cfp_date_start: 2025-10-01T00:00:00+02:00 # start accepting talk proposals.
+cfp_date_end: 2026-01-31T23:59:59+02:00 # close your call for proposals.
+cfp_date_announce: 2026-02-28T00:00:00+02:00 # inform proposers of status
 
-cfp_link: "false" 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://sessionize.com/devopsdays-zurich-2026/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: 2026-01-05T00:00:00+02:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_start: 2026-01-04T00:00:00+02:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 registration_date_end: 2026-05-06T00:00:00+02:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "false" #set this to true if you need to manually close registration before your registration end date
@@ -46,15 +45,14 @@ event_social_mastadon: "https://social.devopsdays.org/@zurich" # Change this to 
 # event_social_bsky: "https://bsky.app/profile/DevOpsZH.bsky.social" # Change this to url to your bluesky page
 event_social_youtube: "DevOpsDaysZurich" # Change this to the youtube channel handle for your event such as devopsdaysrox
 # legacy
-event_twitter: "DevOpsZH" # This will create a traditional "Follow" twitter button. Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp.
+# event_twitter: "DevOpsZH" # This will create a traditional "Follow" twitter button. Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
   - name: location
- # - name: registration
- # - name: program
- # - name: speakers
- # - name: sponsor
+  - name: registration
+  - name: program
+  - name: speakers
+  - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
@@ -137,11 +135,19 @@ team_members:
   github: "franbuehler"
   twitter: "@bufrasch"
   linkedin: "https://www.linkedin.com/in/franziska-buehler-bb037a163/"
+- name: "Zoltan Vitus"
+  twitter: "vituszoli2"
+  employer: "Federal Office of Information Technology"
+  bio: "Experienced agile coach, SAFe Program consultant with a demonstrated history of working in the information technology and services industry. Skilled in agile coaching and leadership, enterprise architecture management, portfolio management and IT strategy."
+  linkedin: "https://www.linkedin.com/in/zoltan-vitus-828abb/"
+  image: "zoltan-vitus.jpg"
 organizer_email: "zurich@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+- id: bit
+  level: partner
 - id: businessmap
   level: partner
 - id: hostpoint
@@ -156,6 +162,38 @@ sponsors:
   level: community
 - id: girlscodetoo
   level: community
+- id: vshn
+  level: gold
+- id: cloudscalech
+  level: gold
+- id: redgate
+  level: gold
+- id: dash0
+  level: gold
+- id: infometis
+  level: silver
+- id: zkb
+  level: silver
+- id: 4data
+  level: silver
+- id: cyberlink
+  level: event
+- id: xelon
+  level: event
+- id: exoscale
+  level: event
+- id: zuhlke
+  level: bronze
+- id: kpmg
+  level: bronze
+- id: cognizant
+  level: bronze
+- id: hslu
+  level: bronze
+- id: dbi-services
+  level: bronze
+- id: infiniroot
+  level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -171,7 +209,7 @@ sponsor_levels:
   label: Silver
   max: 3
 - id: event
-  label: Evening Event, Coffee, Meal
+  label: Evening Event, Coffee, Meals, Snacks
   max: 4
 - id: bronze
   label: Bronze
@@ -182,3 +220,272 @@ sponsor_levels:
 - id: partner
   label: Partner
   max: 0
+program:
+# Day 1
+- title: Registration Day 1
+  type: custom
+  date: 2026-05-06
+  start_time: '8:00'
+  end_time: '9:00'
+
+- title: Opening Day1
+  type: custom
+  date: 2026-05-06
+  start_time: '9:00'
+  end_time: '9:15'
+
+- title: bertrand-delacretaz
+  type: talk
+  date: 2026-05-06
+  start_time: '9:15'
+  end_time: '10:00'
+
+- title: maria-hendrike-peetz
+  type: talk
+  date: 2026-05-06
+  start_time: '10:00'
+  end_time: '10:30'
+
+- title: Coffee Break Day 1
+  type: custom
+  date: 2026-05-06
+  start_time: '10:30'
+  end_time: '11:00'
+
+- title: olga-kristjansdottir
+  type: talk
+  date: 2026-05-06
+  start_time: '11:00'
+  end_time: '11:30'
+
+- title: camille-nigon
+  type: talk
+  date: 2026-05-06
+  start_time: '11:30'
+  end_time: '12:00'
+
+- title: mohammad-ali-arabi
+  type: talk
+  date: 2026-05-06
+  start_time: '12:00'
+  end_time: '12:30'
+
+- title: Lunch Day 1
+  type: custom
+  date: 2026-05-06
+  start_time: '12:30'
+  end_time: '14:00'
+
+- title: Opening afternoon & Sponsor's speeches
+  type: custom
+  date: 2026-05-06
+  start_time: '14:00'
+  end_time: '14:10'
+
+- title: Ignites
+  type: ignite
+  date: 2026-05-06
+  start_time: '14:10'
+  end_time: '14:45'
+
+- title: Open Space Voting Day 1
+  type: custom
+  date: 2026-05-06
+  start_time: '14:45'
+  end_time: '15:15'
+
+- title: Open Space Track 1
+  type: open-space
+  date: 2026-05-06
+  start_time: '15:15'
+  end_time: '15:55'
+
+- title: Open Space Track 2
+  type: open-space
+  date: 2026-05-06
+  start_time: '16:00'
+  end_time: '16:40'
+
+- title: Open Space Track 3
+  type: open-space
+  date: 2026-05-06
+  start_time: '16:45'
+  end_time: '17:25'
+
+- title: oliver-zihler
+  type: workshop
+  date: 2026-05-06
+  start_time: '15:15'
+  end_time: '17:25'
+
+- title: manuel-schindler
+  type: workshop
+  date: 2026-05-06
+  start_time: '15:15'
+  end_time: '17:25'
+
+- title: cristian-schuszter
+  type: workshop
+  date: 2026-05-06
+  start_time: '15:15'
+  end_time: '17:25'
+
+- title: Closing the day 1
+  type: custom
+  date: 2026-05-06
+  start_time: '17:30'
+  end_time: '17:45'
+
+- title: Evening Event
+  type: custom
+  date: 2026-05-06
+  start_time: '17:45'
+  end_time: '22:00'
+
+# Day 2
+- title: Registration Day 2
+  type: custom
+  date: 2026-05-07
+  start_time: '8:00'
+  end_time: '9:00'
+
+- title: Opening Day 2
+  type: custom
+  date: 2026-05-07
+  start_time: '9:00'
+  end_time: '9:15'
+
+- title: limor-bergman-gross
+  type: talk
+  date: 2026-05-07
+  start_time: '9:15'
+  end_time: '10:00'
+
+- title: egor-savochkin
+  type: talk
+  date: 2026-05-07
+  start_time: '10:00'
+  end_time: '10:30'
+
+- title: Coffee break Day 2
+  type: custom
+  date: 2026-05-07
+  start_time: '10:30'
+  end_time: '11:00'
+
+- title: melchior-thambipillai
+  type: talk
+  date: 2026-05-07
+  start_time: '11:00'
+  end_time: '11:30'
+
+- title: gang-luo
+  type: talk
+  date: 2026-05-07
+  start_time: '11:30'
+  end_time: '12:00'
+
+- title: florian-mair
+  type: talk
+  date: 2026-05-07
+  start_time: '12:00'
+  end_time: '12:30'
+
+- title: Lunch Day 2
+  type: custom
+  date: 2026-05-07
+  start_time: '12:30'
+  end_time: '14:00'
+
+- title: Opening Afternoon and Sponsor Pitches
+  type: custom
+  date: 2026-05-07
+  start_time: '14:00'
+  end_time: '14:10'
+
+- title: Ignites
+  type: ignite
+  date: 2026-05-07
+  start_time: '14:10'
+  end_time: '14:50'
+
+- title: Open Space Voting Day 2
+  type: custom
+  date: 2026-05-07
+  start_time: '14:50'
+  end_time: '15:15'
+
+- title: Open Space Track 1
+  type: open-space
+  date: 2026-05-07
+  start_time: '15:15'
+  end_time: '15:55'
+
+- title: Open Space Track 2
+  type: open-space
+  date: 2026-05-07
+  start_time: '16:00'
+  end_time: '16:40'
+
+- title: Open Space Track 3
+  type: open-space
+  date: 2026-05-07
+  start_time: '16:45'
+  end_time: '17:25'
+
+- title: marc-herren
+  type: workshop
+  date: 2026-05-07
+  start_time: '15:15'
+  end_time: '17:25'
+
+- title: betta-lyon-delsordo
+  type: workshop
+  date: 2026-05-07
+  start_time: '15:15'
+  end_time: '17:25'
+
+- title: luc-juggery
+  type: workshop
+  date: 2026-05-07
+  start_time: '15:15'
+  end_time: '17:25'
+
+- title: Closing Day 2
+  type: custom
+  date: 2026-05-07
+  start_time: '17:30'
+  end_time: '17:45'
+
+ignites:
+- title: "michele-brambilla"
+  date: 2026-05-06
+- title: "vera-herzmann"
+  date: 2026-05-06
+- title: "denniz-donmez"
+  date: 2026-05-06
+- title: "eszter-torda"
+  date: 2026-05-06
+- title: "bastian-spanneberg"
+  date: 2026-05-06
+- title: "antonio-alvino"
+  date: 2026-05-06
+- title: "simon-falsig"
+  date: 2026-05-06
+- title: "iris-hunkeler"
+  date: 2026-05-07
+- title: "peter-zylka-greger"
+  date: 2026-05-07
+- title: "marcelo-ancelmo"
+  date: 2026-05-07
+- title: "pallavi-agrawal"
+  date: 2026-05-07
+- title: "martin-fischer"
+  date: 2026-05-07
+- title: "lena-fuhrimann"
+  date: 2026-05-07
+- title: "sandro-meier"
+  date: 2026-05-07
+- title: "timo-bohm"
+  date: 2026-05-07
+

@@ -136,7 +136,7 @@ proposal_email: "proposals-sao-paulo-2019@devopsdays.org" # Put your proposal em
 sponsors:
   - id: newrelic-before-20220808
     level: platinum
-  - id: dynatrace
+  - id: dynatrace-before-20250905
     level: platinum
   - id: indracompany
     level: platinum

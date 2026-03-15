@@ -1,0 +1,164 @@
+{{- /*
+  This function determines the "current" event for a given city/event_group.
+  
+  Input: Page context (.) - the function will get the current event data from the page.
+  
+  Returns: The event object for the current/most recent event, or empty dict if none found.
+  
+  Logic:
+    - First preference: Latest future event (enddate > now) by startdate
+    - Second preference: Latest event by year (from name) for events without dates
+    - Third preference: Latest past event by startdate
+*/ -}}
+
+{{- $currentEvent := dict -}}
+{{- $e := partial "functions/get-event-data" . -}}
+
+{{- if and $e $e.city -}}
+  {{- /* Determine matching criteria: use event_group if available, otherwise city */ -}}
+  {{- $matchTitle := $e.city -}}
+  {{- if $e.event_group -}}
+    {{- $matchTitle = $e.event_group -}}
+  {{- end -}}
+  
+  {{- /* Get all events with dates */ -}}
+  {{- $allEvents := partial "functions/get-all-events" . -}}
+  
+  {{- /* Get all events without dates (TBD) */ -}}
+  {{- $tbdEvents := partial "functions/get-tbd-events" . -}}
+  
+  {{- /* Combine both sets */ -}}
+  {{- $allEventsIncludingTBD := $allEvents -}}
+  {{- range $tbdEvents -}}
+    {{- $allEventsIncludingTBD = $allEventsIncludingTBD | append . -}}
+  {{- end -}}
+  
+  {{- /* Filter events matching this city/event_group, excluding the current event */ -}}
+  {{- $futureEvents := slice -}}
+  {{- $eventsWithoutDates := slice -}}
+  {{- $pastEvents := slice -}}
+  
+  {{- range $allEventsIncludingTBD -}}
+    {{- /* Skip if this is the event we're checking */ -}}
+    {{- if and $e.name (ne .name $e.name) -}}
+      {{- /* Check if event matches city or event_group (case-insensitive) */ -}}
+      {{- $eventMatchTitle := .city -}}
+      {{- if .event_group -}}
+        {{- $eventMatchTitle = .event_group -}}
+      {{- end -}}
+      
+      {{- if or (eq (lower .city) (lower $matchTitle)) (eq (lower $eventMatchTitle) (lower $matchTitle)) -}}
+        {{- /* Event matches this city/event_group */ -}}
+        {{- if and .startdate .enddate -}}
+          {{- /* Separate into future and past events based on enddate */ -}}
+          {{- if gt (time .enddate) now -}}
+            {{- $futureEvents = $futureEvents | append . -}}
+          {{- else -}}
+            {{- $pastEvents = $pastEvents | append . -}}
+          {{- end -}}
+        {{- else -}}
+          {{- /* Event without dates - store separately */ -}}
+          {{- $eventsWithoutDates = $eventsWithoutDates | append . -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+  
+  {{- /* Determine current event with priority: latest year (future dates or TBD) > past */ -}}
+  {{- $candidateEvent := dict -}}
+  {{- /* Get the year of the event being viewed */ -}}
+  {{- $viewingYear := 0 -}}
+  {{- if $e.year -}}
+    {{- $viewingYear = int $e.year -}}
+  {{- else if $e.name -}}
+    {{- $yearStr := index (split $e.name "-") 0 -}}
+    {{- $viewingYear = int $yearStr -}}
+  {{- end -}}
+  
+  {{- /* Find the latest year among all OTHER events (excluding the one being viewed) */ -}}
+  {{- $latestYear := 0 -}}
+  {{- range $futureEvents -}}
+    {{- $eventYear := 0 -}}
+    {{- if .year -}}
+      {{- $eventYear = int .year -}}
+    {{- end -}}
+    {{- if and $eventYear (gt $eventYear $latestYear) -}}
+      {{- $latestYear = $eventYear -}}
+    {{- end -}}
+  {{- end -}}
+  
+  {{- range $eventsWithoutDates -}}
+    {{- $eventYear := 0 -}}
+    {{- if .name -}}
+      {{- $yearStr := index (split .name "-") 0 -}}
+      {{- $eventYear = int $yearStr -}}
+    {{- end -}}
+    {{- if and $eventYear (gt $eventYear $latestYear) -}}
+      {{- $latestYear = $eventYear -}}
+    {{- end -}}
+  {{- end -}}
+  
+  {{- /* Only return a current event if another event has a newer year than what we're viewing */ -}}
+  {{- if and (gt $latestYear 0) (gt $latestYear $viewingYear) -}}
+    {{- /* Find the event from the latest year - prefer future with dates, then TBD */ -}}
+    {{- $futureFromLatestYear := dict -}}
+    {{- $tbdFromLatestYear := dict -}}
+    
+    {{- /* Look for future events with dates from the latest year */ -}}
+    {{- range $futureEvents -}}
+      {{- $eventYear := 0 -}}
+      {{- if .year -}}
+        {{- $eventYear = int .year -}}
+      {{- end -}}
+      {{- if eq $eventYear $latestYear -}}
+        {{- if or (not $futureFromLatestYear) (gt .startdate $futureFromLatestYear.startdate) -}}
+          {{- $futureFromLatestYear = . -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+    
+    {{- /* Look for TBD events from the latest year */ -}}
+    {{- range $eventsWithoutDates -}}
+      {{- $eventYear := 0 -}}
+      {{- if .name -}}
+        {{- $yearStr := index (split .name "-") 0 -}}
+        {{- $eventYear = int $yearStr -}}
+      {{- end -}}
+      {{- if eq $eventYear $latestYear -}}
+        {{- $tbdFromLatestYear = . -}}
+      {{- end -}}
+    {{- end -}}
+    
+    {{- /* Prefer future event with dates, fallback to TBD */ -}}
+    {{- if $futureFromLatestYear -}}
+      {{- $candidateEvent = $futureFromLatestYear -}}
+    {{- else if $tbdFromLatestYear -}}
+      {{- $candidateEvent = $tbdFromLatestYear -}}
+    {{- end -}}
+  {{- else if eq $latestYear 0 -}}
+    {{- /* No future/TBD events found, check past events only if viewing year is not newer */ -}}
+    {{- if gt (len $pastEvents) 0 -}}
+      {{- $latestPastYear := 0 -}}
+      {{- $latestPastEvent := dict -}}
+      {{- range $pastEvents -}}
+        {{- $eventYear := 0 -}}
+        {{- if .year -}}
+          {{- $eventYear = int .year -}}
+        {{- end -}}
+        {{- if and $eventYear (gt $eventYear $latestPastYear) -}}
+          {{- $latestPastYear = $eventYear -}}
+          {{- $latestPastEvent = . -}}
+        {{- end -}}
+      {{- end -}}
+      {{- /* Only use past event if its year is newer than viewing year */ -}}
+      {{- if and $latestPastEvent (gt $latestPastYear $viewingYear) -}}
+        {{- $candidateEvent = $latestPastEvent -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+  
+  {{- $currentEvent = $candidateEvent -}}
+{{- end -}}
+
+{{- return $currentEvent -}}
+

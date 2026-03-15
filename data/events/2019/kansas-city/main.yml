@@ -173,7 +173,7 @@ organizer_email: "organizers-kansas-city-2019@devopsdays.org" # Put your organiz
 sponsors:
   - id: gitlab-before-20220516
     level: premium
-  - id: dynatrace
+  - id: dynatrace-before-20250905
     level: premium
   - id: contrast_security-before-20221014
     level: premium

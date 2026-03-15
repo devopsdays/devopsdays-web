@@ -1,0 +1,15 @@
++++
+Title = "Contato"
+Type = "event"
+Description = "Contato - DevOpsDays Recife 2025"
++++
+<br>
+<h4>Se você quiser entrar em contato conosco, basta enviar um e-mail para: {{< email_organizers >}}</h4>
+</br>
+
+<h4><strong>Organização:</strong></h4>
+
+{{< list_organizers >}}
+
+
+**{{< list_core >}}**

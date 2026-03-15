@@ -4,11 +4,9 @@ Type = "welcome"
 aliases = ["/events/2025-denver/"]
 Description = "devopsdays Denver 2025"
 +++
-<b>DevOpsDays Rockies is returning to Denver in 2025!</b><br><br>
+<b>This event has ended. Please stay tuned for DevOpsDays Rockies 2026!</b><br><br>
 
-  <h2>{{< event_link url-key="cfp_link" text="Submit a Talk!" >}}</h2>
-<br><br>
-  <h2>{{< event_link page="registration" text="Purchase your Ticket!" >}}</h2>
+<h2>{{< event_link page="program" text="View the Program!" >}}</h2>
 <br><br>
 
 <div style="float:right;">
@@ -34,21 +32,21 @@ Description = "devopsdays Denver 2025"
   </div>
 </div>
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="registration" text="Early bird tickets are on sale!" >}}
+    {{< event_link page="registration" text="Get your tickets today!" >}}
   </div>
-</div>
+</div> -->
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Propose</strong>
+    <strong>Program</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="propose" text="Our CFP is open until May 25th - get your proposals in ASAP" >}}
+    {{< event_link page="program" text="Checkout our speaker lineup!" >}}
   </div>
 </div>
 
@@ -66,12 +64,12 @@ Description = "devopsdays Denver 2025"
     <strong>Contact</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="contact" text="Get in touch with the organizers" >}}
+    {{< event_link page="contact" text="Get in touch with the organizers!" >}}
   </div>
 </div>
 <br>
 <br>
-We're hard at work preparing for the big event and we're looking forward to seeing y'all there!<br>
+Thank you for everyone who participated in DevOpsDays Rockies 2026! We're hard at work preparing for the next big event and we're looking forward to seeing y'all there!<br>
 In the meantime, follow us below to stay in the know:
 <br>
 {{< event_social_linkedin >}}

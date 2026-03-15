@@ -1,11 +1,11 @@
 +++
 Title = "Propose"
 Type = "event"
-Description = "Propose a talk for devopsdays Detroit 2025"
+Description = "Propose a talk for DevOpsDays Detroit"
 +++
-  {{< cfp_dates >}}
+  <!-- {{< cfp_dates >}} -->
 
-<hr>
+<!-- <hr>
 
 There are three ways to propose a topic at devopsdays:
 <ol>
@@ -32,4 +32,4 @@ Choosing talks is part art, part science; here are some factors we consider when
 	<li>Type (presentation, panel discussion, ignite)</li>
 	<li>Proposal Title (can be changed later)</li>
 	<li>Description (several sentences explaining what attendees will learn)</li>
-</ol>
+</ol> -->

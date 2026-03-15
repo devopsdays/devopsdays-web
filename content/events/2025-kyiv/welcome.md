@@ -116,7 +116,7 @@ Description = "DevOpsDays #StandWithUkraine"
     <p>This year, the same as the previous one, we provide donations to the Humanitarian fund <a href="https://uaresponders.org/">UA Responders</a>, which constantly works on rescuing people in emergencies, giving them medical assistance, and supplying them with deficient tactical medical goods.</p>
     <p>In 2023 with the help of fundraising, FC UA Responders was able to purchase five batteries which helped a Kyiv school to handle long-term blackouts without interrupting the educational process. Since then, pupils can continue studying from shelters during air raid danger, as batteries don&rsquo;t require petrol and help with the lack of electricity.</p>
     <img alt="devopsdays Ukraine 2025" src="/events/2025-kyiv/stand.png" style="max-width: 90%"/>
-    <p>During DevOpsDays Ukraine 2014, along with our charity partner <a href="https://uaresponders.org/">UA Responders</a> we set out to raise funds for a surgical aspirator.</p>
+    <p>During DevOpsDays Ukraine 2024, along with our charity partner <a href="https://uaresponders.org/">UA Responders</a> we set out to raise funds for a surgical aspirator.</p>
     <p>We raised over 1800 euros which is nearly double our initial target!<br>
 With these funds, UA Responders has purchased and delivered a pleural aspiration to Dnipro State Medical University. The device aids in recovery after injuries to the thoracic cavity and lungs, and makes a significant difference in patient care, improving surgical outcomes and potentially saving lives.</p>
     <img alt="devopsdays Ukraine 2025" src="/events/2025-kyiv/aspiration.jpg" style="max-width: 90%"/>

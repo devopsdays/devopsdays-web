@@ -90,7 +90,7 @@ sponsors:
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 #  - id: arresteddevops
 #    level: community
-  - id: dynatrace
+  - id: dynatrace-before-20250905
     level: platinum
   - id: sumologic
     level: platinum
@@ -108,7 +108,7 @@ sponsors:
     level: community
   - id: gitlab-before-20220516
     level: gold
-  - id: xmatters
+  - id: xmatters-before-20260131
     level: gold
   - id: rancher
     level: gold
