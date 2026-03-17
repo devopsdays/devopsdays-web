@@ -40,8 +40,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #  - name: propose
   - name: location
   - name: registration
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: newsletter
   - name: contact
@@ -117,6 +117,21 @@ sponsors:
     level: gold
   - id: bugscale
     level: silver
+  - id: orangecyberdefense
+    level: bronze
+  - id: robusta
+    level: silver
+  - id: meetup-devops-geneva
+    level: community
+  - id: agilesuisse
+    level: community
+  - id: heg-geneva
+    level: community
+  - id: swissdevjobs
+    level: community
+  - id: webmardi
+    level: community
+
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 

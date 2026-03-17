@@ -108,6 +108,10 @@ sponsors:
    level: silver
  - id: memphistechscene
    level: media
+ - id: mtsu-isa
+   level: platinum
+ - id: xmatters
+   level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
