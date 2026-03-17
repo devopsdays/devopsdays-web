@@ -6,7 +6,7 @@ Description = "Location for devopsdays dallas 2026"
 
 Here we will provide you with information about the venue including address, map/direction, parking/transit, and any hotel details in this vicinity.
 <div style="float:left;">
-  <img alt="DevOpsDays Dallas 2025" src="/events/2026-dallas/banner1.png" style="max-width: 80%;">
+  <img alt="DevOpsDays Dallas 2025" src="/events/2026-dallas/swa_banner.png" style="max-width: 80%;">
 </div><br><br>
 <br><br>
 
