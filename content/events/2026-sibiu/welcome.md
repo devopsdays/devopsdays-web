@@ -147,7 +147,7 @@ With a welcoming code of conduct and a vibrant, respectful atmosphere, devopsday
   <a href="/events/2026-sibiu/sponsorship-prospectus-dev-ops-days-sibiu-2026.pdf"
    target="_blank"
    style="display: inline-block; padding: 20px 40px; background-color: #4a90d9; color: white; text-decoration: none; border-radius: 10px; font-weight: 700; font-size: 1.5rem;">
-  → → → Download Sponsorship Prospectus ← ← ←
+  Download Sponsorship Prospectus
   </a>
 </div>
 
