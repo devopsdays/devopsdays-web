@@ -141,6 +141,18 @@ With a welcoming code of conduct and a vibrant, respectful atmosphere, devopsday
 
 ---
 
+## 💼 Become a Sponsor
+
+<div align="center" style="margin-top: 2rem; margin-bottom: 2rem;">
+  <a href="/events/2026-sibiu/Sponsorship_Prospectus_DevOpsDaysSibiu2026.pdf"
+   target="_blank"
+   style="display: inline-block; padding: 20px 40px; background-color: #4a90d9; color: white; text-decoration: none; border-radius: 10px; font-weight: 700; font-size: 1.5rem;">
+  → → → Download Sponsorship Prospectus ← ← ←
+  </a>
+</div>
+
+---
+
 ## 🌟 A Community-Driven Experience
 
 DevOpsDays Sibiu is organized **by volunteers**, for practitioners—no corporate sales pitches, just pure DevOps love. All proceeds go back into the community, supporting future events, scholarships, and local meetups.
