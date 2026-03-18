@@ -32,7 +32,7 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 #
 # coordinates: "" # No longer used
 
-location: "Strada Emil Cioran 2, Sibiu" # Defaults to city, but you can make it the venue name.
+location: "Ramada Hotel - Sibiu" # Defaults to city, but you can make it the venue name.
 #
 location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
 
@@ -131,10 +131,14 @@ sponsors:
     level: bronze
   - id: portainer
     level: bronze
+  - id: paulinadubas
+    level: bronze
   - id: kubecareers
     level: media
   - id: kubeevents
     level: media
+  - id: scoalainformala
+    level: community
   - id: emailtree-ai
     level: community
 #  - id: women4cyber
