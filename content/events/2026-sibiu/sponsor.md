@@ -17,6 +17,14 @@ Description = "Sponsor devopsdays sibiu 2026"
   to the tech ecosystem, boost your brand’s visibility, or recruit top-tier talent.
 </p>
 
+<div align="center" style="margin-top: 2rem; margin-bottom: 2rem;">
+  <a href="/events/2026-sibiu/sponsorship-prospectus-dev-ops-days-sibiu-2026.pdf"
+     target="_blank"
+     style="display: inline-block; padding: 20px 40px; background-color: #4a90d9; color: white; text-decoration: none; border-radius: 10px; font-weight: 700; font-size: 1.5rem;">
+    Download Sponsorship Prospectus
+  </a>
+</div>
+
 <hr>
 
 <h2>Community &amp; Education (Bronze or Community Sponsors)</h2>
@@ -69,7 +77,7 @@ We love surprising our participants, and we especially love it when our sponsors
   <a href="/events/2026-sibiu/sponsorship-prospectus-dev-ops-days-sibiu-2026.pdf"
      target="_blank"
      style="display: inline-block; padding: 20px 40px; background-color: #4a90d9; color: white; text-decoration: none; border-radius: 10px; font-weight: 700; font-size: 1.5rem;">
-    → → → Download Sponsorship Prospectus ← ← ←
+    Download Sponsorship Prospectus
   </a>
 </div>
 
