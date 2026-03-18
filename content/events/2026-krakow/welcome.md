@@ -65,7 +65,7 @@ Description = "devopsdays Kraków 2026"
 </style>
 
 <div style='width:100%;text-align:center;margin-bottom:2rem;'>
-  <img alt="Krakow" src="/events/2024-krakow/dodkrk_horizontal.png" style="max-width: 40rem;margin-right:auto;margin-left: auto;"/>
+  {{< event_logo >}}
 </div>
 
 <div class="text-section">
