@@ -1,5 +1,5 @@
 /tel-aviv/*		/events/2025-tel-aviv/:splat		302
-/amsterdam/*		/events/2025-amsterdam/:splat		302
+/amsterdam/*		/events/2026-amsterdam/:splat		302
 /antwerp/*		/events/2024-antwerp/:splat		302
 /aracaju/*		/events/2024-aracaju/:splat		302
 /atlanta/*		/events/2026-atlanta/:splat		302
@@ -54,18 +54,17 @@
 /houston/*		/events/2024-houston/:splat		302
 /halifax/*		/events/2025-halifax/:splat		302
 /indianapolis/*		/events/2023-indianapolis/:splat	302
-/istanbul/*		/events/2025-istanbul/:splat		302
+/istanbul/*		/events/2026-istanbul/:splat		302
 /jakarta/*		/events/2022-jakarta/:splat		302
 /juiz-de-fora/*		/events/2025-juiz-de-fora/:splat		302
-/kansas-city/cfp    https://talks.devopsdays.org/devopsdays-kc-2024/    302
-/kansas-city/*		/events/2025-kansas-city/:splat		302
+/kansas-city/*		/events/2026-kansas-city/:splat		302
 /kazan/*		/events/2018-kazan/:splat		302
 /kiel/*			/events/2018-kiel/:splat		302
 /krakow/*		/events/2024-krakow/:splat		302
 /kiev/*			/events/2025-kyiv/:splat		302
 /kyiv/*			/events/2025-kyiv/:splat		302
 /ljubljana/*		/events/2025-ljubljana/:splat		302
-/london/*		/events/2025-london/:splat		302
+/london/*		/events/2026-london/:splat		302
 /los-angeles/*		/events/2026-los-angeles/:splat		302
 /macapa/*		/events/2019-macapa/:splat		302
 /maceio/*		/events/2025-maceio/:splat		302
@@ -80,7 +79,7 @@
 /moscow/*		/events/2020-moscow/:splat		302
 /nairobi/*		/events/2024-nairobi/:splat		302
 /nashville/*		/events/2026-nashville/:splat		302
-/natal/*		/events/2024-natal/:splat		302
+/natal/*		/events/2026-natal/:splat		302
 /new-york-city/*	/events/2023-new-york-city/:splat	302
 /new-zealand/*		/events/2019-auckland/:splat		302
 /newcastle/*		/events/2018-newcastle/:splat		302
@@ -90,7 +89,7 @@
 /phoenix/*		/events/2023-phoenix/:splat		302
 /pittsburgh/*		/events/2015-pittsburgh/:splat		302
 /portland-me/*		/events/2020-portland-me/:splat		302
-/portland-or/*		/events/2022-portland-or/:splat		302
+/portland-or/*		/events/2026-portland-or/:splat		302
 /events/2021-portland/* /events/2021-portland-or/:splat 	302
 /porto-alegre/*		/events/2025-porto-alegre/:splat	302
 /portugal/*		/events/2024-portugal/:splat		302
@@ -107,7 +106,7 @@
 /salvador/*		/events/2025-salvador/:splat		302
 /santa-maria/*		/events/2018-santa-maria/:splat		302
 /santiago/*		/events/2025-santiago/:splat		302
-/sao-paulo/*		/events/2025-sao-paulo/:splat		302
+/sao-paulo/*		/events/2026-sao-paulo/:splat		302
 /seattle/*		/events/2024-seattle/:splat		302
 /shanghai/*		/events/2020-shanghai/:splat		302
 /shenzhen/*		/events/2018-shenzhen/:splat		302
@@ -265,3 +264,4 @@
 /wollongong/*            /events/2025-wollongong/:splat           302
 /graz/*            /events/2025-graz/:splat           302
 /ciudad-autonoma-de-buenos-aires/*            /events/2026-ciudad-autonoma-de-buenos-aires/:splat           302
+/brasov/*            /events/2026-brasov/:splat           302

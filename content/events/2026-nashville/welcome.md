@@ -6,7 +6,8 @@ aliases = [
   "/events/2026-nashville/location/",
   "/events/2026-nashville/sponsor/",
   "/events/2026-nashville/propose/",
-  "/events/2026-nashville/registration/"]
+  "/events/2026-nashville/registration/",
+  "/events/2026-nashville/conduct/"]
 Description = "DevOpsDays + AI Nashville 2026"
 +++
 
@@ -24,9 +25,13 @@ Description = "DevOpsDays + AI Nashville 2026"
     <h2><a href="https://events.humanitix.com/devopsdays-nashville-2026" target="_blank">Register now!</a></h2>
     <p><strong>Register now!  Early bird pricing ends on January 30th!</strong></p>
     <hr>
-    <h2>Call for Proposals Now Open!</h2>
+    <!--<h2>Call for Proposals Now Open!</h2>
     <p>Do you have a great topic for the community?  Visit our <a href="https://www.papercall.io/devopsdaysnashville2026">Call for Speakers/Papers</a> site today!  
-    <p><strong>The call for proposals will be open until February 27th.</strong></p>
+    <p><strong>The call for proposals will be open until February 27th.</strong></p> -->
+    <h2 style="color: #C19A6B; display: inline-block;"><p>Guest Keynote Speaker Robert Hoffman, M.Ed., CAIS, AIMP, CCME!</h2>
+    <p>We are happy to announce that <a href="https://www.linkedin.com/in/robert-hoffman-inthe406/" target="_blank">Robert Hoffman</a> is our day one keynote speaker!</p>
+    <h2 style="color: #C19A6B; display: inline-block;"><p>Guest Keynote Speaker Tyler Welton!</h2>
+    <p>We are happy to announce that <a href="https://www.linkedin.com/in/tylerwelton/" target="_blank">Tyler Welton</a> is our day two keynote speaker!</p>
     <h2>Mobile App Available!</h2>
     <p><a href="https://apps.apple.com/us/app/devops-days-nashville/id6754512737">Download the DevOps Days Nashville mobile app for iOS.</a></p>
     <p>The DevOps Days Nashville mobile app is the place to get information about the schedule, speakers, sponsors, and maps.</p>
@@ -53,14 +58,14 @@ Description = "DevOpsDays + AI Nashville 2026"
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="registration" text="Register to attend the conference!" >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">

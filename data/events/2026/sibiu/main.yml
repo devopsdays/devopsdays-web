@@ -20,7 +20,7 @@ cfp_date_start: 2026-01-01T00:00:00+03:00 # start accepting talk proposals.
 cfp_date_end: 2026-03-01T00:00:00+03:00 # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
 
-cfp_link: "https://docs.google.com/forms/d/e/1FAIpQLSewuE-FJZQwCYnrZc--SmxwHLwmbYqwZl8nLWD2IdFSqPoahQ/viewform" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+#cfp_link: "https://docs.google.com/forms/d/e/1FAIpQLSewuE-FJZQwCYnrZc--SmxwHLwmbYqwZl8nLWD2IdFSqPoahQ/viewform" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
@@ -32,26 +32,27 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 #
 # coordinates: "" # No longer used
 
-location: "Strada Emil Cioran 4, Sibiu" # Defaults to city, but you can make it the venue name.
+location: "Strada Emil Cioran 2, Sibiu" # Defaults to city, but you can make it the venue name.
 #
 location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
 
 # Optional - Social badges
 # These can be used in the body of any page via matching shortcodes. See sample:  https://devopsdays.org/events/2025-denver/welcome/
-event_social_linkedin: "https://linkedin.com/company/devopsdays" # Change this to the url to your Linkedin group, company, or page.
-event_social_slack: "https://join.slack.com/t/devopsdays/custom_shared_invite_url" # Change this to your slack invite link.
-event_social_listserv: "https://lists.devopsdays.org/subscription?custom_listserv_invite_url" # Change this to your mailing list subscription form url.
-event_social_twitter: "devopsdays" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-event_social_mastodon: "https://mastodon.social/@devopsdays" # Change this to url to your mastodon page
-event_social_bsky: "https://bsky.app/profile/devopsdays.bsky.social" # Change this to url to your bluesky page
-event_social_youtube: "devopsdays" # Change this to the youtube channel handle for your event such as devopsdaysrox
+event_social_linkedin: "https://www.linkedin.com/company/devopsdays-sibiu/" # Change this to the url to your Linkedin group, company, or page.
+#event_social_slack: "https://join.slack.com/t/devopsdays/custom_shared_invite_url" # Change this to your slack invite link.
+#event_social_listserv: "https://lists.devopsdays.org/subscription?custom_listserv_invite_url" # Change this to your mailing list subscription form url.
+#event_social_twitter: "devopsdays" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+#event_social_mastodon: "https://mastodon.social/@devopsdays" # Change this to url to your mastodon page
+#event_social_bsky: "https://bsky.app/profile/devopsdays.bsky.social" # Change this to url to your bluesky page
+event_social_youtube: "https://www.youtube.com/@DevOpsDaysRomania" # Change this to the youtube channel handle for your event such as devopsdaysrox
 # legacy
-event_twitter: "devopsdays" # This will create a traditional "Follow" twitter button. Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp.
+#event_twitter: "devopsdays" # This will create a traditional "Follow" twitter button. Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+#  - name: propose
   - name: location
- # - name: registration
+  - name: tickets
+    url: "https://tickets.devopsdays.org/devopsdays-sibiu/2026/"
   - name: program
   - name: speakers
   - name: sponsor
@@ -91,21 +92,6 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/amza-valentin-marius/"
     bio: "Marius Amza serves as the Director of Swiss WebBusiness SRL and as the Vice President of the Swiss Webacademy. He holds Swiss certifications as a Web Software Engineer, Web Developer, and Web Designer, and has overseen the coordination and development of numerous international projects within the web domain. As an Associate Professor at the Swiss University - Haute École Arc Ingénierie, Marius teaches courses on Software Engineering and Agile Methods as part of the MAS-RAD master's program. Additionally, he has instructed Web Security courses at HEIG-VD - Haute Ecole d’Ingénierie et de Gestion in Switzerland. Furthermore, he has supervised undergraduate internships for Swiss students. With over 10 years of experience as an IT Trainer, Marius has taught courses for both aspiring specialists and numerous private companies and governmental institutions in Romania, focusing on Web Development, OSINT, Cybersecurity, Web Design, Programming, and Information Security. For the past 6 years, Marius has also served as an Associate Professor at the University of Franche-Comté (Belfort-Montbéliard), teaching web technology courses. Together with the Swiss WebAcademy team, he is actively involved in organizing Cybersecurity Congresses in Romania, Switzerland, and Italy. He contributes to the development of online platforms for these congresses and designs courses tailored to the participants' needs."
 
-  - name: "Sergiu-Valentin Dilimoț"
-    image: "sergiu.jpeg"
-    employer: "Visma Romania"
-    linkedin: "https://www.linkedin.com/in/sdilimot/"
-    bio: "IT Services Director with over 19 years of experience in the Information Technology area focusing on helping the organization to grow by:
-     promoting and implementing Cloud Solutions within the company, supporting technical integrations between Visma companies, attracting, recruiting and developing our colleagues,
-     defining and implementing methodologies and best practices for developing, delivering and operating software, measuring operational performance through our 24/7/365 teams,
-     actively involved in development of the local IT community and university"
-
-  - name: "Cătălin Mihacea"
-    image: "catalin.jpg"
-    employer: "Sibiu IT Cluster"
-    linkedin: "https://www.linkedin.com/in/catalinmihacea"
-    bio: "Technology enthusiast with a focus on continuous learning and development. As an entrepreneur, I enjoy solving complex business problems with high-end technology. I support employees and colleagues in their creative ideas to develop their own potential. Lifelong learning and permanent development are my core values. The ability to take risks and at the same time remain solution-oriented is a key strength of mine."
-
   - name: "Valentin Oprea"
     image: "vali.jpg"
     employer: "General Engineering & Management Solutions"
@@ -127,13 +113,9 @@ sponsors:
   # - id: samplesponsorname
   #   level: gold
   #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  - id: sibiu-it-cluster
-    level: gold
   - id: synchromind
     level: gold
   - id: swiss-web-academy
-    level: gold
-  - id: sibiu-visma
     level: gold
   - id: skylite-tek
     level: gold
@@ -143,13 +125,17 @@ sponsors:
   #    level: gold
   - id: general-engineering--management-solutions
     level: gold
+  - id: msg-systems
+    level: bronze
+  - id: pomerium
+    level: bronze
+  - id: portainer
+    level: bronze
   - id: kubecareers
     level: media
   - id: kubeevents
     level: media
   - id: emailtree-ai
-    level: community
-  - id: ulbsibiu
     level: community
 #  - id: women4cyber
 #    level: community
@@ -166,8 +152,8 @@ sponsor_levels:
   - id: silver
     label: Silver
 #    max: 0 # This is the same as omitting the max limit.
-#  - id: bronze
-#    label: Bronze
+  - id: bronze
+    label: Bronze
   - id: community
     label: Community
   - id: media
@@ -189,17 +175,29 @@ program:
     date: 2026-05-27T00:00:00+03:00
     start_time: "10:55"
     end_time: "11:00"
-  - title: "joep-piscaer-1"
+  - title: "piscaer-joep-1"
     type: talk
     date: 2026-05-27T00:00:00+03:00
     start_time: "11:00"
     end_time: "11:45"
     background_color: "#2f7d3a"
-  - title: "edith-karda"
+  - title: "taylor-nick"
+    type: talk
+    date: 2026-05-27T00:00:00+03:00
+    start_time: "11:00"
+    end_time: "11:45"
+    comments: "AI Track"
+  - title: "karda-edith"
     type: talk
     date: 2026-05-27T00:00:00+03:00
     start_time: "11:45"
     end_time: "12:30"
+  - title: "soro-riccardo"
+    type: talk
+    date: 2026-05-27T00:00:00+03:00
+    start_time: "11:45"
+    end_time: "12:30"
+    comments: "AI Track"
   - title: "Lunch"
     type: custom
     date: 2026-05-27T00:00:00+03:00
@@ -211,7 +209,7 @@ program:
     start_time: "13:30"
     end_time: "14:00"
     background_color: "#C6FFCC"
-  - title: "sutapa-sankar"
+  - title: "sankar-sutapa"
     type: talk
     date: 2026-05-27T00:00:00+03:00
     start_time: "14:00"
@@ -222,11 +220,17 @@ program:
     start_time: "14:45"
     end_time: "15:00"
     background_color: "#FFB566"
-  - title: "joep-piscaer"
+  - title: "piscaer-joep"
     type: talk
     date: 2026-05-27T00:00:00+03:00
     start_time: "15:00"
     end_time: "15:45"
+  - title: "dubas-paulina"
+    type: talk
+    date: 2026-05-27T00:00:00+03:00
+    start_time: "15:00"
+    end_time: "15:45"
+    comments: "AI Track"
   - title: "Coffee/Tea break/Walk towards the open spaces"
     type: custom
     date: 2026-05-27T00:00:00+03:00
@@ -276,85 +280,138 @@ program:
     start_time: "19:00"
     end_time: "late"
 
+  - title: "Opening & Registration"
+    type: custom
+    date: 2026-05-28T00:00:00+03:00
+    start_time: "10:30"
+    end_time: "10:55"
+  - title: "Kick off DevOps Days Day 2"
+    type: custom
+    date: 2026-05-28T00:00:00+03:00
+    start_time: "10:55"
+    end_time: "11:00"
+  - title: "dubas-paulina-1"
+    type: talk
+    date: 2026-05-28T00:00:00+03:00
+    start_time: "11:00"
+    end_time: "11:45"
+  - title: "mihu-raluca-1"
+    type: talk
+    date: 2026-05-28T00:00:00+03:00
+    start_time: "11:45"
+    end_time: "12:30"
+  - title: "Lunch"
+    type: custom
+    date: 2026-05-28T00:00:00+03:00
+    start_time: "12:30"
+    end_time: "13:30"
+  - title: "Energizer + Ignites"
+    type: custom
+    date: 2026-05-28T00:00:00+03:00
+    start_time: "13:30"
+    end_time: "14:00"
+    background_color: "#C6FFCC"
+  - title: "westgarth-dave"
+    type: talk
+    date: 2026-05-28T00:00:00+03:00
+    start_time: "14:00"
+    end_time: "14:45"
+  - title: "Open spaces themes elicitation"
+    type: custom
+    date: 2026-05-28T00:00:00+03:00
+    start_time: "14:45"
+    end_time: "15:00"
+    background_color: "#FFB566"
+  - title: "Coffee/Tea break"
+    type: custom
+    date: 2026-05-28T00:00:00+03:00
+    start_time: "15:00"
+    end_time: "15:15"
+
+  - title: "sandhu-suki-1"
+    type: talk
+    date: 2026-05-28T00:00:00+03:00
+    start_time: "15:15"
+    end_time: "16:00"
+
+  - title: "westgarth-dave-1"
+    type: talk
+    date: 2026-05-28T00:00:00+03:00
+    start_time: "16:00"
+    end_time: "16:45"
+
+  - title: "Day 2 Raffle winners + Closing of the Conference"
+    type: custom
+    date: 2026-05-28T00:00:00+03:00
+    start_time: "16:45"
+    end_time: "16:50"
+
+  - title: "Break"
+    type: custom
+    date: 2026-05-28T00:00:00+03:00
+    start_time: "16:50"
+    end_time: "18:00"
+  - title: "Round 1 of open spaces"
+    type: custom
+    date: 2026-05-28T00:00:00+03:00
+    start_time: "17:00"
+    end_time: "17:30"
+    background_color: "#FFB566"
+  - title: "Break"
+    type: custom
+    date: 2026-05-28T00:00:00+03:00
+    start_time: "17:30"
+    end_time: "17:45"
+  - title: "Round 2 of open spaces"
+    type: custom
+    date: 2026-05-28T00:00:00+03:00
+    start_time: "17:45"
+    end_time: "18:15"
+    background_color: "#FFB566"
+  - title: "Day 2 Raffle winners + Closing of the Conference"
+    type: custom
+    date: 2026-05-28T00:00:00+03:00
+    start_time: "18:15"
+    end_time: "18:30"
+  - title: "Networking"
+    type: custom
+    date: 2026-05-28T00:00:00+03:00
+    start_time: "18:30"
+    end_time: "18:45"
 
 
-#  - title: "Registration, Breakfast, Sponsors"
-#    type: custom
-#    date: 2026-05-29T00:00:00+03:00
-#    start_time: "08:00"
-#    end_time: "09:00"
-#  - title: "Opening Welcome"
-#    type: custom
-#    date: 2026-05-29T00:00:00+03:00
-#    start_time: "09:00"
-#    end_time: "09:15"
-#  - title: ""
-#    type: talk
-#    date: 2026-05-29T00:00:00+03:00
-#    start_time: "09:15"
-#    end_time: "09:45"
-#  - title: "Sponsors"
-#    type: custom
-#    date: 2026-05-29T00:00:00+03:00
-#    start_time: "09:45"
-#    end_time: "09:55"
-#  - title: ""
-#    type: talk
-#    date: 2026-05-29T00:00:00+03:00
-#    start_time: "09:55"
-#    end_time: "10:25"
-#  - title: "Break"
-#    type: custom
-#    date: 2026-05-29T00:00:00+03:00
-#    start_time: "10:25"
-#    end_time: "10:40"
-#  - title: ""
-#    type: talk
-#    date: 2026-05-29T00:00:00+03:00
-#    start_time: "10:40"
-#    end_time: "11:10"
-#  - title: "Sponsors"
-#    type: custom
-#    date: 2026-05-29T00:00:00+03:00
-#    start_time: "11:10"
-#    end_time: "11:20"
-#  - title: ""
-#    type: talk
-#    date: 2026-05-29T00:00:00+03:00
-#    start_time: "11:20"
-#    end_time: "11:50"
-#  - title: "Lunch"
-#    type: custom
-#    date: 2026-05-29T00:00:00+03:00
-#    start_time: "11:50"
-#    end_time: "13:00"
-#  - title: "Ignites"
-#    type: custom
-#    date: 2026-05-29T00:00:00+03:00
-#    start_time: "13:00"
-#    end_time: "13:30"
-#  - title: "Open Space Opening"
-#    type: custom
-#    date: 2026-05-29T00:00:00+03:00
-#    start_time: "13:30"
-#    end_time: "14:00"
-#  - title: "Open Space #1"
-#    type: custom
-#    date: 2026-05-29T00:00:00+03:00
-#    start_time: "14:00"
-#    end_time: "14:45"
-#  - title: "Open Space #2"
-#    type: custom
-#    date: 2026-05-29T00:00:00+03:00
-#    start_time: "15:00"
-#    end_time: "15:45"
-#  - title: "Open Space #3"
-#    type: custom
-#    date: 2026-05-29T00:00:00+03:00
-#    start_time: "16:00"
-#    end_time: "16:45"
-#  - title: "Closing"
-#    type: custom
-#    date: 2026-05-29T00:00:00+03:00
-#    start_time: "16:45"
-#    end_time: "17:00"
+  - title: "Kick off Workshop Day"
+    type: custom
+    date: 2026-05-29T00:00:00+03:00
+    start_time: "10:45"
+    end_time: "11:00"
+  - title: "mihu-raluca"
+    type: workshop
+    date: 2026-05-29T00:00:00+03:00
+    start_time: "11:00"
+    end_time: "12:30"
+  - title: "Lunch"
+    type: custom
+    date: 2026-05-29T00:00:00+03:00
+    start_time: "12:30"
+    end_time: "13:30"
+  - title: "adeniji-adeola"
+    type: workshop
+    date: 2026-05-29T00:00:00+03:00
+    start_time: "13:30"
+    end_time: "15:00"
+  - title: "Break"
+    type: custom
+    date: 2026-05-29T00:00:00+03:00
+    start_time: "15:00"
+    end_time: "15:30"
+  - title: "sandhu-suki"
+    type: workshop
+    date: 2026-05-29T00:00:00+03:00
+    start_time: "15:30"
+    end_time: "17:00"
+  - title: "Networking"
+    type: custom
+    date: 2026-05-29T00:00:00+03:00
+    start_time: "17:00"
+    end_time: "17:30"

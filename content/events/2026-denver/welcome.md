@@ -4,10 +4,8 @@ Type = "welcome"
 aliases = ["/events/2026-denver/"]
 Description = "devopsdays Denver 2026"
 +++
-<b>DevOpsDays Rockies will be back in 2026! Please stay tuned for details!</b><br><br>
-
-  <!-- <h2>{{< event_link page="registration" text="Purchase your Ticket!" >}}</h2>
-<br><br> -->
+<h2><b>DevOpsDays Rockies will be back in 2026 at Bierstadt Lagerhaus in Downtown Denver! Save the dates for September 22-23, 2026 or </b>{{< event_link page="registration" text="purchase your Early Bird Ticket now!" >}}</h2>
+<br><br>
 
 <!-- <h2>{{< event_link page="program" text="View the Program!" >}}</h2>
 <br><br> -->
@@ -35,21 +33,21 @@ Description = "devopsdays Denver 2026"
   </div>
 </div> -->
 
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Register</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="registration" text="Get your tickets today!" >}}
-  </div>
-</div> -->
-
 <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link url-key="cfp_link" text="Submit your talk today!" >}}
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Register</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_link page="registration" text="Limited Early bird tickets on sale!" >}}
   </div>
 </div>
 
