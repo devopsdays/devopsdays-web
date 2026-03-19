@@ -17,10 +17,32 @@ Description = "Sponsor devopsdays sibiu 2026"
   to the tech ecosystem, boost your brand’s visibility, or recruit top-tier talent.
 </p>
 
-<div align="center" style="margin-top: 2rem; margin-bottom: 2rem;">
-  <a href="/events/2026-sibiu/sponsorship-prospectus-dev-ops-days-sibiu-2026.pdf"
-     target="_blank"
-     style="display: inline-block; padding: 20px 40px; background-color: #4a90d9; color: white; text-decoration: none; border-radius: 10px; font-weight: 700; font-size: 1.5rem;">
+
+<style>
+.sponsor-prospectus-button {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.sponsor-prospectus-button a {
+  display: inline-block;
+  padding: 20px 40px;
+  background-color: #4a90d9;
+  color: white !important;
+  text-decoration: none !important;
+  border-radius: 10px;
+  font-weight: 700;
+  font-size: 1.5rem;
+}
+
+.sponsor-prospectus-button a:hover {
+  opacity: 0.92;
+}
+</style>
+
+<div class="sponsor-prospectus-button">
+  <a href="https://assets.devopsdays.org/events/2026/sibiu/sponsorship-prospectus-dev-ops-days-sibiu-2026.pdf" target="_blank">
     Download Sponsorship Prospectus
   </a>
 </div>
@@ -73,10 +95,32 @@ We love surprising our participants, and we especially love it when our sponsors
   If any of these options spark your interest, or if you’d like to discuss a custom package, let’s chat!
 </p>
 
-<div align="center" style="margin-top: 2rem; margin-bottom: 2rem;">
-  <a href="/events/2026-sibiu/sponsorship-prospectus-dev-ops-days-sibiu-2026.pdf"
-     target="_blank"
-     style="display: inline-block; padding: 20px 40px; background-color: #4a90d9; color: white; text-decoration: none; border-radius: 10px; font-weight: 700; font-size: 1.5rem;">
+
+<style>
+.sponsor-prospectus-button {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.sponsor-prospectus-button a {
+  display: inline-block;
+  padding: 20px 40px;
+  background-color: #4a90d9;
+  color: white !important;
+  text-decoration: none !important;
+  border-radius: 10px;
+  font-weight: 700;
+  font-size: 1.5rem;
+}
+
+.sponsor-prospectus-button a:hover {
+  opacity: 0.92;
+}
+</style>
+
+<div class="sponsor-prospectus-button">
+  <a href="https://assets.devopsdays.org/events/2026/sibiu/sponsorship-prospectus-dev-ops-days-sibiu-2026.pdf" target="_blank">
     Download Sponsorship Prospectus
   </a>
 </div>
