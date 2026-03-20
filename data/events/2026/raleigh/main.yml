@@ -132,6 +132,8 @@ sponsors:
     level: community
   - id: kubeevents
     level: community
+  - id: nx
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
