@@ -121,8 +121,6 @@ sponsors:
     level: gold
   - id: cleanstart
     level: gold
-  - id: arresteddevops
-    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
