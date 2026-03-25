@@ -4,7 +4,9 @@ Type = "event"
 Description = "Sponsor devopsdays London 2026"
 +++
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
+We greatly value sponsors for this open event.  If you are interested in sponsoring, please fill in [the registration form](https://docs.google.com/forms/d/1gtmXmbVEcJlLfhZokd7LesxtLHkZHGh3IJjvMc51JMQ), or drop us an email at [{{< email_organizers >}}].
+
+[A downloadable version of our prospectus is available here.](https://assets.devopsdays.org/events/2026/london/devopsdays-london-2026-sponsorship-brochure.pdf)
 
 <hr>
 

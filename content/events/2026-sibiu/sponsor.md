@@ -17,6 +17,36 @@ Description = "Sponsor devopsdays sibiu 2026"
   to the tech ecosystem, boost your brand’s visibility, or recruit top-tier talent.
 </p>
 
+
+<style>
+.sponsor-prospectus-button {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.sponsor-prospectus-button a {
+  display: inline-block;
+  padding: 20px 40px;
+  background-color: #4a90d9;
+  color: white !important;
+  text-decoration: none !important;
+  border-radius: 10px;
+  font-weight: 700;
+  font-size: 1.5rem;
+}
+
+.sponsor-prospectus-button a:hover {
+  opacity: 0.92;
+}
+</style>
+
+<div class="sponsor-prospectus-button">
+  <a href="https://assets.devopsdays.org/events/2026/sibiu/sponsorship-prospectus-dev-ops-days-sibiu-2026.pdf" target="_blank">
+    Download Sponsorship Prospectus
+  </a>
+</div>
+
 <hr>
 
 <h2>Community &amp; Education (Bronze or Community Sponsors)</h2>
@@ -64,6 +94,36 @@ We love surprising our participants, and we especially love it when our sponsors
   <strong>Ready to join us?</strong> Every sponsor helps make DevOpsDays Sibiu more accessible and impactful. 
   If any of these options spark your interest, or if you’d like to discuss a custom package, let’s chat!
 </p>
+
+
+<style>
+.sponsor-prospectus-button {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.sponsor-prospectus-button a {
+  display: inline-block;
+  padding: 20px 40px;
+  background-color: #4a90d9;
+  color: white !important;
+  text-decoration: none !important;
+  border-radius: 10px;
+  font-weight: 700;
+  font-size: 1.5rem;
+}
+
+.sponsor-prospectus-button a:hover {
+  opacity: 0.92;
+}
+</style>
+
+<div class="sponsor-prospectus-button">
+  <a href="https://assets.devopsdays.org/events/2026/sibiu/sponsorship-prospectus-dev-ops-days-sibiu-2026.pdf" target="_blank">
+    Download Sponsorship Prospectus
+  </a>
+</div>
 
 <p>
   We look forward to seeing you there.
