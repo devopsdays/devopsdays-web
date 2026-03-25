@@ -19,12 +19,12 @@ Watch this space for information about the venue including address, map/directio
 
 <p>This event will be taking place at:</p>
 
-<a href="https://www.google.com/maps?q=Coresi+Business+Campus,+Brașov&output=embed"
-   target="_blank" rel="noopener">
+<a href="https://www.google.com/maps?q=Coresi+Business+Campus,+Strada+Turnului+5,+Brasov"
+   target="_blank" rel="noopener noreferrer">
   <address>
-    Brasov, jud. Brasov<br/>
+    Brașov, jud. Brașov<br/>
     Coresi Business Campus, H1, 4th Floor<br/>
-    Strada Turnului 5, 500152 
+    Strada Turnului 5, 500152
   </address>
 </a>
 
