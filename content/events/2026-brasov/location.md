@@ -19,7 +19,7 @@ Watch this space for information about the venue including address, map/directio
 
 <p>This event will be taking place at:</p>
 
-<a href="https://www.google.com/maps/search/?api=1&query=Ramada+Sibiu"
+<a href="https://www.google.com/maps?q=Coresi+Business+Campus,+Brașov&output=embed"
    target="_blank" rel="noopener">
   <address>
     Brasov, jud. Brasov<br/>
