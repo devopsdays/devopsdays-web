@@ -55,7 +55,8 @@ event_social_youtube: "devopsdays" # Change this to the youtube channel handle f
 social_shares: # ["email", "twitter", "facebook", "linkedin"]
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+  - name: call for papers
+    url: https://docs.google.com/forms/d/1hzuxKVqtBNEiCI1-2kxAKZ09QDM8pMiUDD8tVYNYGiI/viewform?edit_requested=true
   - name: location
  # - name: registration
  # - name: program
