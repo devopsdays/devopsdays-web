@@ -46,7 +46,7 @@ event_social_youtube: "DevOpsAustin"
 # event_twitter: "" # This will create a traditional "Follow" twitter button. Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+#  - name: propose
   - name: location
   - name: register
     url: https://tickets.devopsdays.org/devopsdays-austin/2026/
@@ -136,10 +136,20 @@ organizer_email: "austin@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: launch-darkly
+    level: gold
   - id: harness
     level: happyhour
+  - id: texasmutual
+    level: coffee
   - id: newiron
     level: careerroom
+#  - id: dryrun-security
+#    level: startup
+#  - id: autoptic
+#    level: startup
+#  - id: ops0
+#    level: startup
   - id: texas-state-university
     level: community
 
