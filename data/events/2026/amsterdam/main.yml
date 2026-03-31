@@ -50,7 +50,7 @@ event_social_youtube: "devopsams" # Change this to the youtube channel handle fo
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
   - name: location
- # - name: registration
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
