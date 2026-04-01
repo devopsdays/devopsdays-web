@@ -128,7 +128,7 @@ sponsors:
     level: gold
   - id: globaz
     level: silver
-  - id: sonarsource
+  - id: sonarsource-before-20260330
     level: gold
   - id: infomaniak-before-20241013
     level: bronze

@@ -115,11 +115,25 @@ sponsors:
     level: silver
   - id: exoscale
     level: gold
+  - id: pictet-tech
+    level: gold
+  - id: feesh
+    level: gold
   - id: bugscale
     level: silver
   - id: orangecyberdefense
     level: bronze
+  - id: e-xpert-solutions
+    level: bronze
   - id: robusta
+    level: silver
+  - id: camptocamp
+    level: silver
+  - id: sonarsource
+    level: silver
+  - id: enova
+    level: silver
+  - id: f5-nginx
     level: silver
   - id: meetup-devops-geneva
     level: community

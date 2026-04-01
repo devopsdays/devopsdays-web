@@ -17,7 +17,7 @@ enddate:  2026-05-07T00:00:00+03:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2026-03-19T00:00:00+03:00 # start accepting talk proposals.
-cfp_date_end: 2026-05-01T00:00:00+03:00 # close your call for proposals.
+cfp_date_end: 2026-04-17T00:00:00+03:00 # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
 
 cfp_link: "https://docs.google.com/forms/d/1hzuxKVqtBNEiCI1-2kxAKZ09QDM8pMiUDD8tVYNYGiI/viewform?edit_requested=true" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
@@ -32,9 +32,9 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 #
 # coordinates: "" # No longer used
 
-location: "Brasov" # Defaults to city, but you can make it the venue name.
-#
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
+location: "Coresi Business Campus" # Defaults to city, but you can make it the venue name.
+
+location_address: "Coresi Business Park, Brașov" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
 
 # Optional - Social badges
 # These can be used in the body of any page via matching shortcodes. See sample:  https://devopsdays.org/events/2025-denver/welcome/
@@ -55,8 +55,9 @@ event_social_youtube: "devopsdays" # Change this to the youtube channel handle f
 social_shares: # ["email", "twitter", "facebook", "linkedin"]
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
- # - name: location
+  - name: call for papers
+    url: https://docs.google.com/forms/d/1hzuxKVqtBNEiCI1-2kxAKZ09QDM8pMiUDD8tVYNYGiI/viewform?edit_requested=true
+  - name: location
  # - name: registration
  # - name: program
  # - name: speakers

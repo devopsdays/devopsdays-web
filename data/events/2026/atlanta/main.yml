@@ -121,8 +121,6 @@ sponsors:
     level: gold
   - id: cleanstart
     level: gold
-  - id: arresteddevops
-    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -363,8 +361,6 @@ program:
     end_time: "17:00"
 
 ignites:
-  - title: "pratik-parikh"
-    date: 2026-04-21
   - title: "elizabeth-jamison"
     date: 2026-04-21
   - title: "jared-rhodes"
