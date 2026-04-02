@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "Five Fun Facts About Concrete That Will Make Managers Rethink Paradigms"
-Type = "talk"
+Type = "ignite"
 Speakers = ["friedman-eloise-ann"]
 +++
 

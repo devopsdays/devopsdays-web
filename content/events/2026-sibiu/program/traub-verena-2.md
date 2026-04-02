@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "Mentoring and Coaching Junior Engineers - Insights from a Career Changer"
-Type = "talk"
+Type = "ignite"
 Speakers = ["traub-verena"]
 +++
 

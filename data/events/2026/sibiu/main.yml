@@ -29,28 +29,16 @@ registration_closed: "" #set this to true if you need to manually close registra
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
-#
-# coordinates: "" # No longer used
-
 
 location: "Ramada Hotel - Sibiu" # Defaults to city, but you can make it the venue name.
-#
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
 
 # Optional - Social badges
 # These can be used in the body of any page via matching shortcodes. See sample:  https://devopsdays.org/events/2025-denver/welcome/
 event_social_linkedin: "https://www.linkedin.com/company/devopsdays-sibiu/" # Change this to the url to your Linkedin group, company, or page.
-#event_social_slack: "https://join.slack.com/t/devopsdays/custom_shared_invite_url" # Change this to your slack invite link.
-#event_social_listserv: "https://lists.devopsdays.org/subscription?custom_listserv_invite_url" # Change this to your mailing list subscription form url.
-#event_social_twitter: "devopsdays" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-#event_social_mastodon: "https://mastodon.social/@devopsdays" # Change this to url to your mastodon page
-#event_social_bsky: "https://bsky.app/profile/devopsdays.bsky.social" # Change this to url to your bluesky page
 event_social_youtube: "https://www.youtube.com/@DevOpsDaysRomania" # Change this to the youtube channel handle for your event such as devopsdaysrox
-# legacy
-#event_twitter: "devopsdays" # This will create a traditional "Follow" twitter button. Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-#  - name: propose
+  #  - name: propose
   - name: location
   - name: tickets
     url: "https://tickets.devopsdays.org/devopsdays-sibiu/2026/"
@@ -90,14 +78,14 @@ team_members: # Name is the only required field for team members.
     image: "daniela.jpg"
     employer: "Swiss Webacademy"
     twitter: "devopsdays"
-    bio: "Daniela Chrzanovski is an IT engineer. In 2003, she created the first web training center in Romania, a project funded by the Swiss Confederation, training over 1000 specialists in the field of the Web Development over 10 years. She then launched the Swiss Webacademy in Sibiu in partnership with the Haute Ecole d’Ingénieurs Neuchatel, Switzerland, which provides expertise and accreditation for the training programs. For the past 7 years, she has been an associate professor at the University of Franche-Comté in France, teaching Digital Technologies at the IUT Belfort, as well as a course within the Master en Droit du numerique program in Besancon. She also taught the Web Hosting and Referencing course as part of the Web Application Development Master's program at Haute Ecole ARC Ingenierie in Switzerland. She is a promoter of Digital Transformation and, along with her team, supports digital skills courses for companies. She is one of the founders of the Cybersecurity Congress in Romania, organizing 10 editions in Sibiu, a congress supported by the International Telecommunication Union at the UN-Geneva. She is the founder and vice president of the Francophone Business Club."
+    bio: "Daniela Chrzanovski is an IT engineer. In 2003, she created the first web training center in Romania, a project funded by the Swiss Confederation, training over 1000 specialists in the field of the Web Development over 10 years. She then launched the Swiss Webacademy in Sibiu in partnership with the Haute Ecole d'Ingénieurs Neuchatel, Switzerland, which provides expertise and accreditation for the training programs. For the past 7 years, she has been an associate professor at the University of Franche-Comté in France, teaching Digital Technologies at the IUT Belfort, as well as a course within the Master en Droit du numerique program in Besancon. She also taught the Web Hosting and Referencing course as part of the Web Application Development Master's program at Haute Ecole ARC Ingenierie in Switzerland. She is a promoter of Digital Transformation and, along with her team, supports digital skills courses for companies. She is one of the founders of the Cybersecurity Congress in Romania, organizing 10 editions in Sibiu, a congress supported by the International Telecommunication Union at the UN-Geneva. She is the founder and vice president of the Francophone Business Club."
 
   - name: "Valentin-Marius Amza "
     image: "amza.jpg"
     employer: "Swiss Webacademy"
     github: "devopsdays"
     linkedin: "https://www.linkedin.com/in/amza-valentin-marius/"
-    bio: "Marius Amza serves as the Director of Swiss WebBusiness SRL and as the Vice President of the Swiss Webacademy. He holds Swiss certifications as a Web Software Engineer, Web Developer, and Web Designer, and has overseen the coordination and development of numerous international projects within the web domain. As an Associate Professor at the Swiss University - Haute École Arc Ingénierie, Marius teaches courses on Software Engineering and Agile Methods as part of the MAS-RAD master's program. Additionally, he has instructed Web Security courses at HEIG-VD - Haute Ecole d’Ingénierie et de Gestion in Switzerland. Furthermore, he has supervised undergraduate internships for Swiss students. With over 10 years of experience as an IT Trainer, Marius has taught courses for both aspiring specialists and numerous private companies and governmental institutions in Romania, focusing on Web Development, OSINT, Cybersecurity, Web Design, Programming, and Information Security. For the past 6 years, Marius has also served as an Associate Professor at the University of Franche-Comté (Belfort-Montbéliard), teaching web technology courses. Together with the Swiss WebAcademy team, he is actively involved in organizing Cybersecurity Congresses in Romania, Switzerland, and Italy. He contributes to the development of online platforms for these congresses and designs courses tailored to the participants' needs."
+    bio: "Marius Amza serves as the Director of Swiss WebBusiness SRL and as the Vice President of the Swiss Webacademy. He holds Swiss certifications as a Web Software Engineer, Web Developer, and Web Designer, and has overseen the coordination and development of numerous international projects within the web domain. As an Associate Professor at the Swiss University - Haute École Arc Ingénierie, Marius teaches courses on Software Engineering and Agile Methods as part of the MAS-RAD master's program. Additionally, he has instructed Web Security courses at HEIG-VD - Haute Ecole d'Ingénierie et de Gestion in Switzerland. Furthermore, he has supervised undergraduate internships for Swiss students. With over 10 years of experience as an IT Trainer, Marius has taught courses for both aspiring specialists and numerous private companies and governmental institutions in Romania, focusing on Web Development, OSINT, Cybersecurity, Web Design, Programming, and Information Security. For the past 6 years, Marius has also served as an Associate Professor at the University of Franche-Comté (Belfort-Montbéliard), teaching web technology courses. Together with the Swiss WebAcademy team, he is actively involved in organizing Cybersecurity Congresses in Romania, Switzerland, and Italy. He contributes to the development of online platforms for these congresses and designs courses tailored to the participants' needs."
 
 organizer_email: "sibiu@devopsdays.org" # Put your organizer email address here
 
@@ -146,10 +134,10 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Gold
-#    max: 10
+  #    max: 10
   - id: silver
     label: Silver
-#    max: 0 # This is the same as omitting the max limit.
+  #    max: 0 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
   - id: community
@@ -168,11 +156,13 @@ program:
     date: 2026-05-27T00:00:00+03:00
     start_time: "10:30"
     end_time: "10:55"
+
   - title: "Kick off DevOps Days Day 1"
     type: custom
     date: 2026-05-27T00:00:00+03:00
     start_time: "10:55"
     end_time: "11:00"
+
   - title: "piscaer-joep-1"
     type: talk
     date: 2026-05-27T00:00:00+03:00
@@ -180,85 +170,91 @@ program:
     end_time: "11:45"
     background_color: "#2f7d3a"
     comments: "Main Track - Hera Room"
+
   - title: "taylor-nick"
     type: talk
     date: 2026-05-27T00:00:00+03:00
     start_time: "11:00"
     end_time: "11:45"
     comments: "AI Track"
+
   - title: "karda-edith"
     type: talk
     date: 2026-05-27T00:00:00+03:00
     start_time: "11:45"
     end_time: "12:30"
     comments: "Main Track - Hera Room"
+
   - title: "soro-riccardo"
     type: talk
     date: 2026-05-27T00:00:00+03:00
     start_time: "11:45"
     end_time: "12:30"
     comments: "AI Track"
+
   - title: "Lunch"
     type: custom
     date: 2026-05-27T00:00:00+03:00
     start_time: "12:30"
     end_time: "13:30"
     comments: "Ramada Restaurant"
-  - title: "ramdien-ryan"
-    type: talk
+
+  - title: "Ignites Day 1"
+    type: ignite
+    block: "day1"
     date: 2026-05-27T00:00:00+03:00
     start_time: "13:30"
-    end_time: "13:45"
-    background_color: "#C6FFCC"
-    comments: "Main Track - Hera Room"
-  - title: "friedman-eloise-ann"
-    type: talk
-    date: 2026-05-27T00:00:00+03:00
-    start_time: "13:45"
     end_time: "14:00"
-    background_color: "#C6FFCC"
     comments: "Main Track - Hera Room"
+
   - title: "agabekov-roman"
     type: talk
     date: 2026-05-27T00:00:00+03:00
     start_time: "14:00"
     end_time: "14:45"
     comments: "Main Track - Hera Room"
+
   - title: "Open spaces themes elicitation"
     type: custom
     date: 2026-05-27T00:00:00+03:00
     start_time: "14:45"
     end_time: "15:00"
     background_color: "#FFB566"
+
   - title: "piscaer-joep"
     type: talk
     date: 2026-05-27T00:00:00+03:00
     start_time: "15:00"
     end_time: "15:45"
     comments: "Main Track - Hera Room"
+
   - title: "dubas-paulina"
     type: talk
     date: 2026-05-27T00:00:00+03:00
     start_time: "15:00"
     end_time: "15:45"
     comments: "AI Track"
+
   - title: "datcu-andrei"
     type: talk
     date: 2026-05-27T00:00:00+03:00
     start_time: "15:45"
     end_time: "16:30"
     comments: "Main Track - Hera Room"
+
   - title: "sankar-sutapa"
     type: talk
     date: 2026-05-27T00:00:00+03:00
     start_time: "16:00"
     end_time: "16:30"
     comments: "Main Track - Hera Room"
+
   - title: "Break"
     type: custom
     date: 2026-05-27T00:00:00+03:00
     start_time: "16:30"
     end_time: "16:45"
+
   - title: "Women in Tech: Beckie Taylor - The Sound Barrier Documentary"
     type: custom
     date: 2026-05-27T00:00:00+03:00
@@ -266,6 +262,7 @@ program:
     end_time: "18:15"
     comments: "Main Track - Hera Room"
     background_color: "#93C5FD"
+
   - title: "Round 1 of open spaces"
     type: custom
     date: 2026-05-27T00:00:00+03:00
@@ -273,11 +270,13 @@ program:
     end_time: "17:15"
     background_color: "#FFB566"
     comments: "Beta and Gamma Rooms"
+
   - title: "Break"
     type: custom
     date: 2026-05-27T00:00:00+03:00
     start_time: "17:15"
     end_time: "17:45"
+
   - title: "Round 2 of open spaces"
     type: custom
     date: 2026-05-27T00:00:00+03:00
@@ -291,26 +290,28 @@ program:
     date: 2026-05-27T00:00:00+03:00
     start_time: "18:15"
     end_time: "18:30"
+
   - title: "Networking"
     type: custom
     date: 2026-05-27T00:00:00+03:00
     start_time: "18:30"
     end_time: "19:00"
     comments: "Hera Room"
+
   - title: "Party"
     type: custom
     date: 2026-05-27T00:00:00+03:00
     start_time: "19:00"
     end_time: "late"
 
-
-
+  # DAY 2
 
   - title: "Opening & Registration"
     type: custom
     date: 2026-05-28T00:00:00+03:00
     start_time: "10:30"
     end_time: "10:55"
+
   - title: "Kick off DevOps Days Day 2"
     type: custom
     date: 2026-05-28T00:00:00+03:00
@@ -323,36 +324,43 @@ program:
     start_time: "11:00"
     end_time: "11:45"
     comments: "Main Track - Hera Room"
+
   - title: "westgarth-dave"
     type: talk
     date: 2026-05-28T00:00:00+03:00
     start_time: "11:00"
     end_time: "11:45"
     comments: "AI Track"
+
   - title: "traub-verena"
     type: talk
     date: 2026-05-28T00:00:00+03:00
     start_time: "11:45"
     end_time: "12:30"
     comments: "Main Track - Hera Room"
+
   - title: "dubas-paulina-1"
     type: talk
     date: 2026-05-28T00:00:00+03:00
     start_time: "11:45"
     end_time: "12:30"
     comments: "AI Track"
+
   - title: "Lunch"
     type: custom
     date: 2026-05-28T00:00:00+03:00
     start_time: "12:30"
     end_time: "13:30"
     comments: "Ramada Restaurant"
-  - title: "traub-verena-2"
-    type: talk
+
+  - title: "Ignites Day 2"
+    type: ignite
+    block: "day2"
     date: 2026-05-28T00:00:00+03:00
     start_time: "13:30"
     end_time: "14:00"
     comments: "Main Track - Hera Room"
+
 
   - title: "sandhu-suki-1"
     type: talk
@@ -360,6 +368,7 @@ program:
     start_time: "14:00"
     end_time: "14:45"
     comments: "Main Track - Hera Room"
+
   - title: "walter-florian"
     type: talk
     date: 2026-05-28T00:00:00+03:00
@@ -374,12 +383,12 @@ program:
     end_time: "15:00"
     background_color: "#FFB566"
     comments: "Main Track - Hera Room"
+
   - title: "Coffee/Tea break"
     type: custom
     date: 2026-05-28T00:00:00+03:00
     start_time: "15:00"
     end_time: "15:15"
-
 
   - title: "westgarth-dave-1"
     type: talk
@@ -408,11 +417,13 @@ program:
     end_time: "17:30"
     background_color: "#FFB566"
     comments: "Beta and Gamma Rooms"
+
   - title: "Break"
     type: custom
     date: 2026-05-28T00:00:00+03:00
     start_time: "17:30"
     end_time: "17:45"
+
   - title: "Round 2 of open spaces"
     type: custom
     date: 2026-05-28T00:00:00+03:00
@@ -439,7 +450,7 @@ program:
     start_time: "18:45"
     end_time: "19:15"
 
-
+  # WORKSHOP DAY
 
   - title: "Kick off Workshop Day"
     type: custom
@@ -494,9 +505,19 @@ program:
     start_time: "17:00"
     end_time: "17:30"
 
-
   - title: "Networking"
     type: custom
     date: 2026-05-29T00:00:00+03:00
     start_time: "18:30"
     end_time: "19:30"
+
+ignites:
+  - title: "ramdien-ryan"
+    date: 2026-05-27
+    block: "day1"
+  - title: "friedman-eloise-ann"
+    date: 2026-05-27
+    block: "day1"
+  - title: "traub-verena-2"
+    date: 2026-05-28
+    block: "day2"
