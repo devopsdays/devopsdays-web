@@ -103,18 +103,35 @@ Description = "DevOpsDays Amsterdam 2026 - Join us on June 19th, 2026 in Amsterd
             <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;Sponsor the Conference
           </a>
         </div>
-        <!-- <div class="d-flex p-2">
-          <a class="btn btn-primary btn-block"
-            style="margin-top: 10px; margin-bottom: 10px; background-color: #e59049; border-color: #e59049;"
-            href="/events/2026-amsterdam/registration">
-            <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;Buy a ticket
-          </a>
-        </div> -->
         <div class="d-flex p-2">
           <a class="btn btn-primary btn-block"
             style="margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;"
             href="/events/2026-amsterdam/contact">
             <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;Contact the Organizers
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="row" style="margin-top: 20px; margin-bottom: 20px;">
+    <div class="col-12">
+      <div style="background: linear-gradient(135deg, #0082AB 0%, #00a8d6 50%, #4fc3f7 100%); border-radius: 12px; padding: 28px 24px; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 16px; box-shadow: 0 4px 15px rgba(0,130,171,0.3);">
+        <div style="flex: 1; min-width: 250px;">
+          <span style="display: inline-block; background-color: #e59049; color: #fff; font-weight: bold; font-size: 0.75rem; letter-spacing: 1.5px; text-transform: uppercase; padding: 4px 12px; border-radius: 4px; margin-bottom: 8px;">
+            🎫 Early Bird
+          </span>
+          <h3 style="color: #fff; margin: 0 0 4px 0; font-size: 1.4rem; font-weight: 700;">
+            Tickets for DevOpsDays Amsterdam 2026
+          </h3>
+          <p style="color: rgba(255,255,255,0.85); margin: 0; font-size: 0.95rem;">
+            June 19th &bull; Pakhuis de Zwijger &bull; Get them while they're hot!
+          </p>
+        </div>
+        <div style="flex-shrink: 0;">
+          <a href="https://tickets.devopsdays.org/devopsdays-amsterdam/2026/"
+             style="display: inline-block; background-color: #e59049; color: #fff; font-weight: bold; font-size: 1.1rem; padding: 14px 32px; border-radius: 8px; text-decoration: none; box-shadow: 0 3px 10px rgba(0,0,0,0.2); white-space: nowrap;">
+            <i class="fa fa-ticket"></i>&nbsp; Grab Your Ticket &rarr;
           </a>
         </div>
       </div>
