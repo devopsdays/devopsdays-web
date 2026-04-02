@@ -6,9 +6,6 @@ Description = "devopsdays Denver 2025"
 +++
 <b>This event has ended. Please stay tuned for DevOpsDays Rockies 2026!</b><br><br>
 
-  <h2>{{< event_link page="registration" text="Purchase your Ticket!" >}}</h2>
-<br><br>
-
 <h2>{{< event_link page="program" text="View the Program!" >}}</h2>
 <br><br>
 

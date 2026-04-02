@@ -20,11 +20,11 @@ cfp_date_announce:  # inform proposers of status
 
 cfp_link: "https://sessionize.com/devopsdays-atlanta-2026" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start: 2026-02-15  # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2026-04-24 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://devopsdaysATL.eventbrite.com" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 location: "The Historic Academy of Medicine" # Defaults to city, but you can make it the venue name.
@@ -43,11 +43,11 @@ event_social_youtube: "devopsdaysATL" # Change this to the youtube channel handl
 # event_twitter: "devopsdaysATL" # This will create a traditional "Follow" twitter button. Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+ # - name: propose
   - name: location
- # - name: registration
- # - name: program
- # - name: speakers
+  - name: registration
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -90,6 +90,18 @@ team_members: # Name is the only required field for team members.
     github: "ghoneycutt"
     linkedin: "https://www.linkedin.com/in/garretthoneycutt"
     image: "garrett-honeycutt.jpg"
+  
+  - name: "Elizabeth Jamison"
+    linkedin: "https://www.linkedin.com/in/ejamison3/"
+    image: "elizabeth-jamison.jpg"
+
+  - name: "Terry Odom"
+    linkedin: "https://www.linkedin.com/in/terryodom/"
+    image: "terry-odom.jpg"
+  
+  - name: "Peter Sahlstrom"
+    linkedin: "https://www.linkedin.com/in/stormlash/"
+    image: "peter-sahlstrom.jpg"
 
 organizer_email: "atlanta@devopsdays.org" # Put your organizer email address here
 
@@ -97,8 +109,18 @@ organizer_email: "atlanta@devopsdays.org" # Put your organizer email address her
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  - id: arresteddevops
-    level: community
+  - id: launch-darkly
+    level: platinum
+  - id: harness
+    level: gold
+  - id: pulumi
+    level: gold
+  - id: edge-delta
+    level: gold
+  - id: ibm
+    level: gold
+  - id: cleanstart
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -119,3 +141,246 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+    
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2026-04-21
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2026-04-21
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "jules-yim"
+    type: talk
+    date: 2026-04-21
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2026-04-21
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: "eb-ikonne"
+    type: talk
+    date: 2026-04-21
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2026-04-21
+    start_time: "10:25"
+    end_time: "10:40"
+  - title: "kimasia-ayers"
+    type: talk
+    date: 2026-04-21
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2026-04-21
+    start_time: "11:10"
+    end_time: "11:20"
+  - title: "dave-snowden"
+    type: talk
+    date: 2026-04-21
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Lunch"
+    type: custom
+    date: 2026-04-21
+    start_time: "11:50"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2026-04-21
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2026-04-21
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Switch rooms"
+    type: custom
+    date: 2026-04-21
+    start_time: "14:00"
+    end_time: "14:05"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2026-04-21
+    start_time: "14:05"
+    end_time: "14:35"
+  - title: "Switch rooms"
+    type: custom
+    date: 2026-04-21
+    start_time: "14:35"
+    end_time: "14:40"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2026-04-21
+    start_time: "14:40"
+    end_time: "15:10"
+  - title: "Break with Afternoon snack"
+    type: custom
+    date: 2026-04-21
+    start_time: "15:10"
+    end_time: "15:40"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2026-04-21
+    start_time: "15:40"
+    end_time: "16:10"
+  - title: "Switch rooms"
+    type: custom
+    date: 2026-04-21
+    start_time: "16:10"
+    end_time: "16:15"
+  - title: "Open Space #4"
+    type: open-space
+    date: 2026-04-21
+    start_time: "16:15"
+    end_time: "16:45"
+  - title: "Close Day"
+    type: custom
+    date: 2026-04-21
+    start_time: "16:45"
+    end_time: "17:00"
+  - title: "Happy Hour at Pour Taproom Midtown"
+    type: custom
+    date: 2026-04-21
+    start_time: "17:00"
+    end_time: "19:00"
+
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2026-04-22
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2026-04-22
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "kiah-imani"
+    type: talk
+    date: 2026-04-22
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2026-04-22
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: "martin-rojas"
+    type: talk
+    date: 2026-04-22
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2026-04-22
+    start_time: "10:25"
+    end_time: "10:40"
+  - title: "allison-higgins"
+    type: talk
+    date: 2026-04-22
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2026-04-22
+    start_time: "11:10"
+    end_time: "11:20"
+  - title: "mandi-walls"
+    type: talk
+    date: 2026-04-22
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Lunch"
+    type: custom
+    date: 2026-04-22
+    start_time: "11:50"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2026-04-22
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2026-04-22
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Switch rooms"
+    type: custom
+    date: 2026-04-22
+    start_time: "14:00"
+    end_time: "14:05"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2026-04-22
+    start_time: "14:05"
+    end_time: "14:35"
+  - title: "Switch rooms"
+    type: custom
+    date: 2026-04-22
+    start_time: "14:35"
+    end_time: "14:40"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2026-04-22
+    start_time: "14:40"
+    end_time: "15:10"
+  - title: "Break with Afternoon snack"
+    type: custom
+    date: 2026-04-22
+    start_time: "15:10"
+    end_time: "15:40"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2026-04-22
+    start_time: "15:40"
+    end_time: "16:10"
+  - title: "Switch rooms"
+    type: custom
+    date: 2026-04-22
+    start_time: "16:10"
+    end_time: "16:15"
+  - title: "Open Space #4"
+    type: open-space
+    date: 2026-04-22
+    start_time: "16:15"
+    end_time: "16:45"
+  - title: "Closing - Sponsor Raffles and Prizes"
+    type: custom
+    date: 2026-04-22
+    start_time: "16:45"
+    end_time: "17:00"
+
+ignites:
+  - title: "elizabeth-jamison"
+    date: 2026-04-21
+  - title: "jared-rhodes"
+    date: 2026-04-21
+  - title: "calypso-hernandez"
+    date: 2026-04-21
+  - title: "michael-forrester"
+    date: 2026-04-21
+  - title: "roxy-rodriguezbecker"
+    date: 2026-04-21
+
+  - title: "omari-gaskins-jr"
+    date: 2026-04-22
+  - title: "hajira-sultana"
+    date: 2026-04-22
+  - title: "anil-pantangi"
+    date: 2026-04-22
+  - title: "danny-castro"
+    date: 2026-04-22
+  - title: "vadim-uchitel"
+    date: 2026-04-22
+  - title: "jeff-diecks"
+    date: 2026-04-22

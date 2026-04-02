@@ -55,9 +55,9 @@ social_shares: # ["email", "twitter", "facebook", "linkedin"]
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
   - name: location
- # - name: registration
- # - name: program
- # - name: speakers
+  - name: registration
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -102,6 +102,26 @@ organizer_email: "nashville@devopsdays.org" # Put your organizer email address h
 sponsors:
  - id: kubeevents
    level: media
+ - id: iacconf
+   level: media
+ - id: edgedelta
+   level: silver
+ - id: memphistechscene
+   level: media
+ - id: mtsu-isa
+   level: platinum
+ - id: xmatters
+   level: gold
+ - id: devitjobs
+   level: media
+ - id: pulumi
+   level: gold
+ - id: nss
+   level: media
+ - id: oreilly
+   level: media
+ - id: softwaredefinedtalk
+   level: media
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -129,3 +149,140 @@ sponsor_levels:
     label: Media
 #    max: 10
 
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2026-05-14
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2026-05-14
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "robert-hoffman"
+    type: talk
+    date: 2026-05-14
+    start_time: "09:15"
+    end_time: "10:00"
+  - title: "elissa-shevinsky"
+    type: talk
+    date: 2026-05-14
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Break"
+    type: custom
+    date: 2026-05-14
+    start_time: "10:30"
+    end_time: "10:45"
+  - title: "scott-stroz"
+    type: talk
+    date: 2026-05-14
+    start_time: "10:45"
+    end_time: "11:15"
+  - title: "Sponsors"
+    type: custom
+    date: 2026-05-14
+    start_time: "11:15"
+    end_time: "11:30"
+  - title: "reserved"
+    type: talk
+    date: 2026-05-14
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Open Spaces Introduction"
+    type: open-space
+    date: 2026-05-14
+    start_time: "12:00"
+    end_time: "12:15"
+  - title: "Lunch"
+    type: custom
+    date: 2026-05-14
+    start_time: "12:15"
+    end_time: "13:30"
+  - title: "Open Spaces Part One - Networking"
+    type: open-space
+    date: 2026-05-14
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "reserved"
+    type: talk
+    date: 2026-05-14
+    start_time: "14:00"
+    end_time: "14:40"  
+  - title: "michael-anthony"
+    type: talk
+    date: 2026-05-14
+    start_time: "14:40"
+    end_time: "15:10"  
+  - title: "mike-noe"
+    type: talk
+    date: 2026-05-14
+    start_time: "15:10"
+    end_time: "17:00"
+
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2026-05-15
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2026-05-15
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "tyler-welton"
+    type: talk
+    date: 2026-05-15
+    start_time: "09:10"
+    end_time: "10:00"
+  - title: "reserved"
+    type: talk
+    date: 2026-05-15
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Break"
+    type: custom
+    date: 2026-05-15
+    start_time: "10:30"
+    end_time: "10:45"
+  - title: "chris-lee"
+    type: talk
+    date: 2026-05-15
+    start_time: "10:45"
+    end_time: "11:15"
+  - title: "reserved"
+    type: talk
+    date: 2026-05-15
+    start_time: "11:15"
+    end_time: "11:45"
+  - title: "Getting Ready for Open Spaces"
+    type: open-space
+    date: 2026-05-15
+    start_time: "11:45"
+    end_time: "12:00"
+  - title: "Lunch"
+    type: custom
+    date: 2026-05-15
+    start_time: "12:00"
+    end_time: "13:15"
+  - title: "Open Spaces Part Two - Tech Talk"
+    type: open-space
+    date: 2026-05-15
+    start_time: "13:15"
+    end_time: "14:15"
+  - title: "camilla-martins"
+    type: talk
+    date: 2026-05-15
+    start_time: "14:15"
+    end_time: "14:45"
+  - title: "reserved"
+    type: talk
+    date: 2026-05-15
+    start_time: "14:45"
+    end_time: "15:15"
+  - title: "Closing - Sponsor Raffles and Prizes"
+    type: custom
+    date: 2026-05-15
+    start_time: "15:15"
+    end_time: "16:00"

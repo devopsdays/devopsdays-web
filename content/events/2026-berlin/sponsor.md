@@ -38,7 +38,7 @@ The best thing to do is send engineers to interact with the experts at devopsday
 <tr><td>4 additional tickets (6 in total)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="#1581AB"">&nbsp;</td></tr>
 <tr><td>shared table for swag</td><td>&nbsp;</td><td bgcolor="#1581AB"">&nbsp;</td><td>&nbsp;</td></tr>
 <tr><td>booth/table space</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="#1581AB"">&nbsp;</td></tr>
-<tr><td>thank you tweet</td><td>&nbsp;</td><td bgcolor="#1581AB">&nbsp;</td><td bgcolor="#1581AB">&nbsp;</td></tr>
+<tr><td>thank you on social media</td><td bgcolor="#1581AB">&nbsp;</td><td bgcolor="#1581AB">&nbsp;</td><td bgcolor="#1581AB">&nbsp;</td></tr>
 </table>
 </div>
 <hr/>

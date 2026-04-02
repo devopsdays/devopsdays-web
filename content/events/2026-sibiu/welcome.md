@@ -5,193 +5,204 @@ aliases = ["/events/2026-sibiu/"]
 Description = "devopsdays Sibiu 2026"
 +++
 
-<div style="font-family: sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: auto;">
+<div class="row">
+  <div class="col-md-2">
+    <strong>Dates</strong>
+  </div>
+  <div class="col-md-8">
+    {{< event_start >}} - {{< event_end >}}
+  </div>
+</div>
 
-  <h1>Welcome to <strong>DevOpsDays Sibiu</strong></h1>
-  <p>
-    The 3rd edition of the community-run conference in Sibiu, where the worlds of software development and IT operations converge.
-    As part of the <strong>DevOpsDays</strong> global series—a worldwide network of technical gatherings born in Ghent in 2009—our event is dedicated to promoting collaboration, innovation, and shared learning across all disciplines
-  </p>
+<div class="row">
+  <div class="col-md-2">
+    <strong>Location</strong>
+  </div>
+  <div class="col-md-8">
+    {{< event_location >}}
+  </div>
+</div>
 
-  <hr>
+<div class="row">
+  <div class="col-md-2">
+    <strong>Sponsors</strong>
+  </div>
+  <div class="col-md-8">
+    {{< event_link page="sponsor" text="Sponsor the conference!" >}}
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-2">
+    <strong>Register / Get a ticket</strong>
+  </div>
+  <div class="col-md-8">
+    <a href="https://tickets.devopsdays.org/devopsdays-sibiu/2026/">
+      Get a ticket to attend the conference!
+    </a>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-2">
+    <strong>Program</strong>
+  </div>
+  <div class="col-md-8">
+    View the {{< event_link page="program" text="program." >}}
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-2">
+    <strong>Speakers</strong>
+  </div>
+  <div class="col-md-8">
+    Check out the {{< event_link page="speakers" text="speakers!" >}}
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-2">
+    <strong>Contact</strong>
+  </div>
+  <div class="col-md-8">
+    {{< event_link page="contact" text="Get in touch with the organizers" >}}
+  </div>
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-12">
+      <div class="row justify-content-center">
+        <div class="d-flex p-2">
+          <a class="btn btn-primary btn-block"
+             style="margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;"
+             href="/events/2026-sibiu/sponsor">
+            <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;Sponsor the Conference
+          </a>
+        </div>
+        <div class="d-flex p-2">
+          <a class="btn btn-primary btn-block"
+             style="margin-top: 10px; margin-bottom: 10px; background-color: #e59049; border-color: #e59049;"
+             href="https://tickets.devopsdays.org/devopsdays-sibiu/2026/">
+            <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;Buy a ticket
+          </a>
+        </div>
+        <div class="d-flex p-2">
+          <a class="btn btn-primary btn-block"
+             style="margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;"
+             href="/events/2026-sibiu/contact">
+            <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;Contact the Organizers
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 
 <div style="text-align:center;">
   {{< event_logo >}}
 </div>
 
-<h2>🎯 What You Can Expect</h2>
+<div style="width: 70%; max-width: 1200px; margin: 0 auto;">
 
-<h3>🔊 Morning Talks & Ignite Sessions</h3>
-  <p>
-    We feature a curated lineup of expert-led presentations covering automation, security, infrastructure-as-code, culture shift, and organizational best practices.
-  </p>
+# Welcome to DevOpsDays Sibiu
 
-<h3>💬 Afternoon Open Spaces</h3>
-  <p>
-    Following the DevOpsDays formula, open spaces are the heart of our event: attendee‑driven breakout sessions where <em>you</em> set the agenda.
-    Whether you're wrestling with CI/CD pipelines, platform engineering frameworks, or building resilient systems, this is your chance to co‑create the conversation.
-  </p>
+The 3rd edition of the community-run conference in Sibiu, where the worlds of software development and IT operations converge. As part of the **DevOpsDays** global series—a worldwide network of technical gatherings born in Ghent in 2009—our event is dedicated to promoting collaboration, innovation, and shared learning across all disciplines.
 
-<h3>🤝 Community & Connections</h3>
-  <p>
-    With a welcoming code of conduct and a vibrant, respectful atmosphere, devopsdays Sibiu fosters meaningful interactions.
-    Whether you're a seasoned engineer or just exploring DevOps, you'll find a space to share experiences, ask questions, and grow together.
-  </p>
+<p style="color: red; font-size: 2em; font-weight: 700; margin-top: 1rem;">
+  The Call for Papers closed on March 1st. We would like to thank everyone who submitted a proposal. The final agenda will be announced by mid-March.
+</p>
 
-  <hr>
+---
 
-<h2>🛠 Why Attend?</h2>
-  <ul>
-    <li><strong>Be Inspired</strong> by real-world stories of DevOps transformation—cultural, technical, and organizational.</li>
-    <li><strong>Engage &amp; Contribute</strong> in open space discussions fueled by your curiosity and expertise.</li>
-    <li><strong>Network Naturally</strong>: strike up conversations during breaks, roundtables, or over a cup of coffee.</li>
-    <li><strong>Raise the Bar</strong>: bring back actionable ideas and connections to supercharge your work and community.</li>
-  </ul>
+## 🎯 What You Can Expect
 
-  <hr>
+### 🔊 Morning Talks & Ignite Sessions
 
-<h2>🌟 A Community-Driven Experience</h2>
-  <p>
-    DevOpsDays Sibiu is organized <strong>by volunteers</strong>, for practitioners—no corporate sales pitches, just pure DevOps love.
-    All proceeds go back into the community, supporting future events, scholarships, and local meetups.
-  </p>
+We feature a curated lineup of expert-led presentations covering automation, security, infrastructure-as-code, culture shift, and organizational best practices.
 
-  <hr>
+### 💬 Afternoon Open Spaces
 
-  <p style="font-size: 1.2em; font-weight: bold; text-align: center;">
-    DevOpsDays Sibiu: where code meets collaboration, infrastructure meets innovation, and ideas meet action. We can’t wait to welcome you!
-  </p>
+Following the DevOpsDays formula, open spaces are the heart of our event: attendee-driven breakout sessions where *you* set the agenda. Whether you're wrestling with CI/CD pipelines, platform engineering frameworks, or building resilient systems, this is your chance to co-create the conversation.
 
+### 🤝 Community & Connections
+
+With a welcoming code of conduct and a vibrant, respectful atmosphere, devopsdays Sibiu fosters meaningful interactions. Whether you're a seasoned engineer or just exploring DevOps, you'll find a space to share experiences, ask questions, and grow together.
+
+---
+
+## 🛠 Why Attend?
+
+- **Be Inspired** by real-world stories of DevOps transformation—cultural, technical, and organizational.
+- **Engage & Contribute** in open space discussions fueled by your curiosity and expertise.
+- **Network Naturally**: strike up conversations during breaks, roundtables, or over a cup of coffee.
+- **Raise the Bar**: bring back actionable ideas and connections to supercharge your work and community.
+
+---
+
+## 💼 Become a Sponsor
+
+<style>
+.sponsor-prospectus-button {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.sponsor-prospectus-button a {
+  display: inline-block;
+  padding: 20px 40px;
+  background-color: #4a90d9;
+  color: white !important;
+  text-decoration: none !important;
+  border-radius: 10px;
+  font-weight: 700;
+  font-size: 1.5rem;
+}
+
+.sponsor-prospectus-button a:hover {
+  opacity: 0.92;
+}
+</style>
+
+<div class="sponsor-prospectus-button">
+  <a href="https://assets.devopsdays.org/events/2026/sibiu/sponsorship-prospectus-dev-ops-days-sibiu-2026.pdf" target="_blank">
+    Download Sponsorship Prospectus
+  </a>
 </div>
 
+---
 
-[//]: # (<div class = "row">)
+## 🌟 A Community-Driven Experience
 
-[//]: # (  <div class = "col-md-2">)
+DevOpsDays Sibiu is organized **by volunteers**, for practitioners—no corporate sales pitches, just pure DevOps love. All proceeds go back into the community, supporting future events, scholarships, and local meetups.
 
-[//]: # (    <strong>Dates</strong>)
+<div align="center" style="margin-top: 3rem; margin-bottom: 3rem;">
+  <h2 style="font-size: 2.5rem; font-weight: 600; margin: 0;">
+    Do you want to be a volunteer?
+  </h2>
 
-[//]: # (  </div>)
-
-[//]: # (  <div class = "col-md-8">)
-
-[//]: # (    {{< event_start >}} - {{< event_end >}})
-
-[//]: # (  </div>)
-
-[//]: # (</div>)
-
-[//]: # (<div class = "row">)
-
-[//]: # (  <div class = "col-md-2">)
-
-[//]: # (    <strong>Location</strong>)
-
-[//]: # (  </div>)
-
-[//]: # (  <div class = "col-md-8">)
-
-[//]: # (    {{< event_location >}})
-
-[//]: # (  </div>)
-
-[//]: # (</div>)
-
-[//]: # (<div class = "row">)
-
-[//]: # (  <div class = "col-md-2">)
-
-[//]: # (    <strong>Register</strong>)
-
-[//]: # (  </div>)
-
-[//]: # (  <div class = "col-md-8">)
-
-[//]: # (    <!-- {{< event_link page="registration" text="Register to attend the conference!" >}} -->)
-
-[//]: # (    <a href="">REGISTER HERE</a>)
-
-[//]: # (  </div>)
-
-[//]: # (</div>)
-
-[//]: # (<!-- <div class = "row">)
-
-[//]: # (  <div class = "col-md-2">)
-
-[//]: # (    <strong>Propose</strong>)
-
-[//]: # (  </div>)
-
-[//]: # (  <div class = "col-md-8">)
-
-[//]: # (    {{< event_link page="propose" text="Propose a talk!" >}})
-
-[//]: # (  </div>)
-
-[//]: # (</div> -->)
-
-[//]: # (<div class = "row">)
-
-[//]: # (  <div class = "col-md-2">)
-
-[//]: # (    <strong>Program</strong>)
-
-[//]: # (  </div>)
-
-[//]: # (  <div class = "col-md-8">)
-
-[//]: # (    View the {{< event_link page="program" text="program." >}})
-
-[//]: # (  </div>)
-
-[//]: # (</div>)
-
-[//]: # (<div class = "row">)
-
-[//]: # (  <div class = "col-md-2">)
-
-[//]: # (    <strong>Speakers</strong>)
-
-[//]: # (  </div>)
-
-[//]: # (  <div class = "col-md-8">)
-
-[//]: # (    Check out the {{< event_link page="speakers" text="speakers!" >}})
-
-[//]: # (  </div>)
-
-[//]: # (</div>)
-
-[//]: # (<div class = "row">)
-
-[//]: # (  <div class = "col-md-2">)
-
-[//]: # (    <strong>Sponsors</strong>)
-
-[//]: # (  </div>)
-
-[//]: # (  <div class = "col-md-8">)
-
-[//]: # (    {{< event_link page="sponsor" text="Sponsor the conference!" >}})
-
-[//]: # (  </div>)
-
-[//]: # (</div>)
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Contact</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="contact" text="Get in touch with the organizers" >}}
-  </div>
+  <p style="margin-top: 1rem; margin-bottom: 0;">
+    <a
+      href="https://docs.google.com/forms/d/e/1FAIpQLSdQkgb3ec3lN0ABZMuElaN9j8przNdc1ifR9ScsfjIBWv_Rng/viewform?usp=publish-editor"
+      target="_blank"
+      rel="noopener noreferrer"
+      style="font-size: 1.8rem; font-weight: 600; text-decoration: underline;"
+    >
+      Fill in the form
+    </a>
+  </p>
 </div>
 
-[//]: # (<!-- Uncomment if you added your city twitter name -->)
+We are proud to host a sustainable, privacy-conscious, and waste-aware event. In line with this, we will not use lanyards. Instead, each badge will feature a paper label that is both eco-friendly and includes consent information.
 
-[//]: # (<!--)
+Our aim is to create an experience that honours the planet, respects your privacy, and nurtures a mindful, grounded atmosphere where everyone feels welcome and inspired.
 
-[//]: # ({{< event_twitter >}})
+---
 
-[//]: # (-->)
+<p style="font-size: 1.2em; font-weight: 700; text-align: center; margin-top: 2rem;">
+  DevOpsDays Sibiu: where code meets collaboration, infrastructure meets innovation, and ideas meet action. We can’t wait to welcome you!
+</p>
+
+</div>

@@ -38,15 +38,15 @@ location_address: "300 E Green St, Pasadena, CA 91101" #Optional - use the stree
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   #- name: covid
-  #- name: venue
-  #  url: https://www.socallinuxexpo.org/scale/23x/venue
-  #- name: registration
-  #  url: https://register.socallinuxexpo.org/reg6/
+  - name: venue
+    url: https://www.socallinuxexpo.org/scale/23x/venue
+  - name: registration
+    url: https://register.socallinuxexpo.org/reg6/
   #- name: CFP
   #  url: https://www.socallinuxexpo.org/scale/23x/cfp
   - name: program
   - name: speakers
-  - name: propose
+  #- name: propose
   - name: volunteer
   - name: sponsor
   - name: contact
@@ -132,6 +132,8 @@ sponsor_levels:
   - id: community
 
 sponsors:
+  - id: anyshift
+    level: silver
   - id: bloom-consulting-services
     level: startup
   - id: bellsoft
@@ -142,11 +144,21 @@ sponsors:
     level: media
   - id: dnsimple
     level: gold
+  - id: edgedelta
+    level: gold
+  - id: faun
+    level: media
+  - id: iacconf
+    level: media
   - id: ibm
     level: gold
+  - id: incidentfox-ai
+    level: startup
   - id: pulumi
     level: gold
   - id: redhat
+    level: gold
+  - id: sawmills
     level: gold
   - id: teleport
     level: gold
@@ -175,7 +187,7 @@ program:
     date: 2026-03-06T00:00:00-08:00
     start_time: "10:00"
     end_time: "10:45"
-  - title: "dustin-kirkland"
+  - title: "arthur-freyman"
     type: talk
     date: 2026-03-06T00:00:00-08:00
     start_time: "11:00"
@@ -195,7 +207,12 @@ program:
     date: 2026-03-06T00:00:00-08:00
     start_time: "13:30"
     end_time: "13:45"
-  - title: "arthur-freyman"
+  - title: "engin-diri"
+    type: talk
+    date: 2026-03-06T00:00:00-08:00
+    start_time: "13:45"
+    end_time: "14:00"
+  - title: "dustin-kirkland"
     type: talk
     date: 2026-03-06T00:00:00-08:00
     start_time: "14:00"

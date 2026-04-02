@@ -1,5 +1,5 @@
 /tel-aviv/*		/events/2025-tel-aviv/:splat		302
-/amsterdam/*		/events/2025-amsterdam/:splat		302
+/amsterdam/*		/events/2026-amsterdam/:splat		302
 /antwerp/*		/events/2024-antwerp/:splat		302
 /aracaju/*		/events/2024-aracaju/:splat		302
 /atlanta/*		/events/2026-atlanta/:splat		302
@@ -54,18 +54,17 @@
 /houston/*		/events/2024-houston/:splat		302
 /halifax/*		/events/2025-halifax/:splat		302
 /indianapolis/*		/events/2023-indianapolis/:splat	302
-/istanbul/*		/events/2025-istanbul/:splat		302
+/istanbul/*		/events/2026-istanbul/:splat		302
 /jakarta/*		/events/2022-jakarta/:splat		302
 /juiz-de-fora/*		/events/2025-juiz-de-fora/:splat		302
-/kansas-city/cfp    https://talks.devopsdays.org/devopsdays-kc-2024/    302
-/kansas-city/*		/events/2025-kansas-city/:splat		302
+/kansas-city/*		/events/2026-kansas-city/:splat		302
 /kazan/*		/events/2018-kazan/:splat		302
 /kiel/*			/events/2018-kiel/:splat		302
 /krakow/*		/events/2024-krakow/:splat		302
 /kiev/*			/events/2025-kyiv/:splat		302
 /kyiv/*			/events/2025-kyiv/:splat		302
 /ljubljana/*		/events/2025-ljubljana/:splat		302
-/london/*		/events/2025-london/:splat		302
+/london/*		/events/2026-london/:splat		302
 /los-angeles/*		/events/2026-los-angeles/:splat		302
 /macapa/*		/events/2019-macapa/:splat		302
 /maceio/*		/events/2025-maceio/:splat		302
@@ -107,7 +106,7 @@
 /salvador/*		/events/2025-salvador/:splat		302
 /santa-maria/*		/events/2018-santa-maria/:splat		302
 /santiago/*		/events/2025-santiago/:splat		302
-/sao-paulo/*		/events/2025-sao-paulo/:splat		302
+/sao-paulo/*		/events/2026-sao-paulo/:splat		302
 /seattle/*		/events/2024-seattle/:splat		302
 /shanghai/*		/events/2020-shanghai/:splat		302
 /shenzhen/*		/events/2018-shenzhen/:splat		302
@@ -124,7 +123,7 @@
 /vancouver/*		/events/2024-vancouver/:splat		302
 /victoria/*		/events/2019-victoria/:splat		302
 /vitoria/*		/events/2022-vitoria/:splat		302
-/vilnius/*            	/events/2025-vilnius/:splat             302
+/vilnius/*            	/events/2026-vilnius/:splat             302
 /warsaw/*		/events/2025-warsaw/:splat		302
 /washington-dc/*	/events/2025-washington-dc/:splat	302
 /zaragoza/*		/events/2020-zaragoza/:splat		302
@@ -265,3 +264,4 @@
 /wollongong/*            /events/2025-wollongong/:splat           302
 /graz/*            /events/2025-graz/:splat           302
 /ciudad-autonoma-de-buenos-aires/*            /events/2026-ciudad-autonoma-de-buenos-aires/:splat           302
+/brasov/*            /events/2026-brasov/:splat           302

@@ -6,8 +6,12 @@ Description = "Propose a talk for devopsdays Berlin 2026"
   {{< cfp_dates >}}
 
 <hr>
+<h3>How to submit a proposal:</h3>
+We're using pretalx for the CfP handling, as it makes communication around your proposal easier for everyone. Just <strong><a href="https://cfp.devopsdays.berlin/devopsdays-berlin-2026/cfp">add your proposal here</a></strong>, the tool will lead you through the process. 
 
-There are three ways to propose a topic at devopsdays:
+See you at the conference!
+
+<h3>There are three ways to propose a topic at devopsdays:</h3>
 <ol>
   <li><strong><em>A 30-minute talk</em></strong> presented during the conference, usually in the mornings.</li>
   <li><strong><em>An Ignite talk</em></strong> presented during the <a href="/pages/ignite-talks-format">Ignite sessions</a> (scheduling varies). These are 5 minutes slots with slides changing every 15 seconds (20 slides total).</li>
@@ -16,7 +20,7 @@ There are three ways to propose a topic at devopsdays:
 
 <hr>
 
-Choosing talks is part art, part science; here are some factors we consider when trying to assemble the best possible program for our local audience:
+<h3>Choosing talks is part art, part science; here are some factors we consider when trying to assemble the best possible program for our local audience:</h3>
 
 - _broad appeal_: How will your talk play out in a room of people with a variety of backgrounds? Technical deep dives need more levels to provide value for the whole room, some of whom might not use your specific tool.
 - _new local presenters_: You are the only one who can tell your story. We are very interested in the challenges and successes being experienced in our local area. We are happy to provide guidance/coaching for new speakers upon request.
@@ -27,9 +31,3 @@ Choosing talks is part art, part science; here are some factors we consider when
 
 <hr>
 
-<strong>How to submit a proposal:</strong> Send an email to [{{< email_organizers >}}] with the following information
-<ol>
-	<li>Type (presentation, panel discussion, ignite)</li>
-	<li>Proposal Title (can be changed later)</li>
-	<li>Description (several sentences explaining what attendees will learn)</li>
-</ol>
