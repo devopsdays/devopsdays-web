@@ -242,6 +242,13 @@ program:
     end_time: "16:30"
     comments: "Main Track - Hera Room"
 
+  - title: "duarte-alison"
+    type: talk
+    date: 2026-05-27T00:00:00+03:00
+    start_time: "15:45"
+    end_time: "16:30"
+    comments: "AI Track"
+
   - title: "sankar-sutapa"
     type: talk
     date: 2026-05-27T00:00:00+03:00
@@ -394,7 +401,7 @@ program:
     type: talk
     date: 2026-05-28T00:00:00+03:00
     start_time: "15:15"
-    end_time: "16:09"
+    end_time: "16:00"
     comments: "Main Track - Hera Room"
 
   - title: "bodhanya-thameez"
@@ -403,6 +410,13 @@ program:
     start_time: "16:00"
     end_time: "16:45"
     comments: "Main Track - Hera Room"
+
+  - title: "duarte-alison-1"
+    type: talk
+    date: 2026-05-28T00:00:00+03:00
+    start_time: "16:00"
+    end_time: "16:45"
+    comments: "AI Track"
 
   - title: "Break"
     type: custom
