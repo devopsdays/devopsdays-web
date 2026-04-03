@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-    {{- $upcoming := partial "functions/get-upcoming-events" . -}}
+    {{- $upcoming := partialCached "functions/get-upcoming-events" . "global" -}}
 
     <h1 class="sr-only">Upcoming DevOpsDays Events</h1>
     <div class="row">

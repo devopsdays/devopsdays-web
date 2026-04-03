@@ -9,9 +9,9 @@
   </div>
 </div>
 
-{{- $upcoming := partial "functions/get-upcoming-events" . -}}
-{{- $tbd := partial "functions/get-tbd-events" . -}}
-{{- $events := partial "functions/get-all-events" . -}}
+{{- $upcoming := partialCached "functions/get-upcoming-events" . "global" -}}
+{{- $tbd := partialCached "functions/get-tbd-events" . "global" -}}
+{{- $events := partialCached "functions/get-all-events" . "global" -}}
 
 <div class="row">
 {{- $currentMonth := "" -}}

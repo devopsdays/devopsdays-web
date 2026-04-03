@@ -1,7 +1,7 @@
 {{- $e := partial "functions/get-event-data" . -}}
 {{- $contentdir := printf "static/events/%s/" $e.name -}}
 
-{{- partial "events/non-current-banner.html" . -}}
+{{- partialCached "events/non-current-banner.html" . .File.Dir -}}
 
     {{- if and $e.masthead_background (ne $e.masthead_background "") -}}
       {{- if where (os.ReadDir "static/events") "Name" $e.name -}}
@@ -81,7 +81,7 @@
           {{- end -}}
 
           {{ $other := slice }}
-          {{- $events := partial "functions/get-all-events" . -}}
+          {{- $events := partialCached "functions/get-all-events" . "global" -}}
           {{- range sort $events "startdate" -}}
             {{- if and .startdate (ne .startdate $e.startdate) -}}
               {{- if or (eq (lower .city) (lower $otherTitle)) (eq (lower .event_group) (lower $otherTitle)) -}}

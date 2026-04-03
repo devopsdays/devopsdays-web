@@ -19,8 +19,8 @@
     {{- $matchTitle = $e.event_group -}}
   {{- end -}}
   
-  {{- $allEvents := partial "functions/get-all-events" . -}}
-  {{- $tbdEvents := partial "functions/get-tbd-events" . -}}
+  {{- $allEvents := partialCached "functions/get-all-events" . "global" -}}
+  {{- $tbdEvents := partialCached "functions/get-tbd-events" . "global" -}}
   
   {{- $allEventsIncludingTBD := $allEvents -}}
   {{- range $tbdEvents -}}

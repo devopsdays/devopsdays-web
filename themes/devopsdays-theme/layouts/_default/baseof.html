@@ -8,7 +8,8 @@
   {{- partialCached "global_navbar.html" . -}}
   {{- $section := index (split (.Permalink | relURL) "/") 1 -}}
   {{- if and (eq $section "events") (ne .Type "events") -}}
-    {{- partial "events/event_navbar.html" . -}}
+    {{- $eventDir := "" -}}{{- with .File -}}{{- $eventDir = .Dir -}}{{- end -}}
+    {{- partialCached "events/event_navbar.html" . $eventDir -}}
   {{- end -}}
   <main id="main-content" role="main">
     <div class="container-fluid">
@@ -54,6 +55,7 @@
     </div>
   </main>
   {{- partialCached "footer.html" . -}}
-  {{- partial "footer_scripts.html" . -}}
+  {{- $fsCacheKey := .Type -}}{{- with .File -}}{{- $fsCacheKey = .Dir -}}{{- end -}}
+  {{- partialCached "footer_scripts.html" . $fsCacheKey -}}
 </body>
 </html>

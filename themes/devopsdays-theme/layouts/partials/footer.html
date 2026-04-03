@@ -5,7 +5,7 @@
       <div class="row">
         <div class="col-md-6 col-lg-4 footer-nav-col">
           <h3 class="footer-nav">CFP Open</h3>
-          {{- $upcoming := partial "functions/get-upcoming-events" . -}}
+          {{- $upcoming := partialCached "functions/get-upcoming-events" . "global" -}}
           {{- range sort $upcoming "startdate" -}}
             {{- if and .cfp_date_end .cfp_date_start -}}
               {{- if and (ge now (time.AsTime .cfp_date_start)) (ge (time.AsTime .cfp_date_end) now) -}}

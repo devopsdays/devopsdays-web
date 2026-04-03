@@ -8,6 +8,7 @@ dataDir: data
 archetypeDir: archetypes
 disableKinds: ["taxonomy"]
 enableEmoji: true
+timeout: 300s
 pagination:
   path: blog
 markup:
@@ -21,33 +22,6 @@ languages:
     languageDirection: ltr
     languageName: English
     weight: 0
-
-# menus:
-#   main:
-#   - name: events
-#     pageRef: /events
-#     weight: -150
-#     identifier: events
-#   - name: blog
-#     pageRef: /blog
-#     weight: -140
-#     identifier: blog
-#   - name: sponsor
-#     pageRef: /sponsor
-#     weight: -130
-#     identifier: sponsor
-#   - name: speaking
-#     pageRef: /speaking
-#     weight: -120
-#     identifier: speaking
-#   - name: organizing
-#     pageRef: /organizing
-#     weight: -110
-#     identifier: organizing
-#   - name: about
-#     pageRef: /about
-#     weight: -100
-#     identifier: about
 
 permalinks:
   page: /:contentbasename/
@@ -102,18 +76,18 @@ minify:
 
 build:
   buildStats:
-    disableClasses: true
-    disableIDs: true
-    disableTags: true
-    enable: true
+    enable: false
   cacheBusters:
     - source: (postcss|tailwind)\.config\.js
       target: (css|styles|scss|sass)
   noJSConfigInAssets: false
-  useResourceCacheWhen: fallback
+  useResourceCacheWhen: always
 
 caches:
   assets:
+    dir: ":resourceDir/_gen"
+    maxAge: -1
+  getresource:
     dir: ":resourceDir/_gen"
     maxAge: -1
   images:

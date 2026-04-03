@@ -88,5 +88,5 @@
   </style>
 {{- end -}}
 
-{{ partial "sponsors.html" . }}
+{{ partialCached "sponsors.html" . .File.Dir }}
 {{- end -}}

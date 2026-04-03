@@ -1,5 +1,7 @@
-{{ partial "google_analytics.html" . }}
-{{ partial "google_tag_manager.html" . }}
+{{- $cacheKey := .Type -}}
+{{- with .File -}}{{- $cacheKey = .Dir -}}{{- end -}}
+{{ partialCached "google_analytics.html" . $cacheKey }}
+{{ partialCached "google_tag_manager.html" . $cacheKey }}
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

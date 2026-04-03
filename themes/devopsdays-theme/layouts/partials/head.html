@@ -46,4 +46,4 @@
     {{- end -}}
   {{ $title }}
 </title>
-{{- partial "head_includes.html" . -}}
+{{- partialCached "head_includes.html" . .Type .Kind -}}
