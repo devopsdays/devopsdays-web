@@ -121,6 +121,12 @@ sponsors:
     level: gold
   - id: cleanstart
     level: gold
+  - id: teleport
+    level: gold
+  - id: bitrise
+    level: gold
+  - id: azul
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

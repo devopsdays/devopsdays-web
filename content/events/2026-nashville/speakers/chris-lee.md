@@ -2,7 +2,7 @@
 Title = "Chris Lee"
 Twitter = ""
 linkedin = ""
-image = ""
+image = "chris-lee.png"
 type = "speaker"
 linktitle = "chris-lee"
 Website = ""
