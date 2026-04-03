@@ -32,9 +32,9 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 #
 # coordinates: "" # No longer used
 
-location: "SEBRAE RN" # Defaults to city, but you can make it the venue name.
+location: "IFRN - NATAL CENTRAL" # Defaults to city, but you can make it the venue name.
 #
-location_address: "Av. Lima e Silva, 76 - Lagoa Nova, Natal - RN, 59075-710" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
+location_address: "Av. Sen. Salgado Filho, 1559 - Tirol, Natal - RN, 59015-000" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
 
 # Optional - Social badges
 # These can be used in the body of any page via matching shortcodes. See sample:  https://devopsdays.org/events/2025-denver/welcome/
