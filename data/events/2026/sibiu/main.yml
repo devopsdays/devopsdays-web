@@ -73,13 +73,6 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/ovicostea"
     bio: "Senior DevOps Engineer with a strong focus on scaling products and optimizing their entire lifecycle. Works as a contractor and freelancer, bringing practical experience in DevOps and infrastructure to deliver efficient, results-driven solutions. Combines software engineering skills with a no-nonsense approach to improving system reliability and performance."
 
-  - name: "Daniela Chrzanovski"
-    linkedin: "https://www.linkedin.com/in/daniela-chrzanovski-00859676/"
-    image: "daniela.jpg"
-    employer: "Swiss Webacademy"
-    twitter: "devopsdays"
-    bio: "Daniela Chrzanovski is an IT engineer. In 2003, she created the first web training center in Romania, a project funded by the Swiss Confederation, training over 1000 specialists in the field of the Web Development over 10 years. She then launched the Swiss Webacademy in Sibiu in partnership with the Haute Ecole d'Ingénieurs Neuchatel, Switzerland, which provides expertise and accreditation for the training programs. For the past 7 years, she has been an associate professor at the University of Franche-Comté in France, teaching Digital Technologies at the IUT Belfort, as well as a course within the Master en Droit du numerique program in Besancon. She also taught the Web Hosting and Referencing course as part of the Web Application Development Master's program at Haute Ecole ARC Ingenierie in Switzerland. She is a promoter of Digital Transformation and, along with her team, supports digital skills courses for companies. She is one of the founders of the Cybersecurity Congress in Romania, organizing 10 editions in Sibiu, a congress supported by the International Telecommunication Union at the UN-Geneva. She is the founder and vice president of the Francophone Business Club."
-
   - name: "Valentin-Marius Amza "
     image: "amza.jpg"
     employer: "Swiss Webacademy"
