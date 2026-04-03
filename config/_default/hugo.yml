@@ -81,7 +81,7 @@ build:
     - source: (postcss|tailwind)\.config\.js
       target: (css|styles|scss|sass)
   noJSConfigInAssets: false
-  useResourceCacheWhen: always
+  useResourceCacheWhen: fallback
 
 caches:
   assets:
