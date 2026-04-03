@@ -1,103 +1,77 @@
 {{- $e := partial "functions/get-event-data" . -}}
 
-<div class = "row">
+<div class="row">
 
-  <!-- propose button -->
   {{- if $e.startdate -}}
     {{- if $e.cfp_date_start -}}
-      {{- if and (ge now (time $e.cfp_date_start)) (le now (time $e.cfp_date_end)) -}}
-        <div class = "col-auto offset-1 offset-md-0 welcome-page-cta">
-          <a href='{{ (partial "functions/get-cfp-url" $e) }}' class="btn jssocials-share-link event-cta-button" role="button" aria-pressed="true">Propose</a>
+      {{- if and (ge now (time.AsTime $e.cfp_date_start)) (le now (time.AsTime $e.cfp_date_end)) -}}
+        <div class="col-auto offset-1 offset-md-0 welcome-page-cta">
+          <a href='{{ partial "functions/get-cfp-url" $e }}' class="btn jssocials-share-link event-cta-button" role="button" aria-pressed="true">Propose</a>
         </div>
       {{- end -}}
     {{- end -}}
   {{- end -}}
 
-    <!-- register button -->
     {{- if $e.registration_open -}}
       {{- if eq $e.registration_open "true" -}}
-        {{- if $e.registration_link -}}
-          {{- if eq $e.registration_link "" -}}
-            {{- $.Scratch.Set "registration_link" ((printf "/events/%s/registration" $e.name) ) -}}
-          {{- else -}}
-            {{- $.Scratch.Set "registration_link" $e.registration_link -}}
+        {{- $registration_link := printf "/events/%s/registration" $e.name -}}
+        {{- with $e.registration_link -}}
+          {{- if ne . "" -}}
+            {{- $registration_link = . -}}
           {{- end -}}
-        {{- else -}}
-          {{- $.Scratch.Set "registration_link" ((printf "/events/%s/registration" $e.name) ) -}}
-      {{- end -}}
-      <div class = "col-auto  offset-1 offset-md-0 welcome-page-cta">
-        <a href='{{ $.Scratch.Get "registration_link" }}' class="btn jssocials-share-link event-cta-button" role="button" aria-pressed="true">Register</a>
-          </div>
+        {{- end -}}
+        <div class="col-auto offset-1 offset-md-0 welcome-page-cta">
+          <a href='{{ $registration_link }}' class="btn jssocials-share-link event-cta-button" role="button" aria-pressed="true">Register</a>
+        </div>
       {{- end -}}
     {{- else -}}
       {{- if $e.startdate -}}
         {{- if and $e.registration_date_start $e.registration_date_end -}}
-          {{- if and (ge now (time $e.registration_date_start)) (le now (time $e.registration_date_end)) -}}
-            {{- if $e.registration_link -}}
-              {{- if eq $e.registration_link "" -}}
-                {{- $.Scratch.Set "registration_link" ((printf "/events/%s/registration" $e.name) ) -}}
-              {{- else -}}
-                {{- $.Scratch.Set "registration_link" $e.registration_link -}}
+          {{- if and (ge now (time.AsTime $e.registration_date_start)) (le now (time.AsTime $e.registration_date_end)) -}}
+            {{- $registration_link := printf "/events/%s/registration" $e.name -}}
+            {{- with $e.registration_link -}}
+              {{- if ne . "" -}}
+                {{- $registration_link = . -}}
               {{- end -}}
-            {{- else -}}
-              {{- $.Scratch.Set "registration_link" ((printf "/events/%s/registration" $e.name) ) -}}
             {{- end -}}
             {{- if $e.registration_closed -}}
               {{- if ne $e.registration_closed "true" -}}
-                <div class = "col-auto offset-1 offset-md-0 welcome-page-cta">
-                  <a href='{{ $.Scratch.Get "registration_link" }}' class="btn jssocials-share-link event-cta-button" role="button" aria-pressed="true">Register</a>
+                <div class="col-auto offset-1 offset-md-0 welcome-page-cta">
+                  <a href='{{ $registration_link }}' class="btn jssocials-share-link event-cta-button" role="button" aria-pressed="true">Register</a>
                 </div>
               {{- end -}}
+            {{- else -}}
+              <div class="col-auto offset-1 offset-md-0 welcome-page-cta">
+                <a href='{{ $registration_link }}' class="btn jssocials-share-link event-cta-button" role="button" aria-pressed="true">Register</a>
+              </div>
             {{- end -}}
-            <div class = "col-auto offset-1 offset-md-0 welcome-page-cta">
-              <a href='{{ $.Scratch.Get "registration_link" }}' class="btn jssocials-share-link event-cta-button" role="button" aria-pressed="true">Register</a>
-            </div>
           {{- end -}}
         {{- end -}}
       {{- end -}}
     {{- end -}}
 
-  <!-- contact via email button -->
-  {{- if $e.organizer_email -}}
-    {{- if ne $e.organizer_email "" -}}
-      <div class = "col-auto  offset-1 offset-md-0 welcome-page-cta">
-        <a href="mailto:{{ $e.organizer_email }}?subject=DevOpsDays {{ $e.city }} {{ $e.year }}" class="btn jssocials-share-link event-cta-button" role="button" aria-pressed="true">Contact</a>
-      </div>
-    {{- end -}}
+  {{- with $e.organizer_email -}}
+    <div class="col-auto offset-1 offset-md-0 welcome-page-cta">
+      <a href="mailto:{{ . }}?subject=DevOpsDays {{ $e.city }} {{ $e.year }}" class="btn jssocials-share-link event-cta-button" role="button" aria-pressed="true">Contact</a>
+    </div>
   {{- end -}}
-
 
 </div>
 
-{{- if $e.masthead_background -}}
-  {{- if ne $e.masthead_background "" -}}
-    <style>
-    a.jssocials-share-link {
-      color: #fff;
-      border-color: #fff;
-      background-color: gray;
-      z-index: 2;
-    }
-    a:hover.jssocials-share-link {
-      color: #bfbfc1;
-      border-color: #bfbfc1;
-    }
-    </style>
-  {{ else }}
-
-    <style>
-    a.jssocials-share-link {
-      color: white;
-      border-color: white;
-    }
-    a:hover.jssocials-share-link {
-      color: #bfbfc1;
-      border-color: #bfbfc1;
-    }
-    </style>
-  {{- end -}}
+{{- if and $e.masthead_background (ne $e.masthead_background "") -}}
+  <style>
+  a.jssocials-share-link {
+    color: #fff;
+    border-color: #fff;
+    background-color: gray;
+    z-index: 2;
+  }
+  a:hover.jssocials-share-link {
+    color: #bfbfc1;
+    border-color: #bfbfc1;
+  }
+  </style>
 {{- else -}}
-
   <style>
   a.jssocials-share-link {
     color: white;
@@ -108,12 +82,10 @@
     border-color: #bfbfc1;
   }
   </style>
-
 {{- end -}}
 
-<div class = "row">
-  <div class = "col-md-12 offset-1 offset-md-0  welcome-page-cta">
+<div class="row">
+  <div class="col-md-12 offset-1 offset-md-0 welcome-page-cta">
     <div id="share"></div>
   </div>
-
 </div>

@@ -1,49 +1,47 @@
 {{ define "main" }}
 
-<h1>{{ .Title }}</h1>
-{{- if isset .Params "author" -}}
-  <small>by {{ .Params.author }} - {{ dateFormat "02 January, 2006" .Date }}</small>
-{{- else -}}
-  <small>{{ dateFormat "02 January, 2006" .Date }}</small>
-{{- end -}}
-<br><br>
-{{ .Content }}
-<div id="share"></div>
-<div class="row">
-  <!-- pager begin -->
-  <div class="col-md-12">
-    <nav>
-      <ul class="pagination">
-        {{ if .PrevInSection }}
-          <li class="page-item">
-            <a href="{{.PrevInSection.Permalink}}" class="page-link">
-              <span aria-hidden="true">&larr;</span>
-              Previous</a>
-          </li>
-          {{ else }}
-          <li class="page-item disabled">
-            <a href="#" class="page-link">
-              <span aria-hidden="true">&larr;</span>
-              Previous</a>
-          </li>
-        {{ end }}
-        {{ if .NextInSection }}
-          <li class="page-item">
-            <a href="{{.NextInSection.Permalink}}" class="page-link">Next
-              <span aria-hidden="true">&rarr;</span>
-            </a>
-          </li>
-          {{ else }}
-          <li class="page-item disabled">
-            <a href="#" class="page-link">Next
-              <span aria-hidden="true">&rarr;</span>
-            </a>
-          </li>
-        {{ end }}
-      </ul>
-    </nav>
+<article>
+  <header>
+    <h1>{{ .Title }}</h1>
+    {{- with .Params.author -}}
+      <p class="blog-post-meta">by {{ . }} &mdash; {{ time.Format "02 January, 2006" $.Date }}</p>
+    {{- else -}}
+      <p class="blog-post-meta">{{ time.Format "02 January, 2006" .Date }}</p>
+    {{- end -}}
+  </header>
+
+  <div class="content-text">
+    {{ .Content }}
   </div>
-</div>
-<!-- pager end -->
+
+  <div id="share"></div>
+
+  <nav aria-label="Blog post navigation">
+    <ul class="pagination">
+      {{- with .PrevInSection -}}
+        <li class="page-item">
+          <a href="{{ .Permalink }}" class="page-link">
+            <span aria-hidden="true">&larr;</span> Previous
+          </a>
+        </li>
+      {{- else -}}
+        <li class="page-item disabled">
+          <span class="page-link"><span aria-hidden="true">&larr;</span> Previous</span>
+        </li>
+      {{- end -}}
+      {{- with .NextInSection -}}
+        <li class="page-item">
+          <a href="{{ .Permalink }}" class="page-link">
+            Next <span aria-hidden="true">&rarr;</span>
+          </a>
+        </li>
+      {{- else -}}
+        <li class="page-item disabled">
+          <span class="page-link">Next <span aria-hidden="true">&rarr;</span></span>
+        </li>
+      {{- end -}}
+    </ul>
+  </nav>
+</article>
 
 {{ end }}

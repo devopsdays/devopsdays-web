@@ -1,19 +1,18 @@
-{{ $upcoming := slice }}
-{{- $upcoming = partial "functions/get-upcoming-events" . -}}
-
-{{- $.Scratch.Add "events" "<table id = 'cfp-list' class = 'table table-condensed'><thead><tr><th>City</th><th>&nbsp;&nbsp;&nbsp;&nbsp;Event Starts</th></tr></thead><tbody>" -}}
-{{- range sort $upcoming "startdate" -}}
-  {{- if (and .sponsors_accepted .startdate) -}}
-    {{- if ge (time .enddate) now -}}
-      {{- $.Scratch.Add "events" "<tr><td><a href = '/events/" -}}
-      {{- $.Scratch.Add "events" .name -}}
-      {{- $.Scratch.Add "events" "/'>" -}}
-      {{- $.Scratch.Add "events" .city -}}
-      {{- $.Scratch.Add "events" "</a></td><td>&nbsp;&nbsp;" -}}
-      {{- $.Scratch.Add "events" (dateFormat "2006-01-02" .startdate) -}}
-      {{- $.Scratch.Add "events" "</td></tr>" -}}
-    {{- end }} {{/* end: date is now or afterwards */}}
-  {{- end }} {{/* end: if sponsors and date */}}
-{{ end }} {{/* end: range sort $.Site.Data.events "startdate" */}}
-{{- $.Scratch.Add "events" "</tbody></table>" -}}
-{{ $.Scratch.Get "events" | safeHTML }}
+{{- $upcoming := partial "functions/get-upcoming-events" . -}}
+<table id="cfp-list" class="table table-condensed">
+  <thead>
+    <tr><th>City</th><th>&nbsp;&nbsp;&nbsp;&nbsp;Event Starts</th></tr>
+  </thead>
+  <tbody>
+    {{- range sort $upcoming "startdate" -}}
+      {{- if and .sponsors_accepted .startdate -}}
+        {{- if ge (time.AsTime .enddate) now -}}
+          <tr>
+            <td><a href='{{ printf "/events/%s/" .name }}'>{{ .city }}</a></td>
+            <td>&nbsp;&nbsp;{{ time.Format "2006-01-02" .startdate }}</td>
+          </tr>
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  </tbody>
+</table>

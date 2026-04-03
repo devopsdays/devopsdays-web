@@ -1,24 +1,17 @@
 {{- $e := partial "functions/get-event-data" . -}}
-{{- $.Scratch.Set "contentdir" (printf "static/events/%s/" $e.name) -}}
+{{- $contentdir := printf "static/events/%s/" $e.name -}}
 
-{{- /* Display banner for non-current events */ -}}
 {{- partial "events/non-current-banner.html" . -}}
 
-    {{- if $e.masthead_background -}}
-      {{- if ne $e.masthead_background "" -}}
-      {{- if (where (readDir "static/events") "Name" $e.name) -}}
-        {{- if (where (readDir ($.Scratch.Get "contentdir")) "Name" $e.masthead_background) -}}
+    {{- if and $e.masthead_background (ne $e.masthead_background "") -}}
+      {{- if where (os.ReadDir "static/events") "Name" $e.name -}}
+        {{- if where (os.ReadDir $contentdir) "Name" $e.masthead_background -}}
         <style>
-
           .welcome-page-masthead {
-            background: #bfbfc1; /* For browsers that do not support gradients */
-            background: -webkit-linear-gradient(#0082AB, #bfbfc1); /* For Safari 5.1 to 6.0 */
-            background: -o-linear-gradient(#0082AB, #bfbfc1); /* For Opera 11.1 to 12.0 */
-            background: -moz-linear-gradient(#0082AB, #bfbfc1); /* For Firefox 3.6 to 15 */
-            background: linear-gradient(#0082AB, #bfbfc1); /* Standard syntax */
+            background: linear-gradient(135deg, #0082AB, #bfbfc1);
             padding: 20px;
-            margin-bottom:20px;
-            margin-top:20px;
+            margin-bottom: 20px;
+            margin-top: 20px;
             z-index: 1;
           }
           .welcome-page-masthead:before {
@@ -31,96 +24,81 @@
             height: 100%;
             z-index: -1;
             opacity: 0.2;
-            background-image: url('{{ (printf "/events/%s/%s" $e.name $e.masthead_background) }}');
+            background-image: url('{{ printf "/events/%s/%s" $e.name $e.masthead_background }}');
             background-repeat: no-repeat;
             background-position: 50% 0;
-            -ms-background-size: cover;
-            -o-background-size: cover;
-            -moz-background-size: cover;
-            -webkit-background-size: cover;
             background-size: cover;
-
           }
-
-
         </style>
-
       {{- end -}}
     {{- end -}}
   {{- end -}}
-{{- end -}}
 <div class="row h-event">
-  <div class = "col-md-12 welcome-page-masthead">
-  <div class = "row">
+  <div class="col-md-12 welcome-page-masthead">
+  <div class="row">
     <div class="col-xs-12 col-md-8">
-      <h1 class = "welcome-page p-name">devopsdays {{$e.city}}</h1>
+      <h1 class="welcome-page p-name">devopsdays {{ $e.city }}</h1>
       <a class="u-url" href="{{ .Permalink }}"></a>
 
     {{- if $e.startdate -}}
-      {{- if or (ne (time $e.startdate).Month (time $e.enddate).Month) (ne (time $e.startdate).Day (time $e.enddate).Day) -}}
-        
-        
+      {{- $start := time.AsTime $e.startdate -}}
+      {{- $end := time.AsTime $e.enddate -}}
+      {{- if or (ne $start.Month $end.Month) (ne $start.Day $end.Day) -}}
             <span class="welcome-page-date">
-                {{- if eq (time $e.startdate).Month (time $e.enddate).Month -}}
-                    <time class="dt-start" datetime="{{ dateFormat "2006-01-02T15:04:05-0700" $e.startdate }}">{{ dateFormat "January 2" $e.startdate }}</time> - <time class="dt-end" datetime="{{ dateFormat "2006-01-02T15:04:05-0700" $e.enddate }}">{{ dateFormat "2, 2006" $e.enddate }}</time><br />
+                {{- if eq $start.Month $end.Month -}}
+                    <time class="dt-start" datetime="{{ time.Format "2006-01-02T15:04:05-0700" $e.startdate }}">{{ time.Format "January 2" $e.startdate }}</time> - <time class="dt-end" datetime="{{ time.Format "2006-01-02T15:04:05-0700" $e.enddate }}">{{ time.Format "2, 2006" $e.enddate }}</time><br />
                 {{- else -}}
-                    <time class="dt-start" datetime="{{ dateFormat "2006-01-02T15:04:05-0700" $e.startdate }}">{{ dateFormat "Jan 2" $e.startdate }}</time> - <time class="dt-end" datetime="{{ dateFormat "2006-01-02T15:04:05-0700" $e.enddate }}">{{ dateFormat "Jan 2" $e.enddate }}</time><br />
+                    <time class="dt-start" datetime="{{ time.Format "2006-01-02T15:04:05-0700" $e.startdate }}">{{ time.Format "Jan 2" $e.startdate }}</time> - <time class="dt-end" datetime="{{ time.Format "2006-01-02T15:04:05-0700" $e.enddate }}">{{ time.Format "Jan 2" $e.enddate }}</time><br />
                 {{- end -}}
             </span>
       {{- else -}}
             <span class="welcome-page-date">
-          <time class="dt-start" datetime="{{ dateFormat "2006-01-02T15:04:05-0700" $e.startdate }}">{{ dateFormat "January 2, 2006" $e.startdate }}</time><br />
+          <time class="dt-start" datetime="{{ time.Format "2006-01-02T15:04:05-0700" $e.startdate }}">{{ time.Format "January 2, 2006" $e.startdate }}</time><br />
             </span>
       {{- end -}}
     {{- end -}}
 
         <br />
 
-        {{- if $e.location -}}
-          <span class = "welcome-page-masthead-venue{{ if not $e.location_address }} p-location{{- end -}}">{{- $e.location -}}</span>
+        {{- with $e.location -}}
+          <span class="welcome-page-masthead-venue{{ if not $e.location_address }} p-location{{ end }}">{{ . }}</span>
           <br />
-          {{- if $e.location_address -}}
-            <span><a href = "http://maps.google.com/?q={{$e.location_address}}" class = "welcome-page-masthead-link p-location">{{ $e.location_address }}</a></span>
-                        <br />
+          {{- with $e.location_address -}}
+            <span><a href="http://maps.google.com/?q={{ . }}" class="welcome-page-masthead-link p-location">{{ . }}</a></span>
+            <br />
           {{- end -}}
         {{- end -}}
 
-        {{- if $e.description -}}
-          <span class="e-summary">{{ $e.description | markdownify }}</span>
-           <br /><br />
+        {{- with $e.description -}}
+          <span class="e-summary">{{ . | markdownify }}</span>
+          <br /><br />
         {{- end -}}
 
         {{- if $e.city -}}
-          {{- $.Scratch.Set "past-counter" 0 -}}
-          
-          {{/* Determine if city name our event group name will be used for matching to build the "other X events" list*/}}
-          {{ $otherTitle := $e.city}}
-          {{- if $e.event_group -}}
-            {{ $otherTitle = $e.event_group}}
+          {{ $otherTitle := $e.city }}
+          {{- with $e.event_group -}}
+            {{ $otherTitle = . }}
           {{- end -}}
-          
-          {{/* Filter events on city or event_group name to build "other X events" list*/}}
+
           {{ $other := slice }}
-          {{ $events := slice }}
-          {{- $events = partial "functions/get-all-events" . -}}
+          {{- $events := partial "functions/get-all-events" . -}}
           {{- range sort $events "startdate" -}}
-            {{- if and (.startdate) (ne .startdate $e.startdate) -}}
+            {{- if and .startdate (ne .startdate $e.startdate) -}}
               {{- if or (eq (lower .city) (lower $otherTitle)) (eq (lower .event_group) (lower $otherTitle)) -}}
-                {{ $other = append . $other  }}
+                {{ $other = append . $other }}
               {{- end -}}
-            {{- end -}}              
+            {{- end -}}
           {{- end -}}
 
           {{- if ne (len $other) 0 -}}
             <i>Other {{ $otherTitle }} Events</i><br />
             {{- range sort $other "startdate" -}}
-              <a href = '{{ (printf "/events/%s" .name) }}' class="welcome-page-masthead-link">{{ dateFormat "2006" .startdate }}</a> &nbsp;&nbsp;
+              <a href='{{ printf "/events/%s" .name }}' class="welcome-page-masthead-link">{{ time.Format "2006" .startdate }}</a> &nbsp;&nbsp;
             {{- end -}}
           {{- end -}}
-
-        {{- end -}}        
+        {{- end -}}
         <br /><br />
-      
+
 </div>
 
  <div class="col-xs-12 col-md-4">

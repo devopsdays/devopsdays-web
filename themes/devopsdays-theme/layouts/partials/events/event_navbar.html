@@ -1,37 +1,32 @@
 {{- $e := partial "functions/get-event-data" . -}}
-<nav class="navbar event-navigation navbar-expand-md navbar-light">
-  <a href='{{ (printf "/events/%s" $e.name) }}' class="nav-link">{{ $e.city }}</a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar2">
+<nav class="navbar event-navigation navbar-expand-md navbar-light" role="navigation" aria-label="{{ $e.city }} event navigation">
+  <a href='{{ printf "/events/%s" $e.name }}' class="nav-link event-page-nav-home">{{ $e.city }}</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar2" aria-controls="navbar2" aria-expanded="false" aria-label="Toggle event navigation">
     <span class="navbar-toggler-icon"></span>
-</button>
+  </button>
   <div class="navbar-collapse collapse" id="navbar2">
-      <ul class="navbar-nav">
-          {{- if $e.nav_elements -}}
-            {{- range $e.nav_elements -}}
-              {{- if .url -}}
-                {{- $.Scratch.Set "url" .url -}}
-              {{- else }}
-                {{- $.Scratch.Set "url" ((printf "/events/%s/%s" $e.name .name )) -}}
-              {{- end -}}
-              {{- if eq .name "propose" -}}
-                {{- if $e.cfp_link -}}
-                  {{- if ne $e.cfp_link "" -}}
-                    {{- $.Scratch.Set "url" $e.cfp_link -}}
-                  {{- end -}}
-                {{- end -}}
-              {{- end -}}
-              {{- if eq .name "registration" -}}
-                {{- if $e.registration_link -}}
-                  {{- if ne $e.registration_link "" -}}
-                    {{- $.Scratch.Set "url" $e.registration_link -}}
-                  {{- end -}}
-                {{- end -}}
-              {{- end -}}
-                <li class="nav-item active">
-                  <a class="nav-link" href='{{$.Scratch.Get "url" }}'>{{ .name }}</a>
-                </li>
-            {{- end -}}
+    <ul class="navbar-nav">
+      {{- range $e.nav_elements -}}
+        {{- $url := "" -}}
+        {{- if .url -}}
+          {{- $url = .url -}}
+        {{- else -}}
+          {{- $url = printf "/events/%s/%s" $e.name .name -}}
+        {{- end -}}
+        {{- if eq .name "propose" -}}
+          {{- with $e.cfp_link -}}
+            {{- $url = . -}}
           {{- end -}}
-      </ul>
+        {{- end -}}
+        {{- if eq .name "registration" -}}
+          {{- with $e.registration_link -}}
+            {{- $url = . -}}
+          {{- end -}}
+        {{- end -}}
+        <li class="nav-item">
+          <a class="nav-link" href="{{ $url }}">{{ .name }}</a>
+        </li>
+      {{- end -}}
+    </ul>
   </div>
 </nav>

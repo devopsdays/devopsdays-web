@@ -1,6 +1,11 @@
 {{ define "main" }}
+
+<article>
   <h1>{{ .Title }}</h1>
-  {{ .Content }}
+  <div class="content-text">
+    {{ .Content }}
+  </div>
   <div id="share"></div>
+</article>
 
 {{ end }}

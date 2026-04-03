@@ -1,15 +1,13 @@
 {{ define "main" }}
 
-<div class="row">
-  <div class="col-md-12">
-    <h1>Blog Posts</h1>
-    <div>
-      {{- range .Paginator.Pages -}}
-         {{ .Render "summary" }}
-      {{- end -}}
-      {{- partial "blog_pagination.html" . -}}
-    </div>
+<section>
+  <h1>Blog Posts</h1>
+  <div>
+    {{- range .Paginator.Pages -}}
+      {{ .Render "summary" }}
+    {{- end -}}
+    {{- partial "blog_pagination.html" . -}}
   </div>
-</div>
+</section>
 
 {{ end }}

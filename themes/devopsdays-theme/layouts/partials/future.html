@@ -1,47 +1,40 @@
-{{ $upcoming := slice }}
-{{ $tbd := slice }}
+{{- $upcoming := partial "functions/get-upcoming-events" . -}}
+{{- $tbd := partial "functions/get-tbd-events" . -}}
 
-{{- $upcoming = partial "functions/get-upcoming-events" . -}}
-{{- $tbd = partial "functions/get-tbd-events" . -}}
+{{- $currentYear := "" -}}
+{{- $currentMonth := "" -}}
 
 {{- range sort $upcoming "startdate" -}}
-  {{- if ne ($.Scratch.Get "year") (dateFormat "2006" .startdate) -}}
-    {{- $.Scratch.Set "year" (dateFormat "2006" .startdate) -}}
-    {{- $.Scratch.Set "year-displayed" "false" -}}
+  {{- $year := time.Format "2006" .startdate -}}
+  {{- $month := time.Format "January" .startdate -}}
+  {{- if ne $currentYear $year -}}
+    {{- $currentYear = $year -}}
+    <h3 class="left-nav-year mt-4">{{ $year }}</h3>
+    {{- $currentMonth = "" -}}
   {{- end -}}
-  {{- if ne ($.Scratch.Get "month") (dateFormat "January" .startdate ) -}}
-    {{- $.Scratch.Set "month" (dateFormat "January" .startdate ) -}}
-    {{- $.Scratch.Set "month-displayed" "false" -}}
-
+  {{- if ne $currentMonth $month -}}
+    {{- $currentMonth = $month -}}
+    <h4 class="left-nav-months">{{ $month }}</h4>
   {{- end -}}
-  {{- if ne ($.Scratch.Get "year-displayed") "true" -}}
-    <h3 class="left-nav-year mt-4">{{ dateFormat "2006" .startdate }}</h3>
-    {{- $.Scratch.Set "year-displayed" "true" -}}
-  {{- end -}}
-  {{- if ne ($.Scratch.Get "month-displayed") "true" -}}
-    <h4 class="left-nav-months">{{ dateFormat "January" .startdate }}</h4>
-    {{- $.Scratch.Set "month-displayed" "true" -}}
-  {{- end -}}
-  {{- if or (ne (time .startdate).Month (time .enddate).Month) (ne (time .startdate).Day (time .enddate).Day) -}}
-    {{- if eq (time .startdate).Month (time .enddate).Month -}}
-      <a href = "{{ (printf "/events/%s" .name ) }}" class = "left-nav-event">
-    {{ dateFormat "Jan 2" .startdate }} - {{ dateFormat "2" .enddate }}:
-    {{ .city }}
+  {{- $start := time.AsTime .startdate -}}
+  {{- $end := time.AsTime .enddate -}}
+  {{- if or (ne $start.Month $end.Month) (ne $start.Day $end.Day) -}}
+    {{- if eq $start.Month $end.Month -}}
+      <a href="{{ printf "/events/%s" .name }}" class="left-nav-event">
+        {{ time.Format "Jan 2" .startdate }} - {{ time.Format "2" .enddate }}: {{ .city }}
       </a>
     {{- else -}}
-      <a href = "{{ (printf "/events/%s" .name) }}" class = "left-nav-event">
-        {{ dateFormat "Jan 2" .startdate }} - {{ dateFormat "Jan 2" .enddate }}:
-        {{ .city }}
+      <a href="{{ printf "/events/%s" .name }}" class="left-nav-event">
+        {{ time.Format "Jan 2" .startdate }} - {{ time.Format "Jan 2" .enddate }}: {{ .city }}
       </a>
     {{- end -}}
   {{- else -}}
-    <a href = "{{ (printf "/events/%s" .name) }}" class = "left-nav-event">
-      {{ dateFormat "Jan 2" .startdate }}:
-      {{ .city }}
+    <a href="{{ printf "/events/%s" .name }}" class="left-nav-event">
+      {{ time.Format "Jan 2" .startdate }}: {{ .city }}
     </a>
   {{- end -}}
 {{- end -}}
 <h3 class="left-nav-year mt-3">TBD</h3>
 {{- range sort $tbd "city" -}}
-  <a href = "{{ (printf "/events/%s" .name) }}" class = "left-nav-event">{{ .city }}</a>
+  <a href="{{ printf "/events/%s" .name }}" class="left-nav-event">{{ .city }}</a>
 {{- end -}}

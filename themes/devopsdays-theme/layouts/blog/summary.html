@@ -1,20 +1,18 @@
-<header>
-  <h2><a href='{{ .Permalink }}'> {{ .Title }}</a> </h2>
-       {{- if isset .Params "author" -}}
-         <h2 class="footer-heading">by {{ .Params.author }} - {{ dateFormat "02 January, 2006" .Date }}</h2>
-       {{- else -}}
-         <h2 class="footer-heading">{{ dateFormat "02 January, 2006" .Date }}</h2>
-       {{- end -}}
-
-</header>
-{{ if isset .Params "description" }}
-  {{ if ne .Params.descripton "" }}
-    {{ .Params.description | markdownify }}
-  {{ end }}
-{{ else }}
-  {{ .Summary }}
-{{ end }}
-<footer>
-  <a href='{{ .Permalink }}'><nobr>Read more →</nobr></a>
-</footer>
-<br>
+<article class="blog-summary">
+  <header>
+    <h2><a href='{{ .Permalink }}'>{{ .Title }}</a></h2>
+    {{- with .Params.author -}}
+      <p class="blog-post-meta">by {{ . }} &mdash; {{ time.Format "02 January, 2006" $.Date }}</p>
+    {{- else -}}
+      <p class="blog-post-meta">{{ time.Format "02 January, 2006" .Date }}</p>
+    {{- end -}}
+  </header>
+  {{- with .Params.description -}}
+    {{ . | markdownify }}
+  {{- else -}}
+    {{ .Summary }}
+  {{- end -}}
+  <footer>
+    <a href='{{ .Permalink }}' class="blog-read-more">Read more &rarr;</a>
+  </footer>
+</article>

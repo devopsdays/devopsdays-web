@@ -2,48 +2,48 @@
 {{- partial "head/seo.html" . -}}
 
 <title>
+    {{- $title := "" -}}
     {{- if .IsHome -}}
-      {{ $.Scratch.Set "title" "devopsdays" }}
-    {{- else -}}
-      {{- if .IsPage -}}
-        {{- if or (eq .Type "welcome") (eq .Type "event") (eq .Type "speakers") (eq .Type "talk") (eq .Type "speaker") (eq .Type "program") -}}
-          {{- $e := partial "functions/get-event-data" . -}}
-          {{- if eq (lower .Title) "welcome" -}}
-            {{- $.Scratch.Set "title" (printf "devopsdays %s %s" $e.city (chomp $e.year)) -}}
-          {{- else if eq (lower .Title) "conduct" -}}
-            {{- $.Scratch.Set "title" (printf "devopsdays %s %s - code of conduct" $e.city (chomp $e.year)) -}}
-          {{- else if eq (lower .Title) "contact" -}}
-            {{- $.Scratch.Set "title" (printf "devopsdays %s %s - contact information" $e.city (chomp $e.year)) -}}
-          {{- else if eq (lower .Title) "location" -}}
-            {{- $.Scratch.Set "title" (printf "devopsdays %s %s - location information" $e.city (chomp $e.year)) -}}
-          {{- else if eq (lower .Title) "program" -}}
-            {{- $.Scratch.Set "title" (printf "devopsdays %s %s - program" $e.city (chomp $e.year)) -}}
-          {{- else if eq (lower .Title) "propose" -}}
-            {{- $.Scratch.Set "title" (printf "devopsdays %s %s - propose a talk" $e.city (chomp $e.year)) -}}
-          {{- else if eq (lower .Title) "registration" -}}
-            {{- $.Scratch.Set "title" (printf "devopsdays %s %s - register" $e.city (chomp $e.year)) -}}
-          {{- else if eq (lower .Title) "speakers" -}}
-            {{- $.Scratch.Set "title" (printf "devopsdays %s %s - speakers" $e.city (chomp $e.year)) -}}
-          {{- else if eq (lower .Title) "sponsor" -}}
-            {{- $.Scratch.Set "title" (printf "devopsdays %s %s - sponsorship information" $e.city (chomp $e.year)) -}}
-          {{- else if eq .Type "talk" -}}
-            {{- $.Scratch.Set "title" (printf "%s - devopsdays %s %s" .Title $e.city (chomp $e.year)) -}}
-          {{- else if eq .Type "speaker" -}}
-            {{- $.Scratch.Set "title" (printf "%s - devopsdays %s %s" .Title $e.city (chomp $e.year)) -}}
-          {{- else -}}
-            {{- $.Scratch.Set "title" .Title -}}
-          {{- end -}}
-          {{- if not ($.Scratch.Get "title") -}}
-            {{- $.Scratch.Set "title" .Title -}}
-          {{- end -}}
+      {{- $title = "devopsdays" -}}
+    {{- else if .IsPage -}}
+      {{- if or (eq .Type "welcome") (eq .Type "event") (eq .Type "speakers") (eq .Type "talk") (eq .Type "speaker") (eq .Type "program") -}}
+        {{- $e := partial "functions/get-event-data" . -}}
+        {{- $cityYear := printf "devopsdays %s %s" $e.city (strings.TrimRight "\n" $e.year) -}}
+        {{- if eq (lower .Title) "welcome" -}}
+          {{- $title = $cityYear -}}
+        {{- else if eq (lower .Title) "conduct" -}}
+          {{- $title = printf "%s - code of conduct" $cityYear -}}
+        {{- else if eq (lower .Title) "contact" -}}
+          {{- $title = printf "%s - contact information" $cityYear -}}
+        {{- else if eq (lower .Title) "location" -}}
+          {{- $title = printf "%s - location information" $cityYear -}}
+        {{- else if eq (lower .Title) "program" -}}
+          {{- $title = printf "%s - program" $cityYear -}}
+        {{- else if eq (lower .Title) "propose" -}}
+          {{- $title = printf "%s - propose a talk" $cityYear -}}
+        {{- else if eq (lower .Title) "registration" -}}
+          {{- $title = printf "%s - register" $cityYear -}}
+        {{- else if eq (lower .Title) "speakers" -}}
+          {{- $title = printf "%s - speakers" $cityYear -}}
+        {{- else if eq (lower .Title) "sponsor" -}}
+          {{- $title = printf "%s - sponsorship information" $cityYear -}}
+        {{- else if eq .Type "talk" -}}
+          {{- $title = printf "%s - %s" .Title $cityYear -}}
+        {{- else if eq .Type "speaker" -}}
+          {{- $title = printf "%s - %s" .Title $cityYear -}}
+        {{- else -}}
+          {{- $title = .Title -}}
         {{- end -}}
-        {{- if not ($.Scratch.Get "title") -}}
-          {{- $.Scratch.Set "title" .Title -}}
-        {{- end -}}
-      {{- else -}}
-        {{- $.Scratch.Set "title" .Title -}}
       {{- end -}}
+      {{- if not $title -}}
+        {{- $title = .Title -}}
+      {{- end -}}
+    {{- else -}}
+      {{- $title = .Title -}}
     {{- end -}}
-  {{ $.Scratch.Get "title" }}
+    {{- if not $title -}}
+      {{- $title = "devopsdays" -}}
+    {{- end -}}
+  {{ $title }}
 </title>
 {{- partial "head_includes.html" . -}}
