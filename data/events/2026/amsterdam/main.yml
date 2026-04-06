@@ -119,7 +119,7 @@ sponsors:
 #   - id: samplesponsorname
 #     level: gold
 #  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  - id: ING
+  - id: ing
     level: captions
   - id: nobl9
     level: lunch
@@ -135,10 +135,6 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: community
-    label: Community
-  - id: bronze
-    label: Bronze
   - id: gold
     label: Gold
   - id: captions
@@ -158,3 +154,7 @@ sponsor_levels:
     max: 1
   - id: workshop
     label: Workshop
+  - id: bronze
+    label: Bronze
+  - id: community
+    label: Community
