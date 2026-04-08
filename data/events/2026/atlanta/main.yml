@@ -127,6 +127,12 @@ sponsors:
     level: gold
   - id: azul
     level: silver
+  - id: torc
+    level: community
+  - id: renderatl
+    level: community
+  - id: merakiden
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
