@@ -7,11 +7,16 @@ Type = "talk"
 Speakers = ["chris-lee"]
 +++
 
-You used AI (Cursor, vibe coding) to build an app. Then you hit the wall: Now what? It needs a URL, auth, CI, and a way to find bugs before users do. This talk presents a repeatable “day two” checklist for moving to production: hosting on Vercel, DNS, data with Airtable, authentication with Clerk, GitHub for PRs and review, and GitHub Actions for lint and test on every push. We use git hooks (Husky) so the same test suite runs locally before every push, and Cursor agents to find issues, running “find bugs,” “check for auth leaks,” or “review this diff” so the AI does the first pass before human review. The DevOps connection: AI got us to “working code” fast; the same tooling (Cursor + agents) and pipeline (GitHub + Actions + Vercel) get us to deployed, reviewed, and maintainable without throwing away the vibe. Principles in play: automation (CI, cron, agents, hooks), feedback loops (PRs, tests, agents), and security by default (Clerk, env vars, CRON_SECRET)
-Key Takeaways
-“I vibe coded an app” is only half the story. The other half is hosting, auth, DNS, CI, and review.
-We use Cursor agents for finding issues; GitHub + Actions for PRs and CI; Husky so the same tests run locally; Vercel for hosting, Clerk for auth, and Airtable for data.
-The same AI that helped build the app now helps operate it through continuous "review assistance."
-The test suite is the same everywhere: run by git hooks before push, run by GitHub Actions on every push/PR, and required before merge so deploys are safe.
+You vibe coded an app. It works. It demos well.
 
+Then you hit the wall.
 
+Now it needs a website, scalability, automated deployments, a database, authentication, payments, emails… and a way to catch problems before your users do. Most projects die right here.
+
+This talk is about what comes next. Not theory, not tools for their own sake, but the shift from “it works on my machine” to something real. The difference between a demo and a system you can trust.
+
+We’ll walk through the mindset and patterns that make that transition possible: building feedback loops, enforcing quality before deploy, and using AI not just to write code, but to continuously review and challenge it.
+
+The same tools that let you build fast can help you operate safely, if you use them correctly.
+
+The takeaway is simple: building the app is only half the story. What matters is whether it holds up when it’s live.
