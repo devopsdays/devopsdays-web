@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "The rise of Risk Ops teams - a solution for reducing cognitive load in DevOps teams."
 Type = "talk"
-Speakers = ["sankar-sutapa"]
+Speakers = ["sarkar-sutapa"]
 +++
 
 In the fast-paced realm of DevOps, integrating security early often overwhelms DevOps teams with complex alerts and mental strain. Risk Ops can reduce this cognitive load by embedding continuous risk assessments, vulnerability management, directly into development pipelines. While Security Champions help to ensure secure coding practices are followed early in the development cycle, Risk Ops teams translate technical alerts into actionable, business-contextualized insights which enable DevOps teams to focus on delivering features rather than deciphering risks. Embedding risk knowledge within DevOps teams enables the translation of risk and security challenges into actionable, developer-friendly tasks, many of which can be efficiently mitigated through automation. This collaboration fosters a “secure by design” culture where risk teams guide rather than gatekeep, work together with DevOps teams to resolve risk and security related issues , empowering DevOps teams to build resilient applications with speed, confidence, and reduced friction.

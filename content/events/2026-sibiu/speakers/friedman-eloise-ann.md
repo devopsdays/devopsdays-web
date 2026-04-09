@@ -1,7 +1,7 @@
 +++
 Title = "Eloise Ann Friedman"
 Twitter = ""
-linkedin = "https://www.linkedin.com/in/eloise-ann-friedman-%F0%9F%87%AE%F0%9F%87%B1-741742121/"
+linkedin = "https://www.linkedin.com/in/eloise-ann-friedman-741742121/"
 image = "eloise.jpg"
 type = "speaker"
 linktitle = "friedman-eloise-ann"
