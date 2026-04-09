@@ -8,4 +8,4 @@ linktitle = "bodhanya-thameez"
 
 +++
 
-Developer at heart, tinkerer by trade. Officially an Engineering Lead (DevOps and SRE) at forward earth.
+Developer at heart, tinkerer by trade. Officially an Engineering Lead (DevOps and SRE)
