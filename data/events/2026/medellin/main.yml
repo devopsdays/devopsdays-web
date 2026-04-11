@@ -36,58 +36,29 @@ location: "¡Conferencia Virtual!" # Defaults to city, but you can make it the v
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: Spanish
     url: "https://devopsdays.io/"
- # - name: location
- # - name: propose
- #   url: "https://www.papercall.io/dodmded2024"
-#  - name: registration
-#    url: "https://www.ticketopolis.com/devopsdaysmdev2020"
-#  - name: program
-#    url: "https://devopsdays.io/agenda-2"
- # - name: speakers
-#  - name: sponsor
-#  - name: speakers
   - name: contact
   - name: conduct
-# - name: example
-#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
-#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
-
 
 # These are the same people you have on the mailing list and Slack channel.
-team_members: # Name is the only required field for team members.
-# - name: ""
-#   employer: ""
-#   role: ""
-#   bio: ""
-#   twitter: ""
-#   linkedin: "https://"
-#   facebook: ""
-#   website: ""
-#   github: ""
-#   image: ""  
+team_members: # Name is the only required field for team members. 
   - name: "Carlos Zapata"
     employer: "Rockwell Automation"
     linkedin: "https://www.linkedin.com/in/carlos-zapata-96479275/"
-#   bio: "Ingeniero electrónico con una experiencia laboral de más de 20 años en el sector tecnológico y en Gestión de Proyectos. Formador en marcos, técnicas y prácticas de la transformación ágil organizacional, forjando estrategias de crecimiento orgánico en áreas de TI, innovación, diseño, implementacion de sistemas, riesgos, transformación digital, entre otros." 
-    image: "zapata1.png"    
+    image: "zapata.png"    
  
   - name: "Miguelangel Pineda"
     employer: "Banco BICE Chile"
-    image: "miguelangel1.png"
+    image: "miguelangel.png"
     linkedin: "https://www.linkedin.com/in/miguelangel-pineda-garcia/"  
-#   role: ""
+
   - name: "Camila Gallego"
     employer: "Agile & Consulting Group Co"
-    image: "camila1.png"  
-#   bio: ""
-#   twitter: ""
+    image: "camila.png"  
+
   - name: "Alejandra Pérez"
     employer: "Devops Colombia"
-    image: "alejandra1.png"  
-#   linkedin: "https://"
-#   facebook: ""
-#   website: ""
-#   github: ""
+    image: "alejandra.png"  
+
 
 
 organizer_email: "medellin@devopsdays.org" # Put your organizer email address here
@@ -97,31 +68,7 @@ organizer_email: "medellin@devopsdays.org" # Put your organizer email address he
 sponsors:
 # - id: samplesponsorname
 #   level: gold
-#  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-#  - id: githublogo
-#    level: diamond
-#  - id: nttdata
-#    level: diamond
-#  - id: devops-colombia
-#    level: diamond
-#  - id: fluidattacks
-#    level: diamond
-#  - id: 2020-devco
-#    level: diamond
-#  - id: nttdata
-#    level: gold
-#  - id: ucatolicaluisamigo
-#    level: platinum
-#  - id: udeantioquia
-#    level: platinum
-#  - id: womenwhocode
-#    level: socialmedia
-#  - id: linux-professional-institute
-#    level: socialmedia
-#  - id: dcl
-#    level: socialmedia
-#  - id: ccsolutionsio
-#     level: socialmedia
+
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
