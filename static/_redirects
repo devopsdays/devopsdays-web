@@ -106,8 +106,8 @@
 /salvador/*		/events/2025-salvador/:splat		302
 /santa-maria/*		/events/2018-santa-maria/:splat		302
 /santiago/*		/events/2026-santiago/:splat		302
-/sao-paulo/*		/events/2025-sao-paulo/:splat		302
 /santiago/*		/events/2025-santiago/:splat		302
+/sao-paulo/*		/events/2025-sao-paulo/:splat		302
 /sao-paulo/*		/events/2026-sao-paulo/:splat		302
 /seattle/*		/events/2024-seattle/:splat		302
 /shanghai/*		/events/2020-shanghai/:splat		302
