@@ -11,18 +11,18 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2026-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: 2026-06-06T09:00:00+02:00
-enddate: 2026-06-06T16:59:59+02:00
+startdate: 2026-07-04T09:00:00+02:00
+enddate: 2026-07-04T17:59:59+02:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2026-03-14T00:00:00+02:00
-cfp_date_end: 2026-04-19T23:59:59+02:00
-cfp_date_announce: 2026-05-04T00:00:00+02:00 # inform proposers of status
+cfp_date_end: 2026-05-10T23:59:59+02:00
+cfp_date_announce: 2026-05-17T00:00:00+02:00 # inform proposers of status
 
 # cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: 2026-03-15T00:00:00+02:00
-registration_date_end: 2026-06-06T17:00:00+02:00
+registration_date_start: 2026-05-04T00:00:00+02:00
+registration_date_end: 2026-06-13T17:00:00+02:00
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
