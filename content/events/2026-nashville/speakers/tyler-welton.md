@@ -1,11 +1,11 @@
 +++
 Title = "Tyler Welton"
 Twitter = ""
-linkedin = ""
-image = ""
+linkedin = "https://www.linkedin.com/in/tylerwelton/"
+image = "tyler-welton.png"
 type = "speaker"
 linktitle = "tyler-welton"
-Website = ""
+Website = "https://untamed.cloud/"
 +++
 
 Tyler is the CEO of Untamed Theory, a Cybersecurity AI Intelligence company. Tyler’s journey began with internet hijinks and evolved into a career in offensive security for the national defense and healthcare industries, before helping startups secure their architecture.

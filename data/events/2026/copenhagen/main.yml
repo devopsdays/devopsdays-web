@@ -2,7 +2,7 @@ name: "2026-copenhagen" # The name of the event. Four digit year with the city n
 year: "2026" # The year of the event. Make sure it is in quotes.
 city: "copenhagen" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdays" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "DevOpsDays - The Danish DevOps and DevX community meet again in Copenhagen!" # Edit this to suit your preferences
+description: "devopsdays Copenhagen 2026 has been cancelled." # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2026-MM-DDTHH:MM:SS+TZ:TZ, like this:
@@ -11,13 +11,15 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 # Note: we allow 2026-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
 
-startdate: 2026-04-28T10:00:00+01:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2026-04-29T18:00:00+01:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+cancel: "true"
+
+startdate: # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2025-12-01T00:00:00+01:00 # start accepting talk proposals.
-cfp_date_end: 2026-02-01T00:00:00+01:00 # close your call for proposals.
-cfp_date_announce: 2026-03-01T00:00:00+01:00 # inform proposers of status
+cfp_date_start: # start accepting talk proposals.
+cfp_date_end: # close your call for proposals.
+cfp_date_announce: # inform proposers of status
 cfp_link: "https://www.devopsdays.dk/cfp/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
@@ -30,9 +32,9 @@ registration_link: "https://www.devopsdays.dk/stories/become-a-speaker/" # If yo
 #
 # coordinates: "" # No longer used
 
-location: "Copenhagen" # Defaults to city, but you can make it the venue name.
+location: # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
+location_address: # Optional - use the street address of your venue.
 
 # Optional - Social badges
 # These can be used in the body of any page via matching shortcodes. See sample:  https://devopsdays.org/events/2025-denver/welcome/
@@ -47,20 +49,8 @@ event_social_youtube: "devopsdays" # Change this to the youtube channel handle f
 # event_twitter: "devopsdays" # This will create a traditional "Follow" twitter button. Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: devopsdays.dk
-    url: https://www.devopsdays.dk/ # Optional override of the default url for this nav item
-#  - name: registration
-#  - name: program
-#    url: https://www.devopsdays.dk/program/ # Optional override of the default url for this nav item
-#  - name: speakers
-#    url: https://www.devopsdays.dk/speakers/ # Optional override of the default url for this nav item
-#  - name: sponsor
-#  - name: propose # This is a special case - if the cfp_link is set, this will link to that - not your page!
-  - name: conduct
   - name: contact
-# - name: example
-#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
-#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+  - name: conduct
 
 
 # These are the same people you have on the mailing list and Slack channel.
@@ -130,7 +120,7 @@ sponsors:
 #  - id: the-tech-collective
 #    level: community
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
