@@ -8,4 +8,4 @@ linktitle = "adeniji-adeola"
 
 +++
 
-I am a seasoned security professional with over a decade of experience leveraging security in line with best practices to ensure companies are secure and business enabled
+A seasoned security professional with over a decade of experience leveraging security in line with best practices to ensure companies are secure and business enabled

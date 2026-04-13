@@ -1,10 +1,10 @@
 +++
-Title = "Sutapa Sankar"
+Title = "Sutapa Sarkar"
 Twitter = ""
-linkedin = ""
+linkedin = "https://www.linkedin.com/in/sutapa-sarkar/"
 image = "sutapasarkar.jpg"
 type = "speaker"
-linktitle = "sankar-sutapa"
+linktitle = "sarkar-sutapa"
 
 +++
 

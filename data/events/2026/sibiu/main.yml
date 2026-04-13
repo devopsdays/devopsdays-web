@@ -199,6 +199,13 @@ program:
     end_time: "14:00"
     comments: "Main Track - Hera Room"
 
+  - title: "piscaer-joep"
+    type: talk
+    date: 2026-05-27T00:00:00+03:00
+    start_time: "13:30"
+    end_time: "14:00"
+    comments: "AI Track"
+
   - title: "agabekov-roman"
     type: talk
     date: 2026-05-27T00:00:00+03:00
@@ -213,7 +220,7 @@ program:
     end_time: "15:00"
     background_color: "#FFB566"
 
-  - title: "piscaer-joep"
+  - title: "kristina-kondrashevich"
     type: talk
     date: 2026-05-27T00:00:00+03:00
     start_time: "15:00"
@@ -241,7 +248,7 @@ program:
     end_time: "16:30"
     comments: "AI Track"
 
-  - title: "sankar-sutapa"
+  - title: "sarkar-sutapa"
     type: talk
     date: 2026-05-27T00:00:00+03:00
     start_time: "16:00"
@@ -268,7 +275,7 @@ program:
     start_time: "16:40"
     end_time: "17:15"
     background_color: "#FFB566"
-    comments: "Beta and Gamma Rooms"
+    comments: "Betta and Gamma Rooms"
 
   - title: "Break"
     type: custom
@@ -282,7 +289,7 @@ program:
     start_time: "17:45"
     end_time: "18:15"
     background_color: "#FFB566"
-    comments: "Beta and Gamma Rooms"
+    comments: "Betta and Gamma Rooms"
 
   - title: "Day 1 Raffle winners + Closing of the day"
     type: custom
@@ -422,7 +429,7 @@ program:
     start_time: "17:00"
     end_time: "17:30"
     background_color: "#FFB566"
-    comments: "Beta and Gamma Rooms"
+    comments: "Betta and Gamma Rooms"
 
   - title: "Break"
     type: custom
@@ -436,7 +443,7 @@ program:
     start_time: "17:45"
     end_time: "18:15"
     background_color: "#FFB566"
-    comments: "Beta and Gamma Rooms"
+    comments: "Betta and Gamma Rooms"
 
   - title: "Break"
     type: custom
@@ -476,7 +483,7 @@ program:
     date: 2026-05-29T00:00:00+03:00
     start_time: "13:30"
     end_time: "15:00"
-    comments: "DevSecOps Track - Beta Room"
+    comments: "DevSecOps Track - Betta Room"
 
   - title: "sandhu-suki"
     type: workshop
@@ -496,7 +503,7 @@ program:
     date: 2026-05-29T00:00:00+03:00
     start_time: "15:30"
     end_time: "17:00"
-    comments: "DevSecOps Track - Beta Room"
+    comments: "DevSecOps Track - Betta Room"
 
   - title: "mihu-raluca"
     type: workshop
