@@ -136,7 +136,10 @@ sponsors:
     level: gold
   - id: nx
     level: gold
-
+  - id: triangle-mysql-meetup
+    level: community
+  - id: triangle-postgres-users-group
+    level: community
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
