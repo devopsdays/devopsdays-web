@@ -24,14 +24,14 @@ Description = "devopsdays Denver 2026"
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -70,8 +70,7 @@ Description = "devopsdays Denver 2026"
 </div>
 <br>
 <br>
-We're hard at work preparing for the next big event and we're looking forward to seeing y'all there!<br>
-In the meantime, follow us below to stay in the know:
+Follow us below to stay in the know:
 <br>
 {{< event_social_linkedin >}}
 {{< event_social_listserv >}}

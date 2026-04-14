@@ -2,7 +2,7 @@
 Title = "Robert Hoffman"
 Twitter = ""
 linkedin = ""
-image = ""
+image = "robert-hoffman.png"
 type = "speaker"
 linktitle = "robert-hoffman"
 Website = ""

@@ -1,7 +1,7 @@
 +++
 Title = "Dr. Suki Sandhu"
 Twitter = ""
-linkedin = ""
+linkedin = "https://www.linkedin.com/in/suki-sandhu-ph-d-1752287/"
 image = "sukisandhu.jpg"
 type = "speaker"
 linktitle = "sandhu-suki"

@@ -134,12 +134,19 @@ sponsors:
    - id: nttdata
      level: platinum
      url: https://pe.nttdata.com/
-   - id: orexe
-     level: bronze
-     url: https://orexe.pe/
+   - id: port
+     level: platinum
+     url: https://www.port.io/
+   - id: thoughtworks
+     level: platinum
+     url: https://www.thoughtworks.com/
+
 #Gold Sponsors
 #Silver Sponsors
 #Bronze Sponsors
+   - id: orexe
+     level: bronze
+     url: https://orexe.pe/
 #Community Sponsors 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

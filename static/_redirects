@@ -33,7 +33,7 @@
 /denmark/*		/events/2026-copenhagen/:splat		302
 /cuba/*			/events/2019-cuba/:splat		302
 /dallas/*		/events/2026-dallas/:splat		302
-/denver/*		/events/2025-denver/:splat		302
+/denver/*		/events/2026-denver/:splat		302
 /des-moines/*		/events/2025-des-moines/:splat		302
 /detroit/*		/events/2025-detroit/:splat		302
 /down-under/*		/events/2019-sydney/:splat		302
@@ -60,7 +60,7 @@
 /kansas-city/*		/events/2026-kansas-city/:splat		302
 /kazan/*		/events/2018-kazan/:splat		302
 /kiel/*			/events/2018-kiel/:splat		302
-/krakow/*		/events/2024-krakow/:splat		302
+/krakow/*		/events/2026-krakow/:splat		302
 /kiev/*			/events/2025-kyiv/:splat		302
 /kyiv/*			/events/2025-kyiv/:splat		302
 /ljubljana/*		/events/2025-ljubljana/:splat		302
@@ -96,8 +96,8 @@
 /poznan/*		/events/2023-poznan/:splat		302
 /prague/*		/events/2026-prague/:splat		302
 /raleigh/*		/events/2026-raleigh/:splat		302
-/recife/cfp     https://www.papercall.io/dodrec25    302
-/recife/*		/events/2025-recife/:splat		302
+/recife/cfp		https://talks.devopsdays.org/devopsdays-recife-2026/cfp		302
+/recife/*		/events/2026-recife/:splat		302
 /riga/*			/events/2018-riga/:splat		302
 /rio-de-janeiro/*	/events/2026-rio-de-janeiro/:splat	302
 /rome/*			/events/2012-italy/:splat		302
