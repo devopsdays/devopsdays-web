@@ -13,6 +13,15 @@ Description = "devopsdays brasov 2026"
 
 <div class="row">
   <div class="col-md-2">
+    <strong>Location</strong>
+  </div>
+  <div class="col-md-8">
+    {{< event_location >}}
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-2">
     <strong>Dates</strong>
   </div>
   <div class="col-md-8">
@@ -120,6 +129,9 @@ Description = "devopsdays brasov 2026"
 
 [//]: # ({{< event_twitter >}})
 
+  <p style="color: red; font-size: 2em; font-weight: 700; margin-top: 1rem;">
+      Please note that the Call for Papers will close on April 17th.
+  </p>
 
 # Welcome to devopsdays Brașov
 

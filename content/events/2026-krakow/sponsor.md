@@ -1,0 +1,60 @@
++++
+Title = "Sponsor"
+Type = "event"
+Description = "Sponsor devopsdays Kraków 2026"
++++
+<style>
+  .content-section {
+    padding-top: 2rem;
+    width: 100%;
+    max-width: 80%;
+    margin: 0 auto;
+  }
+
+  .content-section p, .content-texsectiont ol, .content-section ul {
+    font-size: 1.4em;
+    font-weight: 400;
+  }
+
+  .content-section h2 {
+    margin-top: 2rem;
+  }
+  
+  .content-section a.btn {
+    align-items: center;
+    max-width: 250px;
+    margin: 4rem auto 0;
+  }
+
+  .content-dates {
+    margin-top: 4rem;
+    font-size: 1.4em;
+    font-weight: 400;
+  }
+
+  hr {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    border-color: #CF313E;
+  }
+
+</style>
+
+<div class="content-section">
+
+We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
+
+<hr>
+
+devopsdays is a **self-organizing conference for practitioners** that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. **Sponsors have the opportunity to have short elevator pitches during the program** and will get **recognition on the website** and **social media** before, during and after the event. 
+
+Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an Experience Exchange session.
+
+**All attendees are welcome to propose any subject** they want during the Experience Exchange sessions, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
+
+**The best thing to do is send engineers** to interact with the experts at devopsdays on their own terms.
+
+<a href="mailto:krakow@devopsdays.org" type="button" class="btn btn-danger btn-lg btn-block">CONTACT US</a>
+</div>
+
+<hr/>

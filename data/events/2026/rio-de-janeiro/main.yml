@@ -16,11 +16,11 @@ enddate:  2026-08-15T18:00:00-03:00 # The end date of your event. Leave blank if
 timezone: "America/Sao_Paulo"
 timeoffset: "-0300"
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-# cfp_date_start:  # start accepting talk proposals.
-# cfp_date_end:  # close your call for proposals.
-# cfp_date_announce:  2026-01-13T09:00:00-03:00
-# cfp_open: "false"
-# cfp_link: "https://www.papercall.io/devopsdaysrio2026"
+cfp_date_start:  2026-02-18T00:00:00-03:00
+cfp_date_end:  2026-05-18T00:00:00-03:00
+cfp_date_announce:  2026-06-13T09:00:00-03:00
+cfp_open: "true"
+cfp_link: "https://www.papercall.io/devopsdaysrio2026"
 
 registration_date_start: 2026-03-04T09:00:00-03:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 registration_date_end: 2026-08-15T08:00:00-03:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.

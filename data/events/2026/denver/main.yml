@@ -4,6 +4,8 @@ city: "Denver" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaysrox" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "Devopsdays Rockies is returning for it's 10th annual event!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+sharing_image: "sharing.png"
+event_logo: "/assets/2026-denver/logo.png"
 
 # All dates are in unquoted 2026-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2019-01-04T00:00:00+02:00
@@ -37,18 +39,18 @@ location_address: "2875 Blake St, Denver, CO 80205" #Optional - use the street a
 # Optional - Social badges
 # These can be used in the body of any page via matching shortcodes. See sample:  https://devopsdays.org/events/2025-denver/welcome/
 event_social_linkedin: "https://linkedin.com/company/devopsdaysrox" # Change this to the url to your Linkedin group, company, or page.
-event_social_slack: "https://join.slack.com/t/devopsdaysrox/custom_shared_invite_url" # Change this to your slack invite link.
-event_social_listserv: "https://lists.devopsdays.org/subscription?custom_listserv_invite_url" # Change this to your mailing list subscription form url.
+event_social_slack: "https://join.slack.com/t/denverdevops/shared_invite/zt-1vh386cqp-Y_YUcLvFTeuOXA1~zIHUPQ" # Change this to your slack invite link.
+event_social_listserv: "https://lists.devopsdays.org/subscription?f=nPvKqspePofE0XidlymcAQz892zz76328sS1gkULvyWIga2Seg6kQJvGeDwfVJ3B4Ea1" # Change this to your mailing list subscription form url.
 event_social_twitter: "devopsdaysrox" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 event_social_mastodon: "https://mastodon.social/@devopsdaysrox" # Change this to url to your mastodon page
 event_social_bsky: "https://bsky.app/profile/devopsdaysrox.bsky.social" # Change this to url to your bluesky page
-event_social_youtube: "devopsdaysrox" # Change this to the youtube channel handle for your event such as devopsdaysrox
+event_social_youtube: "devopsdaysrockies" # Change this to the youtube channel handle for your event such as devopsdaysrox
 # legacy
 # event_twitter: "devopsdaysrox" # This will create a traditional "Follow" twitter button. Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
- # - name: location
+  - name: location
   - name: registration
  # - name: program
  # - name: speakers
@@ -91,8 +93,12 @@ organizer_email: "denver@devopsdays.org"
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-#   - id: samplesponsorname
-#     level: gold
+  - id: groundcover
+    level: silver
+  - id: code-talent
+    level: community
+  - id: kubeevents
+    level: community
 #  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 #   - id: arresteddevops
 #     level: community
@@ -104,6 +110,8 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: platinum
+    label: Platinum
   - id: gold
     label: Gold
 #    max: 12

@@ -154,13 +154,15 @@ sponsors:
   level: partner
 - id: digicomp
   level: partner
-- id: puresivefilms
+- id: lukasschubnell
   level: partner
 - id: powercoders
   level: community
 - id: belikegrace
   level: community
 - id: girlscodetoo
+  level: community
+- id: guild42
   level: community
 - id: vshn
   level: gold
