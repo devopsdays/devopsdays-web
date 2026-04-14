@@ -122,6 +122,8 @@ sponsors:
    level: media
  - id: softwaredefinedtalk
    level: media
+ - id: groundcover
+   level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
