@@ -32,7 +32,7 @@ Description = "devopsdays TASHKENT 2026"
     <strong>Homepage</strong>
   </div>
   <div class = "col-md-8">
-    Visit the local event website at [https://devopsdays.uz/](https://devopsdays.uz/)
+    Visit the local event website at <a href="https://devopsdays.uz/">https://devopsdays.uz/</a>
   </div>
 </div>
 
