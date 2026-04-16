@@ -5,9 +5,9 @@ aliases = ["/events/2026-tashkent/"]
 Description = "devopsdays TASHKENT 2026"
 +++
 
-<!-- <div style="text-align:center;">
+<div style="text-align:center;">
   {{< event_logo >}}
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -18,14 +18,23 @@ Description = "devopsdays TASHKENT 2026"
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div> -->
+</div>
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Homepage</strong>
+  </div>
+  <div class = "col-md-8">
+    Visit the local event website at <a href="https://devopsdays.uz/">https://devopsdays.uz/</a>
+  </div>
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
