@@ -256,11 +256,6 @@ program:
     date: 2026-04-30
     start_time: "14:30"
     end_time: "14:40"
-  - title: "jeanne-mcclure-workshop"
-    type: workshop
-    date: 2026-04-30
-    start_time: "14:40"
-    end_time: "16:10"
   - title: "catherine-louis-workshop"
     type: workshop
     date: 2026-04-30
@@ -342,6 +337,11 @@ program:
     start_time: "10:20"
     end_time: "11:50"
   - title: "kapil-patel-workshop"
+    type: workshop
+    date: 2026-05-01
+    start_time: "10:20"
+    end_time: "11:50"
+  - title: "jeanne-mcclure-workshop"
     type: workshop
     date: 2026-05-01
     start_time: "10:20"
