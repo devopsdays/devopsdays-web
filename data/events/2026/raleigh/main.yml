@@ -118,6 +118,8 @@ sponsors:
     level: community
   - id: arresteddevops
     level: community
+  - id: aws
+    level: silver
   - id: cribl
     level: gold
   - id: edgedelta
