@@ -374,7 +374,7 @@ program:
     date: 2026-05-01
     start_time: "14:05"
     end_time: "14:35"
-  - title: "jeremy-meiss-keynote"
+  - title: "jonathan-vogel-keynote"
     type: talk
     date: 2026-05-01
     start_time: "14:35"
