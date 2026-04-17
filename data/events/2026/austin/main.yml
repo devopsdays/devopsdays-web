@@ -50,8 +50,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: location
   - name: register
     url: https://tickets.devopsdays.org/devopsdays-austin/2026/
- # - name: program
- # - name: speakers
+  - name: schedule
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -138,16 +138,22 @@ organizer_email: "austin@devopsdays.org" # Put your organizer email address here
 sponsors:
   - id: launch-darkly
     level: gold
+  - id: zesty
+    level: gold
+  - id: groundcover
+    level: gold
   - id: harness
     level: happyhour
   - id: texasmutual
     level: coffee
+  - id: crash-override
+    level: lanyard
   - id: newiron
     level: careerroom
 #  - id: dryrun-security
 #    level: startup
-#  - id: autoptic
-#    level: startup
+  - id: autoptic
+    level: startup
 #  - id: ops0
 #    level: startup
   - id: texas-state-university

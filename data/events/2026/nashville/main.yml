@@ -122,6 +122,8 @@ sponsors:
    level: media
  - id: softwaredefinedtalk
    level: media
+ - id: groundcover
+   level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -276,7 +278,7 @@ program:
     date: 2026-05-15
     start_time: "14:15"
     end_time: "15:15"
-  - title: "reserved"
+  - title: "sharath-thirunagaru"
     type: talk
     date: 2026-05-15
     start_time: "15:15"

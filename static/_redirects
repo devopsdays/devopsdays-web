@@ -60,7 +60,7 @@
 /kansas-city/*		/events/2026-kansas-city/:splat		302
 /kazan/*		/events/2018-kazan/:splat		302
 /kiel/*			/events/2018-kiel/:splat		302
-/krakow/*		/events/2024-krakow/:splat		302
+/krakow/*		/events/2026-krakow/:splat		302
 /kiev/*			/events/2025-kyiv/:splat		302
 /kyiv/*			/events/2025-kyiv/:splat		302
 /ljubljana/*		/events/2025-ljubljana/:splat		302
@@ -265,3 +265,4 @@
 /graz/*            /events/2025-graz/:splat           302
 /ciudad-autonoma-de-buenos-aires/*            /events/2026-ciudad-autonoma-de-buenos-aires/:splat           302
 /brasov/*            /events/2026-brasov/:splat           302
+/tashkent/*            /events/2026-tashkent/:splat           302

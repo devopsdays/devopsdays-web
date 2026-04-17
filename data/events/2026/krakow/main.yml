@@ -1,0 +1,128 @@
+name: "2026-krakow" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2026" # The year of the event. Make sure it is in quotes.
+city: "Kraków" # The displayed city name of the event. Capitalize it.
+event_twitter: "dodkrk" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+masthead_background: "krakow-banner-masthead.png"
+description: "Devopsdays is coming to Kraków!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2026-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2026-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2026-07-04T09:00:00+02:00
+enddate: 2026-07-04T17:59:59+02:00
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2026-03-14T00:00:00+02:00
+cfp_date_end: 2026-05-10T23:59:59+02:00
+cfp_date_announce: 2026-05-17T00:00:00+02:00 # inform proposers of status
+
+# cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: 2026-05-04T00:00:00+02:00
+registration_date_end: 2026-06-13T17:00:00+02:00
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+location: "Kraków" # Defaults to city, but you can make it the venue name.
+location_address: "ECHO Miasta, ul. Kapelanka 56" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
+
+# Optional - Social badges
+# These can be used in the body of any page via matching shortcodes. See sample:  https://devopsdays.org/events/2025-denver/welcome/
+event_social_linkedin: "https://www.linkedin.com/company/devopsdays-krak%C3%B3w" # Change this to the url to your Linkedin group, company, or page.
+event_social_slack: "" # Change this to your slack invite link.
+event_social_listserv: "" # Change this to your mailing list subscription form url.
+event_social_twitter: "dodkrk" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+event_social_mastodon: "" # Change this to url to your mastodon page
+event_social_bsky: "" # Change this to url to your bluesky page
+event_social_youtube: "" # Change this to the youtube channel handle for your event such as devopsdaysrox
+
+
+# Social Share Buttons
+# Optional: Specify which social share buttons to display on event pages.
+# If not specified, defaults to all: ["email", "twitter", "facebook", "linkedin"]
+# Valid values: "email", "twitter", "facebook", "linkedin"
+# Example: social_shares: ["email", "linkedin"]  # Only show email and LinkedIn share buttons
+social_shares: # ["email", "twitter", "facebook", "linkedin"]
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: propose
+ # - name: location
+ # - name: registration
+ # - name: program
+ # - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Kuba Barć"
+    image: "barc_jakub.jpg"
+  - name: "Piotr Godowski"
+    image: "godowski_piotr.jpg"
+    employer: "IBM"
+    linkedin: "https://www.linkedin.com/in/piotr-godowski-4274091/"
+    bio: "Piotr is a seasoned software architect working at IBM, currently focused on Hybrid Clouds management and software licensing in the containerized world. Passionate of IT technologies, including AI, cyber security, BI, IoT and distributed systems. Member of ISO/IEC Polish National Body, owner of several software patents."
+  - name: "Janusz Kamieński"
+    linkedin: "https://www.linkedin.com/in/jakamienski/"
+    employer: "Splunk - a Cisco company"
+    image: "kamienski_janusz.jpg"
+    bio: "Developer, journalist, tabletop RPG Game Master and milkoholic. Active participant of dev communities, co-organizer of meetups and DevOps conferences in Poland. Applies DevOps pattern on tech and business side in all projects he touches. For a dozen of years worked in web technologies. Full-stack developer since 2008. Gains experience and new levels in everyday work at Splunk. Loves to train Acro Yoga and ride a bike in his spare time."
+  - name: "Przemysław Koltermann"
+    image: "koltermann_przemyslaw.jpg"
+    bio: "Docker Certified Associate and Docker Community Leader in Warsaw. Senior Software Engineer at GOG.com. Team DevOps, active everywhere where developers and IT meet, like development environment, deploy pipelines or Kubernetes. Master of Science in Computer Networking. Active Docker and Kubernetes advocate, performing lectures and trainings."
+  - name: "Marcin Lewandowski"
+    employer: "IBM"
+    image: "lewandowski_marcin.jpg"
+    bio: "Marcin is a Senior Software Engineer at IBM Lab in Kraków. He usually works across the stack, including designing and implementing DevOps processes for microservices he and his team owns. Interested in everything that helps do more with less and a huge fan of automating everything. If you talk Kubernetes, Ansible or Gradle Kotlin DSL, we'll find a common topic, or two."
+  - name: "Paweł Piwosz"
+    employer: "Tameshi"
+    image: "piwosz_pawel.jpg"
+    bio: "DevOps Institute Ambassador. CD.Foundation Ambassador. AWS Community Builder. Engineer, leader, mentor, speaker. My focus is on CALMS. I am building better understanding of DevOps as driver for the organization. I am devoted to Serverless and CI/CD. I authored the framework for design the CI/CD - www.cicd.run. Host of Last Week In IT and DevOps In Agile Way podcasts."
+  - name: "Pedro Ivo Raimundo"
+    image: "raimundo_pedro_ivo.jpg"
+    bio: "Olá, tudo bem? My name is Pedro and I'm a Cloud Engineering Manager at Pegasystems. I've worked for companies like IBM, Luxoft, Eaton, and now Pega. These days, my focus is on Cloud, SaaS, DevOps and mostly, leadership. When I'm not catching up with my Steam games backlog, I love participating in conferences, hackathons, learning new things and meeting new people. See you around!"
+  - name: "Tojciech Tomasiewicz"
+    employer: "Pegasystems"
+    image: "tomasiewicz_wojciech.jpg"
+    bio: "Cloud engineer at Pegasystems, passionate about leadership, soft skills, and the human side of technology. Having worked on three continents, I'm obsessed with culture and collaboration. Outside work, I run marathons, read books, listen to podcasts, and enjoy random trivia."
+  - name: "Agnieszka Welian"
+    employer: "Pegasystems"
+    image: "welian_agnieszka.jpg"
+    linkedin: "https://www.linkedin.com/in/agnieszka-welian/"
+    bio: "Agnieszka is a dedicated engineer specializing in cloud solutions, with expertise in cutting-edge technologies such as Kubernetes and Terraform. She also brings valuable insights from her experience in testing activities. Agnieszka is passionate about enhancing people’s wellbeing and promoting a healthy work-life balance. Outside of her professional endeavors,  she is a sports freak, board game lover and owner of two adorable cats."
+
+
+
+organizer_email: "krakow@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: gold
+    label: Gold
+#    max: 10
+  - id: silver
+    label: Silver
+    max: 0 # This is the same as omitting the max limit.
+  - id: bronze
+    label: Bronze
+  - id: community
+    label: Community
