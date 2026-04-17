@@ -118,6 +118,10 @@ sponsors:
     level: community
   - id: arresteddevops
     level: community
+  - id: aws
+    level: silver
+  - id: bitrise
+    level: gold
   - id: cribl
     level: gold
   - id: edgedelta
@@ -254,11 +258,6 @@ program:
     date: 2026-04-30
     start_time: "14:30"
     end_time: "14:40"
-  - title: "jeanne-mcclure-workshop"
-    type: workshop
-    date: 2026-04-30
-    start_time: "14:40"
-    end_time: "16:10"
   - title: "catherine-louis-workshop"
     type: workshop
     date: 2026-04-30
@@ -344,6 +343,11 @@ program:
     date: 2026-05-01
     start_time: "10:20"
     end_time: "11:50"
+  - title: "jeanne-mcclure-workshop"
+    type: workshop
+    date: 2026-05-01
+    start_time: "10:20"
+    end_time: "11:50"
   - title: "Lunch"
     type: custom
     date: 2026-05-01
@@ -374,7 +378,7 @@ program:
     date: 2026-05-01
     start_time: "14:05"
     end_time: "14:35"
-  - title: "jeremy-meiss-keynote"
+  - title: "jonathan-vogel-keynote"
     type: talk
     date: 2026-05-01
     start_time: "14:35"
