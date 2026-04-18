@@ -73,7 +73,7 @@ Description = "devopsdays Kraków 2026"
 
 ## DevOpsDays Kraków 2026
 
-Join us for the next edition of DevOpsDays Kraków, a renowned event, in Kraków on June 6th at ECHO Miasta Kraków. Experience insightful lectures on the latest developments in the DevOps field and network with like-minded individuals.
+Join us for the next edition of DevOpsDays Kraków, a renowned event, in Kraków on July 4th at ECHO Miasta Kraków. Experience insightful lectures on the latest developments in the DevOps field and network with like-minded individuals.
 
 ## What is DevOpsDays Kraków?
 

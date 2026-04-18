@@ -213,6 +213,13 @@ program:
     end_time: "14:45"
     comments: "Main Track - Hera Room"
 
+  - title: "dubas-paulina"
+    type: talk
+    date: 2026-05-27T00:00:00+03:00
+    start_time: "14:00"
+    end_time: "14:45"
+    comments: "AI Track"
+
   - title: "Open spaces themes elicitation"
     type: custom
     date: 2026-05-27T00:00:00+03:00
@@ -227,7 +234,7 @@ program:
     end_time: "15:45"
     comments: "Main Track - Hera Room"
 
-  - title: "dubas-paulina"
+  - title: "duarte-alison"
     type: talk
     date: 2026-05-27T00:00:00+03:00
     start_time: "15:00"
@@ -241,28 +248,14 @@ program:
     end_time: "16:30"
     comments: "Main Track - Hera Room"
 
-  - title: "duarte-alison"
-    type: talk
-    date: 2026-05-27T00:00:00+03:00
-    start_time: "15:45"
-    end_time: "16:30"
-    comments: "AI Track"
-
-  - title: "sarkar-sutapa"
-    type: talk
-    date: 2026-05-27T00:00:00+03:00
-    start_time: "16:00"
-    end_time: "16:30"
-    comments: "Main Track - Hera Room"
-
   - title: "Break"
     type: custom
     date: 2026-05-27T00:00:00+03:00
     start_time: "16:30"
     end_time: "16:45"
 
-  - title: "Women in Tech: Beckie Taylor - The Sound Barrier Documentary"
-    type: custom
+  - title: "taylor-beckie"
+    type: talk
     date: 2026-05-27T00:00:00+03:00
     start_time: "16:45"
     end_time: "18:15"
@@ -272,7 +265,7 @@ program:
   - title: "Round 1 of open spaces"
     type: custom
     date: 2026-05-27T00:00:00+03:00
-    start_time: "16:40"
+    start_time: "16:45"
     end_time: "17:15"
     background_color: "#FFB566"
     comments: "Betta and Gamma Rooms"
@@ -296,13 +289,13 @@ program:
     date: 2026-05-27T00:00:00+03:00
     start_time: "18:15"
     end_time: "18:30"
+    comments: "Main Track - Hera Room"
 
   - title: "Networking"
     type: custom
     date: 2026-05-27T00:00:00+03:00
     start_time: "18:30"
     end_time: "19:00"
-    comments: "Hera Room"
 
   - title: "Party"
     type: custom
@@ -330,13 +323,6 @@ program:
     start_time: "11:00"
     end_time: "11:45"
     comments: "Main Track - Hera Room"
-
-  - title: "westgarth-dave"
-    type: talk
-    date: 2026-05-28T00:00:00+03:00
-    start_time: "11:00"
-    end_time: "11:45"
-    comments: "AI Track"
 
   - title: "traub-verena"
     type: talk
@@ -367,15 +353,21 @@ program:
     end_time: "14:00"
     comments: "Main Track - Hera Room"
 
+  - title: "duarte-alison-1"
+    type: talk
+    date: 2026-05-28T00:00:00+03:00
+    start_time: "13:30"
+    end_time: "14:00"
+    comments: "AI Track"
 
-  - title: "sandhu-suki-1"
+  - title: "sarkar-sutapa"
     type: talk
     date: 2026-05-28T00:00:00+03:00
     start_time: "14:00"
     end_time: "14:45"
     comments: "Main Track - Hera Room"
 
-  - title: "walter-florian"
+  - title: "apitzsch-wiebke"
     type: talk
     date: 2026-05-28T00:00:00+03:00
     start_time: "14:00"
@@ -390,78 +382,93 @@ program:
     background_color: "#FFB566"
     comments: "Main Track - Hera Room"
 
-  - title: "Coffee/Tea break"
-    type: custom
-    date: 2026-05-28T00:00:00+03:00
-    start_time: "15:00"
-    end_time: "15:15"
-
-  - title: "westgarth-dave-1"
+  - title: "sandhu-suki-1"
     type: talk
     date: 2026-05-28T00:00:00+03:00
-    start_time: "15:15"
-    end_time: "16:00"
+    start_time: "15:00"
+    end_time: "15:45"
     comments: "Main Track - Hera Room"
+
+  - title: "westgarth-dave"
+    type: talk
+    date: 2026-05-28T00:00:00+03:00
+    start_time: "15:00"
+    end_time: "15:45"
+    comments: "AI Track"
+
+  - title: "amorim-marcela"
+    type: talk
+    date: 2026-05-28T00:00:00+03:00
+    start_time: "15:45"
+    end_time: "16:30"
+    comments: "Main Track - Hera Room"
+
+  - title: "parad-dorota"
+    type: talk
+    date: 2026-05-28T00:00:00+03:00
+    start_time: "15:45"
+    end_time: "16:30"
+    comments: "AI Track"
 
   - title: "bodhanya-thameez"
     type: talk
     date: 2026-05-28T00:00:00+03:00
-    start_time: "16:00"
-    end_time: "16:45"
+    start_time: "16:30"
+    end_time: "17:15"
     comments: "Main Track - Hera Room"
 
-  - title: "duarte-alison-1"
+  - title: "walter-florian"
     type: talk
     date: 2026-05-28T00:00:00+03:00
-    start_time: "16:00"
-    end_time: "16:45"
+    start_time: "16:30"
+    end_time: "17:15"
     comments: "AI Track"
 
   - title: "Break"
     type: custom
     date: 2026-05-28T00:00:00+03:00
-    start_time: "16:45"
-    end_time: "17:00"
+    start_time: "17:15"
+    end_time: "17:30"
 
   - title: "Round 1 of open spaces"
     type: custom
     date: 2026-05-28T00:00:00+03:00
-    start_time: "17:00"
-    end_time: "17:30"
+    start_time: "17:30"
+    end_time: "18:00"
     background_color: "#FFB566"
     comments: "Betta and Gamma Rooms"
 
   - title: "Break"
     type: custom
     date: 2026-05-28T00:00:00+03:00
-    start_time: "17:30"
-    end_time: "17:45"
+    start_time: "18:00"
+    end_time: "18:15"
 
   - title: "Round 2 of open spaces"
     type: custom
     date: 2026-05-28T00:00:00+03:00
-    start_time: "17:45"
-    end_time: "18:15"
+    start_time: "18:15"
+    end_time: "18:45"
     background_color: "#FFB566"
     comments: "Betta and Gamma Rooms"
 
   - title: "Break"
     type: custom
     date: 2026-05-28T00:00:00+03:00
-    start_time: "18:15"
-    end_time: "18:30"
+    start_time: "18:45"
+    end_time: "19:00"
 
   - title: "Day 2 Raffle winners + Closing of the Conference"
     type: custom
     date: 2026-05-28T00:00:00+03:00
-    start_time: "18:30"
-    end_time: "18:45"
+    start_time: "19:00"
+    end_time: "19:15"
 
   - title: "Networking"
     type: custom
     date: 2026-05-28T00:00:00+03:00
-    start_time: "18:45"
-    end_time: "19:15"
+    start_time: "19:15"
+    end_time: "20:00"
 
   # WORKSHOP DAY
 
@@ -531,6 +538,18 @@ ignites:
   - title: "friedman-eloise-ann"
     date: 2026-05-27
     block: "day1"
+  - title: "mihu-raluca-2"
+    date: 2026-05-27
+    block: "day1"
+  - title: "powerpoint-karaoke"
+    date: 2026-05-27
+    block: "day1"
   - title: "traub-verena-2"
+    date: 2026-05-28
+    block: "day2"
+  - title: "zeimer-dana"
+    date: 2026-05-28
+    block: "day2"
+  - title: "powerpoint-karaoke"
     date: 2026-05-28
     block: "day2"

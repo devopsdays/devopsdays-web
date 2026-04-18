@@ -8,8 +8,6 @@ Description = "Location for devopsdays atlanta 2025"
 <p>875 West Peachtree St., NW<br>
 Atlanta, GA 30309</p>
 <h2 id="public-transportation">Public Transportation</h2>
-<p><strong>Out of 96 attendees surveyed from last year&rsquo;s event, 42% walked, biked, or took public transit to the event.</strong><br/>
-We&rsquo;d like to see this percentage increase for our 2018 event.<br/>
 <a href="http://www.itsmarta.com/">MARTA</a> serves the Historic Academy of Medicine. Follow the signs from baggage claim at the airport to get to the MARTA station.<br/>
 From the Hartsfield International Airport station ride MARTA to Midtown Station.<br/>
 The Historic Academy of Medicine is less than a quarter-mile walk from Midtown station, or you can ride the <a href="http://pts.gatech.edu/Documents/trolley%20rambler%2014%2015%20map.pdf">Georgia Tech Trolly</a> to the event location.</p>
@@ -37,13 +35,9 @@ Phone: (404) 876-5003<br/>
 Atlanta, GA 30308<br/>
 Phone: (678) 412-2400<br/>
 <a href="http://www.marriott.com/hotels/travel/atlbd-renaissance-atlanta-midtown-hotel">http://www.marriott.com/hotels/travel/atlbd-renaissance-atlanta-midtown-hotel</a></p>
-
-<!-- Uncomment this only if you have set the coordinates for your location in the config yaml. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html -->
-<!-- {{< event_map >}} -->
-
-<!-- Edit and uncomment to let people know what accessibility features you have available -->
-<!-- 
-    Example from Minneapolis 2020
-
-    We offer wheelchair-designated spaces, chairs, and standing options (with tall tables) in the mainstage session room; a quiet room; bathrooms labeled according to the facilities they contain; professional live captioning of mainstage sessions; ingredient labeling (based on data provided when registering); and private space (upon request) for those nursing. We'd also be happy to accommodate any other accessibility needs upon request: {{< email_organizers >}}    
--->
+<hr>
+<h3>Tuesday After party at <a href="https://www.instagram.com/babygirl.atl/">Babygirl</a></h3>
+<p>2371 Hosea L Williams Dr SE<br>
+Suite C, Atlanta, GA 30317</p>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3317.3866677699843!2d-84.31220072429642!3d33.75067267327186!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88f5013d6c39e07b%3A0x1e7b20b8970d6f67!2sbabygirl!5e0!3m2!1sen!2sus!4v1776384386064!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<p><a href="https://maps.app.goo.gl/tNGcws5zwEHc6aq47">View on Google Maps</a></p>
