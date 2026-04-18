@@ -60,7 +60,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: webchile
     url: https://devopsdayschile.cl
   - name: registration
-    url: https://devopsdayschile.cl/#contact
+    url: https://devopsdayschile.cl/contact
  # - name: program
  # - name: speakers
   - name: sponsor
