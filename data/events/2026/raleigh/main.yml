@@ -113,16 +113,22 @@ organizer_email: "raleigh@devopsdays.org" # Put your organizer email address her
 sponsors:
   # - id: samplesponsorname
   #   level: gold
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: agiliway
     level: community
   - id: arresteddevops
     level: community
+  - id: aws
+    level: silver
+  - id: bitrise
+    level: gold
   - id: cribl
     level: gold
   - id: edgedelta
     level: gold
   - id: emergent
+    level: gold
+  - id: groundcover
     level: gold
   - id: guiding-eyes-for-the-blind
     level: community
@@ -132,9 +138,14 @@ sponsors:
     level: community
   - id: kubeevents
     level: community
+  - id: mariadb
+    level: gold
   - id: nx
     level: gold
-
+  - id: triangle-mysql-meetup
+    level: community
+  - id: triangle-postgres-users-group
+    level: community
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -247,11 +258,6 @@ program:
     date: 2026-04-30
     start_time: "14:30"
     end_time: "14:40"
-  - title: "jeanne-mcclure-workshop"
-    type: workshop
-    date: 2026-04-30
-    start_time: "14:40"
-    end_time: "16:10"
   - title: "catherine-louis-workshop"
     type: workshop
     date: 2026-04-30
@@ -337,6 +343,11 @@ program:
     date: 2026-05-01
     start_time: "10:20"
     end_time: "11:50"
+  - title: "jeanne-mcclure-workshop"
+    type: workshop
+    date: 2026-05-01
+    start_time: "10:20"
+    end_time: "11:50"
   - title: "Lunch"
     type: custom
     date: 2026-05-01
@@ -367,7 +378,7 @@ program:
     date: 2026-05-01
     start_time: "14:05"
     end_time: "14:35"
-  - title: "jeremy-meiss-keynote"
+  - title: "jonathan-vogel-keynote"
     type: talk
     date: 2026-05-01
     start_time: "14:35"
@@ -381,7 +392,7 @@ program:
 ignites:
   - title: "steven-diamante-ignite"
     date: 2026-04-30
-  - title: "chakra-kota-ignite"
+  - title: "michael-roberts-ignite"
     date: 2026-04-30
   - title: "jeremy-freeman-ignite"
     date: 2026-04-30

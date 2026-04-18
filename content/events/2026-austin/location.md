@@ -10,9 +10,9 @@ Description = "Location for devopsdays austin 2026"
   - [Rideshare](#rideshare)
   - [Parking](#parking)
     - [Accessible Parking](#accessible-parking)
-<!--- [Hotels](#hotels)
+- [Hotels](#hotels)
 - [Food and Drink](#food-and-drink)
-- [Happy Hour](#happy-hour)-->
+- [Happy Hour](#happy-hour)
 - [Questions](#questions)
 
 <div style="border-left: #0082AB 1rem solid; padding: 1rem; margin: 1rem 0;">
@@ -30,7 +30,7 @@ Address: 3100 Alvin Devane Blvd, Building B, Austin, TX 78741
     <div class="col-md-6">
         <h3>TCEA</h3>
         <p></p>
-        {{< event_map >}}
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3447.7403915886607!2d-97.72396082373685!3d30.215956174837608!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8644c9be8eec8273%3A0x8164fbc7985d4a78!2sTCEA!5e0!3m2!1sen!2sus!4v1776089506911!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         <p></p>
         <p><a href="https://tcea.org/info/conference-center/">View information about TCEA</a></p>
     </div>
@@ -118,10 +118,13 @@ For overflow parking, we also have a parking block at Tru by Hilton 2 miles away
 
 The venue has van-accessible and general accessible parking spots reserved. The venue is all on one floor at street level with no stairs or elevator needed to enter or exit.
 
-<!--
 ## Hotels
 
-We have a [room discount with Tru by Hilton](https://www.hilton.com/en/book/reservation/rooms/?ctyhocn=AUSBWRU&arrivalDate=2025-03-14&departureDate=2025-03-15&room1NumAdults=1) nearby that you are welcome to use. There are also a number of hotel chains nearby, as well as Air B&B, VRBO, and boutique hotels.
+We have a [room discount with Tru by Hilton](https://www.hilton.com/en/book/reservation/rooms/?ctyhocn=AUSBWRU&arrivalDate=2026-05-04&departureDate=2026-05-05&room1NumAdults=1) nearby that you are welcome to use.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13790.570166631831!2d-97.71517543194659!3d30.218748197377884!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8644b75bb5dcc7cd%3A0x34787169df246a6f!2sTru%20by%20Hilton%20Austin%20Airport!5e0!3m2!1sen!2sus!4v1776088896363!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+There are also a number of hotel chains nearby, as well as AirB&B, VRBO, and boutique hotels.
 
 Chain | Count within 5 mi | Search Link
 --|--|--|--
@@ -135,21 +138,18 @@ Wyndham | 10 | [wyndhamhotels.com search](https://www.wyndhamhotels.com/hotels/t
 
 We will have ingredient labeling on all food (based on data provided when registering). Our food and beverages this year will be from the following companies:
 - Doxa Coffee Roasters
-- Tacodeli
-- Central Market
-- Tiff's Treats
+- Food Truck Club (specific details coming soon)
+- Amy's Ice Cream
 
 In addition, there will be water, soft drinks (canned), and tea as part of the beverage stations provided by our venue.
 
-If you have a dietary need for lunches that you indicated in your ticket purchase such as kosher, halal, gluten-free, etc., there will be a specific spot to go and request your lunch. Vegan and vegetarian lunches will be provided with the rest of the lunch options. **If you did not provide the information in your ticket purchase, we cannot provide you with a dietary-specific lunch as we have to order those specifically. If you need to change your lunch, please do so ASAP by emailing us at {{< email_organizers >}}.**
+If you have a dietary need for lunches that you indicated in your ticket purchase such as kosher, halal, gluten-free, etc., we will have options at the food trucks that should be labeled. Vegan and vegetarian lunches will be provided with the rest of the lunch options. **If you did not provide the information in your ticket purchase, we cannot provide you with a dietary-specific lunch as we have to order those specifically. If you need to change your lunch, please do so ASAP by emailing us at {{< email_organizers >}}.**
 
 ## Happy Hour
 
 Our happy hour will be at Meanwhile Brewery at 3901 Promontory Point Dr, Austin, TX 78744. There will be some parking at the venue, and we will have a chartered bus running from TCEA to Meanwhile.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3447.994662053518!2d-97.7296677!3d30.2086998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8644b52ce851e809%3A0x4d0f1e40c27056ba!2sMeanwhile%20Brewing!5e0!3m2!1sen!2sus!4v1745340488429!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
--->
 
 ## Questions
 
