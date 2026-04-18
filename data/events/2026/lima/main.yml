@@ -137,11 +137,13 @@ sponsors:
    - id: port
      level: platinum
      url: https://www.port.io/
-   - id: thoughtworks
-     level: platinum
-     url: https://www.thoughtworks.com/
-
 #Gold Sponsors
+   - id: thoughtworks
+     level: gold
+     url: https://www.thoughtworks.com/
+   - id: manage-engine
+     level: gold
+     url: https://manageengine.com/latam/
 #Silver Sponsors
 #Bronze Sponsors
    - id: orexe
