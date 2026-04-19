@@ -133,6 +133,8 @@ sponsors:
     level: community
   - id: merakiden
     level: community
+  - id: refactrtech
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
