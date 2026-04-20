@@ -149,7 +149,10 @@ sponsors:
    - id: orexe
      level: bronze
      url: https://orexe.pe/
-#Community Sponsors 
+#Community Sponsors
+   - id: hackemate
+     level: community
+     url: https://www.youtube.com/@hackemate
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
