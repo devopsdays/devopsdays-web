@@ -187,7 +187,7 @@ program:
     date: 2026-04-21
     start_time: "10:50"
     end_time: "10:55"
-  - title: "kimasia-ayers"
+  - title: "mandi-walls"
     type: talk
     date: 2026-04-21
     start_time: "10:55"
@@ -308,7 +308,7 @@ program:
     date: 2026-04-22
     start_time: "11:10"
     end_time: "11:20"
-  - title: "mandi-walls"
+  - title: "john-willis"
     type: talk
     date: 2026-04-22
     start_time: "11:20"
@@ -390,11 +390,11 @@ ignites:
     date: 2026-04-22
   - title: "hajira-sultana"
     date: 2026-04-22
-  - title: "anil-pantangi"
-    date: 2026-04-22
   - title: "danny-castro"
     date: 2026-04-22
   - title: "vadim-uchitel"
     date: 2026-04-22
   - title: "jeff-diecks"
+    date: 2026-04-22
+  - title: "mykel-alvis"
     date: 2026-04-22
