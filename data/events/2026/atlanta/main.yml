@@ -322,11 +322,11 @@ program:
     type: ignite
     date: 2026-04-22
     start_time: "13:00"
-    end_time: "13:30"
+    end_time: "13:35"
   - title: "Open Space Opening"
     type: open-space
     date: 2026-04-22
-    start_time: "13:30"
+    start_time: "13:35"
     end_time: "14:00"
   - title: "Switch rooms"
     type: custom
@@ -385,8 +385,6 @@ ignites:
     date: 2026-04-21
   - title: "roxy-rodriguezbecker"
     date: 2026-04-21
-  - title: "michael-kosir"
-    date: 2026-04-21
 
   - title: "omari-gaskins-jr"
     date: 2026-04-22
@@ -399,4 +397,6 @@ ignites:
   - title: "jeff-diecks"
     date: 2026-04-22
   - title: "mykel-alvis"
+    date: 2026-04-22
+  - title: "michael-kosir"
     date: 2026-04-22
