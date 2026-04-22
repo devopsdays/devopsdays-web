@@ -137,6 +137,9 @@ sponsors:
    - id: port
      level: platinum
      url: https://www.port.io/
+   - id: ibm
+     level: platinum
+     url: https://www.ibm.com
 #Gold Sponsors
    - id: thoughtworks
      level: gold
