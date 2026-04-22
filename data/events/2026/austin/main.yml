@@ -142,20 +142,44 @@ sponsors:
     level: gold
   - id: groundcover
     level: gold
+  - id: redhat
+    level: gold
+  - id: puppet-by-perforce
+    level: gold
+#  - id: gold-6
+#    level: gold
+#  - id: gold-7
+#    level: gold
+#  - id: gold-8
+#    level: gold
+#  - id: gold-9
+#    level: gold
+#  - id: gold-10
+#    level: gold
+#  - id: track-1
+#    level: track
+#  - id: track-2
+#    level: track
   - id: harness
+    level: happyhour
+  - id: liquibase
     level: happyhour
   - id: texasmutual
     level: coffee
   - id: crash-override
     level: lanyard
+#  - id: quiet-room
+#    level: quiet-room
   - id: newiron
     level: careerroom
 #  - id: dryrun-security
 #    level: startup
   - id: autoptic
     level: startup
-#  - id: ops0
-#    level: startup
+  - id: ops0
+    level: startup
+  - id: mendral
+    level: startup
   - id: texas-state-university
     level: community
 
