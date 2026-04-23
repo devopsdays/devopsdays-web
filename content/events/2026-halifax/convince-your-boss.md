@@ -11,7 +11,7 @@ Subject: Request to Attend DevOpsDays Halifax 2026
 
 Dear {BossName},
 
-I'd like to attend DevOpsDays Halifax 2026, taking place September 29, 2026 at the Trade Centre Office Tower (1800 Argyle St Unit 801, Halifax, Nova Scotia). After reviewing several industry events, I believe this is one of the most relevant conferences for bringing together engineers, operations professionals, architects, and technology leaders to share real-world experiences, explore innovations, and discuss the evolving landscape of DevOps and software delivery.
+I'd like to attend DevOpsDays Halifax 2026, taking place September 29, 2026 in Halifax, Nova Scotia. After reviewing several industry events, I believe this is one of the most relevant conferences for bringing together engineers, operations professionals, architects, and technology leaders to share real-world experiences, explore innovations, and discuss the evolving landscape of DevOps and software delivery.
 
 DevOpsDays is a global series of community-led events, and Halifax's edition brings a unique focus on tech, community, and Atlantic Canada. It attracts professionals from across the region and beyond, making it an excellent place to network, learn, and exchange ideas in a collaborative setting.
 
