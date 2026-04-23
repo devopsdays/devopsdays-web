@@ -5,7 +5,7 @@ aliases = ["/events/2026-ciudad-autonoma-de-buenos-aires/"]
 Description = "DevOpsDays Buenos Aires 2026 - La conferencia de DevOps mas importante de Argentina"
 +++
 
-<div style="text-align:center;">
+<!-- <div style="text-align:center;">
   {{< event_logo >}}
 </div> -->
 
