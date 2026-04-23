@@ -7,7 +7,7 @@ Description = "DevOpsDays Buenos Aires 2026 - La conferencia de DevOps mas impor
 
 <div style="text-align:center;">
   {{< event_logo >}}
-</div>
+</div> -->
 
 <h2 style="text-align:center;">9-10 de Abril 2026 - Buenos Aires, Argentina</h2>
 
