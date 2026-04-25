@@ -16,6 +16,8 @@ slides = ""
 
 ### Workshop
 
+Room: 2.OG - Gesang
+
 Platform Engineering has become one of the most critical disciplines in the AI era - where speed, security, and trust must coexist. As organizations adopt generative AI and cloud-native technologies at scale, internal developer platforms (IDPs) have emerged as the foundation for safe, compliant, and productive software delivery.
 
 In this 2-hour hands-on workshop at DevOpsDays Zurich, you’ll experience what it takes to build and operate a secure, developer-friendly platform on Kubernetes and Red Hat OpenShift. Switching between developer and platform engineer personas, you’ll learn how to design and bootstrap a Thin Viable Platform (TVP), gather feedback from developers to continuously improve it, accelerate the inner and outer loops through automation, and finally establish security and compliance using open-source tools like Sigstore, Tekton, and Conforma.
