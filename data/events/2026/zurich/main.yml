@@ -180,6 +180,8 @@ sponsors:
   level: silver
 - id: cyberlink
   level: event
+- id: hcl-software
+  level: event
 - id: xelon
   level: event
 - id: exoscale
