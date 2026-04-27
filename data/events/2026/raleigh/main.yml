@@ -138,6 +138,8 @@ sponsors:
     level: gold
   - id: iacconf
     level: community
+  - id: kcd-toronto
+    level: community
   - id: kubeevents
     level: community
   - id: mariadb
