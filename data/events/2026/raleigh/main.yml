@@ -122,6 +122,8 @@ sponsors:
     level: silver
   - id: bitrise
     level: gold
+  - id: cloudbees
+    level: gold
   - id: cribl
     level: gold
   - id: edgedelta
