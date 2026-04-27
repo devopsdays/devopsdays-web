@@ -169,7 +169,7 @@ sponsor_levels:
   - id: mic
     label: Mic
     max: 1
-  - id: community
-    label: Community
   - id: host
     label: Host
+  - id: community
+    label: Community
