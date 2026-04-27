@@ -171,5 +171,6 @@ sponsor_levels:
     max: 1
   - id: host
     label: Host
+    max: 1
   - id: community
     label: Community
