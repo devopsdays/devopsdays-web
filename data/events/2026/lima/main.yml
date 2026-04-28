@@ -137,17 +137,28 @@ sponsors:
    - id: port
      level: platinum
      url: https://www.port.io/
-   - id: thoughtworks
+   - id: ibm
      level: platinum
-     url: https://www.thoughtworks.com/
-
+     url: https://www.ibm.com
 #Gold Sponsors
+   - id: thoughtworks
+     level: gold
+     url: https://www.thoughtworks.com/
+   - id: manage-engine
+     level: gold
+     url: https://manageengine.com/latam/
+   - id: fluidattacks
+     level: gold
+     url: https://www.fluidattacks.com/
 #Silver Sponsors
 #Bronze Sponsors
    - id: orexe
      level: bronze
      url: https://orexe.pe/
-#Community Sponsors 
+#Community Sponsors
+   - id: hackemate
+     level: community
+     url: https://www.youtube.com/@hackemate
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

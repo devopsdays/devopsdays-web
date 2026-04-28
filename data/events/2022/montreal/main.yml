@@ -163,7 +163,7 @@ sponsors:
     level: silver
   - id: slalom
     level: silver
-  - id: f5-nginx
+  - id: f5-nginx-before-20260422
     level: silver
     url: https://www.f5.com
   - id: elastic

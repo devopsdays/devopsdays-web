@@ -1,6 +1,7 @@
 +++ 
 Title = "Jonathan Vogel" 
 linkedin = "https://www.linkedin.com/in/jonathan-vogel-sw/" 
+website = "https://jvogel.me"
 image = "jonathan-vogel.jpg" 
 type = "speaker" 
 linktitle = "jonathan-vogel" 

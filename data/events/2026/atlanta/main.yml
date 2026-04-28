@@ -115,7 +115,7 @@ sponsors:
     level: gold
   - id: pulumi
     level: gold
-  - id: edge-delta
+  - id: edgedelta
     level: gold
   - id: ibm
     level: gold
@@ -132,6 +132,8 @@ sponsors:
   - id: renderatl
     level: community
   - id: merakiden
+    level: community
+  - id: refactrtech
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -185,7 +187,7 @@ program:
     date: 2026-04-21
     start_time: "10:50"
     end_time: "10:55"
-  - title: "kimasia-ayers"
+  - title: "mandi-walls"
     type: talk
     date: 2026-04-21
     start_time: "10:55"
@@ -306,7 +308,7 @@ program:
     date: 2026-04-22
     start_time: "11:10"
     end_time: "11:20"
-  - title: "mandi-walls"
+  - title: "john-willis"
     type: talk
     date: 2026-04-22
     start_time: "11:20"
@@ -320,11 +322,11 @@ program:
     type: ignite
     date: 2026-04-22
     start_time: "13:00"
-    end_time: "13:30"
+    end_time: "13:35"
   - title: "Open Space Opening"
     type: open-space
     date: 2026-04-22
-    start_time: "13:30"
+    start_time: "13:35"
     end_time: "14:00"
   - title: "Switch rooms"
     type: custom
@@ -388,11 +390,13 @@ ignites:
     date: 2026-04-22
   - title: "hajira-sultana"
     date: 2026-04-22
-  - title: "anil-pantangi"
-    date: 2026-04-22
   - title: "danny-castro"
     date: 2026-04-22
   - title: "vadim-uchitel"
     date: 2026-04-22
   - title: "jeff-diecks"
+    date: 2026-04-22
+  - title: "mykel-alvis"
+    date: 2026-04-22
+  - title: "michael-kosir"
     date: 2026-04-22

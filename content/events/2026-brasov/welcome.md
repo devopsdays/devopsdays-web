@@ -29,85 +29,16 @@ Description = "devopsdays brasov 2026"
   </div>
 </div>
 
-[//]: # (<div class="row">)
-
-[//]: # (  <div class="col-md-2">)
-
-[//]: # (    <strong>Location</strong>)
-
-[//]: # (  </div>)
-
-[//]: # (  <div class="col-md-8">)
-
-[//]: # (    {{< event_location >}})
-
-[//]: # (  </div>)
-
-[//]: # (</div>)
-
-[//]: # (<div class="row">)
-
-[//]: # (  <div class="col-md-2">)
-
-[//]: # (    <strong>Register</strong>)
-
-[//]: # (  </div>)
-
-[//]: # (  <div class="col-md-8">)
-
-[//]: # (    {{< event_link page="registration" text="Register to attend the conference!" >}})
-
-[//]: # (  </div>)
-
-[//]: # (</div>)
-
-[//]: # (<div class="row">)
-
-[//]: # (  <div class="col-md-2">)
-
-[//]: # (    <strong>Propose</strong>)
-
-[//]: # (  </div>)
-
-[//]: # (  <div class="col-md-8">)
-
-[//]: # (    {{< event_link page="propose" text="Propose a talk!" >}})
-
-[//]: # (  </div>)
-
-[//]: # (</div>)
-
-[//]: # (<div class="row">)
-
-[//]: # (  <div class="col-md-2">)
-
-[//]: # (    <strong>Program</strong>)
-
-[//]: # (  </div>)
-
-[//]: # (  <div class="col-md-8">)
-
-[//]: # (    View the {{< event_link page="program" text="program." >}})
-
-[//]: # (  </div>)
-
-[//]: # (</div>)
-
-[//]: # (<div class="row">)
-
-[//]: # (  <div class="col-md-2">)
-
-[//]: # (    <strong>Speakers</strong>)
-
-[//]: # (  </div>)
-
-[//]: # (  <div class="col-md-8">)
-
-[//]: # (    Check out the {{< event_link page="speakers" text="speakers!" >}})
-
-[//]: # (  </div>)
-
-[//]: # (</div>)
+<div class="row">
+  <div class="col-md-2">
+    <strong>Registration</strong>
+  </div>
+  <div class="col-md-8">
+    <a href="https://docs.google.com/forms/d/1YpnKbi6Z9dWB_ulMe9QM15RGZQE5EufMGEtRB1pO5mI/viewform?edit_requested=true" target="_blank">
+      Register to attend the conference
+    </a>
+  </div>
+</div>
 
 <div class="row">
   <div class="col-md-2">
@@ -127,11 +58,10 @@ Description = "devopsdays brasov 2026"
   </div>
 </div>
 
-[//]: # ({{< event_twitter >}})
-
-  <p style="color: red; font-size: 2em; font-weight: 700; margin-top: 1rem;">
-      Please note that the Call for Papers will close on April 17th.
-  </p>
+<p style="color: red; font-size: 2em; font-weight: 700; margin-top: 1rem;">
+  Please use the <a href="https://docs.google.com/forms/d/1YpnKbi6Z9dWB_ulMe9QM15RGZQE5EufMGEtRB1pO5mI/viewform?edit_requested=true" target="_blank" style="color: red; text-decoration: underline;">
+  registration link</a> to secure your participation.
+</p>
 
 # Welcome to devopsdays Brașov
 
@@ -178,7 +108,7 @@ All participants, speakers, sponsors, and organizers are expected to follow the 
 ## Get involved
 
 devopsdays Brașov is built by the community. You can get involved by:
-- Submitting a proposal during the **Call for Paper**
+- Submitting a proposal during the **Call for Papers**
 - Participating in or facilitating **Open Spaces**
 - Volunteering or providing feedback
 - Supporting the event as a **sponsor**

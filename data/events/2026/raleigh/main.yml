@@ -122,6 +122,8 @@ sponsors:
     level: silver
   - id: bitrise
     level: gold
+  - id: cloudbees
+    level: gold
   - id: cribl
     level: gold
   - id: edgedelta
@@ -136,12 +138,16 @@ sponsors:
     level: gold
   - id: iacconf
     level: community
+  - id: kcd-toronto
+    level: community
   - id: kubeevents
     level: community
   - id: mariadb
     level: gold
   - id: nx
     level: gold
+  - id: tek-systems
+    level: happyhour 
   - id: triangle-mysql-meetup
     level: community
   - id: triangle-postgres-users-group
