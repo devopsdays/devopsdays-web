@@ -150,6 +150,9 @@ sponsors:
    - id: fluidattacks
      level: gold
      url: https://www.fluidattacks.com/
+   - id: kyndryl
+     level: gold
+     url: https://www.kyndryl.com/
 #Silver Sponsors
 #Bronze Sponsors
    - id: orexe
