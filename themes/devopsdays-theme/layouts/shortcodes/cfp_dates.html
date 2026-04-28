@@ -1,12 +1,9 @@
 {{- $e := partial "functions/get-event-data" . -}}
-{{- if and ($e.cfp_date_start) ($e.cfp_date_end) ($e.cfp_date_announce) -}}
-  {{- $cfp_date_start := $e.cfp_date_start -}}
-  {{- $cfp_date_end := $e.cfp_date_end -}}
-  {{- $cfp_date_announce := $e.cfp_date_announce -}}
+{{- if and $e.cfp_date_start $e.cfp_date_end $e.cfp_date_announce -}}
   <center>
-  <b>Call for proposals opens {{ dateFormat "Monday, Jan 2, 2006" $cfp_date_start }}.</b><br>
-  <b>Call for proposals closes {{ dateFormat "Monday, Jan 2, 2006" $cfp_date_end }}.</b><br>
-  Selected proposals will be announced on {{ dateFormat "Monday, Jan 2, 2006" $cfp_date_announce }}.
+  <b>Call for proposals opens {{ time.Format "Monday, Jan 2, 2006" $e.cfp_date_start }}.</b><br>
+  <b>Call for proposals closes {{ time.Format "Monday, Jan 2, 2006" $e.cfp_date_end }}.</b><br>
+  Selected proposals will be announced on {{ time.Format "Monday, Jan 2, 2006" $e.cfp_date_announce }}.
   </center>
 {{- else -}}
   <center>

@@ -1,11 +1,11 @@
 {{ $upcoming := slice }}
-{{- range $k, $v := $.Site.Data.events -}}
+{{- range $k, $v := site.Data.events -}}
   {{- range $ck, $cv := . -}}
     {{- range $ck2, $cv2 := . -}}
         {{ if eq $ck2 "main" }}
             {{- if .startdate -}}
                 {{- if ne .cancel "true" -}}
-                    {{- if gt (time .enddate) now -}}
+                    {{- if gt (time.AsTime .enddate) now -}}
                         {{ $upcoming = append . $upcoming  }}
                     {{- end -}} 
                 {{- end -}}

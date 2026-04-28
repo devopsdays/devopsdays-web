@@ -1,6 +1,6 @@
 {{- $e := partial "functions/get-event-data" . -}}
 {{- if $e.registration_date_end -}}
-  {{ dateFormat "Monday, Jan 2, 2006" $e.registration_date_end }}
+  {{ time.Format "Monday, Jan 2, 2006" $e.registration_date_end }}
 {{- else -}}
   TBD
 {{- end -}}

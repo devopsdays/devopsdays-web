@@ -1,54 +1,40 @@
-{{ partial "google_analytics.html" . }}
-{{ partial "google_tag_manager.html" . }}
+{{- $cacheKey := .Type -}}
+{{- with .File -}}{{- $cacheKey = .Dir -}}{{- end -}}
+{{ partialCached "google_analytics.html" . $cacheKey }}
+{{ partialCached "google_tag_manager.html" . $cacheKey }}
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
 {{ $sass := resources.Get "scss/site.scss" | toCSS (dict "targetPath" "css/site.css" "enableSourceMap" true "outputStyle" "compressed") | minify | fingerprint }}
 <link rel="stylesheet" href="{{ $sass.RelPermalink }}" integrity="{{ $sass.Data.Integrity }}">
-<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400,700" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400;700&display=swap" rel="stylesheet">
+
 {{- if eq .Type "speaking" -}}
   <link href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css" rel="stylesheet">
 {{- end -}}
-{{/*  <script src="https://kit.fontawesome.com/f6f25dc1e1.js" crossorigin="anonymous"></script>  */}}
-  <!-- Loading the v6 core styles and the Solid and Brands styles -->
-  <link href="/fontawesome/css/fontawesome.min.css" rel="stylesheet" />
-  <link href="/fontawesome/css/brands.min.css" rel="stylesheet" />
-  <link href="/fontawesome/css/solid.min.css" rel="stylesheet" />
 
-  <!-- update existing v4 CSS to use v6 icons and assets -->
-  <link href="/fontawesome/css/v4-font-face.min.css" rel="stylesheet" />
+<link href="/fontawesome/css/fontawesome.min.css" rel="stylesheet">
+<link href="/fontawesome/css/brands.min.css" rel="stylesheet">
+<link href="/fontawesome/css/solid.min.css" rel="stylesheet">
+<link href="/fontawesome/css/v4-font-face.min.css" rel="stylesheet">
 
-<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
-<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
-<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
-<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
-<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
-<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
-<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
-<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
-<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 <link rel="manifest" href="/manifest.json">
-<meta name="msapplication-TileColor" content="#ffffff">
-<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
-<meta name="theme-color" content="#ffffff">
+<meta name="theme-color" content="#0082AB">
 
 {{ if .IsPage }}
   {{ if eq .Type "blog" }}
-    <link href="/blog/index.xml" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
-    <link href="/blog/index.xml" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
+    <link href="/blog/index.xml" rel="alternate" type="application/rss+xml" title="{{ site.Title }}">
+  {{ else if eq .Type "speaking" }}
+    <link href="/speaking/index.xml" rel="alternate" type="application/rss+xml" title="{{ site.Title }}">
   {{ else }}
-    {{ if eq .Type "speaking" }}
-      <link href="/speaking/index.xml" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
-      <link href="/speaking/index.xml" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
-    {{ else }}
-      <link href="/events/index.xml" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
-      <link href="/events/index.xml" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
-    {{ end }}
+    <link href="/events/index.xml" rel="alternate" type="application/rss+xml" title="{{ site.Title }}">
   {{ end }}
 {{ else }}
-  <link href="/events/index.xml" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
-  <link href="/events/index.xml" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
+  <link href="/events/index.xml" rel="alternate" type="application/rss+xml" title="{{ site.Title }}">
 {{ end }}
 
 {{ $jquery := resources.Get "js/vendor/jquery.js" }}
@@ -57,22 +43,20 @@
 {{ $jquery_oembed := resources.Get "js/components/jquery.oembed.js" }}
 {{ $devopsdays := resources.Get "js/devopsdays.js" }}
 
-{{ $js := slice $jquery $bootstrap $jssocials $jquery_oembed $devopsdays | resources.Concat "js/devopsdays-min.js" | resources.Minify | resources.Fingerprint }}
+{{ $js := slice $jquery $bootstrap $jssocials $jquery_oembed $devopsdays | resources.Concat "js/devopsdays-min.js" | minify | fingerprint }}
 <script src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}"></script>
 
 {{- if eq .Type "speaking" -}}
-  <script src={{"https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"}}></script>
-
+  <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
   <script>
   $(document).ready(function () {
-
-    $('#cfp-list').DataTable( {
-        "paging":   false,
-        "searching": false,
-        "info":     false,
-        "autoWidth": false,
-        "order": [[ 1, "asc" ]]
-    } );
+    $('#cfp-list').DataTable({
+      "paging": false,
+      "searching": false,
+      "info": false,
+      "autoWidth": false,
+      "order": [[ 1, "asc" ]]
+    });
   });
   </script>
 {{- end -}}

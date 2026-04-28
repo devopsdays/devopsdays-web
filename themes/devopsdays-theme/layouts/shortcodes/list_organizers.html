@@ -3,70 +3,70 @@
 <div class="row" style="width:100%">
       {{- range $e.team_members -}}
         <div class="col-xl-3 col-lg-4 col-md-6 organizer-card">
-          <div class = "card h-100" style="max-width: 300px;padding-left:0px;padding-right:0px">
-            <div class = "card-header">
-              <h3>{{ .name }}{{- if .pronouns }} ({{ .pronouns }}){{- end }}</h3>
-              {{- if .role -}}
-                <h4> {{ .role }}</h4>
+          <div class="card h-100" style="max-width: 300px;padding-left:0px;padding-right:0px">
+            <div class="card-header">
+              <h3>{{ .name }}{{- with .pronouns }} ({{ . }}){{- end }}</h3>
+              {{- with .role -}}
+                <h4>{{ . }}</h4>
               {{- else -}}
                 <h4>Organizer</h4>
-              {{ end }}
-            </div>
-            {{- if .image -}}
-                 {{- $assetsfolder := (printf "assets/events/") -}}
-                 {{- if (where (readDir $assetsfolder) "Name" $e.name) -}}
-                     {{- $assetsorgfolder := (printf "assets/events/%s/organizers/" $e.name) -}}
-                     {{- if fileExists $assetsorgfolder -}}
-                      {{- if (where (readDir $assetsorgfolder) "Name" .image) -}}
-                          {{- $imagelocation := (printf "events/%s/organizers/%s" $e.name .image) -}}
-                          {{- $imageresource := resources.Get $imagelocation -}}
-                          {{- $imagefile := $imageresource.Fit "600x600 webp Lanczos q100" -}}
-                          <img class="card-img-top organizer-image" src='{{ $imagefile.RelPermalink }}' alt="{{ .name }}">
-                      {{- end -}}
-                    {{- else -}}
-                      <img class="card-img-top organizer-image" src='{{ (printf "/events/%s/organizers/%s" $e.name .image) }}' alt="{{ .name }}">
-
-                    {{- end -}}
-                 {{- else -}}
-                     <img class="card-img-top organizer-image" src='{{ (printf "/events/%s/organizers/%s" $e.name .image) }}' alt="{{ .name }}">
-                 {{- end -}}
-            {{- end -}}
-            <div class = "card-block">
-              {{- if .employer -}}
-                <h6 class="card-subtitle mb-2 text-muted">{{ .employer }}</h6>
               {{- end -}}
-              <p class = "card-text">
-                {{ if .bio }}
-                  {{ .bio | markdownify }}
-                {{ end }}
+            </div>
+            {{- $orgName := .name -}}
+            {{- with .image -}}
+              {{- $assetsfolder := "assets/events/" -}}
+              {{- if where (os.ReadDir $assetsfolder) "Name" $e.name -}}
+                {{- $assetsorgfolder := printf "assets/events/%s/organizers/" $e.name -}}
+                {{- if fileExists $assetsorgfolder -}}
+                  {{- if where (os.ReadDir $assetsorgfolder) "Name" . -}}
+                    {{- $imagelocation := printf "events/%s/organizers/%s" $e.name . -}}
+                    {{- $imageresource := resources.Get $imagelocation -}}
+                    {{- $imagefile := $imageresource.Fit "600x600 webp Lanczos q100" -}}
+                    <img class="card-img-top organizer-image" src='{{ $imagefile.RelPermalink }}' alt="{{ $orgName }}">
+                  {{- end -}}
+                {{- else -}}
+                  <img class="card-img-top organizer-image" src='{{ printf "/events/%s/organizers/%s" $e.name . }}' alt="{{ $orgName }}">
+                {{- end -}}
+              {{- else -}}
+                <img class="card-img-top organizer-image" src='{{ printf "/events/%s/organizers/%s" $e.name . }}' alt="{{ $orgName }}">
+              {{- end -}}
+            {{- end -}}
+            <div class="card-block">
+              {{- with .employer -}}
+                <h6 class="card-subtitle mb-2 text-muted">{{ . }}</h6>
+              {{- end -}}
+              <p class="card-text">
+                {{- with .bio -}}
+                  {{ . | markdownify }}
+                {{- end -}}
               </p>
-                {{- if .twitter -}}
-                  {{- $twitter := replace .twitter "@" "" -}}
+                {{- with .twitter -}}
+                  {{- $twitter := replace . "@" "" -}}
                   <a href="https://twitter.com/{{ $twitter }}" class="card-link"><i class="fa-brands fa-twitter fa-2x" aria-hidden="true"></i></a>&nbsp;
                 {{- end -}}
-                {{- if .website -}}
-                    <a href = "{{ .website }}"><i class="fa-solid fa-house fa-2x" aria-hidden="true"></i></a>&nbsp;
+                {{- with .website -}}
+                  <a href="{{ . }}"><i class="fa-solid fa-house fa-2x" aria-hidden="true"></i></a>&nbsp;
                 {{- end -}}
-                {{- if .facebook -}}
-                    <a href = "{{ .facebook }}"><i class="fa-brands fa-facebook fa-2x" aria-hidden="true"></i></a>&nbsp;
+                {{- with .facebook -}}
+                  <a href="{{ . }}"><i class="fa-brands fa-facebook fa-2x" aria-hidden="true"></i></a>&nbsp;
                 {{- end -}}
-                {{- if .linkedin -}}
-                    <a href = "{{ .linkedin }}"><i class="fa-brands fa-linkedin fa-2x" aria-hidden="true"></i></a>&nbsp;
+                {{- with .linkedin -}}
+                  <a href="{{ . }}"><i class="fa-brands fa-linkedin fa-2x" aria-hidden="true"></i></a>&nbsp;
                 {{- end -}}
-                {{- if .github -}}
-                    <a href = "https://github.com/{{ .github }}"><i class="fa-brands fa-github fa-2x" aria-hidden="true"></i></a>&nbsp;
+                {{- with .github -}}
+                  <a href="https://github.com/{{ . }}"><i class="fa-brands fa-github fa-2x" aria-hidden="true"></i></a>&nbsp;
                 {{- end -}}
-                {{- if .gitlab -}}
-                    <a href = "https://gitlab.com/{{ .gitlab}}"><i class="fa fa-gitlab fa-2x" aria-hidden="true"></i></a>&nbsp;
+                {{- with .gitlab -}}
+                  <a href="https://gitlab.com/{{ . }}"><i class="fa fa-gitlab fa-2x" aria-hidden="true"></i></a>&nbsp;
                 {{- end -}}
-                {{- if .twitch -}}
-                  <a href = "https://twitch.tv/{{ .twitch }}"><i class="fa fa-twitch fa-2x" aria-hidden="true"></i></a>&nbsp;
+                {{- with .twitch -}}
+                  <a href="https://twitch.tv/{{ . }}"><i class="fa fa-twitch fa-2x" aria-hidden="true"></i></a>&nbsp;
                 {{- end -}}
-                {{- if .mastodon -}}
-                  <a href = "{{ .mastodon }}"><i class="fa-brands fa-mastodon fa-2x" aria-hidden="true"></i></a>&nbsp;
+                {{- with .mastodon -}}
+                  <a href="{{ . }}"><i class="fa-brands fa-mastodon fa-2x" aria-hidden="true"></i></a>&nbsp;
                 {{- end -}}
-                {{- if .bluesky -}}
-                  <a href = "{{ .bluesky }}"><i class="fa-brands fa-bluesky fa-2x" aria-hidden="true"></i></a>&nbsp;
+                {{- with .bluesky -}}
+                  <a href="{{ . }}"><i class="fa-brands fa-bluesky fa-2x" aria-hidden="true"></i></a>&nbsp;
                 {{- end -}}
             </div>
           </div>
@@ -75,11 +75,11 @@
     </div>
   {{- else -}}
   <ul>
-    {{- range $event_organizers := $e.team -}}
-      <li>{{ $event_organizers }}</li>
-    {{ end }}
-  {{ end }}
-</ul>
+    {{- range $e.team -}}
+      <li>{{ . }}</li>
+    {{- end -}}
+  </ul>
+  {{- end -}}
 <style>
 .organizer-image {
   max-width: 100%;
