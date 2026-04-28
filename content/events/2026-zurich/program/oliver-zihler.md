@@ -16,6 +16,8 @@ slides = ""
 
 ### Workshop
 
+Room: 1.OG - Seminar
+
 Modern DevOps practices thrive on systems that are reliable, observable, and easy to evolve - qualities that event-sourced architectures naturally provide.
 
 In this hands-on workshop, you’ll learn how to combine Domain-Driven Design (DDD) with CQRS and Event Sourcing using the Axon Framework and Kotlin to model and implement a small but complete domain.
