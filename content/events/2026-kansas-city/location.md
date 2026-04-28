@@ -4,9 +4,9 @@ Type = "event"
 Description = "Location for DevOpsDays Kansas City 2026"
 +++
 
-DevOpsDays KC 2026 will be held as part of the new Community Days KC event, which will be held at the UMKC Student Union, May 28-29, 2026.
+DevOpsDays KC 2026 will be held as part of the new [Community Days KC](https://www.communitydays.info/) event, which will be held at the Lifted Logic, May 28-29, 2026.
 
-The UMKC Student Union is located at 5100 Cherry Street, Kansas City, MO 64110.
+[Lifted Logic](https://liftedlogic.com/event-space-in-kansas-city/) is a new, community-oriented space located at 5600 W 95th St, Overland Park, KS 66207.
 
 <!-- Uncomment this only if you have set the coordinates for your location in the config yaml. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html -->
 {{< event_map >}}
