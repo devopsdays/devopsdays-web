@@ -146,8 +146,8 @@ sponsors:
     level: gold
   - id: puppet-by-perforce
     level: gold
-#  - id: gold-6
-#    level: gold
+  - id: port
+    level: gold
 #  - id: gold-7
 #    level: gold
 #  - id: gold-8
