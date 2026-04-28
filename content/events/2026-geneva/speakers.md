@@ -11,7 +11,7 @@ Description = "Speakers for DevOpsDays Geneva 2026"
     position: relative;
     overflow: hidden;
     width: 100%;
-    height: 2400px;
+    height: 900px;
     padding-top: 56.25%; /* 16:9 Aspect Ratio */
 }
 
