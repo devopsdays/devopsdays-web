@@ -84,7 +84,7 @@ Description = "DevOpsDays Geneva 2026"
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_location >}}
+    HEG, Campus Battelle, Rue de la Tambourine 17, 1227 Carouge, {{< event_location >}}
   </div>
 </div>
 
