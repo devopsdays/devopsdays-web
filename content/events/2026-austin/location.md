@@ -138,10 +138,12 @@ Wyndham | 10 | [wyndhamhotels.com search](https://www.wyndhamhotels.com/hotels/t
 
 We will have ingredient labeling on all food (based on data provided when registering). Our food and beverages this year will be from the following companies:
 - Doxa Coffee Roasters
-- Food Truck Club (specific details coming soon)
+- Food Truck Club
 - Amy's Ice Cream
 
 In addition, there will be water, soft drinks (canned), and tea as part of the beverage stations provided by our venue.
+
+For Food Truck Club, here is our menu for this year: [Food Truck Club Menu](https://app.foodtruckclub.com/event-services/flyer/S73hWy3d3lVqOZ23JT0kVXTbVkOQyiJj)
 
 If you have a dietary need for lunches that you indicated in your ticket purchase such as kosher, halal, gluten-free, etc., we will have options at the food trucks that should be labeled. Vegan and vegetarian lunches will be provided with the rest of the lunch options. **If you did not provide the information in your ticket purchase, we cannot provide you with a dietary-specific lunch as we have to order those specifically. If you need to change your lunch, please do so ASAP by emailing us at {{< email_organizers >}}.**
 
