@@ -140,6 +140,9 @@ sponsors:
    - id: ibm
      level: platinum
      url: https://www.ibm.com
+   - id: credicorp
+     level: platinum
+     url: https://grupocredicorp.com/
 #Gold Sponsors
    - id: thoughtworks
      level: gold
@@ -153,6 +156,9 @@ sponsors:
    - id: kyndryl
      level: gold
      url: https://www.kyndryl.com/
+   - id: interbank
+     level: gold
+     url: https://www.interbank.pe/
 #Silver Sponsors
 #Bronze Sponsors
    - id: orexe
