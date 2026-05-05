@@ -80,28 +80,28 @@ organizer_email: "graz@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
-sponsors:
-  - id: FH Campus02
-    level: location
-    url: "https://www.campus02.at/"
+#sponsors:
+#  - id: FH Campus02
+#    level: location
+#    url: "https://www.campus02.at/"
 #   - id: AVL List GmbH
 #     level: gold
 #  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 #   - id: BearingPoint GmbH
 #     level: gold
-  - id: Guid.New
-    level: gold
-    url: "https://guidnew.com/en/"
+#  - id: Guid.New
+#    level: gold
+#    url: "https://guidnew.com/en/"
 #   - id: NTS NETZWERK TELEKOM SERVICE AG
 #     level: silver
 #   - id: EBCONT
 #     level: silver
-  - id: DENOVO GmbH
-    level: swag bag
-    url: "https://www.denovo.at/"
-  - id: The Dublin Road - Irish Pub
-    level: community
-    url: "https://www.thedublinroad.at/"
+#  - id: DENOVO GmbH
+#    level: swag bag
+#    url: "https://www.denovo.at/"
+#  - id: The Dublin Road - Irish Pub
+#    level: community
+#    url: "https://www.thedublinroad.at/"
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
