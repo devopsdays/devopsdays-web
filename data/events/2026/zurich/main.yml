@@ -180,6 +180,8 @@ sponsors:
   level: silver
 - id: cyberlink
   level: event
+- id: hcl-software
+  level: event
 - id: xelon
   level: event
 - id: exoscale
@@ -477,8 +479,6 @@ ignites:
 - title: "iris-hunkeler"
   date: 2026-05-07
 - title: "peter-zylka-greger"
-  date: 2026-05-07
-- title: "marcelo-ancelmo"
   date: 2026-05-07
 - title: "pallavi-agrawal"
   date: 2026-05-07

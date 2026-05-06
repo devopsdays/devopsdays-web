@@ -137,13 +137,37 @@ sponsors:
    - id: port
      level: platinum
      url: https://www.port.io/
+   - id: ibm
+     level: platinum
+     url: https://www.ibm.com
+   - id: credicorp
+     level: platinum
+     url: https://grupocredicorp.com/
+#Gold Sponsors
+   - id: thoughtworks
+     level: gold
+     url: https://www.thoughtworks.com/
+   - id: manage-engine
+     level: gold
+     url: https://manageengine.com/latam/
+   - id: fluidattacks
+     level: gold
+     url: https://www.fluidattacks.com/
+   - id: kyndryl
+     level: gold
+     url: https://www.kyndryl.com/
+   - id: interbank
+     level: gold
+     url: https://www.interbank.pe/
+#Silver Sponsors
+#Bronze Sponsors
    - id: orexe
      level: bronze
      url: https://orexe.pe/
-#Gold Sponsors
-#Silver Sponsors
-#Bronze Sponsors
-#Community Sponsors 
+#Community Sponsors
+   - id: hackemate
+     level: community
+     url: https://www.youtube.com/@hackemate
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

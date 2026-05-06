@@ -128,7 +128,7 @@ a.jssocials-share-link, a.event-cta-button {
 <br><br>
 <p></p>
 <p><a href="https://talks.devopsdays.org/devopsdays-natal-2026/cfp" target="_blank"><button>ENVIE SUA PALESTRA</button></a></p>
-<p><a href="https://www.even3.com.br/devopsdays-natal-2026/" target="_blank"><button>INSCREVA-SE</button></a></p>
+<p><a href="https://www.even3.com.br/devopsdays-natal-2026-721527/" target="_blank"><button>INSCREVA-SE</button></a></p>
 <p><a href="../sponsor/"><button>SEJA UM SPONSOR</button></a></p>
 <p><a href="../speakers/"><button>PALESTRANTES</button></a></p>
 <p><a href="/events/2026-natal/contact/"><button>CONTATO</button></a></p>

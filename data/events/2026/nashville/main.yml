@@ -122,6 +122,10 @@ sponsors:
    level: media
  - id: softwaredefinedtalk
    level: media
+ - id: groundcover
+   level: gold
+ - id: oracle-mysql
+   level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -175,7 +179,7 @@ program:
     date: 2026-05-14
     start_time: "10:30"
     end_time: "10:45"
-  - title: "scott-stroz"
+  - title: "kailas-jawadekar"
     type: talk
     date: 2026-05-14
     start_time: "10:45"
@@ -215,11 +219,11 @@ program:
     date: 2026-05-14
     start_time: "14:40"
     end_time: "15:10"  
-  - title: "mike-noe"
+  - title: "john-willis"
     type: talk
     date: 2026-05-14
     start_time: "15:10"
-    end_time: "17:00"
+    end_time: "16:10"
 
   - title: "Registration, Breakfast, Sponsors"
     type: custom
@@ -236,7 +240,7 @@ program:
     date: 2026-05-15
     start_time: "09:10"
     end_time: "10:00"
-  - title: "reserved"
+  - title: "brandon-hedge"
     type: talk
     date: 2026-05-15
     start_time: "10:00"
