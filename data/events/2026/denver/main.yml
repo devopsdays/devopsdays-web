@@ -93,6 +93,8 @@ organizer_email: "denver@devopsdays.org"
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: minimus
+    level: gold
   - id: groundcover
     level: silver
   - id: code-talent
@@ -125,4 +127,4 @@ sponsor_levels:
   - id: bronze
     label: Bronze
   - id: community
-    label: Community
+    label: Community & Media
