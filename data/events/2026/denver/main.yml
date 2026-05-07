@@ -105,6 +105,10 @@ sponsors:
     level: community
   - id: devitjobs
     level: community
+  - id: nostarchpress
+    level: community
+  - id: certdirectory
+    level: community
 #  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 #   - id: arresteddevops
 #     level: community
