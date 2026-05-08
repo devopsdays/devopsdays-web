@@ -1,7 +1,7 @@
 +++
 Title = "DevOpsDays Medellín 2026"
 Type = "welcome"
-aliases = ["/events/2025-medellin/"]
+aliases = ["/events/2026-medellin/"]
 Description = "Welcome to DevOpsDays Medellín 2026"
 +++
 <div class = "row">
@@ -78,7 +78,7 @@ Description = "Welcome to DevOpsDays Medellín 2026"
           <a
             target="_blank"
             class="btn btn-secondary btn-block"
-            href="https://www.papercall.io/dodmded2025"
+            href="https://www.papercall.io/dodmded2026"
             style="background-color:#329cae; border-color:#72c1cd" onMouseOver="this.style.backgroundColor='#23738e'"
             onMouseOut="this.style.backgroundColor='#329cae'"
           >
@@ -98,7 +98,7 @@ Description = "Welcome to DevOpsDays Medellín 2026"
         <div class="p-2">
           <a
             class="btn btn-secondary btn-block"
-            href="/events/2025-medellin/contact"
+            href="/events/2026-medellin/contact"
             style="background-color:#329cae; border-color:#72c1cd" onMouseOver="this.style.backgroundColor='#23738e'"
             onMouseOut="this.style.backgroundColor='#329cae'"
           >
