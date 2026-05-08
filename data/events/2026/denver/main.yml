@@ -17,7 +17,7 @@ enddate: 2026-09-23T17:00:00-06:00 # The end date of your event. Leave blank if 
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2025-09-24T01:00:00-06:00 # start accepting talk proposals.
-cfp_date_end: 2026-05-15T23:59:59-06:00
+cfp_date_end: 2026-05-31T23:59:59-06:00
 cfp_date_announce: 2026-06-15T08:00:59-06:00
 
 cfp_link: "https://talks.devopsdays.org/dodroxrox26/cfp" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
@@ -93,6 +93,8 @@ organizer_email: "denver@devopsdays.org"
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: minimus
+    level: gold
   - id: groundcover
     level: silver
   - id: code-talent
@@ -102,6 +104,10 @@ sponsors:
   - id: softwaredefinedtalk
     level: community
   - id: devitjobs
+    level: community
+  - id: nostarchpress
+    level: community
+  - id: certdirectory
     level: community
 #  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 #   - id: arresteddevops
@@ -125,4 +131,4 @@ sponsor_levels:
   - id: bronze
     label: Bronze
   - id: community
-    label: Community
+    label: Community & Media
