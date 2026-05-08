@@ -30,9 +30,7 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 # Location
 #
 coordinates: "4.6231126,-74.0780256" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Centro de Convenciones Compensar" # Defaults to city, but you can make it the venue name.
-
-location: "bogota" # Defaults to city, but you can make it the venue name.
+location: "Bogotá Centro de Convenciones Compensar" # Defaults to city, but you can make it the venue name.
 #
 location_address: "Av. Carrera 68 # 49A-47, Bogotá, Colombia." #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
 
