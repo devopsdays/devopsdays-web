@@ -110,11 +110,6 @@ Description = "devopsdays Sibiu 2026"
 
 The 3rd edition of the community-run conference in Sibiu, where the worlds of software development and IT operations converge. As part of the **DevOpsDays** global series—a worldwide network of technical gatherings born in Ghent in 2009—our event is dedicated to promoting collaboration, innovation, and shared learning across all disciplines.
 
-<p style="color: red; font-size: 2em; font-weight: 700; margin-top: 1rem;">
-  The Call for Papers closed on March 1st. We would like to thank everyone who submitted a proposal. The final agenda will be announced by mid-March.
-</p>
-
----
 
 ## 🎯 What You Can Expect
 
