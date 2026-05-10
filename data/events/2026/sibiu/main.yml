@@ -13,7 +13,7 @@ masthead_background: "sibiu-header.png"
 # Note: we allow 2026-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
 startdate:  2026-05-27T00:00:00+03:00
-enddate:  2026-05-29T00:00:00+03:00
+enddate:  2026-05-29T23:59:59+03:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2026-01-01T00:00:00+03:00 # start accepting talk proposals.
@@ -94,12 +94,12 @@ sponsors:
     level: gold
   - id: skylite-tek
     level: gold
-  #  - id: agile-network-technologies
-  #    level: gold
-  #  - id: agile-freaks
-  #    level: gold
   - id: general-engineering--management-solutions
     level: gold
+  - id: ardan-labs
+    level: gold
+  - id: cto-tech
+    level: silver
   - id: msg-systems
     level: bronze
   - id: pomerium
@@ -112,12 +112,13 @@ sponsors:
     level: media
   - id: kubeevents
     level: media
+  - id: women4cyber
+    level: community
   - id: scoalainformala
     level: community
   - id: emailtree-ai
     level: community
-#  - id: women4cyber
-#    level: community
+
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -137,10 +138,6 @@ sponsor_levels:
     label: Community
   - id: media
     label: Media
-  - id: Food & Drinks
-    label: Food & Drinks
-  - id: Prize & Giveaway
-    label: Prize & Giveaway
 
 program:
   - title: "Opening & Registration"
@@ -168,7 +165,7 @@ program:
     date: 2026-05-27T00:00:00+03:00
     start_time: "11:00"
     end_time: "11:45"
-    comments: "AI Track"
+    comments: "Think Big - Betta Room"
 
   - title: "karda-edith"
     type: talk
@@ -177,12 +174,14 @@ program:
     end_time: "12:30"
     comments: "Main Track - Hera Room"
 
-  - title: "soro-riccardo"
+  - title: "dubas-paulina"
     type: talk
     date: 2026-05-27T00:00:00+03:00
     start_time: "11:45"
     end_time: "12:30"
-    comments: "AI Track"
+    comments: "Think Big - Betta Room"
+
+
 
   - title: "Lunch"
     type: custom
@@ -199,26 +198,28 @@ program:
     end_time: "14:00"
     comments: "Main Track - Hera Room"
 
-  - title: "piscaer-joep"
+  - title: "soro-riccardo"
     type: talk
     date: 2026-05-27T00:00:00+03:00
     start_time: "13:30"
     end_time: "14:00"
-    comments: "AI Track"
+    comments: "Think Big - Betta Room"
 
-  - title: "agabekov-roman"
+  - title: "piscaer-joep"
     type: talk
     date: 2026-05-27T00:00:00+03:00
     start_time: "14:00"
     end_time: "14:45"
     comments: "Main Track - Hera Room"
 
-  - title: "dubas-paulina"
+  - title: "duarte-alison"
     type: talk
     date: 2026-05-27T00:00:00+03:00
     start_time: "14:00"
     end_time: "14:45"
-    comments: "AI Track"
+    comments: "Think Big - Betta Room"
+
+
 
   - title: "Open spaces themes elicitation"
     type: custom
@@ -234,12 +235,12 @@ program:
     end_time: "15:45"
     comments: "Main Track - Hera Room"
 
-  - title: "duarte-alison"
+  - title: "traub-verena-2"
     type: talk
     date: 2026-05-27T00:00:00+03:00
     start_time: "15:00"
     end_time: "15:45"
-    comments: "AI Track"
+    comments: "Think Big - Betta Room"
 
   - title: "datcu-andrei"
     type: talk
@@ -261,28 +262,6 @@ program:
     end_time: "18:15"
     comments: "Main Track - Hera Room"
     background_color: "#93C5FD"
-
-  - title: "Round 1 of open spaces"
-    type: custom
-    date: 2026-05-27T00:00:00+03:00
-    start_time: "16:45"
-    end_time: "17:15"
-    background_color: "#FFB566"
-    comments: "Betta and Gamma Rooms"
-
-  - title: "Break"
-    type: custom
-    date: 2026-05-27T00:00:00+03:00
-    start_time: "17:15"
-    end_time: "17:45"
-
-  - title: "Round 2 of open spaces"
-    type: custom
-    date: 2026-05-27T00:00:00+03:00
-    start_time: "17:45"
-    end_time: "18:15"
-    background_color: "#FFB566"
-    comments: "Betta and Gamma Rooms"
 
   - title: "Day 1 Raffle winners + Closing of the day"
     type: custom
@@ -317,26 +296,27 @@ program:
     start_time: "10:55"
     end_time: "11:00"
 
-  - title: "mihu-raluca-1"
+  - title: "rotariu-sorin"
     type: talk
     date: 2026-05-28T00:00:00+03:00
     start_time: "11:00"
     end_time: "11:45"
+    background_color: "#2f7d3a"
     comments: "Main Track - Hera Room"
 
-  - title: "traub-verena"
+  - title: "bodhanya-thameez"
     type: talk
     date: 2026-05-28T00:00:00+03:00
     start_time: "11:45"
     end_time: "12:30"
     comments: "Main Track - Hera Room"
 
-  - title: "dubas-paulina-1"
+  - title: "radu-gabriela"
     type: talk
     date: 2026-05-28T00:00:00+03:00
     start_time: "11:45"
     end_time: "12:30"
-    comments: "AI Track"
+    comments: "Think Big - Betta Room"
 
   - title: "Lunch"
     type: custom
@@ -353,26 +333,21 @@ program:
     end_time: "14:00"
     comments: "Main Track - Hera Room"
 
-  - title: "duarte-alison-1"
-    type: talk
-    date: 2026-05-28T00:00:00+03:00
-    start_time: "13:30"
-    end_time: "14:00"
-    comments: "AI Track"
 
-  - title: "sarkar-sutapa"
+  - title: "dulau-david"
     type: talk
     date: 2026-05-28T00:00:00+03:00
     start_time: "14:00"
     end_time: "14:45"
     comments: "Main Track - Hera Room"
 
-  - title: "apitzsch-wiebke"
+  - title: "sarkar-sutapa"
     type: talk
     date: 2026-05-28T00:00:00+03:00
     start_time: "14:00"
     end_time: "14:45"
-    comments: "AI Track"
+    comments: "Think Big - Betta Room"
+
 
   - title: "Open spaces themes elicitation"
     type: custom
@@ -380,37 +355,42 @@ program:
     start_time: "14:45"
     end_time: "15:00"
     background_color: "#FFB566"
+
+
+
+
+  - title: "dubas-paulina-1"
+    type: talk
+    date: 2026-05-28T00:00:00+03:00
+    start_time: "15:00"
+    end_time: "15:45"
     comments: "Main Track - Hera Room"
+
+
+  - title: "apitzsch-wiebke"
+    type: talk
+    date: 2026-05-28T00:00:00+03:00
+    start_time: "15:00"
+    end_time: "15:45"
+    comments: "Think Big - Betta Room"
+
+
+  - title: "westgarth-dave-1"
+    type: talk
+    date: 2026-05-28T00:00:00+03:00
+    start_time: "15:45"
+    end_time: "16:30"
+    comments: "Main Track - Hera Room"
+
+  - title: "anagnostou-maria"
+    type: talk
+    date: 2026-05-28T00:00:00+03:00
+    start_time: "15:45"
+    end_time: "16:30"
+    comments: "Think Big - Betta Room"
+
 
   - title: "sandhu-suki-1"
-    type: talk
-    date: 2026-05-28T00:00:00+03:00
-    start_time: "15:00"
-    end_time: "15:45"
-    comments: "Main Track - Hera Room"
-
-  - title: "westgarth-dave"
-    type: talk
-    date: 2026-05-28T00:00:00+03:00
-    start_time: "15:00"
-    end_time: "15:45"
-    comments: "AI Track"
-
-  - title: "amorim-marcela"
-    type: talk
-    date: 2026-05-28T00:00:00+03:00
-    start_time: "15:45"
-    end_time: "16:30"
-    comments: "Main Track - Hera Room"
-
-  - title: "parad-dorota"
-    type: talk
-    date: 2026-05-28T00:00:00+03:00
-    start_time: "15:45"
-    end_time: "16:30"
-    comments: "AI Track"
-
-  - title: "bodhanya-thameez"
     type: talk
     date: 2026-05-28T00:00:00+03:00
     start_time: "16:30"
@@ -422,7 +402,7 @@ program:
     date: 2026-05-28T00:00:00+03:00
     start_time: "16:30"
     end_time: "17:15"
-    comments: "AI Track"
+    comments: "Think Big - Betta Room"
 
   - title: "Break"
     type: custom
@@ -478,6 +458,21 @@ program:
     start_time: "10:45"
     end_time: "11:00"
 
+
+  - title: "dias-miguel"
+    type: workshop
+    date: 2026-05-29T00:00:00+03:00
+    start_time: "11:00"
+    end_time: "12:30"
+    comments: "DevSecOps Track - Betta Room"
+
+  - title: "bako-orsolya"
+    type: workshop
+    date: 2026-05-29T00:00:00+03:00
+    start_time: "11:00"
+    end_time: "12:30"
+    comments: "The Human Side of DevOps Track - Gamma Room"
+
   - title: "Lunch"
     type: custom
     date: 2026-05-29T00:00:00+03:00
@@ -485,7 +480,7 @@ program:
     end_time: "13:30"
     comments: "Ramada Restaurant"
 
-  - title: "dias-miguel"
+  - title: "adeniji-adeola"
     type: workshop
     date: 2026-05-29T00:00:00+03:00
     start_time: "13:30"
@@ -497,7 +492,7 @@ program:
     date: 2026-05-29T00:00:00+03:00
     start_time: "13:30"
     end_time: "15:00"
-    comments: "Think outside the box Track - Gamma Room"
+    comments: "The Human Side of DevOps Track - Gamma Room"
 
   - title: "Break"
     type: custom
@@ -505,10 +500,10 @@ program:
     start_time: "15:00"
     end_time: "15:30"
 
-  - title: "adeniji-adeola"
+  - title: "bodhanya-thameez-1"
     type: workshop
     date: 2026-05-29T00:00:00+03:00
-    start_time: "15:30"
+    start_time: "15:00"
     end_time: "17:00"
     comments: "DevSecOps Track - Betta Room"
 
@@ -517,7 +512,7 @@ program:
     date: 2026-05-29T00:00:00+03:00
     start_time: "15:00"
     end_time: "17:00"
-    comments: "Think outside the box Track - Gamma Room"
+    comments: "he Human Side of DevOps Track - Gamma Room"
 
   - title: "Break"
     type: custom
@@ -548,6 +543,9 @@ ignites:
     date: 2026-05-28
     block: "day2"
   - title: "zeimer-dana"
+    date: 2026-05-28
+    block: "day2"
+  - title: "radu-gabriela-1"
     date: 2026-05-28
     block: "day2"
   - title: "powerpoint-karaoke"
