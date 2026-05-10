@@ -2,7 +2,7 @@ name: "2025-bogota" # The name of the event. Four digit year with the city name 
 year: "2025" # The year of the event. Make sure it is in quotes.
 city: "Bogotá" # The displayed city name of the event. Capitalize it.
 event_twitter: "DevopsdaysB" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "DevOpsDays Bogotá 2026: El epicentro de la evolución tecnológica. Únete al evento donde la Inteligencia Artificial y la cultura DevOps convergen para transformar organizaciones. Conéctate con líderes globales, domina herramientas de vanguardia y diseña hoy el futuro de la ingeniería de software." # Edit this to suit your preferences
+description: "¡DevOpsDays Bogotá es el evento por excelencia para compartir con entusiastas y expertos en DevOps y conocer las mejores practicas, marcos de trabajo y herramientas para aplicar en su organización y en general. Participa en el evento que reúne a líderes, profesionales y colaboradores de la comunidad DevOps a nivel mundial!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2025-MM-DDTHH:MM:SS+TZ:TZ, like this:
