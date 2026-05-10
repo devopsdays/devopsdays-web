@@ -1,6 +1,6 @@
 name: "2026-salvador" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2026" # The year of the event. Make sure it is in quotes.
-city: "salvador" # The displayed city name of the event. Capitalize it.
+city: "Salvador" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaysssa" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "Devopsdays is coming to salvador!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
@@ -14,11 +14,11 @@ startdate: 2026-12-05T08:00:00-03:00 # The start date of your event. Leave blank
 enddate: 2026-12-05T18:00:00-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2026-04-04T8:00:00-03:00  # start accepting talk proposals.
+cfp_date_end: 2026-08-31T23:59:00-03:00  # close your call for proposals.
+cfp_date_announce: 2026-09-30T23:59:00-03:00 # inform proposers of status
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://talks.devopsdays.org/devopsdays-salvador-2026/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
@@ -30,9 +30,9 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 #
 # coordinates: "" # No longer used
 
-location: "salvador" # Defaults to city, but you can make it the venue name.
+location: "Auditório da UCSAL" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
+location_address: "Av. Prof. Pinto de Aguiar, 2589, Pituaçu, Salvador" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
 
 # Optional - Social badges
 # These can be used in the body of any page via matching shortcodes. See sample:  https://devopsdays.org/events/2025-denver/welcome/
@@ -53,7 +53,7 @@ event_social_youtube: "devopsdaysssa" # Change this to the youtube channel handl
 social_shares: # ["email", "twitter", "facebook", "linkedin"]
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: propose
  # - name: location
  # - name: registration
  # - name: program

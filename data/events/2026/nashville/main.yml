@@ -126,6 +126,8 @@ sponsors:
    level: gold
  - id: oracle-mysql
    level: gold
+ - id: issa-midtn
+   level: media
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
