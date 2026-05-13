@@ -14,8 +14,8 @@ startdate: 2026-11-19T00:00:00+01:00 # The start date of your event. Leave blank
 enddate: 2026-11-20T23:59:59+01:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: # start accepting talk proposals.
-cfp_date_end: # close your call for proposals.
+cfp_date_start: 2026-05-01T12:00:00+01:00 # start accepting talk proposals.
+cfp_date_end: 2026-07-15T23:00:00+01:00 # close your call for proposals.
 cfp_date_announce: # inform proposers of status
 
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
@@ -24,7 +24,7 @@ registration_date_start: # start accepting registration. Leave blank if registra
 registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://community2.cncf.io/events/details/cncf-kcd-porto-presents-kcd-porto-2026-collab-with-devops-days-portugal/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -35,9 +35,9 @@ location: "Portugal" # Defaults to city, but you can make it the venue name.
 location_address: "Super Bock Arena - Pavilhão Rosa Mota, Rua de Dom Manuel II, Jardins do Palácio de Cristal, 2050-346 Porto" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-#  - name: propose
+  - name: propose
   - name: location
-#  - name: registration
+  - name: registration
 #  - name: program
 #  - name: speakers
 #  - name: sponsor
