@@ -2,9 +2,9 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Day Two Keynote"
+Title = "Ignore Previous Instructions: How AI can help reignite the cowboy hacker spirit."
 Type = "talk"
 Speakers = ["tyler-welton"]
 +++
 
-For those of you who saw "How to Smoke a Pipeline" at DevOpsDay Nashville 2024, you know Tyler isn't just a great speaker, he knows security inside and out.  Come join us as Tyler kicks off Day Two of DevOpsDays + AI Nashville 2026!
+AI is forcing cyber security and the tech world to rethink how work is done. Though it threatens much about how we build, it also presents an opportunity for reinvention. We'll break down how a little chaos and curiosity can be beneficial, and dive into some good hacks along the way.

@@ -186,7 +186,7 @@ program:
     date: 2026-05-14
     start_time: "10:45"
     end_time: "11:15"
-  - title: "Sponsors"
+  - title: "Sponsors Talks"
     type: custom
     date: 2026-05-14
     start_time: "11:15"
@@ -215,17 +215,22 @@ program:
     type: talk
     date: 2026-05-14
     start_time: "14:00"
-    end_time: "14:40"  
+    end_time: "14:40"
+  - title: "Sponsors Talks"
+    type: custom
+    date: 2026-05-14
+    start_time: "14:40"
+    end_time: "14:45"   
   - title: "michael-anthony"
     type: talk
     date: 2026-05-14
-    start_time: "14:40"
-    end_time: "15:10"  
+    start_time: "14:45"
+    end_time: "15:15"  
   - title: "john-willis"
     type: talk
     date: 2026-05-14
-    start_time: "15:10"
-    end_time: "16:10"
+    start_time: "15:15"
+    end_time: "16:15"
 
   - title: "Registration, Breakfast, Sponsors"
     type: custom
