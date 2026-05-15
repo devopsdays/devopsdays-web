@@ -13,10 +13,10 @@ Icons = "false"
   <div class="col-lg-2 col-md-2 program-element program-workshop">Workshop</div>
   <div class="col-lg-2 col-md-2 program-element program-open-space">Open Space</div>
 
-  <div class="col-lg-2 col-md-2 program-element program-keynote"
-       style="background-color:#2f7d3a; color:#fff;">
-    Keynote
-  </div>
+<div class="col-lg-2 col-md-2 program-element program-keynote"
+     style="background-color:#fff; color:#333; border:1px solid #333;">
+  Keynote
+</div>
 
   <div class="col-lg-2 col-md-2 program-element"
        style="background-color:#e8e8e8; color:#333;">
