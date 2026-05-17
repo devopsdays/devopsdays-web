@@ -2,7 +2,7 @@
 Title = "devopsdays Portugal 2026"
 Type = "welcome"
 aliases = ["/events/2026-portugal/"]
-Description = "devopsdays Portugal 2026"
+Description = "devopsdays Portugal 2026| Collab with KCD Porto 2026"
 +++
 
 <div class="container">
@@ -32,10 +32,20 @@ Description = "devopsdays Portugal 2026"
 
   <div class="row justify-content-center">
     <div class="col-sm-2">
+      <a href="https://community2.cncf.io/events/details/cncf-kcd-porto-presents-kcd-porto-2026-collab-with-devops-days-portugal"><img src="assets/sponsors/k/kcd-porto-logo.png" class="img-fluid mx-auto" /></a>
       <a href="https://devopsporto.com/"><img src="/img/sponsors/devopsporto.png" class="img-fluid mx-auto" /></a>
     </div>
     <div class="col-sm-6">
-      <p><b>DevOpsDays Portugal is back! 2026 is powered by <a href="https://www.meetup.com/devopsporto/">DevOps Porto</a>, one of the communities dedicated to DevOps in Portugal.</p></b>
+      <p><b>DevOpsDays Portugal is back with awsome news!</b></p>
+      <p>In 2026, DevOpsDays Portugal and KCD Porto 2026 come together in a unique collaboration, bringing the DevOps and Cloud Native communities under one roof.</p>
+      <p>Two of Portugal’s leading tech conferences are joining forces for an unforgettable experience.</p>
+
+  <p>Expect inspiring keynotes, hands-on sessions, technical deep dives, and talks from industry experts covering the latest trends in DevOps, Kubernetes, Platform Engineering, Cloud Native technologies, AI, and more.</p>
+
+  <p>Join us for a bigger, better, and more connected experience — built for engineers, developers, SREs, platform teams, and tech leaders passionate about innovation and collaboration.</p>
+
+
+  <p>2026 is powered by <a href="https://community2.cncf.io/events/details/cncf-kcd-porto-presents-kcd-porto-2026-collab-with-devops-days-portugal/"> KCD Porto 2026 - a Cloud Native Event </a> and <a href="https://www.meetup.com/devopsporto/">DevOps Porto</a>, one of the communities dedicated to DevOps in Portugal.</p>
     </div>
   </div>
 
