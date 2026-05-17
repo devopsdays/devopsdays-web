@@ -157,7 +157,7 @@ program:
     date: 2026-05-27T00:00:00+03:00
     start_time: "11:00"
     end_time: "11:45"
-    background_color: "#2f7d3a"
+    background_color: "#FFFFFF"
     comments: "Main Track - Hera Room"
 
   - title: "taylor-nick"
@@ -301,7 +301,7 @@ program:
     date: 2026-05-28T00:00:00+03:00
     start_time: "11:00"
     end_time: "11:45"
-    background_color: "#2f7d3a"
+    background_color: "#FFFFFF"
     comments: "Main Track - Hera Room"
 
   - title: "bodhanya-thameez"
@@ -459,7 +459,7 @@ program:
     end_time: "11:00"
 
 
-  - title: "dias-miguel"
+  - title: "bodhanya-thameez-1"
     type: workshop
     date: 2026-05-29T00:00:00+03:00
     start_time: "11:00"
@@ -500,7 +500,7 @@ program:
     start_time: "15:00"
     end_time: "15:30"
 
-  - title: "bodhanya-thameez-1"
+  - title: "dias-miguel"
     type: workshop
     date: 2026-05-29T00:00:00+03:00
     start_time: "15:00"
