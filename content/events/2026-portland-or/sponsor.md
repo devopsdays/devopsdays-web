@@ -10,7 +10,7 @@ Sponsor the conference and connect with application developers, engineers, team 
 
 DevOpsDays Portland 2026 will be held at the  at Portland State University, and will accommodate up to 180 attendees.
 
-Our theme this year is "The Future of DevOps".  Technology and practices have changed over the past decade, and DevOps has also evolved.  We’re focusing on the challenges ahead, whether it’s scaling Kubernetes across multiple clouds, refactoring automation with AI agents, or charting careers through major industry changes.  
+Our theme this year is "The Future of DevOps".  Technology and practices have changed over the past decade, and DevOps has also evolved.  We’re focusing on the challenges ahead, whether it’s scaling Kubernetes across multiple clouds, refactoring automation with AI agents, or charting careers through major industry changes.
 
 - [Sponsor Benefits](#sponsor-benefits)
 - [Prospectus](#prospectus)
@@ -28,7 +28,18 @@ Historically, DevOpsDays PDX attracted 300 to 400 Oregon and Washington technolo
 
 ### Prospectus
 
-<a href="https://assets.devopsdays.org/events/2025/austin/devopsdays-portland-2026-sponsor-prospectus.pdf" class="btn btn-primary"><i class="fa fa-folder fa-lg"></i>   View the DevOpsDays Portland 2026 Sponsor Prospectus</a>
+| Level      | No. Avail | Cost  | Passes  | Pitch         | Table              | Raffle                      | Other Benefits          |
+|------------|-----------|-------|---------|---------------|--------------------|-----------------------------|-------------------------|
+| Platinum   | 1         | $6000 | 6       | 2min each day | 8’ prime placement | Raffle at closing session   | Top logo billing        |
+| Gold       | 4         | $3000 | 4       | 1min          | 6’ own table       | Raffle at closing session   |                         |
+| Silver     | 12        | $1500 | 2       | None          | Shared table       | Own raffle via shared table |                         |
+| Happy Hour | 1         | $4200 | 2 + 3HH | At Happy Hour | None               | At Happy Hour               |                         |
+| Lanyard    | 1         | $2000 | 1       | None          | None               | None                        | Brand on all lanyards   |
+| Coffee     | 2         | $1500 | 1       | None          | None               | None                        | Signage by coffee table |
+| Snacks     | 2         | $1500 | 1       | None          | None               | None                        | Signage by Snacks       |
+{.table .table-bordered .table-hover .table-striped .table-responsive}
+
+<a href="https://assets.devopsdays.org/events/2026/portland/devopsdays-portland-2026-sponsor-prospectus.pdf" class="btn btn-primary"><i class="fa fa-folder fa-lg"></i>   View the DevOpsDays Portland 2026 Sponsor Prospectus</a>
 
 ### Lead Gathering
 
