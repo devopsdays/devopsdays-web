@@ -14,6 +14,10 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+    parser:
+      attributes:
+        block: true
+        title: true
 languages:
   en:
     disabled: false
