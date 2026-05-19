@@ -6,12 +6,12 @@ Description = "Welcome to DevOpsDays Medellín 2025"
 +++
 <div class = "row">
   <div class="col-md-4">
-    <img alt="DevOpsDays Medellin 2025" src="/events/2025-medellin/logo.png" class="img-fluid">
+    <img alt="DevOpsDays Medellin 2026" src="/events/2026-medellin/logo.png" class="img-fluid">
   </div>
   <div class="col-md-7">
-    <h2>Nuestra conferencia DevOpsDays Medellín 2025 vuelve el 22 y 23 de mayo de manera presencial desde la Universidad Luis Amigó</h2>
+    <h2>Nuestra conferencia DevOpsDays Medellín 2026 vuelve el 27 y 28 de mayo de manera presencial desde el teatro La Enseñanza</h2>
     <p>
-      The DevOpsDays conference arrives to Medellín once again, Be part on May 2025!
+      The DevOpsDays conference arrives to Medellín once again, Be part on May 2026!
     </p>
     <h2>Event Information</h2>
     <p>
