@@ -11,8 +11,8 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 # Note: we allow 2026-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
 
-startdate: 2026-06-06T08:00:00-03:00
-enddate: 2026-06-06T18:00:00-03:00
+startdate: 2026-09-05T08:00:00-03:00
+enddate: 2026-09-05T18:00:00-03:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  # start accepting talk proposals.
@@ -35,7 +35,7 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 location: "Feira de Santana" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
+location_address: "Unex Feira de Santana, Av. Artêmia Pires Freitas, s/n - Sim, Feira de Santana - BA, 44085-370, Brazil" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose

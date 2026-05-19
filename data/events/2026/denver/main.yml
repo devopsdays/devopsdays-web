@@ -95,6 +95,8 @@ organizer_email: "denver@devopsdays.org"
 sponsors:
   - id: minimus
     level: gold
+  - id: teleport
+    level: gold
   - id: groundcover
     level: silver
   - id: code-talent
