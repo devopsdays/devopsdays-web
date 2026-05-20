@@ -9,7 +9,7 @@ Description = "devopsdays Portugal 2026| Collab with KCD Porto 2026"
   <div class="row">
     <div class="col-12">
       <div class="row justify-content-center">
-        <img src="/events/2026-portugal/logo.png" class="img-fluid mx-auto">
+        {{< event_logo >}}
       </div>
     </div>
   </div>
@@ -32,8 +32,8 @@ Description = "devopsdays Portugal 2026| Collab with KCD Porto 2026"
 
   <div class="row justify-content-center">
     <div class="col-sm-2">
-      <a href="https://community2.cncf.io/events/details/cncf-kcd-porto-presents-kcd-porto-2026-collab-with-devops-days-portugal"><img src="assets/sponsors/k/kcd-porto-logo.png" class="img-fluid mx-auto" /></a>
-      <a href="https://devopsporto.com/"><img src="/img/sponsors/devopsporto.png" class="img-fluid mx-auto" /></a>
+      <a href="https://community2.cncf.io/events/details/cncf-kcd-porto-presents-kcd-porto-2026-collab-with-devops-days-portugal">{{< img src="/sponsors/k/kcd-porto.png" class="img-fluid mx-auto" alt="Website KCD Porto" >}}</a>
+      <a href="https://devopsporto.com/"><img src="/img/sponsors/devopsporto.png" class="img-fluid mx-auto" alt="Website DevOps Porto"/></a>
     </div>
     <div class="col-sm-6">
       <p><b>DevOpsDays Portugal is back with awsome news!</b></p>
@@ -43,7 +43,6 @@ Description = "devopsdays Portugal 2026| Collab with KCD Porto 2026"
   <p>Expect inspiring keynotes, hands-on sessions, technical deep dives, and talks from industry experts covering the latest trends in DevOps, Kubernetes, Platform Engineering, Cloud Native technologies, AI, and more.</p>
 
   <p>Join us for a bigger, better, and more connected experience — built for engineers, developers, SREs, platform teams, and tech leaders passionate about innovation and collaboration.</p>
-
 
   <p>2026 is powered by <a href="https://community2.cncf.io/events/details/cncf-kcd-porto-presents-kcd-porto-2026-collab-with-devops-days-portugal/"> KCD Porto 2026 - a Cloud Native Event </a> and <a href="https://www.meetup.com/devopsporto/">DevOps Porto</a>, one of the communities dedicated to DevOps in Portugal.</p>
     </div>
