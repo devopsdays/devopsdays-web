@@ -425,7 +425,7 @@ program:
     date: 2026-05-28T00:00:00+03:00
     start_time: "16:30"
     end_time: "17:15"
-    comments: "Think Big - Betta Room"
+    comments: "Main Track - Hera Room"
 
   - title: "Break"
     type: custom
@@ -534,13 +534,13 @@ program:
     type: workshop
     date: 2026-05-29T00:00:00+03:00
     start_time: "16:00"
-    end_time: "17:00"
+    end_time: "17:30"
     comments: "The Human Side of DevOps Track - Betta Room"
 
   - title: "Networking"
     type: custom
     date: 2026-05-29T00:00:00+03:00
-    start_time: "17:00"
+    start_time: "17:30"
     end_time: "18:30"
 
 ignites:
