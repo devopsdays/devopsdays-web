@@ -96,6 +96,41 @@ Description = "devopsdays Sibiu 2026"
           </a>
         </div>
       </div>
+      <div class="row justify-content-center" style="margin-top: 10px;">
+        <div class="d-flex p-2">
+          <a class="btn btn-primary btn-block"
+             style="margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;"
+             href="mailto:sibiu@devopsdays.org">
+            <i class="fa fa-gift fa-lg"></i>&nbsp;&nbsp;Do you want a free ticket? Reach out to us with a motivation letter why you deserve to join our event. What would you like to learn? Can be in Romanian 😊
+          </a>
+        </div>
+      </div>
+      <div class="row justify-content-center">
+        <div class="d-flex p-2">
+          <a class="btn btn-primary btn-block"
+             style="margin-top: 10px; margin-bottom: 10px; background-color: #d9534f; border-color: #d9534f;"
+             href="https://tickets.devopsdays.org/devopsdays-sibiu/2026/">
+            <i class="fa fa-cutlery fa-lg"></i>&nbsp;&nbsp;Free lunch only for the tickets bought before May 26th
+          </a>
+        </div>
+      </div>
+      <div class="row justify-content-center">
+        <div class="d-flex p-2">
+          <a class="btn btn-primary btn-block"
+             style="margin-top: 10px; margin-bottom: 10px; background-color: #0077b5; border-color: #0077b5;"
+             href="https://www.linkedin.com/company/devopsdays-sibiu/"
+             target="_blank" rel="noopener noreferrer">
+            <i class="fa fa-linkedin fa-lg"></i>&nbsp;&nbsp;All event updates are done via our LinkedIn page
+          </a>
+        </div>
+      </div>
+      <div class="row justify-content-center" style="margin-top: 20px; margin-bottom: 20px;">
+        <div class="col-md-8 text-center">
+          <p style="font-size: 1.1em; font-weight: 600;">DevOps Days Sibiu is a safe space</p>
+          <p>Please take photos only with prior consent!<br>
+          We reserve the right to deny access to the event for people not respecting the other attendees' privacy.</p>
+        </div>
+      </div>
     </div>
   </div>
 </div>
@@ -179,7 +214,7 @@ DevOpsDays Sibiu is organized **by volunteers**, for practitioners—no corporat
   </h2>
 
   <p style="margin-top: 1rem; margin-bottom: 0;">
-    <a
+
       href="https://docs.google.com/forms/d/e/1FAIpQLSdQkgb3ec3lN0ABZMuElaN9j8przNdc1ifR9ScsfjIBWv_Rng/viewform?usp=publish-editor"
       target="_blank"
       rel="noopener noreferrer"
@@ -197,7 +232,7 @@ Our aim is to create an experience that honours the planet, respects your privac
 ---
 
 <p style="font-size: 1.2em; font-weight: 700; text-align: center; margin-top: 2rem;">
-  DevOpsDays Sibiu: where code meets collaboration, infrastructure meets innovation, and ideas meet action. We can’t wait to welcome you!
+  DevOpsDays Sibiu: where code meets collaboration, infrastructure meets innovation, and ideas meet action. We can't wait to welcome you!
 </p>
 
 </div>
