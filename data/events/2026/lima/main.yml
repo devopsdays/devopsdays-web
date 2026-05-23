@@ -161,6 +161,9 @@ sponsors:
    - id: interbank
      level: gold
      url: https://www.interbank.pe/
+   - id: coforge
+     level: gold
+     url: https://www.coforge.com/
 #Silver Sponsors
 #Bronze Sponsors
    - id: orexe

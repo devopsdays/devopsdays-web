@@ -4,7 +4,7 @@ Type = "welcome"
 aliases = ["/events/2026-cairo/"]
 Description = "DevOpsDays Cairo 2026"
 +++
-<p>For the 9th consecutive year, ITIDA/SECC is organizing DevOpsDays Cairo Conference 2026 in cooperation with: ATOS, AUC, Cairo University, Cegedim, DXC Technology, Egypt University of Informatics, Orange Innovation Egypt,  Stakpak, and Vodafone Intelligent Solutions. 
+<p>For the 9th consecutive year, ITIDA/SECC is organizing DevOpsDays Cairo Conference 2026. 
 </p>
 
  
