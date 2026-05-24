@@ -53,7 +53,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: registration
  # - name: program
  # - name: speakers
- # - name: sponsor
+  - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
@@ -147,12 +147,58 @@ organizer_email: "zurich@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+- id: bit
+  level: partner
+- id: businessmap
+  level: partner
+- id: hostpoint
+  level: partner
+- id: digicomp
+  level: partner
+- id: lukasschubnell
+  level: partner
 - id: powercoders
   level: community
 - id: belikegrace
   level: community
 - id: girlscodetoo
   level: community
+- id: guild42
+  level: community
+- id: vshn
+  level: gold
+- id: cloudscalech
+  level: gold
+- id: redgate
+  level: gold
+- id: dash0
+  level: gold
+- id: infometis
+  level: silver
+- id: zkb
+  level: silver
+- id: 4data
+  level: silver
+- id: cyberlink
+  level: event
+- id: hcl-software
+  level: event
+- id: xelon
+  level: event
+- id: exoscale
+  level: event
+- id: zuhlke
+  level: bronze
+- id: kpmg
+  level: bronze
+- id: cognizant
+  level: bronze
+- id: hslu
+  level: bronze
+- id: dbi-services
+  level: bronze
+- id: infiniroot
+  level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

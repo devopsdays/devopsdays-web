@@ -10,7 +10,13 @@ Description = "DevOpsDays Zurich 2027"
     {{< event_logo >}}
   </div>
   <div class="col-sm-6 text-center p-2">
-    <iframe src="https://player.vimeo.com/video/1195115122?h=935e4fa3fe?autoplay=1&muted=1" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="float:bottom"></iframe>
+    <iframe
+      src="https://player.vimeo.com/video/1195115122?h=935e4fa3fe?autoplay=1&muted=1"
+      frameborder="0"
+      allow="autoplay; fullscreen; picture-in-picture"
+      allowfullscreen
+      style="width: 100%; height: 300px; max-width: 100%;">
+    </iframe>
     <br/>Impressions from 2026
   </div>  
 </div>
