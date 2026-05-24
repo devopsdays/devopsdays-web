@@ -8,7 +8,7 @@ title = "From Gut Feel to Evidence: What DORA Metrics Actually Tell Us"
 type = "talk"
 speakers = ["egor-savochkin"]
 youtube = ""
-vimeo = ""
+vimeo = "1195127135?h=ce50a31152"
 speakerdeck = ""
 slideshare = ""
 slides = ""

@@ -8,7 +8,7 @@ title = "Planning Theater: The Play That’s Killing Your Delivery"
 type = "talk"
 speakers = ["peter-zylka-greger", "benjamin-huser-berta"]
 youtube = ""
-vimeo = ""
+vimeo = "1195136771?h=5c3eea8f7d"
 speakerdeck = ""
 slideshare = ""
 slides = ""

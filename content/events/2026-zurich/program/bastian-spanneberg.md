@@ -8,7 +8,7 @@ title = "Dr. Strangepod or: How I Learned to Stop Worrying and Love the AI"
 type = "talk"
 speakers = ["bastian-spanneberg"]
 youtube = ""
-vimeo = ""
+vimeo = "1195142461?h=75c02ddd9f"
 speakerdeck = ""
 slideshare = ""
 slides = ""

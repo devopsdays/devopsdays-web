@@ -8,7 +8,7 @@ title = "Cutting 2/3rds of your cloud costs with common sense"
 type = "talk"
 speakers = ["simon-falsig"]
 youtube = ""
-vimeo = ""
+vimeo = "1195145389?h=f5ac54a12b"
 speakerdeck = ""
 slideshare = ""
 slides = ""

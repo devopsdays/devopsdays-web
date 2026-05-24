@@ -8,7 +8,7 @@ title = "Taming the Metal: Platform Engineering for HPC"
 type = "talk"
 speakers = ["michele-brambilla"]
 youtube = ""
-vimeo = ""
+vimeo = "1195134529?h=56ba5c8a2e"
 speakerdeck = ""
 slideshare = ""
 slides = ""

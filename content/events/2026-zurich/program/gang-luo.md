@@ -8,7 +8,7 @@ title = "Scaling DevOps Without Scaling Ops: Our Platform Engineering Journey"
 type = "talk"
 speakers = ["gang-luo", "kristina-kondrashevich"]
 youtube = ""
-vimeo = ""
+vimeo = "1195131579?h=ed7c80b45b"
 speakerdeck = ""
 slideshare = ""
 slides = ""

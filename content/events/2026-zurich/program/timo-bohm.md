@@ -8,7 +8,7 @@ title = "Kill the Project. Build a Team."
 type = "talk"
 speakers = ["timo-bohm"]
 youtube = ""
-vimeo = ""
+vimeo = "1195145980?h=77ac1b2c40"
 speakerdeck = ""
 slideshare = ""
 slides = ""

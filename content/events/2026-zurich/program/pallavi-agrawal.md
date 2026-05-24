@@ -8,7 +8,7 @@ title = "“How to design Observability before you buy it”"
 type = "talk"
 speakers = ["pallavi-agrawal"]
 youtube = ""
-vimeo = ""
+vimeo = "1195138990?h=7b4bf6d76a"
 speakerdeck = ""
 slideshare = ""
 slides = ""

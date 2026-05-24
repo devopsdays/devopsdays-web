@@ -8,7 +8,7 @@ title = "Automated Root Cause Analysis"
 type = "talk"
 speakers = ["melchior-thambipillai"]
 youtube = ""
-vimeo = ""
+vimeo = "1195129638?h=cfd83521a0"
 speakerdeck = ""
 slideshare = ""
 slides = ""

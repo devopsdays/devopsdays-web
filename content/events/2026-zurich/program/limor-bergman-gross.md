@@ -8,7 +8,7 @@ title = "Your Systems Aren’t Stuck - Your Teams Are: The Leadership Patterns B
 type = "talk"
 speakers = ["limor-bergman-gross"]
 youtube = ""
-vimeo = ""
+vimeo = "1195123745?h=fdc34e3ce3"
 speakerdeck = ""
 slideshare = ""
 slides = ""
