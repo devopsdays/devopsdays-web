@@ -53,8 +53,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: propose
  # - name: location
  # - name: registration
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -111,6 +111,130 @@ organizer_email: "krakow@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+
+program:
+  - title: "Opening"
+    type: custom
+    date: 2026-07-04T00:00:00+02:00
+    start_time: "09:00"
+    end_time: "09:15"
+
+  - title: "bjorlin-manfred"
+    type: talk
+    date: 2026-07-04T00:00:00+02:00
+    start_time: "09:15"
+    end_time: "09:50"
+
+  - title: "Break"
+    type: custom
+    date: 2026-07-04T00:00:00+02:00
+    start_time: "09:50"
+    end_time: "10:00"
+
+  - title: "bronicki-jan"
+    type: talk
+    date: 2026-07-04T00:00:00+02:00
+    start_time: "10:00"
+    end_time: "10:35"
+
+  - title: "senecki-kamil"
+    type: talk
+    date: 2026-07-04T00:00:00+02:00
+    start_time: "10:35"
+    end_time: "11:10"
+
+  - title: "Break"
+    type: custom
+    date: 2026-07-04T00:00:00+02:00
+    start_time: "11:10"
+    end_time: "11:30"
+
+  - title: "Experience Exchange Setup"
+    type: open-space
+    date: 2026-07-04T00:00:00+02:00
+    start_time: "11:30"
+    end_time: "12:10"
+
+  - title: "Experience Exchange - Session 1"
+    type: open-space
+    date: 2026-07-04T00:00:00+02:00
+    start_time: "12:10"
+    end_time: "12:35"
+
+  - title: "Experience Exchange - Session 2"
+    type: open-space
+    date: 2026-07-04T00:00:00+02:00
+    start_time: "12:35"
+    end_time: "13:00"
+
+  - title: "Experience Exchange - Session 3"
+    type: open-space
+    date: 2026-07-04T00:00:00+02:00
+    start_time: "13:00"
+    end_time: "13:25"
+
+  - title: "Experience Exchange - Session 4"
+    type: open-space
+    date: 2026-07-04T00:00:00+02:00
+    start_time: "13:25"
+    end_time: "13:50"
+
+  - title: "Lunch Break"
+    type: custom
+    date: 2026-07-04T00:00:00+02:00
+    start_time: "13:50"
+    end_time: "14:30"
+
+  - title: "Lightning Talks"
+    type: custom
+    date: 2026-07-04T00:00:00+02:00
+    start_time: "14:30"
+    end_time: "15:30"
+    comments: |
+      - Mateusz Nalepa: Response times in services may not tell us the truth.
+      - Andrzej Amghar: Accelerating cloud onboarding self-service with Internal Developer Portals
+      - Igor Siemek: Centralized Microservice Logging with Grafana and Loki
+
+  - title: "Break"
+    type: custom
+    date: 2026-07-04T00:00:00+02:00
+    start_time: "15:30"
+    end_time: "15:40"
+
+  - title: "pomykala-pycia"
+    type: talk
+    date: 2026-07-04T00:00:00+02:00
+    start_time: "15:40"
+    end_time: "16:15"
+
+  - title: "alsaqaf-wasim"
+    type: talk
+    date: 2026-07-04T00:00:00+02:00
+    start_time: "16:15"
+    end_time: "16:50"
+
+  - title: "Wrap Up DevOpsDays"
+    type: custom
+    date: 2026-07-04T00:00:00+02:00
+    start_time: "16:50"
+    end_time: "17:00"
+
+  - title: "Afterparty"
+    type: custom
+    date: 2026-07-04T00:00:00+02:00
+    start_time: "17:00"
+    end_time: "21:00"
+
+ignites:
+  - title: "nalepa-mateusz"
+    date: 2026-07-04
+    block: "day1"
+  - title: "amghar-andrzej"
+    date: 2026-07-04
+    block: "day1"
+  - title: "siemek-igor"
+    date: 2026-07-04
+    block: "day1"
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
