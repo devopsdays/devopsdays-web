@@ -66,7 +66,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: community
   - id: foodfight
     level: community
-  - id: sdtp
+  - id: sdtp-before-20260521
     level: community
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
