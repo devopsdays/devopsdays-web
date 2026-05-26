@@ -23,7 +23,7 @@ With the ticket you get:
 </div>
 
 <p>
-If this doesn't work for you, registration can also be done here: <a href="https://ti.to/dod/dodzh2026">https://ti.to/dod/dodzh2026</a>
+If this doesn't work for you, registration can also be done here: <a href="https://ti.to/dod/dodzh2027">https://ti.to/dod/dodzh2027</a>
 </p>
 
 <p>
