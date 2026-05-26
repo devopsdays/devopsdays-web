@@ -208,23 +208,6 @@ With a welcoming code of conduct and a vibrant, respectful atmosphere, devopsday
 
 DevOpsDays Sibiu is organized **by volunteers**, for practitioners—no corporate sales pitches, just pure DevOps love. All proceeds go back into the community, supporting future events, scholarships, and local meetups.
 
-<div align="center" style="margin-top: 3rem; margin-bottom: 3rem;">
-  <h2 style="font-size: 2.5rem; font-weight: 600; margin: 0;">
-    Do you want to be a volunteer?
-  </h2>
-
-  <p style="margin-top: 1rem; margin-bottom: 0;">
-
-      href="https://docs.google.com/forms/d/e/1FAIpQLSdQkgb3ec3lN0ABZMuElaN9j8przNdc1ifR9ScsfjIBWv_Rng/viewform?usp=publish-editor"
-      target="_blank"
-      rel="noopener noreferrer"
-      style="font-size: 1.8rem; font-weight: 600; text-decoration: underline;"
-    >
-      Fill in the form
-    </a>
-  </p>
-</div>
-
 We are proud to host a sustainable, privacy-conscious, and waste-aware event. In line with this, we will not use lanyards. Instead, each badge will feature a paper label that is both eco-friendly and includes consent information.
 
 Our aim is to create an experience that honours the planet, respects your privacy, and nurtures a mindful, grounded atmosphere where everyone feels welcome and inspired.

@@ -89,8 +89,6 @@ sponsors:
     level: gold
   - id: ardan-labs
     level: gold
-#  - id: cto-tech
-#    level: silver
   - id: msg-systems
     level: bronze
   - id: pomerium
@@ -100,6 +98,8 @@ sponsors:
   - id: paulinadubas
     level: bronze
   - id: kubeevents
+    level: bronze
+  - id: itis-secure
     level: bronze
   - id: kubecareers
     level: media
@@ -196,7 +196,7 @@ program:
     type: talk
     date: 2026-05-27T00:00:00+03:00
     start_time: "13:30"
-    end_time: "14:00"
+    end_time: "14:15"
     comments: "Think Big - Betta Room"
 
   - title: "piscaer-joep"
@@ -209,8 +209,8 @@ program:
   - title: "duarte-alison"
     type: talk
     date: 2026-05-27T00:00:00+03:00
-    start_time: "14:00"
-    end_time: "14:45"
+    start_time: "14:10"
+    end_time: "15:00"
     comments: "Think Big - Betta Room"
 
 
@@ -218,9 +218,10 @@ program:
   - title: "Open spaces themes elicitation"
     type: custom
     date: 2026-05-27T00:00:00+03:00
-    start_time: "14:45"
-    end_time: "15:00"
+    start_time: "15:00"
+    end_time: "15:15"
     background_color: "#FFB566"
+    comments: "Think Big - Betta Room"
 
   - title: "kristina-kondrashevich"
     type: talk
@@ -232,8 +233,8 @@ program:
   - title: "traub-verena"
     type: talk
     date: 2026-05-27T00:00:00+03:00
-    start_time: "15:00"
-    end_time: "15:45"
+    start_time: "15:15"
+    end_time: "16:00"
     comments: "Think Big - Betta Room"
 
   - title: "datcu-andrei"
@@ -312,13 +313,6 @@ program:
     start_time: "10:55"
     end_time: "11:00"
 
-#  - title: "rotariu-sorin"
-#    type: talk
-#    date: 2026-05-28T00:00:00+03:00
-#    start_time: "11:00"
-#    end_time: "11:45"
-#    background_color: "#FFFFFF"
-#    comments: "Main Track - Hera Room"
 
   - title: "bodhanya-thameez"
     type: talk
@@ -412,14 +406,6 @@ program:
     end_time: "16:30"
     comments: "Think Big - Betta Room"
 
-#
-#  - title: "sandhu-suki-1"
-#    type: talk
-#    date: 2026-05-28T00:00:00+03:00
-#    start_time: "16:30"
-#    end_time: "17:15"
-#    comments: "Main Track - Hera Room"
-
   - title: "walter-florian"
     type: talk
     date: 2026-05-28T00:00:00+03:00
@@ -495,14 +481,8 @@ program:
     start_time: "11:00"
     end_time: "11:30"
 
-#  - title: "bako-orsolya"
-#    type: workshop
-#    date: 2026-05-29T00:00:00+03:00
-#    start_time: "11:00"
-#    end_time: "12:30"
-#    comments: "The Human Side of DevOps Track - Gamma Room"
 
-  - title: "dias-miguel"
+  - title: "mihu-raluca"
     type: workshop
     date: 2026-05-29T00:00:00+03:00
     start_time: "11:30"
@@ -544,9 +524,6 @@ program:
     end_time: "18:30"
 
 ignites:
-  - title: "ramdien-ryan"
-    date: 2026-05-27
-    block: "day1"
   - title: "friedman-eloise-ann"
     date: 2026-05-27
     block: "day1"
