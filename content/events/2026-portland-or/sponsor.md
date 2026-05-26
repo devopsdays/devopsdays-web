@@ -39,7 +39,7 @@ Historically, DevOpsDays PDX attracted 300 to 400 Oregon and Washington technolo
 | Snacks     | 2         | $1500 | 1       | None          | None               | None                        | Signage by Snacks       |
 {.table .table-bordered .table-hover .table-striped .table-responsive}
 
-<a href="https://assets.devopsdays.org/events/2026/portland/devopsdays-portland-2026-sponsor-prospectus.pdf" class="btn btn-primary"><i class="fa fa-folder fa-lg"></i>   View the DevOpsDays Portland 2026 Sponsor Prospectus</a>
+<a href="https://assets.devopsdays.org/events/2026/portland/devopsdays-pdx-2026-prospectus.pdf" class="btn btn-primary"><i class="fa fa-folder fa-lg"></i>   View the DevOpsDays Portland 2026 Sponsor Prospectus</a>
 
 ### Lead Gathering
 
