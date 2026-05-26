@@ -50,7 +50,7 @@ event_social_youtube: "" # Change this to the youtube channel handle for your ev
 social_shares: # ["email", "twitter", "facebook", "linkedin"]
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+ # - name: propose
  # - name: location
  # - name: registration
   - name: program
