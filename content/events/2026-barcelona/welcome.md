@@ -57,11 +57,10 @@ Description = "DevOpsDays Barcelona 2026"
     <strong>Dates</strong>
   </div>
   <div class = "col-md-8">
-    Nov 2026
+    {{< event_start >}} - {{< event_end >}}
   </div>
 </div>
 
-<!---
 <div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
@@ -70,7 +69,6 @@ Description = "DevOpsDays Barcelona 2026"
     {{< event_location >}}
   </div>
 </div>
---->
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -156,7 +154,7 @@ Description = "DevOpsDays Barcelona 2026"
                 <li><b>Plenty of Chances to Connect:</b> Meet new people, build relationships, and share ideas in a friendly and welcoming setting.</li>
             </ul>
             <p>
-                We're busy planning an awesome event, and we can't wait to welcome you back to DevOpsDays Barcelona. Keep an eye out for more details on specific dates, the location, and how to get involved as a speaker, sponsor or even a volunteer.
+                We're busy planning an awesome event, and we can't wait to welcome you back to DevOpsDays Barcelona. Keep an eye out for more details on how to get involved as a speaker, sponsor or even a volunteer.
             </p>
             <p>
                 <b>Let's make this return bigger and better than ever before!</b>

@@ -1,95 +1,29 @@
 +++
-Title = "devopsdays copenhagen 2026"
+Title = "DevOpsDays Copenhagen 2026 - CANCELLED"
 Type = "welcome"
-aliases = ["/events/2026-copenhagen/"]
-Description = "devopsdays copenhagen 2026"
+aliases = [
+    "/events/2026-copenhagen/",
+    "/events/2026-copenhagen/location/",
+    "/events/2026-copenhagen/propose/",
+    "/events/2026-copenhagen/sponsor/"
+]
+Description = "DevOpsDays copenhagen 2026"
 +++
 
-<div style="text-align:center;width:40vh;">
-  {{< event_logo >}}
+**DevOpsDays Copenhagen 2026 has been cancelled.**
+
+We are sorry to announce that DevOpsDays Copenhagen 2026 will not be taking place. 
+
+<a href="https://www.devopsdays.dk/stories/devops-is-broken/" target="_blank">
+  <img style="text-align:center;width:20vw;" alt="DevOps is Broken" src="https://www.devopsdays.dk/assets/images/index/devops-is-broken.jpg"/>
+</a>
+
+<div style="width:20vw;">
+<em>Is DevOps dead? The organizers of DevOpsDays Denmark experienced a severe drop in interest in participating in this year’s DevOpsDays conference. It is now cancelled, and the Danish DevOpsDays Association must review its bylaws.</em>
 </div>
 
-The event is on!  We're working hard behind the scenes to set this up. What we know at this point is the dates and location. More details will come later.
+&nbsp;</br>When we ask **_"Is DevOps dead"_** we hear: **_"No, but it transformed into Platform Engineering"_**. OK, but that's Ops, not DevOps. What happened to **_"You Build It, You Run It"_** and the **_"Break down the silos"_** promises?
 
-**🏇🏼 HURRY**: Head over to our public slack <a href="https://devopsdays-dk.slack.com" target="_blank">devopsdays-dk.slack.com</a> and join our community. 
+Click on the image above to read the story of the crashed conferences.
 
-Feel free to suggest a topic for a speak or an Open Space discussion. Our slack is also we're you'll get instant news about the event.
-
-Or send a mail to the organizers at <a href="{{< email_organizers >}}">{{< email_organizers >}}</a>
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Dates</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_start >}} - {{< event_end >}}
-  </div>
-</div>
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Location</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_location >}}
-  </div>
-</div> -->
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Register</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
-  </div>
-</div> -->
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Propose</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
-  </div>
-</div> -->
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Program</strong>
-  </div>
-  <div class = "col-md-8">
-    View the {{< event_link page="program" text="program." >}}
-  </div>
-</div> -->
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Speakers</strong>
-  </div>
-  <div class = "col-md-8">
-    Check out the {{< event_link page="speakers" text="speakers!" >}}
-  </div>
-</div> -->
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Sponsors</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="sponsor" text="Sponsor the conference!" >}}
-  </div>
-</div>
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Contact</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="contact" text="Get in touch with the organizers" >}}
-  </div>
-</div>
-
-<!-- Uncomment if you added your city twitter name -->
-<!--
-{{< event_twitter >}}
--->
+👉 Please reach out to the organizers via the contact page if you have any questions. 👈

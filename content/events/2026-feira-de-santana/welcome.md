@@ -85,7 +85,7 @@ a.jssocials-share-link, a.event-cta-button {
 
 <br><br>
 <p></p>
-<p><a href="https://forms.gle/H93kiVEjofe2QwiF9" target="_blank"><button type="button">ENVIE SUA PALESTRA</button></a></p>
+<p><a href="https://talks.devopsdays.org/feira-de-santana-2026/" target="_blank"><button type="button">ENVIE SUA PALESTRA</button></a></p>
 <p><a href="https://dodfsa2026.eventize.com.br/" target="_blank"><button>INSCREVA-SE</button></a></p>
 <p><a href="https://forms.gle/iHXKxDBnugiWydCh7"><button>SEJA UM SPONSOR</button></a></p>
 <p><a href="/events/2026-feira-de-santana/contact/"><button>CONTATO</button></a></p>

@@ -52,4 +52,5 @@ DevOpsDays Portland is a non-commercial, community-run event, so we do not have 
 ### Ready to sponsor?
 
 We can take payment directly, or we can set up an invoice for you. To get an invoice, email us at {{< email_organizers >}}. Otherwise, please reach out to us for a payment link. We look forward to working with you!
+
 <hr/>

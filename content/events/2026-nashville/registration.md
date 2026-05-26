@@ -5,17 +5,18 @@ Description = "Registration for devopsdays Nashville 2026"
 +++
 
 <hr>
-<div style="width:100%; text-align:left;">
+<!--<div style="width:100%; text-align:left;">
 <br>
 We wll be opening up registration very soon.  We look forward to seeing you at DevOpsDays Nashville!
-</div>
+</div> -->
 
-<!-- 
+
 <div style="width:100%; text-align:left;">
 <br>
-<h3><a href="https://events.humanitix.com/devopsdays-nashville-2026">Registration is now open!</a></h3>
+<h3><a href="https://events.humanitix.com/devopsdays-nashville-2026/tickets">Registration is now open!</a></h3>
 <br>
-<h5><i>Early bird pricing will go through April 10th!</i></h5> -->
+You're ticket includes free parking, breakfast, and lunch.
+<!-- <h5><i>Early bird pricing will go through April 10th!</i></h5> -->
 
 <!-- </div></div> -->
 </div>

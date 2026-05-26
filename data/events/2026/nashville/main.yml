@@ -14,17 +14,17 @@ startdate:  2026-05-14T00:00:00-06:00 # The start date of your event. Leave blan
 enddate:  2026-05-15T00:00:00-06:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
+cfp_date_start: 2026-01-09T00:00:00-06:00 # start accepting talk proposals.
+cfp_date_end: 2026-02-27T00:00:00-06:00 # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://www.papercall.io/devopsdaysnashville2026" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start: 2026-01-01T00:00:00-06:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2026-05-13T00:00:00-06:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://events.humanitix.com/devopsdays-nashville-2026" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -55,9 +55,9 @@ social_shares: # ["email", "twitter", "facebook", "linkedin"]
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
   - name: location
- # - name: registration
- # - name: program
- # - name: speakers
+  - name: registration
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -100,11 +100,34 @@ organizer_email: "nashville@devopsdays.org" # Put your organizer email address h
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  #- id: samplesponsorname
-  #  level: gold
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  #- id: arresteddevops
-  #  level: community
+ - id: kubeevents
+   level: media
+ - id: iacconf
+   level: media
+ - id: edgedelta
+   level: silver
+ - id: memphistechscene
+   level: media
+ - id: mtsu-isa
+   level: platinum
+ - id: xmatters
+   level: gold
+ - id: devitjobs
+   level: media
+ - id: pulumi
+   level: gold
+ - id: nss
+   level: media
+ - id: oreilly
+   level: media
+ - id: softwaredefinedtalk
+   level: media
+ - id: groundcover
+   level: gold
+ - id: oracle-mysql
+   level: gold
+ - id: issa-midtn
+   level: media
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -128,4 +151,149 @@ sponsor_levels:
   - id: startup
     label: Startup
     max: 2
+  - id: media
+    label: Media
+#    max: 10
 
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2026-05-14
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2026-05-14
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "robert-hoffman"
+    type: talk
+    date: 2026-05-14
+    start_time: "09:15"
+    end_time: "10:00"
+  - title: "elissa-shevinsky"
+    type: talk
+    date: 2026-05-14
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Break"
+    type: custom
+    date: 2026-05-14
+    start_time: "10:30"
+    end_time: "10:45"
+  - title: "kailas-jawadekar"
+    type: talk
+    date: 2026-05-14
+    start_time: "10:45"
+    end_time: "11:15"
+  - title: "Sponsors Talks"
+    type: custom
+    date: 2026-05-14
+    start_time: "11:15"
+    end_time: "11:30"
+  - title: "benv-savage1"
+    type: talk
+    date: 2026-05-14
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Open Spaces Introduction"
+    type: open-space
+    date: 2026-05-14
+    start_time: "12:00"
+    end_time: "12:15"
+  - title: "Lunch"
+    type: custom
+    date: 2026-05-14
+    start_time: "12:15"
+    end_time: "13:30"
+  - title: "Open Spaces Part One - Networking"
+    type: open-space
+    date: 2026-05-14
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "vivek-madem"
+    type: talk
+    date: 2026-05-14
+    start_time: "14:00"
+    end_time: "14:40"
+  - title: "Sponsors Talks"
+    type: custom
+    date: 2026-05-14
+    start_time: "14:40"
+    end_time: "14:45"   
+  - title: "michael-anthony"
+    type: talk
+    date: 2026-05-14
+    start_time: "14:45"
+    end_time: "15:15"  
+  - title: "john-willis"
+    type: talk
+    date: 2026-05-14
+    start_time: "15:15"
+    end_time: "16:15"
+
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2026-05-15
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2026-05-15
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "tyler-welton"
+    type: talk
+    date: 2026-05-15
+    start_time: "09:10"
+    end_time: "10:00"
+  - title: "brandon-hedge"
+    type: talk
+    date: 2026-05-15
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Break"
+    type: custom
+    date: 2026-05-15
+    start_time: "10:30"
+    end_time: "10:45"
+  - title: "chris-lee"
+    type: talk
+    date: 2026-05-15
+    start_time: "10:45"
+    end_time: "11:15"
+  - title: "camilla-martins"
+    type: talk
+    date: 2026-05-15
+    start_time: "11:15"
+    end_time: "11:45"
+  - title: "Getting Ready for Open Spaces"
+    type: open-space
+    date: 2026-05-15
+    start_time: "11:45"
+    end_time: "12:00"
+  - title: "Lunch"
+    type: custom
+    date: 2026-05-15
+    start_time: "12:00"
+    end_time: "13:15"
+  - title: "Open Spaces Part Two - Tech Talk"
+    type: open-space
+    date: 2026-05-15
+    start_time: "13:15"
+    end_time: "14:15"
+  - title: "benv-savage2"
+    type: talk
+    date: 2026-05-15
+    start_time: "14:15"
+    end_time: "15:15"
+  - title: "sharath-thirunagaru"
+    type: talk
+    date: 2026-05-15
+    start_time: "15:15"
+    end_time: "15:45"
+  - title: "Closing - Sponsor Raffles and Prizes"
+    type: custom
+    date: 2026-05-15
+    start_time: "15:45"
+    end_time: "16:15"

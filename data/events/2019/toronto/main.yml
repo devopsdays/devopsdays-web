@@ -67,7 +67,7 @@ proposal_email: "proposals-toronto-2019@devopsdays.org" # Put your proposal emai
 sponsors:
   - id: indellient
     level: gold
-  - id: xmatters
+  - id: xmatters-before-20260131
     level: gold
   - id: blendedperspectives-before-20200305
     level: platinum

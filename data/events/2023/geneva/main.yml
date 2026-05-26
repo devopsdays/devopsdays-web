@@ -108,7 +108,7 @@ sponsors:
     level: community
   - id: pictet
     level: gold
-  - id: dbi-services
+  - id: dbi-services-before-20260119
     level: silver
   - id: exoscale
     level: gold
@@ -128,7 +128,7 @@ sponsors:
     level: gold
   - id: globaz
     level: silver
-  - id: sonarsource
+  - id: sonarsource-before-20260330
     level: gold
   - id: infomaniak-before-20241013
     level: bronze
@@ -138,7 +138,7 @@ sponsors:
     level: silver
   - id: socraft
     level: bronze
-  - id: f5-nginx
+  - id: f5-nginx-before-20260422
     level: bronze
   - id: wiz
     level: silver
