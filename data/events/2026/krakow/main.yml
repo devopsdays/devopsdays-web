@@ -149,7 +149,7 @@ program:
     start_time: "11:10"
     end_time: "11:30"
 
-  - title: "Experience Exchange Setup"
+  - title: "Experience Exchange Setup (aka Open Space)"
     type: open-space
     date: 2026-07-04T00:00:00+02:00
     start_time: "11:30"
@@ -225,16 +225,6 @@ program:
     start_time: "17:00"
     end_time: "21:00"
 
-ignites:
-  - title: "nalepa-mateusz"
-    date: 2026-07-04
-    block: "day1"
-  - title: "amghar-andrzej"
-    date: 2026-07-04
-    block: "day1"
-  - title: "siemek-igor"
-    date: 2026-07-04
-    block: "day1"
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
