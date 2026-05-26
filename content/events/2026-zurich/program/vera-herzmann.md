@@ -8,7 +8,7 @@ title = "Neurodiversity: An Underrated Superpower in Business"
 type = "talk"
 speakers = ["vera-herzmann"]
 youtube = ""
-vimeo = "1195135836?h=786c539e35"
+vimeo = ""
 speakerdeck = ""
 slideshare = ""
 slides = ""

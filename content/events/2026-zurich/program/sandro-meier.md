@@ -8,7 +8,7 @@ title = "DevOps on 36 Ton Machines: Shipping Software to Autonomous Excavators i
 type = "talk"
 speakers = ["sandro-meier"]
 youtube = ""
-vimeo = "1195144716?h=bee9e82c5d"
+vimeo = ""
 speakerdeck = ""
 slideshare = ""
 slides = ""

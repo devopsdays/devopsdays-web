@@ -8,7 +8,7 @@ title = "Beyond SBOMs: The Future of Container Supply Chain Security"
 type = "talk"
 speakers = ["mohammad-ali-arabi"]
 youtube = ""
-vimeo = "1195132671?h=67d9d9758f"
+vimeo = ""
 speakerdeck = ""
 slideshare = ""
 slides = ""

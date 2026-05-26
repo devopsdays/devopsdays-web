@@ -8,7 +8,7 @@ title = "From Firefighting to Flow: Building Calm and Resilience in a High-Relia
 type = "talk"
 speakers = ["olga-kristjansdottir"]
 youtube = ""
-vimeo = "1195128844?h=4ef26d50d4"
+vimeo = ""
 speakerdeck = ""
 slideshare = ""
 slides = ""

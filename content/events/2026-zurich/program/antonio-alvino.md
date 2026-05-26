@@ -8,7 +8,7 @@ title = "Why Living Documentation is Cool"
 type = "talk"
 speakers = ["antonio-alvino"]
 youtube = ""
-vimeo = "1195143752?h=d7142592af"
+vimeo = ""
 speakerdeck = ""
 slideshare = ""
 slides = ""

@@ -8,7 +8,7 @@ title = "Pragmatic AI Adopton is Hard!"
 type = "talk"
 speakers = ["lena-fuhrimann"]
 youtube = ""
-vimeo = "1195143035?h=8afa81e9b2"
+vimeo = ""
 speakerdeck = ""
 slideshare = ""
 slides = ""

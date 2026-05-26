@@ -8,7 +8,7 @@ title = "When Your \"New Teammate\" Hallucinates: Observability as the Safety Ne
 type = "talk"
 speakers = ["florian-mair"]
 youtube = ""
-vimeo = "1195133620?h=1935c1fbb8"
+vimeo = ""
 speakerdeck = ""
 slideshare = ""
 slides = ""

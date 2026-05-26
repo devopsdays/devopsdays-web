@@ -8,7 +8,7 @@ title = "Engineering & Ethics: Responsibility by Design"
 type = "talk"
 speakers = ["bertrand-delacretaz"]
 youtube = ""
-vimeo = "1195118923?h=299099b289"
+vimeo = ""
 speakerdeck = ""
 slideshare = ""
 slides = ""

@@ -8,7 +8,7 @@ title = "Excellent collaboration. The basics."
 type = "talk"
 speakers = ["denniz-donmez", "simon-berg"]
 youtube = ""
-vimeo = "1195137762?h=1adec9eed0"
+vimeo = ""
 speakerdeck = ""
 slideshare = ""
 slides = ""

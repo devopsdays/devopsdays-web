@@ -8,7 +8,7 @@ title = "Speak Up: Your Story Matters"
 type = "talk"
 speakers = ["iris-hunkeler"]
 youtube = ""
-vimeo = "1195135094?h=6e303dcdfc"
+vimeo = ""
 speakerdeck = ""
 slideshare = ""
 slides = ""

@@ -8,7 +8,7 @@ title = "Why your CI/CD processes should include your ERP systems"
 type = "talk"
 speakers = ["martin-fischer"]
 youtube = ""
-vimeo = "1195141898?h=acf08634aa"
+vimeo = ""
 speakerdeck = ""
 slideshare = ""
 slides = ""

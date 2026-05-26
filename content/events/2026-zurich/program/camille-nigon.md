@@ -8,7 +8,7 @@ title = "The playbook for a sovereign Model-as-a-Service platform"
 type = "talk"
 speakers = ["camille-nigon"]
 youtube = ""
-vimeo = "1195130316?h=4ec248becc"
+vimeo = ""
 speakerdeck = ""
 slideshare = ""
 slides = ""

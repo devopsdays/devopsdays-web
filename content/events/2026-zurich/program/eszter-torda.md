@@ -8,7 +8,7 @@ title = "What is a Scrum Master good for?"
 type = "talk"
 speakers = ["eszter-torda"]
 youtube = ""
-vimeo = "1195140911?h=7a7a29d467"
+vimeo = ""
 speakerdeck = ""
 slideshare = ""
 slides = ""
