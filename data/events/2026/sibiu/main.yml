@@ -73,13 +73,6 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/ovicostea"
     bio: "Senior DevOps Engineer with a strong focus on scaling products and optimizing their entire lifecycle. Works as a contractor and freelancer, bringing practical experience in DevOps and infrastructure to deliver efficient, results-driven solutions. Combines software engineering skills with a no-nonsense approach to improving system reliability and performance."
 
-  - name: "Valentin-Marius Amza "
-    image: "amza.jpg"
-    employer: "Swiss Webacademy"
-    github: "devopsdays"
-    linkedin: "https://www.linkedin.com/in/amza-valentin-marius/"
-    bio: "Marius Amza serves as the Director of Swiss WebBusiness SRL and as the Vice President of the Swiss Webacademy. He holds Swiss certifications as a Web Software Engineer, Web Developer, and Web Designer, and has overseen the coordination and development of numerous international projects within the web domain. As an Associate Professor at the Swiss University - Haute École Arc Ingénierie, Marius teaches courses on Software Engineering and Agile Methods as part of the MAS-RAD master's program. Additionally, he has instructed Web Security courses at HEIG-VD - Haute Ecole d'Ingénierie et de Gestion in Switzerland. Furthermore, he has supervised undergraduate internships for Swiss students. With over 10 years of experience as an IT Trainer, Marius has taught courses for both aspiring specialists and numerous private companies and governmental institutions in Romania, focusing on Web Development, OSINT, Cybersecurity, Web Design, Programming, and Information Security. For the past 6 years, Marius has also served as an Associate Professor at the University of Franche-Comté (Belfort-Montbéliard), teaching web technology courses. Together with the Swiss WebAcademy team, he is actively involved in organizing Cybersecurity Congresses in Romania, Switzerland, and Italy. He contributes to the development of online platforms for these congresses and designs courses tailored to the participants' needs."
-
 organizer_email: "sibiu@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
@@ -90,16 +83,12 @@ sponsors:
   #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: synchromind
     level: gold
-  - id: swiss-web-academy
-    level: gold
   - id: skylite-tek
     level: gold
   - id: general-engineering--management-solutions
     level: gold
   - id: ardan-labs
     level: gold
-  - id: cto-tech
-    level: silver
   - id: msg-systems
     level: bronze
   - id: pomerium
@@ -108,15 +97,19 @@ sponsors:
     level: bronze
   - id: paulinadubas
     level: bronze
-  - id: kubecareers
-    level: media
   - id: kubeevents
+    level: bronze
+  - id: itis-secure
+    level: bronze
+  - id: kubecareers
     level: media
   - id: women4cyber
     level: community
   - id: scoalainformala
     level: community
   - id: emailtree-ai
+    level: community
+  - id: swiss-web-academy
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -152,12 +145,13 @@ program:
     start_time: "10:55"
     end_time: "11:00"
 
-  - title: "piscaer-joep-1"
+  - title: "rotariu-sorin"
     type: talk
     date: 2026-05-27T00:00:00+03:00
     start_time: "11:00"
     end_time: "11:45"
-    background_color: "#FFFFFF"
+    background_color: "#a8d5ba"
+    text_color: "#FFFFFF"
     comments: "Main Track - Hera Room"
 
   - title: "taylor-nick"
@@ -202,7 +196,7 @@ program:
     type: talk
     date: 2026-05-27T00:00:00+03:00
     start_time: "13:30"
-    end_time: "14:00"
+    end_time: "14:15"
     comments: "Think Big - Betta Room"
 
   - title: "piscaer-joep"
@@ -215,8 +209,8 @@ program:
   - title: "duarte-alison"
     type: talk
     date: 2026-05-27T00:00:00+03:00
-    start_time: "14:00"
-    end_time: "14:45"
+    start_time: "14:10"
+    end_time: "15:00"
     comments: "Think Big - Betta Room"
 
 
@@ -224,9 +218,10 @@ program:
   - title: "Open spaces themes elicitation"
     type: custom
     date: 2026-05-27T00:00:00+03:00
-    start_time: "14:45"
-    end_time: "15:00"
+    start_time: "15:00"
+    end_time: "15:15"
     background_color: "#FFB566"
+    comments: "Think Big - Betta Room"
 
   - title: "kristina-kondrashevich"
     type: talk
@@ -235,11 +230,11 @@ program:
     end_time: "15:45"
     comments: "Main Track - Hera Room"
 
-  - title: "traub-verena-2"
+  - title: "traub-verena"
     type: talk
     date: 2026-05-27T00:00:00+03:00
-    start_time: "15:00"
-    end_time: "15:45"
+    start_time: "15:15"
+    end_time: "16:00"
     comments: "Think Big - Betta Room"
 
   - title: "datcu-andrei"
@@ -262,6 +257,28 @@ program:
     end_time: "18:15"
     comments: "Main Track - Hera Room"
     background_color: "#93C5FD"
+
+  - title: "Round 1 of open spaces"
+    type: custom
+    date: 2026-05-27T00:00:00+03:00
+    start_time: "16:45"
+    end_time: "17:15"
+    background_color: "#FFB566"
+    comments: "Betta and Gamma Rooms"
+
+  - title: "Break"
+    type: custom
+    date: 2026-05-27T00:00:00+03:00
+    start_time: "17:15"
+    end_time: "17:30"
+
+  - title: "Round 2 of open spaces"
+    type: custom
+    date: 2026-05-27T00:00:00+03:00
+    start_time: "17:30"
+    end_time: "18:00"
+    background_color: "#FFB566"
+    comments: "Betta and Gamma Rooms"
 
   - title: "Day 1 Raffle winners + Closing of the day"
     type: custom
@@ -296,15 +313,15 @@ program:
     start_time: "10:55"
     end_time: "11:00"
 
-  - title: "rotariu-sorin"
+
+  - title: "bodhanya-thameez"
     type: talk
     date: 2026-05-28T00:00:00+03:00
     start_time: "11:00"
     end_time: "11:45"
-    background_color: "#FFFFFF"
     comments: "Main Track - Hera Room"
 
-  - title: "bodhanya-thameez"
+  - title: "sandhu-suki-1"
     type: talk
     date: 2026-05-28T00:00:00+03:00
     start_time: "11:45"
@@ -389,20 +406,12 @@ program:
     end_time: "16:30"
     comments: "Think Big - Betta Room"
 
-
-  - title: "sandhu-suki-1"
-    type: talk
-    date: 2026-05-28T00:00:00+03:00
-    start_time: "16:30"
-    end_time: "17:15"
-    comments: "Main Track - Hera Room"
-
   - title: "walter-florian"
     type: talk
     date: 2026-05-28T00:00:00+03:00
     start_time: "16:30"
     end_time: "17:15"
-    comments: "Think Big - Betta Room"
+    comments: "Main Track - Hera Room"
 
   - title: "Break"
     type: custom
@@ -455,81 +464,66 @@ program:
   - title: "Kick off Workshop Day"
     type: custom
     date: 2026-05-29T00:00:00+03:00
-    start_time: "10:45"
-    end_time: "11:00"
+    start_time: "09:45"
+    end_time: "10:00"
 
 
   - title: "bodhanya-thameez-1"
     type: workshop
     date: 2026-05-29T00:00:00+03:00
-    start_time: "11:00"
-    end_time: "12:30"
+    start_time: "10:00"
+    end_time: "11:00"
     comments: "DevSecOps Track - Betta Room"
 
-  - title: "bako-orsolya"
-    type: workshop
+  - title: "Break"
+    type: custom
     date: 2026-05-29T00:00:00+03:00
     start_time: "11:00"
-    end_time: "12:30"
-    comments: "The Human Side of DevOps Track - Gamma Room"
+    end_time: "11:30"
+
+
+  - title: "mihu-raluca"
+    type: workshop
+    date: 2026-05-29T00:00:00+03:00
+    start_time: "11:30"
+    end_time: "13:00"
+    comments: "DevSecOps Track - Betta Room"
+
 
   - title: "Lunch"
     type: custom
     date: 2026-05-29T00:00:00+03:00
-    start_time: "12:30"
-    end_time: "13:30"
+    start_time: "13:00"
+    end_time: "14:00"
     comments: "Ramada Restaurant"
 
   - title: "adeniji-adeola"
     type: workshop
     date: 2026-05-29T00:00:00+03:00
-    start_time: "13:30"
-    end_time: "15:00"
+    start_time: "14:00"
+    end_time: "15:30"
     comments: "DevSecOps Track - Betta Room"
+
+  - title: "Break"
+    type: custom
+    date: 2026-05-29T00:00:00+03:00
+    start_time: "15:30"
+    end_time: "16:00"
 
   - title: "sandhu-suki"
     type: workshop
     date: 2026-05-29T00:00:00+03:00
-    start_time: "13:30"
-    end_time: "15:00"
-    comments: "The Human Side of DevOps Track - Gamma Room"
-
-  - title: "Break"
-    type: custom
-    date: 2026-05-29T00:00:00+03:00
-    start_time: "15:00"
-    end_time: "15:30"
-
-  - title: "dias-miguel"
-    type: workshop
-    date: 2026-05-29T00:00:00+03:00
-    start_time: "15:00"
-    end_time: "17:00"
-    comments: "DevSecOps Track - Betta Room"
-
-  - title: "mihu-raluca"
-    type: workshop
-    date: 2026-05-29T00:00:00+03:00
-    start_time: "15:00"
-    end_time: "17:00"
-    comments: "he Human Side of DevOps Track - Gamma Room"
-
-  - title: "Break"
-    type: custom
-    date: 2026-05-29T00:00:00+03:00
-    start_time: "17:00"
+    start_time: "16:00"
     end_time: "17:30"
+    comments: "The Human Side of DevOps Track - Betta Room"
 
   - title: "Networking"
     type: custom
     date: 2026-05-29T00:00:00+03:00
-    start_time: "18:30"
-    end_time: "19:30"
+    start_time: "17:30"
+    end_time: "18:30"
 
 ignites:
-  - title: "ramdien-ryan"
-    date: 2026-05-27
-    block: "day1"
   - title: "friedman-eloise-ann"
     date: 2026-05-27
     block: "day1"
