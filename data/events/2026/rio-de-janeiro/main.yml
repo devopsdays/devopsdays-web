@@ -96,7 +96,14 @@ organizer_email: "rio-de-janeiro@devopsdays.org" # Put your organizer email addr
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
   #Diamond Sponsors
+  - id: realcloud
+    level: diamond
 
+  - id: fiap
+    level: diamond
+
+  - id: alura
+    level: diamond
   #Gold Sponsors
 
   #Silver Sponsors
@@ -107,6 +114,7 @@ sponsors:
 
   - id: docker-rio
     level: community
+
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
