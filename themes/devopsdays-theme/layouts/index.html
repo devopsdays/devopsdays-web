@@ -1,77 +1,65 @@
 {{ define "main" }}
 
+    {{- $upcoming := partialCached "functions/get-upcoming-events" . "global" -}}
 
-    {{- $.Scratch.Add "i" 1 -}}
-
-    {{- $upcoming := slice -}}
-    {{- $upcoming = partial "functions/get-upcoming-events" . -}}
-
+    <h1 class="sr-only">Upcoming DevOpsDays Events</h1>
     <div class="row">
         {{- range sort $upcoming "startdate" -}}
             {{- if .startdate -}}
                 {{- if ne .cancel "true" -}}
-            <!-- Subtracting a day is a patch for https://github.com/devopsdays/devopsdays-theme/issues/656 -->
-                    {{- if ge (time .enddate) now -}}
-                    {{- $.Scratch.Set "city" .city -}}
-                    {{- $.Scratch.Set "year" .year -}}
-                    {{- $.Scratch.Set "logo" "unset" -}}
-                    <div class="col-md-3 homepage-grid-col">
-                        {{- $.Scratch.Set "subdir" .name -}}
-                        {{- $.Scratch.Set "assetsdir" (printf "assets/events/%s/" ($.Scratch.Get "subdir")) -}}
-                        {{- $.Scratch.Set "contentdir" (printf "static/events/%s/" ($.Scratch.Get "subdir")) -}}
-                        {{- if (where (readDir "assets/events") "Name" ($.Scratch.Get "subdir")) -}}
-                            <!-- get the logo for front page here -->
-                            {{- if (where (readDir ($.Scratch.Get "assetsdir")) "Name" "logo-square.png") -}}
-                                {{- $.Scratch.Set "squarelogofile" "logo-square.png" -}}
-                            {{- else -}}
-                                {{- if (where (readDir ($.Scratch.Get "assetsdir")) "Name" "logo.png") -}}
-                                    {{- $.Scratch.Set "squarelogofile" "logo.png" -}}
-                                {{- else -}}
-                                    {{- $.Scratch.Set "squarelogofile" "" -}}
-                                {{- end -}}
+                    {{- if ge (time.AsTime .enddate) now -}}
+                    <div class="col-sm-6 col-md-4 col-lg-3 homepage-grid-col">
+                        {{- $logo := "unset" -}}
+                        {{- $subdir := .name -}}
+                        {{- $assetsdir := printf "assets/events/%s/" $subdir -}}
+                        {{- if where (os.ReadDir "assets/events") "Name" $subdir -}}
+                            {{- $squarelogofile := "" -}}
+                            {{- if where (os.ReadDir $assetsdir) "Name" "logo-square.png" -}}
+                                {{- $squarelogofile = "logo-square.png" -}}
+                            {{- else if where (os.ReadDir $assetsdir) "Name" "logo.png" -}}
+                                {{- $squarelogofile = "logo.png" -}}
                             {{- end -}}
 
-                            {{- if ($.Scratch.Get "squarelogofile") -}}
-                                {{- $imagelocation := (printf "events/%s/%s" .name ($.Scratch.Get "squarelogofile")) -}}
+                            {{- if $squarelogofile -}}
+                                {{- $imagelocation := printf "events/%s/%s" .name $squarelogofile -}}
                                 {{- $imageresource := resources.Get $imagelocation -}}
                                 {{- $imagefile := $imageresource.Resize "236x236 webp Lanczos q100 Center" -}}
-                                <a href='{{ (printf "/events/%s" .name) }}'><img src='{{ $imagefile.RelPermalink  }}' class="img-fluid" alt="devopsdays {{ .city }}"/></a>
-                                {{- $.Scratch.Set "logo" "set" -}}
+                                <a href='{{ printf "/events/%s" .name }}'>
+                                    <img src='{{ $imagefile.RelPermalink }}' class="img-fluid" alt="devopsdays {{ .city }}" loading="lazy" width="236" height="236">
+                                </a>
+                                {{- $logo = "set" -}}
                             {{- end -}}
                         {{- end -}}
-                        {{- if ne ($.Scratch.Get "logo") "set" -}}
-                                {{- $imagelocation := "img/event-logo-square.png" -}}
-                                {{- $imageresource := resources.Get $imagelocation -}}
-                                {{- $imagefile := $imageresource.Resize "236x236 webp Lanczos q100 Center" -}}
-                            <a href='{{ (printf "/events/%s" .name) }}'><img src='{{ $imagefile.RelPermalink  }}' class="img-fluid" alt="devopsdays {{ .city }}"/></a>
+                        {{- if ne $logo "set" -}}
+                            {{- $imageresource := resources.Get "img/event-logo-square.png" -}}
+                            {{- $imagefile := $imageresource.Resize "236x236 webp Lanczos q100 Center" -}}
+                            <a href='{{ printf "/events/%s" .name }}'>
+                                <img src='{{ $imagefile.RelPermalink }}' class="img-fluid" alt="devopsdays {{ .city }}" loading="lazy" width="236" height="236">
+                            </a>
                         {{- end -}}
-                        <br/>
-                {{- if or (ne (time .startdate).Month (time .enddate).Month) (ne (time .startdate).Day (time .enddate).Day) -}}
-                        <span class="homepage-grid-date">
-                        {{ if ne (time .startdate).Month (time .enddate).Month }}
-                            {{ dateFormat "Jan 2" .startdate }} - {{ dateFormat "Jan 2, 2006" .enddate }}<br />
-                        {{ else }}
-                            {{ dateFormat "Jan 2" .startdate }} - {{ dateFormat "2, 2006" .enddate }}<br />
-                        {{ end }}
+
+                        {{- $start := time.AsTime .startdate -}}
+                        {{- $end := time.AsTime .enddate -}}
+                        {{- if or (ne $start.Month $end.Month) (ne $start.Day $end.Day) -}}
+                            <span class="homepage-grid-date">
+                            {{- if ne $start.Month $end.Month -}}
+                                {{ time.Format "Jan 2" .startdate }} &ndash; {{ time.Format "Jan 2, 2006" .enddate }}
+                            {{- else -}}
+                                {{ time.Format "Jan 2" .startdate }} &ndash; {{ time.Format "2, 2006" .enddate }}
+                            {{- end -}}
+                            </span>
+                        {{- else -}}
+                            <span class="homepage-grid-date">
+                                {{ time.Format "Jan 2, 2006" .startdate }}
+                            </span>
+                        {{- end -}}
+                        <span class="homepage-grid-city">
+                            <a href='{{ printf "/events/%s" .name }}'>{{ .city }}</a>
                         </span>
-                {{- else -}}
-                        <span class="homepage-grid-date">
-                    {{ dateFormat "Jan 2, 2006" .startdate }}<br />
-                        </span>
-                {{- end -}}
-                    <span class="homepage-grid-city">
-                        <a href='{{ (printf "/events/%s" .name) }}'>{{ .city }}</a>
-                    </span>
-                        </div>
-                        {{- if modBool ($.Scratch.Get "i") 4 -}}
                     </div>
-                    <div class="row">
-                        {{- end -}}
-                        {{ $.Scratch.Add "i" 1 }}
-                        {{- end -}}
-                    {{- end -}}<!-- end cancel check-->
-                {{- end -}}<!-- end startdate check -->
-            {{- end -}} <!-- end range -->
-        </div>
-        <!-- <div id="share"></div> -->
+                    {{- end -}}
+                {{- end -}}
+            {{- end -}}
+        {{- end -}}
+    </div>
 {{- end -}}

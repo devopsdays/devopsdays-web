@@ -1,7 +1,5 @@
-<!-- this function takes in the permalink of an event and returns the index for the event's data file -->
 {{- $slug := (index (split ($.Page.Permalink | relURL) "/") 2) -}}
 {{- if not $slug -}}
-  {{- /* Fallback: try to get slug from file path */ -}}
   {{- $pathParts := split $.Page.File.Dir "/" -}}
   {{- $slug = index $pathParts 1 -}}
 {{- end -}}
@@ -9,11 +7,11 @@
 {{- if $slug -}}
   {{- $year := (index (split $slug "-" ) 0) -}}
   {{- $city := substr $slug 5 -}}
-  {{- $e = index $.Site.Data.events $year $city "main" -}}
+  {{- $e = index site.Data.events $year $city "main" -}}
   {{- if $e -}}
-    {{- $p := index $.Site.Data.events $year $city "program" -}}
-    {{- $s := index $.Site.Data.events $year $city "sponsors" -}}
-    {{- $o := index $.Site.Data.events $year $city "organizers" -}}
+    {{- $p := index site.Data.events $year $city "program" -}}
+    {{- $s := index site.Data.events $year $city "sponsors" -}}
+    {{- $o := index site.Data.events $year $city "organizers" -}}
     {{- if fileExists (printf "/data/events/%s/%s/program.yml" $year $city) -}} 
       {{- $e = merge $p $e -}}
     {{- end -}}

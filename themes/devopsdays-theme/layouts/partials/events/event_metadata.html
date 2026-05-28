@@ -1,46 +1,39 @@
 {{- $e := partial "functions/get-event-data" . -}}
 
-{{- $.Scratch.Set "contentdir" (printf "static/events/%s/" $e.name) -}}
+{{- $contentdir := printf "static/events/%s/" $e.name -}}
+{{- $image_url := "/img/event-logo-square.jpg" -}}
 
-{{- if (where (readDir "static/events") "Name" $e.name) -}}
-
-  {{- if (where (readDir ($.Scratch.Get "contentdir")) "Name" "logo.jpg") -}}
-    {{- $.Scratch.Set "image_url" ((printf "/events/%s/logo.jpg" $e.name) ) -}}
+{{- if where (os.ReadDir "static/events") "Name" $e.name -}}
+  {{- if where (os.ReadDir $contentdir) "Name" "logo.jpg" -}}
+    {{- $image_url = printf "/events/%s/logo.jpg" $e.name -}}
   {{- else -}}
-    {{- $.Scratch.Set "image_url" ((printf "/events/%s/logo.png" $e.name) ) -}}
+    {{- $image_url = printf "/events/%s/logo.png" $e.name -}}
   {{- end -}}
-
-{{- else -}}
-    {{- $.Scratch.Set "image_url" ("/img/event-logo-square.jpg" ) -}}
 {{- end -}}
 
-
-
 {{- if and $e.startdate $e.location_address -}}
-
   <script type="application/ld+json">
   {
     "@context": "http://schema.org",
     "@type": "ExhibitionEvent",
-    {{ if $e.description }}
-      "description": "{{ $e.description | htmlEscape | htmlUnescape | safeHTML}}",
-    {{ else }}
+    {{- with $e.description }}
+      "description": "{{ . | htmlEscape | htmlUnescape | safeHTML }}",
+    {{- else }}
       "description": "The conference that brings development and operations together.",
-    {{ end }}
+    {{- end }}
     "name": "devopsdays {{ $e.city }} {{ $e.year }}",
     "startDate": "{{ $e.startdate }}",
     "endDate": "{{ $e.enddate }}",
-    "url": "{{ .Permalink  }}",
-    "image": "{{ $.Scratch.Get "image_url" }}",
+    "url": "{{ .Permalink }}",
+    "image": "{{ $image_url }}",
     "location": {
       "@type": "Place",
-      {{ if eq $e.city $e.location }}
+      {{- if eq $e.city $e.location }}
         "name": "{{ $e.city }}",
-      {{ else }}
+      {{- else }}
         "name": "{{ $e.location }}, {{ $e.city }}",
-      {{ end }}
+      {{- end }}
       "address": "{{ $e.location_address }}"
-
     }
   }
   </script>

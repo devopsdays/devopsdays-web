@@ -1,0 +1,19 @@
+{{ define "main" }}
+
+<h1>{{ .Title }}</h1>
+{{ .Content }}
+
+{{ if .Pages }}
+<ul class="list-unstyled">
+  {{- range .Pages -}}
+    <li class="mb-3">
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+      {{- if not .Date.IsZero -}}
+        <small class="text-muted d-block">{{ dateFormat "02 January, 2006" .Date }}</small>
+      {{- end -}}
+    </li>
+  {{- end -}}
+</ul>
+{{ end }}
+
+{{ end }}

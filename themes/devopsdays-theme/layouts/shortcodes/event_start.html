@@ -1,6 +1,6 @@
 {{- $e := partial "functions/get-event-data" . -}}
 {{- if $e.startdate -}}
-  {{ dateFormat "Monday, Jan 2, 2006" $e.startdate }}
+  {{ time.Format "Monday, Jan 2, 2006" $e.startdate }}
 {{- else -}}
   TBD
 {{- end -}}
