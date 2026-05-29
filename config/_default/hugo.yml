@@ -15,7 +15,7 @@ markup:
     renderer:
       unsafe: true
     parser:
-      attributes:
+      attribute:
         block: true
         title: true
 languages:
