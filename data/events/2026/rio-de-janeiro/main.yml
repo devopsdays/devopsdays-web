@@ -105,7 +105,8 @@ sponsors:
   - id: alura
     level: diamond
   #Gold Sponsors
-
+  - id: stone
+    level: gold
   #Silver Sponsors
 
   #Community
