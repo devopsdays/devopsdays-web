@@ -14,11 +14,14 @@ startdate:  2026-08-22
 enddate: 2026-08-22 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  2026-05-04
-cfp_date_end: 2026-06-04 # close your call for proposals.
-cfp_date_announce:  2026-07-01 # inform proposers of status
+cfp_date_start:  2026-06-01
+cfp_date_end: 2026-06-30 # close your call for proposals.
+cfp_date_announce:  2026-07-06 # inform proposers of status
 
-cfp_link: "https://docs.google.com/forms/d/e/1FAIpQLSeChGZYpb-mgf9ZRjwakxw2kI-rClvGznMSbNWt9gRlS0_Qyw/viewform?usp=sharing&ouid=112487201128440763752" 
+
+cfp_link: "https://talks.devopsdays.org/devopsdays-curitiba-2026/cfp"
+
+
 #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2026-07-27 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
