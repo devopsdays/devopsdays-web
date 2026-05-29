@@ -10,8 +10,8 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2026-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate:  2026-11-13T00:00:00+02:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2026-11-14T00:00:00+02:00  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate:  2026-11-13T00:00:00+01:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2026-11-14T23:59:59+01:00  # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2026-04-07T00:00:00+02:00 # start accepting talk proposals.
@@ -144,6 +144,8 @@ organizer_email: "barcelona@devopsdays.org" # Put your organizer email address h
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: kubeevents
+    level: media
 #  - id: samplesponsorname
 #    level: gold
 # #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
@@ -157,14 +159,14 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-#  - id: gold
-#    label: Gold
-##    max: 10
-#  - id: silver
-#    label: Silver
-#    max: 0 # This is the same as omitting the max limit.
-#  - id: bronze
-#    label: Bronze
-#  - id: community
-#    label: Community
+    - id: platinum
+      label: Platinum
+    - id: gold
+      label: Gold
+    - id: workshop
+      label: Workshop
+    - id: supporter
+      label: Supporter
+    - id: media
+      label: Media
 
