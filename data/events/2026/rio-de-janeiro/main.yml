@@ -19,7 +19,7 @@ timeoffset: "-0300"
 cfp_date_start:  2026-02-18T00:00:00-03:00
 cfp_date_end:  2026-05-18T00:00:00-03:00
 cfp_date_announce:  2026-06-13T09:00:00-03:00
-cfp_open: "true"
+cfp_open: "false"
 cfp_link: "https://docs.google.com/forms/d/e/1FAIpQLSeCMPHylPeaa2KoMvldH2kphLQJ6UIED_IJ3vZwvZEH7-N-aA/viewform"
 
 registration_date_start: 2026-03-04T09:00:00-03:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
@@ -96,7 +96,14 @@ organizer_email: "rio-de-janeiro@devopsdays.org" # Put your organizer email addr
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
   #Diamond Sponsors
+  - id: realcloud
+    level: diamond
 
+  - id: fiap
+    level: diamond
+
+  - id: alura
+    level: diamond
   #Gold Sponsors
 
   #Silver Sponsors
@@ -107,6 +114,7 @@ sponsors:
 
   - id: docker-rio
     level: community
+
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
