@@ -23,7 +23,7 @@ Description = "DevOpsDays + AI Nashville 2026"
     <h1>Welcome to DevOps Days + AI Nashville 2026</h1>
     <p>DevOps Days + AI will be coming back to {{< event_location >}} on May 14th and 15th.</p>
     <h2><a href="https://events.humanitix.com/devopsdays-nashville-2026" target="_blank">Register now!</a></h2>
-    <p><strong>Register now!  Early bird pricing ends on January 30th!</strong></p>
+    <!--<p><strong>Register now!  Early bird pricing ends on January 30th!</strong></p> -->
     <hr>
     <!--<h2>Call for Proposals Now Open!</h2>
     <p>Do you have a great topic for the community?  Visit our <a href="https://www.papercall.io/devopsdaysnashville2026">Call for Speakers/Papers</a> site today!  

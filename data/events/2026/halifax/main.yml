@@ -4,31 +4,22 @@ city: "Halifax"
 event_twitter: "DevOpsDaysHali"
 description: "The premier DevOps conference for Atlantic Canada"
 ga_tracking_id: ""
-
 social_shares: ["email", "linkedin"]
-
 masthead_background: "halifax-background.png"
-sharing_image: "halifax-sharing.png"
-
+sharing_image: "halifax-sharing.jpg"
 startdate: 2026-09-29T08:00:00-03:00
 enddate: 2026-09-29T18:00:00-03:00
-
 cfp_date_start: 2026-05-01
 cfp_date_end: 2026-06-08
 cfp_date_announce: 2026-08-01
-
 cfp_link: "https://talks.devopsdays.org/halifax-2026/cfp"
-
 registration_date_start:
 registration_date_end:
-
 registration_closed: ""
 registration_link: ""
-
 coordinates: ""
 location: "Trade Centre Office Tower"
 location_address: "1800 Argyle St Unit 801, Halifax, NS B3J 3N8"
-
 nav_elements:
   - name: location
   - name: registration
@@ -36,9 +27,9 @@ nav_elements:
   - name: sponsor
   - name: contact
   - name: conduct
-
 team_members:
   - name: "Dewan Ahmed"
+    image: "dewan-ahmed.jpg"
     bio: "Dewan Ahmed serves as a Principal Developer Advocate at Harness, leveraging his decade-long experience tackling DevOps challenges across startups, corporates, and governments. With past roles at IBM, Red Hat, and Aiven, he is a seasoned developer relations professional.  A tech speaker since 2016, he champions open-source and values community engagement."
     role: "Principal Developer Advocate"
     employer: "Harness"
@@ -46,26 +37,24 @@ team_members:
     twitter: "DewanAhmed"
     linkedin: "https://www.linkedin.com/in/diahmed/"
   - name: "Nahrin Jalal"
+    image: "nahrin-jalal.jpeg"
     bio: "Nahrin Jalal has led Developer Relations teams in startup environments and contributed to the growth of a publicly-traded enterprise. She is deeply passionate about building inclusive communities, inspiring developers to address real-world needs with pragmatic software solutions, and creating technical content that is accessible to all skill levels."
     role: "Developer Relations and Outreach Strategy"
     github: "NJalal7"
     twitter: "NahrinJalal"
     linkedin: "https://www.linkedin.com/in/nahrin-jalal/"
   - name: "Seif Elbayomi"
-    bio: "Seif Elbayomi is a Software Developer at VTScada who is passionate about building solutions that matter and continuously learning. He is dedicated to driving digital transformation in Atlantic Canada."
+    image: "seif-elbayomi.jpg"
+    bio: "Seif Elbayomi is a Software Developer at VTScada, co-founder of DevOpsDays Halifax Co-operative Ltd., and the 2024 One to Watch recipient from Digital Nova Scotia. Beyond software development, he has taken on teaching, customer support, outreach, and content creation, showing the kind of agility and ownership that goes beyond a typical engineering role. He takes pride in strong work ethic, cares deeply about tech education and making it accessible to everyone, and is passionate about digital transformation. Outside of tech, he is also a soccer referee in Nova Scotia, where he gets the chance to give back to the community and to the game that helped shape who he is."    
     role: "Software Developer"
-    employer: "VTScada"
+    employer: "VTScada by Trihedral (A Delta Group Company)"
     github: "SeifElbayomi"
     linkedin: "https://www.linkedin.com/in/seifelbayomi/"
-
 organizer_email: "halifax@devopsdays.org"
-
 sponsors:
   - id: volta
     level: venue
-
 sponsors_accepted: "yes"
-
 sponsor_levels:
   - id: platinum
     label: Platinum
