@@ -2,7 +2,7 @@
 /amsterdam/*		/events/2026-amsterdam/:splat		302
 /antwerp/*		/events/2024-antwerp/:splat		302
 /aracaju/*		/events/2024-aracaju/:splat		302
-/atlanta/*		/events/2026-atlanta/:splat		302
+/atlanta/*		/events/2027-atlanta/:splat		302
 /austin/cfp		https://talks.devopsdays.org/devopsdays-austin-2026/cfp 302
 /austin/*		/events/2026-austin/:splat		302
 /baku/*			/events/2019-baku/:splat		302
