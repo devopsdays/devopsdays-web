@@ -98,7 +98,7 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     label: Gold Medal
   - id: silver
     label: Silver Lake
-  - id: stone
+  - id: stone-before-20260529
     label: Stone Arch
   - id: media
     label: Media
