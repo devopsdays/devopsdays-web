@@ -59,7 +59,7 @@ team_members: # Name is the only required field for team members.
     employer: "Stone Co"
     twitter: "twitter.com/_RamonPerez"
     github: "github.com/ramonrrp"
-    linkedin: "linkedin.com/in/ramonrrp"
+    linkedin: "https://www.linkedin.com/in/ramonrrp"
     image: "ramon-peres.jpg"
 
   - name: "Mauricio Gomes"
@@ -78,7 +78,7 @@ team_members: # Name is the only required field for team members.
   - name: "Igor Guedes Medella"
     employer: "Departamento de Controle do Espaço Aéreo"
     twitter: "igormedella"
-    linkedin: "LinkedIn.com/in/igorguedes"
+    linkedin: "https://www.linkedin.com/in/igorguedes"
     image: "igor-medella.jpg"
 
   - name: "Bruna Caroline de Jesus"
@@ -105,7 +105,8 @@ sponsors:
   - id: alura
     level: diamond
   #Gold Sponsors
-
+  - id: stone
+    level: gold
   #Silver Sponsors
 
   #Community
