@@ -1,0 +1,67 @@
+name: "2026-islamabad" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2026" # The year of the event. Make sure it is in quotes.
+city: "Islamabad" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdays" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays Islamabad 2026 is coming soon!"
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here.
+
+startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+cfp_date_start:  # start accepting talk proposals.
+cfp_date_end:  # close your call for proposals.
+cfp_date_announce:  # inform proposers of status
+
+cfp_link: "" #if you have a custom link for submitting proposals, add it here.
+
+registration_date_start: # start accepting registration. Leave blank if registration is not open yet.
+registration_date_end: # close registration. Leave blank if registration is not open yet.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here.
+
+location: "Islamabad" # Defaults to city, but you can make it the venue name.
+location_address: "" #Optional - use the street address of your venue.
+
+event_social_linkedin: ""
+event_social_slack: ""
+event_social_listserv: ""
+event_social_twitter: "devopsdays"
+event_social_mastodon: ""
+event_social_bsky: ""
+event_social_youtube: ""
+
+social_shares:
+
+nav_elements:
+  - name: sponsor
+  - name: contact
+  - name: conduct
+
+team_members:
+  - name: "Abdullah Haroon"
+    employer: "Labourites"
+    role: "Organizer"
+  - name: "Farhan Ashraf"
+    employer: "Systems Ltd"
+    role: "Organizer"
+  - name: "Junaid Hanif"
+    employer: "Tech Harbour"
+    role: "Organizer"
+
+organizer_email: "islamabad@devopsdays.org"
+
+sponsors:
+
+sponsors_accepted: "no"
+
+sponsor_levels:
+  - id: gold
+    label: Gold
+  - id: silver
+    label: Silver
+    max: 0
+  - id: bronze
+    label: Bronze
+  - id: community
+    label: Community
