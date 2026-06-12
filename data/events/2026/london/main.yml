@@ -56,7 +56,7 @@ social_shares: ["email", "facebook", "linkedin"]
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
   - name: location
-  # - name: registration
+  - name: registration
   # - name: program
   # - name: speakers
   - name: sponsor
@@ -108,11 +108,8 @@ organizer_email: "london@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-#  - id: samplesponsorname
-#   level: gold
-#  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-# - id: arresteddevops
-#  level: community
+  - id: minimus
+    level: gold
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -131,3 +128,5 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+  - id: accessibility
+    label: Accessibility

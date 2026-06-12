@@ -57,15 +57,15 @@ On average across the past 10 years, we sell out our venue and have between 270-
     <tbody>
         <tr>
             <td>Number remaining</td>
-            <td>9</td>
+            <td>5</td>
             <td>2</td>
-            <td>1</td>
-            <td>1</td>
+            <td>SOLD OUT</td>
+            <td>SOLD OUT</td>
             <td>SOLD OUT</td>
             <td>1</td>
-            <td>6</td>
+            <td>5</td>
             <td>1</td>
-            <td>Details provided via email</td>
+            <td>SOLD OUT</td>
         </tr>
         <tr>
             <td>Cost (USD)</td>

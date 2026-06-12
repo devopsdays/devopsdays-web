@@ -1,8 +1,8 @@
 +++
 Title = "Elissa Shevinsky"
 Twitter = ""
-linkedin = ""
-image = ""
+linkedin = "https://www.linkedin.com/in/elissashevinsky"
+image = "elissa-shevinsky.png"
 type = "speaker"
 linktitle = "elissa-shevinsky"
 Website = ""

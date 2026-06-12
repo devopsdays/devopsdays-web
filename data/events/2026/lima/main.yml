@@ -3,7 +3,7 @@ year: "2026" # The year of the event. Make sure it is in quotes.
 city: "lima" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdays" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "Devopsdays is coming to lima!" # Edit this to suit your preferences
-ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+ga_tracking_id: "GTM-TZQLKXDB" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 event_logo: "logo-square.png"
 
 # All dates are in unquoted 2026-MM-DDTHH:MM:SS+TZ:TZ, like this:
@@ -27,7 +27,7 @@ registration_date_start: # start accepting registration. Leave blank if registra
 registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "https://tickets.devopsdays.pe/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://entradas.devopsdays.pe" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -134,13 +134,45 @@ sponsors:
    - id: nttdata
      level: platinum
      url: https://pe.nttdata.com/
+   - id: port
+     level: platinum
+     url: https://www.port.io/
+   - id: ibm
+     level: platinum
+     url: https://www.ibm.com
+   - id: credicorp
+     level: platinum
+     url: https://grupocredicorp.com/
+   - id: indra-company
+     level: platinum
+#Gold Sponsors
+   - id: thoughtworks
+     level: gold
+     url: https://www.thoughtworks.com/
+   - id: manage-engine
+     level: gold
+     url: https://manageengine.com/latam/
+   - id: fluidattacks
+     level: gold
+     url: https://www.fluidattacks.com/
+   - id: kyndryl
+     level: gold
+     url: https://www.kyndryl.com/
+   - id: interbank
+     level: gold
+     url: https://www.interbank.pe/
+   - id: coforge
+     level: gold
+     url: https://www.coforge.com/
+#Silver Sponsors
+#Bronze Sponsors
    - id: orexe
      level: bronze
      url: https://orexe.pe/
-#Gold Sponsors
-#Silver Sponsors
-#Bronze Sponsors
-#Community Sponsors 
+#Community Sponsors
+   - id: hackemate
+     level: community
+     url: https://www.youtube.com/@hackemate
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

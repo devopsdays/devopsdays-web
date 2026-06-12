@@ -114,7 +114,7 @@ All logos will be resized at release time, to 200px wide. Versions for high-dens
 
 ## Local Organizers
 
-See the example local organizer team members listed in the generated data file found in `data/events/201?-yourcity.yml`. To generate the  `team_members: ` section you can use [add_organizers.sh](add_organizers.sh).
+See the example local organizer team members listed in the generated data file found in `data/events/YYYY-yourcity.yml`. To generate the  `team_members: ` section you can use [add_organizers.sh](add_organizers.sh).
 
 The organizer photo must be in JPG format, and should be a minimum 300px x 300px, but optimally 600px x 600px. These images should be placed in the `assets/events/yyyy-city/organizers` directory (which the `add_organizers.sh` script will do).
 

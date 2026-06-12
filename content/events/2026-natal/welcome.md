@@ -128,11 +128,11 @@ a.jssocials-share-link, a.event-cta-button {
 <br><br>
 <p></p>
 <p><a href="https://talks.devopsdays.org/devopsdays-natal-2026/cfp" target="_blank"><button>ENVIE SUA PALESTRA</button></a></p>
-<p><a href="https://www.even3.com.br/devopsdays-natal-2026/" target="_blank"><button>INSCREVA-SE</button></a></p>
+<p><a href="https://www.even3.com.br/devopsdays-natal-2026-721527/" target="_blank"><button>INSCREVA-SE</button></a></p>
 <p><a href="../sponsor/"><button>SEJA UM SPONSOR</button></a></p>
 <p><a href="../speakers/"><button>PALESTRANTES</button></a></p>
 <p><a href="/events/2026-natal/contact/"><button>CONTATO</button></a></p>
-<p><a href="https://www.google.com/maps/place/Av.+Lima+e+Silva,+76+-+Lagoa+Nova,+Natal+-+RN,+59062-300/@-5.8249496,-35.214159,17z/data=!3m1!4b1!4m6!3m5!1s0x7b2ff8ba9b2634f:0x60f17ef1283a13a2!8m2!3d-5.8249496!4d-35.2115841!16s%2Fg%2F11b8v5zz50?entry=ttu" target="_blank"><button type="button">LOCALIZAÇÃO</button></a></p>
+<p><a href="https://www.google.com/maps/place/Av.+Sen.+Salgado+Filho,+1559+-+Tirol,+Natal+-+RN,+59015-000/@-5.8119061,-35.205787,17z/data=!3m1!4b1!4m6!3m5!1s0x7b2ffe4d7b15191:0x73e092cb5e1e6984!8m2!3d-5.8115976!4d-35.2031689!16s%2Fg%2F11c3q2npnw?entry=ttu&g_ep=EgoyMDI2MDMzMC4wIKXMDSoASAFQAw%3D%3D" target="_blank"><button type="button">LOCALIZAÇÃO</button></a></p>
 </div>
 
 <div class="sidebar">

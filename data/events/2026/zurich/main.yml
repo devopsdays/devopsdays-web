@@ -154,7 +154,7 @@ sponsors:
   level: partner
 - id: digicomp
   level: partner
-- id: puresivefilms
+- id: lukasschubnell
   level: partner
 - id: powercoders
   level: community
@@ -179,6 +179,8 @@ sponsors:
 - id: 4data
   level: silver
 - id: cyberlink
+  level: event
+- id: hcl-software
   level: event
 - id: xelon
   level: event
@@ -477,8 +479,6 @@ ignites:
 - title: "iris-hunkeler"
   date: 2026-05-07
 - title: "peter-zylka-greger"
-  date: 2026-05-07
-- title: "marcelo-ancelmo"
   date: 2026-05-07
 - title: "pallavi-agrawal"
   date: 2026-05-07

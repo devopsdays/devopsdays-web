@@ -1,7 +1,8 @@
 name: "2026-amsterdam" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2026" # The year of the event. Make sure it is in quotes.
 city: "Amsterdam" # The displayed city name of the event. Capitalize it.
-description: "DevOpsDays Amsterdam 2026 - Join us June 19 for a day exploring DevOps, AI, and Platform Engineering!" # Edit this to suit your preferences
+description: "DevOpsDays Amsterdam 2026 has been cancelled. We hope to return in the future." # Edit this to suit your preferences
+cancel: "true"
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 gtm_tracking_id: "G-NCBC4PBEMK"
 
@@ -10,18 +11,18 @@ gtm_tracking_id: "G-NCBC4PBEMK"
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2026-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: 2026-06-19T00:00:00+02:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2026-06-19T23:00:00+02:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate:
+enddate:
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2026-02-26 # start accepting talk proposals.
-cfp_date_end: 2026-03-29 # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start:
+cfp_date_end:
+cfp_date_announce:
 
 cfp_link: "https://talks.devopsdays.org/devopsdays-2026/cfp" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: 2026-03-04 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: 2026-06-17 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start:
+registration_date_end:
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://tickets.devopsdays.org/devopsdays-amsterdam/2026/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -30,9 +31,9 @@ registration_link: "https://tickets.devopsdays.org/devopsdays-amsterdam/2026/" #
 #
 # coordinates: "" # No longer used
 
-location: "Pakhuis de Zwijger - Amsterdam" # Defaults to city, but you can make it the venue name.
-#
-location_address: "Piet Heinkade 179, 1019 HC Amsterdam" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
+coordinates:
+location:
+location_address:
 
 sharing_image: "doda-coverbanner-1200x600.png"
 masthead_background: "backdrop.png"
@@ -47,18 +48,9 @@ event_social_mastodon: "https://mastodon.social/@devopsams" # Change this to url
 event_social_bsky: "https://bsky.app/profile/devopsams.bsky.social" # Change this to url to your bluesky page
 event_social_youtube: "devopsams" # Change this to the youtube channel handle for your event such as devopsdaysrox
 
-nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
-  - name: location
- # - name: registration
- # - name: program
- # - name: speakers
-  - name: sponsor
-    icon: "money"
+nav_elements:
   - name: contact
   - name: conduct
-    icon: universal-access
-  - name: conference-buddy
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -119,22 +111,22 @@ sponsors:
 #   - id: samplesponsorname
 #     level: gold
 #  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: ing
+    level: captions
+  - id: nobl9
+    level: lunch
   - id: azure-heroes-nl
     level: community
   - id: sreday
     level: community
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: community
-    label: Community
-  - id: bronze
-    label: Bronze
   - id: gold
     label: Gold
   - id: captions
@@ -154,3 +146,7 @@ sponsor_levels:
     max: 1
   - id: workshop
     label: Workshop
+  - id: bronze
+    label: Bronze
+  - id: community
+    label: Community
