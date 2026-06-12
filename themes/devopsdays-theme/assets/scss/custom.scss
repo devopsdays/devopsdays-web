@@ -6,6 +6,7 @@ html {
 }
 
 body {
+  font-family: 'Roboto', sans-serif;
   font-size: 1em;
   font-weight: 300;
   color: #1a1a1a;
@@ -45,6 +46,7 @@ body {
 }
 
 h1 {
+  font-family: 'Roboto Condensed', 'Roboto', sans-serif;
   font-size: 2.25rem;
   font-weight: 700;
   text-transform: capitalize;
@@ -53,6 +55,7 @@ h1 {
 }
 
 h2 {
+  font-family: 'Roboto Condensed', 'Roboto', sans-serif;
   font-size: 1.75rem;
   font-weight: 700;
   text-transform: capitalize;
@@ -61,6 +64,7 @@ h2 {
 }
 
 h3 {
+  font-family: 'Roboto Condensed', 'Roboto', sans-serif;
   font-size: 1.35rem;
   font-weight: 400;
   text-transform: capitalize;
@@ -220,7 +224,7 @@ img {
 
 .left-nav-event {
   display: block;
-  font-family: 'Roboto Condensed', 'Roboto', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 400;
   font-size: 0.8rem;
   text-transform: capitalize;
@@ -283,7 +287,7 @@ h2.footer-heading {
 }
 
 .footer-content {
-  font-family: 'Roboto Condensed', 'Roboto', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 300;
   font-size: 0.9rem;
   color: #1a1a1a;
@@ -445,17 +449,19 @@ div.panel {
 // ============================================
 
 .speaker-page {
-  font-family: 'Roboto Condensed', 'Roboto', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 300;
   color: #1a1a1a;
 }
 
 h2.speaker-page {
+  font-family: 'Roboto Condensed', 'Roboto', sans-serif;
   font-size: 1.75rem;
   font-weight: 700;
 }
 
 h3.speaker-page {
+  font-family: 'Roboto Condensed', 'Roboto', sans-serif;
   font-size: 1.35rem;
   font-weight: 400;
 }
@@ -479,17 +485,19 @@ img.speaker-page {
 // ============================================
 
 .speakers-page {
-  font-family: 'Roboto Condensed', 'Roboto', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 300;
   color: #1a1a1a;
 }
 
 h2.speakers-page {
+  font-family: 'Roboto Condensed', 'Roboto', sans-serif;
   font-size: 1.75rem;
   font-weight: 700;
 }
 
 h3.speakers-page {
+  font-family: 'Roboto Condensed', 'Roboto', sans-serif;
   font-size: 1.35rem;
   font-weight: 400;
 }
@@ -515,11 +523,13 @@ img.speakers-page {
 }
 
 h2.talk-page {
+  font-family: 'Roboto Condensed', 'Roboto', sans-serif;
   font-size: 1.75rem;
   font-weight: 700;
 }
 
 h3.talk-page {
+  font-family: 'Roboto Condensed', 'Roboto', sans-serif;
   font-size: 1.35rem;
   font-weight: 400;
 }
