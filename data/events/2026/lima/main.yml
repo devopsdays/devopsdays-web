@@ -164,7 +164,13 @@ sponsors:
    - id: coforge
      level: gold
      url: https://www.coforge.com/
+   - id: tsoft
+     level: gold
+     url: https://www.tsoftglobal.com/
 #Silver Sponsors
+   - id: inetum
+     level: silver
+     url: https://inetum.com/pe/
 #Bronze Sponsors
    - id: orexe
      level: bronze
