@@ -164,6 +164,9 @@ sponsors:
    - id: coforge
      level: gold
      url: https://www.coforge.com/
+   - id: mongodb
+     level: gold
+     url: https://www.mongodb.com/
    - id: tsoft
      level: gold
      url: https://www.tsoftglobal.com/
@@ -179,6 +182,9 @@ sponsors:
    - id: hackemate
      level: community
      url: https://www.youtube.com/@hackemate
+   - id: practical-devsecops
+     level: community
+     url: https://www.practical-devsecops.com/
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
