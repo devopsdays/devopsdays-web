@@ -2,7 +2,7 @@
 Title = "Camis Moreira"
 Twitter = ""
 linkedin = ""
-image = ""
+image = "camis-moreira.jpg"
 type = "speaker"
 linktitle = "camis-moreira"
 

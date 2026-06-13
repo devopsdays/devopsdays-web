@@ -2,7 +2,7 @@
 Title = "Leonam Ricardo Vasquez Ramos"
 Twitter = ""
 linkedin = ""
-image = ""
+image = "leonam-ricardo-vasquez-ramos.png"
 type = "speaker"
 linktitle = "leonam-ricardo-vasquez-ramos"
 

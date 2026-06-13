@@ -2,7 +2,7 @@
 Title = "Bernardo Gomes Lankheet"
 Twitter = ""
 linkedin = ""
-image = ""
+image = "bernardo-gomes-lankheet.jpg"
 type = "speaker"
 linktitle = "bernardo-gomes-lankheet"
 

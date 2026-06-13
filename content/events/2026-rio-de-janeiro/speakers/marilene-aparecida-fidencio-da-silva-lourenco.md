@@ -2,7 +2,7 @@
 Title = "Marilene Aparecida Fidêncio da Silva Lourenço"
 Twitter = ""
 linkedin = ""
-image = ""
+image = "marilene-aparecida-fidencio-da-silva-lourenco.jpg"
 type = "speaker"
 linktitle = "marilene-aparecida-fidencio-da-silva-lourenco"
 

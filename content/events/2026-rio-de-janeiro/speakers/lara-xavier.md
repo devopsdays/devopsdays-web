@@ -2,7 +2,7 @@
 Title = "Lara Xavier"
 Twitter = ""
 linkedin = ""
-image = ""
+image = "lara-xavier.jpg"
 type = "speaker"
 linktitle = "lara-xavier"
 

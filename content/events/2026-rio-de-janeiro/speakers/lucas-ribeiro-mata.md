@@ -2,7 +2,7 @@
 Title = "Lucas Ribeiro Mata"
 Twitter = ""
 linkedin = ""
-image = ""
+image = "lucas-ribeiro-mata.jpg"
 type = "speaker"
 linktitle = "lucas-ribeiro-mata"
 
