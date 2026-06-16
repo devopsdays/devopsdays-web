@@ -27,8 +27,8 @@ location: "Kablys 2.0 | Vilnius" # Defaults to city, but you can make it the ven
 location_address: "Kauno g. 5, 03214 Vilnius" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  # - name: registration
-  #   url: "https://fienta.com/devopsdays-vilnius-2026"
+  - name: registration
+    url: "https://fienta.com/devopsdays-vilnius-2026"
   # - name: speakers
   # - name: program
     # url: "https://talks.devopsdays.org/devopsdays-vilnius-2026/schedule/"
@@ -120,4 +120,8 @@ sponsors:
   - id: vinted
     level: platinum
   - id: oag
+    level: gold
+  - id: cognizantlt
+    level: platinum
+  - id: inkodus
     level: gold
