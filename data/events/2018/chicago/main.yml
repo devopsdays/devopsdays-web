@@ -186,7 +186,7 @@ sponsors:
     level: silver
   - id: github
     level: silver
-  - id: mongodb
+  - id: mongodb-before-20260613
     level: bronze
   - id: coyote
     level: bronze

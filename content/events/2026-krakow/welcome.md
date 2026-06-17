@@ -85,7 +85,9 @@ Our participants come from various backgrounds, including software development, 
   </div>
 
   <div class="text-section-col">
-    <a href="/events/2026-krakow/propose" type="button" class="btn btn-danger btn-lg btn-block">PROPOSE A TALK</a>
+    <a href="/events/2026-krakow/program" type="button" class="btn btn-danger btn-lg btn-block">PROGRAM</a>
+    <a href="/events/2026-krakow/speakers" type="button" class="btn btn-danger btn-lg btn-block">SPEAKERS</a>
+    <br/>
     <a href="/events/2026-krakow/sponsor" type="button" class="btn btn-danger btn-lg btn-block">SPONSOR</a>
     <a href="/events/2026-krakow/contact" type="button" class="btn btn-danger btn-lg btn-block">CONTACT</a>
   </div>

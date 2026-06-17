@@ -97,7 +97,7 @@ sponsors:
     level: silver
   - id: sonatype-before-20190405
     level: gold
-  - id: mongodb
+  - id: mongodb-before-20260613
     level: bronze
   - id: redhat-before-20190528
     level: gold
