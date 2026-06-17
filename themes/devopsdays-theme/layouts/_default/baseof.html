@@ -1,52 +1,61 @@
 <!DOCTYPE html>
-<html itemscope lang="{{ .Site.LanguageCode }}">
+<html itemscope lang="{{ site.LanguageCode }}">
 <head>
     {{- partial "head.html" . -}}
 </head>
-<body lang="{{ .Site.Params.Lang }}">
+<body lang="{{ site.Params.Lang }}">
+  <a class="skip-link" href="#main-content">Skip to main content</a>
   {{- partialCached "global_navbar.html" . -}}
-  {{- if and (eq (index (split (.Permalink | relURL) "/") 1) "events") (ne .Type "events") -}}
-    {{- partial "events/event_navbar.html" . -}}
+  {{- $section := index (split (.Permalink | relURL) "/") 1 -}}
+  {{- if and (eq $section "events") (ne .Type "events") -}}
+    {{- $eventDir := "" -}}{{- with .File -}}{{- $eventDir = .Dir -}}{{- end -}}
+    {{- partialCached "events/event_navbar.html" . $eventDir -}}
   {{- end -}}
-  <div class="container-fluid">
-    <div class="row">
-      {{- if .IsPage -}}
-        {{- if or (eq (index (split (.Permalink | relURL) "/") 1) "events") (eq .Type "events") -}}
-          <div class="col-md-12">
-            {{- block "main" . }}
-        {{- end -}}
-          </div><!-- do i show up? -->
-        {{- else if (eq (index (split (.Permalink | relURL) "/") 1) "organizing") -}}
-          <div class="col-md-8 order-md-12">
-            {{- block "main" . }} 
-        {{- end -}}
-          </div>
-          <div class="col-md-2 order-md-1">
-            <a href = '{{ "/events" }}' class="left-nav-navs">Table of Contents</a><br />
-            {{- partialCached "toc.html" . -}}
-          </div>
-	      {{- else -}}
-              <div class="col-md-8 order-md-12">
-                  {{- block "main" . }} {{- end -}}
-              </div>
-              <div class="col-md-2 order-md-1">
-                  <a href = '{{ "/events" }}' class="left-nav-navs">ALL EVENTS</a><br />
-                  {{- partialCached "future.html" . -}}
-              </div>
-            {{- end -}}
+  <main id="main-content" role="main">
+    <div class="container-fluid">
+      <div class="row">
+        {{- if .IsPage -}}
+          {{- if or (eq $section "events") (eq .Type "events") -}}
+            <div class="col-md-12">
+              {{- block "main" . }}{{- end -}}
+            </div>
+          {{- else if (eq $section "organizing") -}}
+            <div class="col-md-8 col-lg-9 order-md-2">
+              {{- block "main" . }}{{- end -}}
+            </div>
+            <aside class="col-md-3 col-lg-2 order-md-1 sidebar" role="complementary" aria-label="Table of contents">
+              <nav aria-label="Table of contents">
+                <a href="/events" class="left-nav-navs">Table of Contents</a><br />
+                {{- partialCached "toc.html" . .RelPermalink -}}
+              </nav>
+            </aside>
           {{- else -}}
-            <div class="col-md-8 order-md-12">
-                {{- block "main" . }} 
-          {{- end -}}
+            <div class="col-md-8 col-lg-9 order-md-2">
+              {{- block "main" . }}{{- end -}}
             </div>
-            <div class="col-md-2 order-md-1">
-                <a href = '{{ "/events" }}' class="left-nav-navs">ALL EVENTS</a><br />
+            <aside class="col-md-3 col-lg-2 order-md-1 sidebar" role="complementary" aria-label="Upcoming events">
+              <nav aria-label="Upcoming events">
+                <a href="/events" class="left-nav-navs">All Events</a><br />
                 {{- partialCached "future.html" . -}}
-            </div>
+              </nav>
+            </aside>
+          {{- end -}}
+        {{- else -}}
+          <div class="col-md-8 col-lg-9 order-md-2">
+            {{- block "main" . }}{{- end -}}
+          </div>
+          <aside class="col-md-3 col-lg-2 order-md-1 sidebar" role="complementary" aria-label="Upcoming events">
+            <nav aria-label="Upcoming events">
+              <a href="/events" class="left-nav-navs">All Events</a><br />
+              {{- partialCached "future.html" . -}}
+            </nav>
+          </aside>
         {{- end -}}
-        </div>
       </div>
-    {{- partialCached "footer.html" . -}}
-    {{- partial "footer_scripts.html" . -}}
+    </div>
+  </main>
+  {{- partialCached "footer.html" . -}}
+  {{- $fsCacheKey := .Type -}}{{- with .File -}}{{- $fsCacheKey = .Dir -}}{{- end -}}
+  {{- partialCached "footer_scripts.html" . $fsCacheKey -}}
 </body>
 </html>

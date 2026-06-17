@@ -19,7 +19,7 @@
 <copyright>Copyright 2016-2017 devopsdays</copyright>
 <generator>Hugo -- gohugo.io</generator>
 {{- $upcoming := slice -}}
-{{- $upcoming = partial "functions/get-upcoming-events" . -}}
+{{- $upcoming = partialCached "functions/get-upcoming-events" . "global" -}}
 
 {{- range sort $upcoming "startdate" -}}
     <item>

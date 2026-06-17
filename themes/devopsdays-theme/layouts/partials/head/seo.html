@@ -7,60 +7,62 @@
     <meta name="twitter:description" content="devopsdays is a worldwide community conference series for anyone interested in IT improvement." />
     <meta itemprop="description" content="devopsdays is a worldwide community conference series for anyone interested in IT improvement." />
 {{- else -}}
-  <meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ end }}{{ end }}" />
-  <meta name="twitter:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ end }}{{ end }}" />
-  <meta itemprop="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ end }}{{ end }}">
+  {{- $desc := "" -}}
+  {{- if .Description -}}
+    {{- $desc = .Description -}}
+  {{- else if .IsPage -}}
+    {{- $desc = .Summary -}}
+  {{- end -}}
+  <meta property="og:description" content="{{ $desc }}" />
+  <meta name="twitter:description" content="{{ $desc }}" />
+  <meta itemprop="description" content="{{ $desc }}">
 {{- end -}}
 <meta name="twitter:site" content="@devopsdays">
 <meta property="og:type" content="website" />
 <meta property="og:url" content="{{ .Permalink | absURL }}" />
+
+{{- $sharing_url := "https://www.devopsdays.org/img/sharing.jpg" -}}
+{{- $sharing_alt := "devopsdays" -}}
+
 {{- if or (eq .Type "welcome") (eq .Type "event") (eq .Type "speaker") (eq .Type "speakers") (eq .Type "talk") (eq .Type "program") -}}
   {{- $e := partial "functions/get-event-data" . -}}
-  {{- $.Scratch.Set "contentdir" (printf "static/events/%s/" $e.name) -}} <!-- may not need this anymore? -->
-  {{- if $e.event_twitter -}}
-    <meta name="twitter:creator" content="@{{$e.event_twitter}}" />
+  {{- with $e.event_twitter -}}
+    <meta name="twitter:creator" content="@{{ . }}" />
   {{- end -}}
-  {{- $.Scratch.Set "event" (printf "devopsdays %s %s" $e.city (chomp $e.year)) -}}
+  {{- $eventLabel := printf "devopsdays %s %s" $e.city (strings.TrimRight "\n" $e.year) -}}
   <meta name="twitter:label1" value="Event" />
-  <meta name="twitter:data1" value='{{ $.Scratch.Get "event" }}' />
+  <meta name="twitter:data1" value='{{ $eventLabel }}' />
   {{- if $e.startdate -}}
-    {{- if or (ne (time $e.startdate).Month (time $e.enddate).Month) (ne (time $e.startdate).Day (time $e.enddate).Day) -}}
-        <meta name="twitter:label2" value="Dates" />
-        {{- if eq (time $e.startdate).Month (time $e.enddate).Month -}}
-            <meta name="twitter:data2" value='{{ dateFormat "January 2" $e.startdate }} - {{ dateFormat "2, 2006" $e.enddate }}' />
-        {{- else -}}
-            <meta name="twitter:data2" value='{{ dateFormat "Jan 2" $e.startdate }} - {{ dateFormat "Jan 2" $e.enddate }}' />
-        {{- end -}}
+    {{- $start := time.AsTime $e.startdate -}}
+    {{- $end := time.AsTime $e.enddate -}}
+    {{- if or (ne $start.Month $end.Month) (ne $start.Day $end.Day) -}}
+      <meta name="twitter:label2" value="Dates" />
+      {{- if eq $start.Month $end.Month -}}
+        <meta name="twitter:data2" value='{{ time.Format "January 2" $e.startdate }} - {{ time.Format "2, 2006" $e.enddate }}' />
+      {{- else -}}
+        <meta name="twitter:data2" value='{{ time.Format "Jan 2" $e.startdate }} - {{ time.Format "Jan 2" $e.enddate }}' />
+      {{- end -}}
     {{- else -}}
-    <meta name="twitter:label2" value="Date" />
-    <meta name="twitter:data2" value='{{ dateFormat "January 2, 2006" $e.startdate }}' />
+      <meta name="twitter:label2" value="Date" />
+      <meta name="twitter:data2" value='{{ time.Format "January 2, 2006" $e.startdate }}' />
     {{- end -}}
   {{- end -}}
   {{- if .Params.sharing_image -}}
-    {{- with .Params.sharing_image -}}
-      {{- $.Scratch.Set "sharing_url" (printf "/events/%s/sharing/%s" $e.name .) -}}
-      {{- $.Scratch.Set "sharing_alt" $.Title -}}
-    {{- end -}}
+    {{- $sharing_url = printf "/events/%s/sharing/%s" $e.name .Params.sharing_image -}}
+    {{- $sharing_alt = .Title -}}
   {{- else if $e.sharing_image -}}
-    {{- with $e.sharing_image -}}
-      {{- $.Scratch.Set "sharing_url" (printf "/events/%s/sharing/%s" $e.name .) -}}
-      {{- $.Scratch.Set "sharing_alt" (printf "devopsdays %s %s" $e.city (chomp $e.year)) -}}
-    {{- end -}}
-  {{- else -}}
-      {{- $.Scratch.Set "sharing_url" ("https://www.devopsdays.org/img/sharing.jpg" ) -}}
-      {{- $.Scratch.Set "sharing_alt" "devopsdays" -}}
+    {{- $sharing_url = printf "/events/%s/sharing/%s" $e.name $e.sharing_image -}}
+    {{- $sharing_alt = printf "devopsdays %s %s" $e.city (strings.TrimRight "\n" $e.year) -}}
   {{- end -}}
-{{- else -}}
-  {{- $.Scratch.Set "sharing_url" ("https://www.devopsdays.org/img/sharing.jpg" ) -}}
-  {{- $.Scratch.Set "sharing_alt" "devopsdays" -}}
 {{- end -}}
-<meta property="og:image" content='{{ $.Scratch.Get "sharing_url" | absURL }}' />
-<meta property="og:image:alt" content='{{ $.Scratch.Get "sharing_alt" }}' />
+
+<meta property="og:image" content='{{ $sharing_url | absURL }}' />
+<meta property="og:image:alt" content='{{ $sharing_alt }}' />
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:image" content='{{ $.Scratch.Get "sharing_url" | absURL }}' />
-<meta itemprop="image" content='{{ $.Scratch.Get "sharing_url"  | absURL }}' />
+<meta name="twitter:image" content='{{ $sharing_url | absURL }}' />
+<meta itemprop="image" content='{{ $sharing_url | absURL }}' />
 <meta property="fb:app_id" content="1904065206497317" />
 {{- with .Params.locale -}}<meta property="og:locale" content="{{ . }}" />{{- end -}}
-{{- with .Site.Params.title -}}<meta property="og:site_name" content="{{ . }}" />{{- end -}}
+{{- with site.Params.title -}}<meta property="og:site_name" content="{{ . }}" />{{- end -}}
 
 <meta itemprop="wordCount" content="{{ .WordCount }}">

@@ -1,17 +1,17 @@
-<!-- Google Analytics -->
+{{- $gaID := site.Config.Services.GoogleAnalytics.ID -}}
+{{- if $gaID -}}
+<!-- Google Analytics (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ $gaID }}"></script>
 <script>
-window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-ga('create', '{{ $.Site.Config.Services.GoogleAnalytics.ID }}', 'auto');
-ga('send', 'pageview');
-{{ if or (eq .Type "welcome") (eq .Type "event") (eq .Type "speaker") (eq .Type "speakers") (eq .Type "talk") (eq .Type "program")}}
-  {{- $e := partial "functions/get-event-data" . -}}
-  {{ if $e.ga_tracking_id }}
-    {{ if ne $e.ga_tracking_id "" }}
-      ga('create', '{{$e.ga_tracking_id}}', 'auto', 'clientTracker');
-      ga('clientTracker.send', 'pageview');
-    {{ end }}
-  {{ end }}
-{{ end }}
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', '{{ $gaID }}');
+  {{- if or (eq .Type "welcome") (eq .Type "event") (eq .Type "speaker") (eq .Type "speakers") (eq .Type "talk") (eq .Type "program") -}}
+    {{- $e := partial "functions/get-event-data" . -}}
+    {{- with $e.ga_tracking_id -}}
+      gtag('config', '{{ . }}');
+    {{- end -}}
+  {{- end -}}
 </script>
-<script async src='https://www.google-analytics.com/analytics.js'></script>
-<!-- End Google Analytics -->
+{{- end -}}
