@@ -5,7 +5,7 @@ linkedin = "https://www.linkedin.com/in/angelnunezsalazar"
 image = "angel_nunez.png"
 type = "speaker"
 linktitle = "angel-nunez"
-weight = 13
+weight = 8
 
 +++
 

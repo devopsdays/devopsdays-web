@@ -5,7 +5,7 @@ linkedin = "https://www.linkedin.com/in/alexandra-zamora-barzallo/"
 image = "alexandra_zamora.png"
 type = "speaker"
 linktitle = "alexandra-zamora"
-weight = 26
+weight = 21
 
 +++
 

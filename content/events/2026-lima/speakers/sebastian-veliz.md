@@ -5,7 +5,7 @@ linkedin = "https://www.linkedin.com/in/sebastianvelizdonoso/"
 image = "sebastian_veliz.png"
 type = "speaker"
 linktitle = "sebastian-veliz"
-weight = 24
+weight = 19
 
 +++
 

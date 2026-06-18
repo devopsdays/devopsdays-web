@@ -6,11 +6,6 @@ image = "rene-corail.png"
 type = "speaker"
 linktitle = "xavier-rene-corail"
 weight = 2
-company = "GitHub"
-role = "Senior Director, GitHub Security Lab"
-talk = "Open source security in the AI era"
-tag = "#Enterprise AI & Data Strategy"
-country = "USA 🇺🇸"
 
 +++
 

@@ -5,7 +5,7 @@ linkedin = "https://www.linkedin.com/in/rojas-s/"
 image = "sebastian_rojas.png"
 type = "speaker"
 linktitle = "sebastian-rojas"
-weight = 16
+weight = 11
 
 +++
 

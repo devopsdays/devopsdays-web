@@ -5,7 +5,7 @@ linkedin = "https://www.linkedin.com/in/jdarp/"
 image = "juan_arguello.png"
 type = "speaker"
 linktitle = "juan-arguello"
-weight = 11
+weight = 6
 
 +++
 
