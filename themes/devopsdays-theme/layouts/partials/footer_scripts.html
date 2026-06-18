@@ -76,6 +76,12 @@
     {{- $share_str = "\"facebook\"" -}}
   {{- else if eq $current_item "linkedin" -}}
     {{- $share_str = "\"linkedin\"" -}}
+  {{- else if eq $current_item "bluesky" -}}
+    {{- $share_str = "\"bluesky\"" -}}
+  {{- else if eq $current_item "threads" -}}
+    {{- $share_str = "\"threads\"" -}}
+  {{- else if eq $current_item "mastodon" -}}
+    {{- $share_str = "\"mastodon\"" -}}
   {{- else -}}
     {{- $twitter_share_val := index $current_item "share" -}}
     {{- if $twitter_share_val -}}
@@ -98,7 +104,21 @@
 
 <script>
 //shares
-
+  jsSocials.shares.bluesky = {
+    label: "Share",
+    logo: "fa-brands fa-bluesky",
+    shareUrl: "https://bsky.app/intent/compose?text={text} {url}"
+  };
+  jsSocials.shares.threads = {
+    label: "Share",
+    logo: "fa-brands fa-threads",
+    shareUrl: "https://threads.net/intent/post?text={text} {url}"
+  };
+  jsSocials.shares.mastodon = {
+    label: "Share",
+    logo: "fa-brands fa-mastodon",
+    shareUrl: "https://mastodonshare.com/?text={text}&url={url}"
+  };
 
 {{ $full_script | safeJS }}
 
