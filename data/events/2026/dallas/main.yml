@@ -199,6 +199,8 @@ sponsors:
     level: gold
   - id: rapidfort
     level: gold
+  - id: teleport
+    level: silver
   - id: iacconf
     level: media
   - id: softwaredefinedtalk
