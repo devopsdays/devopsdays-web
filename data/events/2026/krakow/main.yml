@@ -209,6 +209,7 @@ program:
       - Mateusz Nalepa: Response times in services may not tell us the truth.
       - Andrzej Amghar: Accelerating cloud onboarding self-service with Internal Developer Portals
       - Igor Siemek: Centralized Microservice Logging with Grafana and Loki
+      - Michalina Kotwica: Tekton? But I have my some-other-tool!
 
   - title: "Break"
     type: custom
