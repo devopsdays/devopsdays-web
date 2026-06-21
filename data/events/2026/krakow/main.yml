@@ -117,7 +117,13 @@ sponsors:
     level: organizing
   - id: europython-society
     level: organizing
+  - id: pegasystems
+    level: gold
+  - id: splunk
+    level: gold
   - id: crossweb
+    level: community
+  - id: sysopspolska
     level: community
 
 
