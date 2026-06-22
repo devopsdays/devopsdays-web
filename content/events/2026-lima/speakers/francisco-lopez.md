@@ -5,7 +5,7 @@ linkedin = "https://www.linkedin.com/in/francisco-lopez-valenzuela/"
 image = "francisco_lopez.png"
 type = "speaker"
 linktitle = "francisco-lopez"
-weight = 17
+weight = 12
 
 +++
 

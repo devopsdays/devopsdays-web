@@ -5,7 +5,7 @@ linkedin = "https://www.linkedin.com/in/emmafloresnoguera/"
 image = "emma_flores.png"
 type = "speaker"
 linktitle = "emma-flores"
-weight = 15
+weight = 10
 
 +++
 

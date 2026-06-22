@@ -5,7 +5,7 @@ linkedin = "https://www.linkedin.com/in/cpgallardo/"
 image = "carlos_gallardo.png"
 type = "speaker"
 linktitle = "carlos-gallardo"
-weight = 20
+weight = 15
 
 +++
 
