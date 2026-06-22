@@ -50,7 +50,7 @@ event_social_youtube: "devopsdaysportland" # Change this to the youtube channel 
 # If not specified, defaults to all: ["email", "twitter", "facebook", "linkedin"]
 # Valid values: "email", "twitter", "facebook", "linkedin"
 # Example: social_shares: ["email", "linkedin"]  # Only show email and LinkedIn share buttons
-social_shares: # ["email", "twitter", "facebook", "linkedin"]
+social_shares: ["email", "bluesky", "mastodon", "twitter", "facebook", "linkedin"]
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
