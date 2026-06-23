@@ -125,7 +125,8 @@ sponsors:
     level: community
   - id: sysopspolska
     level: community
-
+  - id: pykonik
+    level: community
 
 program:
   - title: "Opening"
