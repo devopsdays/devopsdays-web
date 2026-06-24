@@ -117,9 +117,16 @@ sponsors:
     level: organizing
   - id: europython-society
     level: organizing
+  - id: pegasystems
+    level: gold
+  - id: splunk
+    level: gold
   - id: crossweb
     level: community
-
+  - id: sysopspolska
+    level: community
+  - id: pykonik
+    level: community
 
 program:
   - title: "Opening"
@@ -203,6 +210,7 @@ program:
       - Mateusz Nalepa: Response times in services may not tell us the truth.
       - Andrzej Amghar: Accelerating cloud onboarding self-service with Internal Developer Portals
       - Igor Siemek: Centralized Microservice Logging with Grafana and Loki
+      - Michalina Kotwica: Tekton? But I have my some-other-tool!
 
   - title: "Break"
     type: custom
@@ -254,7 +262,5 @@ sponsor_levels:
   - id: silver
     label: Silver
     max: 0 # This is the same as omitting the max limit.
-  - id: bronze
-    label: Bronze
   - id: community
     label: Community
