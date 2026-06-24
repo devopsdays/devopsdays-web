@@ -5,7 +5,7 @@ linkedin = "https://www.linkedin.com/in/angeloleva/"
 image = "angelo_leva.png"
 type = "speaker"
 linktitle = "angelo-leva"
-weight = 19
+weight = 14
 
 +++
 

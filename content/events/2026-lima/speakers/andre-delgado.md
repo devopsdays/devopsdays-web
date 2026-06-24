@@ -5,7 +5,7 @@ linkedin = "https://www.linkedin.com/in/andredelgadoruiz/"
 image = "andre_delgado.png"
 type = "speaker"
 linktitle = "andre-delgado"
-weight = 23
+weight = 18
 
 +++
 

@@ -5,7 +5,7 @@ linkedin = "https://www.linkedin.com/in/acolombiadev/"
 image = "andrea_griffiths.png"
 type = "speaker"
 linktitle = "andrea-griffiths"
-weight = 12
+weight = 7
 
 +++
 

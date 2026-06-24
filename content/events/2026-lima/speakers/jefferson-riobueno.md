@@ -5,7 +5,7 @@ linkedin = "https://linkedin.com/in/jeffersonriobueno/"
 image = "jefferson_riobueno.png"
 type = "speaker"
 linktitle = "jefferson-riobueno"
-weight = 25
+weight = 20
 
 +++
 

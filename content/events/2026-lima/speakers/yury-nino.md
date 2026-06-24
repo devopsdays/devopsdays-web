@@ -5,7 +5,7 @@ linkedin = "https://www.linkedin.com/in/yurynino/"
 image = "yury_nino.png"
 type = "speaker"
 linktitle = "yury-nino"
-weight = 14
+weight = 9
 
 +++
 

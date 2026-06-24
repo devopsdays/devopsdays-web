@@ -5,7 +5,7 @@ linkedin = "https://www.linkedin.com/in/jimmy-florez-3668a372/"
 image = "jimmy_florez.png"
 type = "speaker"
 linktitle = "jimmy-florez"
-weight = 10
+weight = 5
 
 +++
 

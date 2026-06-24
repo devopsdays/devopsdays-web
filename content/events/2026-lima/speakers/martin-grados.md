@@ -5,7 +5,7 @@ linkedin = "https://www.linkedin.com/in/luisgrados/"
 image = "martin_grados.png"
 type = "speaker"
 linktitle = "martin-grados"
-weight = 22
+weight = 17
 
 +++
 
