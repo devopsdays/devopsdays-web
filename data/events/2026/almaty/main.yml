@@ -41,6 +41,7 @@ event_social_youtube: "devopsdaysalmaty5046" # Change this to the youtube channe
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
+    url: https://docs.google.com/forms/d/e/1FAIpQLSeTHFWEgYkcv6O5c9g8oSiMOgpxO7UHuDkSmgOJDPW9Le4LaQ/viewform
  # - name: location
   - name: registration
  # - name: program
