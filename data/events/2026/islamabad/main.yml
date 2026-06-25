@@ -26,7 +26,7 @@ location_address: "" #Optional - use the street address of your venue.
 event_social_linkedin: ""
 event_social_slack: ""
 event_social_listserv: ""
-event_social_twitter: "devopsdays"
+event_social_twitter: ""
 event_social_mastodon: ""
 event_social_bsky: ""
 event_social_youtube: ""
