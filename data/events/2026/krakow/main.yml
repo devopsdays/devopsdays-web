@@ -215,9 +215,9 @@ program:
     start_time: "14:30"
     end_time: "15:30"
     comments: |
+      - Igor Siemek: Centralized Microservice Logging with Grafana and Loki
       - Mateusz Nalepa: Response times in services may not tell us the truth.
       - Andrzej Amghar: Accelerating cloud onboarding self-service with Internal Developer Portals
-      - Igor Siemek: Centralized Microservice Logging with Grafana and Loki
       - Michalina Kotwica: Tekton? But I have my some-other-tool!
       - Dmytro Kozlov: How to use AI assistant with your monitoring system
 
