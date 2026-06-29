@@ -10,7 +10,7 @@
 /barcelona/*		/events/2026-barcelona/:splat		302
 /beijing/*		/events/2023-beijing/:splat		302
 /belem/*		/events/2019-belem/:splat		302
-/belo-horizonte/*	/events/2025-belo-horizonte/:splat	302
+/belo-horizonte/*	/events/2026-belo-horizonte/:splat	302
 /bengaluru/*		/events/2023-bengaluru/:splat		302
 /berlin/*		/events/2026-berlin/:splat		302
 /birmingham-al/*	/events/2024-birmingham-al/:splat	302
@@ -42,7 +42,7 @@
 /florianopolis/*	/events/2023-florianopolis/:splat	302
 /fortaleza/*		/events/2025-fortaleza/:splat		302
 /galway/*		/events/2019-galway/:splat		302
-/geneva/*		/events/2026-geneva/:splat		302
+/geneva/*		/events/2027-geneva/:splat		302
 /ghent/*		/events/2024-antwerp/:splat		302
 /goiania/cfp		https://talks.devopsdays.org/devopsdays-goiania-2025/ 302
 /goiania/*		/events/2025-goiania/:splat		302
@@ -174,10 +174,10 @@
 /lima/*            /events/2026-lima/:splat           302
 /rosario/*            /events/2020-rosario/:splat           302
 /aarhus/*            /events/2025-aarhus/:splat           302
-/almaty/*            /events/2025-almaty/:splat           302
+/almaty/*            /events/2026-almaty/:splat           302
 /organizer-summit/*            /events/2024-organiser-summit/:splat           302
 /organiser-summit/cfp          https://talks.devopsdays.org/organiser-summit-2024/cfp           302
-/belo-horizonte/*	/events/2025-belo-horizonte/:splat	302
+/belo-horizonte/*	/events/2026-belo-horizonte/:splat	302
 
 # support ghent not being in ghent
 /15year/*		/events/2024-ghent/:splat		302
