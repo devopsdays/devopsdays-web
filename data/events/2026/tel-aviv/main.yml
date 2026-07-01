@@ -157,8 +157,10 @@ sponsors:
     level: platinum
   - id: robusta
     level: platinum
+
   - id: terasky-only
     level: gold
+
   - id: statscraft
     level: community
   - id: devopsleadersil
@@ -178,6 +180,8 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: platinum
+    label: Platinum
   - id: gold
     label: Gold
 #    max: 10
