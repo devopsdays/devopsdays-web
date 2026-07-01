@@ -160,6 +160,8 @@ sponsors:
 
   - id: terasky-only
     level: gold
+  - id: aerospike
+    level: gold
 
   - id: statscraft
     level: community
