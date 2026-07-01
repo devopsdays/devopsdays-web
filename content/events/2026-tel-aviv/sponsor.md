@@ -8,27 +8,47 @@ Description = "Sponsor devopsdays Tel Aviv 2026"
 
 ### If you are interested in sponsoring, please drop us an email at <a href="mailto:tel-aviv@devopsdays.org?subject=I would like to learn more about sponsoring DevOpsDays">tel-aviv@devopsdays.org</a>.
 
-<hr>
+ <br/>
+ <hr/>
 
 ## Diamond Booth Sample 
 <img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Diamond-Booth.JPG?raw=true" width="500">
 
+ <br/>
+ <hr/>
+
 ## Platinum Booth Sample 
 <img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Platinum-1.JPG?raw=true" width="500">&nbsp;<img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Platinum-3.JPG?raw=true" width="500">&nbsp;<img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Platinum-2.JPG?raw=true" width="500">
+
+ <br/>
+ <hr/>
 
 ## Gold Booth Sample 
 <img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Gold.JPG?raw=true" width="500">
 
+ <br/>
+ <hr/>
+
 ## Demo Theater
 <img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Demo-Theater.JPG?raw=true" width="500">
+
+ <br/>
+ <hr/>
 
 ## Coffee Sponsor 
 <img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/coffee-1.JPG?raw=true" width="500">&nbsp;<img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Coffee-2.JPG?raw=true" width="500">
 
+ <br/>
+ <hr/>
+
 ## Happy Hour Sponsor
 <img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Happy-Hour-Sponsor.JPG?raw=true" width="500">
 
+ <br/>
+ <hr/>
+
 devopsdays is a self-organizing conference for practitioners that depends on sponsorships. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
+
 <p>
 The best thing to do is send engineers to interact with the experts at devopsdays on their own terms.
 <p>

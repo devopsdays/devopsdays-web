@@ -17,6 +17,8 @@ Description = "devopsdays Tel Aviv 2026"
     {{< event_start >}} - {{< event_end >}}
   </div>
 </div>
+ <br/>
+ <hr/>
 
 <div style="text-align:center;">
   <img src="https://do3z7e6uuakno.cloudfront.net/uploads/event/banner/1129457/5c86ea1949b3df164ecdb854756a1396.png" width="750px">
@@ -26,13 +28,12 @@ Description = "devopsdays Tel Aviv 2026"
 
 
 <div class="box" style="width: 100%; text-align: center;">
-
    <span style="text-align: center;">
        <h2 style="text-transform: uppercase; color: turquoise;">EVENT LOCATION</h2>
        <h4>David Intercontinental Expo, Kaufmann 12, Tel Aviv</h4>
        <p>(<a href="https://maps.app.goo.gl/fE13tzN2x5PN6Lv5A" target="_blank">map</a>)</p>
    </span>
-   <p style="text-align: center;"> <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3381.1417680428663!2d34.76124417576631!3d32.06541412001149!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x150265dffad6000f%3A0xe6e0fd47804a4893!2sInterContinental%20David%20Tel%20Aviv%20by%20IHG!5e0!3m2!1sen!2sil!4v1782912002423!5m2!1sen!2sil" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe></p>
+   <p style="text-align: center;"> <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3381.1417680428663!2d34.76124417576631!3d32.06541412001149!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x150265dffad6000f%3A0xe6e0fd47804a4893!2sInterContinental%20David%20Tel%20Aviv%20by%20IHG!5e0!3m2!1sen!2sil!4v1782912002423!5m2!1sen!2sil" width="60%" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe></p>
  <details>
         <summary><span style="text-transform: uppercase; color: turquoise; font-size: 30px; font-weight: 700;">MORE
                 USEFUL LOCATION INFO</span></summary>
@@ -63,9 +64,8 @@ Description = "devopsdays Tel Aviv 2026"
         <p>For more information on things to do in Tel Aviv, see <a
                 href="https://www.tripadvisor.com/Attractions-g293984-Activities-Tel_Aviv_Tel_Aviv_District.html"
                 target="_blank">here</a>.</p>
- 
-    </details>
-    </div>
+     </details>
+  </div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
