@@ -55,7 +55,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: location
   - name: registration
  # - name: program
- # - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -164,7 +164,19 @@ sponsors:
    - id: coforge
      level: gold
      url: https://www.coforge.com/
+   - id: mongodb
+     level: gold
+     url: https://www.mongodb.com/
+   - id: tsoft
+     level: gold
+     url: https://www.tsoftglobal.com/
 #Silver Sponsors
+   - id: inetum
+     level: silver
+     url: https://inetum.com/pe/
+   - id: soaint
+     level: silver
+     url: https://www.soaint.com/
 #Bronze Sponsors
    - id: orexe
      level: bronze
@@ -173,6 +185,12 @@ sponsors:
    - id: hackemate
      level: community
      url: https://www.youtube.com/@hackemate
+   - id: practical-devsecops
+     level: community
+     url: https://www.practical-devsecops.com/
+   - id: mitocode
+     level: community
+     url: https://mitocode.com/
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
