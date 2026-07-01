@@ -137,10 +137,10 @@ sponsor_levels:
     label: Lanyard
     max: 1
   - id: coffee
-    label: Coffee Break Sponsor
+    label: Coffee Break
     max: 2
   - id: snack
-    label: Snacks Sponsor
+    label: Snacks
     max: 2
   - id: community
     label: Local Community Groups
