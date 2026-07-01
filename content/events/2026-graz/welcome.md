@@ -59,14 +59,14 @@ Description = "devopsdays Graz 2026"
   <div class="col-md-2">
     <strong>Propose</strong>
   </div>
-  <div class = "col-md-8">
+  <!-- <div class = "col-md-8">
     <a href="https://pretalx.com/devopsdays-graz-2026/cfp">
       Propose a talk or workshop!
     </a>
-  </div>
-  <!-- <div class="col-md-8">
-    Our call for speakers is already closed. 
   </div> -->
+  <div class="col-md-8">
+    Our call for speakers is already closed. 
+  </div>
 </div>
 <div class="row">
   <div class="col-md-2">

@@ -99,6 +99,8 @@ sponsors:
     level: gold
   - id: groundcover
     level: silver
+  - id: flox
+    level: silver
   - id: code-talent
     level: community
   - id: kubeevents

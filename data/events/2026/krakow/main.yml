@@ -21,11 +21,11 @@ cfp_date_announce: 2026-05-17T00:00:00+02:00 # inform proposers of status
 
 # cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: 2026-05-04T00:00:00+02:00
-registration_date_end: 2026-06-13T17:00:00+02:00
+registration_date_start: 2026-06-19T00:00:00+02:00
+registration_date_end: 2026-07-04T18:00:00+02:00
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://pretix.eu/europython/devops-days-krakow/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 location: "Kraków" # Defaults to city, but you can make it the venue name.
@@ -50,11 +50,11 @@ event_social_youtube: "" # Change this to the youtube channel handle for your ev
 social_shares: # ["email", "twitter", "facebook", "linkedin"]
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+ # - name: propose
  # - name: location
- # - name: registration
- # - name: program
- # - name: speakers
+  - name: registration
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -111,6 +111,146 @@ organizer_email: "krakow@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: echo_miasta
+    level: venue
+  - id: clug
+    level: organizing
+  - id: europython-society
+    level: organizing
+  - id: pegasystems
+    level: gold
+  - id: splunk
+    level: gold
+  - id: n-ix
+    level: silver
+  - id: crossweb
+    level: community
+  - id: sysopspolska
+    level: community
+  - id: pykonik
+    level: community
+
+program:
+  - title: "Registration start"
+    type: custom
+    date: 2026-07-04T00:00:00+02:00
+    start_time: "08:00"
+    end_time: "09:00"
+
+  - title: "Opening"
+    type: custom
+    date: 2026-07-04T00:00:00+02:00
+    start_time: "09:00"
+    end_time: "09:15"
+
+  - title: "bjorlin-manfred"
+    type: talk
+    date: 2026-07-04T00:00:00+02:00
+    start_time: "09:15"
+    end_time: "09:50"
+
+  - title: "Break"
+    type: custom
+    date: 2026-07-04T00:00:00+02:00
+    start_time: "09:50"
+    end_time: "10:00"
+
+  - title: "bronicki-jan"
+    type: talk
+    date: 2026-07-04T00:00:00+02:00
+    start_time: "10:00"
+    end_time: "10:35"
+
+  - title: "senecki-kamil"
+    type: talk
+    date: 2026-07-04T00:00:00+02:00
+    start_time: "10:35"
+    end_time: "11:10"
+
+  - title: "Break"
+    type: custom
+    date: 2026-07-04T00:00:00+02:00
+    start_time: "11:10"
+    end_time: "11:30"
+
+  - title: "Experience Exchange Setup (aka Open Space)"
+    type: open-space
+    date: 2026-07-04T00:00:00+02:00
+    start_time: "11:30"
+    end_time: "12:10"
+
+  - title: "Experience Exchange - Session 1"
+    type: open-space
+    date: 2026-07-04T00:00:00+02:00
+    start_time: "12:10"
+    end_time: "12:35"
+
+  - title: "Experience Exchange - Session 2"
+    type: open-space
+    date: 2026-07-04T00:00:00+02:00
+    start_time: "12:35"
+    end_time: "13:00"
+
+  - title: "Experience Exchange - Session 3"
+    type: open-space
+    date: 2026-07-04T00:00:00+02:00
+    start_time: "13:00"
+    end_time: "13:25"
+
+  - title: "Experience Exchange - Session 4"
+    type: open-space
+    date: 2026-07-04T00:00:00+02:00
+    start_time: "13:25"
+    end_time: "13:50"
+
+  - title: "Lunch Break"
+    type: custom
+    date: 2026-07-04T00:00:00+02:00
+    start_time: "13:50"
+    end_time: "14:30"
+
+  - title: "Lightning Talks"
+    type: custom
+    date: 2026-07-04T00:00:00+02:00
+    start_time: "14:30"
+    end_time: "15:30"
+    comments: |
+      - Igor Siemek: Centralized Microservice Logging with Grafana and Loki
+      - Mateusz Nalepa: Response times in services may not tell us the truth.
+      - Andrzej Amghar: Accelerating cloud onboarding self-service with Internal Developer Portals
+      - Michalina Kotwica: Tekton? But I have my some-other-tool!
+      - Dmytro Kozlov: How to use AI assistant with your monitoring system
+
+  - title: "Break"
+    type: custom
+    date: 2026-07-04T00:00:00+02:00
+    start_time: "15:30"
+    end_time: "15:40"
+
+  - title: "pomykala-pycia"
+    type: talk
+    date: 2026-07-04T00:00:00+02:00
+    start_time: "15:40"
+    end_time: "16:15"
+
+  - title: "alsaqaf-wasim"
+    type: talk
+    date: 2026-07-04T00:00:00+02:00
+    start_time: "16:15"
+    end_time: "16:50"
+
+  - title: "Wrap Up DevOpsDays"
+    type: custom
+    date: 2026-07-04T00:00:00+02:00
+    start_time: "16:50"
+    end_time: "17:00"
+
+  - title: "Afterparty"
+    type: custom
+    date: 2026-07-04T00:00:00+02:00
+    start_time: "17:00"
+    end_time: "21:00"
+
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -119,13 +259,17 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: organizing
+    label: Organizing
+    max: 2
+  - id: venue
+    label: Venue
+    max: 1
   - id: gold
     label: Gold
 #    max: 10
   - id: silver
     label: Silver
     max: 0 # This is the same as omitting the max limit.
-  - id: bronze
-    label: Bronze
   - id: community
     label: Community
