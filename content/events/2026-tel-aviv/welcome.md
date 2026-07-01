@@ -38,24 +38,22 @@ Description = "devopsdays Tel Aviv 2026"
         <summary><span style="text-transform: uppercase; color: turquoise; font-size: 30px; font-weight: 700;">MORE
                 USEFUL LOCATION INFO</span></summary>
         <h3>Transportation</h3>
-        <p>Expo Tel Aviv is centrally located next to the train and many bus lines, offering easy transport options and
+        <p>The David Intercontinental is centrally located right next to the Carmelit Bus Depot with many bus lines, likewise the new Tel Aviv light rail (Elifelet Station) offering easy transport options and
             accessibility.<br />
             If you are coming by public transportation, have a look at the <a
                 href="https://moovitapp.com/israel-1/poi/en" target="_blank">Moovit</a> app or website, that can provide
             the best information for bus, train or other public transport options. <br />
-            If you are coming by train, get off at the Tel Aviv University station. From there, exit to the Expo Tel
-            Aviv side of the station, from there it is a quick walk to Pavillion 10 inside the Expo.
-            In Tel Aviv there are many other options for public transportation including Bubble (a ride-sharing
-            service), bicycles and scooters for rent (Birds & Winds), and much more. If you have any questions regarding getting
+            If you are coming by train, get off at any of the central Tel Aviv stations (Savidor, HaShalom or HaHagana for quick bus transport to the the venue). 
+            In Tel Aviv there are many other options for public transportation including bicycles and scooters for rent, and much more. If you have any questions regarding getting
             to the venue, please make sure to <a href="#contact">contact us</a>.
         </p>  ​
         <h3>Parking</h3>
-        <p>For particpants coming by car, there are multiple parking lots inside the Expo Tel Aviv grounds. We are
-            checking on the possibility for parking discounts.</p>
+        <p>For particpants coming by car, there is parking in the hotel or near the Carmel market close by. We are
+            checking on the possibility for parking discounts through the hotel.</p>
         <h3>Accommodation</h3>
         <p>Tel Aviv is home to Israel's most prestigious beachfront hotels. The main stretch of hotels is right across
             from the
-            Tel Aviv Marina. You can find more information about the location of the various hotels <a
+            Tel Aviv coast. You can find more information about the location of the various hotels <a
                 href="https://www.tripadvisor.com/Hotels-g293984-Tel_Aviv_Tel_Aviv_District-Hotels.html"
                 target="_blank"></a>here.</p>
         <h3>Leisure</h3>
