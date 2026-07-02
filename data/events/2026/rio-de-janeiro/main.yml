@@ -29,9 +29,9 @@ registration_closed: "" #set this to true if you need to manually close registra
 registration_link: "https://www.sympla.com.br/evento/devopsdays-rio-de-janeiro-2026/3333141?share_id=copiarlink"
 
 # Location
-coordinates: "-22.983646736513947, -43.1965327176094" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Arca Hub"
-location_address: "R. Jangadeiros, 48 - Ipanema, Rio de Janeiro - RJ, 22420-010" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+coordinates: "-22.9442018, -43.1852551" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "FIAP"
+location_address: "R. Marquês de Olinda, 11 , 3º andar - Botafogo, Rio de Janeiro - RJ, 22251-040" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   # - name: propose
@@ -100,9 +100,6 @@ sponsors:
     level: diamond
 
   - id: fiap
-    level: diamond
-
-  - id: alura
     level: diamond
 
   #Gold Sponsors
