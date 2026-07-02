@@ -26,7 +26,7 @@ Description = "Meet our speakers for DevOpsDays Rockies 2026"
         .then((data) => {
             let speakers = data.results;
 
-            speakers.map(function(speaker) {
+            speakers.forEach(function(speaker) {
                 let li = document.createElement('div');
                 li.className = `col-lg-3 col-md-6 p-3`;
                 let name = document.createElement('h3');
@@ -36,10 +36,10 @@ Description = "Meet our speakers for DevOpsDays Rockies 2026"
                 let talk = document.createElement('a');
 
                 name.innerHTML = `${speaker.name}`;
-                pic.src = speaker.avatar_url.length != 0 ? `${speaker.avatar_url}`: '/img/speaker-default.jpg';
+                pic.src = speaker.avatar_url && speaker.avatar_url.length !== 0 ? `${speaker.avatar_url}` : '/img/speaker-default.jpg';
                 pic.className = `speakers-page`;
-                bio.innerHTML = `<summary><b>About ${speaker.name}</b></summary><p>${speaker.biography ? `${speaker.biography}`: `Ipsum`}</p>`;
-                talk.setAttribute('href', speaker.submissions[0] ? `https://talks.devopsdays.org/dodroxrox26/talk/${speaker.submissions[0]}` : ``);
+                bio.innerHTML = `<summary><b>About ${speaker.name}</b></summary><p>${speaker.biography || 'Ipsum'}</p>`;
+                talk.setAttribute('href', speaker.submissions && speaker.submissions[0] ? `https://talks.devopsdays.org/dodroxrox26/talk/${speaker.submissions[0]}` : ``);
                 talk.setAttribute('target', '_blank');
                 talk.className = `btn btn-primary`;
                 talk.innerHTML = `Link to talk`;
