@@ -38,6 +38,7 @@ Description = "Meet our speakers for DevOpsDays Rockies 2026"
                 name.innerHTML = `${speaker.name}`;
                 pic.src = speaker.avatar_url && speaker.avatar_url.length !== 0 ? `${speaker.avatar_url}` : '/img/speaker-default.jpg';
                 pic.className = `speakers-page`;
+                pic.referrerPolicy = `no-referrer`;
                 bio.innerHTML = `<summary><b>About ${speaker.name}</b></summary><p>${speaker.biography || 'Ipsum'}</p>`;
                 talk.setAttribute('href', speaker.submissions && speaker.submissions[0] ? `https://talks.devopsdays.org/dodroxrox26/talk/${speaker.submissions[0]}` : ``);
                 talk.setAttribute('target', '_blank');
