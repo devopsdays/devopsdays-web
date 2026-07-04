@@ -57,8 +57,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: propose
   - name: location
   - name: registration
-  # - name: program
-  # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -130,3 +130,115 @@ sponsor_levels:
     label: Community
   - id: accessibility
     label: Accessibility
+program:
+  # Day one
+  - title: "Registration & Coffee"
+    type: custom
+    date: 2026-09-17T00:00:00+01:00
+    start_time: "09:00"
+    end_time: "09:45"
+
+  - title: "Welcome"
+    type: custom
+    date: 2026-09-17T00:00:00+01:00
+    start_time: "09:45"
+    end_time: "10:00"
+
+  - title: "kat-stevens"
+    type: talk
+    date: 2026-09-17T00:00:00+01:00
+    start_time: "10:00"
+    end_time: "10:30"
+
+  - title: "dylan-ratcliffe"
+    type: talk
+    date: 2026-09-17T00:00:00+01:00
+    start_time: "10:35"
+    end_time: "11:05"
+
+  - title: "Coffee break"
+    type: custom
+    date: 2026-09-17T00:00:00+01:00
+    start_time: "11:05"
+    end_time: "11:25"
+
+  - title: "kasira-iqbal"
+    type: talk
+    date: 2026-09-17T00:00:00+01:00
+    start_time: "11:25"
+    end_time: "11:55"
+
+  - title: "alexandra-hou-aldershaab"
+    type: talk
+    date: 2026-09-17T00:00:00+01:00
+    start_time: "12:00"
+    end_time: "12:30"
+
+  - title: "Ignites"
+    type: ignite
+    date: 2026-09-17T00:00:00+01:00
+    start_time: "12:35"
+    end_time: "13:05"
+
+  - title: "Lunch"
+    type: custom
+    date: 2026-09-17T00:00:00+01:00
+    start_time: "13:05"
+    end_time: "14:05"
+
+  - title: "Open Spaces Planning"
+    type: open-space
+    date: 2026-09-17T00:00:00+01:00
+    start_time: "14:05"
+    end_time: "14:30"
+
+  - title: "Open Spaces Session 1"
+    type: open-space
+    date: 2026-09-17T00:00:00+01:00
+    start_time: "14:30"
+    end_time: "15:10"
+
+  - title: "Open Spaces Session 2"
+    type: open-space
+    date: 2026-09-17T00:00:00+01:00
+    start_time: "15:15"
+    end_time: "15:55"
+
+  - title: "Coffee break"
+    type: custom
+    date: 2026-09-17T00:00:00+01:00
+    start_time: "15:55"
+    end_time: "16:10"
+
+  - title: "Open Spaces Session 3"
+    type: open-space
+    date: 2026-09-17T00:00:00+01:00
+    start_time: "16:10"
+    end_time: "16:45"
+
+  - title: "andy-burgin"
+    type: talk
+    date: 2026-09-17T00:00:00+01:00
+    start_time: "16:45"
+    end_time: "17:15"
+
+  - title: "Closing Remarks"
+    type: custom
+    date: 2026-09-17T00:00:00+01:00
+    start_time: "17:15"
+    end_time: "17:30"
+
+ignites:
+  # Day one
+  - title: "saurabh-sharma"
+    date: 2026-09-17T00:00:00+01:00
+  - title: "omodolapo-barakat-babatunde"
+    date: 2026-09-17T00:00:00+01:00
+  - title: "arzu-guney"
+    date: 2026-09-17T00:00:00+01:00
+  - title: "laurence-pakenham-smiths"
+    date: 2026-09-17T00:00:00+01:00
+  - title: "saikeerthi-m"
+    date: 2026-09-17T00:00:00+01:00
+  - title: "matilde-aliffi"
+    date: 2026-09-17T00:00:00+01:00
