@@ -170,6 +170,9 @@ sponsors:
    - id: tsoft
      level: gold
      url: https://www.tsoftglobal.com/
+   - id: nutanix
+     level: gold
+     url: https://www.nutanix.com/
 #Silver Sponsors
    - id: inetum
      level: silver
