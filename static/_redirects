@@ -174,7 +174,7 @@
 /lima/*            /events/2026-lima/:splat           302
 /rosario/*            /events/2020-rosario/:splat           302
 /aarhus/*            /events/2025-aarhus/:splat           302
-/almaty/*            /events/2025-almaty/:splat           302
+/almaty/*            /events/2026-almaty/:splat           302
 /organizer-summit/*            /events/2024-organiser-summit/:splat           302
 /organiser-summit/cfp          https://talks.devopsdays.org/organiser-summit-2024/cfp           302
 /belo-horizonte/*	/events/2026-belo-horizonte/:splat	302
@@ -267,3 +267,4 @@
 /ciudad-autonoma-de-buenos-aires/*            /events/2026-ciudad-autonoma-de-buenos-aires/:splat           302
 /brasov/*            /events/2026-brasov/:splat           302
 /tashkent/*            /events/2026-tashkent/:splat           302
+/islamabad/*            /events/2026-islamabad/:splat           302
