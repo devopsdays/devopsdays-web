@@ -86,7 +86,7 @@ team_members: # Name is the only required field for team members.
 
   - name: "Jeremy Hess"
     twitter: "jphess2"
-    employer: "Independent"
+    employer: "Akeyless"
     github: "yeshess"
     linkedin: "https://www.linkedin.com/in/sallyfields"
     website: ""
@@ -110,7 +110,7 @@ team_members: # Name is the only required field for team members.
 
   - name: "Tal Kimhi"
     twitter: "talkimhi"
-    employer: "Big Panda"
+    employer: "Draftt"
     github: "talkimhi"
     linkedin: "https://www.linkedin.com/in/talkimhi/"
     website: "https://bigpanda.io"
@@ -118,7 +118,7 @@ team_members: # Name is the only required field for team members.
 
   - name: "Gil Zellner"
     twitter: "heathenaspargus"
-    employer: "Google"
+    employer: "Imperva"
     github: gilzellner
     linkedin: "https://www.linkedin.com/in/gilzellner/"
     website: "https://www.linkedin.com/in/gilzellner/"
@@ -134,7 +134,7 @@ team_members: # Name is the only required field for team members.
 
   - name: "Or Cohen"
     twitter: "lightpriest"
-    employer: "Melio Payments"
+    employer: "Melio Payments / Xero"
     github: 
     linkedin: ""
     website: "https://meliopayments.com"
