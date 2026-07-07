@@ -49,11 +49,11 @@ event_social_youtube: "devopsdaysrockies" # Change this to the youtube channel h
 # event_twitter: "devopsdaysrox" # This will create a traditional "Follow" twitter button. Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
   - name: location
   - name: registration
  # - name: program
- # - name: speakers
+  - name: speakers
+  - name: talks
   - name: sponsor
   - name: contact
   - name: conduct
