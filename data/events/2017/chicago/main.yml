@@ -197,7 +197,7 @@ sponsors:
     level: gold
   - id: cmegroup
     level: silver
-  - id: github
+  - id: github-before-20260707
     level: silver
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link

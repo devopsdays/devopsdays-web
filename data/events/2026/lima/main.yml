@@ -173,6 +173,9 @@ sponsors:
    - id: nutanix
      level: gold
      url: https://www.nutanix.com/
+   - id: github
+     level: gold
+     url: https://github.com/
 #Silver Sponsors
    - id: inetum
      level: silver
