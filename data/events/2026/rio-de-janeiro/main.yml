@@ -105,6 +105,9 @@ sponsors:
   #Gold Sponsors
   - id: stone
     level: gold
+
+  - id: kaspersky
+    level: gold
   #Silver Sponsors
 
   #Community
@@ -150,7 +153,7 @@ program:
     comments: "Sala: Rollback"
 
   #Keynote-1
-  - title: TBA
+  - title: Nicole Pessoa - Tecnologia com propósito, comunidade que transformam e um futuro mais inclusivo
     type: custom
     date: 2026-08-15
     start_time: "10:00"
@@ -166,7 +169,8 @@ program:
     comments: "Trilha Iniciante - Sala: Deploy"
     background_color: "#fdf0d5"
 
-  - title: lara-xavier
+
+  - title: ivan-moulin
     type: talk
     date: 2026-08-15
     start_time: "10:30"
@@ -174,8 +178,8 @@ program:
     comments: "Trilha Avançada - Sala: Rollback"
     background_color: "#81b29a"
 
-  - title: paloma-lataliza
-    type: talk
+  - title: TBA
+    type: custom
     date: 2026-08-15
     start_time: "11:00"
     end_time: "11:30"
@@ -190,7 +194,7 @@ program:
     background_color: "#81b29a"
 
   #Keynote-2
-  - title: TBA
+  - title: Giovanni Bassi - Arquitetura que evolui, times que aprendem, tecnologia que transforma
     type: custom
     date: 2026-08-15
     start_time: "11:30"
@@ -275,8 +279,8 @@ program:
     end_time: "16:30"
     comments: "Trilha Iniciante - Sala: Deploy"
     background_color: "#fdf0d5"
-  - title: TBA
-    type: custom
+  - title: lara-xavier
+    type: talk
     date: 2026-08-15
     start_time: "16:00"
     end_time: "16:30"
