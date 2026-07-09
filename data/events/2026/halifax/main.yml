@@ -13,17 +13,16 @@ cfp_date_start: 2026-05-01
 cfp_date_end: 2026-06-08
 cfp_date_announce: 2026-08-01
 cfp_link: "https://talks.devopsdays.org/halifax-2026/cfp"
-registration_date_start:
+registration_date_start: 2026-07-09
 registration_date_end:
 registration_closed: ""
-registration_link: ""
+registration_link: "https://tickets.devopsdays.org/devopsdays-halifax/2026/"
 coordinates: ""
 location: "Trade Centre Office Tower"
 location_address: "1800 Argyle St Unit 801, Halifax, NS B3J 3N8"
 nav_elements:
   - name: location
   - name: registration
-  - name: propose
   - name: sponsor
   - name: contact
   - name: conduct
