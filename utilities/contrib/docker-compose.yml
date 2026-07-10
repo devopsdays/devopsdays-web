@@ -1,0 +1,19 @@
+# docker compose -f utilities/contrib/docker-compose.yml up
+services:
+  hugo:
+    build:
+      dockerfile: ../../.devcontainer/Dockerfile
+      args:
+        NODE_VERSION: "${NODE_VERSION:?NODE_VERSION must be set - run via make docker-server}"
+        VARIANT: hugo_extended
+        VERSION: "${HUGO_VERSION:?HUGO_VERSION must be set - run via make docker-server}"
+    working_dir: /workspace
+    volumes:
+      - ../../:/workspace
+      - node_modules:/workspace/node_modules
+    ports:
+      - "1313:1313"
+    command: sh -c "npm install && make deps && hugo server --bind 0.0.0.0 --poll 1s"
+
+volumes:
+  node_modules:

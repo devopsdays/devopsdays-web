@@ -104,12 +104,15 @@ organizer_email: "portland-or@devopsdays.org" # Put your organizer email address
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
-sponsors: []
+sponsors:
 #   - id: samplesponsorname
 #     level: gold
 #  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 #   - id: arresteddevops
 #     level: community
+  - id: microsoftazure
+    level: snack
+
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -134,10 +137,10 @@ sponsor_levels:
     label: Lanyard
     max: 1
   - id: coffee
-    label: Coffee Break Sponsor
+    label: Coffee Break
     max: 2
   - id: snack
-    label: Snacks Sponsor
+    label: Snacks
     max: 2
   - id: community
     label: Local Community Groups

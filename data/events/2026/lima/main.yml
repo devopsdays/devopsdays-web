@@ -170,10 +170,19 @@ sponsors:
    - id: tsoft
      level: gold
      url: https://www.tsoftglobal.com/
+   - id: nutanix
+     level: gold
+     url: https://www.nutanix.com/
+   - id: github
+     level: gold
+     url: https://github.com/
 #Silver Sponsors
    - id: inetum
      level: silver
      url: https://inetum.com/pe/
+   - id: soaint
+     level: silver
+     url: https://www.soaint.com/
 #Bronze Sponsors
    - id: orexe
      level: bronze
@@ -185,6 +194,9 @@ sponsors:
    - id: practical-devsecops
      level: community
      url: https://www.practical-devsecops.com/
+   - id: mitocode
+     level: community
+     url: https://mitocode.com/
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
