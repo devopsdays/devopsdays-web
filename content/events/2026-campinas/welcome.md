@@ -1,7 +1,12 @@
 +++
 Title = "DevOpsDays Campinas 2026"
 Type = "welcome"
-aliases = ["/events/2026-campinas/"]
+aliases = [
+  "/events/2026-campinas/",
+  "/events/2026-campinas/location/",
+  "/events/2026-campinas/program/",
+  "/events/2026-campinas/sponsor/"
+]
 Description = "DevOpsDays Campinas 2026"
 +++
 <style type="text/css">
