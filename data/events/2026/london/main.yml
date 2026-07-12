@@ -110,6 +110,10 @@ organizer_email: "london@devopsdays.org" # Put your organizer email address here
 sponsors:
   - id: minimus
     level: gold
+  - id: oag
+    level: silver
+  - id: appsignal
+    level: accessibility
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -238,7 +242,7 @@ ignites:
     date: 2026-09-17T00:00:00+01:00
   - title: "laurence-pakenham-smiths"
     date: 2026-09-17T00:00:00+01:00
-  - title: "saikeerthi-m"
-    date: 2026-09-17T00:00:00+01:00
   - title: "matilde-aliffi"
+    date: 2026-09-17T00:00:00+01:00
+  - title: "saikeerthi-m"
     date: 2026-09-17T00:00:00+01:00

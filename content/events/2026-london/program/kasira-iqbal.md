@@ -7,4 +7,4 @@ Type = "talk"
 Speakers = ["kasira-iqbal"]
 +++
 
-This talk explores how we helped one of the UK’s largest charities, Prostate Cancer UK, rebuild their public-facing website using modern cloud-native tools and practices to achieve a 85% reduction in hosting costs and carbon emissions
+Her talk explores how we helped one of the UK’s largest charities, Prostate Cancer UK, rebuild their public-facing website using modern cloud-native tools and practices to achieve a 85% reduction in hosting costs and carbon emissions
