@@ -173,9 +173,8 @@ sponsors:
    - id: nutanix
      level: gold
      url: https://www.nutanix.com/
-   - id: github
+   - id: seti
      level: gold
-     url: https://github.com/
 #Silver Sponsors
    - id: inetum
      level: silver
@@ -183,10 +182,13 @@ sponsors:
    - id: soaint
      level: silver
      url: https://www.soaint.com/
-#Bronze Sponsors
    - id: orexe
-     level: bronze
+     level: silver
      url: https://orexe.pe/
+   - id: github
+     level: silver
+     url: https://github.com/
+#Bronze Sponsors
 #Community Sponsors
    - id: hackemate
      level: community
