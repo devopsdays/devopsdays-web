@@ -2,7 +2,7 @@
 Title = "DevOpsDays Halifax 2026"
 Type = "welcome"
 aliases = ["/events/2026-halifax/"]
-Description = "DevOpsDays Halifax 2026 — September 29, 2026 at Volta in downtown Halifax."
+Description = "DevOpsDays Halifax 2026 — September 29, 2026 in downtown Halifax."
 +++
 <style type="text/css">
 .hfx26 {
@@ -151,15 +151,15 @@ Description = "DevOpsDays Halifax 2026 — September 29, 2026 at Volta in downto
 <h1>DevOpsDays Halifax 2026</h1>
 <p class="tagline">A day dedicated to learning, collaboration, and community for tech practitioners across Atlantic Canada and beyond.</p>
 <div class="hfx26-cta-row">
-<a class="hfx26-btn hfx26-btn-primary" href="https://talks.devopsdays.org/halifax-2026/cfp">Propose a Talk</a>
+<a class="hfx26-btn hfx26-btn-primary" href="https://tickets.devopsdays.org/devopsdays-halifax/2026/">Get Tickets</a>
 <a class="hfx26-btn hfx26-btn-secondary" href="../sponsor/">Become a Sponsor</a>
 </div>
 </div>
 <div class="explore-bar">
 <h3>Explore</h3>
 <div class="nav-grid">
+<a class="hfx26-nav-link" href="../registration/">Get Tickets</a>
 <a class="hfx26-nav-link" href="../location/">Venue Info</a>
-<a class="hfx26-nav-link" href="https://talks.devopsdays.org/halifax-2026/cfp">Propose a Talk</a>
 <a class="hfx26-nav-link" href="../sponsor/">Become a Sponsor</a>
 <a class="hfx26-nav-link" href="../convince-your-boss/">Convince Your Boss</a>
 <a class="hfx26-nav-link" href="../conduct/">Code of Conduct</a>
@@ -195,10 +195,9 @@ Description = "DevOpsDays Halifax 2026 — September 29, 2026 at Volta in downto
 <p>DevOpsDays Halifax brings together a diverse and highly engaged group of professionals — senior technical leaders, executives, software engineers, platform teams, site reliability engineers, security specialists, and students. Whether you are shaping DevOps strategy at an organizational level or just getting started, this event offers a chance to connect, learn, and grow with peers across Atlantic Canada and beyond.</p>
 </div>
 <div class="section">
-<h2>Get involved</h2>
-<p>The Call for Proposals runs <strong>May 1 – June 8, 2026</strong>. If you have a story, lesson, or perspective to share, we encourage you to <a href="https://talks.devopsdays.org/halifax-2026/cfp">apply via Pretalx</a>.</p>
-<p>Registration details will be announced soon. Discounted tickets for students and folks from underrepresented communities will be available — please email <a href="mailto:halifax@devopsdays.org">halifax@devopsdays.org</a> once registration opens to request a voucher.</p>
-<p>Thank you to our venue sponsor, <strong>Volta</strong>, for hosting us in downtown Halifax.</p>
+<h2>Get your tickets</h2>
+<p>Tickets are now on sale — <a href="https://tickets.devopsdays.org/devopsdays-halifax/2026/">grab yours here</a>. Groups of 5 or more get 15% off in the same order.</p>
+<p>We also have discounted tickets for students and folks from underrepresented communities, plus inclusive access tickets for anyone between jobs or facing financial hardship. Email <a href="mailto:halifax@devopsdays.org">halifax@devopsdays.org</a> for a voucher code.</p>
 </div>
 <p class="conduct-note">By attending, you agree to the <a href="../conduct/">DevOpsDays Halifax Code of Conduct</a>.</p>
 </div>

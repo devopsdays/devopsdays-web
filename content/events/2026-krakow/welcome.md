@@ -58,10 +58,6 @@ Description = "devopsdays Kraków 2026"
   .text h2 {
     margin-top: 2rem;
   }
-
-  .sponsor-row img.img-fluid{
-    max-height: 50px;
-  }
 </style>
 
 <div style='width:100%;text-align:center;margin-bottom:2rem;'>
@@ -85,6 +81,7 @@ Our participants come from various backgrounds, including software development, 
   </div>
 
   <div class="text-section-col">
+    <a href="https://pretix.eu/europython/devops-days-krakow/" type="button" class="btn btn-danger btn-lg btn-block">REGISTER</a>
     <a href="/events/2026-krakow/program" type="button" class="btn btn-danger btn-lg btn-block">PROGRAM</a>
     <a href="/events/2026-krakow/speakers" type="button" class="btn btn-danger btn-lg btn-block">SPEAKERS</a>
     <br/>

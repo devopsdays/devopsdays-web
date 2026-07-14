@@ -249,7 +249,7 @@ sponsors:
     level: b4con
   - id: cloudbolt
     level: b4con
-  - id: mongodb
+  - id: mongodb-before-20260613
     level: b4con
   - id: arresteddevops
     level: community

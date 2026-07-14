@@ -15,16 +15,16 @@ enddate:  2026-09-10T18:00:00-07:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  2026-05-08T00:00:00-07:00
-cfp_date_end: 2026-06-15T18:00:00-07:00
+cfp_date_end: 2026-07-06T18:00:00-07:00
 cfp_date_announce: 2026-07-01T00:00:00-07:00
 
 cfp_link: "https://talks.devopsdays.org/devopsdays-portland-2026/cfp" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start: 2026-06-12T12:00:00-07:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2026-09-10T12:00:00-07:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://tickets.devopsdays.org/devopsdays-pdx/2026/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -36,12 +36,12 @@ location_address: "Smith Memorial Student Union, 1825 SW Broadway, Portland, OR 
 
 # Optional - Social badges
 # These can be used in the body of any page via matching shortcodes. See sample:  https://devopsdays.org/events/2025-denver/welcome/
-# event_social_linkedin: "https://linkedin.com/company/DevOpsDaysPDX" # Change this to the url to your Linkedin group, company, or page.
+event_social_linkedin: "https://www.linkedin.com/company/devopsdays-pdx" # Change this to the url to your Linkedin group, company, or page.
 # event_social_slack: "https://join.slack.com/t/DevOpsDaysPDX/custom_shared_invite_url" # Change this to your slack invite link.
 # event_social_listserv: "https://lists.devopsdays.org/subscription?custom_listserv_invite_url" # Change this to your mailing list subscription form url.
 # event_social_twitter: "DevOpsDaysPDX" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-# event_social_mastodon: "https://mastodon.social/@DevOpsDaysPDX" # Change this to url to your mastodon page
-# event_social_bsky: "https://bsky.app/profile/DevOpsDaysPDX.bsky.social" # Change this to url to your bluesky page
+event_social_mastodon: "https://social.devopsdays.org/@DevOpsDaysPDX" # Change this to url to your mastodon page
+event_social_bsky: "https://bsky.app/profile/DevOpsDaysPDX.bsky.social" # Change this to url to your bluesky page
 event_social_youtube: "devopsdaysportland" # Change this to the youtube channel handle for your event such as devopsdaysrox
 
 
@@ -50,12 +50,12 @@ event_social_youtube: "devopsdaysportland" # Change this to the youtube channel 
 # If not specified, defaults to all: ["email", "twitter", "facebook", "linkedin"]
 # Valid values: "email", "twitter", "facebook", "linkedin"
 # Example: social_shares: ["email", "linkedin"]  # Only show email and LinkedIn share buttons
-social_shares: # ["email", "twitter", "facebook", "linkedin"]
+social_shares: ["email", "bluesky", "mastodon", "twitter", "facebook", "linkedin"]
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
  # - name: location
- # - name: registration
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
@@ -99,16 +99,20 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/jeremy-adams-pdx"
     image: "jpadams.png"
 
+
 organizer_email: "portland-or@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
-sponsors: []
+sponsors:
 #   - id: samplesponsorname
 #     level: gold
 #  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 #   - id: arresteddevops
 #     level: community
+  - id: microsoftazure
+    level: snack
+
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -133,10 +137,10 @@ sponsor_levels:
     label: Lanyard
     max: 1
   - id: coffee
-    label: Coffee Break Sponsor
+    label: Coffee Break
     max: 2
   - id: snack
-    label: Snacks Sponsor
+    label: Snacks
     max: 2
   - id: community
     label: Local Community Groups

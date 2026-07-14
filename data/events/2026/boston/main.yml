@@ -1,0 +1,85 @@
+name: "2026-boston"
+year: "2026"
+city: "Boston"
+event_twitter: "devopsdaysbos"
+description: "DevOpsDays Boston Is Back for 2026!"
+
+startdate: "2026-10-19T09:00:00-05:00"
+enddate: "2026-10-20T17:30:00-05:00"
+
+cfp_date_start:  # start accepting talk proposals.
+cfp_date_end:  # close your call for proposals.
+cfp_date_announce:  # inform proposers of status
+
+cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+location: "Microsoft NERD Center"
+location_address: "1 Memorial Drive, Cambridge MA 02142"
+
+event_social_linkedin: "https://www.linkedin.com/company/devopsdaysbos"
+event_social_slack: "https://bostondevops.github.io"
+event_social_twitter: "devopsdaysbos"
+event_social_youtube: "devopsdaysboston"
+
+
+# Social Share Buttons
+# Optional: Specify which social share buttons to display on event pages.
+# If not specified, defaults to all: ["email", "twitter", "facebook", "linkedin"]
+# Valid values: "email", "twitter", "facebook", "linkedin"
+# Example: social_shares: ["email", "linkedin"]  # Only show email and LinkedIn share buttons
+social_shares: # ["email", "twitter", "facebook", "linkedin"]
+
+masthead_background: "skyline.jpg"
+nav_elements:
+ # - name: propose
+ # - name: location
+ # - name: registration
+ # - name: program
+ # - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+team_members:
+  - name: "Don Luchini"
+    image: "donluchini.jpg"
+    bio: "Don Luchini is a Boston-based engineer and architect with a passion for automation, teaching, learning, presentation, and community. In addition to organizing DevOpsDays Boston, he also helps organize the monthly [Boston DevOps meetup](https://meetup.com/boston-devops). In his infinite spare time, he teaches Uechi-ryu karate, operates amateur radio as KC1YEK, loves hiking, and is an enjoyer of local coffee, beer, and music."
+    github: whoiscarmine
+    website: https://hardwarehacks.org
+  - name: "Carmine Granucci"
+    image: "carminegranucci.jpg"
+    bio: "Carmine Granucci is a Boston-based IT operations leader who has spent his career turning reactive support teams into proactive ones across healthcare technology and higher education. He is currently Director of IT Operations at Vinfen, a health and human services nonprofit, and serves as Treasurer of the Boston DevOps Network. He came up through BBS boards and the early web and never really left, which probably explains why every machine in his homelab is named after a Transformer. When he is not working, he is an Arlington Town Meeting Member, a serious coffee drinker, a craft beer hobbyist, and a lifelong Red Sox fan."
+    linkedin: https://www.linkedin.com/in/carminegranucci/
+    github: whoiscarmine
+    website: https://carminegranucci.com/
+  - name: "Josh"
+    bio: "Not much is known about Josh, other than he tends to show up, support the mission, not say much, and disappear into the night when no longer required."
+
+organizer_email: "boston@devopsdays.org"
+
+sponsors:
+  - id: atomiccoffeeroasters
+    level: coffee
+
+sponsors_accepted : "yes"
+
+sponsor_levels:
+  - id: gold
+    label: Gold
+    max: 6
+  - id: startupalley
+    label: Startup Alley
+    max: 2
+  - id: coffee
+    label: Coffee
+    max: 1

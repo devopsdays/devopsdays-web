@@ -3,7 +3,6 @@ Title = "Propose"
 Type = "event"
 Description = "Propose a talk for devopsdays Portugal 2026"
 +++
-  {{< cfp_dates >}}
 
 <br/>
 <div class="row justify-content-center">

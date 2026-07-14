@@ -29,9 +29,9 @@ registration_closed: "" #set this to true if you need to manually close registra
 registration_link: "https://www.sympla.com.br/evento/devopsdays-rio-de-janeiro-2026/3333141?share_id=copiarlink"
 
 # Location
-coordinates: "-22.983646736513947, -43.1965327176094" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Arca Hub"
-location_address: "R. Jangadeiros, 48 - Ipanema, Rio de Janeiro - RJ, 22420-010" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+coordinates: "-22.9442018, -43.1852551" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "FIAP"
+location_address: "R. Marquês de Olinda, 11 , 3º andar - Botafogo, Rio de Janeiro - RJ, 22251-040" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   # - name: propose
@@ -102,10 +102,11 @@ sponsors:
   - id: fiap
     level: diamond
 
-  - id: alura
-    level: diamond
   #Gold Sponsors
   - id: stone
+    level: gold
+
+  - id: kaspersky
     level: gold
   #Silver Sponsors
 
@@ -115,8 +116,6 @@ sponsors:
 
   - id: docker-rio
     level: community
-
-
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -139,54 +138,40 @@ program:
     end_time: "09:00"
 
   #CoffeeBreak-1
-  - title: TBA
+  - title: Coffee Break
     type: custom
     date: 2026-08-15
     start_time: "09:00"
-    end_time: "09:20"
+    end_time: "09:30"
 
   #Opening
-  - title: TBA
-    type: custom
-    date: 2026-08-15
-    start_time: "09:20"
-    end_time: "09:30"
-    comments: "Sala: Rollback"
-
-  #Keynote-1
-  - title: TBA
+  - title: Abertura
     type: custom
     date: 2026-08-15
     start_time: "09:30"
     end_time: "10:00"
+    comments: "Sala: Rollback"
+
+  #Keynote-1
+  - title: Nicole Pessoa - Tecnologia com propósito, comunidade que transformam e um futuro mais inclusivo
+    type: custom
+    date: 2026-08-15
+    start_time: "10:00"
+    end_time: "10:30"
     comments: "Keynote - Sala: Rollback"
     background_color: "#FFFA99"
 
-  - title: TBA
-    type: custom
-    date: 2026-08-15
-    start_time: "10:00"
-    end_time: "10:30"
-    comments: "Trilha Iniciante - Sala: Deploy"
-    background_color: "#fdf0d5"
-
-  - title: TBA
-    type: custom
-    date: 2026-08-15
-    start_time: "10:00"
-    end_time: "10:30"
-    comments: "Trilha Avançada - Sala: Rollback"
-    background_color: "#81b29a"
-
-  - title: TBA
-    type: custom
+  - title: bernardo-gomes-lankheet
+    type: talk
     date: 2026-08-15
     start_time: "10:30"
     end_time: "11:00"
     comments: "Trilha Iniciante - Sala: Deploy"
     background_color: "#fdf0d5"
-  - title: TBA
-    type: custom
+
+
+  - title: ivan-moulin
+    type: talk
     date: 2026-08-15
     start_time: "10:30"
     end_time: "11:00"
@@ -200,120 +185,105 @@ program:
     end_time: "11:30"
     comments: "Trilha Iniciante - Sala: Deploy"
     background_color: "#fdf0d5"
-  - title: TBA
-    type: custom
+  - title: leonam-ricardo-vasquez-ramos
+    type: talk
     date: 2026-08-15
     start_time: "11:00"
     end_time: "11:30"
     comments: "Trilha Avançada - Sala: Rollback"
     background_color: "#81b29a"
 
-  - title: TBA
+  #Keynote-2
+  - title: Giovanni Bassi - Arquitetura que evolui, times que aprendem, tecnologia que transforma
     type: custom
     date: 2026-08-15
     start_time: "11:30"
     end_time: "12:00"
-    comments: "Trilha Iniciante - Sala: Deploy"
-    background_color: "#fdf0d5"
-  - title: TBA
-    type: custom
-    date: 2026-08-15
-    start_time: "11:30"
-    end_time: "12:00"
-    comments: "Trilha Avançada - Sala: Rollback"
-    background_color: "#81b29a"
+    comments: "Keynote - Sala: Rollback"
+    background_color: "#FFFA99"
 
   #Lunch
   - title: "Almoço"
     type: custom
     date: 2026-08-15
     start_time: "12:00"
-    end_time: "13:30"
+    end_time: "13:45"
 
   #Ignite Talks
   - title: "Ignite Talks"
     type: custom
     date: 2026-08-15
-    start_time: "13:30"
-    end_time: "13:45"
+    start_time: "13:45"
+    end_time: "14:00"
     comments: "Sala: Rollback"
     background_color: "#C3FFD7"
 
-  #Keynote-2
+  #Keynote-3
   - title: TBA
     type: custom
     date: 2026-08-15
-    start_time: "13:45"
-    end_time: "14:15"
+    start_time: "14:00"
+    end_time: "14:30"
     comments: "Keynote - Sala: Rollback"
     background_color: "#FFFA99"
 
-  - title: TBA
-    type: custom
-    date: 2026-08-15
-    start_time: "14:15"
-    end_time: "14:30"
-    comments: "Trilha Iniciante - Sala: Deploy"
-    background_color: "#fdf0d5"
-
-  - title: TBA
-    type: custom
+  - title: camis-moreira
+    type: talk
     date: 2026-08-15
     start_time: "14:30"
-    end_time: "14:45"
+    end_time: "15:00"
     comments: "Trilha Iniciante - Sala: Deploy"
     background_color: "#fdf0d5"
-
-  - title: TBA
-    type: custom
+  - title: lucas-ribeiro-mata
+    type: talk
     date: 2026-08-15
-    start_time: "14:15"
-    end_time: "14:45"
+    start_time: "14:30"
+    end_time: "15:00"
     comments: "Trilha Avançada - Sala: Rollback"
     background_color: "#81b29a"
 
-  - title: TBA
-    type: custom
+  - title: marilene-aparecida-fidencio-da-silva-lourenco
+    type: talk
     date: 2026-08-15
-    start_time: "14:45"
-    end_time: "15:15"
+    start_time: "15:00"
+    end_time: "15:30"
     comments: "Trilha Iniciante - Sala: Deploy"
     background_color: "#fdf0d5"
-  - title: TBA
-    type: custom
+  - title: thiago-goncalves-escobar
+    type: talk
     date: 2026-08-15
-    start_time: "14:45"
-    end_time: "15:15"
+    start_time: "15:00"
+    end_time: "15:30"
     comments: "Trilha Avançada - Sala: Rollback"
     background_color: "#81b29a"
 
-  - title: TBA
-    type: custom
+  - title: fernanda-gugliellmo
+    type: talk
     date: 2026-08-15
-    start_time: "15:15"
-    end_time: "15:45"
+    start_time: "15:30"
+    end_time: "16:00"
     comments: "Trilha Iniciante - Sala: Deploy"
     background_color: "#fdf0d5"
   - title: TBA
     type: custom
     date: 2026-08-15
-    start_time: "15:15"
-    end_time: "15:45"
+    start_time: "15:30"
+    end_time: "16:00"
     comments: "Trilha Avançada - Sala: Rollback"
     background_color: "#81b29a"
 
-  - title: TBA
-    type: custom
+  - title: cerebro-e-codigo-performance-em-ambientes-de-alta-demanda-cognitiva
+    type: talk
     date: 2026-08-15
-    start_time: "15:45"
-    end_time: "16:15"
+    start_time: "16:00"
+    end_time: "16:30"
     comments: "Trilha Iniciante - Sala: Deploy"
     background_color: "#fdf0d5"
-  - title: TBA
-    type: custom
+  - title: lara-xavier
+    type: talk
     date: 2026-08-15
-    start_time: "15:45"
-    end_time: "16:15"
+    start_time: "16:00"
+    end_time: "16:30"
     comments: "Trilha Avançada - Sala: Rollback"
     background_color: "#81b29a"
 
@@ -321,48 +291,24 @@ program:
   - title: "Coffee Break"
     type: custom
     date: 2026-08-15
-    start_time: "16:15"
-    end_time: "16:45"
+    start_time: "16:30"
+    end_time: "17:00"
 
   #OpenSpace-1
   - title: "Open Spaces"
     type: open-space
     date: 2026-08-15
-    start_time: "16:45"
-    end_time: "17:15"
+    start_time: "17:00"
+    end_time: "17:30"
     comments: "Sala: Rollback"
     # background_color: #FFB566
 
-  - title: TBA
-    type: custom
-    date: 2026-08-15
-    start_time: "17:15"
-    end_time: "17:45"
-    comments: "Trilha Iniciante - Sala: Deploy"
-    background_color: "#fdf0d5"
-
-  - title: TBA
-    type: custom
-    date: 2026-08-15
-    start_time: "17:15"
-    end_time: "17:30"
-    comments: "Trilha Avançada - Sala: Rollback"
-    background_color: "#81b29a"
-
-  - title: TBA
+  #Keynote-4
+  - title: Punk do DevOps - TBA
     type: custom
     date: 2026-08-15
     start_time: "17:30"
-    end_time: "17:45"
-    comments: "Trilha Avançada - Sala: Rollback"
-    background_color: "#81b29a"
-
-  #Keynote-3
-  - title: TBA
-    type: custom
-    date: 2026-08-15
-    start_time: "17:45"
-    end_time: "18:15"
+    end_time: "18:00"
     comments: "Keynote - Sala: Rollback"
     background_color: "#FFFA99"
   
@@ -370,6 +316,6 @@ program:
   - title: "Encerramento"
     type: custom
     date: 2026-08-15
-    start_time: "18:15"
-    end_time: "18:45"
+    start_time: "18:00"
+    end_time: "18:30"
     comments: "Sala: Rollback"
