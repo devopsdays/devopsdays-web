@@ -4,8 +4,8 @@ city: "Juiz de Fora" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaysjf" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "Devopsdays em Juiz de Fora!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
-event_logo: "logo.png"
-masthead_background: "background.jpg"
+event_logo: "/events/2026-juiz-de-fora/logo.png"
+masthead_background: "/events/2026-juiz-de-fora/vista_do_centro_de_juiz_de_fora-mg.png"
 
 # All dates are in unquoted 2026-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2019-01-04T00:00:00+02:00
