@@ -1,0 +1,149 @@
+name: "2026-juiz-de-fora" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2026" # The year of the event. Make sure it is in quotes.
+city: "Juiz de Fora" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaysjf" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays em Juiz de Fora!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+event_logo: "/events/2026-juiz-de-fora/logo.png"
+masthead_background: "/events/2026-juiz-de-fora/vista_do_centro_de_juiz_de_fora-mg.png"
+
+# All dates are in unquoted 2026-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2026-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2026-10-17T08:00:00-03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2026-10-17T18:00:00-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start:  # start accepting talk proposals.
+cfp_date_end:  # close your call for proposals.
+cfp_date_announce:  # inform proposers of status
+
+cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+# coordinates: "" # No longer used
+
+location: "UniAcademia" # Defaults to city, but you can make it the venue name.
+#
+location_address: "R. Halfeld, 1179 - Centro, Juiz de Fora - MG, 36016-000" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
+
+# Optional - Social badges
+# These can be used in the body of any page via matching shortcodes. See sample:  https://devopsdays.org/events/2025-denver/welcome/
+event_social_linkedin: "https://www.linkedin.com/company/devopsdays-jf/" # Change this to the url to your Linkedin group, company, or page.
+#event_social_slack: "https://join.slack.com/t/devopsdaysjf/custom_shared_invite_url" # Change this to your slack invite link.
+#event_social_listserv: "https://lists.devopsdays.org/subscription?custom_listserv_invite_url" # Change this to your mailing list subscription form url.
+event_social_twitter: "devopsdaysjf" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+#event_social_mastodon: "https://mastodon.social/@devopsdaysjf" # Change this to url to your mastodon page
+#event_social_bsky: "https://bsky.app/profile/devopsdaysjf.bsky.social" # Change this to url to your bluesky page
+#event_social_youtube: "devopsdaysjf" # Change this to the youtube channel handle for your event such as devopsdaysrox
+
+
+# Social Share Buttons
+# Optional: Specify which social share buttons to display on event pages.
+# If not specified, defaults to all: ["email", "twitter", "facebook", "linkedin"]
+# Valid values: "email", "twitter", "facebook", "linkedin"
+# Example: social_shares: ["email", "linkedin"]  # Only show email and LinkedIn share buttons
+social_shares: # ["email", "twitter", "facebook", "linkedin"]
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  #- name: Chamadas (CFP)
+  #  url: https://talks.devopsdays.org/devopsdays-juiz-de-fora-2026/cfp
+  - name: local
+    url: /events/2026-juiz-de-fora/location
+  #- name: inscrição
+  #  url: https://www.sympla.com.br/evento/devopsdays-juiz-de-fora-2026/3027198
+  #- name: programação
+  #  url: /events/2026-juiz-de-fora/program
+  #- name: palestrantes
+  #  url: /events/2026-juiz-de-fora/speakers
+  - name: patrocínio
+    url: /events/2026-juiz-de-fora/sponsor
+  - name: contato
+    url: /events/2026-juiz-de-fora/contact
+  - name: código de conduta
+    url: /events/2026-juiz-de-fora/conduct
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Bruno Pacheco"
+    role: "Organizer"
+    employer: "Fundação Caed"
+    linkedin: "https://www.linkedin.com/in/bruno-pacheco-da-silva/"
+    image: "bruno-pacheco.jpg"
+  - name: "Guilherme Ferraz"
+    role: "Organizer"
+    employer: "Rubeus"
+    github: "guilherme-ferraz"
+    linkedin: "https://www.linkedin.com/in/guilhermeaugustoferraz/"
+    image: "guilherme-ferraz.jpg"
+  - name: "João Medina"
+    role: "Organizer"
+    employer: "iFood"
+    linkedin: "https://www.linkedin.com/in/joaomedinadev/"
+    image: "joao-medina.jpeg"
+  - name: "José Geraldo"
+    role: "Organizer"
+    employer: "Rubeus"
+    twitter: "JgtJoseGeraldo"
+    github: "jgt-josegeraldo"
+    linkedin: "https://www.linkedin.com/in/josegeraldocosta/"
+    image: "jose-geraldo.jpg"
+    bio: "Nascido em Rosário da Limeira"
+    facebook: "https://www.facebook.com/josegeraldo.costa.129"
+  - name: "Tabita Magalhães da Costa"
+    role: "Organizer"
+    employer: "Rubeus"
+    linkedin: "https://www.linkedin.com/in/tabitacosta/"
+    image: "tabita-magalhaes-da-costa.jpeg"
+  - name: "Douglas A B Novato"
+    role: "Organizer"
+    employer: "Byte Class"
+    linkedin: "https://www.linkedin.com/in/douglasabnovato/"
+    image: "douglas-a-b-novato.jpeg"
+organizer_email: "juiz-de-fora@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: rubeus
+    level: platinum
+  - id: uniacademia
+    level: platinum
+  - id: techhubjf
+    level: community
+  - id: bytesebreja
+    level: community
+
+ #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: platinum
+    label: Platinum
+  - id: gold
+    label: Gold
+  - id: silver
+    label: Silver
+  - id: bronze
+    label: Bronze
+  - id: gifts
+    label: Gifts
+  - id: community
+    label: Community
