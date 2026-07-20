@@ -102,12 +102,13 @@ sponsors:
   - id: fiap
     level: diamond
 
+  - id: kaspersky
+    level: diamond
+
   #Gold Sponsors
   - id: stone
     level: gold
 
-  - id: kaspersky
-    level: gold
   #Silver Sponsors
 
   #Community

@@ -22,7 +22,7 @@
 /buffalo/*		/events/2023-buffalo/:splat		302
 /caceres/*		/events/2024-caceres/:splat		302
 /cairo/*		/events/2026-cairo/:splat		302
-/campinas/*		/events/2024-campinas/:splat		302
+/campinas/*		/events/2025-campinas/:splat		302
 /cape-town/*		/events/2020-cape-town/:splat		302
 /charlotte/*		/events/2022-charlotte/:splat		302
 /chattanooga/*		/events/2024-chattanooga/:splat		302
@@ -56,7 +56,7 @@
 /indianapolis/*		/events/2023-indianapolis/:splat	302
 /istanbul/*		/events/2026-istanbul/:splat		302
 /jakarta/*		/events/2022-jakarta/:splat		302
-/juiz-de-fora/*		/events/2025-juiz-de-fora/:splat		302
+/juiz-de-fora/*		/events/2026-juiz-de-fora/:splat		302
 /kansas-city/*		/events/2026-kansas-city/:splat		302
 /kazan/*		/events/2018-kazan/:splat		302
 /kiel/*			/events/2018-kiel/:splat		302
@@ -85,7 +85,7 @@
 /newcastle/*		/events/2018-newcastle/:splat		302
 /oslo/*			/events/2023-oslo/:splat		302
 /paris/*		/events/2024-paris/:splat		302
-/philadelphia/*		/events/2025-philadelphia/:splat	302
+/philadelphia/*		/events/2026-philadelphia/:splat	302
 /phoenix/*		/events/2023-phoenix/:splat		302
 /pittsburgh/*		/events/2015-pittsburgh/:splat		302
 /portland-me/*		/events/2020-portland-me/:splat		302
