@@ -51,7 +51,7 @@ Our theme this year is "The Future of DevOps".  Technology and practices have ch
 | Level&nbsp;                                             | **Platinum** | **Gold**  | **Silver** | **Happy Hour** | **Lanyard** | **Coffee**        | **Snacks**        | **Community / Media**   |
 |--------------------------------------------------------:|:------------:|:---------:|:----------:|:--------------:|:-----------:|:-----------------:|:-----------------:|:-----------------------:|
 | **Cost**&nbsp;                                          | **$6000**    | **$3000** | **$1500**  | **$4200**      | **$2000**   | **$1500**         | **$1500**         | **in-kind recognition** |
-| **Number Available**                                    | **1**        | **4**     | **12**     | **1**          | **1**       | **2**             | **2**             |                         |
+| **Number Available**                                    | **1**        | **4**     | **12**     | **1**          | **1**       | **2**             | **1** (of 2)      |                         |
 | **Conference Passes**                                   | 6            | 4         | 2          | 2              | 1           | 1                 | 1                 | 1                       |
 | **Happy Hour Passes**                                   |              |           |            | 3              |             |                   |                   |                         |
 | **Logo on website**                                     |  ✔           |  ✔        |  ✔         |  ✔             |  ✔          |  ✔                |  ✔                |  ✔                      |
