@@ -116,6 +116,8 @@ sponsors:
     level: snack
   - id: devitjobs
     level: media
+  - id: tao
+    level: media
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
