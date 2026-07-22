@@ -92,6 +92,10 @@ team_members: # Name is the only required field for team members.
     role: "Advisor"
     linkedin: "https://id.linkedin.com/in/fransiscus-kaurrany-57b25a24"
     image: "fransiscus_kaurrany.jpg"
+  - name: "Pimpi Marda"
+    role: "Advisor"
+    linkedin: "https://www.linkedin.com/in/pimpi-marda-9057b544/"
+    image: "pimpi_marda.jpg"
   - name: "Olyvia Mitha Rucikha"
     linkedin: "https://www.linkedin.com/in/olyviamitha/"
     image: "olyvia_mitha.jpg" 
@@ -107,6 +111,12 @@ team_members: # Name is the only required field for team members.
   - name: "Mia Fauziah"
     linkedin: "https://www.linkedin.com/in/mia-fauziah-856750170/"
     image: "mia_fauziah.jpg" 
+  - name: "Prasetyani Dwijayati"
+    linkedin: "https://www.linkedin.com/in/prasetyani-dwijayati/"
+    image: "prasetyani_dwijayati.jpg" 
+  - name: "Zen Aufa"
+    linkedin: "https://www.linkedin.com/in/zenaufa/"
+    image: "zen_aufa.jpg" 
 organizer_email: "jakarta@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
