@@ -110,10 +110,18 @@ sponsors:
 #  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 #   - id: arresteddevops
 #     level: community
+  - id: zenity
+    level: silver
+  - id: redhat
+    level: silver
   - id: microsoftazure
     level: snack
   - id: devitjobs
-    level: community
+    level: media
+  - id: tao
+    level: media
+  - id: kubeevents
+    level: media
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
