@@ -53,11 +53,11 @@ event_social_youtube: "devopsdaysportland" # Change this to the youtube channel 
 social_shares: ["email", "bluesky", "mastodon", "twitter", "facebook", "linkedin"]
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+ # - name: propose
  # - name: location
   - name: registration
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
