@@ -1,7 +1,7 @@
 +++
 Title = "Sunny Behl"
 Twitter = ""
-linkedin = "https://linkedin.com/in/alkrauss48/"
+linkedin = "https://www.linkedin.com/in/behlsunny"
 image = "sunny-behl.jpg"
 type = "speaker"
 linktitle = "sunny-behl"
