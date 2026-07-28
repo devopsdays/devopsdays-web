@@ -213,6 +213,9 @@ sponsors:
      url: https://www.datascience.pe/
    - id: impacto-bcp
      level: community
+   - id: certdirectory
+     level: community
+     url: https://certdirectory.io/
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
