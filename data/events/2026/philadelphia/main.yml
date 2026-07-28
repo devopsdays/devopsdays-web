@@ -28,7 +28,7 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 # Location
 #
-# coordinates: "" # No longer used
+coordinates: "39.948896,-75.146486" # No longer used
 
 location: "Science History Institute" # Defaults to city, but you can make it the venue name.
 #
@@ -54,7 +54,7 @@ social_shares: # ["email", "twitter", "facebook", "linkedin"]
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
- # - name: location
+  - name: location
  # - name: registration
  # - name: program
  # - name: speakers
