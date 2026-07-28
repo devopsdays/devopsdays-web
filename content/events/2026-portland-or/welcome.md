@@ -59,6 +59,12 @@ Description = "devopsdays Portland, OR 2026"
         <a href="https://linkedin.com/company/devopsdays-pdx" class="fa-brands fa-linkedin social-li" target="_blank" title="Follow on Linkedin"></a>
       </div>
     </div>
+
+> <i class="fa-solid fa-money-bill-wave fa-2x" style="float: left; width: 48px; height: 48px;"></i>
+> Are you an organizer of a local meetup or tech group?<br>
+> <a href="mailto:portland-or@devopsdays.org">Email for a registration discount code!</a>
+{.alert .alert-info}
+
   </div>
   <div class="col-md-4">
     <div style="text-align:center; width:500px; height=auto;">

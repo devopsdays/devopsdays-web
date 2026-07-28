@@ -53,11 +53,11 @@ event_social_youtube: "devopsdaysportland" # Change this to the youtube channel 
 social_shares: ["email", "bluesky", "mastodon", "twitter", "facebook", "linkedin"]
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+ # - name: propose
  # - name: location
   - name: registration
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -110,8 +110,18 @@ sponsors:
 #  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 #   - id: arresteddevops
 #     level: community
+  - id: zenity
+    level: silver
+  - id: redhat
+    level: silver
   - id: microsoftazure
     level: snack
+  - id: devitjobs
+    level: media
+  - id: tao
+    level: media
+  - id: kubeevents
+    level: media
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

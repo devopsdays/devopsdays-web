@@ -14,53 +14,163 @@ Gold sponsors get a full table and Silver sponsors a shared table where they can
 <p>
 The best thing to do is send engineers to interact with the experts at devopsdays on their own terms.
 <p>
+The deadline to purchase a sponsorship package is September 11th, 2026.
 
-<!--
-<hr/>
+<h2>Sponsorship Packages</h2>
 
-<div style="width:590px">
-<table border=1 cellspacing=1>
-  <tr>
-    <th><i>packages</i></th>
-    <th><center><b><u>Bronze<br />1000 usd</u></center></b></th>
-    <th><center><b><u>Silver<br />3000 usd</u></center></b></th>
-    <th><center><b><u>Gold<br />5000 usd</u></center></b></th>
-    <th></th>
-  </tr>
-<tr><td>2 included tickets</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on event website</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on shared slide, rotating during breaks</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on all email communication</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on its own slide, rotating during breaks</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>1 minute pitch to full audience (including streaming audience)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr></tr>
-<tr><td>2 additional tickets (4 in total)</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td>4 additional tickets (6 in total)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>shared table for swag</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td>booth/table space</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
+<table class="table table-bordered table-hover">
+  <thead>
+    <tr>
+      <th scope="col"></th>
+      <th scope="col">PLATINUM</th>
+      <th scope="col">GOLD</th>
+      <th scope="col">SILVER</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Price</td>
+      <td>$7,000</td>
+      <td>$5,000</td>
+      <td>$3,000</td>
+    </tr>
+    <tr>
+      <td>Tickets Included</td>
+      <td>4</td>
+      <td>4</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>Logo listed on devopsdays Philadelphia website, main room signage, and email communication</td>
+      <td>&#10004;</td>
+      <td>&#10004;</td>
+      <td>&#10004;</td>
+    </tr>
+    <tr>
+      <td>Logo on dedicated slide during breaks</td>
+      <td>&#10004;</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Logo on shared slide during breaks</td>
+      <td></td>
+      <td>&#10004;</td>
+      <td>&#10004;</td>
+    </tr>
+    <tr>
+      <td>3-minute pitch in optimal timeslot to the full audience (including streaming if applicable)</td>
+      <td>&#10004;</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>1-minute pitch in optimal timeslot to the full audience (including streaming if applicable)</td>
+      <td></td>
+      <td>&#10004;</td>
+      <td></td>
+    </tr>
+  </tbody>
 </table>
-<hr/>
-There are also opportunities for exclusive special sponsorships. We'll have sponsors for various events with special privileges for the sponsors of these events. If you are interested in special sponsorships or have a creative idea about how you can support the event, send us an email.
-<br/>
-<br/>
+<p>
+<hr width="75%">
+<h4>Refunds: Full sponsor refunds are available until 7/31/2026. Sponsor refunds between 8/1/2026 and 8/31/2026 will be at 50%. No refunds after 8/31/2025.</h4>
+<hr width="75%">
+<h2>À la carte sponsorships available</h2>
 
-<br>
-<br>
-<table border=1 cellspacing=1>
-  <tr>
-    <th><i>Sponsor FAQ</i></th>
-    <th><center><b>Answers to questions frequently asked by sponsors&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</center></b></th>
-    <th></th>
-  </tr>
-<tr><td>What dates/times can we set up and tear down?</td><td></td></tr>
-<tr><td>How do we ship to the venue?</td><td></td></tr>
-<tr><td>How do we ship from the venue?</td><td></td></tr>
-<tr><td>Whom should we send?</td><td></td></tr>
-<tr><td>What should we expect regarding electricity? (how much, any fees, etc)</td><td></td></tr>
-<tr><td>What should we expect regarding WiFi? (how much, any fees, etc)</td><td></td></tr>
-<tr><td>How do we order additional A/V equipment?</td><td></td></tr>
-<tr><td>Additional important details</td><td></td></tr>
+<table class="table table-bordered table-hover">
+  <thead>
+    <tr>
+      <th scope="col">Package</th>
+      <th scope="col">Day</th>
+      <th scope="col">Amount</th>
+      <th scope="col">Slots</th>
+      <th scope="col">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Live captioning</td>
+      <td>1 & 2</td>
+      <td>$6000</td>
+      <td>1</td>
+      <td>Sponsor live captioning and have your logo prominently displayed at the monitor</td>
+    </tr>
+    <tr>
+      <td>Lanyard</td>
+      <td>1 & 2</td>
+      <td>$4000</td>
+      <td>1</td>
+      <td>Your company logo on all lanyards</td>
+    </tr>
+    <tr>
+      <td>Day 1 all-day coffee</td>
+      <td>1</td>
+      <td>$2500</td>
+      <td>1</td>
+      <td>Your company signage and logo prominently displayed with coffee throughout the day</td>
+    </tr>
+    <tr>
+      <td>Day 1 breakfast</td>
+      <td>1</td>
+      <td>$1500</td>
+      <td>2*</td>
+      <td>Your company signage and logo prominently displayed by the breakfast service in the morning before sessions</td>
+    </tr>
+    <tr>
+      <td>Day 1 lunch</td>
+      <td>1</td>
+      <td>$2000</td>
+      <td>2*</td>
+      <td>Your company signage and logo prominently displayed by the lunch service</td>
+    </tr>
+    <tr>
+      <td>Day 1 afternoon break</td>
+      <td>1</td>
+      <td>$1000</td>
+      <td>2*</td>
+      <td>Your company signage and logo prominently displayed by the afternoon snack service</td>
+    </tr>
+    <tr>
+      <td>Day 1 evening happy hour</td>
+      <td>1</td>
+      <td>$4000</td>
+      <td>2*</td>
+      <td>Your company signage and logo prominently displayed during the evening event</td>
+    </tr>
+    <tr>
+      <td>Day 2 all-day coffee</td>
+      <td>2</td>
+      <td>$2500</td>
+      <td>1</td>
+      <td>Your company signage and logo prominently displayed with coffee throughout the day</td>
+    </tr>
+    <tr>
+      <td>Day 2 breakfast</td>
+      <td>2</td>
+      <td>$1500</td>
+      <td>2*</td>
+      <td>Your company signage and logo prominently displayed by the breakfast service in the morning before sessions</td>
+    </tr>
+    <tr>
+      <td>Day 2 lunch</td>
+      <td>2</td>
+      <td>$2000</td>
+      <td>2*</td>
+      <td>Your company signage and logo prominently displayed by the lunch service</td>
+    </tr>
+    <tr>
+      <td>Day 2 afternoon break</td>
+      <td>2</td>
+      <td>$1000</td>
+      <td>2*</td>
+      <td>Your company signage and logo prominently displayed by the afternoon snack service</td>
+    </tr>
+  </tbody>
 </table>
-</div>
+<p>
+*Sponsors can purchase both slots for a given package.
 
--->
+
+
 <hr/>

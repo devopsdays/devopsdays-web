@@ -175,6 +175,9 @@ sponsors:
      url: https://www.nutanix.com/
    - id: seti
      level: gold
+   - id: arkano
+     level: gold
+     url: https://arkanosoft.com/
 #Silver Sponsors
    - id: inetum
      level: silver
@@ -188,6 +191,11 @@ sponsors:
    - id: github
      level: silver
      url: https://github.com/
+   - id: rumbo
+     level: silver
+   - id: ekiscyber
+     level: silver
+     url: https://ekiscyber.com/
 #Bronze Sponsors
 #Community Sponsors
    - id: hackemate
@@ -199,7 +207,11 @@ sponsors:
    - id: mitocode
      level: community
      url: https://mitocode.com/
-
+   - id: datascienceresearchperu
+     level: community
+     url: https://www.datascience.pe/
+   - id: impacto-bcp
+     level: community
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
