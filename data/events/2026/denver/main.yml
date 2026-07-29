@@ -51,7 +51,7 @@ event_social_youtube: "devopsdaysrockies" # Change this to the youtube channel h
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location
   - name: registration
- # - name: program
+  - name: program
   - name: speakers
   - name: talks
   - name: sponsor
