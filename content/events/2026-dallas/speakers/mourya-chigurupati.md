@@ -2,7 +2,7 @@
 Title = "Mourya Chigurupati"
 Twitter = ""
 linkedin = "https://www.linkedin.com/in/chmourya/"
-image = "mourya-chigurupati.jpg"
+image = "mourya-chigurupati.png"
 type = "speaker"
 linktitle = "mourya-chigurupati"
 

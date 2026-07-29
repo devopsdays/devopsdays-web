@@ -2,7 +2,7 @@
 Title = "Wil Mckenney"
 Twitter = ""
 linkedin = ""
-image = "wil-mckenney.jpg"
+image = "wil-mckenney.png"
 type = "speaker"
 linktitle = "wil-mckenney"
 

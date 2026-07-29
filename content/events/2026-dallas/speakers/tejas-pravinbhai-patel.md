@@ -2,7 +2,7 @@
 Title = "Tejas Pravinbhai Patel"
 Twitter = ""
 linkedin = "https://www.linkedin.com/in/tejas5038"
-image = "tejas-pravinbhai-patel.jpg"
+image = "tejas-pravinbhai-patel.png"
 type = "speaker"
 linktitle = "tejas-pravinbhai-patel"
 

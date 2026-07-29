@@ -2,7 +2,7 @@
 Title = "Chaitanya Anne"
 Twitter = ""
 linkedin = "https://linkedin.com/in/chaitanya-anne-8988741a4/"
-image = "chaitanya-anne.jpg"
+image = "chaitanya-anne.png"
 type = "speaker"
 linktitle = "chaitanya-anne"
 
