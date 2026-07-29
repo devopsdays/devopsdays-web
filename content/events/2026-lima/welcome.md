@@ -14,7 +14,7 @@ Description = "devopsdays lima 2026"
 }
 
 .welcome-hero-year {
-  color: #8C51BF;
+  color: #6b51ef;
   opacity: 0.9;
   font-weight: 900;
 }
@@ -52,7 +52,7 @@ Description = "devopsdays lima 2026"
   gap: 10px;
   padding: 8px 12px;
   border-radius: 10px;
-  background: #8C51BF;
+  background: #6b51ef;
   color: #fff;
   font-weight: 600;
   font-size: 0.95rem;
@@ -63,7 +63,7 @@ Description = "devopsdays lima 2026"
 }
 
 .welcome-hero-btn:focus {
-  outline: 2px solid #8C51BF;
+  outline: 2px solid #6b51ef;
   outline-offset: 2px;
 }
 
