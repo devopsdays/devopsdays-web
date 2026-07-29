@@ -2,7 +2,7 @@
 Title = "Dagan Martinez Vargas"
 Twitter = ""
 linkedin = "https://www.linkedin.com/in/daganmv99/"
-image = "dagan-martinez-vargas.jpeg"
+image = "dagan-martinez-vargas.jpg"
 type = "speaker"
 linktitle = "dagan-martinez-vargas"
 

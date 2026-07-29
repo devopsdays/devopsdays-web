@@ -2,7 +2,7 @@
 Title = "Karen Scheid"
 Twitter = ""
 linkedin = "https://www.linkedin.com/in/karen-scheid-7658975/"
-image = "karen-scheid.jpeg"
+image = "karen-scheid.jpg"
 type = "speaker"
 linktitle = "karen-scheid"
 

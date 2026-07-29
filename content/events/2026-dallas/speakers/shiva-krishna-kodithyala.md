@@ -2,7 +2,7 @@
 Title = "Shiva Krishna Kodithyala"
 Twitter = ""
 linkedin = "https://www.linkedin.com/in/skodithyala"
-image = "shiva-krishna-kodithyala.jpeg"
+image = "shiva-krishna-kodithyala.jpg"
 type = "speaker"
 linktitle = "shiva-krishna-kodithyala"
 
