@@ -55,8 +55,8 @@ event_social_twitter: "devopsdaysjf" # Change this to the twitter handle for you
 social_shares: # ["email", "twitter", "facebook", "linkedin"]
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  #- name: Chamadas (CFP)
-  #  url: https://talks.devopsdays.org/devopsdays-juiz-de-fora-2026/cfp
+  - name: Chamadas (CFP)
+    url: https://talks.devopsdays.org/devopsdays-juiz-de-fora-2026/cfp
   - name: local
     url: /events/2026-juiz-de-fora/location
   - name: inscrição
