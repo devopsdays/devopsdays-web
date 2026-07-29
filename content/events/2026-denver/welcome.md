@@ -4,7 +4,7 @@ Type = "welcome"
 aliases = ["/events/2026-denver/"]
 Description = "devopsdays Denver 2026"
 +++
-<h2><b>DevOpsDays Rockies is back in 2026 for our 10th year at Bierstadt Lagerhaus in Downtown Denver! September 22-23, 2026 </b>{{< event_link page="registration" text="Purchase your ticket now!" >}}</h2>
+<h2><b>DevOpsDays Rockies is back in 2026 for our 10th year!<br>Bierstadt Lagerhaus in Downtown Denver, September 22-23, 2026 </b><br>{{< event_link page="registration" text="Purchase your ticket now!" >}}</h2>
 <br><br>
 
 <!-- <h2>{{< event_link page="program" text="View the Program!" >}}</h2>
@@ -65,7 +65,7 @@ Description = "devopsdays Denver 2026"
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="registration" text="Limited Early bird tickets on sale!" >}}
+    {{< event_link page="registration" text="Buy your tickets now!" >}}
   </div>
 </div>
 
