@@ -101,6 +101,7 @@ sponsors:
     level: silver
   - id: flox
     level: silver
+  - id: launch-darkly
   - id: code-talent
     level: community
   - id: kubeevents
