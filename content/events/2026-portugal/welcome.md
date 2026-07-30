@@ -32,7 +32,7 @@ Description = "devopsdays Portugal 2026| Collab with KCD Porto 2026"
 
   <div class="row justify-content-center">
     <div class="col-sm-2">
-      <a href="https://community2.cncf.io/events/details/cncf-kcd-porto-presents-kcd-porto-2026-collab-with-devops-days-portugal"><img src="assets/sponsors/k/kcd-porto-logo.png" class="img-fluid mx-auto" /></a>
+      <a href="https://community2.cncf.io/events/details/cncf-kcd-porto-presents-kcd-porto-2026-collab-with-devops-days-portugal"><img src="assets/sponsors/k/kcd-porto.png" class="img-fluid mx-auto" /></a>
       <a href="https://devopsporto.com/"><img src="/img/sponsors/devopsporto.png" class="img-fluid mx-auto" /></a>
     </div>
     <div class="col-sm-6">
