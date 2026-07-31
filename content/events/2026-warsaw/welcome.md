@@ -82,6 +82,7 @@ Our participants come from various backgrounds, including software development, 
 
   <div class="text-section-col">
     <a href="/events/2026-warsaw/propose" type="button" class="btn btn-primary btn-lg btn-block">PROPOSE A TALK</a>
+    <a href="https://eventory.cc/event/devopsdays-warsaw-2026/tickets" type="button" class="btn btn-primary btn-lg btn-block">GET A TICKET</a>
     <a href="/events/2026-warsaw/sponsor" type="button" class="btn btn-primary btn-lg btn-block">SPONSOR</a>
     <a href="/events/2026-warsaw/contact" type="button" class="btn btn-primary btn-lg btn-block">CONTACT</a>
   </div>
