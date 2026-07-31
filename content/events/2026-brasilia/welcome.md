@@ -35,6 +35,7 @@ Description = "DevOpsDays Brasília 2026"
         {{< event_link page="contact" text="Entre em contato com os organizadores" >}}
       </div>
     </div>
+    <!-- Uncomment when the CFP opens
     <div class="row">
       <div class="col-md-2">
         <strong>CFP</strong>
@@ -43,6 +44,8 @@ Description = "DevOpsDays Brasília 2026"
         {{< event_link url-key="cfp_link" text="Submeta a sua talk!" >}}
       </div>
     </div>
+    -->
+    <!-- Uncomment when registration opens
     <div class="row">
       <div class="col-md-2">
         <strong>Ingresso</strong>
@@ -51,6 +54,8 @@ Description = "DevOpsDays Brasília 2026"
         {{< event_link url-key="registration_link" text="Adiquira aqui!" >}}
       </div>
     </div>
+    -->
+
   </div>
   
   <div>
