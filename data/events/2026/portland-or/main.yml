@@ -124,6 +124,8 @@ sponsors:
     level: media
   - id: kubeevents
     level: media
+  - id: thenewstack
+    level: media
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
