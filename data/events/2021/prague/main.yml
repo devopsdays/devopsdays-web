@@ -83,7 +83,7 @@ organizer_email: "prague@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: epam
+  - id: epam-before-20260806
     level: titanium
     url: "https://en.careers.epam-czech.cz/"
   - id: gitlab-before-20220516
