@@ -72,3 +72,8 @@ Description = "devopsdays Portland, OR 2026"
     </div>
   </div>
 </div>
+
+<div class="row justify-content-center">
+  <a href="/events/2026-portland-or/program" class="btn btn-primary" role="button" aria-pressed="true">See the schedule now!</a>
+</div>
+
