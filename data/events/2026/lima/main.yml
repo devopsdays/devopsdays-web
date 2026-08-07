@@ -188,7 +188,7 @@ sponsors:
      url: https://www.soaint.com/
    - id: orexe
      level: silver
-     url: https://orexe.pe/
+     url: https://orexe.io/
    - id: github
      level: silver
      url: https://github.com/
@@ -197,6 +197,9 @@ sponsors:
    - id: ekiscyber
      level: silver
      url: https://ekiscyber.com/
+   - id: epam
+     level: silver
+     url: https://www.epam.com/
 #Bronze Sponsors
 #Community Sponsors
    - id: hackemate
