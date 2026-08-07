@@ -43,8 +43,17 @@ jobs:
               files = [];
             }
 
-            const fileList = files.length
-              ? files.map(f => `- \`${f}\``).join("\n")
+            // Allow files whose name contains "-before-<number>" (e.g. logo-before-2026.png)
+            const exemptPattern = /-before-\d+/;
+            const blockedFiles = files.filter(f => !exemptPattern.test(f));
+
+            if (files.length && blockedFiles.length === 0) {
+              core.info("All changed sponsor files match the '-before-NUMBER' exemption; skipping block.");
+              return;
+            }
+
+            const fileList = blockedFiles.length
+              ? blockedFiles.map(f => `- \`${f}\``).join("\n")
               : "- _(Unable to enumerate files, but changes were detected)_";
 
             const comments = await github.paginate(github.rest.issues.listComments, {
