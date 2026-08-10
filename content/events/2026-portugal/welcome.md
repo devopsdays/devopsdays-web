@@ -67,9 +67,6 @@ Description = "devopsdays Portugal 2026| Collab with KCD Porto 2026"
 
   <div class="row" style="margin-bottom:50px">
     <div class = "col-md-4">
-      <a href="/events/2026-portugal/propose" type="button" class="btn btn-primary btn-lg btn-block">Propose your talk!</a>
-    </div>
-    <div class = "col-md-4">
       <a href="/events/2026-portugal/sponsor" type="button" class="btn btn-primary btn-lg btn-block">Sponsor the conference!</a>
     </div>
     <div class = "col-md-4">
