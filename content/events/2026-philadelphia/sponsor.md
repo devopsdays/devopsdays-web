@@ -4,7 +4,11 @@ Type = "event"
 Description = "Sponsor devopsdays Philadelphia 2026"
 +++
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
+We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}]. 
+
+ downloadable version of our prospectus is available <a href="https://assets.devopsdays.org/events/2020/chicago/2026.philadelphia-devopsdays-prospectus.pdf">here</a>
+
+https://assets.devopsdays.org/events/2020/chicago/2026-philadelphia-devopsdays-prospectus.pdf
 
 <hr>
 
