@@ -6,30 +6,30 @@ Description = "Sponsor devopsdays Tel Aviv 2026"
 
 ## We greatly value sponsors for our community events.  
 
-### If you are interested in sponsoring, please drop us an email at <a href="mailto:tel-aviv@devopsdays.org?subject=I would like to learn more about sponsoring DevOpsDays">tel-aviv@devopsdays.org</a>.
+### If you are interested in <a href="https://tlvcommunity.dev/sponsor" target="_blank">sponsoring</a>, please drop us an email at <a href="mailto:tel-aviv@devopsdays.org?subject=I would like to learn more about sponsoring DevOpsDays">tel-aviv@devopsdays.org</a>.
 
  <br/>
  <hr/>
 
-## Diamond Booth Sample 
+## Diamond Booth Sample | SOLD OUT - THANKS DOIT!
 <img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Diamond-Booth.JPG?raw=true" width="500">
 
  <br/>
  <hr/>
 
-## Platinum Booth Sample 
+## Platinum Booth Sample | 40,000ILS
 <img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Platinum-1.JPG?raw=true" width="500">&nbsp;<img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Platinum-3.JPG?raw=true" width="500">&nbsp;<img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Platinum-2.JPG?raw=true" width="500">
 
  <br/>
  <hr/>
 
-## Gold Booth Sample 
+## Gold Booth Sample | 28,000ILS
 <img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Gold.JPG?raw=true" width="500">
 
  <br/>
  <hr/>
 
-## Demo Theater
+## Demo Theater | 5,000ILS
 <img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Demo-Theater.JPG?raw=true" width="500">
 
  <br/>
@@ -41,7 +41,7 @@ Description = "Sponsor devopsdays Tel Aviv 2026"
  <br/>
  <hr/>
 
-## Happy Hour Sponsor
+## Happy Hour Sponsor | SOLD OUT - THANKS DOIT!
 <img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Happy-Hour-Sponsor.JPG?raw=true" width="500">
 
  <br/>
