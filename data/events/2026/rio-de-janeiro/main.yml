@@ -38,7 +38,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: location
   # - name: registration
   - name: program
-  - name: speakers
+  # - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct-pt-br
@@ -171,8 +171,6 @@ program:
     end_time: "11:00"
     comments: "Trilha Iniciante - Sala: Deploy"
     background_color: "#fdf0d5"
-
-
   - title: ivan-moulin
     type: talk
     date: 2026-08-15
@@ -181,10 +179,17 @@ program:
     comments: "Trilha Avançada - Sala: Rollback"
     background_color: "#81b29a"
 
-  - title: TBA
+  - title: Stone
     type: custom
     date: 2026-08-15
     start_time: "11:00"
+    end_time: "11:15"
+    comments: "Trilha Iniciante - Sala: Deploy"
+    background_color: "#fdf0d5"
+  - title: Daysi Mendes
+    type: custom
+    date: 2026-08-15
+    start_time: "11:15"
     end_time: "11:30"
     comments: "Trilha Iniciante - Sala: Deploy"
     background_color: "#fdf0d5"
@@ -197,7 +202,7 @@ program:
     background_color: "#81b29a"
 
   #Keynote-2
-  - title: Giovanni Bassi - Arquitetura que evolui, times que aprendem, tecnologia que transforma
+  - title: Giovanni Bassi - NixOS - Fazendo IaC no próprio Linux
     type: custom
     date: 2026-08-15
     start_time: "11:30"
@@ -212,23 +217,29 @@ program:
     start_time: "12:00"
     end_time: "13:45"
 
-  #Ignite Talks
-  - title: "Ignite Talks"
+  #Keynote-3
+  - title: Bernardo Lopes Engenharia e Senioridade em tempos de IA
     type: custom
     date: 2026-08-15
     start_time: "13:45"
-    end_time: "14:00"
-    comments: "Sala: Rollback"
-    background_color: "#C3FFD7"
-
-  #Keynote-3
-  - title: TBA
-    type: custom
-    date: 2026-08-15
-    start_time: "14:00"
-    end_time: "14:30"
+    end_time: "14:15"
     comments: "Keynote - Sala: Rollback"
     background_color: "#FFFA99"
+
+  - title: Athila Lincon - DevOps + IA Aplicado ao Mercado Financeiro
+    type: custom
+    date: 2026-08-15
+    start_time: "14:15"
+    end_time: "14:30"
+    comments: "Trilha Iniciante - Sala: Deploy"
+    background_color: "#fdf0d5"
+  - title: Amaury Borges - Segurança sem fricção - como escalar SevSecOps sem travar desenvolvedores
+    type: custom
+    date: 2026-08-15
+    start_time: "14:15"
+    end_time: "14:30"
+    comments: "Trilha Avançada - Sala: Rollback"
+    background_color: "#81b29a"
 
   - title: camis-moreira
     type: talk
@@ -260,14 +271,14 @@ program:
     comments: "Trilha Avançada - Sala: Rollback"
     background_color: "#81b29a"
 
-  - title: fernanda-gugliellmo
-    type: talk
+  - title: Ghabryel Henrique - Deploy Serverless de Angular SSR - Escalabilidade Automática com Google Cloud Run e AWS Lambda
+    type: custom
     date: 2026-08-15
     start_time: "15:30"
     end_time: "16:00"
     comments: "Trilha Iniciante - Sala: Deploy"
     background_color: "#fdf0d5"
-  - title: TBA
+  - title: Pedro Alpis e Leandro Marinho - Desafios Reais na Operação de IaC - Vencendo Obstáculos em Cenários Práticos com Firefly
     type: custom
     date: 2026-08-15
     start_time: "15:30"
@@ -307,7 +318,7 @@ program:
     # background_color: #FFB566
 
   #Keynote-4
-  - title: Punk do DevOps - TBA
+  - title: Camilla Martins - Punk até o DevOps
     type: custom
     date: 2026-08-15
     start_time: "17:30"
@@ -316,7 +327,7 @@ program:
     background_color: "#FFFA99"
   
   #Closing
-  - title: "Encerramento"
+  - title: "Encerramento e Agradecimentos"
     type: custom
     date: 2026-08-15
     start_time: "18:00"
