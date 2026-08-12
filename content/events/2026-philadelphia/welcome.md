@@ -5,9 +5,10 @@ aliases = ["/events/2026-philadelphia/"]
 Description = "devopsdays Philadelphia 2026"
 +++
 
-<!-- <div style="text-align:center;">
-  {{< event_logo >}}
-</div> -->
+<div style="text-align:center;">
+  <!-- {{< event_logo >}} -->
+  <img width="100%" src="/events/2026-philadelphia/logo-2026.png"></img>
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
