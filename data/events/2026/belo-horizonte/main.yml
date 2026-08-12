@@ -30,9 +30,9 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 #
 # coordinates: "" # No longer used
 
-coordinates: "-19.972130, -43.964511" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "UniBH Buritis" # Defaults to city, but you can make it the venue name.
-location_address: "Av. Professor Mário Werneck, 1685 - Buritis" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
+coordinates: "-19.9437754, -43.9279845" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Universidade FUMEC" # Defaults to city, but you can make it the venue name.
+location_address: "Universidade FUMEC - R. Cobre, 200 - Cruzeiro" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
 masthead_background: "capa-dod-1.png"
 
 

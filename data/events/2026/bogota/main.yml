@@ -25,7 +25,7 @@ registration_date_start: 2026-05-01T17:30:00-06:00 # start accepting registratio
 registration_date_end: 2026-10-01T17:30:00-06:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://devopsdaysbogota.org/event/devops-days-bogota-2026-tickets/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -90,15 +90,32 @@ organizer_email: "bogota@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: sigitat
-    level: platinum
-  - id: manage-engine
-    level: diamond
+  - id: compensar
+    level: site
   - id: amadeus
     level: diamond
+  - id: manage-engine
+    level: diamond
+  - id: epam
+    level: diamond
+  - id: fluidattacks
+    level: diamond
+  - id: ibm
+    level: diamond
+  - id: oracle
+    level: diamond
+  - id: sigitat
+    level: platinum
+  - id: clickhouse
+    level: platinum
   - id: nigma
     level: platinum  
-  
+  - id: certjoin
+    level: education
+  - id: cloudcamp
+    level: education
+  - id: ardanlabs
+    level: community    
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -106,6 +123,8 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: site
+    label: Site
   - id: diamond
     label: Diamond
   - id: platinum

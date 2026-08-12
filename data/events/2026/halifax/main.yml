@@ -53,6 +53,10 @@ organizer_email: "halifax@devopsdays.org"
 sponsors:
   - id: volta
     level: venue
+  - id: devitjobs
+    level: community
+  - id: kubeevents
+    level: community
 sponsors_accepted: "yes"
 sponsor_levels:
   - id: platinum

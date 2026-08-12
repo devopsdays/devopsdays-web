@@ -68,6 +68,6 @@ Choosing talks is part art, part science; here are some factors we consider when
 
 <hr>
 
-**How to submit a proposal:** The form will be available with opening of the CFP.
+<a href="https://forms.gle/eFKJ6HQmFzVssPYx6" type="button" class="btn btn-danger btn-lg btn-block">SEND A PROPOSAL</a>
 
 </div>
