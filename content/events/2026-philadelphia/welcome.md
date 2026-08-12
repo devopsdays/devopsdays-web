@@ -7,7 +7,7 @@ Description = "devopsdays Philadelphia 2026"
 
 <div style="text-align:center;">
   <!-- {{< event_logo >}} -->
-  <img src="https://assets.devopsdays.org/events/2026/philadelphia/logo-2026.png"></img>
+  <img width="100%" src="/events/2026-philadelphia/logo-2026.png"></img>
 </div>
 
 <div class = "row">
