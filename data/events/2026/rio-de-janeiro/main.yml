@@ -327,7 +327,7 @@ program:
     background_color: "#FFFA99"
   
   #Closing
-  - title: "Encerramento"
+  - title: "Encerramento e Agradecimentos"
     type: custom
     date: 2026-08-15
     start_time: "18:00"
