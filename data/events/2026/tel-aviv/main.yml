@@ -53,9 +53,13 @@ event_social_youtube: "devopsdaystlv" # Change this to the youtube channel handl
 social_shares: # ["email", "twitter", "facebook", "linkedin"]
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: propose
+    url: https://in10t.ai/cfp/devopsdays-tlv-2026 # The url setting is optional, and only if you want the navigation to link off-site
+
  # - name: location
- # - name: registration
+  - name: registration
+    url: https://in10t.ai/devopsdays-tlv-2026 # The url setting is optional, and only if you want the navigation to link off-site
+
  # - name: program
  # - name: speakers
   - name: sponsor
