@@ -2,7 +2,7 @@
 Title = "Thiago Rodrigues"
 Twitter = ""
 linkedin = "https://www.linkedin.com/in/thiago-rodrigues-151742252/"
-image = ""
+image = "thiago-rodrigues.png"
 type = "speaker"
 linktitle = "thiago-rodrigues"
 
