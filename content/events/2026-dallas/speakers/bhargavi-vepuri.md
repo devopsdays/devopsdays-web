@@ -8,7 +8,7 @@ linktitle = "bhargavi-vepuri"
 
 +++
 
-Bhargavi Vepuri is a Director of Technology at Prudential Financial, specializing in enterprise architecture for regulated financial systems, with expertise in document intelligence, compliance automation, and large-scale workflow orchestration. With more than a decade of experience across insurance and fintech platforms, she has led the design of mission-critical systems that govern how legally binding documents are generated, validated, and delivered within complex enterprise environments.
+Bhargavi Vepuri is a Director in the FinTech/InsurTech Industry, specializing in enterprise architecture for regulated financial systems, with expertise in document intelligence, compliance automation, and large-scale workflow orchestration. With more than a decade of experience across insurance and fintech platforms, she has led the design of mission-critical systems that govern how legally binding documents are generated, validated, and delivered within complex enterprise environments.
 
 Her work centers on transforming manual, error-prone processes into automated, policy-driven platforms that improve accuracy, reduce operational risk, and strengthen regulatory compliance. Bhargavi has designed enterprise frameworks that ensure document completeness and correctness before release, introducing system-level controls that prevent downstream actions until all business and regulatory requirements have been satisfied.
 
