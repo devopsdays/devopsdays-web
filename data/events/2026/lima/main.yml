@@ -219,6 +219,10 @@ sponsors:
    - id: certdirectory
      level: community
      url: https://certdirectory.io/
+   - id: devopsinstitute
+     level: community
+     url: https://www.devopsinstitute.com/
+
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
