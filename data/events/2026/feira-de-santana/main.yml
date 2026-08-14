@@ -205,7 +205,7 @@ program:
     start_time: "13:20"
     end_time: "13:50"
   - title: "camilla-martins"
-    type: keynote
+    type: talk
     date: 2026-09-05
     start_time: "14:00"
     end_time: "14:40"
