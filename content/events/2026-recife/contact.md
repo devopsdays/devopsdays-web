@@ -5,7 +5,6 @@ Description = "Contato - DevOpsDays Recife 2026"
 +++
 <br>
 <h4>Se você quiser entrar em contato conosco, basta enviar um e-mail para: {{< email_organizers >}}</h4>
-</br>
 
 <h4><strong>Organização:</strong></h4>
 

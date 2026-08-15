@@ -2,9 +2,10 @@ name: "2026-recife" # The name of the event. Four digit year with the city name 
 year: "2026" # The year of the event. Make sure it is in quotes.
 city: "Recife" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaysrec" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "DevOpsDays Recife!" # Edit this to suit your preferences
+event_social_linkedin: "https://www.linkedin.com/company/devopsdaysrec/?viewAsMember=true"
+description: "O maior evento de cultura DevOps em linha reta do mundo! Salve a data: 12/12/2026 em Recife."
 ga_tracking_id: "UA-36355678-5" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
-event_logo: "logo.jpg"
+event_logo: "logo.png"
 masthead_background: "background.jpg"
 
 # All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
@@ -12,12 +13,12 @@ masthead_background: "background.jpg"
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: 2026-12-12T00:10:00-03:00
+startdate: 2026-12-12T08:00:00-03:00
 enddate: 2026-12-12T18:00:00-03:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: "2026-04-01T00:00:00-03:00" # start accepting talk proposals.
-cfp_date_end: "2026-08-30T23:59:59-03:00" # close your call for proposals.
+cfp_date_end: "2026-08-31T23:59:59-03:00" # close your call for proposals.
 cfp_date_announce: "2026-09-15T00:00:00-03:00" # inform proposers of status
 
 cfp_open: "true"
@@ -27,7 +28,7 @@ registration_date_start: "" # start accepting registration. Leave blank if regis
 registration_date_end: "" # close registration. Leave blank if registration is not open yet
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.even3.com.br/devopsdays-recife-770771/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -48,13 +49,15 @@ nav_elements: # List of pages you want to show up in the navigation of your page
    url: /events/2026-recife/sponsor
  - name: Programação
    url: /events/2026-recife/program
+ - name: Linktree
+   url: https://linktr.ee/dodrec
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
 
   - name: "Henrique Cordeiro"
     employer: "Myndstream"
-    image: "henrique-cordeiro.png"
+    image: "henrique-cordeiro.jpg"
     bio: ""
     linkedin: "https://www.linkedin.com/in/henrique-cordeiro-pereira/"
 
@@ -75,6 +78,30 @@ team_members: # Name is the only required field for team members.
     image: "carlos-bezerra.png"
     bio: ""
     linkedin: "https://www.linkedin.com/in/carlosdbezerra"
+
+  - name: "Anderson Souza"
+    employer: "Banco BV"
+    image: "anderson-souza.jpg"
+    bio: ""
+    linkedin: "https://www.linkedin.com/in/andersonfluz"
+
+  - name: "Bárbara Castro"
+    employer: "ACT DIGITAL"
+    image: "barbara-castro.jpg"
+    bio: ""
+    linkedin: "https://www.linkedin.com/in/barbara-castro"
+
+  - name: "Danilo Juvenal"
+    employer: "Lunio"
+    image: "danilo-juvenal.jpg"
+    bio: ""
+    linkedin: "https://www.linkedin.com/in/danilo-juvenal-930722167/"
+
+  - name: "Nathalia Accioly"
+    employer: "Valcann"
+    image: "nathalia-accioly.png"
+    bio: ""
+    linkedin: "https://www.linkedin.com/in/nathaliaacciolylins/"
 
 organizer_email: "recife@devopsdays.org" # Put your organizer email address here
 
@@ -100,6 +127,10 @@ sponsor_levels:
     label: Comunidade
 
 sponsors:
+  - id: lunio
+    level: gold
+  - id: porteratech
+    level: community
 
 program:
   # - title: "Credenciamento"
