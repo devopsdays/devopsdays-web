@@ -1,10 +1,10 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_date = "2026-09-05"
+Talk_start_time = "09:00"
+Talk_end_time = "09:30"
 Title = "System Design para Desenvolvedores: o que pensar antes de codar"
 Type = "talk"
-Speakers = ["luis-felipe-de-araujo-lima"]
+Speakers = ["luis-felipe-de-araujo-lima", "thiago-bastos-cerqueira"]
 +++
 
 Antes de escrever código, precisamos entender o problema. Nesta palestra, vamos aprender uma abordagem prática para pensar em System Design, passando por requisitos, APIs, bancos de dados, autenticação, filas, escalabilidade e decisões arquiteturais. A ideia é mostrar como transformar um problema de negócio em uma arquitetura de software antes de começar a implementar.
