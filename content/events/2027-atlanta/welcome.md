@@ -81,12 +81,17 @@ Description = "devopsdays Atlanta 2027"
     </div>
   <hr>
  <div style="text-align:center;">
- <h4>devopsdays Atlanta 2027</h4>
+ <h4>devopsdays Atlanta 2027: dataSecOps</h4>
   {{< event_logo >}}
   <br/>
 <!-- <h4><em>theme goes here</em></h4> -->
  <div style="text-align:left;width:80%;margin: auto;">
+ 
 <p>
+
+AI has been putting more pressure on data platforms for the past few years.
+
+We're finally ready to talk about <a href="https://en.wikipedia.org/wiki/Data_governance">data governance</a> &amp; <a href="https://en.wikipedia.org/wiki/Data_lineage#Data_provenance">data provenance</a> (again).
 </p>
 
   </div>
