@@ -65,18 +65,9 @@ Each raffle ticket represents one entry for that specific day.
 Winners must be present at the event at the time of the draw.  
 Prizes may include sponsor gifts, partner vouchers, or community rewards. Cash alternatives are not available.
 
-### 6. Student ticket refund programme
-Students benefit from a full same day refund for conference tickets when all conditions apply:
 
-- Arrival before 14:00 on the valid ticket day
-- Presentation of a valid student document and personal ID
-- Physical attendance at the event on that day
 
-The refund applies per day.  
-After party tickets are excluded.  
-All refunds are issued in cash after 14:00, not during the registration period.
-
-### 7. Cancellation and refund policy
+### 6. Cancellation and refund policy
 Refunds apply when cancellation requests reach organisers no later than fourteen calendar days before Day 1 (27 May).
 
 After this deadline, refunds are not available.  
@@ -84,7 +75,7 @@ Ticket name changes may still be requested as described in section 11.
 
 Student refunds remain independent and are handled on site.
 
-### 8. Workshops on Day 3
+### 7. Workshops on Day 3
 Workshop tickets grant access to hands on sessions on 29 May.
 
 - Student and non student tickets follow separate pricing
@@ -94,13 +85,13 @@ Workshop tickets grant access to hands on sessions on 29 May.
 
 Workshop tickets are independent of conference day tickets.
 
-### 9. Live streaming access
+### 8. Live streaming access
 Live streaming access provides online viewing of selected sessions at zero cost.
 
 DevOpsDays Sibiu may limit or exclude sessions due to speaker requests or organisational, technical, or content related reasons.  
 Streaming availability depends on technical conditions and speaker consent.
 
-### 10. After party ticket details
+### 9. After party ticket details
 The after party takes place on Day 1, 27 May.
 
 The ticket includes:
@@ -111,17 +102,17 @@ The ticket includes:
 All participants follow the DevOpsDays Code of Conduct.  
 Organisers may act to ensure a safe and welcoming environment.
 
-### 11. Ticket name changes
+### 10. Ticket name changes
 Ticket name changes are supported until seven calendar days before Day 1 (27 May).  
 Later requests may receive limited support.
 
-### 12. Programme evolution
+### 11. Programme evolution
 Organisers may adapt the programme, speakers, schedule, or venue when required, while preserving the overall event experience.
 
-### 13. Community standards
+### 12. Community standards
 All participants contribute to a respectful, inclusive, and welcoming environment in line with the DevOpsDays Code of Conduct.
 
-### 14. Contact and support
+### 13. Contact and support
 Questions related to tickets, refunds, access, or data handling may be addressed through official DevOpsDays Sibiu communication channels.
 
 ---

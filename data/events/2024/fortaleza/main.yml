@@ -190,7 +190,7 @@ sponsors:
   - id: redhat
     level: gold
     url: https://www.redhat.com/
-  - id: nutanix
+  - id: nutanix-before-20260704
     level: platinum
     url: https://www.nutanix.com/br
   - id: clear-it

@@ -16,7 +16,7 @@ slides = ""
 
 ### Workshop
 
-Room: 2.OG - Gesang
+Room: 2.OG - Gesang - 40 pax 
 
 Platform Engineering has become one of the most critical disciplines in the AI era - where speed, security, and trust must coexist. As organizations adopt generative AI and cloud-native technologies at scale, internal developer platforms (IDPs) have emerged as the foundation for safe, compliant, and productive software delivery.
 

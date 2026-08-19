@@ -11,7 +11,7 @@ Description = "DevOpsDays Zurich 2026"
   </div>
   <div class="col-sm-7 text-center p-2">
     <iframe 
-      src="https://player.vimeo.com/video/1068553160?h=935e4fa3fe?autoplay=1&muted=1" 
+      src="https://player.vimeo.com/video/1195115122?h=935e4fa3fe?autoplay=1&muted=1" 
       frameborder="0" 
       allow="autoplay; fullscreen; picture-in-picture" 
       allowfullscreen 

@@ -92,7 +92,19 @@ sponsors:
   - id: uzcloud
     level: digital
   - id: alif
-    level: digital # Use this if you need to over-ride a sponsor URL.
+    level: digital 
+  - id: smart-cloud
+    level: digital
+    url: https://smartcloud.uz/
+  - id: tau-kuber
+    level: digital
+  - id: inha-university-in-tashkent
+    level: sponsor 
+    url: https://inha.uz
+  - id: startup-choyxona
+    level: media
+  - id: the-tech
+    level: media
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -111,3 +123,7 @@ sponsor_levels:
   #   label: Bronze
   - id: digital
     label: Digital
+  - id: media
+    label: media
+  - id: sponsor
+    label: sponsor

@@ -10,7 +10,7 @@ and are happy to tailor a solution that suits your budget and requirements.
 
 <a href="mailto:graz@devopsdays.org?subject=Sponsorship - DevOpsDays Graz 2026">graz@devopsdays.org</a>
 
-<a class="btn btn-primary btn-block"  style = "width: 200px; margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://www.devopsdays.at/"  target="_blank">Check out the sponsoring section on our website!</a> 
+<a class="btn btn-primary btn-block"  style = "width: 200px; margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://www.devopsdays.at/_files/ugd/925933_99395200d7e24485ba036f9b0d348975.pdf"  target="_blank">Check out our sponsorship kit!</a> 
 
 <!-- this section above linked to our sponsoring package PDF with text "See our sponsoring packages" -->
 

@@ -81,7 +81,31 @@ Description = "devopsdays Istanbul 2026"
   </div>
 </div>
 
-<!-- Uncomment if you added your city twitter name -->
-<!--
-{{< event_twitter >}}
--->
+-------
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+        <td width="60%" valign="top" align="left">
+            <h1>DevOpsDays Istanbul 2026</h1>
+            <p>
+                DevOpsDays İstanbul is a one-day conference on Saturday, October 24th, 2026. You can learn and share your knowledge with people from all around the world while enjoying great food and culture in İstanbul.
+            </p>
+            <p>
+                Get ready to meet up with fellow professionals, share what you've learned, and discover the newest ideas, tools, and ways of working in DevOps. Whether you've been doing this for ages or are just starting out, this is your chance to jump into open discussions, find fresh perspectives, and help make our local DevOps community even stronger.
+            </p>
+            <h1>What to Expect</h1>
+            <ul>
+                <li><b>Great Talks:</b> Hear from industry leaders and local experts on all sorts of topics, from making things automatic and using cloud tech to security and how companies are changing their ways.</li>
+                <li><b>Interactive Open Spaces:</b> This is where the real magic happens! You can suggest and lead discussions on topics that matter most to you, creating natural learning and teamwork.</li>
+                <li><b>Plenty of Chances to Connect:</b> Meet new people, build relationships, and share ideas in a friendly and welcoming setting.</li>
+            </ul>
+            <p>
+                Got questions or want to help out? Don't hesitate to reach out – we'd love to chat!
+            </p>
+        </td>
+        <td width="40%" valign="top" align="center">
+            {{< event_logo >}}
+            <br><small>DevOpsDays Istanbul 2026</small>
+        </td>
+    </tr>
+</table>

@@ -135,6 +135,14 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/emidioneto/"
     website: "https://linktr.ee/emdneto"
     image: "emidio-neto.jpeg"
+
+  - name: "Cassius Clay"
+    employer: "Devops specialist na zxperience"
+    twitter: ""
+    linkedin: "https://www.linkedin.com/in/cassius-clay-filho/"
+    bio: "Formado em Tecnologia em Redes de Computadores pelo IFRN, pós-graduado em Computação em Nuvem pela PUC Minas e atualmente mestrando em Tecnologia da Informação pelo IMD/UFRN, com foco em infraestrutura de sensores, redes LLNs e criptografia pós-quântica. Atuo há mais de 10 anos na área de tecnologia, com experiência em suporte, administração de sistemas, SRE e Engenharia DevOps, além de atuação em ambientes de larga escala com Kubernetes e infraestrutura em AWS, GCP, Azure e Oracle Cloud. Também possuo certificação FinOps pela Linux Foundation, com foco em otimização e governança de custos em nuvem. Apaixonado por tecnologia, infraestrutura e automação, busco desenvolver soluções escaláveis, resilientes e inovadoras que gerem impacto positivo para pessoas e organizações. Além do universo tech, sou fã de Star Wars e gosto de transitar entre diferentes comunidades e interesses."
+    image: "cassius-clay.jpeg"
+
 organizer_email: "natal@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.

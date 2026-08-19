@@ -19,7 +19,7 @@ timeoffset: "-0300"
 cfp_date_start:  2026-02-18T00:00:00-03:00
 cfp_date_end:  2026-05-18T00:00:00-03:00
 cfp_date_announce:  2026-06-13T09:00:00-03:00
-cfp_open: "true"
+cfp_open: "false"
 cfp_link: "https://docs.google.com/forms/d/e/1FAIpQLSeCMPHylPeaa2KoMvldH2kphLQJ6UIED_IJ3vZwvZEH7-N-aA/viewform"
 
 registration_date_start: 2026-03-04T09:00:00-03:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
@@ -29,16 +29,16 @@ registration_closed: "" #set this to true if you need to manually close registra
 registration_link: "https://www.sympla.com.br/evento/devopsdays-rio-de-janeiro-2026/3333141?share_id=copiarlink"
 
 # Location
-coordinates: "-22.983646736513947, -43.1965327176094" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Arca Hub"
-location_address: "R. Jangadeiros, 48 - Ipanema, Rio de Janeiro - RJ, 22420-010" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+coordinates: "-22.9442018, -43.1852551" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "FIAP"
+location_address: "R. Marquês de Olinda, 11 , 3º andar - Botafogo, Rio de Janeiro - RJ, 22251-040" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   # - name: propose
   - name: location
   # - name: registration
   - name: program
-  - name: speakers
+  # - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct-pt-br
@@ -59,7 +59,7 @@ team_members: # Name is the only required field for team members.
     employer: "Stone Co"
     twitter: "twitter.com/_RamonPerez"
     github: "github.com/ramonrrp"
-    linkedin: "linkedin.com/in/ramonrrp"
+    linkedin: "https://www.linkedin.com/in/ramonrrp"
     image: "ramon-peres.jpg"
 
   - name: "Mauricio Gomes"
@@ -78,7 +78,7 @@ team_members: # Name is the only required field for team members.
   - name: "Igor Guedes Medella"
     employer: "Departamento de Controle do Espaço Aéreo"
     twitter: "igormedella"
-    linkedin: "LinkedIn.com/in/igorguedes"
+    linkedin: "https://www.linkedin.com/in/igorguedes"
     image: "igor-medella.jpg"
 
   - name: "Bruna Caroline de Jesus"
@@ -96,9 +96,21 @@ organizer_email: "rio-de-janeiro@devopsdays.org" # Put your organizer email addr
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
   #Diamond Sponsors
+  - id: realcloud
+    level: diamond
+
+  - id: fiap
+    level: diamond
+
+  - id: kaspersky
+    level: diamond
 
   #Gold Sponsors
+  - id: stone
+    level: gold
 
+  - id: exadelai
+    level: gold
   #Silver Sponsors
 
   #Community
@@ -107,7 +119,6 @@ sponsors:
 
   - id: docker-rio
     level: community
-
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -130,108 +141,84 @@ program:
     end_time: "09:00"
 
   #CoffeeBreak-1
-  - title: TBA
+  - title: Coffee Break
     type: custom
     date: 2026-08-15
     start_time: "09:00"
-    end_time: "09:20"
+    end_time: "09:30"
 
   #Opening
-  - title: TBA
-    type: custom
-    date: 2026-08-15
-    start_time: "09:20"
-    end_time: "09:30"
-    comments: "Sala: Rollback"
-
-  #Keynote-1
-  - title: TBA
+  - title: Abertura
     type: custom
     date: 2026-08-15
     start_time: "09:30"
     end_time: "10:00"
+    comments: "Sala: Rollback"
+
+  #Keynote-1
+  - title: Nicole Pessoa - Tecnologia com propósito, comunidade que transformam e um futuro mais inclusivo
+    type: custom
+    date: 2026-08-15
+    start_time: "10:00"
+    end_time: "10:30"
     comments: "Keynote - Sala: Rollback"
     background_color: "#FFFA99"
 
-  - title: TBA
-    type: custom
-    date: 2026-08-15
-    start_time: "10:00"
-    end_time: "10:30"
-    comments: "Trilha Iniciante - Sala: Deploy"
-    background_color: "#fdf0d5"
-
-  - title: TBA
-    type: custom
-    date: 2026-08-15
-    start_time: "10:00"
-    end_time: "10:30"
-    comments: "Trilha Avançada - Sala: Rollback"
-    background_color: "#81b29a"
-
-  - title: TBA
-    type: custom
+  - title: bernardo-gomes-lankheet
+    type: talk
     date: 2026-08-15
     start_time: "10:30"
     end_time: "11:00"
     comments: "Trilha Iniciante - Sala: Deploy"
     background_color: "#fdf0d5"
-  - title: TBA
-    type: custom
+  - title: ivan-moulin
+    type: talk
     date: 2026-08-15
     start_time: "10:30"
     end_time: "11:00"
     comments: "Trilha Avançada - Sala: Rollback"
     background_color: "#81b29a"
 
-  - title: TBA
+  - title: Stone
     type: custom
     date: 2026-08-15
     start_time: "11:00"
+    end_time: "11:15"
+    comments: "Trilha Iniciante - Sala: Deploy"
+    background_color: "#fdf0d5"
+  - title: Daysi Mendes
+    type: custom
+    date: 2026-08-15
+    start_time: "11:15"
     end_time: "11:30"
     comments: "Trilha Iniciante - Sala: Deploy"
     background_color: "#fdf0d5"
-  - title: TBA
-    type: custom
+  - title: leonam-ricardo-vasquez-ramos
+    type: talk
     date: 2026-08-15
     start_time: "11:00"
     end_time: "11:30"
     comments: "Trilha Avançada - Sala: Rollback"
     background_color: "#81b29a"
 
-  - title: TBA
+  #Keynote-2
+  - title: Giovanni Bassi - NixOS - Fazendo IaC no próprio Linux
     type: custom
     date: 2026-08-15
     start_time: "11:30"
     end_time: "12:00"
-    comments: "Trilha Iniciante - Sala: Deploy"
-    background_color: "#fdf0d5"
-  - title: TBA
-    type: custom
-    date: 2026-08-15
-    start_time: "11:30"
-    end_time: "12:00"
-    comments: "Trilha Avançada - Sala: Rollback"
-    background_color: "#81b29a"
+    comments: "Keynote - Sala: Rollback"
+    background_color: "#FFFA99"
 
   #Lunch
   - title: "Almoço"
     type: custom
     date: 2026-08-15
     start_time: "12:00"
-    end_time: "13:30"
-
-  #Ignite Talks
-  - title: "Ignite Talks"
-    type: custom
-    date: 2026-08-15
-    start_time: "13:30"
     end_time: "13:45"
-    comments: "Sala: Rollback"
-    background_color: "#C3FFD7"
 
-  #Keynote-2
-  - title: TBA
+  #Keynote-3
+  - title: Bernardo Lopes Engenharia e Senioridade em tempos de IA
     type: custom
     date: 2026-08-15
     start_time: "13:45"
@@ -239,72 +226,78 @@ program:
     comments: "Keynote - Sala: Rollback"
     background_color: "#FFFA99"
 
-  - title: TBA
+  - title: Athila Lincon - DevOps + IA Aplicado ao Mercado Financeiro
     type: custom
     date: 2026-08-15
     start_time: "14:15"
     end_time: "14:30"
     comments: "Trilha Iniciante - Sala: Deploy"
     background_color: "#fdf0d5"
-
-  - title: TBA
-    type: custom
-    date: 2026-08-15
-    start_time: "14:30"
-    end_time: "14:45"
-    comments: "Trilha Iniciante - Sala: Deploy"
-    background_color: "#fdf0d5"
-
-  - title: TBA
+  - title: Amaury Borges - Segurança sem fricção - como escalar SevSecOps sem travar desenvolvedores
     type: custom
     date: 2026-08-15
     start_time: "14:15"
-    end_time: "14:45"
+    end_time: "14:30"
     comments: "Trilha Avançada - Sala: Rollback"
     background_color: "#81b29a"
 
-  - title: TBA
-    type: custom
+  - title: camis-moreira
+    type: talk
     date: 2026-08-15
-    start_time: "14:45"
-    end_time: "15:15"
+    start_time: "14:30"
+    end_time: "15:00"
     comments: "Trilha Iniciante - Sala: Deploy"
     background_color: "#fdf0d5"
-  - title: TBA
-    type: custom
+  - title: lucas-ribeiro-mata
+    type: talk
     date: 2026-08-15
-    start_time: "14:45"
-    end_time: "15:15"
+    start_time: "14:30"
+    end_time: "15:00"
     comments: "Trilha Avançada - Sala: Rollback"
     background_color: "#81b29a"
 
-  - title: TBA
-    type: custom
+  - title: marilene-aparecida-fidencio-da-silva-lourenco
+    type: talk
     date: 2026-08-15
-    start_time: "15:15"
-    end_time: "15:45"
+    start_time: "15:00"
+    end_time: "15:30"
     comments: "Trilha Iniciante - Sala: Deploy"
     background_color: "#fdf0d5"
-  - title: TBA
-    type: custom
+  - title: thiago-goncalves-escobar
+    type: talk
     date: 2026-08-15
-    start_time: "15:15"
-    end_time: "15:45"
+    start_time: "15:00"
+    end_time: "15:30"
     comments: "Trilha Avançada - Sala: Rollback"
     background_color: "#81b29a"
 
-  - title: TBA
+  - title: Ghabryel Henrique - Deploy Serverless de Angular SSR - Escalabilidade Automática com Google Cloud Run e AWS Lambda
     type: custom
     date: 2026-08-15
-    start_time: "15:45"
-    end_time: "16:15"
+    start_time: "15:30"
+    end_time: "16:00"
     comments: "Trilha Iniciante - Sala: Deploy"
     background_color: "#fdf0d5"
-  - title: TBA
+  - title: Pedro Alpis e Leandro Marinho - Desafios Reais na Operação de IaC - Vencendo Obstáculos em Cenários Práticos com Firefly
     type: custom
     date: 2026-08-15
-    start_time: "15:45"
-    end_time: "16:15"
+    start_time: "15:30"
+    end_time: "16:00"
+    comments: "Trilha Avançada - Sala: Rollback"
+    background_color: "#81b29a"
+
+  - title: cerebro-e-codigo-performance-em-ambientes-de-alta-demanda-cognitiva
+    type: talk
+    date: 2026-08-15
+    start_time: "16:00"
+    end_time: "16:30"
+    comments: "Trilha Iniciante - Sala: Deploy"
+    background_color: "#fdf0d5"
+  - title: lara-xavier
+    type: talk
+    date: 2026-08-15
+    start_time: "16:00"
+    end_time: "16:30"
     comments: "Trilha Avançada - Sala: Rollback"
     background_color: "#81b29a"
 
@@ -312,55 +305,31 @@ program:
   - title: "Coffee Break"
     type: custom
     date: 2026-08-15
-    start_time: "16:15"
-    end_time: "16:45"
+    start_time: "16:30"
+    end_time: "17:00"
 
   #OpenSpace-1
   - title: "Open Spaces"
     type: open-space
     date: 2026-08-15
-    start_time: "16:45"
-    end_time: "17:15"
+    start_time: "17:00"
+    end_time: "17:30"
     comments: "Sala: Rollback"
     # background_color: #FFB566
 
-  - title: TBA
-    type: custom
-    date: 2026-08-15
-    start_time: "17:15"
-    end_time: "17:45"
-    comments: "Trilha Iniciante - Sala: Deploy"
-    background_color: "#fdf0d5"
-
-  - title: TBA
-    type: custom
-    date: 2026-08-15
-    start_time: "17:15"
-    end_time: "17:30"
-    comments: "Trilha Avançada - Sala: Rollback"
-    background_color: "#81b29a"
-
-  - title: TBA
+  #Keynote-4
+  - title: Camilla Martins - Punk até o DevOps
     type: custom
     date: 2026-08-15
     start_time: "17:30"
-    end_time: "17:45"
-    comments: "Trilha Avançada - Sala: Rollback"
-    background_color: "#81b29a"
-
-  #Keynote-3
-  - title: TBA
-    type: custom
-    date: 2026-08-15
-    start_time: "17:45"
-    end_time: "18:15"
+    end_time: "18:00"
     comments: "Keynote - Sala: Rollback"
     background_color: "#FFFA99"
   
   #Closing
-  - title: "Encerramento"
+  - title: "Encerramento e Agradecimentos"
     type: custom
     date: 2026-08-15
-    start_time: "18:15"
-    end_time: "18:45"
+    start_time: "18:00"
+    end_time: "18:30"
     comments: "Sala: Rollback"

@@ -192,7 +192,7 @@ sponsors:
     level: silver
   - id: orangecyberdefense
     level: bronze
-  - id: mongodb
+  - id: mongodb-before-20260613
     level: silver
   - id: portworx
     level: silver

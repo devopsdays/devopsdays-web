@@ -116,7 +116,7 @@ sponsors:
     level: gold
   - id: cockroachlabs
     level: recruiting
-  - id: mongodb
+  - id: mongodb-before-20260613
     level: recruiting
   - id: datadog
     level: gold

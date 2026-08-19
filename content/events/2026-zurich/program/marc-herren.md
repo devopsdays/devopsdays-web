@@ -16,7 +16,7 @@ slides = ""
 
 ### Workshop
 
-Room: 1.OG - Seminar
+Room: 1.OG - Seminar - 40 pax 
 
 Generating a Software Bill of Materials (SBOM) is only the first step toward compliance with upcoming regulations like the EU Cyber Resilience Act (CRA). The real challenge lies in managing these artifacts at scale, tracking vulnerabilities across a diverse portfolio, and communicating real-world risks effectively.
 

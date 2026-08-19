@@ -1,0 +1,12 @@
++++
+Talk_date = ""
+Talk_start_time = ""
+Talk_end_time = ""
+Title = "MLOps: desenvolvimento e implantação contínua de modelos de machine learning"
+Type = "talk"
+Speakers = ["lucas-ribeiro-mata"]
++++
+
+Projetos de IA não começam no modelo, e sim nos dados. Nesta palestra, discutiremos como práticas de MLOps são essenciais para estruturar pipelines que dão suporte a todo o ciclo de vida de modelos de machine learning, da coleta e tratamento de dados à entrega e monitoramento em produção.
+
+Desde 2019, venho atuando em projetos de P&D com foco no estudo e desenvolvimento de inteligência artificial para aplicação em sistemas embarcados, em parceria com empresas dos setores elétrico e de óleo e gás. Atualmente, estou trabalhando especificamente com a construção de soluções de inspeção automatizada baseadas drones e câmeras térmicas para o setor de infraestrutura. sses projetos frequentemente envolvem desafios como a ausência total de dados no início, exigindo desde a coleta em campo até o desenho completo dos pipelines de processamento e modelagem. O desenvolvimento desses projetos exigiu a criação de toda a infraestrutura e das ferramentas de software necessárias para automatizar o pipeline de dados - desde o pré-processamento até a execução e o monitoramento dos ciclos de treinamento e refinamento dos modelos. Minha motivação para esta palestra vem dessa vivência prática - da experiência em estruturar soluções de engenharia de dados em cenários reais e complexos. Além disso, sou professor, pesquisador e mestre em Engenharia, com pesquisa voltada à concepção e construção de sistemas ciberfísicos, e atualmente curso doutorado na mesma área. Também tenho atuado como consultor para empresas de diferentes setores interessadas em aplicar inteligência artificial na otimização de processos e serviços. Nessa atuação, o primeiro passo é sempre avaliar a disponibilidade e a qualidade dos dados - base essencial para qualquer solução em IA - e, a partir disso, propor abordagens viáveis alinhadas ao contexto e aos objetivos de cada negócio. Nos projetos de P&D com machine learning, temos utilizado abordagens de MLOps para estruturar pipelines de entrega contínua de modelos. Tenho participado da definição da arquitetura de soluções que integram coleta, preparação, versionamento e validação de dados, além de automação de experimentos, treinamento e deploy. Utilizamos o Kubeflow para orquestrar essas etapas de forma modular e escalável, garantindo rastreabilidade e integração com sistemas de monitoramento em produção.

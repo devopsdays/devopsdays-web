@@ -110,7 +110,7 @@ sponsors:
     level: silver
   - id: pure-storage
     level: gold
-  - id: nutanix
+  - id: nutanix-before-20260704
     level: gold
   - id: smartwave-xebialabs
     level: gold

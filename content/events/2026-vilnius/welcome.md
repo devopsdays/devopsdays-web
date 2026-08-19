@@ -43,7 +43,17 @@ Description = "devopsdays Vilnius 2026"
                 <div class="d-flex p-2">
                     <a class="btn btn-secondary btn-block button-secondary"
                         style="background-color: #1bff9f; border-color: #1bff9f; color: #000000"
-                        href="https://talks.devopsdays.org/devopsdays-vilnius-2026/cfp">Propose a talk</a>
+                        href="https://fienta.com/devopsdays-vilnius-2026">Register</a>
+                </div>
+                <div class="d-flex p-2">
+                    <a class="btn btn-secondary btn-block button-secondary"
+                        style="background-color: #1bff9f; border-color: #1bff9f; color: #000000"
+                        href="https://talks.devopsdays.org/devopsdays-vilnius-2026/schedule">Check Program</a>
+                </div>
+                <div class="d-flex p-2">
+                    <a class="btn btn-secondary btn-block button-secondary"
+                        style="background-color: #1bff9f; border-color: #1bff9f; color: #000000"
+                        href="https://talks.devopsdays.org/devopsdays-vilnius-2026/cfp">Propose a Ignite talk</a>
                 </div>
                 <div class="d-flex p-2">
                     <a class="btn btn-secondary btn-block button-secondary"

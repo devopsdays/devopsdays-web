@@ -1,7 +1,15 @@
 +++
 Title = "devopsdays Berlin 2026"
 Type = "welcome"
-aliases = ["/events/2026-berlin/"]
+aliases = ["/events/2026-berlin/",
+           "/events/2026-berlin/location/",
+           "/events/2026-berlin/conduct-fr/",
+           "/events/2026-berlin/conduct-pt-br/",
+           "/events/2026-berlin/propose/",
+           "/events/2026-berlin/registration/",
+           "/events/2026-berlin/sponsor/"
+]
+
 Description = "devopsdays Berlin 2026"
 +++
 
@@ -17,7 +25,17 @@ Description = "devopsdays Berlin 2026"
   {{< event_logo >}}
 </div>
 
-<div class = "row">
+<div style="text-align:left;">
+<h2>Devopsdays Berlin 2026 have been canceled</h2>
+We regret to inform you that we have <strong>canceled</strong> Devopsdays Berlin 2026.</br> 
+
+Despite our best efforts, we were unable to find enough sponsors to fund the event – and without that support, we simply can't deliver the experience you deserve.</br>
+
+After much discussion and consideration, the Berlin team has made the difficult decision to call it a day.
+</div>
+
+
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Dates</strong>
   </div>
@@ -25,6 +43,8 @@ Description = "devopsdays Berlin 2026"
     {{< event_start >}} - {{< event_end >}}
   </div>
 </div>
+
+
 
 <div class = "row">
   <div class = "col-md-2">
@@ -53,23 +73,23 @@ Description = "devopsdays Berlin 2026"
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
     View the {{< event_link page="program" text="program." >}}
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
-</div> -->
+</div>
 
 
 <div class = "row">
@@ -79,7 +99,7 @@ Description = "devopsdays Berlin 2026"
   <div class = "col-md-8">
     {{< event_link page="sponsor" text="Sponsor the conference!" >}}
   </div>
-</div>
+</div> -->
 
 <div class = "row">
   <div class = "col-md-2">
@@ -89,5 +109,3 @@ Description = "devopsdays Berlin 2026"
     {{< event_link page="contact" text="Get in touch with the organizers" >}}
   </div>
 </div>
-
-{{< event_twitter >}}

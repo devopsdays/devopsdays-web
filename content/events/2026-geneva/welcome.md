@@ -48,7 +48,7 @@ Description = "DevOpsDays Geneva 2026"
   }
 </style>
 
-<div class="row">
+<!--div class="row">
     <div class="col-md-12">
       <div class="row justify-content-center">
         <div class="d-flex p-2">
@@ -66,7 +66,7 @@ Description = "DevOpsDays Geneva 2026"
         </div>
       </div>
     </div>
-</div>
+</div-->
 
 <div class = "row">
 <div class = "col-md-8">
@@ -84,18 +84,18 @@ Description = "DevOpsDays Geneva 2026"
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_location >}}
+    HEG, Campus Battelle, Rue de la Tambourine 17, 1227 Carouge, {{< event_location >}}
   </div>
 </div>
 
-<div class = "row">
+<!--div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="registration" text="Register to attend the conference!" >}}
   </div>
-</div>
+</div-->
 
 
 
