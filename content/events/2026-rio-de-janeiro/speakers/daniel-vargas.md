@@ -1,5 +1,5 @@
 +++
-Title = "Lara Xavier"
+Title = "Daniel Vargas"
 Twitter = ""
 linkedin = ""
 image = "daniel-vargas.jpg"
