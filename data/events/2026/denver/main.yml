@@ -109,6 +109,8 @@ sponsors:
     level: silver
   - id: spacelift
     level: silver
+  - id: puppet-by-perforce
+    level: silver
   - id: code-talent
     level: community
   - id: kubeevents
