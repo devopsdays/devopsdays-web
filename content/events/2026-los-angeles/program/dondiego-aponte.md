@@ -5,6 +5,7 @@ Talk_end_time = "13:45"
 Title = "Barns Don't Burn Down Because of One Loose Nail, But Yours Just Might"
 Type = "talk"
 Speakers = ["dondiego-aponte"]
+Youtube = "nNyYP1IclnE"
 +++
 
 Kubernetes is exceptionally good at keeping things running—and sometimes a little too good at hiding when they're not. Pods restart, nodes reschedule, alerts auto-resolve, and dashboards stay green long after the system has started misbehaving.
