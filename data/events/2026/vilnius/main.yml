@@ -32,8 +32,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: speakers
   - name: program
     url: "https://talks.devopsdays.org/devopsdays-vilnius-2026/schedule/"
-  - name: propose
-    url: "https://talks.devopsdays.org/devopsdays-vilnius-2026/cfp"
+#  - name: propose
+#    url: "https://talks.devopsdays.org/devopsdays-vilnius-2026/cfp"
   - name: sponsor
   - name: location
   - name: contact
