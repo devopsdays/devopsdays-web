@@ -34,7 +34,7 @@ Description = "DevOpsDays Belém 2026"
     <strong>Data</strong>
   </div>
   <div class = "col-md-8">
-    Novembro de 2026 — data exata em breve.
+    14 de novembro de 2026, das 09:00 às 18:00.
   </div>
 </div>
 
