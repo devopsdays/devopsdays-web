@@ -68,7 +68,7 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/lucas-assad/"
 
   - name: "Shenia Andrade"
-    employer: "Luiza Labs"
+    employer: "Luizalabs"
     image: "shenia-andrade.png"
     bio: ""
     linkedin: "https://www.linkedin.com/in/shenia-tamires-andrade/"
@@ -127,6 +127,8 @@ sponsor_levels:
     label: Comunidade
 
 sponsors:
+  - id: uninassau-gracas
+    level: platinum
   - id: lunio
     level: gold
   - id: porteratech
