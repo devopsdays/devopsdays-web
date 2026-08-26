@@ -1,10 +1,10 @@
 +++
 Title = "Patrocínio"
 Type = "event"
-Description = "Patrocine o DevOpsDays Belém 2027"
+Description = "Patrocine o DevOpsDays Belém 2026"
 +++
 
-Valorizamos o apoio de patrocinadores ao DevOpsDays Belém 2027. Se tiver alguma dúvida, sugestão ou interesse em apoiar o evento, envie um e-mail para {{< email_organizers >}}.
+Valorizamos o apoio de patrocinadores ao DevOpsDays Belém 2026. Se tiver alguma dúvida, sugestão ou interesse em apoiar o evento, envie um e-mail para {{< email_organizers >}}.
 
 <hr>
 
@@ -16,7 +16,7 @@ Também encorajamos nossos parceiros a sugerir temas para os _open spaces_, sess
 
 ### Tipos de patrocínio
 
-As cotas, os valores e os benefícios de patrocínio para 2027 serão divulgados quando estiverem confirmados.
+As cotas, os valores e os benefícios de patrocínio para 2026 serão divulgados quando estiverem confirmados.
 
 <div class="alert alert-info">
   Se você tem interesse em um patrocínio especial ou uma ideia criativa sobre como apoiar o evento, envie um e-mail para {{< email_organizers >}}.

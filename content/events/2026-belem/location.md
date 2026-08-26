@@ -1,7 +1,7 @@
 +++
 Title = "Local"
 Type = "event"
-Description = "Local do devopsdays Belém 2027"
+Description = "Local do devopsdays Belém 2026"
 +++
 
 Em breve divulgaremos informações sobre o local, incluindo endereço, mapa, estacionamento, transporte e hospedagem.

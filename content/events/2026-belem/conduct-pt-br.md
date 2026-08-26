@@ -1,10 +1,10 @@
 +++
 Title = "Conduta"
 Type = "event"
-Description = "Código de conduta do DevOpsDays Belém 2027"
+Description = "Código de conduta do DevOpsDays Belém 2026"
 +++
 
-## Código de Conduta — DevOpsDays Belém 2027
+## Código de Conduta — DevOpsDays Belém 2026
 
 ### Nosso compromisso e escopo
 

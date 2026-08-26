@@ -1,19 +1,19 @@
 +++
-Title = "DevOpsDays Belém 2027"
+Title = "DevOpsDays Belém 2026"
 Type = "welcome"
-aliases = ["/events/2027-belem/"]
-Description = "DevOpsDays Belém 2027"
+aliases = ["/events/2026-belem/"]
+Description = "DevOpsDays Belém 2026"
 +++
 
 <div style="text-align:center;">
   {{< event_logo >}}
 </div>
 
-<h2 style="text-align:center;">DevOpsDays Belém 2027</h2>
+<h2 style="text-align:center;">DevOpsDays Belém 2026</h2>
 
 <div class="intro">
   <p>
-    O <strong>DevOpsDays está voltando a Belém em 2027</strong>. Em edições anteriores,
+    O <strong>DevOpsDays está voltando a Belém em novembro de 2026</strong>. Em edições anteriores,
     nosso foco sempre foi espalhar a cultura DevOps, fortalecer conexões e trocar
     experiências entre profissionais de tecnologia.
   </p>
@@ -31,10 +31,10 @@ Description = "DevOpsDays Belém 2027"
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Datas</strong>
+    <strong>Data</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_start >}} - {{< event_end >}}
+    Novembro de 2026 — data exata em breve.
   </div>
 </div>
 

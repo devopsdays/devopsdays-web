@@ -1,14 +1,14 @@
-name: "2027-belem" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
-year: "2027" # The year of the event. Make sure it is in quotes.
+name: "2026-belem" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2026" # The year of the event. Make sure it is in quotes.
 city: "Belém" # The displayed city name of the event. Capitalize it.
 event_twitter: "tasafo" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "DevOpsDays está chegando em Belém!" # Edit this to suit your preferences
+description: "DevOpsDays Belém acontece em novembro de 2026!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
-# All dates are in unquoted 2027-MM-DDTHH:MM:SS+TZ:TZ, like this:
+# All dates are in unquoted 2026-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2019-01-04T00:00:00+02:00
 #   variable: 2019-01-05T23:59:59+02:00
-# Note: we allow 2027-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+# Note: we allow 2026-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
 startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
 enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
@@ -50,11 +50,11 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: Site
     url: https://abicora.com/devopsdays-belem
   - name: Patrocínio
-    url: /events/2027-belem/sponsor
+    url: /events/2026-belem/sponsor
   - name: Contato
-    url: /events/2027-belem/contact
+    url: /events/2026-belem/contact
   - name: Código de Conduta
-    url: /events/2027-belem/conduct-pt-br
+    url: /events/2026-belem/conduct-pt-br
 
 
 # These are the same people you have on the mailing list and Slack channel.
