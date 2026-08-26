@@ -9,7 +9,25 @@ Description = "DevOpsDays Belém 2027"
   {{< event_logo >}}
 </div>
 
-<p style="text-align:center;">O DevOpsDays está voltando a Belém em 2027. Em breve divulgaremos a data, o local e outras novidades.</p>
+<h2 style="text-align:center;">DevOpsDays Belém 2027</h2>
+
+<div class="intro">
+  <p>
+    O <strong>DevOpsDays está voltando a Belém em 2027</strong>. Em edições anteriores,
+    nosso foco sempre foi espalhar a cultura DevOps, fortalecer conexões e trocar
+    experiências entre profissionais de tecnologia.
+  </p>
+  <p>
+    Se você ainda não participou, essa é a chance de fazer parte. Venha aprender,
+    trocar ideias, conhecer novas pessoas e se inspirar. Você faz a diferença!
+  </p>
+  <p>
+    Acompanhe o <a href="https://abicora.com/devopsdays-belem">site oficial do evento</a> —
+    atualizaremos a data, o local, a programação e as oportunidades de patrocínio
+    conforme tudo for confirmado.
+  </p>
+  <p>Vamos juntos fazer dessa edição a melhor de todas!</p>
+</div>
 
 <div class = "row">
   <div class = "col-md-2">

@@ -47,6 +47,8 @@ event_social_twitter: "tasafo" # Change this to the twitter handle for your even
 social_shares: # ["email", "twitter", "facebook", "linkedin"]
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: Site
+    url: https://abicora.com/devopsdays-belem
   - name: Patrocínio
     url: /events/2027-belem/sponsor
   - name: Contato

@@ -1,28 +1,57 @@
 +++
 Title = "Conduta"
 Type = "event"
-Description = "Código de conduta do devopsdays Belém 2027"
+Description = "Código de conduta do DevOpsDays Belém 2027"
 +++
 
+## Código de Conduta — DevOpsDays Belém 2027
 
-Participantes, palestrantes, representantes de empresas e pessoas voluntárias no devopsdays Belém 2027 são requeridos a concordar com o seguinte código de conduta. A organização irá aplicar este código pelo evento. Nós esperamos cooperação de todas as pessoas participando para garantir um ambiente seguro para todas as pessoas.
+### Nosso compromisso e escopo
 
-### A versão rápida
+Nosso objetivo é garantir que o DevOpsDays Belém seja um espaço seguro e inclusivo para todas as pessoas. Buscamos promover um ambiente de respeito mútuo, colaboração e crescimento profissional.
 
-Nossa conferência é dedicada a prover um uma experiência de conferência sem assédio para todos, independente de gênero, identidade de gênero e expressão, idade, orientação sexual, deficiência, aparência física, tamanho corporal, raça, etinia, religião (ou a falta dela) ou escolhas de tecnologias. Nós não toleramos assédio de participantes da conferência de qualquer forma. Linguagem e imagens sexuais não são apropriadas em nenhum local, incluindo palestras, workshops, festas, Twitter e outras mídias online. Violações destas regras poderão causar expulsão da conferência, sem reembolso a critério da equipe organizadora.
+Este Código de Conduta se aplica a todas as pessoas envolvidas no evento, incluindo participantes, organização, palestrantes, representantes de empresas patrocinadoras e pessoas voluntárias, em todas as atividades e espaços relacionados ao evento.
 
-### A versão não tão rápida
+### Respeito e inclusão
 
-Assédio inclui comentários verbais ofensivos relacionados a gênero, identidade de gênero e expressão, idade, orientação sexual, deficiência, aparência física, tamanho corporal, raça, etinia, religião (ou a falta dela) ou escolhas de tecnologias, imagens sexuais em espaços públicos, intimidação deliberada, stalking, perseguição, fotografias ou filmagens constrangedoras, interrupção contínua das apresentações ou outros eventos, contato físico inapropriado e atenção sexual indesejada. Participantes que receberem uma solicitação para interromper qualquer comportamento de assédio devem fazer isso imediatamente.
+Esperamos que todas as pessoas tratem umas às outras com respeito, dignidade e cortesia. Estamos comprometidos com um ambiente livre de discriminação, independentemente de gênero, identidade ou expressão de gênero, orientação sexual, raça, etnia, idade, religião, deficiência, aparência física, condição socioeconômica ou escolhas tecnológicas.
 
-As políticas antiassédio também se aplicam a representantes de empresas patrocinadoras. Em particular, não devem usar imagens, atividades ou outro material de cunho sexual. As equipes de estandes e tendas (incluindo pessoas voluntárias) não devem utilizar roupas, uniformes ou trajes sexualizados ou criar um ambiente sexualizado de quaisquer formas.
+### Comportamentos esperados
 
-Se alguém se envolver em comportamento de assédio, a equipe organizadora pode tomar qualquer ação que considerar apropriada, incluindo avisar a pessoa ofensora ou expulsá-la da conferência sem reembolso.
+Encorajamos uma participação ativa e respeitosa, promovendo a saúde e a longevidade da nossa comunidade. Esperamos que todas as pessoas participantes:
 
-Se você estiver sofrendo assédio, notar que alguém está sofrendo assédio, ou tenha alguma dúvida, por favor contate alguém da organização imediatamente.
+- usem linguagem acolhedora e inclusiva;
+- respeitem diferentes pontos de vista e experiências;
+- aceitem críticas construtivas de forma respeitosa;
+- priorizem o que é melhor para a comunidade;
+- demonstrem empatia com outras pessoas.
 
-As pessoas da equipe da conferência podem ser identificadas por crachás distintos da organização. A organização estará disposta a contatar a segurança do hotel/local ou a polícia local, fornecer escolta ou ajudar pessoas que sofrerem assédio para que se sintam seguras durante a conferência. Nós valorizamos a sua participação.
+### Comportamentos inaceitáveis
 
-Esperamos que todas as pessoas participantes sigam estas regras em salas de apresentação e workshops da conferência, além de eventos sociais relacionados.
+Não serão tolerados assédio, intimidação, linguagem desrespeitosa ou qualquer forma de discriminação e humilhação. Isso inclui:
 
-_O código de conduta do devopsdays Belém 2027 é baseado em [confcodeofconduct.com](https://confcodeofconduct.com/index-pt-br.html)._
+- comentários ofensivos, depreciativos ou preconceituosos;
+- ataques pessoais, bullying, xingamentos ou assédio público ou privado;
+- uso inadequado de nudez, imagens sexuais ou representações de violência;
+- intimidação deliberada, perseguição ou importunação;
+- fotografar ou gravar alguém de modo abusivo;
+- perturbar repetidamente apresentações, conversas ou outras atividades;
+- contato físico inadequado ou atenção sexual indesejada;
+- publicar informações privadas de terceiros sem permissão explícita;
+- outras condutas que possam ser razoavelmente consideradas inadequadas em um ambiente profissional.
+
+### Consequências
+
+Comportamentos inaceitáveis levarão a ações corretivas consideradas apropriadas pela organização, incluindo advertência ou expulsão do evento, sem reembolso.
+
+### Denúncia
+
+Se você testemunhar ou sofrer algum comportamento inaceitável, reporte imediatamente a uma pessoa da equipe do evento. A organização está disponível para ajudar e buscar garantir sua segurança e conforto.
+
+### Responsabilidades
+
+Todas as pessoas participantes são responsáveis por seguir este Código de Conduta e contribuir para um ambiente positivo, seguro e enriquecedor.
+
+### Apoio e assistência
+
+A equipe estará disponível para oferecer apoio e assistência durante o evento. Contamos com a colaboração de todas as pessoas para manter o DevOpsDays Belém acolhedor e inclusivo.
