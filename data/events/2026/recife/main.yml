@@ -4,7 +4,7 @@ city: "Recife" # The displayed city name of the event. Capitalize it.
 # event_twitter: "devopsdaysrec" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 event_social_linkedin: "https://www.linkedin.com/company/devopsdaysrec/?viewAsMember=true"
 social_shares: ["email", "linkedin"] # Only show share buttons for socials we actually have; removes broken/unused twitter and facebook icons from the welcome page
-description: "O maior evento de cultura DevOps em linha reta do mundo! Salve a data: 12/12/2026 em Recife."
+description: "O maior e melhor evento de cultura DevOps em linha reta do mundo!"
 ga_tracking_id: "UA-36355678-5" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 event_logo: "logo.png"
 masthead_background: "background.jpg"
