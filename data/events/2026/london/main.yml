@@ -112,7 +112,11 @@ sponsors:
     level: gold
   - id: elastic
     level: gold
+  - id: cloudbees
+    level: gold
   - id: oag
+    level: silver
+  - id: progress
     level: silver
   - id: appsignal
     level: accessibility
