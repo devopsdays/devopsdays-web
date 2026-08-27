@@ -105,15 +105,12 @@ Esses eventos, que começaram em Ghent, Bélgica, em 2009, promovem a troca de c
 <br>
 <h2 style ="color:#0082AB"> DEVOPSDAYS RECIFE - 2026</h2>
 <p align="justify">
-Salve a data: <strong>12 de dezembro de 2026</strong>, das <strong>8h às 18h</strong>, em Recife (PE). A <strong>sexta edição</strong> do DevOpsDays Recife volta a reunir quem vive cultura DevOps no dia a dia. Automação, plataforma, segurança e, acima de tudo, <strong>pessoas</strong>.
+Save the date: <strong>12 de dezembro de 2026</strong>, das <strong>8h às 18h</strong>, em Recife (PE) na UNINASSAU Graças, Bloco B, Auditório Roque de Brito. A <strong>sexta edição</strong> do DevOpsDays Recife volta a reunir quem vive cultura DevOps no dia a dia. Automação, plataforma, segurança e, acima de tudo, <strong>pessoas</strong>.
 </p>
 
 <p align="justify">
 O evento que começou em Ghent em 2009 e virou referência no mundo desembarca de novo na capital pernambucana. Se você trabalha com desenvolvimento, operações, SRE, produto, plataforma, segurança ou só quer trocar ideia de verdade com a comunidade, está convidado.
 </p>
-
-<p align="justify">
-O <strong>local</strong> do evento ainda será divulgado; acompanhe este site e nossas redes para CFP, inscrições e novidades.
 </p>
 </div>
 </div>
