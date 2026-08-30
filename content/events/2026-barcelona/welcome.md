@@ -10,11 +10,45 @@ Description = "DevOpsDays Barcelona 2026"
 
   /* Masthead: navy instead of the theme default blue-to-grey, so white text
      stays legible all the way down to the venue address. */
+  /* Full-bleed masthead. It is itself the .col-md-12, so Bootstrap's
+     flex: 0 0 100% / max-width: 100% has to be overridden or the width is
+     clamped to the container. The navy then fades to white at both sides so a
+     hard dark block does not butt against the white page.
+
+     --bcn-inset is both the fade distance and the horizontal padding, so the
+     text always begins exactly where the fade has finished. Past the 1600px
+     container width it becomes the real gutter, which lines the masthead text
+     up with the content below it. */
   .welcome-page-masthead {
-    background: #111224;
-    background: linear-gradient(#111224, #232A52);
-    border-bottom: 4px solid #00BAEB;
+    --bcn-inset: max(6vw, calc(50vw - 800px));
+    flex: 0 0 100vw;
+    width: 100vw;
+    max-width: none;
+    margin-top: 0;
+    margin-left: calc(50% - 50vw);
+    margin-right: calc(50% - 50vw);
+    padding-left: var(--bcn-inset);
+    padding-right: var(--bcn-inset);
+    border-bottom: 0;
     font-size: +1em;
+    background: #111224;
+    background:
+      linear-gradient(to right,
+        #fff 0,
+        rgba(255, 255, 255, 0) var(--bcn-inset),
+        rgba(255, 255, 255, 0) calc(100% - var(--bcn-inset)),
+        #fff 100%),
+      linear-gradient(to top,
+        #00BAEB 0, #00BAEB 4px,
+        rgba(0, 186, 235, 0) 4px),
+      linear-gradient(#111224, #232A52);
+  }
+
+  /* 100vw does not account for the scrollbar; stop the overhang from creating
+     a horizontal scroll. Safe here - the theme has no sticky or fixed
+     positioning for this to break. */
+  body {
+    overflow-x: hidden;
   }
   .welcome-page-masthead,
   .welcome-page-masthead a {
