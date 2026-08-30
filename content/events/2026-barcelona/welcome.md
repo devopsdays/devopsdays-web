@@ -19,11 +19,13 @@ Description = "DevOpsDays Barcelona 2026"
      against white) to #0A5771 at the bottom (7.8:1), deepening as it goes so
      the small venue and date text sits on the strongest contrast.
 
-     --bcn-inset matches the container's own padding below 1600px and becomes
-     the real gutter above it, so the masthead text lines up with the content
-     underneath at every width. */
+     --bcn-inset aligns the masthead text with the body copy below it. That
+     copy sits in .bcn-wrap, a 1000px column centred in the viewport, so the
+     inset is the distance from the screen edge to that column: 50vw - 500px.
+     Below roughly 1030px the column is no longer 1000px wide and hugs the
+     container padding instead, which is what the 15px floor picks up. */
   .welcome-page-masthead {
-    --bcn-inset: max(15px, calc(50vw - 800px));
+    --bcn-inset: max(15px, calc(50vw - 500px));
     flex: 0 0 100vw;
     width: 100vw;
     max-width: none;
