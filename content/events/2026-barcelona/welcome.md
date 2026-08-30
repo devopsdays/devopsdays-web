@@ -35,14 +35,24 @@ Description = "DevOpsDays Barcelona 2026"
     color: #fff;
   }
 
-  /* Share icons and the masthead Contact button: outlined rather than filled,
-     so they sit quietly on the navy instead of competing with it. */
-  a.jssocials-share-link, a.event-cta-button {
+  /* Hide the "share this page" row. Its email icon shares the page by mail,
+     which reads as a second Contact button, and its LinkedIn icon posts to the
+     visitor's own feed rather than linking to ours. Both jobs are done more
+     clearly by the Contact button and the Follow badge below.
+     Note: social_shares: [] would not work here - an empty list is falsy in
+     Hugo, so footer_scripts.html falls back to showing all four buttons. */
+  #share {
+    display: none;
+  }
+
+  /* Masthead buttons: outlined rather than filled, so they sit quietly on the
+     navy instead of competing with it. */
+  a.event-cta-button {
     background-color: transparent;
     border: 1px solid rgba(255, 255, 255, 0.65);
     color: #fff;
   }
-  a:hover.jssocials-share-link, a:hover.event-cta-button {
+  a:hover.event-cta-button {
     background-color: rgba(255, 255, 255, 0.15);
     color: #fff;
   }
@@ -138,8 +148,13 @@ Description = "DevOpsDays Barcelona 2026"
     margin-top: 0;
     margin-bottom: 0.75rem;
     font-size: 1.1rem;
+    font-weight: 700;
     color: #111224;
   }
+  /* Title picks up the card's accent, darkened so it stays readable on cream. */
+  .bcn-card.amber h3   { color: #A34E12; }
+  .bcn-card.crimson h3 { color: #C00E38; }
+  .bcn-card.cyan h3    { color: #076A85; }
   .bcn-card p {
     margin-bottom: 0;
     font-size: 0.93rem;
