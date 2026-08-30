@@ -12,15 +12,18 @@ Description = "DevOpsDays Barcelona 2026"
      stays legible all the way down to the venue address. */
   /* Full-bleed masthead. It is itself the .col-md-12, so Bootstrap's
      flex: 0 0 100% / max-width: 100% has to be overridden or the width is
-     clamped to the container. The navy then fades to white at both sides so a
-     hard dark block does not butt against the white page.
+     clamped to the container.
 
-     --bcn-inset is both the fade distance and the horizontal padding, so the
-     text always begins exactly where the fade has finished. Past the 1600px
-     container width it becomes the real gutter, which lines the masthead text
-     up with the content below it. */
+     The blue is a lighter, logo-derived teal rather than near-black navy, but
+     it still has to carry white text: it runs from #12789A at the top (5.1:1
+     against white) to #0A5771 at the bottom (7.8:1), deepening as it goes so
+     the small venue and date text sits on the strongest contrast.
+
+     --bcn-inset matches the container's own padding below 1600px and becomes
+     the real gutter above it, so the masthead text lines up with the content
+     underneath at every width. */
   .welcome-page-masthead {
-    --bcn-inset: max(6vw, calc(50vw - 800px));
+    --bcn-inset: max(15px, calc(50vw - 800px));
     flex: 0 0 100vw;
     width: 100vw;
     max-width: none;
@@ -29,19 +32,10 @@ Description = "DevOpsDays Barcelona 2026"
     margin-right: calc(50% - 50vw);
     padding-left: var(--bcn-inset);
     padding-right: var(--bcn-inset);
-    border-bottom: 0;
+    border-bottom: 4px solid #F9CD34;
     font-size: +1em;
-    background: #111224;
-    background:
-      linear-gradient(to right,
-        #fff 0,
-        rgba(255, 255, 255, 0) var(--bcn-inset),
-        rgba(255, 255, 255, 0) calc(100% - var(--bcn-inset)),
-        #fff 100%),
-      linear-gradient(to top,
-        #00BAEB 0, #00BAEB 4px,
-        rgba(0, 186, 235, 0) 4px),
-      linear-gradient(#111224, #232A52);
+    background: #12789A;
+    background: linear-gradient(#12789A, #0A5771);
   }
 
   /* 100vw does not account for the scrollbar; stop the overhang from creating
