@@ -2,10 +2,9 @@
 Title = "Parag Trivedi"
 Twitter = ""
 linkedin = ""
-image = "parag-trivedi.jpg"
+image = "parag-trivedi.png"
 type = "speaker"
 linktitle = "parag-trivedi"
-
 +++
 
-Eric is a 30+ year enterprise software developer, architect, and consultant with a focus on CI/CD, DevOps, and container-based solutions over the last decade and has been a Docker user since 2013. As a Principal Solutions Architect at Chainguard, Eric helps teams deploy their applications securely by minimizing container image footprint and CVE counts.
+Parag is a DevOps and platform engineering leader based in the DFW metroplex. With a passion for reducing developer friction and scaling engineering excellence, I specialize in internal developer platforms, cloud migrations, and building cultures of automation. I believe the best platforms are the ones developers actually love and want to adopt rather then force fed them.
