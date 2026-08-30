@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Site Reliability Engineering w/ AIOps"
 Type = "talk"
-Speakers = ["sunny-behl", "kanikarapu-giridhar"]
+Speakers = ["sunny-behl", "giridhar-kanikarapu"]
 +++
 
 Modern distributed systems have outpaced traditional SRE tooling. Static thresholds, manual alert correlation, and reactive runbooks were built for a simpler era — not for Kubernetes-native, microservices-heavy production environments generating millions of signals per minute. The result is alert fatigue, unsustainable on-call burden, and SRE teams spending more time firefighting than engineering.

@@ -1,10 +1,10 @@
 +++
-Title = "Eric Smalling"
+Title = "Parag Trivedi"
 Twitter = ""
-linkedin = "https://www.linkedin.com/in/ericsmalling/"
-image = "eric-smalling.jpg"
+linkedin = ""
+image = "parag-trivedi.jpg"
 type = "speaker"
-linktitle = "eric-smalling"
+linktitle = "parag-trivedi"
 
 +++
 
