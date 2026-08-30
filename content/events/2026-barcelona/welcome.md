@@ -53,16 +53,31 @@ Description = "DevOpsDays Barcelona 2026"
   .welcome-page-date {
     font-weight: 700;
   }
-  .welcome-page-masthead-venue {
-    font-weight: 600;
+  /* Bigger title, now that the masthead carries only the name and the dates.
+     text-transform: none undoes the theme's generic h1 capitalize rule, which
+     was rendering the wordmark as "Devopsdays". Lowercase is how devopsdays
+     sets its own name, here and in the site nav and footer. */
+  .welcome-page-masthead h1.welcome-page {
+    font-size: clamp(2.6rem, 5vw, 3.8rem);
+    line-height: 1.1;
+    margin-bottom: 0.4rem;
+    text-transform: none;
+  }
+
+  /* Drop the venue and the address from the masthead - both still appear in
+     the Location row below. The fields stay in main.yml because the location
+     page's map, the Location row and the schema.org event metadata all read
+     them, so this has to be done here rather than by blanking the config.
+     The two <br> that follow them go too, or they leave the gap behind. */
+  .welcome-page-masthead-venue,
+  .welcome-page-masthead-venue + br,
+  .welcome-page-masthead-venue + br + span,
+  .welcome-page-masthead-venue + br + span + br {
+    display: none;
   }
   .e-summary {
     font-size: +1em;
     font-weight: 700;
-  }
-  a.p-location, a.p-location:hover, a.p-location:active {
-    font-weight: 600;
-    color: #fff;
   }
 
   /* Hide the "share this page" row. Its email icon shares the page by mail,
@@ -96,9 +111,14 @@ Description = "DevOpsDays Barcelona 2026"
     max-height: 70px;
   }
 
+  /* The theme sets html { font-size: 14px }, so a bare rem here is 14px and
+     body copy renders small and light. Lift the whole column to ~16px with a
+     roomier line height. */
   .bcn-wrap {
     max-width: 1000px;
     margin: 0 auto;
+    font-size: 1.15rem;
+    line-height: 1.65;
   }
 
   /* Follow line, sits directly under the masthead */
@@ -129,30 +149,31 @@ Description = "DevOpsDays Barcelona 2026"
     margin-bottom: 0.35rem;
   }
 
-  /* Intro: copy beside the logo on desktop, stacked on mobile */
-  .bcn-intro {
+  /* Top section: the logo sits beside everything from the LinkedIn line down
+     to the end of the intro copy, centred against that whole block rather
+     than against the first paragraph. Stacks on mobile. */
+  .bcn-top {
     display: flex;
     flex-wrap: wrap;
     gap: 2rem;
-    align-items: flex-start;
-    margin: 2rem 0;
+    align-items: center;
+    margin: 1.5rem 0 2.5rem;
   }
-  .bcn-intro-copy {
-    flex: 1 1 320px;
+  .bcn-top-main {
+    flex: 1 1 340px;
     min-width: 0;
   }
-  .bcn-intro-logo {
+  .bcn-top-logo {
     flex: 0 1 260px;
     text-align: center;
     margin: 0 auto;
   }
-  .bcn-intro-logo img {
+  .bcn-top-logo img {
     max-width: 100%;
     height: auto;
   }
-  .bcn-intro h2 {
+  .bcn-top-main h2 {
     margin-top: 0;
-    color: #111224;
   }
 
   /* "What's in Store?" cards */
@@ -177,7 +198,7 @@ Description = "DevOpsDays Barcelona 2026"
   .bcn-card h3 {
     margin-top: 0;
     margin-bottom: 0.75rem;
-    font-size: 1.1rem;
+    font-size: 1.35rem;
     font-weight: 700;
     color: #111224;
   }
@@ -187,7 +208,8 @@ Description = "DevOpsDays Barcelona 2026"
   .bcn-card.cyan h3    { color: #076A85; }
   .bcn-card p {
     margin-bottom: 0;
-    font-size: 0.93rem;
+    font-size: 1.1rem;
+    line-height: 1.6;
   }
 
   /* Bottom call to action */
@@ -227,6 +249,9 @@ Description = "DevOpsDays Barcelona 2026"
 </style>
 
 <div class="bcn-wrap">
+
+<div class="bcn-top">
+<div class="bcn-top-main">
 
 <div class="bcn-follow">
   {{< event_social_linkedin >}}
@@ -320,20 +345,23 @@ Description = "DevOpsDays Barcelona 2026"
 
 </div>
 
-<div class="bcn-intro">
-  <div class="bcn-intro-copy">
-    <h2>Hola, Barcelona! We're Back!</h2>
-    <p>
-      After a long break, we're absolutely thrilled to announce that <b>DevOpsDays is coming back to Barcelona in 2026!</b> It's been over ten years since our last event here in 2013, and things in the world of DevOps have changed so much. We're really excited to bring the global DevOpsDays community back to our amazing city.
-    </p>
-    <p>
-      Get ready to meet up with fellow professionals, share what you've learned, and discover the newest ideas, tools, and ways of working in DevOps. Whether you've been doing this for ages or are just starting out, this is your chance to jump into open discussions, find fresh perspectives, and help make our local DevOps community even stronger.
-    </p>
-  </div>
-  <div class="bcn-intro-logo">
-    {{< event_logo >}}
-    <br><small>DevOpsDays Barcelona 2026</small>
-  </div>
+<h2>Hola, Barcelona! We're Back!</h2>
+
+<p>
+  After a long break, we're absolutely thrilled to announce that <b>DevOpsDays is coming back in 2026!</b> It's been over ten years since our last event here in 2013, and things in the world of DevOps have changed so much. We're really excited to bring the global DevOpsDays community back to our amazing city.
+</p>
+
+<p>
+  Get ready to meet up with fellow professionals, share what you've learned, and discover the newest ideas, tools, and ways of working in DevOps. Whether you've been doing this for ages or are just starting out, this is your chance to jump into open discussions, find fresh perspectives, and help make our local DevOps community even stronger.
+</p>
+
+</div>
+
+<div class="bcn-top-logo">
+  {{< event_logo >}}
+  <br><small>DevOpsDays Barcelona 2026</small>
+</div>
+
 </div>
 
 <h2>What's in Store?</h2>
@@ -344,24 +372,24 @@ Description = "DevOpsDays Barcelona 2026"
     <p>Hear from industry leaders and local experts on all sorts of topics, from making things automatic and using cloud tech to security and how companies are changing their ways.</p>
   </div>
   <div class="bcn-card crimson">
-    <h3>Interactive Open Spaces</h3>
+    <h3>Open Spaces</h3>
     <p>This is where the real magic happens! You can suggest and lead discussions on topics that matter most to you, creating natural learning and teamwork.</p>
   </div>
   <div class="bcn-card cyan">
-    <h3>Plenty of Chances to Connect</h3>
+    <h3>Time to Connect</h3>
     <p>Meet new people, build relationships, and share ideas in a friendly and welcoming setting.</p>
   </div>
 </div>
 
 <p>
-  We're busy planning an awesome event, and we can't wait to welcome you back to DevOpsDays Barcelona. Keep an eye out for more details on how to get involved as a speaker, sponsor or even a volunteer.
+  We're busy planning an awesome event, and we can't wait to welcome you back. Keep an eye out for more details on how to get involved as a speaker, sponsor or even a volunteer.
 </p>
 <p>
   <b>Let's make this return bigger and better than ever before!</b>
 </p>
 
 <div class="bcn-cta">
-  <p><strong>Want to be part of DevOpsDays Barcelona 2026?</strong><br>Put your company in front of the local DevOps community, or just say hello &mdash; we'd love to chat.</p>
+  <p><strong>Got questions or want to help out?</strong><br>Don't hesitate to reach out &ndash; we'd love to chat!</p>
   <a class="bcn-btn" href="/events/2026-barcelona/sponsor">Sponsor the conference</a>
   <a class="bcn-btn outline" href="/events/2026-barcelona/contact">Contact us</a>
 </div>
