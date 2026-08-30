@@ -47,14 +47,14 @@ event_social_linkedin: "https://linkedin.com/company/devopsdays-bcn/" # Change t
 #event_twitter: "devopsdays" # This will create a traditional "Follow" twitter button. Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: location 
+  - name: location
+  - name: registration
+  - name: program
+  - name: speakers
   - name: sponsor
-  - name: propose
+# - name: propose # CFP is closed
   - name: contact
   - name: conduct
-# - name: registration
-# - name: program
-# - name: speakers
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
