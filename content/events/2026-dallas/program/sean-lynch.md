@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = ""
+Title = "Evolving the Engine Mid-Flight"
 Type = "talk"
 Speakers = ["sean-lynch"]
 +++
