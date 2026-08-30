@@ -34,6 +34,9 @@ location: "Barcelona" # Defaults to city, but you can make it the venue name.
 #
 location_address: "c/ Pujades, 118, 08005 Barcelona" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
 
+# Which social share buttons to show. We only have email and LinkedIn.
+social_shares: ["email", "linkedin"]
+
 # Optional - Social badges
 # These can be used in the body of any page via matching shortcodes. See sample:  https://devopsdays.org/events/2025-denver/welcome/
 event_social_linkedin: "https://linkedin.com/company/devopsdays-bcn/" # Change this to the url to your Linkedin group, company, or page.
