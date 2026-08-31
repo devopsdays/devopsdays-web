@@ -10,8 +10,8 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2026-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: 2026-09-28T00:00:00-05:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2026-09-29T00:00:00-05:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2026-09-28T08:30:00-05:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2026-09-29T08:30:00-05:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  # start accepting talk proposals.
@@ -57,7 +57,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  - name: propose
  - name: location
  - name: registration
- # - name: program
+ - name: program
  - name: speakers
  - name: sponsor
  - name: contact
@@ -75,7 +75,7 @@ team_members: # Name is the only required field for team members.
     role: "Coordinator"
     linkedin: "https://www.linkedin.com/in/cayla-halliday-pmp-csm-257a9645/"
     image: "cayla.jpg"
-  
+
   - name: "Gokul Sridharan"
     employer: "Katalon"
     bio: "Gokul Sridharan is a Master’s Degree holder in IT, an entrepreneur by nature and a successful presales management professional at CA Technologies. He has worked there for the past 3 years and successfully managing a business of $10m+ from a technical sales standpoint. Prior to joining CA and pursuing his master’s degree, Gokul started off his career at Accenture as a software developer.<br><br>During that time frame, he also started his own restaurant venture called ‘The Snack Shack’ in India. He loves DevOps concepts and likes to be a part of local meetups. He is also part of the organizing committee in DevOpsDays Dallas, and on in his spare time likes to work on new and innovative ideas."
@@ -142,6 +142,13 @@ team_members: # Name is the only required field for team members.
     github: "https://github.com/mandersen94/"
     image: "mark-andersen.jpg"
 
+  - name: "Naomi Onye"
+    employer: "GM Financial"
+    bio: "Naomi is a Scrum Master at GM Financial, where she leads technology delivery across cloud infrastructure and emerging AI initiatives. With a passion for Agile transformation, innovation, and leadership, she works closely with technology leaders and teams to improve delivery, identify opportunities for AI adoption, and turn strategic ideas into measurable outcomes. Beyond her role at GM Financial, Naomi serves as a board member and Chief Strategy Officer for Hearts 2 Heal, a nonprofit focused on connecting communities with mental health and grief support resources. She is also a passionate speaker and facilitator, sharing insights on AI, technology, leadership, career growth, and the future of work at conferences, corporate events, and industry forums. Outside of work, Naomi enjoys traveling, Pilates, fitness, football, good food, and spending time with family and friends. She is passionate about faith, community, and creating opportunities that help others grow personally and professionally."
+    role: "Attendee Outreach"
+    linkedin: "https://www.linkedin.com/in/naomi-onye/"
+    image: "naomi-onye.jpg"
+
   - name: "Paula Lipnick"
     employer: "JP Morgan Chase"
     bio: "Paula has over 15 years of experience driving process improvement and long-term business value across the banking, automotive, aviation, logistics, and insurance sectors. Her versatile career includes roles at JPMorgan Chase, Citibank, Hewlett Packard, and Aflac, spanning functions that include Technical Program Management, Strategy and Planning, Technology Consulting, and Agile Coaching. A passionate advocate for the measurable impacts of DevOps, Agile, and Lean, Paula’s journey with DevOpsDays DFW began as a volunteer in 2022 before she joined the Organizing Team in 2023. She holds an MBA with a focus in Business Intelligence and Accounting. In addition, she has a PMP and a PSM. When she isn't optimizing value streams, you can find her volunteering in her community, hiking, or catching waves at the nearest beach."
@@ -177,7 +184,7 @@ team_members: # Name is the only required field for team members.
     twitter: "sundeepbobba"
     linkedin: "https://www.linkedin.com/in/sundeepbobba/"
     image: "sundeep.png"
-  
+
   - name: "Sunny Bhakta"
     employer: "City of Carrollton"
     bio: "Sangita (Sunny) Bhakta has over 15 years of experience driving operational excellence, revenue growth, and process improvement across government, technology, and hospitality sectors. Her diverse career spans leadership roles with Hilton, Wyndham Worldwide, Carlson Rezidor Hotel Group, and Choice Hotels International, where she has led cross-functional initiatives in technology modernization, corporate sales strategy, stakeholder engagement, and service delivery.<br><br>Currently serving in municipal IT, Sunny supports large-scale infrastructure upgrades and security initiatives, coordinating vendors and cross-departmental teams to deliver projects on time and within budget. A strong advocate for governance, standardization, and measurable outcomes, she brings a strategic lens to risk management, workflow optimization, and continuous improvement.<br><br>She holds a B.S. in Business Administration and maintains multiple industry certifications, including PMP, CJIS, CompTIA Security+, Network+, and A+.<br><br>Outside of work, Sunny enjoys mentoring others, traveling, cooking, and giving back to her community.<br><br>Grateful for the opportunity to serve as a volunteer with DevOpsDays DFW — looking forward to supporting an incredible community!"
@@ -247,3 +254,214 @@ sponsor_levels:
     max: 10
   - id: community
     label: Community
+
+program:
+  - title: "Registration & Breakfast"
+    type: custom
+    date: "2026-09-28"
+    start_time: "08:00"
+    end_time: "08:45"
+  - title: "Intro and Code of Conduct"
+    type: custom
+    date: "2026-09-28"
+    start_time: "08:45"
+    end_time: "09:00"
+  - title: "sean-lynch"
+    type: talk
+    date: "2026-09-28"
+    start_time: "09:00"
+    end_time: "09:45"
+  - title: "brian-buege"
+    type: talk
+    date: "2026-09-28"
+    start_time: "09:45"
+    end_time: "10:20"
+  - title: "Break"
+    type: custom
+    date: "2026-09-28"
+    start_time: "10:20"
+    end_time: "10:30"
+  - title: "sunny-behl"
+    type: talk
+    date: "2026-09-28"
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "Sponsors"
+    type: custom
+    date: "2026-09-28"
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "Ignite Talks"
+    type: ignite
+    date: "2026-09-28"
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch (catered) | Open Space - Overview"
+    type: custom
+    date: "2026-09-28"
+    start_time: "12:00"
+    end_time: "12:45"
+  - title: "aaron-krauss"
+    type: talk
+    date: "2026-09-28"
+    start_time: "12:45"
+    end_time: "13:30"
+  - title: "Sponsors"
+    type: custom
+    date: "2026-09-28"
+    start_time: "13:30"
+    end_time: "13:50"
+  - title: "dagan-martinez-vargas"
+    type: talk
+    date: "2026-09-28"
+    start_time: "13:50"
+    end_time: "14:20"
+  - title: "sayeed-mohammad"
+    type: talk
+    date: "2026-09-28"
+    start_time: "14:20"
+    end_time: "14:50"
+  - title: "Break"
+    type: custom
+    date: "2026-09-28"
+    start_time: "14:50"
+    end_time: "15:00"
+  - title: "Open Space - Topic Proposals & Selection"
+    type: open-space
+    date: "2026-09-28"
+    start_time: "15:00"
+    end_time: "15:15"
+  - title: "Open Space Day 1 - Session 1"
+    type: open-space
+    date: "2026-09-28"
+    start_time: "15:15"
+    end_time: "15:45"
+  - title: "Open Space Day 1 - Session 2"
+    type: open-space
+    date: "2026-09-28"
+    start_time: "15:45"
+    end_time: "16:15"
+  - title: "Close Day & Logistics"
+    type: custom
+    date: "2026-09-28"
+    start_time: "16:15"
+    end_time: "16:30"
+  - title: "Social Networking - Happy Hour"
+    type: custom
+    date: "2026-09-28"
+    start_time: "16:30"
+    end_time: "19:00"
+
+  - title: "Registration & Breakfast"
+    type: custom
+    date: "2026-09-29"
+    start_time: "08:00"
+    end_time: "08:45"
+  - title: "Welcome"
+    type: custom
+    date: "2026-09-29"
+    start_time: "08:45"
+    end_time: "09:00"
+  - title: "leena-kallakuri"
+    type: talk
+    date: "2026-09-29"
+    start_time: "09:00"
+    end_time: "09:45"
+  - title: "dalia-powers"
+    type: talk
+    date: "2026-09-29"
+    start_time: "09:45"
+    end_time: "10:15"
+  - title: "Break"
+    type: custom
+    date: "2026-09-29"
+    start_time: "10:15"
+    end_time: "10:30"
+  - title: "shalini-sudarsan"
+    type: talk
+    date: "2026-09-29"
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "Sponsors"
+    type: custom
+    date: "2026-09-29"
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "Ignite Talks"
+    type: ignite
+    date: "2026-09-29"
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch (catered) | Open Space - Overview"
+    type: custom
+    date: "2026-09-29"
+    start_time: "12:00"
+    end_time: "12:45"
+  - title: "rahul-tanniru"
+    type: talk
+    date: "2026-09-29"
+    start_time: "12:45"
+    end_time: "13:30"
+  - title: "karen-scheid"
+    type: talk
+    date: "2026-09-29"
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Break"
+    type: custom
+    date: "2026-09-29"
+    start_time: "14:00"
+    end_time: "14:10"
+  - title: "Open Space - Topic Proposals & Selection"
+    type: open-space
+    date: "2026-09-29"
+    start_time: "14:30"
+    end_time: "14:45"
+  - title: "Open Space Day 2 - Session 1"
+    type: open-space
+    date: "2026-09-29"
+    start_time: "14:45"
+    end_time: "15:15"
+  - title: "Open Space Day 2 - Session 2"
+    type: open-space
+    date: "2026-09-29"
+    start_time: "15:15"
+    end_time: "15:45"
+  - title: "Speaker Discussion Panel"
+    type: custom
+    date: "2026-09-29"
+    start_time: "15:45"
+    end_time: "16:20"
+    # custom_url: "https://youtu.be/CDbYfRHfp3U"
+  - title: "Organizers Recognition"
+    type: custom
+    date: "2026-09-29"
+    start_time: "16:20"
+    end_time: "16:30"
+  - title: "Closing, Organizer's Raffle Giveaway & Farewell"
+    type: custom
+    date: "2026-09-29"
+    start_time: "16:30"
+    end_time: "16:45"
+
+ignites:
+  - title: "eric-smalling"
+    date: "2026-09-28"
+  - title: "bhargavi-vepuri"
+    date: "2026-09-28"
+  - title: "mourya-chigurupati"
+    date: "2026-09-28"
+  - title: "tejas-pravinbhai-patel"
+    date: "2026-09-28"
+  - title: "shiva-krishna-kodithyala"
+    date: "2026-09-28"
+  - title: "wil-mckenney"
+    date: "2026-09-29"
+  - title: "michael-erdman"
+    date: "2026-09-29"
+  - title: "chaitanya-anne"
+    date: "2026-09-29"
+  - title: "lorenzo-samaniego"
+    date: "2026-09-29"
+  - title: "parag-trivedi"
+    date: "2026-09-29"
