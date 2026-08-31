@@ -145,7 +145,7 @@ team_members: # Name is the only required field for team members.
   - name: "Naomi Onye"
     employer: "GM Financial"
     bio: "Naomi is a Scrum Master at GM Financial, where she leads technology delivery across cloud infrastructure and emerging AI initiatives. With a passion for Agile transformation, innovation, and leadership, she works closely with technology leaders and teams to improve delivery, identify opportunities for AI adoption, and turn strategic ideas into measurable outcomes. Beyond her role at GM Financial, Naomi serves as a board member and Chief Strategy Officer for Hearts 2 Heal, a nonprofit focused on connecting communities with mental health and grief support resources. She is also a passionate speaker and facilitator, sharing insights on AI, technology, leadership, career growth, and the future of work at conferences, corporate events, and industry forums. Outside of work, Naomi enjoys traveling, Pilates, fitness, football, good food, and spending time with family and friends. She is passionate about faith, community, and creating opportunities that help others grow personally and professionally."
-    role: "Coordinator"
+    role: "Attendee Outreach"
     linkedin: "https://www.linkedin.com/in/naomi-onye/"
     image: "naomi-onye.jpg"
 
