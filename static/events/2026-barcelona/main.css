@@ -431,3 +431,105 @@ div.sponsor-row img.img-fluid {
   border-top: 1px solid #e6e6ea;
   margin: 2.5rem 0;
 }
+
+/* The organizer cards come from the theme's list_organizers shortcode, so the
+   markup is not ours to change - only the surface it lands on. Bootstrap's
+   card chrome comes off and the pieces are re-ranked: the person's name is the
+   loudest thing on the card, not the word "Organizer". */
+.bcn-wrap .organizer-card {
+  margin-bottom: 1.5rem;
+}
+.bcn-wrap .organizer-card .card {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  border: 1px solid #e6e6ea;
+  border-radius: 6px;
+  overflow: hidden;
+  background: #fff;
+}
+/* order: the shortcode prints the name before the portrait, so a two-line
+   name pushed that card's photo below its neighbours'. The card is a flex
+   column, so the photo is pulled to the top without touching the markup and
+   the photos line up across a row whatever the names do. */
+.bcn-wrap .organizer-card .card-header {
+  order: 2;
+  padding: 1rem 1rem 0.65rem;
+  background: transparent;
+  border-bottom: 0;
+}
+.bcn-wrap .organizer-card .card-header h3 {
+  margin: 0;
+  font-size: 1.15rem;
+  font-weight: 700;
+  line-height: 1.3;
+  color: #111224;
+}
+/* The role is set as an h4, which had it outshouting the name it belongs to.
+   It is a label, so it is sized and spaced like one. */
+.bcn-wrap .organizer-card .card-header h4 {
+  margin: 0.3rem 0 0;
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #55555f;
+}
+/* Portraits arrive at whatever aspect ratio each person sent. Crop them all to
+   the same square so the grid does not stagger. */
+.bcn-wrap .organizer-card .organizer-image {
+  order: 1;
+  width: 100%;
+  /* The theme pins img.organizer-image to height: 300px, which both ignores
+     the aspect ratio below and leaves a different amount of each person
+     showing. Hand the height back to the ratio. */
+  height: auto;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+}
+.bcn-wrap .organizer-card .card-block {
+  order: 3;
+  padding: 1rem;
+}
+/* Bootstrap's .text-muted is too light to read at this size. */
+.bcn-wrap .organizer-card .card-subtitle {
+  font-size: 0.9rem;
+  font-weight: 600;
+  /* The shortcode tags the employer with Bootstrap's .text-muted, which is
+     an !important utility - #6c757d is too light to read at this size. */
+  color: #55555f !important;
+}
+.bcn-wrap .organizer-card .card-text {
+  font-size: 0.95rem;
+  line-height: 1.55;
+  color: #1a1a1a;
+}
+/* fa-2x put the social icons above the bio in the visual order. Bring them
+   down to the text's weight and give them the page's ink. */
+.bcn-wrap .organizer-card .card-block .fa-2x {
+  font-size: 1.4rem;
+}
+.bcn-wrap .organizer-card .card-block a {
+  color: #111224;
+}
+.bcn-wrap .organizer-card .card-block a:hover {
+  color: #00BAEB;
+}
+.bcn-wrap .organizer-card .card-block a:focus-visible {
+  outline: 3px solid #0A5771;
+  outline-offset: 3px;
+}
+
+/* The address is the point of the contact page, so it is the biggest thing in
+   the block that carries it. */
+.bcn-email {
+  margin: 0.4rem 0 0;
+  font-size: 1.35rem;
+  font-weight: 700;
+}
+.bcn-email a {
+  color: #C00E38;
+}
+.bcn-email a:hover {
+  color: #8F0A2A;
+}
