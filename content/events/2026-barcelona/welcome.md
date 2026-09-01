@@ -172,8 +172,13 @@ Description = "DevOpsDays Barcelona 2026"
     max-width: 100%;
     height: auto;
   }
+  /* The theme gives an h2 7px of space under it, which the two card grids
+     below override with their own 1.5rem top margin. This heading is followed
+     by a paragraph with no top margin, so it was the one place on the page
+     where a 32px heading sat 7px off its text. Match the other two. */
   .bcn-top-main h2 {
     margin-top: 0;
+    margin-bottom: 1.5rem;
   }
 
   /* "What's in Store?" cards. Deliberately plain - cream fill, one hairline
