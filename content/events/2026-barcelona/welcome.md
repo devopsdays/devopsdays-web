@@ -240,6 +240,23 @@ Description = "DevOpsDays Barcelona 2026"
     box-shadow: 0 4px 14px rgba(17, 18, 36, 0.12);
     transform: translateY(-2px);
   }
+  /* The theme clears the outline on :focus, so a keyboard user has no way of
+     telling which card or button they are on. Put one back, in the darker end
+     of the masthead teal so it reads against both the white cards and the
+     cream call to action. */
+  .bcn-action:focus-visible,
+  .bcn-btn:focus-visible {
+    outline: 3px solid #0A5771;
+    outline-offset: 3px;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .bcn-action {
+      transition: none;
+    }
+    .bcn-action:hover {
+      transform: none;
+    }
+  }
   .bcn-action-title {
     display: block;
     font-size: 1.35rem;
@@ -391,8 +408,8 @@ Description = "DevOpsDays Barcelona 2026"
 <div class="bcn-actions">
   <a class="bcn-action" href="/events/2026-barcelona/program">
     <span class="bcn-action-title">Program</span>
-    <p>See what is on across the two days of the conference.</p>
-    <span class="bcn-action-go">View the schedule &rarr;</span>
+    <p>See what's on across the two days.</p>
+    <span class="bcn-action-go">See the full program &rarr;</span>
   </a>
   <a class="bcn-action amber" href="/events/2026-barcelona/speakers">
     <span class="bcn-action-title">Speakers</span>
@@ -400,7 +417,7 @@ Description = "DevOpsDays Barcelona 2026"
     <span class="bcn-action-go">Meet the speakers &rarr;</span>
   </a>
   <a class="bcn-action crimson" href="/events/2026-barcelona/registration">
-    <span class="bcn-action-title">Tickets</span>
+    <span class="bcn-action-title">Registration</span>
     <p>Registration is open &ndash; book your place for both days.</p>
     <span class="bcn-action-go">Register now &rarr;</span>
   </a>
@@ -424,7 +441,7 @@ Description = "DevOpsDays Barcelona 2026"
 </div>
 
 <p>
-  The call for proposals is closed and the program is set. Take a look at the talks and at the speakers joining us in November, then book your ticket for the two days.
+  The call for proposals is closed and the program is set. Take a look at the talks and at the speakers joining us in November, then register for the two days.
 </p>
 <p>
   There is still room for sponsors, and we would love to hear from anyone who wants to help make this edition happen.
@@ -434,8 +451,8 @@ Description = "DevOpsDays Barcelona 2026"
 </p>
 
 <div class="bcn-cta">
-  <p><strong>See you on 13&ndash;14 November.</strong><br>Book your ticket, sponsor the conference, or just say hello &ndash; we'd love to chat!</p>
-  <a class="bcn-btn" href="/events/2026-barcelona/registration">Get your ticket</a>
+  <p><strong>See you on 13&ndash;14 November.</strong><br>Register, sponsor the conference, or just say hello &ndash; we'd love to chat!</p>
+  <a class="bcn-btn" href="/events/2026-barcelona/registration">Register now</a>
   <a class="bcn-btn outline" href="/events/2026-barcelona/sponsor">Sponsor the conference</a>
   <a class="bcn-btn outline" href="/events/2026-barcelona/contact">Contact us</a>
 </div>
