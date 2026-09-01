@@ -439,6 +439,18 @@ div.sponsor-row img.img-fluid {
 .bcn-wrap .organizer-card {
   margin-bottom: 1.5rem;
 }
+/* The shortcode asks for four across on a wide screen (col-xl-3). Inside our
+   1000px column that is about 220px a card, which is too narrow for a bio -
+   every third or fourth word wraps. Three across gives each card about 300px
+   without widening the measure the rest of the site is set to. Below 1200px
+   the shortcode's own col-lg-4 and col-md-6 already step down to three and
+   two, so only the xl case needs saying. */
+@media (min-width: 1200px) {
+  .bcn-wrap .organizer-card {
+    flex: 0 0 33.3333%;
+    max-width: 33.3333%;
+  }
+}
 .bcn-wrap .organizer-card .card {
   display: flex;
   flex-direction: column;
@@ -500,7 +512,7 @@ div.sponsor-row img.img-fluid {
   color: #55555f !important;
 }
 .bcn-wrap .organizer-card .card-text {
-  font-size: 0.95rem;
+  font-size: 1rem;
   line-height: 1.55;
   color: #1a1a1a;
 }
