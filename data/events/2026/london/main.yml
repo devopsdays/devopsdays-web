@@ -114,11 +114,11 @@ sponsors:
     level: gold
   - id: cloudbees
     level: gold
+  - id: puppet-by-perforce
+    level: gold
   - id: oag
     level: silver
   - id: progress
-    level: silver
-  - id: puppet-by-perforce
     level: silver
   - id: appsignal
     level: accessibility
