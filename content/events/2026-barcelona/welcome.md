@@ -212,6 +212,59 @@ Description = "DevOpsDays Barcelona 2026"
     line-height: 1.6;
   }
 
+  /* The three things that are live now: program, speakers and tickets. A
+     strip of linked cards rather than three more lines in the facts box -
+     these are what we want a visitor to act on, not more small print. The
+     whole card is the link; the arrow is decoration. Left accent bar instead
+     of the top bar the "What's in Store?" cards use, so the two grids do not
+     read as the same kind of thing. */
+  .bcn-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin: 1.5rem 0 2.5rem;
+  }
+  .bcn-action {
+    flex: 1 1 240px;
+    display: block;
+    border: 1px solid #e6e6ea;
+    border-left: 4px solid #00BAEB;
+    border-radius: 6px;
+    padding: 1.1rem 1.35rem;
+    background: #fff;
+    color: #1a1a1a !important;
+    text-decoration: none !important;
+    transition: box-shadow 0.15s ease, transform 0.15s ease;
+  }
+  .bcn-action:hover {
+    box-shadow: 0 4px 14px rgba(17, 18, 36, 0.12);
+    transform: translateY(-2px);
+  }
+  .bcn-action-title {
+    display: block;
+    font-size: 1.35rem;
+    font-weight: 700;
+    margin-bottom: 0.3rem;
+    color: #076A85;
+  }
+  .bcn-action p {
+    margin: 0;
+    font-size: 1.05rem;
+    line-height: 1.55;
+  }
+  .bcn-action-go {
+    display: block;
+    margin-top: 0.6rem;
+    font-weight: 600;
+    color: #076A85;
+  }
+  .bcn-action.amber { border-left-color: #F9CD34; }
+  .bcn-action.amber .bcn-action-title,
+  .bcn-action.amber .bcn-action-go { color: #A34E12; }
+  .bcn-action.crimson { border-left-color: #F11647; }
+  .bcn-action.crimson .bcn-action-title,
+  .bcn-action.crimson .bcn-action-go { color: #C00E38; }
+
   /* Bottom call to action */
   .bcn-cta {
     background: #FFFCF0;
@@ -278,14 +331,10 @@ Description = "DevOpsDays Barcelona 2026"
   </div>
 </div>
 
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Register</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
-  </div>
-</div>
+<!-- Register, Program, Speakers and Sponsors were rows here. They are things
+     to do rather than facts about the event, so they now live in the card
+     strip below and in the buttons at the foot of the page. Listing them in
+     both places would put the same links on the page twice. -->
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -295,33 +344,6 @@ Description = "DevOpsDays Barcelona 2026"
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
 </div> -->
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Program</strong>
-  </div>
-  <div class = "col-md-8">
-    View the {{< event_link page="program" text="program." >}}
-  </div>
-</div>
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Speakers</strong>
-  </div>
-  <div class = "col-md-8">
-    Check out the {{< event_link page="speakers" text="speakers!" >}}
-  </div>
-</div>
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Sponsors</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="sponsor" text="Sponsor the conference!" >}}
-  </div>
-</div>
 
 <!---
 <div class = "row">
@@ -364,6 +386,26 @@ Description = "DevOpsDays Barcelona 2026"
 
 </div>
 
+<h2>The Program Is Live</h2>
+
+<div class="bcn-actions">
+  <a class="bcn-action" href="/events/2026-barcelona/program">
+    <span class="bcn-action-title">Program</span>
+    <p>See what is on across the two days of the conference.</p>
+    <span class="bcn-action-go">View the schedule &rarr;</span>
+  </a>
+  <a class="bcn-action amber" href="/events/2026-barcelona/speakers">
+    <span class="bcn-action-title">Speakers</span>
+    <p>Meet the people taking the stage in Barcelona this November.</p>
+    <span class="bcn-action-go">Meet the speakers &rarr;</span>
+  </a>
+  <a class="bcn-action crimson" href="/events/2026-barcelona/registration">
+    <span class="bcn-action-title">Tickets</span>
+    <p>Registration is open &ndash; book your place for both days.</p>
+    <span class="bcn-action-go">Register now &rarr;</span>
+  </a>
+</div>
+
 <h2>What's in Store?</h2>
 
 <div class="bcn-card-grid">
@@ -382,15 +424,19 @@ Description = "DevOpsDays Barcelona 2026"
 </div>
 
 <p>
-  We're busy planning an awesome event, and we can't wait to welcome you back. Keep an eye out for more details on how to get involved as a speaker, sponsor or even a volunteer.
+  The call for proposals is closed and the program is set. Take a look at the talks and at the speakers joining us in November, then book your ticket for the two days.
+</p>
+<p>
+  There is still room for sponsors, and we would love to hear from anyone who wants to help make this edition happen.
 </p>
 <p>
   <b>Let's make this return bigger and better than ever before!</b>
 </p>
 
 <div class="bcn-cta">
-  <p><strong>Got questions or want to help out?</strong><br>Don't hesitate to reach out &ndash; we'd love to chat!</p>
-  <a class="bcn-btn" href="/events/2026-barcelona/sponsor">Sponsor the conference</a>
+  <p><strong>See you on 13&ndash;14 November.</strong><br>Book your ticket, sponsor the conference, or just say hello &ndash; we'd love to chat!</p>
+  <a class="bcn-btn" href="/events/2026-barcelona/registration">Get your ticket</a>
+  <a class="bcn-btn outline" href="/events/2026-barcelona/sponsor">Sponsor the conference</a>
   <a class="bcn-btn outline" href="/events/2026-barcelona/contact">Contact us</a>
 </div>
 
