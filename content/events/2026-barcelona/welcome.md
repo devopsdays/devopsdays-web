@@ -176,7 +176,9 @@ Description = "DevOpsDays Barcelona 2026"
     margin-top: 0;
   }
 
-  /* "What's in Store?" cards */
+  /* "What's in Store?" cards. Deliberately plain - cream fill, one hairline
+     border, navy titles. They describe the event rather than asking for
+     anything, and the logo colours are spent on the action strip above. */
   .bcn-card-grid {
     display: flex;
     flex-wrap: wrap;
@@ -186,15 +188,11 @@ Description = "DevOpsDays Barcelona 2026"
   .bcn-card {
     flex: 1 1 220px;
     border: 1px solid #e6e6ea;
-    border-top: 4px solid #00BAEB;
     border-radius: 6px;
     padding: 1.25rem 1.5rem;
     background: #FFFCF0;
     color: #1a1a1a;
   }
-  .bcn-card.amber   { border-top-color: #F9CD34; }
-  .bcn-card.crimson { border-top-color: #F11647; }
-  .bcn-card.cyan    { border-top-color: #00BAEB; }
   .bcn-card h3 {
     margin-top: 0;
     margin-bottom: 0.75rem;
@@ -202,10 +200,6 @@ Description = "DevOpsDays Barcelona 2026"
     font-weight: 700;
     color: #111224;
   }
-  /* Title picks up the card's accent, darkened so it stays readable on cream. */
-  .bcn-card.amber h3   { color: #A34E12; }
-  .bcn-card.crimson h3 { color: #C00E38; }
-  .bcn-card.cyan h3    { color: #076A85; }
   .bcn-card p {
     margin-bottom: 0;
     font-size: 1.1rem;
@@ -215,9 +209,10 @@ Description = "DevOpsDays Barcelona 2026"
   /* The three things that are live now: program, speakers and tickets. A
      strip of linked cards rather than three more lines in the facts box -
      these are what we want a visitor to act on, not more small print. The
-     whole card is the link; the arrow is decoration. Left accent bar instead
-     of the top bar the "What's in Store?" cards use, so the two grids do not
-     read as the same kind of thing. */
+     whole card is the link; the arrow is decoration. This is the only place
+     on the page carrying the three logo colours - the "What's in Store?"
+     cards below stay plain, so the two grids do not read as the same kind of
+     thing and the eye lands here first. */
   .bcn-actions {
     display: flex;
     flex-wrap: wrap;
@@ -426,15 +421,15 @@ Description = "DevOpsDays Barcelona 2026"
 <h2>What's in Store?</h2>
 
 <div class="bcn-card-grid">
-  <div class="bcn-card amber">
+  <div class="bcn-card">
     <h3>Great Talks</h3>
     <p>Hear from industry leaders and local experts on all sorts of topics, from making things automatic and using cloud tech to security and how companies are changing their ways.</p>
   </div>
-  <div class="bcn-card crimson">
+  <div class="bcn-card">
     <h3>Open Spaces</h3>
     <p>This is where the real magic happens! You can suggest and lead discussions on topics that matter most to you, creating natural learning and teamwork.</p>
   </div>
-  <div class="bcn-card cyan">
+  <div class="bcn-card">
     <h3>Time to Connect</h3>
     <p>Meet new people, build relationships, and share ideas in a friendly and welcoming setting.</p>
   </div>
