@@ -20,7 +20,7 @@ Here we will provide you with information about the venue including address, map
 <!-- {{< event_map >}} -->
 
 <br>
-If you are traveling to attend this event, the Southwest Airlines Wings Building is located at Dallas Love Field.  It is approximately 25 minutes from DFW Airport via Hwy 114. 
+If you are traveling to attend this event, the Southwest Airlines Wings Building is located near Dallas Love Field.  It is approximately 25 minutes from DFW Airport via Hwy 114. 
 <br>
 <br>
 <!-- Go to www.addthis.com/dashboard to customize your tools -->

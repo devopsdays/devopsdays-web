@@ -2,14 +2,14 @@
 /amsterdam/*		/events/2026-amsterdam/:splat		302
 /antwerp/*		/events/2024-antwerp/:splat		302
 /aracaju/*		/events/2024-aracaju/:splat		302
-/atlanta/*		/events/2026-atlanta/:splat		302
+/atlanta/*		/events/2027-atlanta/:splat		302
 /austin/cfp		https://talks.devopsdays.org/devopsdays-austin-2026/cfp 302
 /austin/*		/events/2026-austin/:splat		302
 /baku/*			/events/2019-baku/:splat		302
 /baltimore/*		/events/2025-baltimore/:splat		302
 /barcelona/*		/events/2026-barcelona/:splat		302
 /beijing/*		/events/2023-beijing/:splat		302
-/belem/*		/events/2019-belem/:splat		302
+/belem/*		/events/2026-belem/:splat		302
 /belo-horizonte/*	/events/2026-belo-horizonte/:splat	302
 /bengaluru/*		/events/2023-bengaluru/:splat		302
 /berlin/*		/events/2026-berlin/:splat		302
@@ -51,7 +51,7 @@
 /hamburg/*		/events/2010-europe/:splat		302
 /hartford/*		/events/2019-hartford/:splat		302
 /helsinki/*		/events/2014-helsinki/:splat		302
-/houston/*		/events/2024-houston/:splat		302
+/houston/*		/events/2027-houston/:splat		302
 /halifax/*		/events/2026-halifax/:splat		302
 /indianapolis/*		/events/2023-indianapolis/:splat	302
 /istanbul/*		/events/2026-istanbul/:splat		302
@@ -95,7 +95,7 @@
 /portugal/*		/events/2026-portugal/:splat		302
 /poznan/*		/events/2023-poznan/:splat		302
 /prague/*		/events/2026-prague/:splat		302
-/raleigh/*		/events/2026-raleigh/:splat		302
+/raleigh/*		/events/2027-raleigh/:splat		302
 /recife/cfp		https://talks.devopsdays.org/devopsdays-recife-2026/cfp		302
 /recife/*		/events/2026-recife/:splat		302
 /riga/*			/events/2018-riga/:splat		302

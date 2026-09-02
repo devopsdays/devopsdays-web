@@ -12,11 +12,11 @@ cfp_date_end: "2026-08-31"  # close your call for proposals.
 
 cfp_link: "https://talks.devopsdays.org/boston-2026/cfp" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
-registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+registration_date_start: "2026-08-27" # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: "2026-10-30" # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://tickets.devopsdays.org/devopsdays-boston/2006/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 location: "Microsoft NERD Center"
 location_address: "1 Memorial Drive, Cambridge MA 02142"
@@ -38,7 +38,7 @@ masthead_background: "skyline.jpg"
 nav_elements:
   - name: propose
  # - name: location
- # - name: registration
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
@@ -67,6 +67,8 @@ team_members:
 organizer_email: "boston@devopsdays.org"
 
 sponsors:
+  - id: spacelift
+    level: gold
   - id: atomiccoffeeroasters
     level: coffee
 

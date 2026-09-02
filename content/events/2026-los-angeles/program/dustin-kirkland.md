@@ -5,6 +5,7 @@ Talk_end_time = "11:45"
 Title = "Agentic Pipelines for an OS Supply Chain"
 Type = "talk"
 Speakers = ["dustin-kirkland"]
+Youtube = "w5roQS0I3bE"
 +++
 
 <style>

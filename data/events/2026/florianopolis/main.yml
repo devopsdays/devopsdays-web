@@ -68,10 +68,6 @@ team_members: # Name is the only required field for team members.
     github: "orafaelferreiraa"
     website: "https://www.orafaelferreira.com/"
 
-  - name: "Patrick Machado"
-    image: "patrick-machado.png"
-    linkedin: "https://www.linkedin.com/in/patrickfreiremachado/"
-
   - name: "Leandro Venâncio"
     employer: "Cloud Security Architect"
     image: "leandrovenancio.png"

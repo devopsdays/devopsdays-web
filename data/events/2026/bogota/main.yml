@@ -104,17 +104,27 @@ sponsors:
     level: diamond
   - id: oracle
     level: diamond
+  - id: kong
+    level: diamond
   - id: sigitat
     level: platinum
   - id: clickhouse
     level: platinum
   - id: nigma
-    level: platinum  
+    level: platinum
+  - id: dynatrace
+    level: platinum    
   - id: certjoin
     level: education
   - id: cloudcamp
     level: education
   - id: ardanlabs
+    level: community
+  - id: tribuiacolombia
+    level: community
+  - id: aws-women
+    level: community
+  - id: kcd-colombia
     level: community    
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
