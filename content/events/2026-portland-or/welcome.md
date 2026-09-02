@@ -72,3 +72,9 @@ Description = "devopsdays Portland, OR 2026"
     </div>
   </div>
 </div>
+
+<div class="row justify-content-center">
+  <a href="/events/2026-portland-or/program" class="btn btn-primary" role="button" aria-pressed="true">See the schedule now!</a>
+</div>
+<hr>
+<div class="row">Additional sponsor levels (<i>Platinum</i>, <i>Gold</i>, <i>Lanyard</i>, <i>Coffee</i>) available on the&nbsp;{{< event_link page="sponsor" text="sponsor page" >}}.</div>

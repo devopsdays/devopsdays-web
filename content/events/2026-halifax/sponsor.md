@@ -30,8 +30,8 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <td>Slots available</td>
       <td>1</td>
       <td>2</td>
-      <td>2</td>
-      <td>1 (of 3)</td>
+      <td>1 (of 2)</td>
+      <td>2 (of 3)</td>
     </tr>
     <tr>
       <td>Price</td>

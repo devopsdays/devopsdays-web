@@ -14,17 +14,17 @@ startdate: 2026-12-22T00:09:00+02:00 # The start date of your event. Leave blank
 enddate: 2026-12-22T00:17:00+02:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
+cfp_date_start:   2026-08-09T00:00:00+02:00
+cfp_date_end:  2026-09-25T23:59:00+02:00
 cfp_date_announce:  # inform proposers of status
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://in10t.ai/cfp/devopsdays-tlv-2026" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://in10t.ai/devopsdays-tlv-2026" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -53,9 +53,13 @@ event_social_youtube: "devopsdaystlv" # Change this to the youtube channel handl
 social_shares: # ["email", "twitter", "facebook", "linkedin"]
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: propose
+    url: https://in10t.ai/cfp/devopsdays-tlv-2026 # The url setting is optional, and only if you want the navigation to link off-site
+
  # - name: location
- # - name: registration
+  - name: registration
+    url: https://in10t.ai/devopsdays-tlv-2026 # The url setting is optional, and only if you want the navigation to link off-site
+
  # - name: program
  # - name: speakers
   - name: sponsor
@@ -160,10 +164,10 @@ sponsors:
     level: platinum
   - id: robusta
     level: platinum
-
+  - id: groundcover
+    level: platinum
+  
   - id: terasky-only
-    level: gold
-  - id: aerospike
     level: gold
 
   - id: statscraft

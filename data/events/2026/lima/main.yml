@@ -188,7 +188,7 @@ sponsors:
      url: https://www.soaint.com/
    - id: orexe
      level: silver
-     url: https://orexe.pe/
+     url: https://orexe.io/
    - id: github
      level: silver
      url: https://github.com/
@@ -197,6 +197,9 @@ sponsors:
    - id: ekiscyber
      level: silver
      url: https://ekiscyber.com/
+   - id: epam
+     level: silver
+     url: https://www.epam.com/
 #Bronze Sponsors
 #Community Sponsors
    - id: hackemate
@@ -213,6 +216,13 @@ sponsors:
      url: https://www.datascience.pe/
    - id: impacto-bcp
      level: community
+   - id: certdirectory
+     level: community
+     url: https://certdirectory.io/
+   - id: devopsinstitute
+     level: community
+     url: https://www.devopsinstitute.com/
+
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.

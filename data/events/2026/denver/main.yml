@@ -51,7 +51,7 @@ event_social_youtube: "devopsdaysrockies" # Change this to the youtube channel h
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location
   - name: registration
- # - name: program
+  - name: program
   - name: speakers
   - name: talks
   - name: sponsor
@@ -100,6 +100,16 @@ sponsors:
   - id: groundcover
     level: silver
   - id: flox
+    level: silver
+  - id: launch-darkly
+    level: silver
+  - id: harness
+    level: silver
+  - id: maze
+    level: silver
+  - id: spacelift
+    level: silver
+  - id: puppet-by-perforce
     level: silver
   - id: code-talent
     level: community
