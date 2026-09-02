@@ -93,7 +93,7 @@ organizer_email: "denver@devopsdays.org"
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: minimus
+  - id: echo
     level: gold
   - id: teleport
     level: gold
@@ -111,6 +111,10 @@ sponsors:
     level: silver
   - id: puppet-by-perforce
     level: silver
+  - id: duplocloud
+    level: silver
+  - id: rave
+    level: bronze
   - id: code-talent
     level: community
   - id: kubeevents
