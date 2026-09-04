@@ -142,12 +142,12 @@ team_members: # Name is the only required field for team members.
     github: "https://github.com/mandersen94/"
     image: "mark-andersen.jpg"
 
-  - name: "Naomi Onye"
+  - name: "Naomi Onyebuchi"
     employer: "GM Financial"
     bio: "Naomi is a Scrum Master at GM Financial, where she leads technology delivery across cloud infrastructure and emerging AI initiatives. With a passion for Agile transformation, innovation, and leadership, she works closely with technology leaders and teams to improve delivery, identify opportunities for AI adoption, and turn strategic ideas into measurable outcomes. Beyond her role at GM Financial, Naomi serves as a board member and Chief Strategy Officer for Hearts 2 Heal, a nonprofit focused on connecting communities with mental health and grief support resources. She is also a passionate speaker and facilitator, sharing insights on AI, technology, leadership, career growth, and the future of work at conferences, corporate events, and industry forums. Outside of work, Naomi enjoys traveling, Pilates, fitness, football, good food, and spending time with family and friends. She is passionate about faith, community, and creating opportunities that help others grow personally and professionally."
     role: "Attendee Outreach"
     linkedin: "https://www.linkedin.com/in/naomi-onye/"
-    image: "naomi-onye.jpg"
+    image: "naomi-onyebuchi.jpg"
 
   - name: "Paula Lipnick"
     employer: "JP Morgan Chase"
@@ -202,13 +202,15 @@ sponsors:
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: swa
     level: diamond
-  - id: datadog
+  - id: antithesis
     level: gold
-  - id: tines
+  - id: datadog
     level: gold
   - id: pulumi
     level: gold
   - id: rapidfort
+    level: gold
+  - id: tines
     level: gold
   - id: teleport
     level: silver
@@ -412,31 +414,30 @@ program:
     date: "2026-09-29"
     start_time: "14:00"
     end_time: "14:10"
-  - title: "Open Space - Topic Proposals & Selection"
-    type: open-space
-    date: "2026-09-29"
-    start_time: "14:30"
-    end_time: "14:45"
-  - title: "Open Space Day 2 - Session 1"
-    type: open-space
-    date: "2026-09-29"
-    start_time: "14:45"
-    end_time: "15:15"
-  - title: "Open Space Day 2 - Session 2"
-    type: open-space
-    date: "2026-09-29"
-    start_time: "15:15"
-    end_time: "15:45"
   - title: "Speaker Discussion Panel"
     type: custom
     date: "2026-09-29"
-    start_time: "15:45"
-    end_time: "16:20"
-    # custom_url: "https://youtu.be/CDbYfRHfp3U"
+    start_time: "14:10"
+    end_time: "14:45"
+  - title: "Open Space - Topic Proposals & Selection"
+    type: open-space
+    date: "2026-09-29"
+    start_time: "14:45"
+    end_time: "15:00"
+  - title: "Open Space Day 2 - Session 1"
+    type: open-space
+    date: "2026-09-29"
+    start_time: "15:00"
+    end_time: "15:30"
+  - title: "Open Space Day 2 - Session 2"
+    type: open-space
+    date: "2026-09-29"
+    start_time: "15:30"
+    end_time: "16:00"
   - title: "Organizers Recognition"
     type: custom
     date: "2026-09-29"
-    start_time: "16:20"
+    start_time: "16:00  "
     end_time: "16:30"
   - title: "Closing, Organizer's Raffle Giveaway & Farewell"
     type: custom
@@ -454,6 +455,8 @@ ignites:
   - title: "tejas-pravinbhai-patel"
     date: "2026-09-28"
   - title: "shiva-krishna-kodithyala"
+    date: "2026-09-28"
+  - title: "mark-andersen"
     date: "2026-09-28"
   - title: "wil-mckenney"
     date: "2026-09-29"
