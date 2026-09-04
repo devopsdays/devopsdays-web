@@ -1,7 +1,7 @@
 +++
 Talk_date = "2026-09-05"
-Talk_start_time = "11:30"
-Talk_end_time = "12:00"
+Talk_start_time = "16:30"
+Talk_end_time = "17:00"
 Title = "Virei DevOps e agora?"
 Type = "talk"
 Speakers = ["fabio-queiroz-correia"]
