@@ -1,7 +1,7 @@
 +++
 Title = "Mark Andersen"
 Twitter = ""
-linkedin = "https://www.linkedin.com/in/mandersen94//"
+linkedin = "https://www.linkedin.com/in/mandersen94/"
 image = "mark-andersen.jpg"
 type = "speaker"
 linktitle = "mark-andersen"
