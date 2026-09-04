@@ -2,7 +2,7 @@
 Title = "Parag Trivedi"
 Twitter = ""
 linkedin = ""
-image = "parag-trivedi.png"
+image = "parag-trivedi.jpg"
 type = "speaker"
 linktitle = "parag-trivedi"
 +++
