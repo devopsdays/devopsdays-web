@@ -413,37 +413,37 @@ program:
     type: custom
     date: "2026-09-29"
     start_time: "14:00"
-    end_time: "14:10"
+    end_time: "14:15"
   - title: "Speaker Discussion Panel"
     type: custom
     date: "2026-09-29"
-    start_time: "14:10"
-    end_time: "14:45"
+    start_time: "14:15"
+    end_time: "15:00"
   - title: "Open Space - Topic Proposals & Selection"
     type: open-space
     date: "2026-09-29"
-    start_time: "14:45"
-    end_time: "15:00"
+    start_time: "15:00"
+    end_time: "15:15"
   - title: "Open Space Day 2 - Session 1"
     type: open-space
     date: "2026-09-29"
-    start_time: "15:00"
-    end_time: "15:30"
+    start_time: "15:15"
+    end_time: "15:45"
   - title: "Open Space Day 2 - Session 2"
     type: open-space
     date: "2026-09-29"
-    start_time: "15:30"
-    end_time: "16:00"
+    start_time: "15:45"
+    end_time: "16:15"
   - title: "Organizers Recognition"
     type: custom
     date: "2026-09-29"
-    start_time: "16:00  "
-    end_time: "16:30"
+    start_time: "16:15  "
+    end_time: "16:45"
   - title: "Closing, Organizer's Raffle Giveaway & Farewell"
     type: custom
     date: "2026-09-29"
-    start_time: "16:30"
-    end_time: "16:45"
+    start_time: "16:45"
+    end_time: "17:15"
 
 ignites:
   - title: "eric-smalling"
