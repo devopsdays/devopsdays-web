@@ -93,6 +93,8 @@ organizer_email: "denver@devopsdays.org"
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: epsilonasi
+    level: platinum
   - id: echo
     level: gold
   - id: teleport

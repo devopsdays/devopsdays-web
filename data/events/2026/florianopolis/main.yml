@@ -26,8 +26,8 @@ cfp_link: "https://sessionize.com/devopsdays-floripa26/" # #if you have a custom
 # registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 # registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
-registration_closed: "true" #set this to true if you need to manually close registration before your registration end date
-# registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://www.sympla.com.br/evento/devopsdays-florianopolis-2026/3563063" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -42,7 +42,7 @@ event_social_instagram: "https://www.instagram.com/devopsdaysfln" # Instagram pr
 nav_elements: # List of pages you want to show up in the navigation of your page.
   # - name: propose
   # - name: location
-  # - name: registration
+  - name: registration
   # - name: program
   # - name: speakers
   - name: sponsor
@@ -75,16 +75,15 @@ team_members: # Name is the only required field for team members.
     website: "https://www.leandrovenancio.com.br"
     linkedin: "https://www.linkedin.com/in/leandro-venancio/"
 
-  - name: "Henrique Pereira Zimermann"
-    employer: "AWS Cloud Capitain - Univali"
-    image: "henriquepereirazimermann.jpg"
-    github: "HenriqZimer"
-    website: "https://henriqzimer.com.br/"
-    linkedin: "https://www.linkedin.com/in/henrique-zimermann/"
-
   - name: "Bruno dos Santos"
     image: "bruno-dos-santos.jpg"
     linkedin: "https://www.linkedin.com/in/bruno-dos-santos-aa38b423/"
+
+  - name: "Julio Fontes"
+    employer: "DevOps &amp; MLOps Engineer"
+    image: "julio-fontes.jpeg"
+    linkedin: "https://www.linkedin.com/in/juliofontesitpro/"
+    github: "DevFontes"
 
 organizer_email: "florianopolis@devopsdays.org"
 masthead_background: "header.jpeg"
