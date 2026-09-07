@@ -222,6 +222,8 @@ sponsors:
     level: community
   - id: gdgsolake
     level: community
+  - id: aibizclub
+    level: community
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
