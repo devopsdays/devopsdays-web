@@ -36,7 +36,8 @@ location: "Feira de Santana" # Defaults to city, but you can make it the venue n
 #
 location_address: "Unex Feira de Santana, Av. Artêmia Pires Freitas, s/n - Sim, Feira de Santana - BA, 44085-370, Brazil" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
 
-nav_elements: # List of pages you want to show up in the navigation of your page.
+nav_elements:
+  # List of pages you want to show up in the navigation of your page.
   # - name: propose
   # - name: location
   # - name: registration
@@ -53,7 +54,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
 
 # These are the same people you have on the mailing list and Slack channel.
-team_members: # Name is the only required field for team members.
+team_members:
+  # Name is the only required field for team members.
   - name: "Rafael Levi"
     employer: "Areopagus"
     linkedin: "https://www.linkedin.com/in/rafaellevissa"
@@ -63,7 +65,7 @@ team_members: # Name is the only required field for team members.
     email: rafaellevissa@gmail.com
 
   - name: "Silas Oliveira Rodrigues dos Santos"
-    linkedin: ""
+    linkedin: "https://linkedin.com/in/silasoli"
     twitter: ""
     website: ""
     image: "silas.jpeg"
@@ -111,9 +113,11 @@ team_members: # Name is the only required field for team members.
 
   - name: "Vitor Marcelino"
     image: "vitor-marcelino.jpg"
+    linkedin: "https://linkedin.com/in/vitor-marcelino-dev"
 
   - name: "Pedro Lucas"
     image: "pedro-lucas.jpg"
+    linkedin: "https://linkedin.com/in/pedro-lucas-cavalcante"
 
   - name: "Carlos Henrique"
     image: "carlos-henrique.jpg"
