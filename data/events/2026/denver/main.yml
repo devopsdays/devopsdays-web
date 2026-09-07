@@ -99,6 +99,8 @@ sponsors:
     level: gold
   - id: teleport
     level: gold
+  - id: devops-institute
+    level: gold
   - id: groundcover
     level: silver
   - id: flox
