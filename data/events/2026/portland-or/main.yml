@@ -132,6 +132,10 @@ sponsors:
     level: media
   - id: fafofm
     level: media
+  - id: mezmo
+    level: silver
+  - id: emphere
+    level: silver
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

@@ -164,7 +164,7 @@ program:
     date: 2026-09-05
     start_time: "09:00"
     end_time: "09:30"
-  - title: "fabio-queiroz-correia"
+  - title: "joao-pedro-cardoso"
     type: talk
     date: 2026-09-05
     start_time: "09:30"
@@ -184,7 +184,7 @@ program:
     date: 2026-09-05
     start_time: "11:00"
     end_time: "11:30"
-  - title: "joao-pedro-cardoso"
+  - title: "fabio-queiroz-correia"
     type: talk
     date: 2026-09-05
     start_time: "11:30"
