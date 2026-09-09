@@ -136,6 +136,14 @@ sponsors:
     level: silver
   - id: emphere
     level: silver
+  - id: pdxwit
+    level: community
+  - id: portlanddevopsgroundup
+    level: community
+  - id: siliconflorist
+    level: community
+  - id: panic
+    level: community
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
