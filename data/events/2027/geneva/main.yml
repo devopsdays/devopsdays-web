@@ -14,9 +14,9 @@ startdate: 2027-05-25T08:00:00+01:00 # The start date of your event. Leave blank
 enddate: 2027-05-26T17:00:00+01:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: # start accepting talk proposals.
-cfp_date_end: # close your call for proposals.
-cfp_date_announce: # inform proposers of status
+cfp_date_start: 2026-09-10T00:00:00+02:00
+cfp_date_end: 2027-03-07T23:59:00+01:00
+cfp_date_announce: 2027-03-17T23:59:00+01:00
 
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
@@ -47,12 +47,12 @@ event_social_twitter: "DevopsdaysGe" # Change this to the twitter handle for you
 social_shares: ["twitter", "linkedin"]
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  # - name: propose
+  - name: propose
   - name: location
   # - name: registration
   # - name: program
   # - name: speakers
-  #  - name: sponsor
+  - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
@@ -122,13 +122,25 @@ sponsors_accepted: "no" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: event
+    label: Event
+    max: 1
   - id: gold
     label: Gold
-  #    max: 10
+    max: 8
+  - id: speakers
+    label: Speakers
+    max: 1
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    max: 9
   - id: bronze
     label: Bronze
+  - id: mic
+    label: Mic
+    max: 1
+  - id: host
+    label: Host
+    max: 1
   - id: community
     label: Community
