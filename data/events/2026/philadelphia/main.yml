@@ -55,8 +55,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: propose
   - name: location
   - name: registration
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -116,3 +116,238 @@ sponsor_levels:
     max: 0 # This is the same as omitting the max limit.
   - id: community
     label: Community
+program:
+  - title: "Registration, Breakfast, Sponsor Tables Open"
+    type: custom
+    date: 2026-10-01T00:00:00+02:00
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Remarks"
+    type: custom
+    date: 2026-10-01T00:00:00+02:00
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "Keynote"
+    type: custom
+    date: 2026-10-01T00:00:00+02:00
+    start_time: "09:10"
+    end_time: "09:30"
+  - title: "christopher-tineo"
+    type: talk
+    date: 2026-10-01T00:00:00+02:00
+    start_time: "09:30"
+    end_time: "10:00"
+  - title: "Hackathon - TBD"
+    type: custom
+    date: 2026-10-01T00:00:00+02:00
+    start_time: "09:30"
+    end_time: "12:15"
+    comments: "Room 1"
+  - title: "Security Automation Discussion Open Space Discussion"
+    type: open-space
+    date: 2026-10-01T00:00:00+02:00
+    start_time: "09:30"
+    end_time: "11:45"
+    comments: "Room 2"
+  - title: "ranjita-shetty"
+    type: talk
+    date: 2026-10-01T00:00:00+02:00
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Break / Sponsor Networking"
+    type: custom
+    date: 2026-10-01T00:00:00+02:00
+    start_time: "10:30"
+    end_time: "10:45"
+  - title: "kateri-waltermeyer"
+    type: talk
+    date: 2026-10-01T00:00:00+02:00
+    start_time: "10:45"
+    end_time: "11:15"
+  - title: "pravalik-medi"
+    type: talk
+    date: 2026-10-01T00:00:00+02:00
+    start_time: "11:15"
+    end_time: "11:45"
+  - title: "scott-howard"
+    type: talk
+    date: 2026-10-01T00:00:00+02:00
+    start_time: "11:45"
+    end_time: "12:15"
+  - title: "Hiring Mixer"
+    type: custom
+    date: 2026-10-01T00:00:00+02:00
+    start_time: "12:15"
+    end_time: "13:45"
+    comments: "Room 2"
+  - title: "Transition Buffer / Break"
+    type: custom
+    date: 2026-10-01T00:00:00+02:00
+    start_time: "12:15"
+    end_time: "12:30"
+  - title: "Lunch Break - may start early if talks are on time"
+    type: custom
+    date: 2026-10-01T00:00:00+02:00
+    start_time: "12:30"
+    end_time: "13:30"
+    comments: "Auditorium and Room 1"
+  - title: "Ignite Talk"
+    type: ignite
+    date: 2026-10-01T00:00:00+02:00
+    start_time: "13:30"
+    end_time: "13:45"
+  - title: "ajay-chankramath"
+    type: workshop
+    comments: "Room 1"
+    date: 2026-10-01T00:00:00+02:00
+    start_time: "13:30"
+    end_time: "14:45"
+  - title: "Ignite Talk #4 (15 min incl. Q&A)"
+    type: custom
+    date: 2026-10-01T00:00:00+02:00
+    start_time: "14:15"
+    end_time: "14:30"
+  - title: "Open Space Kickoff / Topic Pitching"
+    type: custom
+    date: 2026-10-01T00:00:00+02:00
+    start_time: "14:30"
+    end_time: "14:45"
+  - title: "Open Space #1 & #2"
+    type: open-space
+    date: 2026-10-01T00:00:00+02:00
+    start_time: "14:45"
+    end_time: "16:45"
+    comments: "Autitorium"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2026-10-01T00:00:00+02:00
+    start_time: "14:30"
+    end_time: "16:45"
+    comments: "Room 2"
+  - title: "Open Space #4"
+    type: open-space
+    date: 2026-10-01T00:00:00+02:00
+    start_time: "15:30"
+    end_time: "16:45"
+    comments: "Room 1"
+  - title: "Closing Remarks"
+    type: custom
+    date: 2026-10-01T00:00:00+02:00
+    start_time: "16:45"
+    end_time: "17:00"
+
+  - title: "Registration, Breakfast, Sponsor Tables Open"
+    type: custom
+    date: 2026-10-02T23:59:59+02:00
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Remarks"
+    type: custom
+    date: 2026-10-02T23:59:59+02:00
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "Day two opening talk"
+    type: custom
+    date: 2026-10-02T23:59:59+02:00
+    start_time: "09:10"
+    end_time: "09:30"
+  - title: "imran-halder"
+    type: talk
+    date: 2026-10-02T23:59:59+02:00
+    start_time: "09:30"
+    end_time: "10:00"
+  - title: "Hackathon - TBD"
+    type: custom
+    date: 2026-10-02T23:59:59+02:00
+    start_time: "09:30"
+    end_time: "12:15"
+    comments: "Room 1"
+  - title: "Security Automation Discussion"
+    type: open-space
+    date: 2026-10-02T23:59:59+02:00
+    start_time: "09:30"
+    end_time: "11:45"
+    comments: "Room 2"
+  - title: "tim-gross"
+    type: talk
+    date: 2026-10-02T23:59:59+02:00
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Break / Sponsor Networking"
+    type: custom
+    date: 2026-10-02T23:59:59+02:00
+    start_time: "10:30"
+    end_time: "10:45"
+  - title: "tyler-auerbeck"
+    type: talk
+    date: 2026-10-02T23:59:59+02:00
+    start_time: "10:45"
+    end_time: "11:15"
+  - title: "mehul-vani"
+    type: talk
+    date: 2026-10-02T23:59:59+02:00
+    start_time: "11:15"
+    end_time: "11:45"
+  - title: "yossi-eliaz-2"
+    type: talk
+    date: 2026-10-02T23:59:59+02:00
+    start_time: "11:45"
+    end_time: "12:15"
+  - title: "Hiring Mixer"
+    type: custom
+    date: 2026-10-02T23:59:59+02:00
+    start_time: "12:15"
+    end_time: "13:45"
+    comments: "Room 2"
+  - title: "Transition Buffer / Break"
+    type: custom
+    date: 2026-10-02T23:59:59+02:00
+    start_time: "12:15"
+    end_time: "12:30"
+  - title: "Lunch break"
+    type: custom
+    date: 2026-10-02T23:59:59+02:00
+    start_time: "12:30"
+    end_time: "13:30"
+    comments: "Auditorium and Room 1"
+  - title: "erica-windisch"
+    type: workshop
+    date: 2026-10-02T23:59:59+02:00
+    start_time: "13:30"
+    end_time: "16:30"
+    comments: "Room 1"
+  - title: "swetha-rajshree"
+    type: talk
+    date: 2026-10-02T23:59:59+02:00
+    start_time: "13:45"
+    end_time: "14:00"
+  - title: "rahul-sharma"
+    type: talk
+    date: 2026-10-02T23:59:59+02:00
+    start_time: "14:00"
+    end_time: "14:15"
+  - title: "anish-puthuraya"
+    type: talk
+    date: 2026-10-02T23:59:59+02:00
+    start_time: "14:15"
+    end_time: "14:30"
+  - title: "Open Space Kickoff / Topic Pitching"
+    type: custom
+    date: 2026-10-02T23:59:59+02:00
+    start_time: "14:30"
+    end_time: "14:45"
+  - title: "Open Space Sessions #1 & #2"
+    type: open-space
+    date: 2026-10-02T23:59:59+02:00
+    start_time: "14:45"
+    comments: "Auditorium"
+    end_time: "16:30"
+  - title: "Closing Remarks"
+    type: custom
+    date: 2026-10-02T23:59:59+02:00
+    start_time: "16:30"
+    end_time: "17:00"
+
+ignites:
+  - title: "yossi-eliaz"
+    date: 2026-10-01T00:00:00+02:00
