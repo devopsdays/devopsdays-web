@@ -1,5 +1,5 @@
-name: "2026-belo-horizonte" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
-year: "2026" # The year of the event. Make sure it is in quotes.
+name: "2027-belo-horizonte" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2027" # The year of the event. Make sure it is in quotes.
 city: "Belo Horizonte" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaysbhz" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "Devopsdays está chegando em Belo Horizonte!" # Edit this to suit your preferences
@@ -10,8 +10,8 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2026-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2027-05-15T09:00:00-03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2027-05-15T18:00:00-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  # start accepting talk proposals.
@@ -30,9 +30,9 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 #
 # coordinates: "" # No longer used
 
-coordinates: "-19.9437754, -43.9279845" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Universidade FUMEC" # Defaults to city, but you can make it the venue name.
-location_address: "Universidade FUMEC - R. Cobre, 200 - Cruzeiro" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
+coordinates: "-19.972130, -43.964511" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "UniBH Buritis" # Defaults to city, but you can make it the venue name.
+location_address: "Av. Professor Mário Werneck, 1685 - Buritis, Belo Horizonte" #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
 masthead_background: "capa-dod-1.png"
 
 
