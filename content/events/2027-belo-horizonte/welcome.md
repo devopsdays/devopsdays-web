@@ -91,9 +91,9 @@ a.jssocials-share-link, a.event-cta-button {
 <p></p>
 <!--<p><a href="https://www.papercall.io/devopsdaysbhz" target="_blank"><button type="button">ENVIE SUA PALESTRA</button></a></p> -->
 <!-- <p><a href="https://www.even3.com.br/devopsdays-belo-horizonte-2025-562352"><button>INSCREVA-SE</button></a></p> -->
-<p><a href="/events/2026-belo-horizonte/location/"><button>LOCALIZAÇÃO</button></a></p>
+<p><a href="/events/2027-belo-horizonte/location/"><button>LOCALIZAÇÃO</button></a></p>
 <p><a href="../sponsor/"><button>SEJA UM SPONSOR</button></a></p>
-<p><a href="/events/2026-belo-horizonte/organizadores"><button>CONTATO</button></a></p>
+<p><a href="/events/2027-belo-horizonte/organizadores"><button>CONTATO</button></a></p>
 
 </div>
 

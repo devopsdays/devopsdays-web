@@ -61,9 +61,9 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: speakers
   - name: "Localização"
     icon: "map-marker"
-    url: /events/2026-belo-horizonte/location
+    url: /events/2027-belo-horizonte/location
   - name: Patrocinadores
-    url: /events/2026-belo-horizonte/sponsor
+    url: /events/2027-belo-horizonte/sponsor
   # - name: conduct
   # - name: propose
   # - name: Inscrições
@@ -75,12 +75,12 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   # - name: ENVIE SUA PALESTRA (CFP)
   #   url: https://www.papercall.io/devopsdaysbhz    
   - name: organização
-    url: /events/2026-belo-horizonte/organizadores
+    url: /events/2027-belo-horizonte/organizadores
     icon: "envelope-o"
   - name: código de conduta
-    url: /events/2026-belo-horizonte/conduct-pt-br 
+    url: /events/2027-belo-horizonte/conduct-pt-br 
   - name: Contato
-    url: /events/2026-belo-horizonte/contact 
+    url: /events/2027-belo-horizonte/contact 
 
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
