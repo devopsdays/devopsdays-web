@@ -129,6 +129,8 @@ sponsors:
 # # gold
 - id: kloia
   level: gold
+- id: enterprisecoding
+  level: gold
 # - id: axoft
 #   level: gold
 # silver
