@@ -2,15 +2,13 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Scaling GenAI Platform Onboarding Experience to 100+ Use Cases — Without the Toil"
+Title = "Platform Onboarding at Scale — Turning Toil Into Self-Service"
 Type = "talk"
 Speakers = ["mourya-chigurupati"]
 +++
 
-Every new GenAI use case used to start with a series of tickets and end with an SRE manually provisioning  namespaces, cloning starter kits into repos, wiring up DNS, running Jenkins pipelines, and provisioning IRIS, Guardrails, and memory services. Across multiple clusters. For every tenant. It didn't scale.
+Every new team onboarding to a platform used to start the same way: a queue of tickets, manual provisioning of resources, and engineers playing coordinator instead of building. It didn't scale then, and it doesn't scale now.
 
-We built a self-service Onboarding Experience (OBx) for the GenAI platform that encodes that entire runbook into an automated workflow. Tenants now onboard themselve and the solution handles the rest.
+As platform teams grow to support more users and more workloads, the bottleneck shifts from capability to operational overhead. The runbook that worked for ten teams breaks at a hundred. The constraint isn't the platform — it's the process around it. This talk is about optimizing that process. We'll cover the patterns behind building self-service onboarding experiences that actually work at enterprise scale.
 
-The result: 100+ use cases onboarded with zero manual steps per tenant.
-
-This is the story of how we turned operational toil into a self-service seamless experience and what it takes to scale GenAI in the enterprise.
+This self-service approach is applicable to any platform that interacts with multiple systems or capabilities. Whether you're running a data platform, a developer toolchain, or an AI infrastructure layer, the principles are the same. You'll leave with pointed questions to ask about your own platform's onboarding experience — including one most teams haven't considered yet.

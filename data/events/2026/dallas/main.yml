@@ -206,12 +206,16 @@ sponsors:
     level: gold
   - id: datadog
     level: gold
+  - id: gmfinancial
+    level: gold
   - id: pulumi
     level: gold
   - id: rapidfort
     level: gold
   - id: tines
     level: gold
+  - id: castai
+    level: silver
   - id: teleport
     level: silver
   - id: iacconf
