@@ -101,6 +101,8 @@ sponsors:
     level: gold
   - id: devops-institute
     level: gold
+  - id: mezmo
+    level: gold
   - id: groundcover
     level: silver
   - id: flox
@@ -118,6 +120,8 @@ sponsors:
   - id: duplocloud
     level: silver
   - id: rave
+    level: bronze
+  - id: focusedlabs
     level: bronze
   - id: code-talent
     level: community
