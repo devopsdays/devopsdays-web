@@ -1,7 +1,7 @@
 +++
 Title = ""
 Type = "Event"
-Description = "Contact information for devopsdays Belo Horizonte 2026"
+Description = "Contact information for devopsdays Belo Horizonte 2027"
 +++
 <h1> DevOpsDays Belo Horizonte - Equipe de Organização</h1>
 <br>
