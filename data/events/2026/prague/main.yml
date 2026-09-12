@@ -142,7 +142,7 @@ program:
     date: 2026-10-05
     start_time: "10:30"
     end_time: "10:55"
-  - title: ""
+  - title: "gerrard-ezeugwa"
     type: talk
     date: 2026-10-05
     start_time: "10:55"
@@ -198,11 +198,13 @@ program:
     end_time: "?"
 
 ignites:
-  - title: ""
+  - title: "jakub-coufal"
     date: 2026-10-05
-  - title: ""
+  - title: "saikeerthi-m"
     date: 2026-10-05
-  - title: ""
+  - title: "petr-hanak"
     date: 2026-10-05
-  - title: ""
+  - title: "david-kubec"
     date: 2026-10-05
+  - title: "nadav-harari"
+    date: 2026-10-05 
