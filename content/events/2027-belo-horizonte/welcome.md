@@ -1,8 +1,8 @@
 +++
-Title = "Belo Horizonte 2026"
+Title = "Belo Horizonte 2027"
 Type = "welcome"
-aliases = ["/events/2026-belo-horizonte/"]
-Description = "Belo Horizonte 2026"
+aliases = ["/events/2027-belo-horizonte/"]
+Description = "Belo Horizonte 2027"
 +++
 
 <style type="text/css">
@@ -91,9 +91,9 @@ a.jssocials-share-link, a.event-cta-button {
 <p></p>
 <!--<p><a href="https://www.papercall.io/devopsdaysbhz" target="_blank"><button type="button">ENVIE SUA PALESTRA</button></a></p> -->
 <!-- <p><a href="https://www.even3.com.br/devopsdays-belo-horizonte-2025-562352"><button>INSCREVA-SE</button></a></p> -->
-<p><a href="/events/2026-belo-horizonte/location/"><button>LOCALIZAÇÃO</button></a></p>
+<p><a href="/events/2027-belo-horizonte/location/"><button>LOCALIZAÇÃO</button></a></p>
 <p><a href="../sponsor/"><button>SEJA UM SPONSOR</button></a></p>
-<p><a href="/events/2026-belo-horizonte/organizadores"><button>CONTATO</button></a></p>
+<p><a href="/events/2027-belo-horizonte/organizadores"><button>CONTATO</button></a></p>
 
 </div>
 
@@ -108,9 +108,9 @@ Esses eventos, que começaram em Ghent, Bélgica, em 2009, promovem a troca de c
 </p>
 
 <br>
-<h2 style ="color:#6e9e8f"> DEVOPSDAYS BELO HORIZONTE - 2026</h2>
+<h2 style ="color:#6e9e8f"> DEVOPSDAYS BELO HORIZONTE - 2027</h2>
 <p align="justify">
-É com grande entusiasmo que convidamos você para participar do DevOpsDays Belo Horizonte 2026 que acontecerá em outubro.
+É com grande entusiasmo que convidamos você para participar do DevOpsDays Belo Horizonte 2027 que acontecerá em outubro.
  Como organizadores, estamos empolgados em reunir entusiastas, profissionais e especialistas do ecossistema DevOps para um encontro enriquecedor e inspirador.
 </p>
 

@@ -1,7 +1,7 @@
 +++
 Title = "Sponsor"
 Type = "event"
-Description = "Patrocinadores DevopsDays Belo Horizonte 2026"
+Description = "Patrocinadores DevopsDays Belo Horizonte 2027"
 +++
 
 Valorizamos muito os patrocinadores deste evento aberto. Se você estiver interessado em patrocinar, envie um e-mail para devopsdaysbhz@gmail.com. <p><a href="mailto:devopsdaysbhz@gmail.com">Ou clique aqui.</a></p>
@@ -21,7 +21,7 @@ Visando valorizar a participação de instituições na realização do evento, 
 <h3> <b>INFORMAÇÃO IMPORTANTE SOBRE O PATROCÍNIO</b></h3>
 Cada cota de investimento, além dos benefícios abaixo também dá direito a mais um beneficio a sua escolha. 
 Para entender qual benefício você pode escolher, entre em contato no e-mail devopsdaysbhz@gmail.com ou visite nosso midia kit clicando no icone abaixo:</p> 
-<p><a href="https://www.canva.com/design/DAG2d8zyAuE/k0rmnj8S3_p6h4T8hE8Zkg/view"><i class="fa fa-link" style="font-size:30px"></i>Acessar Media Kit 2026</a></p>
+<p><a href="https://www.canva.com/design/DAG2d8zyAuE/k0rmnj8S3_p6h4T8hE8Zkg/view"><i class="fa fa-link" style="font-size:30px"></i>Acessar Media Kit 2027</a></p>
 </div>
 <br>
 
