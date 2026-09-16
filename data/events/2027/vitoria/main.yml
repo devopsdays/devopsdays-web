@@ -93,6 +93,7 @@ team_members: # Name is the only required field for team members.
     image: "rafael-souza.jpg"
   - name: "Juniele Silva dos Santos"
     bio: "Serviço Social/ Politicas Sociais/ Tecnologias"
+    github: "junejubs"
     linkedin: "https://linkedin.com/in/juniele-silva"
     image: "juniele-santos.jpg"
   - name: "Jonas Guerreiro Junior"
