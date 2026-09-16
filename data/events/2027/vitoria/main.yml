@@ -86,7 +86,7 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://linkedin.com/in/dfmoreto"
     image: "daniel-moreto.jpg"
   - name: "Rafael Souza"
-    employer: "DevOps Lead"
+    employer: "DevOps Lead Grupo Autoglass"
     bio: "Atuo como Líder DevOps no Grupo Autoglass, direcionando a evolução de plataformas internas, automações, kubernetes e cloud, com foco no desenvolvimento de pessoas e na autonomia dos times com governança."
     github: "rafael9br"
     linkedin: "https://www.linkedin.com/in/rafaelcarvalhoti/"
