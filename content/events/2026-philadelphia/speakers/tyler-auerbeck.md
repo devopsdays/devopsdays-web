@@ -2,7 +2,7 @@
 Title = "Tyler Auerbeck"
 Twitter = ""
 linkedin = "https://linkedin.com/in/tylerauerbeck"
-image = ""
+image = "tyler-auerbeck.png"
 type = "speaker"
 linktitle = ""
 
