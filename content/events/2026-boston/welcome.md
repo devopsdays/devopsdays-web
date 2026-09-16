@@ -26,15 +26,9 @@ h1.welcome-page { text-transform: initial; }
       <div class="col-md-2"><strong>Location</strong></div>
       <div class="col-md-8"><a href="https://microsoftnewengland.com/conf-center/">The Microsoft NERD Center</a></div>
     </div>
-    <!--
     <div class="row">
       <div class="col-md-2"><strong>Register</strong></div>
-      <div class="col-md-8"><a href="https://ti.to/devopsdaysbos/2026">Register to attend the conference!</a></div>
-    </div>
-    -->
-    <div class="row">
-      <div class="col-md-2"><strong>Propose</strong></div>
-      <div class="col-md-8"><a href="https://talks.devopsdays.org/boston-2026/cfp">Propose a talk!</a></div>
+      <div class="col-md-8"><a href="https://tickets.devopsdays.org/devopsdays-boston/2006/">Register to attend the conference!</a></div>
     </div>
     <div class="row">
       <div class="col-md-2"><strong>Sponsors</strong></div>
@@ -52,10 +46,6 @@ h1.welcome-page { text-transform: initial; }
     <div class="row">
       <div class="col-md-2"><strong>LinkedIn</strong></div>
       <div class="col-md-8"><a href="https://www.linkedin.com/company/devopsdaysbos/" target="blank">Subscribe to our LinkedIn Page for Updates!</a></div>
-    </div>
-    <div class="row">
-      <div class="col-md-2"><strong>Twitter</strong></div>
-      <div class="col-md-8">{{< event_twitter >}}</div>
     </div>
   </div>
 </div>
