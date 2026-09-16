@@ -125,6 +125,8 @@ sponsors:
     level: bronze
   - id: focusedlabs
     level: bronze
+  - id: cloudbees
+    level: bronze
   - id: code-talent
     level: community
   - id: kubeevents
