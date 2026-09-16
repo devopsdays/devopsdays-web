@@ -82,6 +82,11 @@ Description = "devopsdays Atlanta 2027"
   <hr>
  <div style="text-align:center;">
  <h4>devopsdays Atlanta 2027: dataSecOps</h4>
+ <p>With Opening Keynote from Atlanta's own
+<a href="/events/2027-atlanta/speakers/sherrod-degrippo/">Sherrod DeGrippo</a>
+<br/>
+VP of Threat Intelligence at Palo Alto Networks Unit 42</p>
+
   {{< event_logo >}}
   <br/>
 <!-- <h4><em>theme goes here</em></h4> -->
@@ -93,7 +98,6 @@ AI has been putting more pressure on data platforms for the past few years.
 
 We're finally ready to talk about <a href="https://en.wikipedia.org/wiki/Data_governance">data governance</a> &amp; <a href="https://en.wikipedia.org/wiki/Data_lineage#Data_provenance">data provenance</a> (again).
 </p>
-
   </div>
   </div>
 </div>
