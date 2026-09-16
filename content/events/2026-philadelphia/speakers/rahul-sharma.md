@@ -2,7 +2,7 @@
 Title = "Rahul Sharma"
 Twitter = ""
 linkedin = ""
-image = ""
+image = "rahul-sharma.png"
 type = "speaker"
 linktitle = ""
 
