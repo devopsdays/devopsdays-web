@@ -17,7 +17,7 @@ If you want others in your team to be able to preview/approve changes before the
 Use [add_new_event.sh](add_new_event.sh) to add a new event. This is year-specific, so you would run this when setting up the upcoming year's event for the first time.
 
 1. If your city name contains spaces or special characters, the script will remove them for purposes of the event stub, which will be used in the URL and have a name like `yyyy-city`.
-1. The script will create a data file for your event in `data/events/yyyy-city.yml`. This is where you will configure many of your updates and customizations. In particular, you need to list your local organizer team here.
+1. The script will create a data file for your event in `data/events/yyyy/city/main.yml`. This is where you will configure many of your updates and customizations. In particular, you need to list your local organizer team here.
 1. The script will populate your event directory in `content/events/yyyy-city` with default content. You should edit it as desired.
 1. The script will add or update your entry in `static/_redirects`. This allows you to use the url `https://devopsdays.org/city-name` to point to your current-year event.
 1. Once you have created a logo graphic, place it in `assets/events/yyyy-city/logo.png`. (The file MUST be called `logo.png`.) The sample welcome page has a commented-out element to display a logo named in this way.
@@ -25,9 +25,9 @@ Use [add_new_event.sh](add_new_event.sh) to add a new event. This is year-specif
 
 ## Google Analytics
 
-If you have set up a Google Analytics v3 or older account for tracking your specific event, you can enable tracking for your event pages by updating the `ga_tracking_id` field in your `yyyy-city.yml` file. Example: `ga_tracking_id: "UA-74738648-1"`
+If you have set up a Google Analytics v3 or older account for tracking your specific event, you can enable tracking for your event pages by updating the `ga_tracking_id` field in your `data/events/yyyy/city/main.yml` file. Example: `ga_tracking_id: "UA-74738648-1"`
 
-If you have set up a Google Analytics v4 or newer account for tracking your specific event, you can enable tracking for your event pages by updating the `gtm_tracking_id` field in your `yyyy-city.yml` file. Example: `gtm_tracking_id: "G-NCBC4PBEMK"`
+If you have set up a Google Analytics v4 or newer account for tracking your specific event, you can enable tracking for your event pages by updating the `gtm_tracking_id` field in your `data/events/yyyy/city/main.yml` file. Example: `gtm_tracking_id: "G-NCBC4PBEMK"`
 
 ### Event Square Logo
 
@@ -114,7 +114,7 @@ All logos will be resized at release time, to 200px wide. Versions for high-dens
 
 ## Local Organizers
 
-See the example local organizer team members listed in the generated data file found in `data/events/YYYY-yourcity.yml`. To generate the  `team_members: ` section you can use [add_organizers.sh](add_organizers.sh).
+See the example local organizer team members listed in the generated data file found in `data/events/yyyy/yourcity/main.yml`. To generate the  `team_members: ` section you can use [add_organizers.sh](add_organizers.sh).
 
 The organizer photo must be in JPG format, and should be a minimum 300px x 300px, but optimally 600px x 600px. These images should be placed in the `assets/events/yyyy-city/organizers` directory (which the `add_organizers.sh` script will do).
 
@@ -122,7 +122,7 @@ Any PRs adding a new local organizer will need to be accompanied by an email to 
 
 ## Social sharing image
 
-A sharing image is added to the Open Graph tags for your event pages, to improve the sharing on social networks such as Facebook (or in Slack). This image must located in `static/events/yyyy-city/sharing/`. It should be a minimum 1200px x 630px, and use ratio: 1.91:1. You must set the `sharing_image` field in `data/events/yyyy-city.yml` (example: `sharing_image: "sharing.jpg"`). You can also override the sharing image by setting `sharing_image` in the frontmatter of a specific page, with the filename of an image in the `static/events/yyyy-city/sharing/` directory. Example: `sharing_image = "jeff-smith.png"`
+A sharing image is added to the Open Graph tags for your event pages, to improve the sharing on social networks such as Facebook (or in Slack). This image must located in `static/events/yyyy-city/sharing/`. It should be a minimum 1200px x 630px, and use ratio: 1.91:1. You must set the `sharing_image` field in `data/events/yyyy/city/main.yml` (example: `sharing_image: "sharing.jpg"`). You can also override the sharing image by setting `sharing_image` in the frontmatter of a specific page, with the filename of an image in the `static/events/yyyy-city/sharing/` directory. Example: `sharing_image = "jeff-smith.png"`
 
 If no image is provided, then the meta tag will not be created. Facebook might try to infer it, but the links shared will just likely have no images.
 
@@ -139,7 +139,12 @@ Linkedin = ""
 Pronouns = ""
 Github = ""
 Twitter = ""
+twitch = ""
+mastodon = ""
+bluesky = ""
 ```
+
+`Twitter` and `Github` take bare usernames without the `@`; `mastodon` and `bluesky` take full profile URLs.
 
 If you have a two-speaker talk, create both speakers, add the talk under one of them, and set the talk file in `content/events/2017-ponyville/program/rainbow-dash.md` with a Speakers attribute like this:
 
@@ -151,29 +156,41 @@ You can also rename the generated program file to include them both: `mv content
 
 ### Program
 
-Use [add_program.sh](add_program.sh) to add the program for your event. The program template expects 4 full talks each day and lists default times, but you can customize. The program data is stored in the event datafile such as `data/events/2017-ponyville.yml`. You don't need to know any or all of your speakers when adding the sample program, but if you have selected speakers you can list them on the program with this script.
+Use [add_program.sh](add_program.sh) to add the program for your event. The program template expects 4 full talks each day and lists default times, but you can customize. The program data is stored in the event datafile such as `data/events/2017/ponyville/main.yml`. You don't need to know any or all of your speakers when adding the sample program, but if you have selected speakers you can list them on the program with this script.
 
 If you start working on the program before you have all your speakers, by default you'll have `talk-1` through `talk-8` and you can replace those with slugs like `rainbow-dash` or `dash-sparkle` as appropriate.
 
 ### Speaker Images
 
-The headshots for your speaker images can be either .png or .jpg. They should be square, preferably 600px square. If they are not square, the page listing all speakers will crop them to square, but the individual speaker and talk pages will not crop the image). 
+Speaker headshots go in `assets/events/yyyy-city/speakers/`, and the `image` field in the speaker's markdown file is the bare filename (for example `image = "rainbow-dash.jpg"`).
+
+The headshots can be .png, .jpg, or .webp; the extension must match the actual format of the file. They should be square, preferably 600px square. If they are not square, the page listing all speakers will crop them to square, but the individual speaker and talk pages will not crop the image.
+
+Note that `add_speakers.sh` assumes .png for both the "does this image already exist" check and the destination filename, so if you hand it a JPG it will be saved under a `.png` name. Copy the file in yourself if you want a different extension.
 
 # Adding slides and video
 
 After the event, you can set additional optional frontmatter for talk files such as `content/events/2017-ponyville/program/rainbow-dash.md`:
 
 ```
-youtube = ""
-vimeo = ""
-speakerdeck = ""
-slideshare = ""
-slides = ""
+youtube = ""       # the video ID only, not the full URL
+vimeo = ""         # the video ID only
+slideslive = ""    # the presentation ID only
+googleslides = ""  # the presentation ID only
+notist = ""        # username and deck ID, e.g. "mattstratton/jLwszn"
+speakerdeck = ""   # the full URL
+slideshare = ""    # the full URL
+pdf = ""           # the full URL
+slides = ""        # the full URL, for anything not listed above
 ```
+
+Set `Icons = "true"` in `content/events/yyyy-city/program.md` to show slide and video icons next to the entries on the program page.
 
 ## Embedding Videos Other than Vimeo or YouTube
 
-You can embed video other than YouTube or Vimeo on talk pages by adding the embed script to a talk file (such as `content/events/2017-ponyville/program/rainbow-dash.md`) and enclosing it into a `<div>` section. Here is an example of embedding a SlidesLive.com video:
+For SlidesLive, use the `slideslive = "ID"` frontmatter field described above rather than the embed script below -- the theme has supported that field for some time.
+
+For anything else, you can embed video on talk pages by adding the embed script to a talk file (such as `content/events/2017-ponyville/program/rainbow-dash.md`) and enclosing it into a `<div>` section. Here is an example of embedding a SlidesLive.com video:
 ```
 +++
 
@@ -207,16 +224,16 @@ export DODPATH=~/git/devopsdays-web   # location of Git files
 alias dod='cd $DODPATH'
 alias dods='cd $DODPATH/content/events/$DOD_YEAR-$DOD_CITY/speakers'
 alias dodp='cd $DODPATH/content/events/$DOD_YEAR-$DOD_CITY/program'
-alias dodi='cd $DODPATH/static/events/$DOD_YEAR-$DOD_CITY/speakers'
-alias dodyml='dod && $EDITOR data/events/$DOD_YEAR-$DOD_CITY.yml'
-alias dodfind='dod && find data/events/$DOD_YEAR-$DOD_CITY.yml content/events/$DOD_YEAR-$DOD_CITY/{speakers,program} static/events/$DOD_YEAR-$DOD_CITY/speakers'
+alias dodi='cd $DODPATH/assets/events/$DOD_YEAR-$DOD_CITY/speakers'
+alias dodyml='dod && $EDITOR data/events/$DOD_YEAR/$DOD_CITY/main.yml'
+alias dodfind='dod && find data/events/$DOD_YEAR/$DOD_CITY/main.yml content/events/$DOD_YEAR-$DOD_CITY/{speakers,program} assets/events/$DOD_YEAR-$DOD_CITY/speakers'
 alias dodhugo='dod && echo open http://localhost:1313 ; hugo server -w --baseUrl="http://localhost:1313"'
 ```
 
 * `dod`  -- chdir to your base directory
 * `dods`  -- chdir to your devopsdays speaker files
 * `dodp`  -- chdir to your devopsdays program files
-* `dodi`  -- chdir to your devopsdays speaker JPGs (images)
+* `dodi`  -- chdir to your devopsdays speaker images
 * `dodyml`  -- edit the YAML file
 * `dodhugo`  -- run hugo in "watch" mode
 * `dodfind`  -- Run "find" on your event's directories
