@@ -94,6 +94,10 @@ sponsors:
     level: community
   - id: kubeevents
     level: community
+  - id: technically-philadelphia
+    level: media
+  - id: chariot-solutions
+    level: custom
 
  #  - id: samplesponsorname
  #   level: gold
@@ -116,6 +120,11 @@ sponsor_levels:
     max: 0 # This is the same as omitting the max limit.
   - id: community
     label: Community
+  - id: media
+    label: Media
+  - id: custom
+    label: Custom
+
 program:
   - title: "Registration, Breakfast, Sponsor Tables Open"
     type: custom
