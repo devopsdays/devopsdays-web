@@ -15,8 +15,8 @@ enddate: 2027-05-26T17:00:00+01:00 # The end date of your event. Leave blank if 
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2026-09-10T00:00:00+02:00
-cfp_date_end: 2027-03-07T23:59:00+01:00
-cfp_date_announce: 2027-03-17T23:59:00+01:00
+cfp_date_end: 2027-02-07T23:59:00+01:00
+cfp_date_announce: 2027-02-17T23:59:00+01:00
 
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
