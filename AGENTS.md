@@ -49,10 +49,16 @@ many old events still have images under `static/`. **New images go in `assets/`.
 
 Each of these is enforced by something. The enforcer is named so you can verify.
 
-1. **Every new file and directory name must be lowercase.** Enforced by the `lint` job
-   (`julie-ng/lowercase-linter`) in `.github/workflows/hugo.yml`, which hard-fails and blocks the
-   build job. It flags *mixed* case, so `README.md` is fine but `Jane-Doe.md` and `photo.JPG` are
-   not. Slugs are lowercase ASCII with hyphens; fold accents (`ā` → `a`) and drop anything else.
+1. **Every new file and directory name must be lowercase.** Enforced by the `lint` job in
+   `.github/workflows/hugo.yml`, which hard-fails and blocks the build job. It flags *mixed*
+   case, so an all-caps `README.md` is fine but `Jane-Doe.md`, `photo.JPG` and a `2026-Boston`
+   directory are not. Slugs are lowercase ASCII with hyphens; fold accents (`ā` → `a`) and drop
+   anything else.
+
+   A short allowlist in that job covers conventional filenames that must keep their casing —
+   `README.md`, `CONTRIBUTING.md`, `LICENSE.md`, `SECURITY.md`, `CHANGELOG.md`, `Dockerfile`,
+   and the agent instruction files `AGENTS.md`, `CLAUDE.md` and `SKILL.md`. If you add a file
+   that genuinely cannot be lowercase, add it there rather than working around the check.
 
 2. **Never add or modify anything under `static/img/sponsors/`.** Enforced by
    `.github/workflows/no-sponsors-changes.yml`, which hard-fails. That tree is legacy. Sponsor
