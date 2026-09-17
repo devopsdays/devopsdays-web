@@ -52,7 +52,7 @@ event_social_youtube: "DevOpsDaysPHL" # Change this to the youtube channel handl
 social_shares: # ["email", "twitter", "facebook", "linkedin"]
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+  # - name: propose
   - name: location
   - name: registration
   - name: program
@@ -94,6 +94,10 @@ sponsors:
     level: community
   - id: kubeevents
     level: community
+  - id: technically-philadelphia
+    level: media
+  - id: chariot-solutions
+    level: custom
 
  #  - id: samplesponsorname
  #   level: gold
@@ -116,6 +120,11 @@ sponsor_levels:
     max: 0 # This is the same as omitting the max limit.
   - id: community
     label: Community
+  - id: media
+    label: Media
+  - id: custom
+    label: Custom
+
 program:
   - title: "Registration, Breakfast, Sponsor Tables Open"
     type: custom
