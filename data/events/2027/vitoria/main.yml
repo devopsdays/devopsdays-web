@@ -54,8 +54,9 @@ event_social_youtube: "" # Change this to the youtube channel handle for your ev
 social_shares: # ["email", "twitter", "facebook", "linkedin"]
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: Chamadas (CFP)
-    url: /events/2027-vitoria/propose
+  # Descomentar quando o CFP abrir.
+  # - name: Chamadas (CFP)
+  #   url: /events/2027-vitoria/propose
   - name: Local
     url: /events/2027-vitoria/location
   - name: Inscrições

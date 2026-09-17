@@ -52,8 +52,10 @@ Description = "Chamada de palestras do devopsdays Vitoria 2027"
 <div class="vix-cfp-card">
 <h2>EM BREVE</h2>
 <p>A chamada de palestras do <strong>DevOpsDays Vitoria 2027</strong> ainda não está aberta. Assim que abrirmos as submissões, avisaremos aqui e nas nossas redes sociais.</p>
-<p>As propostas serão recebidas pela plataforma de CFP do DevOpsDays:</p>
-<a class="vix-cfp-btn" href="https://talks.devopsdays.org/" target="_blank">ACESSAR TALKS.DEVOPSDAYS.ORG</a>
+<p>O link para envio das propostas será publicado aqui e nas nossas redes sociais quando as submissões abrirem.</p>
+<!-- Quando o CFP abrir: preencher cfp_link no main.yml com a URL da nossa chamada e descomentar o botão abaixo.
+<a class="vix-cfp-btn" href="" target="_blank">ENVIAR PROPOSTA</a>
+-->
 </div>
 
 <h3>Formas de participar da programação</h3>

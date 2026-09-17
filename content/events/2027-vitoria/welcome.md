@@ -114,7 +114,7 @@ Description = "devopsdays Vitoria 2027"
 <div class="showcase">
 {{< event_logo >}}
 <a class="vix-btn" href="https://tickets.devopsdays.org/devopsdays-vitoria/vix-2027/" target="_blank">INGRESSO</a>
-<a class="vix-btn" href="/events/2027-vitoria/propose/">CHAMADAS (CFP)</a>
+<!-- Descomentar quando o CFP abrir: <a class="vix-btn" href="/events/2027-vitoria/propose/">CHAMADAS (CFP)</a> -->
 <a class="vix-btn" href="/events/2027-vitoria/location/">LOCALIZAÇÃO</a>
 <a class="vix-btn" href="/events/2027-vitoria/sponsor/">SEJA UM SPONSOR</a>
 <a class="vix-btn" href="/events/2027-vitoria/contact/">CONTATO</a>
