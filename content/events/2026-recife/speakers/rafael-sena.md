@@ -16,3 +16,7 @@ Engenheiro com experiência em soluções de dados sob restrições regulatória
 Implantar CI/CD com orçamento zero, servidor on-premise e um time que nunca tinha visto um pipeline: essa foi a nossa realidade. Nesta talk, mostramos o antes e o depois — de um deploy manual que consumia 4 horas para uma esteira automatizada que entrega em minutos — e, principalmente, os tropeços do caminho: as ferramentas que escolhemos e abandonamos, as decisões que custaram caro e o que faríamos diferente hoje.
 
 A ideia é entregar uma visão honesta, com traumas e conquistas, para quem está começando ou avaliando se vale a pena encarar DevOps sem verba, sem cloud e sem um time dedicado de infra.
+
+### Co-palestrante
+
+[Estevão Vitorino](../estevao-vitorino/), Coordenador de DevOps na Prefeitura do Recife.
