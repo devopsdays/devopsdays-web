@@ -27,6 +27,10 @@ You may find that you want to improve the site in some way that's not specific t
 
 The technical details for contributing to the site-wide theme's development are covered in [devopsdays-theme's CONTRIBUTING.md](https://github.com/devopsdays/devopsdays-web/blob/main/themes/devopsdays-theme/CONTRIBUTING.md).
 
+## Using an AI coding assistant
+
+If you use Claude Code, Codex, Cursor, Copilot, or a similar tool to help with your event content, [AGENTS.md](AGENTS.md) tells it how this repository is laid out and what will break a pull request. Step-by-step instructions for common tasks (adding a sponsor, a speaker, the program, a new event) are in `.claude/skills/`.
+
 ## Reporting problems & feature requests
 
 If you discover a problem with the site that isn't specific to an event's content, please [open an issue](https://github.com/devopsdays/devopsdays-web/issues/new) and prepend the title with `[BUG]`.

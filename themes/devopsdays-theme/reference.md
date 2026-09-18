@@ -2,7 +2,7 @@
 # Table of contents
 <!-- MDTOC maxdepth:6 firsth1:0 numbering:0 flatten:0 bullets:0 updateOnSave:1 -->
 
-[Fields in YYYY-CITY.yml](#fields-in-yyyy-cityyml)
+[Fields in main.yml](#fields-in-mainyml)
 &emsp;[General Fields](#general-fields)
 &emsp;[Date-related Fields](#date-related-fields)
 &emsp;[Branding Fields](#branding-fields)
@@ -26,6 +26,15 @@
 [Other Settings](#other-settings)
 &emsp;[Social Sharing Image](#social-sharing-image)
 [Shortcodes](#shortcodes)
+&emsp;[email_proposals](#email_proposals)
+&emsp;[emoji](#emoji)
+&emsp;[event_link](#event_link)
+&emsp;[event_location](#event_location)
+&emsp;[event_social_*](#event_social_bsky--event_social_linkedin--event_social_listserv--event_social_mastodon--event_social_slack--event_social_twitter--event_social_youtube)
+&emsp;[list_organizers](#list_organizers)
+&emsp;[list_core*](#list_core--list_core_active--list_core_advisory--list_core_emeritus)
+&emsp;[privacy_policy](#privacy_policy)
+&emsp;[rawhtml](#rawhtml)
 &emsp;[google_form](#google_form)
 &emsp;[tito_widget](#tito_widget)
 &emsp;[cfp_dates](#cfp_dates)
@@ -44,7 +53,11 @@
 
 
 ## Fields in main.yml
-The `/data/events/YYYY/CITY.main.yml` file is the main configuration file for your event. This is what each field does.
+The `/data/events/YYYY/CITY/main.yml` file is the main configuration file for your event. This is what each field does.
+
+Note the two different naming conventions used across the repo: the **data** file lives in nested directories (`data/events/2026/boston/main.yml`), while content and images use a flat slug (`content/events/2026-boston/`, `assets/events/2026-boston/`).
+
+An event may optionally split `program.yml`, `sponsors.yml`, or `organizers.yml` into sibling files next to `main.yml`; they are merged at build time, and `main.yml` wins on any key collision.
 
 ### General Fields
 
@@ -66,7 +79,7 @@ All dates are in unquoted YYYY-MM-DD, like this: `variable: 2016-01-05`, or like
 | Field Name                   | Type       | Required | Description                                                                                                                                                                                                                   | Example                                               |
 |------------------------------|------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|
 | `startdate`                  | YYYY-MM-DD | No       | The start date of your event. Leave blank if you don't have a venue reserved yet.                                                                                                                                             | 2016-01-05                                            |
-| `enddate`                    | YYYY-MM-DD | No       | The end date of your event. Leave blank if you don't have a venue reserved yet.                                                                                                                                               | 2016-01-05                                            |
+| `enddate`                    | YYYY-MM-DD | No       | The end date of your event. Leave blank if you don't have a venue reserved yet. **If `startdate` is set, this must be set too** - several templates read it without a guard, so a blank value here breaks the build.          | 2016-01-05                                            |
 | `timeoffset`                 | +/-HHMM    | No       | The offset of the timezone of your event from UTC                                                                                                                                                                             | "-0600"                                               |
 | `timezone`                   | String     | No       | The timezone of the event [https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)                                                              | "Europe/London"                                       |
 | `cfp_date_start`             | YYYY-MM-DD | No       | The date you will start accepting talk proposals. Can be a blank value.                                                                                                                                                       | 2016-01-05                                            |
@@ -76,7 +89,8 @@ All dates are in unquoted YYYY-MM-DD, like this: `variable: 2016-01-05`, or like
 | `cfp_link`                   | String     | No       | If you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.                                                                                     | "https://myurlhere" - reference it like "{{< event_link url-key="cfp_link" text="Propose a talk!" >}}" |
 | `registration_date_start`    | YYYY-MM-DD | No       | The date you will start accepting registration. If this is set, will make the "Register" button appear on the event's "Welcome" page. Can be a blank value.                                                                   | 2016-01-05                                            |
 | `registration_date_end`      | YYYY-MM-DD | No       | The date you will close registration. Controls the appearance of the "Register" button on the "Welcome" page. If you set `registration_date_start` you must set `registration_date_end`. Can be a blank value (unless `registration_date_start` has been set).                                                                                                                                                                   | 2016-01-05                                            |
-| `registration_closed`        | String     | No       | Set this to "true" if you need to manually close registration before your registration end date.                                                                                                                              | "true"                                                |
+| `registration_open`          | String     | No       | Set to "true" to force the "Register" button on regardless of dates. **This field takes priority over `registration_date_start`, `registration_date_end`, and `registration_closed`** - if it is set, the date fields are ignored entirely. | "true"                            |
+| `registration_closed`        | String     | No       | Set this to "true" if you need to manually close registration before your registration end date. Ignored if `registration_open` is set.                                                                                       | "true"                                                |
 | `registration_link`          | String     | No       | If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.                                                                                         | "https://myurlhere" reference it like {{< event_link url-key="registration_link" text="Register to attend the conference!" >}} |                                                                                   |
 | `sponsor_link`               | String     | No       | If you have a custom sponsorship link, enter it here. This will control the "Become an X Sponsor!" links. It does NOT change the "Sponsor" button.                                                                            | "https://myurlhere"  |                                                                                   |
 
@@ -91,7 +105,7 @@ All dates are in unquoted YYYY-MM-DD, like this: `variable: 2016-01-05`, or like
 | `event_social_slack`    | String | No       | The invite URL to your slack workspace.                                                               | "https://join.slack.com/t/dodrox/shared_invite/xyz"  |
 | `event_social_listserv` | String | No       | The URL to subscribe to your group mailing list.                                                      | "https://lists.devopsdays.org/subscription?f=xyz".   |
 | `event_twitter`         | String | No       | Legacy field for the twitter handle. Exclude the "@" symbol. Kept for backward support.               | "devopsdayschi"                                      |
-| `social_shares`         | Array  | No       | Specify which social share buttons to display on event pages. Valid values: "email", "twitter", "facebook", "linkedin". If not specified, defaults to all four buttons. | ["email", "linkedin"]                                |
+| `social_shares`         | Array  | No       | Specify which social share buttons to display on event pages. Valid values: "email", "twitter", "facebook", "linkedin", "bluesky", "threads", "mastodon". If not specified, defaults to email, twitter, facebook and linkedin. | ["email", "linkedin", "bluesky"]                     |
 
 ### Branding Fields
 
@@ -104,7 +118,7 @@ All dates are in unquoted YYYY-MM-DD, like this: `variable: 2016-01-05`, or like
 
 | Field Name         | Type   | Required | Description                                                                                                                                     | Example                                         |
 |--------------------|--------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
-| ~~`coordinates`~~      | String | Yes      | The coordinates of your city. [Get Latitude and Longitude of a Point](http://itouchmap.com/latlong.html). DEPRECATED. | "41.882219, -87.640530"                         |
+| ~~`coordinates`~~      | String | No       | DEPRECATED and unused. The `event_map` shortcode uses `location_address` instead. Note that if the field is present but blank while a page still uses `{{< event_map >}}`, the site build will fail. | "41.882219, -87.640530"                         |
 | `location`         | String | Yes      | The generator scripts will default to the value of `City`, but you can make it the venue name.                                                  | "Chicago Mart West"                             |
 | `location_address` | String | No       | Use the street address of your venue. This will show up on the welcome page if set. Also used by the `event_map` shortcode.                                              | "350 West Mart Center Drive, Chicago, IL 60654" |
 
@@ -161,6 +175,8 @@ Each team member is an element of `team_members`.
 | `facebook` | String | No       | The full URL to the person's Facebook page                                                                                                                 | "https://www.facebook.com/sally.fields"                                                                                                                                                                                                                                                                             |
 | `linkedin` | String | No       | The full URL to the person's LinkedIn page                                                                                                                 | "https://www.linkedin.com/in/sallyfields"                                                                                                                                                                                                                                                                           |
 | `website`  | String | No       | The full URL to the person's webpage                                                                                                                       | "https://mattstratton.com"                                                                                                                                                                                                                                                                                          |
+| `gitlab`   | String | No       | The GitLab username of the person                                                                                                                          | "johndoe"                                                                                                                                                                                                                                                                                                           |
+| `twitch`   | String | No       | The Twitch username of the person                                                                                                                          | "johndoe"                                                                                                                                                                                                                                                                                                           |
 | `mastodon` | String | No       | The full URL to the person's Mastodon profile                                                                                                                       | "https://hachyderm.io/@mattstratton"                                                                                                                                                                                                                                                                                          |
 | `bluesky` | String | No       | The full URL to the person's Bluesky profile                                                                                                                       | "https://bsky.app/profile/matty.wtf"                                                                                                                                                                                                                                                                                          |
 | `image`    | String | No       | The name of the image for this user, located in `static/events/YYYY-CITY/organizers/`. This image must be a JPEG, and should be either 300px square or (optimally) 600px square. | "sally-fields.jpg"                                                                                                                                                                                                                                                                                                  |
@@ -289,9 +305,11 @@ All pages have some common frontmatter elements that they share. These include:
 |-----------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
 | `Description`   | No       | The summary, or description, of the content of the page. It is highly recommended that this is populated on every page, as it is used in social sharing, as well as for SEO purposes.                                                                                                                        | "DevOpsDays Ponyville is back for 2017! We will be hanging out and showing off our awesomeness." |
 | `Title`         | Yes      | The title of the page. This is usually prepopulated for you, but it is highly recommended that you do NOT use the default titles; add some flair to set your event apart.                                                                                                                                    | "devopsdays Ponyville 2017"                                                                      |
-| `Type`          | Yes      | This is required, but is usually pre-populated. Valid types are "event", "welcome", "program", "speaker", "speakers", and "talk". The type you should use for "regular" pages is "event".                                                                                                                    | "talk"                                                                                           |
+| `Type`          | Yes      | This is required, but is usually pre-populated. Types with a layout in this theme are "event", "welcome", "program", "speaker", "speakers", "talk", "blog", "speaking", "sponsor", and "events". The type you should use for "regular" pages is "event". **Anything else falls through to an empty default layout and renders a blank page** - in particular, "workshop", "ignite" and "keynote" are *program item* types, not page types. A workshop or ignite page should still use `Type = "talk"`. | "talk" |
 | `aliases`       | No       | This creates aliases to the page. For example, if you want your index page to also be accessible as `/welcome` under your event, you would add the alias here.                                                                                                                                               | ["/events/2017-ponyville/welcome"]                                                               |
 | `sharing_image` | No       | This allows you to set an image that is displayed when posting on social sites (eg: Slack, Twitter, Facebook). This image is used in the `og:image` meta tag field. This image is relative to the `static/events/YYYY-CITY/sharing` directory. It can be either .png or .jpg. Recommended size is 1200 × 630. | "matt-stratton-card.jpg"                                                                         |
+| `locale`        | No       | Sets the `og:locale` meta tag for the page. | "pt_BR" |
+| `comments_uuid` | No       | If set, adds a "Comments" entry to the table of contents on pages that render one. | "a1b2c3d4" |
 
 ### Talk Page Fields
 
@@ -321,11 +339,10 @@ Pages of the type `speaker` have a few additional frontmatter elements available
 | `facebook` | No       | Speaker's Facebook URL                                                                                                                                                                                     | "https://www.facebook.com/matt.stratton"    |
 | `linkedin` | No       | Speaker's LinkedIn URL                                                                                                                                                                                     | "https://www.linkedin.com/in/mattstratton/" |
 | `github`   | No       | Speakers' GitHub username.                                                                                                                                                                                 | "mattstratton"                              |
-| `gitlab`   | No       | Speakers' GitLab username.                                                                                                                                                                                 | "mattstratton"                              |
 | `twitch`   | No       | Speakers' Twitch username.                                                                                                                                                                                 | "mattstratton"                              |
 | `mastodon`   | No       | Speakers' Mastodon URL username.                                                                                                                                                                                 | "https://hachyderm.io/@mattstratton"                              |
 | `bluesky`   | No       | Speakers' Bluesky profile.                                                                                                                                                                                 | "https://bsky.app/profile/matty.wtf"                              |
-| `image`    | No       | The image for the speaker. This image is relative to the `static/events/YYYY-CITY/speakers` directory. It can be either .png or .jpg. It is recommended to be 600px square.  | "matt-stratton.jpg"                         |
+| `image`    | No       | The image for the speaker, as a bare filename. It is resolved against `assets/events/YYYY-CITY/speakers/`, falling back to `static/events/YYYY-CITY/speakers/` for older events. It can be .png, .jpg or .webp, and the extension must match the actual format. It is recommended to be 600px square.  | "matt-stratton.jpg"                         |
 
 ### Program Page Fields
 
@@ -352,6 +369,66 @@ An event can create a sharing image for use on social media (when the url is sha
 ## Shortcodes
 
 Shortcodes can be used in any of your content (i.e., ".md" files. They provide easy ways to add content without having to write a lot of coding.)
+
+### email_proposals
+Generates a `mailto` link to the address in `proposal_email`. Takes an optional `subject`.
+```
+{{< email_proposals >}}
+{{< email_proposals subject="Talk proposal" >}}
+```
+
+### emoji
+Renders an emoji by name.
+```
+{{< emoji ":sparkles:" >}}
+```
+
+### event_link
+Creates a link using a URL from your event data file, falling back to a page within your event if that field is not set. This is what the `cfp_link` and `registration_link` fields are consumed by.
+```
+{{< event_link url-key="cfp_link" text="Propose a talk!" >}}
+{{< event_link page="location" text="Find us" >}}
+```
+
+### event_location
+Returns the value of `location`, linked to your event's location page.
+```
+{{< event_location >}}
+```
+
+### event_social_bsky / event_social_linkedin / event_social_listserv / event_social_mastodon / event_social_slack / event_social_twitter / event_social_youtube
+Each renders an icon linking to the matching `event_social_*` field in your data file. Each takes an optional positional fallback value to use when the field is unset.
+```
+{{< event_social_linkedin >}}
+{{< event_social_mastodon >}}
+```
+
+### list_organizers
+Renders the `team_members` from your data file as a card grid, with photo, pronouns, role, employer, bio and social links. This is what the default `contact.md` uses.
+```
+{{< list_organizers >}}
+```
+
+### list_core / list_core_active / list_core_advisory / list_core_emeritus
+Render the global devopsdays core team from `data/core.toml`. `list_core` emits a sentence linking to the about page; the other three emit comma-separated name lists.
+```
+{{< list_core >}}
+{{< list_core_active >}}
+```
+
+### privacy_policy
+Embeds the devopsdays privacy policy. Used on the site-wide privacy page; events do not normally need it.
+```
+{{< privacy_policy >}}
+```
+
+### rawhtml
+Passes its inner content through as raw HTML and JavaScript without escaping. Use it for embeds that the other shortcodes do not cover.
+```
+{{< rawhtml >}}
+<div class="my-embed"></div>
+{{< /rawhtml >}}
+```
 
 ### google_form
 This shortcode allows for the embedding of a Google form on a page, in a manner that maintains the responsive, mobile-friendly design of the site. To use it, you only need the URL of your form (not the full embed code) and enter this on your page (substituting the proper URL):
