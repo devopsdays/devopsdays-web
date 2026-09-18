@@ -36,7 +36,7 @@ Cada cota proporciona uma série de benefícios aos parceiros oficiais, conforme
 <p>
 Para conhecer todos os detalhes das cotas e do evento, acesse o nosso media kit clicando no ícone abaixo:
 </p>
-<p><a href="https://canva.link/jomr1pewp479kdk" target="_blank" rel="noopener" style="color: #A54369; font-weight: bold;"><i class="fa fa-link" style="font-size:30px; vertical-align: middle; margin-right: 0.3em;"></i>Acessar Media Kit 2027</a></p>
+<p><a href="https://canva.link/21nttzo2cqwcx7l" target="_blank" rel="noopener" style="color: #A54369; font-weight: bold;"><i class="fa fa-link" style="font-size:30px; vertical-align: middle; margin-right: 0.3em;"></i>Acessar Media Kit 2027</a></p>
 </div>
 <br>
 
@@ -52,7 +52,14 @@ Para conhecer todos os detalhes das cotas e do evento, acesse o nosso media kit 
       </tr>
     </thead>
     <tr>
-      <td><b>Veiculação de vídeo institucional</b></td>
+      <td><b>Palestra de 25 minutos</b></td>
+      <td></td>
+      <td></td>
+      <td class="vix-gold"></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td><b>Veiculação de vídeo institucional*</b></td>
       <td></td>
       <td></td>
       <td class="vix-gold"></td>
@@ -62,7 +69,7 @@ Para conhecer todos os detalhes das cotas e do evento, acesse o nosso media kit 
       <td><b>Logo nos cordões de crachá</b></td>
       <td></td>
       <td></td>
-      <td class="vix-gold"></td>
+      <td class="vix-gold"><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
     </tr>
     <tr>
@@ -87,7 +94,7 @@ Para conhecer todos os detalhes das cotas e do evento, acesse o nosso media kit 
       <td><i class="fa fa-check"></i></td>
     </tr>
     <tr>
-      <td><b>Distribuição de brindes nas pastas dos participantes</b></td>
+      <td><b>Distribuição de brindes nas pastas dos participantes*</b></td>
       <td></td>
       <td><i class="fa fa-check"></i></td>
       <td class="vix-gold"><i class="fa fa-check"></i></td>
@@ -122,7 +129,7 @@ Para conhecer todos os detalhes das cotas e do evento, acesse o nosso media kit 
       <td><i class="fa fa-check"></i></td>
     </tr>
     <tr>
-      <td><b>Inscrições para o evento*</b></td>
+      <td><b>Inscrições para o evento</b></td>
       <td>02</td>
       <td>04</td>
       <td class="vix-gold">08</td>
@@ -131,9 +138,9 @@ Para conhecer todos os detalhes das cotas e do evento, acesse o nosso media kit 
     <tr class="vix-price">
       <td><b>Contribuição</b></td>
       <td>R$ 5.000</td>
-      <td>R$ 9.000</td>
-      <td class="vix-gold">R$ 12.000</td>
-      <td>R$ 18.000</td>
+      <td>R$ 7.000</td>
+      <td class="vix-gold">R$ 10.000</td>
+      <td>R$ 15.000</td>
     </tr>
   </table>
 </div>
