@@ -44,20 +44,74 @@ Para conhecer todos os detalhes das cotas e do evento, acesse o nosso media kit 
   <table class="table table-bordered table-hover table-responsive-md vix-sponsor-table">
     <thead>
       <tr>
-        <th>Benefício</th>
-        <th>Comunidade</th>
+        <th>Benefícios</th>
+        <th>Bronze</th>
         <th>Prata</th>
         <th class="vix-gold"><span class="vix-badge">MAIS PROCURADA</span><br>Ouro</th>
         <th>Platina</th>
-        <th>Diamante</th>
       </tr>
     </thead>
     <tr>
-      <td><b>Logo no site do evento</b></td>
+      <td><b>Veiculação de vídeo institucional</b></td>
+      <td></td>
+      <td></td>
+      <td class="vix-gold"></td>
       <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td><b>Logo nos cordões de crachá</b></td>
+      <td></td>
+      <td></td>
+      <td class="vix-gold"></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td><b>Balcão promocional</b></td>
+      <td></td>
+      <td></td>
+      <td class="vix-gold"><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td><b>Logo no fundo de palco</b></td>
+      <td></td>
+      <td></td>
+      <td class="vix-gold"><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td><b>Logo nos materiais de marketing</b></td>
+      <td></td>
       <td><i class="fa fa-check"></i></td>
       <td class="vix-gold"><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td><b>Distribuição de brindes nas pastas dos participantes</b></td>
+      <td></td>
+      <td><i class="fa fa-check"></i></td>
+      <td class="vix-gold"><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td><b>Ação de marketing nas redes sociais</b></td>
+      <td></td>
+      <td><i class="fa fa-check"></i></td>
+      <td class="vix-gold"><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td><b>Destaque nos banners físicos</b></td>
+      <td></td>
+      <td>Tamanho ½U</td>
+      <td class="vix-gold">Tamanho ¾U</td>
+      <td>Tamanho 1U</td>
+    </tr>
+    <tr>
+      <td><b>Logo no site do evento/releases</b></td>
+      <td><i class="fa fa-check"></i></td>
+      <td><i class="fa fa-check"></i></td>
+      <td class="vix-gold"><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
     </tr>
     <tr>
@@ -66,102 +120,19 @@ Para conhecer todos os detalhes das cotas e do evento, acesse o nosso media kit 
       <td><i class="fa fa-check"></i></td>
       <td class="vix-gold"><i class="fa fa-check"></i></td>
       <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
     </tr>
     <tr>
-      <td><b>Ingressos para o evento</b></td>
+      <td><b>Inscrições para o evento*</b></td>
       <td>02</td>
-      <td>02</td>
-      <td class="vix-gold">04</td>
       <td>04</td>
-      <td>06</td>
-    </tr>
-    <tr>
-      <td><b>Destaque nos banners físicos</b></td>
-      <td>PP</td>
-      <td>P</td>
-      <td class="vix-gold">M</td>
-      <td>G</td>
-      <td>Extra G</td>
-    </tr>
-    <tr>
-      <td><b>Sorteio de brindes no palco (ao final)*</b></td>
-      <td></td>
-      <td></td>
-      <td class="vix-gold"><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-    </tr>
-    <tr>
-      <td><b>Logo nos materiais de marketing</b></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-      <td class="vix-gold"><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-    </tr>
-    <tr>
-      <td><b>Brindes para os participantes*</b></td>
-      <td></td>
-      <td><i class="fa fa-check"></i></td>
-      <td class="vix-gold"><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-    </tr>
-    <tr>
-      <td><b>Logo no fundo de palco</b></td>
-      <td></td>
-      <td><i class="fa fa-check"></i></td>
-      <td class="vix-gold"><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-    </tr>
-    <tr>
-      <td><b>Logo nos cordões de crachá</b></td>
-      <td></td>
-      <td></td>
-      <td class="vix-gold"><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-    </tr>
-    <tr>
-      <td><b>Stand promocional (2 pessoas)*</b></td>
-      <td></td>
-      <td></td>
-      <td class="vix-gold"></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-    </tr>
-    <tr>
-      <td><b>Fala de 3 minutos</b></td>
-      <td></td>
-      <td></td>
-      <td class="vix-gold"></td>
-      <td><i class="fa fa-check"></i></td>
-      <td><i class="fa fa-check"></i></td>
-    </tr>
-    <tr>
-      <td><b>Logo em produto do evento*</b></td>
-      <td></td>
-      <td></td>
-      <td class="vix-gold"></td>
-      <td></td>
-      <td><i class="fa fa-check"></i></td>
-    </tr>
-    <tr>
-      <td><b>Tema próprio nos open spaces</b></td>
-      <td></td>
-      <td></td>
-      <td class="vix-gold"></td>
-      <td></td>
-      <td><i class="fa fa-check"></i></td>
+      <td class="vix-gold">08</td>
+      <td>10</td>
     </tr>
     <tr class="vix-price">
-      <td><b>Investimento</b></td>
-      <td>R$ 3.500</td>
-      <td>R$ 6.000</td>
-      <td class="vix-gold">R$ 8.000</td>
-      <td>R$ 12.500</td>
+      <td><b>Contribuição</b></td>
+      <td>R$ 5.000</td>
+      <td>R$ 9.000</td>
+      <td class="vix-gold">R$ 12.000</td>
       <td>R$ 18.000</td>
     </tr>
   </table>
