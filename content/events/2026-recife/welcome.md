@@ -86,6 +86,7 @@ a.jssocials-share-link, a.event-cta-button {
 <br><br>
 <p><a href="https://talks.devopsdays.org/devopsdays-recife-2026/" target="_blank" rel="noopener"><button type="button">ENVIE SUA PROPOSTA</button></a></p>
 <p><a href="https://www.even3.com.br/devopsdays-recife-770771/" target="_blank" rel="noopener"><button type="button">INGRESSOS</button></a></p>
+<p><a href="/events/2026-recife/speakers/"><button type="button">PALESTRANTES</button></a></p>
 <p><a href="/events/2026-recife/local/"><button type="button">LOCALIZAÇÃO</button></a></p>
 <p><a href="/events/2026-recife/sponsor/"><button type="button">SEJA UM PATROCINADOR</button></a></p>
 <p><a href="/events/2026-recife/contact/"><button type="button">CONTATO</button></a></p>
