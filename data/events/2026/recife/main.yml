@@ -126,6 +126,8 @@ sponsor_levels:
   - id: silver
     label: Prata
     max: 5
+  - id: media
+    label: Mídia
   - id: community
     label: Comunidade
 
@@ -137,7 +139,7 @@ sponsors:
   - id: grafana
     level: silver
   - id: porteratech
-    level: community
+    level: media
 
 program:
   # - title: "Credenciamento"
