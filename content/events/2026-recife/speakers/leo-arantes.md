@@ -13,7 +13,7 @@ Já atuei em times de produto B2B e B2C, liderando iniciativas de pesquisa, desi
 
 ## Palestra
 
-[DesignOps encontra DevOps: Como reduzimos nosso Lead Time para 3 dias e aceleramos a entrega de software](https://talks.devopsdays.org/orga/event/devopsdays-recife-2026/submissions/AJZBMV/)
+DesignOps encontra DevOps: Como reduzimos nosso Lead Time para 3 dias e aceleramos a entrega de software
 
 Como aplicamos Value Stream Management, medição de fluxo no Azure e práticas de DesignOps para atender 8 squads em paralelo e zerar o retrabalho no pipeline de engenharia.
 

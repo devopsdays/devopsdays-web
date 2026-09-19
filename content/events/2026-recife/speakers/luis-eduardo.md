@@ -13,7 +13,7 @@ Quando não estou trabalhando, gasto meu tempo entre livros e música, tocando A
 
 ## Palestra
 
-[Por dentro do Kubernetes: como funciona o escalonamento de pods (placement)](https://talks.devopsdays.org/orga/event/devopsdays-recife-2026/submissions/9CSL8B/)
+Por dentro do Kubernetes: como funciona o escalonamento de pods (placement)
 
 Todos os dias, milhões de _pods_ são levantados em centenas de _clusters_ ao redor do mundo. E a cada novo _pod_ o _cluster_ enfrenta a mesma questão: **Qual o melhor nó para executá-lo**? A resposta vem dos algoritmos de escalonamentos -- também chamados de **Placements**.
 

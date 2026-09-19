@@ -9,6 +9,6 @@ Camis Moreira é Coordenadora de Tecnologia na TOTVS, palestrante, mentora e fun
 
 ## Palestra
 
-[Manual de Sobrevivência à Lideranças Tóxicas](https://talks.devopsdays.org/orga/event/devopsdays-recife-2026/submissions/MEVMDV/)
+Manual de Sobrevivência à Lideranças Tóxicas
 
 Nem toda liderança inspira. Algumas adoecem. O Manual de Sobrevivência a Lideranças Tóxicas é uma palestra que ajuda profissionais a identificar os sinais de uma liderança destrutiva, compreender seus impactos na saúde mental e na carreira e desenvolver estratégias para lidar com ambientes de trabalho desafiadores. Baseada em pesquisas sobre comportamento organizacional, a palestra combina conhecimento científico, exemplos práticos e ferramentas aplicáveis para fortalecer a inteligência emocional, estabelecer limites e construir relações profissionais mais saudáveis.

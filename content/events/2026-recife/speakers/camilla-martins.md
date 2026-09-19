@@ -9,6 +9,6 @@ Docker Community Leader. Sou Senior Site Reliability Engineer e atualmente traba
 
 ## Palestra
 
-[Google ADK no Kubernetes: acelere seus agentes de IA](https://talks.devopsdays.org/orga/event/devopsdays-recife-2026/submissions/KCTKDW/)
+Google ADK no Kubernetes: acelere seus agentes de IA
 
 Descubra como o novo Kit de Desenvolvimento de Agentes (ADK) do Google, revoluciona o desenvolvimento de agentes inteligentes. Veja como o Kubernetes otimiza a implantação e o gerenciamento dessas aplicações de IA mostrando um case real entre agentes conversando dentro do Kubernetes. Crie e dimensione seus agentes de IA de maneiras inovadoras e eficientes.

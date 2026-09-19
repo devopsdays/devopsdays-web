@@ -11,7 +11,7 @@ Certificada como Zabbix Specialist 7.0, trabalho com monitoramento inteligente, 
 
 ## Palestra
 
-[CSI DevOps: A Investigação de um incidente usando Zabbix, OpenTelemetry e IA](https://talks.devopsdays.org/orga/event/devopsdays-recife-2026/submissions/3VRJWQ/)
+CSI DevOps: A Investigação de um incidente usando Zabbix, OpenTelemetry e IA
 
 Nesta apresentação, vamos falar um conversar um pouco sobre uma investigação de incidente através da ótica da observabilidade cognitiva. Mostrarei como a telemetria interna do código (capturada via OpenTelemetry) conversa naturalmente com o monitoramento centralizado do Zabbix, criando uma visão 360º do que realmente quebrou.
 

@@ -1,0 +1,16 @@
+{{- range where .Site.Pages "Type" "speaker" -}}
+  {{- if hasPrefix .RelPermalink "/events/2026-recife/speakers/" -}}
+    {{- $image := resources.Get (printf "events/2026-recife/speakers/%s" .Params.image) -}}
+    <article class="recife-speaker-card">
+      {{- if $image -}}
+        <img class="recife-speaker-photo" src="{{ $image.RelPermalink }}" alt="{{ .Title }}" />
+      {{- else -}}
+        <img class="recife-speaker-photo" src="/img/speaker-default.jpg" alt="{{ .Title }}" />
+      {{- end -}}
+      <div class="recife-speaker-content">
+        <h3>{{ .Title }}</h3>
+        {{ .Content }}
+      </div>
+    </article>
+  {{- end -}}
+{{- end -}}

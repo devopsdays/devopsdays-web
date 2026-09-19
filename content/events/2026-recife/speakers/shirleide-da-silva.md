@@ -15,7 +15,7 @@ Instagram: @shirleide.dev
 
 ## Palestra
 
-[DevOps não começa no pipeline: uma Engenheira de Software explica por quê](https://talks.devopsdays.org/orga/event/devopsdays-recife-2026/submissions/SSFNWV/)
+DevOps não começa no pipeline: uma Engenheira de Software explica por quê
 
 Falamos de DevOps como se ele começasse no pipeline, mas boa parte da confiabilidade de um sistema é definida muito antes disso. Especificação, decisões arquiteturais, contratos, código, testes e colaboração entre times influenciam diretamente o que acontece no deploy e em produção.
 

@@ -13,7 +13,7 @@ Especialista em arquiteturas cloud-native (Azure, AWS, GCP, OCI), DevSecOps e SR
 
 ## Palestra
 
-[Como padronizamos Kubernetes em 4 clouds sem engessar os times](https://talks.devopsdays.org/orga/event/devopsdays-recife-2026/submissions/RJKNNZ/)
+Como padronizamos Kubernetes em 4 clouds sem engessar os times
 
 Padronizar Kubernetes parece um problema técnico — até você perceber que o maior desafio são as pessoas, os processos e as diferenças entre times.
 
