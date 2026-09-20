@@ -204,9 +204,9 @@ sponsors:
     level: diamond
   - id: antithesis
     level: gold
-  - id: datadog
-    level: gold
   - id: cloudbees
+    level: gold
+  - id: datadog
     level: gold
   - id: gmfinancial
     level: gold
@@ -377,7 +377,7 @@ program:
     date: "2026-09-29"
     start_time: "09:00"
     end_time: "09:45"
-  - title: "dalia-powers"
+  - title: "houston-hopkins"
     type: talk
     date: "2026-09-29"
     start_time: "09:45"
