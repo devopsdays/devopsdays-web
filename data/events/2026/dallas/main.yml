@@ -296,7 +296,7 @@ program:
     date: "2026-09-28"
     start_time: "10:30"
     end_time: "11:00"
-  - title: "Sponsors"
+  - title: "Sponsor pitches"
     type: custom
     date: "2026-09-28"
     start_time: "11:00"
@@ -392,7 +392,7 @@ program:
     date: "2026-09-29"
     start_time: "10:30"
     end_time: "11:00"
-  - title: "Sponsors"
+  - title: "Sponsor pitches"
     type: custom
     date: "2026-09-29"
     start_time: "11:00"
