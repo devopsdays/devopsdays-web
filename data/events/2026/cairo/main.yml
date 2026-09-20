@@ -46,6 +46,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: speakers
     url: https://www.devopsdays.org.eg/speakers  
   - name: sponsor
+    url: https://www.devopsdays.org.eg/sponsors
   - name: contact
   - name: conduct
 # - name: example
