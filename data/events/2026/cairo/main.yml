@@ -110,9 +110,9 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: strategic
-    label: "Strategic"
-    max: 1
+#  - id: strategic
+#    label: "Strategic"
+#    max: 1
   - id: technology
     label: "Technology"
   - id: techadvocate
@@ -123,11 +123,11 @@ sponsor_levels:
   - id: governament
     label: "Governmental Organizer"
     max: 1 # to prevent "join as" string from appearing
-  - id: corporate
-    label: "Corporate Organizers"
-    max: 2 # to prevent "join as" string from appearing
+ # - id: corporate
+ #   label: "Corporate Organizers"
+ #   max: 2 # to prevent "join as" string from appearing
   - id: academia
-    label: "Academia Organizers"
+    label: "Academia"
     max: 2 # to prevent "join as" string from appearing
   - id: community
     label: Community
