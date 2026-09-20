@@ -1,0 +1,262 @@
+name: "2026-boston"
+year: "2026"
+city: "Boston"
+description: "DevOpsDays Boston Is Back for 2026!"
+
+startdate: "2026-10-19T09:00:00-05:00"
+enddate: "2026-10-20T17:30:00-05:00"
+
+cfp_date_start: "2026-07-16"  # start accepting talk proposals.
+cfp_date_end: "2026-08-31"  # close your call for proposals.
+
+cfp_link: "https://talks.devopsdays.org/boston-2026/cfp" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: "2026-08-27" # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: "2026-10-30" # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://tickets.devopsdays.org/devopsdays-boston/2006/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+location: "Microsoft NERD Center"
+location_address: "1 Memorial Drive, Cambridge MA 02142"
+
+event_social_linkedin: "https://www.linkedin.com/company/devopsdaysbos"
+event_social_slack: "https://bostondevops.github.io"
+event_social_youtube: "devopsdaysboston"
+
+
+# Social Share Buttons
+# Optional: Specify which social share buttons to display on event pages.
+# If not specified, defaults to all: ["email", "twitter", "facebook", "linkedin"]
+# Valid values: "email", "twitter", "facebook", "linkedin"
+# Example: social_shares: ["email", "linkedin"]  # Only show email and LinkedIn share buttons
+social_shares: # ["email", "twitter", "facebook", "linkedin"]
+
+masthead_background: "skyline.jpg"
+nav_elements:
+  - name: program
+  - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+team_members:
+  - name: "Don Luchini"
+    image: "donluchini.jpg"
+    bio: "Don Luchini is a Boston-based engineer and architect with a passion for automation, teaching, learning, presentation, and community. In addition to organizing DevOpsDays Boston, he also helps organize the monthly [Boston DevOps meetup](https://meetup.com/boston-devops). In his infinite spare time, he teaches Uechi-ryu karate, operates amateur radio as KC1YEK, loves hiking, and is an enjoyer of local coffee, beer, and music."
+    github: whoiscarmine
+    website: https://hardwarehacks.org
+  - name: "Carmine Granucci"
+    image: "carminegranucci.jpg"
+    bio: "Carmine Granucci is a Boston-based IT operations leader who has spent his career turning reactive support teams into proactive ones across healthcare technology and higher education. He is currently Director of IT Operations at Vinfen, a health and human services nonprofit, and serves as Treasurer of the Boston DevOps Network. He came up through BBS boards and the early web and never really left, which probably explains why every machine in his homelab is named after a Transformer. When he is not working, he is an Arlington Town Meeting Member, a serious coffee drinker, a craft beer hobbyist, and a lifelong Red Sox fan."
+    linkedin: https://www.linkedin.com/in/carminegranucci/
+    github: whoiscarmine
+    website: https://carminegranucci.com/
+  - name: "Josh"
+    bio: "Not much is known about Josh, other than he tends to show up, support the mission, not say much, and disappear into the night when no longer required."
+
+organizer_email: "boston@devopsdays.org"
+
+sponsors:
+  - id: spacelift
+    level: gold
+  - id: atomiccoffeeroasters
+    level: coffee
+
+sponsors_accepted : "yes"
+
+sponsor_levels:
+  - id: gold
+    label: Gold
+    max: 6
+  - id: startupalley
+    label: Startup Alley
+    max: 2
+  - id: coffee
+    label: Coffee
+    max: 1
+
+program:
+# Day 1
+  - title: "Registration and Breakfast"
+    type: custom
+    date: 2026-10-19
+    start_time: "9:00"
+    end_time: "10:00"
+  - title: Introduction
+    type: custom
+    date: 2026-10-19
+    start_time: "10:00"
+    end_time: "10:15"
+  - title: "imran-haider"
+    type: talk
+    date: 2026-10-19
+    start_time: "10:15"
+    end_time: "10:45"
+  # a sponsor goes on stage here!
+  - title: "josh-jordan"
+    type: talk
+    date: 2026-10-19
+    start_time: "10:50"
+    end_time: "11:25"
+  - title: "Break"
+    type: custom
+    date: 2026-10-19
+    start_time: "11:25"
+    end_time: "11:40"
+  # a sponsor goes on stage here!
+  - title: "niharika-pujari" # MUST be scheduled on day one
+    type: talk
+    date: 2026-10-19
+    start_time: "11:45"
+    end_time: "12:15"
+  # a sponsor goes on stage here!
+  - title: "lalith-mangalagiri"
+    type: talk
+    date: 2026-10-19
+    start_time: "12:20"
+    end_time: "12:50"
+  - title: "Lunch"
+    type: custom
+    date: 2026-10-19
+    start_time: "12:50"
+    end_time: "14:00"
+  - title: "lev-andelman"
+    type: talk
+    date: 2026-10-19
+    start_time: "14:00"
+    end_time: "14:30"
+  - title: "Open Space Proposals"
+    type: custom
+    date: 2026-10-19
+    start_time: "14:05"
+    end_time: "14:35"
+  - title: "Break"
+    type: custom
+    date: 2026-10-19
+    start_time: "14:35"
+    end_time: "14:50"
+  - title: "Open Spaces - Block 1"
+    type: custom
+    date: 2026-10-19
+    start_time: "14:50"
+    end_time: "15:20"
+  - title: "Break"
+    type: custom
+    date: 2026-10-19
+    start_time: "15:20"
+    end_time: "15:35"
+  - title: "Open Spaces - Block 2"
+    type: custom
+    date: 2026-10-19
+    start_time: "15:35"
+    end_time: "16:05"
+  - title: "Break"
+    type: custom
+    date: 2026-10-19
+    start_time: "16:05"
+    end_time: "16:20"
+  - title: "Open Spaces - Block 3"
+    date: 2026-10-19
+    type: custom
+    start_time: "16:20"
+    end_time: "16:50"
+  - title: "Day 1 Wrap-up"
+    type: custom
+    date: 2026-10-19
+    start_time: "16:50"
+    end_time: "17:00"
+
+# Day 2
+  - title: "Registration and Breakfast"
+    type: custom
+    date: 2026-10-20
+    start_time: "9:00"
+    end_time: "10:00"
+  - title: Introduction
+    type: custom
+    date: 2026-10-20
+    start_time: "10:00"
+    end_time: "10:15"
+  - title: "robbie-mckinstry"
+    type: talk
+    date: 2026-10-20
+    start_time: "10:15"
+    end_time: "10:45"
+  # a sponsor goes on stage here!
+  - title: "dan-morgan"
+    type: talk
+    date: 2026-10-20
+    start_time: "10:50"
+    end_time: "11:25"
+  - title: "Break"
+    type: custom
+    date: 2026-10-20
+    start_time: "11:25"
+    end_time: "11:40"
+  # a sponsor goes on stage here!
+  - title: "anish-puthuraya"
+    type: talk
+    date: 2026-10-20
+    start_time: "11:45"
+    end_time: "12:15"
+  # a sponsor goes on stage here!
+  - title: "pravalik-medi"
+    type: talk
+    date: 2026-10-20
+    start_time: "12:20"
+    end_time: "12:50"
+  - title: "Lunch"
+    type: custom
+    date: 2026-10-20
+    start_time: "12:50"
+    end_time: "14:00"
+  - title: "stanislav-grosman"
+    type: talk
+    date: 2026-10-20
+    start_time: "14:00"
+    end_time: "14:30"
+  - title: "Open Space Proposals"
+    type: custom
+    date: 2026-10-20
+    start_time: "14:05"
+    end_time: "14:35"
+  - title: "Break"
+    type: custom
+    date: 2026-10-20
+    start_time: "14:35"
+    end_time: "14:50"
+  - title: "Open Spaces - Block 4"
+    type: custom
+    date: 2026-10-20
+    start_time: "14:50"
+    end_time: "15:20"
+  - title: "Break"
+    type: custom
+    date: 2026-10-20
+    start_time: "15:20"
+    end_time: "15:35"
+  - title: "Open Spaces - Block 5"
+    type: custom
+    date: 2026-10-20
+    start_time: "15:35"
+    end_time: "16:05"
+  - title: "Break"
+    type: custom
+    date: 2026-10-20
+    start_time: "16:05"
+    end_time: "16:20"
+  - title: "Open Spaces - Block 6"
+    date: 2026-10-20
+    type: custom
+    start_time: "16:20"
+    end_time: "16:50"
+  - title: "Day 2 Wrap-up"
+    type: custom
+    date: 2026-10-20
+    start_time: "16:50"
+    end_time: "17:00"

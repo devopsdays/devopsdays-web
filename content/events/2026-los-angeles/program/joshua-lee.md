@@ -5,6 +5,7 @@ Talk_end_time = "10:45"
 Title = "DevOps is a Foreign Language (or Why There Are No Junior SREs)"
 Type = "talk"
 Speakers = ["joshua-lee"]
+Youtube = "058eX3byv6s"
 +++
 
 DevOps has a notoriously steep learning curve. Getting started in the field can feel like being dropped in a foreign country without the ability to understand *anything* about the language.

@@ -77,7 +77,7 @@ organizer_email: "bogota@devopsdays.org" # Put your organizer email address here
 sponsors:
   - id: devops-latam
     level: diamond
-  - id: devops-institute
+  - id: devops-institute-before-20260907
     level: platinum
   - id: airmeet
     level: "virtual platform"

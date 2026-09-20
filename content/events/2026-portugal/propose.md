@@ -7,7 +7,7 @@ Description = "Propose a talk for devopsdays Portugal 2026"
 <br/>
 <div class="row justify-content-center">
   <div class="col-4">
-    <a href="https://sessionize.com/kcd-porto-2026" type="button" class="btn btn-primary btn-lg btn-block">CFP is now open.</a>
+    <a href="https://sessionize.com/kcd-porto-2026" type="button" class="btn btn-primary btn-lg btn-block">CFP is now closed.</a>
   </div>
 </div>
 

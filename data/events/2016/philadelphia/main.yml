@@ -73,7 +73,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: bronze
   - id: comcast
     level: silver
-  - id: github
+  - id: github-before-20260707
     level: gold
   - id: vistarmedia
     level: bronze

@@ -184,7 +184,7 @@ sponsors:
     level: silver
   - id: saucelabs
     level: silver
-  - id: github
+  - id: github-before-20260707
     level: silver
   - id: mongodb-before-20260613
     level: bronze

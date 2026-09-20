@@ -4,12 +4,9 @@ Type = "event"
 Description = "Local do Devopsdays Curitiba 2026"
 +++
 
-Auditório Eny Caldeira do Campus Rebouças da UFPR. Avenida Sete de Setembro, 2645 – Entrada pela Rua Rockfeller. 
+Auditório Eny Caldeira do Campus Rebouças da UFPR. Avenida Sete de Setembro, 2645 – Entrada pela Rua Rockfeller.
 
-
-Transporte Público:
-
-Os horários de cada linha estão disponíveis no site da URBS: Horário de ônibus – Rede Integrada de Transporte (https://www.urbs.curitiba.pr.gov.br/horario-de-onibus).
+Próximo ao Shopping Center Estação e da Rodoferroviária. 
 
 Transporte Público:
 

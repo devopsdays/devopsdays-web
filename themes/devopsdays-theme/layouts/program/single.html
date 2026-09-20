@@ -29,6 +29,7 @@
     {{- if eq (index (split (.Permalink | relURL) "/") 2) $e.name -}}
       {{- $.Scratch.Set "base_file_name" .File.BaseFileName -}}
       {{- $.Scratch.Set .File.BaseFileName .Title -}}
+      {{- $.Scratch.Set (printf "%s-speaker" .File.BaseFileName) "" -}}
       {{- with .Params.vimeo -}}
         {{- $.Scratch.Set (printf "%s-video_link" ($.Scratch.Get "base_file_name")) (printf "https://player.vimeo.com/video/%s" .) }}
       {{- end -}}

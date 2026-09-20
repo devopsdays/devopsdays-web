@@ -20,6 +20,13 @@ If you'd like to edit a specific devopsdays event site (and/or contribute code),
 1. Start docker
 1. Run `./hugoserver.sh` from the root of this repo.
 
+#### Run Hugo using docker compose
+
+1. Start your containerisation engine (Colima, Docker, etc.)
+1. Run `make docker-server` from the root of this repo.
+
+Hugo and Node versions are read automatically from `.github/workflows/hugo.yml`.
+
 #### Run Hugo locally
 
   1. Install [Hugo](http://gohugo.io). Use the Hugo version that we use in [.github/workflows/hugo.yml](https://github.com/devopsdays/devopsdays-web/blob/main/.github/workflows/hugo.yml) file. [(Quick Install)](https://gohugo.io/getting-started/installing#binary-cross-platform)

@@ -50,14 +50,14 @@ event_social_youtube: "devopsdaysportland" # Change this to the youtube channel 
 # If not specified, defaults to all: ["email", "twitter", "facebook", "linkedin"]
 # Valid values: "email", "twitter", "facebook", "linkedin"
 # Example: social_shares: ["email", "linkedin"]  # Only show email and LinkedIn share buttons
-social_shares: # ["email", "twitter", "facebook", "linkedin"]
+social_shares: ["email", "bluesky", "mastodon", "twitter", "facebook", "linkedin"]
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+ # - name: propose
  # - name: location
   - name: registration
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -110,8 +110,40 @@ sponsors:
 #  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 #   - id: arresteddevops
 #     level: community
+  - id: zenity
+    level: silver
+  - id: redhat
+    level: silver
+  - id: flox
+    level: silver
+  - id: neo4j
+    level: silver
+  - id: overlookinfratech
+    level: happyhour
   - id: microsoftazure
     level: snack
+  - id: devitjobs
+    level: media
+  - id: tao
+    level: media
+  - id: kubeevents
+    level: media
+  - id: thenewstack
+    level: media
+  - id: fafofm
+    level: media
+  - id: mezmo
+    level: silver
+  - id: emphere
+    level: silver
+  - id: pdxwit
+    level: community
+  - id: portlanddevopsgroundup
+    level: community
+  - id: siliconflorist
+    level: community
+  - id: panic
+    level: community
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -121,24 +153,24 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: platinum
-    label: Platinum
-    max: 1
-  - id: gold
-    label: Gold
-    max: 4
+  # - id: platinum
+  #   label: Platinum
+  #   max: 1
+  # - id: gold
+  #   label: Gold
+  #   max: 4
   - id: silver
     label: Silver
     max: 12 # This is the same as omitting the max limit.
   - id: happyhour
     label: Happy Hour
     max: 1
-  - id: lanyard
-    label: Lanyard
-    max: 1
-  - id: coffee
-    label: Coffee Break
-    max: 2
+  # - id: lanyard
+  #   label: Lanyard
+  #   max: 1
+  # - id: coffee
+  #   label: Coffee Break
+  #   max: 2
   - id: snack
     label: Snacks
     max: 2

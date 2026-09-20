@@ -5,6 +5,7 @@ Talk_end_time = "14:00"
 Title = "The Ralph Wiggum Loop: How Autonomous AI Loops Built My Serverless SaaS While I Slept"
 Type = "talk"
 Speakers = ["engin-diri"]
+Youtube = "A_b1f1-mA4Q"
 +++
 
 You ask an AI assistant to build something, grab coffee, and return to find it stopped three steps in. "Should I continue?" it asks politely. You're not coding anymore. You're babysitting. Checking every five minutes saves nothing.

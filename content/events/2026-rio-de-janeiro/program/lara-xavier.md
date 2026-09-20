@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Explorando os limites do OpenTelemetry: da coleta ao impacto no negócio"
 Type = "talk"
-Speakers = ["lara-xavier"]
+Speakers = ["lara-xavier","daniel-vargas"]
 +++
 
 Nesta talk, exploro o OpenTelemetry além da instrumentação básica, mostrando como transformar telemetria em valor real para o negócio. Partimos do cenário comum: dados sendo coletados, mas pouco conectados a decisões. A partir disso, evoluímos para práticas que integram traces, métricas e logs com SLOs, SLIs e indicadores de impacto, como receita, experiência do usuário e MTTR.

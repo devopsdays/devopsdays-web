@@ -71,6 +71,12 @@ team_members: # Name is the only required field for team members.
     github: ""
     website: ""
     image: elisete-cruz.jpg
+  - name: "Gabriel Martinez"
+    employer: "ClickHouse"
+    linkedin: "https://www.linkedin.com/in/gmartinezz/"
+    twitter: ""
+    website: ""
+    image: gabriel-martinez.jpg
   - name: "Ricardo Castro"
     employer: "FanDuel"
     linkedin: "https://www.linkedin.com/in/ricardo-castro-9a039126/"
@@ -98,6 +104,60 @@ organizer_email: "portugal@devopsdays.org" # Put your organizer email address he
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+    - id: "synvertxgeeks"
+      level: "diamond"
+    - id: "aws"
+      level: "platinum"
+    - id: "victoriametrics"
+      level: "platinum"
+    - id: "komodor"
+      level: "gold"
+    - id: "mc-digital"
+      level: "gold"
+    - id: "critical-techworks"
+      level: "gold"
+    - id: "cleva"
+      level: "silver"
+    - id: "devopslisbon"
+      level: "community"
+    - id: "devopsbraga"
+      level: "community"
+    - id: "devopsnapraia"
+      level: "community"
+    - id: "aws-users-group-porto"
+      level: "community"
+    - id: "aws-users-group-lisbon"
+      level: "community"
+    - id: "aws-users-group-castelobranco"
+      level: "community"
+    - id: "leaddevmeetup"
+      level: "community"
+    - id: "viseu-tech-talks"
+      level: "community"
+    - id: "leiria-tech-talks"
+      level: "community"
+    - id: "lisbon-genai"
+      level: "community"
+    - id: "ai.pt"
+      level: "community"
+    - id: "technacalcada"
+      level: "community"
+    - id: "351-community"
+      level: "community"
+    - id: "braga-js"
+      level: "community"
+    - id: "lisbon-js-meetup"
+      level: "community"
+    - id: "cert-directory-io"
+      level: "community"
+    - id: "mergeforward"
+      level: "community"
+    - id: "pt-women-in-tech"
+      level: "community"
+    - id: "raparigas-codigo"
+      level: "community"
+    - id: "outsystems-usersgroups"
+      level: "community"
 #   - id: samplesponsorname
 #     level: gold
 #  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
@@ -109,6 +169,9 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: diamond
+    label: Diamond
+    max: 1
   - id: platinum
     label: Platinum
     max: 2

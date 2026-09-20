@@ -1,7 +1,12 @@
 +++
 Title = "DevOpsDays Campinas 2026"
 Type = "welcome"
-aliases = ["/events/2026-campinas/"]
+aliases = [
+  "/events/2026-campinas/",
+  "/events/2026-campinas/location/",
+  "/events/2026-campinas/program/",
+  "/events/2026-campinas/sponsor/"
+]
 Description = "DevOpsDays Campinas 2026"
 +++
 <style type="text/css">
@@ -101,16 +106,25 @@ a.jssocials-share-link, a.event-cta-button {
     </p>
   </div>
   <div class="sidebar">
-    <h1 style="color:#5C889F">DevOpsDays Campinas 2026</h1>
+    <h1 style="color:#5C889F">DevOpsDays Campinas 2026 (Cancelado)</h1>
     <hr/>
     <h2>Quando?</h2>
     <h3>19 de setembro de 2026</h3>
     <h4>Instituto de Computação - Unicamp</h4>
     <hr/>
-    <h2>Quer participar?</h2>
-    <h3>
-      <a href="#">Faça sua inscrição</a>
-    </h3>
+     <h2>Comunicado de cancelamento</h2>
+    <h4>
+    Lamentamos informar que a edição DevOpsDays Campinas 2026, agendada para o dia 19/09, foi cancelada. Essa decisão foi tomada pela equipe organizadora devido a desafios na captação de patrocínios e conflitos de agenda para este ano.
+
+
+Pedimos sinceras desculpas por qualquer transtorno que esta alteração possa causar e agradecemos compreensão.
+
+Nem tudo são más notícias! 
+
+Para não deixarmos o ano passar em branco, estamos preparando um Meetup especial. Será um formato mais enxuto, com vagas limitadas, mas com a mesma energia de sempre.
+
+Fiquem ligados por aqui para garantir a sua vaga assim que abrirmos as inscrições!
+    </h4>
     <hr/>
     <h2>O que vai rolar?</h2>
     <h3>
