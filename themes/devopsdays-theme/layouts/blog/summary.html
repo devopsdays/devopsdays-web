@@ -8,7 +8,7 @@
 
 </header>
 {{ if isset .Params "description" }}
-  {{ if ne .Params.descripton "" }}
+  {{ if ne .Params.description "" }}
     {{ .Params.description | markdownify }}
   {{ end }}
 {{ else }}
