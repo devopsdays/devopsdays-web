@@ -126,7 +126,7 @@ sponsor_levels:
   - id: media
     label: Media
   - id: custom
-    label: Custom
+    label: À la carte
 
 program:
   - title: "Registration, Breakfast, Sponsor Tables Open"
