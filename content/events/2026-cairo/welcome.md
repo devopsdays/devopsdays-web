@@ -8,7 +8,7 @@ Description = "DevOpsDays Cairo 2026"
 </p>
 
  
-<p>Stay tuned!
+<p>Registration is now <a href="https://macber.dev/devopsdays/register.php">Open for Free!</a>
 </p>
 
 
