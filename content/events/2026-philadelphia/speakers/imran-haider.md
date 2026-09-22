@@ -1,5 +1,5 @@
 +++
-Title = "Irman Haldeer"
+Title = "Irman Haider"
 Twitter = ""
 linkedin = ""
 image = ""
