@@ -203,8 +203,9 @@ program:
     start_time: "12:30"
     end_time: "13:30"
     comments: "Auditorium and Room 1"
-  - title: "yossi-eliaz-ignite"
+  - title: "Ignite Talk"
     type: ignite
+    block: "yossi-eliaz-ignite"
     date: 2026-10-01T00:00:00+02:00
     start_time: "13:30"
     end_time: "13:45"
@@ -214,8 +215,9 @@ program:
     date: 2026-10-01T00:00:00+02:00
     start_time: "13:30"
     end_time: "14:45"
-  - title: "precious-daka"
+  - title: "Ignite Talk"
     type: ignite
+    block: "precious-daka"
     date: 2026-10-01T00:00:00+02:00
     start_time: "14:15"
     end_time: "14:30"
@@ -359,3 +361,11 @@ program:
     date: 2026-10-02T23:59:59+02:00
     start_time: "16:30"
     end_time: "17:00"
+
+ignites:
+  - title: "yossi-eliaz-ignite"
+    date: 2026-10-01T00:00:00+02:00
+    block: "yossi-eliaz-ignite"
+  - title: "precious-daka"
+    date: 2026-10-01T00:00:00+02:00
+    block: "precious-daka"
