@@ -203,7 +203,7 @@ program:
     start_time: "12:30"
     end_time: "13:30"
     comments: "Auditorium and Room 1"
-  - title: "Ignite Talk"
+  - title: "yossi-eliaz-ignite"
     type: ignite
     date: 2026-10-01T00:00:00+02:00
     start_time: "13:30"
@@ -214,8 +214,8 @@ program:
     date: 2026-10-01T00:00:00+02:00
     start_time: "13:30"
     end_time: "14:45"
-  - title: "Ignite Talk #4 (15 min incl. Q&A)"
-    type: custom
+  - title: "precious-daka"
+    type: ignite
     date: 2026-10-01T00:00:00+02:00
     start_time: "14:15"
     end_time: "14:30"
@@ -263,7 +263,7 @@ program:
     date: 2026-10-02T23:59:59+02:00
     start_time: "09:10"
     end_time: "09:30"
-  - title: "imran-halder"
+  - title: "imran-haider"
     type: talk
     date: 2026-10-02T23:59:59+02:00
     start_time: "09:30"
@@ -300,7 +300,7 @@ program:
     date: 2026-10-02T23:59:59+02:00
     start_time: "11:15"
     end_time: "11:45"
-  - title: "yossi-eliaz-2"
+  - title: "yossi-eliaz"
     type: talk
     date: 2026-10-02T23:59:59+02:00
     start_time: "11:45"
@@ -359,7 +359,3 @@ program:
     date: 2026-10-02T23:59:59+02:00
     start_time: "16:30"
     end_time: "17:00"
-
-ignites:
-  - title: "yossi-eliaz"
-    date: 2026-10-01T00:00:00+02:00

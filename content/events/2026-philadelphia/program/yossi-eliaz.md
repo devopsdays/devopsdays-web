@@ -2,9 +2,9 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Your Agent Escaped Without Escaping the Sandbox Ignite talk"
+Title = "Forkable Snapshots: Fast, Isolated Sandboxes for Coding Agents"
 Type = "talk"
 Speakers = ["yossi-eliaz"]
 +++
 
-Every namespace and cgroup can work exactly as designed and an agent can still cause a real breach. This talk demonstrates four non-escape escapes: inherited credentials, dangerous mounts, exfiltration through an allowed endpoint, and verifier tampering. Then we close each one at the layer that can actually enforce it: real process isolation, capability-scoped filesystems, short-lived credential projection, and tamper-evident execution history. You leave with four boundaries you can check against your own agent deployment.
+Autonomous coding agents need fast, isolated environments to test and retry changes. This talk presents a forkable-snapshot sandbox architecture built for LangChain Deep Agents (open-sourced as langchain-islo), letting agents branch, execute, and roll back state in seconds instead of rebuilding containers. I'll cover why snapshot-based sandboxing beats fresh-container-per-attempt for agent workloads, the fork/execute/discard architecture, and a real benchmark where a four-step proposer pipeline went from 0/5 to 5/5 passing tasks in about 2 seconds per fork. Drawing on my background in container security (Twistlock) and AI systems engineering at Incredibuild/islo.dev, I'll share concrete lessons on isolation boundaries and orchestrating multi-agent retries safely.
