@@ -23,6 +23,8 @@ location_address: "1800 Argyle St Unit 801, Halifax, NS B3J 3N8"
 nav_elements:
   - name: location
   - name: registration
+  - name: schedule
+    url: "https://talks.devopsdays.org/halifax-2026/schedule/"
   - name: sponsor
   - name: contact
   - name: conduct

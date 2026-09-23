@@ -5,27 +5,29 @@ aliases = ["/events/2027-houston/"]
 Description = "devopsdays Houston 2027"
 +++
 
-<!-- <div style="text-align:center;">
-  {{< event_logo >}}
-</div> -->
+<div class="row">
+	<div class="col-md-8">
+  <div>
+  <p>DevOpsDays Houston will be returning in early 2027. Stay tuned!</p>
+  </div>
 
 <div class = "row">
   <div class = "col-md-2">
     <strong>Dates</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_start >}} - {{< event_end >}}
+    TBD (Early 2027) <!-- {{< event_start >}} - {{< event_end >}} -->
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_location >}}
+    TBD <!-- {{< event_location >}} -->
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -81,7 +83,24 @@ Description = "devopsdays Houston 2027"
   </div>
 </div>
 
+<!-- LinkedIn -->
+<div class="row">
+  <div class="col-md-2"></div>
+  <div class="col-md-8">
+  <script src="https://platform.linkedin.com/in.js" type="text/javascript">
+    lang: en_US 
+    authorize: true
+  </script>
+  <script type="IN/FollowCompany" data-id="35523918"></script>
+  </div>
+</div>
+
 <!-- Uncomment if you added your city twitter name -->
 <!--
 {{< event_twitter >}}
 -->
+</div>
+  <div class="col-md-4">
+          {{< event_logo >}}
+  </div>
+</div>

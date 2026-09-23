@@ -4,8 +4,8 @@ type = "speaker"
 linktitle = "oleksii-mudryk"
 image = "oleksii-mudryk.jpg"
 linkedin = "https://linkedin.com/in/moudrick"
-github = "https://github.com/moudrick"
-twitter = "https://x.com/moudrick"
+github = "moudrick"
+twitter = "moudrick"
 website = "https://moudrick.net/"
 +++
 

@@ -4,7 +4,7 @@ city: "Curitiba" # The displayed city name of the event. Capitalize it.
 #event_twitter: "devopsdays" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 event_instagram: "https://www.instagram.com/devopsdayscuritiba/" # Add your event Instagram URL here.
 description: "Devopsdays retorna a Curitiba em sua quarta edição!" # Edit this to suit your preferences
-ga_tracking_id: "G-1DCLL7WBNY" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+gtm_tracking_id: "G-1DCLL7WBNY" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2024-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2019-01-04T00:00:00+02:00

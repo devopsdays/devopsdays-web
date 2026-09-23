@@ -26,8 +26,8 @@ cfp_link: "https://sessionize.com/devopsdays-floripa26/" # #if you have a custom
 # registration_date_start: # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
 # registration_date_end: # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
 
-registration_closed: "true" #set this to true if you need to manually close registration before your registration end date
-# registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://www.sympla.com.br/evento/devopsdays-florianopolis-2026/3563063" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -42,9 +42,9 @@ event_social_instagram: "https://www.instagram.com/devopsdaysfln" # Instagram pr
 nav_elements: # List of pages you want to show up in the navigation of your page.
   # - name: propose
   # - name: location
-  # - name: registration
-  # - name: program
-  # - name: speakers
+  - name: registration
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: localização
     icon: "map-marker"
@@ -75,16 +75,15 @@ team_members: # Name is the only required field for team members.
     website: "https://www.leandrovenancio.com.br"
     linkedin: "https://www.linkedin.com/in/leandro-venancio/"
 
-  - name: "Henrique Pereira Zimermann"
-    employer: "AWS Cloud Capitain - Univali"
-    image: "henriquepereirazimermann.jpg"
-    github: "HenriqZimer"
-    website: "https://henriqzimer.com.br/"
-    linkedin: "https://www.linkedin.com/in/henrique-zimermann/"
-
   - name: "Bruno dos Santos"
     image: "bruno-dos-santos.jpg"
     linkedin: "https://www.linkedin.com/in/bruno-dos-santos-aa38b423/"
+
+  - name: "Julio Fontes"
+    employer: "DevOps &amp; MLOps Engineer"
+    image: "julio-fontes.jpeg"
+    linkedin: "https://www.linkedin.com/in/juliofontesitpro/"
+    github: "DevFontes"
 
 organizer_email: "florianopolis@devopsdays.org"
 masthead_background: "header.jpeg"
@@ -92,6 +91,8 @@ masthead_background: "header.jpeg"
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: arcelormittal
+    level: platinum
   - id: unicesusc
     level: community
   # - id: samplesponsorname
@@ -109,16 +110,102 @@ sponsor_levels:
     label: Platinum
   - id: gold
     label: Gold
-  - id: silver
-    label: Silver
-  - id: bronze
-    label: Bronze
   - id: community
     label: Community
 
-# program:
-#   - title: "Recepção / Cadastramento dos participantes"
-#     type: custom
-#     date: 2026-11-07
-#     start_time: "08:00"
-#     end_time: "09:00"
+program:
+  - title: "Recepção / Cadastramento dos participantes"
+    type: custom
+    date: 2026-10-24
+    start_time: "08:00"
+    end_time: "09:00"
+
+  - title: "Abertura do evento"
+    type: custom
+    date: 2026-10-24
+    start_time: "09:00"
+    end_time: "09:30"
+
+  - title: "eduardo-pereira"
+    type: talk
+    date: 2026-10-24
+    start_time: "09:30"
+    end_time: "10:10"
+
+  - title: "Coffee Break"
+    type: custom
+    date: 2026-10-24
+    start_time: "10:10"
+    end_time: "10:40"
+
+  - title: "thiago-xikota"
+    type: talk
+    date: 2026-10-24
+    start_time: "10:40"
+    end_time: "11:20"
+
+  - title: "andre-brandao"
+    type: talk
+    date: 2026-10-24
+    start_time: "11:20"
+    end_time: "12:00"
+
+  - title: "paloma-lataliza"
+    type: talk
+    date: 2026-10-24
+    start_time: "12:00"
+    end_time: "12:40"
+
+  - title: "Almoço"
+    type: custom
+    date: 2026-10-24
+    start_time: "12:40"
+    end_time: "13:40"
+
+  - title: "Retorno do almoço"
+    type: custom
+    date: 2026-10-24
+    start_time: "13:40"
+    end_time: "14:00"
+
+  - title: "felipe-schossler"
+    type: talk
+    date: 2026-10-24
+    start_time: "14:00"
+    end_time: "14:40"
+
+  - title: "tiago-reichert"
+    type: talk
+    date: 2026-10-24
+    start_time: "14:40"
+    end_time: "15:20"
+
+  - title: "Coffee break"
+    type: custom
+    date: 2026-10-24
+    start_time: "15:20"
+    end_time: "16:00"
+
+  - title: "TBD"
+    type: custom
+    date: 2026-10-24
+    start_time: "16:00"
+    end_time: "16:30"
+
+  - title: "enderson-menezes"
+    type: talk
+    date: 2026-10-24
+    start_time: "16:30"
+    end_time: "17:10"
+
+  - title: "Lightning Talks"
+    type: custom
+    date: 2026-10-24
+    start_time: "17:10"
+    end_time: "17:40"
+
+  - title: "Encerramento do evento com sorteios"
+    type: custom
+    date: 2026-10-24
+    start_time: "17:40"
+    end_time: "18:10"

@@ -84,6 +84,9 @@ Description = "Meet the talks for DevOpsDays Rockies 2026"
         position: relative;
         z-index: 1;
     }
+    .talk-card-header.has-image .talk-badge {
+        align-self: flex-start;
+    }
     .talk-card-header.has-image .talk-title {
         color: #ffffff;
     }
@@ -92,6 +95,9 @@ Description = "Meet the talks for DevOpsDays Rockies 2026"
     }
     .talk-badge {
         display: inline-block;
+        align-self: flex-start;
+        width: fit-content;
+        max-width: fit-content;
         padding: 4px 8px;
         font-size: 0.75rem;
         font-weight: 600;
@@ -110,6 +116,10 @@ Description = "Meet the talks for DevOpsDays Rockies 2026"
     .badge-keynote {
         background-color: #faf5ff;
         color: #6b46c1;
+    }
+    .badge-workshop {
+        background-color: #e6fffa;
+        color: #285e61;
     }
     .talk-title {
         font-size: 1.25rem;
@@ -227,17 +237,33 @@ Description = "Meet the talks for DevOpsDays Rockies 2026"
     (function() {
         var speakersUrl = 'https://talks.devopsdays.org/api/events/dodroxrox26/speakers/?limit=50';
         var submissionsUrl = 'https://talks.devopsdays.org/api/events/dodroxrox26/submissions/?limit=50';
+        var submissionTypesUrl = 'https://talks.devopsdays.org/api/events/dodroxrox26/submission-types/';
 
         var loadingElement = document.getElementById('talks-loading');
         var contentElement = document.getElementById('talks-content');
 
         Promise.all([
             fetch(speakersUrl).then(function(r) { return r.json(); }),
-            fetch(submissionsUrl).then(function(r) { return r.json(); })
+            fetch(submissionsUrl).then(function(r) { return r.json(); }),
+            fetch(submissionTypesUrl).then(function(r) { return r.json(); }).catch(function() { return null; })
         ])
         .then(function(results) {
             var speakersData = results[0];
             var submissionsData = results[1];
+            var typesData = results[2];
+
+            var typesMap = {
+                417: 'Keynote',
+                425: 'Workshop',
+                345: 'Ignite',
+                347: 'Talk'
+            };
+            if (typesData && typesData.results) {
+                typesData.results.forEach(function(t) {
+                    var name = (t.name && (t.name.en || t.name)) ? String(t.name.en || t.name) : '';
+                    typesMap[t.id] = name;
+                });
+            }
 
             var speakersMap = {};
             speakersData.results.forEach(function(speaker) {
@@ -251,10 +277,24 @@ Description = "Meet the talks for DevOpsDays Rockies 2026"
                 return sub.state === 'confirmed' && sub.speakers && sub.speakers.length > 0;
             });
 
-            // Sort: keynotes first, then regular talks, then ignites
+            function getCategory(sub) {
+                var tName = (typesMap[sub.submission_type] || '').toLowerCase();
+                if (sub.submission_type === 425 || tName.indexOf('workshop') !== -1 || (sub.title && sub.title.toLowerCase().indexOf('workshop') !== -1)) {
+                    return 'workshop';
+                }
+                if (sub.submission_type === 417 || tName.indexOf('keynote') !== -1 || (sub.duration >= 60 && sub.submission_type !== 425)) {
+                    return 'keynote';
+                }
+                if (sub.submission_type === 345 || tName.indexOf('ignite') !== -1 || sub.duration === 5) {
+                    return 'ignite';
+                }
+                return 'talk';
+            }
+
+            // Sort: keynotes first, then regular talks, then ignites, then workshops
             submissions.sort(function(a, b) {
-                function rank(d) { return d >= 45 ? 0 : d === 5 ? 2 : 1; }
-                return rank(a.duration) - rank(b.duration);
+                var rankMap = { 'keynote': 0, 'talk': 1, 'ignite': 2, 'workshop': 3 };
+                return rankMap[getCategory(a)] - rankMap[getCategory(b)];
             });
 
             // Build section containers dynamically
@@ -269,6 +309,18 @@ Description = "Meet the talks for DevOpsDays Rockies 2026"
             keynoteSectionHeader.appendChild(keynoteDivider);
             var keynoteRow = document.createElement('div');
             keynoteRow.className = 'row';
+
+            var workshopSectionHeader = document.createElement('div');
+            workshopSectionHeader.className = 'talks-section-header my-5';
+            var workshopSectionTitle = document.createElement('h2');
+            workshopSectionTitle.className = 'section-title';
+            workshopSectionTitle.innerText = 'Workshops';
+            workshopSectionHeader.appendChild(workshopSectionTitle);
+            var workshopDivider = document.createElement('hr');
+            workshopDivider.className = 'title-divider';
+            workshopSectionHeader.appendChild(workshopDivider);
+            var workshopRow = document.createElement('div');
+            workshopRow.className = 'row';
 
             var talksSectionHeader = document.createElement('div');
             talksSectionHeader.className = 'talks-section-header my-5';
@@ -296,17 +348,20 @@ Description = "Meet the talks for DevOpsDays Rockies 2026"
 
             submissions.forEach(function(talk) {
                 var duration = talk.duration;
-                var isKeynote = duration >= 45;
-                var isIgnite = duration === 5;
-                var badgeClass = isKeynote ? 'badge-keynote' : (isIgnite ? 'badge-ignite' : 'badge-talk');
-                var typeLabel = isKeynote ? '\u2605 Keynote' : (isIgnite ? 'Ignite' : 'Talk');
+                var cat = getCategory(talk);
+                var isKeynote = cat === 'keynote';
+                var isWorkshop = cat === 'workshop';
+                var isIgnite = cat === 'ignite';
+
+                var badgeClass = isKeynote ? 'badge-keynote' : (isWorkshop ? 'badge-workshop' : (isIgnite ? 'badge-ignite' : 'badge-talk'));
+                var typeLabel = isKeynote ? '\u2605 Keynote' : (isWorkshop ? 'Workshop' : (isIgnite ? 'Ignite' : 'Talk'));
 
                 var speakerNames = talk.speakers
                     .map(function(code) { return speakersMap[code] ? speakersMap[code].name : 'TBD'; })
                     .join(', ');
 
                 var col = document.createElement('div');
-                col.className = isKeynote ? 'col-md-6 col-lg-6 talk-card-col' : 'col-md-6 col-lg-4 talk-card-col';
+                col.className = (isKeynote || isWorkshop) ? 'col-md-6 col-lg-6 talk-card-col' : 'col-md-6 col-lg-4 talk-card-col';
 
                 var card = document.createElement('div');
                 card.className = 'talk-card';
@@ -407,6 +462,8 @@ Description = "Meet the talks for DevOpsDays Rockies 2026"
 
                 if (isKeynote) {
                     keynoteRow.appendChild(col);
+                } else if (isWorkshop) {
+                    workshopRow.appendChild(col);
                 } else if (isIgnite) {
                     igniteTalksRow.appendChild(col);
                 } else {
@@ -418,10 +475,18 @@ Description = "Meet the talks for DevOpsDays Rockies 2026"
                 contentElement.appendChild(keynoteSectionHeader);
                 contentElement.appendChild(keynoteRow);
             }
-            contentElement.appendChild(talksSectionHeader);
-            contentElement.appendChild(regularTalksRow);
-            contentElement.appendChild(igniteSectionHeader);
-            contentElement.appendChild(igniteTalksRow);
+            if (regularTalksRow.children.length > 0) {
+                contentElement.appendChild(talksSectionHeader);
+                contentElement.appendChild(regularTalksRow);
+            }
+            if (igniteTalksRow.children.length > 0) {
+                contentElement.appendChild(igniteSectionHeader);
+                contentElement.appendChild(igniteTalksRow);
+            }
+            if (workshopRow.children.length > 0) {
+                contentElement.appendChild(workshopSectionHeader);
+                contentElement.appendChild(workshopRow);
+            }
 
             loadingElement.style.display = 'none';
             contentElement.style.display = 'block';

@@ -1,7 +1,7 @@
 +++
 Talk_date = "2026-09-05"
-Talk_start_time = "16:30"
-Talk_end_time = "17:00"
+Talk_start_time = "11:30"
+Talk_end_time = "12:00"
 Title = "Observabilidade no Kubernetes utilizando ferramentas open source"
 Type = "talk"
 Speakers = ["thiago-rodrigues"]
