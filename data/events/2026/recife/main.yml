@@ -126,10 +126,10 @@ sponsor_levels:
   - id: silver
     label: Prata
     max: 5
-  - id: media
-    label: Mídia
   - id: community
     label: Comunidade
+  - id: media
+    label: Mídia
 
 sponsors:
   - id: uninassau-gracas
