@@ -52,10 +52,6 @@ Description = "devopsdays Portugal 2026| Collab with KCD Porto 2026"
 
   <div class="row">
     <div class = "col-md-4">
-      <h2>Propose</h2>
-      <p>Do you want to share your thoughts within the community? Join us by proposing your talk.</p>
-    </div>
-    <div class = "col-md-4">
       <h2>Sponsor</h2>
       <p>Help us run the conference by sponsoring the event. It's a great way to increase your company and brand's visibility in the community and show that you care.</p>
     </div>
