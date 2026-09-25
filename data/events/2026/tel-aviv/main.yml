@@ -15,7 +15,7 @@ enddate: 2026-12-22T00:17:00+02:00 # The end date of your event. Leave blank if 
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:   2026-08-09T00:00:00+02:00
-cfp_date_end:  2026-09-25T23:59:00+02:00
+cfp_date_end:  2026-10-05T23:59:00+02:00
 cfp_date_announce:  # inform proposers of status
 
 cfp_link: "https://in10t.ai/cfp/devopsdays-tlv-2026" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
@@ -166,7 +166,11 @@ sponsors:
     level: platinum
   - id: groundcover
     level: platinum
+  - id: groundcover
+    level: profisea
   
+  - id: terasky-only
+    level: gold
   - id: terasky-only
     level: gold
 
