@@ -106,6 +106,10 @@ sponsors:
     level: diamond
   - id: kong
     level: diamond
+  - id: mocion
+    level: diamond
+  - id: stackgen
+    level: diamond
   - id: sigitat
     level: platinum
   - id: clickhouse
@@ -113,7 +117,9 @@ sponsors:
   - id: nigma
     level: platinum
   - id: dynatrace
-    level: platinum    
+    level: platinum
+  - id: redhat
+    level: platinum
   - id: certjoin
     level: education
   - id: cloudcamp
@@ -125,7 +131,12 @@ sponsors:
   - id: aws-women
     level: community
   - id: kcd-colombia
-    level: community    
+    level: community
+  - id: xygeni
+    level: startup
+  - id: netec
+    level: startup
+
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -141,6 +152,8 @@ sponsor_levels:
     label: Platinum
   - id: gold
     label: Gold
+  - id: startup
+    label: Startup
 #    max: 10
     max: 0 # This is the same as omitting the max limit.
   - id: community
