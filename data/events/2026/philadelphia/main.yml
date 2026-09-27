@@ -55,6 +55,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   # - name: propose
   - name: location
   - name: registration
+    url: https://www.eventbrite.com/e/devopsdays-philadelphia-2026-october-1st-2nd-tickets-1998439433141?aff=devopsdays
   - name: program
   - name: speakers
   - name: sponsor
@@ -312,7 +313,7 @@ program:
     start_time: "11:15"
     end_time: "11:45"
   - title: "Talk TBD"
-    type: talk
+    type: custom
     date: 2026-10-02T23:59:59+02:00
     start_time: "11:45"
     end_time: "12:15"
@@ -337,7 +338,7 @@ program:
     type: workshop
     date: 2026-10-02T23:59:59+02:00
     start_time: "13:30"
-    end_time: "15:30"
+    end_time: "16:30"
     comments: "Room 1"
   - title: "swetha-rajshree"
     type: talk
@@ -359,11 +360,10 @@ program:
     date: 2026-10-02T23:59:59+02:00
     start_time: "14:30"
     end_time: "14:45"
-  - title: "Open Space Sessions #1 & #2"
+  - title: "Open Space Sessions #1 & #2 (Auditorium)"
     type: open-space
     date: 2026-10-02T23:59:59+02:00
     start_time: "14:45"
-    comments: "Auditorium"
     end_time: "16:30"
   - title: "Closing Remarks"
     type: custom
