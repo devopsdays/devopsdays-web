@@ -166,12 +166,14 @@ sponsors:
     level: platinum
   - id: groundcover
     level: platinum
-  - id: groundcover
-    level: profisea
+  - id: profisea
+    level: platinum
   
-  - id: terasky-only
+  - id: terasky-coderabbit
     level: gold
-  - id: terasky-only
+  - id: innocom
+    level: gold
+  - id: datadog
     level: gold
 
   - id: statscraft
