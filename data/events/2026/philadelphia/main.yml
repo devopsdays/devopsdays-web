@@ -149,18 +149,6 @@ program:
     date: 2026-10-01T00:00:00+02:00
     start_time: "09:30"
     end_time: "10:00"
-  - title: "Hackathon - TBD"
-    type: custom
-    date: 2026-10-01T00:00:00+02:00
-    start_time: "09:30"
-    end_time: "12:15"
-    comments: "Room 1"
-  - title: "Security Automation Discussion Open Space Discussion"
-    type: open-space
-    date: 2026-10-01T00:00:00+02:00
-    start_time: "09:30"
-    end_time: "11:45"
-    comments: "Room 2"
   - title: "blair-salmon"
     type: talk
     date: 2026-10-01T00:00:00+02:00
@@ -186,12 +174,6 @@ program:
     date: 2026-10-01T00:00:00+02:00
     start_time: "11:45"
     end_time: "12:15"
-  - title: "Hiring Mixer"
-    type: custom
-    date: 2026-10-01T00:00:00+02:00
-    start_time: "12:15"
-    end_time: "13:45"
-    comments: "Room 2"
   - title: "Transition Buffer / Break"
     type: custom
     date: 2026-10-01T00:00:00+02:00
@@ -205,16 +187,10 @@ program:
     comments: "Auditorium and Room 1"
   - title: "Ignite Talk"
     type: ignite
-    block: "yossi-eliaz-ignite"
+    block: ""
     date: 2026-10-01T00:00:00+02:00
     start_time: "13:30"
     end_time: "13:45"
-  - title: "ajay-chankramath"
-    type: workshop
-    comments: "Room 1"
-    date: 2026-10-01T00:00:00+02:00
-    start_time: "13:30"
-    end_time: "15:30"
   - title: "Ignite Talk"
     type: ignite
     block: "precious-daka"
@@ -231,24 +207,57 @@ program:
     date: 2026-10-01T00:00:00+02:00
     start_time: "14:45"
     end_time: "16:45"
-    comments: "Autitorium"
-  - title: "Open Space #3"
-    type: open-space
-    date: 2026-10-01T00:00:00+02:00
-    start_time: "14:30"
-    end_time: "16:45"
-    comments: "Room 2"
-  - title: "Open Space #4"
-    type: open-space
-    date: 2026-10-01T00:00:00+02:00
-    start_time: "15:30"
-    end_time: "16:45"
-    comments: "Room 1"
+    comments: "Auditorium"
   - title: "Closing Remarks"
     type: custom
     date: 2026-10-01T00:00:00+02:00
     start_time: "16:45"
     end_time: "17:00"
+
+  #Room 1
+  - title: "Hackathon - TBD"
+    type: custom
+    date: 2026-10-01T00:00:00+02:00
+    start_time: "09:30"
+    end_time: "12:15"
+    comments: "Room 1"
+  - title: "ajay-chankramath"
+    type: workshop
+    comments: "Room 1"
+    date: 2026-10-01T00:00:00+02:00
+    start_time: "13:30"
+    end_time: "15:30"
+  - title: "Open Space #4 (Room 1)"
+    type: open-space
+    date: 2026-10-01T00:00:00+02:00
+    start_time: "15:30"
+    end_time: "16:45"
+    comments: "Room 1"
+
+    #Room 2
+  - title: "Security Automation Discussion Open Space Discussion"
+    type: open-space
+    date: 2026-10-01T00:00:00+02:00
+    start_time: "09:30"
+    end_time: "11:45"
+    comments: "Room 2"
+  - title: "Hiring Mixer"
+    type: custom
+    date: 2026-10-01T00:00:00+02:00
+    start_time: "12:15"
+    end_time: "13:45"
+    comments: "Room 2"
+  - title: "Open Space #3 (Room 2)"
+    type: open-space
+    date: 2026-10-01T00:00:00+02:00
+    start_time: "14:45"
+    end_time: "16:45"
+    comments: "Room 2"
+
+
+
+# Day 2
+  #Auditorium
 
   - title: "Registration, Breakfast, Sponsor Tables Open"
     type: custom
@@ -302,7 +311,7 @@ program:
     date: 2026-10-02T23:59:59+02:00
     start_time: "11:15"
     end_time: "11:45"
-  - title: "yossi-eliaz"
+  - title: "Talk TBD"
     type: talk
     date: 2026-10-02T23:59:59+02:00
     start_time: "11:45"
@@ -363,9 +372,6 @@ program:
     end_time: "17:00"
 
 ignites:
-  - title: "yossi-eliaz-ignite"
-    date: 2026-10-01T00:00:00+02:00
-    block: "yossi-eliaz-ignite"
   - title: "precious-daka"
     date: 2026-10-01T00:00:00+02:00
     block: "precious-daka"
