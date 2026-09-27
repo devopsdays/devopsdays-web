@@ -1,66 +1,74 @@
 +++
 Title = "Sponsor"
 Type = "event"
-Description = "Sponsor devopsdays Geneva 2027"
+Description = "Sponsor DevOpsDays Geneva 2027"
 +++
+<style type="text/css">
+ div.sponsor-row img.img-fluid{
+    max-height: 70px;
+  }
+</style>
+<style>
+  thead th:not(:first-child) {
+    padding: 0 2.5rem;
+    color: white;
+    background-color: #0069d9;
+  }
+  
+  thead th:first-child {
+    font-weight: bolder;
+    font-size: 16px;
+    color: #0069d9;
+  }
+  
+  tbody tr:first-child td:not(:first-child){
+      color: white;
+      background-color: #0069d9;
+  }
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
+  tbody tr:not(:first-child) {
+    border-top: 1px dashed #BDBDBD;
+  }
+  tbody tr:last-child {
+      border-bottom: 1px dashed #BDBDBD;
+    }
+  tbody td {
+    padding: 0.5rem 0;
+  }
+</style>
 
-<hr>
+Sponsors are crucial for the success of the event, and we will show you our love better than ever :heart_eyes:
 
-devopsdays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
-<p>
-Gold sponsors get a full table and Silver sponsors a shared table where they can interact with those interested to come visit during breaks. All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
-<p>
-The best thing to do is send engineers to interact with the experts at devopsdays on their own terms.
-<p>
+If you want to sponsor this year edition, please fill in [this form](https://devopsdays-geneva.ch/sponsor.php) and if the sponsoring level you chose is still available we will quickly confirm and send you the corresponding invoice.
 
-<!--
-<hr/>
+We apply the simple rule of “first come firs served” with the order being the timestamp of the filled form.
 
-<div style="width:590px">
-<table border=1 cellspacing=1>
-  <tr>
-    <th><i>packages</i></th>
-    <th><center><b><u>Bronze<br />1000 usd</u></center></b></th>
-    <th><center><b><u>Silver<br />3000 usd</u></center></b></th>
-    <th><center><b><u>Gold<br />5000 usd</u></center></b></th>
-    <th></th>
-  </tr>
-<tr><td>2 included tickets</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on event website</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on shared slide, rotating during breaks</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on all email communication</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on its own slide, rotating during breaks</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>1 minute pitch to full audience (including streaming audience)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr></tr>
-<tr><td>2 additional tickets (4 in total)</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td>4 additional tickets (6 in total)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>shared table for swag</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td>booth/table space</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-</table>
-<hr/>
-There are also opportunities for exclusive special sponsorships. We'll have sponsors for various events with special privileges for the sponsors of these events. If you are interested in special sponsorships or have a creative idea about how you can support the event, send us an email.
-<br/>
-<br/>
+
+
+| **SPONSORS PACKS**                                              |      **EVENT**      |      **GOLD**       |    **SPEAKERS**     |     **SILVER**      |  **BRONZE**   |    **MIC**    | **COMMUNITY** |
+|-----------------------------------------------------------------|:-------------------:|:-------------------:|:-------------------:|:-------------------:|:-------------:|:-------------:|:-------------:|
+|                                                                 |   **10'000 CHF**    |    **7'000 CHF**    |    **6'000 CHF**    |    **4'000 CHF**    | **1'500 CHF** | **2'000 CHF** |   **0 CHF**   | 
+| **Number of sponsors**                                          |        **1**        |        **7**        |        **1**        |       **11**        |               |     **1**     |               |
+| **Free tickets** including sponsor team                         |        **8**        |        **5**        |        **4**        |        **3**        |     **1**     |     **2**     |     **0**     |
+| Logo on event **website**, **Posts on Social Network**          |          ✔          |          ✔          |          ✔          |          ✔          |       ✔       |       ✔       |       ✔       |
+| Logo on **dedicated slides**                                    |          ✔          |          ✔          |                     |                     |               |               |               |
+| Logo on **shared slides**                                       |                     |                     |          ✔          |          ✔          |       ✔       |       ✔       |               |
+| Logo on **all communications** (Newsletter + Roll up + Program) |          ✔          |          ✔          |          ✔          |          ✔          |               |               |               |
+| **5 Minutes pitch** - two days during the welcome speech        |          ✔          |                     |                     |                     |               |               |               |
+| **2 minutes pitch** - one time                                  |                     |          ✔          |                     |                     |               |               |               |
+| **5 Minutes pitch** - during Speaker dinner                     |                     |                     |          ✔          |                     |               |               |               |
+| Access for 2 persons to the speaker dinner                      |                     |                     |          ✔          |                     |               |               |               |
+| **Dedicated** booth                                             | **9 m<sup>2</sup>** | **6 m<sup>2</sup>** | **4 m<sup>2</sup>** | **4 m<sup>2</sup>** |               |               |               |
+| **1 dedicated page** on the program                             |          ✔          |                     |                     |                     |               |               |               |
+| **Interview** with the cameraman                                |      **5 min**      |      **2 min**      |      **2 min**      |                     |               |               |               |
+| **Share table for swag**                                        |          ✔          |          ✔          |          ✔          |          ✔          |       ✔       |       ✔       |       ✔       |
+| **Logo printed** on visitor bag                                 |          ✔          |          ✔          |          ✔          |                     |               |               |               |
+| **Logo printed** on the MIC cube                                |                     |                     |                     |                     |               |       ✔       |               |
 
 <br>
-<br>
-<table border=1 cellspacing=1>
-  <tr>
-    <th><i>Sponsor FAQ</i></th>
-    <th><center><b>Answers to questions frequently asked by sponsors&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</center></b></th>
-    <th></th>
-  </tr>
-<tr><td>What dates/times can we set up and tear down?</td><td></td></tr>
-<tr><td>How do we ship to the venue?</td><td></td></tr>
-<tr><td>How do we ship from the venue?</td><td></td></tr>
-<tr><td>Whom should we send?</td><td></td></tr>
-<tr><td>What should we expect regarding electricity? (how much, any fees, etc)</td><td></td></tr>
-<tr><td>What should we expect regarding WiFi? (how much, any fees, etc)</td><td></td></tr>
-<tr><td>How do we order additional A/V equipment?</td><td></td></tr>
-<tr><td>Additional important details</td><td></td></tr>
-</table>
-</div>
+Please keep in mind, that you accept our Code of Conduct with sponsoring this event: {{< event_link page="conduct" text="Please read the Code of Conduct" >}}
+<br><br>
 
--->
-<hr/>
+## Why DevOpsDays?
+
+DevOpsDays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.

@@ -81,8 +81,12 @@ organizer_email: "prague@devopsdays.org" # Put your organizer email address here
 sponsors:
   - id: labyrinthlabs
     level: gold
-  - id: minimus
+  - id: echo
     level: gold
+  - id: nebius
+    level: lanyard
+  - id: sky
+    level: silver
   - id: hackihub
     level: community
   - id: alicetechnologies
@@ -90,6 +94,8 @@ sponsors:
   - id: cloudnativeprg
     level: community
   - id: art4people
+    level: community
+  - id: quanti
     level: community
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -136,7 +142,7 @@ program:
     date: 2026-10-05
     start_time: "10:30"
     end_time: "10:55"
-  - title: ""
+  - title: "gerrard-ezeugwa"
     type: talk
     date: 2026-10-05
     start_time: "10:55"
@@ -192,11 +198,17 @@ program:
     end_time: "?"
 
 ignites:
-  - title: ""
+  - title: "jakub-coufal"
     date: 2026-10-05
-  - title: ""
+  - title: "saikeerthi-m"
     date: 2026-10-05
-  - title: ""
+  - title: "petr-hanak"
     date: 2026-10-05
-  - title: ""
+  - title: "david-kubec"
     date: 2026-10-05
+  - title: "nadav-harari"
+    date: 2026-10-05
+  - title: "jakub-stehlik"
+    date: 2026-10-05 
+  - title: "szymon-izydorek"
+    date: 2026-10-05 
