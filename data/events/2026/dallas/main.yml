@@ -407,7 +407,7 @@ program:
     date: "2026-09-29"
     start_time: "12:00"
     end_time: "12:45"
-  - title: "rahul-tanniru"
+  - title: "TBD"
     type: talk
     date: "2026-09-29"
     start_time: "12:45"
@@ -465,8 +465,6 @@ ignites:
   - title: "shiva-krishna-kodithyala"
     date: "2026-09-28"
   - title: "wil-mckenney"
-    date: "2026-09-29"
-  - title: "chaitanya-anne"
     date: "2026-09-29"
   - title: "lorenzo-samaniego"
     date: "2026-09-29"
