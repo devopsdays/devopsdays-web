@@ -1,8 +1,8 @@
 +++
-Title = "Ashley Gross"
+Title = "Blair Salmon"
 Twitter = ""
-linkedin = "https://www.linkedin.com/in/theashleygross/"
-image = "ashley-gross.png"
+linkedin = ""
+image = "blair-salmon.png"
 type = "speaker"
 linktitle = ""
 
