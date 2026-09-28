@@ -215,8 +215,8 @@ program:
     date: 2026-10-20
     start_time: "12:50"
     end_time: "14:00"
-  - title: "stanislav-grosman"
-    type: talk
+  - title: "Lightning Talks"
+    type: custom
     date: 2026-10-20
     start_time: "14:00"
     end_time: "14:30"
