@@ -26,6 +26,17 @@ Description = "devopsdays Tel Aviv 2026"
  <br/>
  <hr/>
 
+<div class="box" style="width: 100%; text-align: center;">
+   <span style="text-align: center;">
+       <h2 style="text-transform: uppercase; color: turquoise;">GET EVENT TICKETS</h2>
+
+     <div data-in10t-event="jhezff" data-theme="dark" style="max-width: 640px; margin: 0 auto;"></div>
+     <script src="https://in10t.ai/embed.js" async></script>
+
+ <br/>
+</div>
+ <hr/>
+
 
 <div class="box" style="width: 100%; text-align: center;">
    <span style="text-align: center;">

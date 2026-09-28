@@ -12,6 +12,8 @@ We encourage everyone, including Sponsor employees, to take part in our open Cal
 <b>We do not sell or distribute attendee information.</b> Do not ask for it. We don’t do it. <a href="https://devopsdays.org/organizing">No DevOpsDays conference does it</a>. Never. Period.
 Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers (e.g. via proposing <a href="https://devopsdays.org/open-space-format/">OpenSpace</a> topics). Any Sponsor is free to collect attendee information with mutual consensus at their booth.
 
+<a class="btn btn-primary btn-block"  style = "width: 200px; margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://devopsdays.ch/sponsor_prospectus.pdf"  target="_blank">Download Sponsoring Kit!</a>
+
 ### Sponsoring packages
 <p>
 <table border="1" width="100%" style="padding: 5px; border-collapse: collapse; border: 1px solid black;">
@@ -20,7 +22,7 @@ Sponsors are encouraged to represent themselves by actively participating and en
       <th bgcolor="#FFC000"><center><font color=white><b>Gold<br/></font></center></b></th>
       <th bgcolor="#C0C0C0"><center><font color=white><b>Silver<br/></font></center></b></th>
       <th bgcolor="#CD7F32"><center><font color=white><b>Bronze<br/></font></center></b></th>
-      <th bgcolor="#0D9850"><center><font color=white><b>Evening Event<br/></font></center></b></th>
+      <th bgcolor="#0D9850"><center><font color=white><b>Birthday Party<br/></font></center></b></th>
       <th bgcolor="#1A83A9"><center><font color=white><b>Coffee<br/></font></center></b></th>
       <th bgcolor="#1A83A9"><center><font color=white><b>Meals<br/></font></center></b></th>
       <th bgcolor="#1A83A9"><center><font color=white><b>Snacks<br/></font></center></b></th>
@@ -96,7 +98,7 @@ Sponsors are encouraged to represent themselves by actively participating and en
       <td bgcolor="#8bc2d6"><center></center></td>
     </tr>
     <tr>
-      <th><b>Logo shown at Evening Event</b></th>
+      <th><b>Roll-up displays & Giveaways<sup>4</sup> @ Birthday Party</b></th>
       <td bgcolor="#FFE8A3"><center></center></td>
       <td bgcolor="#E5E5E5"><center></center></td>
       <td bgcolor="#FFBB7F"><center></center></td>
@@ -106,7 +108,17 @@ Sponsors are encouraged to represent themselves by actively participating and en
       <td bgcolor="#8bc2d6"><center></center></td>
     </tr>
     <tr>
-      <th><b>Logo on A4 table displays @ lunch</b></th>
+      <th><b>2 Drinks @ Birthday Party branded following your proposal</b></th>
+      <td bgcolor="#FFE8A3"><center></center></td>
+      <td bgcolor="#E5E5E5"><center></center></td>
+      <td bgcolor="#FFBB7F"><center></center></td>
+      <td bgcolor="#85cdad"><center>x</center></td>
+      <td bgcolor="#8bc2d6"><center></center></td>
+      <td bgcolor="#8bc2d6"><center></center></td>
+      <td bgcolor="#8bc2d6"><center></center></td>
+    </tr>
+    <tr>
+      <th><b>Logo/advertisement on A4 table displays @ lunch</b></th>
       <td bgcolor="#FFE8A3"><center></center></td>
       <td bgcolor="#E5E5E5"><center></center></td>
       <td bgcolor="#FFBB7F"><center></center></td>
@@ -116,7 +128,17 @@ Sponsors are encouraged to represent themselves by actively participating and en
       <td bgcolor="#8bc2d6"><center></center></td>
     </tr>
     <tr>
-      <th><b>Logo on Coffee Cups<sup>4</sup></b></th>
+      <th><b>2 Roll-up displays @ lunch</b></th>
+      <td bgcolor="#FFE8A3"><center></center></td>
+      <td bgcolor="#E5E5E5"><center></center></td>
+      <td bgcolor="#FFBB7F"><center></center></td>
+      <td bgcolor="#85cdad"><center></center></td>
+      <td bgcolor="#8bc2d6"><center></center></td>
+      <td bgcolor="#8bc2d6"><center>x</center></td>
+      <td bgcolor="#8bc2d6"><center></center></td>
+    </tr>
+    <tr>
+      <th><b>Logo on Coffee Cups<sup>5</sup></b></th>
       <td bgcolor="#FFE8A3"><center></center></td>
       <td bgcolor="#E5E5E5"><center></center></td>
       <td bgcolor="#FFBB7F"><center></center></td>
@@ -126,7 +148,7 @@ Sponsors are encouraged to represent themselves by actively participating and en
       <td bgcolor="#8bc2d6"><center></center></td>
     </tr>
     <tr>
-      <th><b>Logo on Snacks<sup>4,5</sup></b></th>
+      <th><b>Logo on Snacks<sup>5,6</sup></b></th>
       <td bgcolor="#FFE8A3"><center></center></td>
       <td bgcolor="#E5E5E5"><center></center></td>
       <td bgcolor="#FFBB7F"><center></center></td>
@@ -136,41 +158,54 @@ Sponsors are encouraged to represent themselves by actively participating and en
       <td bgcolor="#8bc2d6"><center>x</center></td>
     </tr>
     <tr>
-      <th><b># Tickets included</b></th>
+      <th><b># Birthday Party tickets included<sup>7</sup></b></th>
+      <td bgcolor="#FFE8A3"><center>3</center></td>
+      <td bgcolor="#E5E5E5"><center>2</center></td>
+      <td bgcolor="#FFBB7F"><center>1</center></td>
+      <td bgcolor="#85cdad"><center>5</center></td>
+      <td bgcolor="#8bc2d6"><center>3</center></td>
+      <td bgcolor="#8bc2d6"><center>3</center></td>
+      <td bgcolor="#8bc2d6"><center>3</center></td>
+    </tr>
+    <tr>
+      <th><b># Event tickets included<sup>8</sup></b></th>
       <td bgcolor="#FFE8A3"><center>4</center></td>
       <td bgcolor="#E5E5E5"><center>4</center></td>
       <td bgcolor="#FFBB7F"><center>1</center></td>
-      <td bgcolor="#85cdad"><center>2</center></td>
+      <td bgcolor="#85cdad"><center>3</center></td>
       <td bgcolor="#8bc2d6"><center>2</center></td>
       <td bgcolor="#8bc2d6"><center>2</center></td>
       <td bgcolor="#8bc2d6"><center>2</center></td>
     </tr>
     <tr>
       <th><b># Available Packages</b></th>
-      <td bgcolor="#FFE8A3"><center>SOLD OUT</center></td>
-      <td bgcolor="#E5E5E5"><center>SOLD OUT</center></td>
-      <td bgcolor="#FFBB7F"><center>SOLD OUT</center></td>
-      <td bgcolor="#85cdad"><center>SOLD OUT</center></td>
-      <td bgcolor="#8bc2d6"><center>SOLD OUT</center></td>
-      <td bgcolor="#8bc2d6"><center>SOLD OUT</center></td>
-      <td bgcolor="#8bc2d6"><center>SOLD OUT</center></td>
+      <td bgcolor="#FFE8A3"><center>5</center></td>
+      <td bgcolor="#E5E5E5"><center>3</center></td>
+      <td bgcolor="#FFBB7F"><center>unlimited</center></td>
+      <td bgcolor="#85cdad"><center>1</center></td>
+      <td bgcolor="#8bc2d6"><center>1</center></td>
+      <td bgcolor="#8bc2d6"><center>1</center></td>
+      <td bgcolor="#8bc2d6"><center>1</center></td>
     </tr>
     <tr>
       <th><b>Price (CHF excl. 8.1% VAT)</b></th>
-      <td bgcolor="#FFE8A3"><center>8'000.-</center></td>
-      <td bgcolor="#E5E5E5"><center>5'000.-</center></td>
+      <td bgcolor="#FFE8A3"><center>8'500.-</center></td>
+      <td bgcolor="#E5E5E5"><center>5'500.-</center></td>
       <td bgcolor="#FFBB7F"><center>750.-</center></td>
-      <td bgcolor="#85cdad"><center>4'000.-</center></td>
-      <td bgcolor="#8bc2d6"><center>4'000.-</center></td>
-      <td bgcolor="#8bc2d6"><center>4'000.-</center></td>
-      <td bgcolor="#8bc2d6"><center>4'000.-</center></td>
+      <td bgcolor="#85cdad"><center>8'000.-</center></td>
+      <td bgcolor="#8bc2d6"><center>3'500.-</center></td>
+      <td bgcolor="#8bc2d6"><center>3'500.-</center></td>
+      <td bgcolor="#8bc2d6"><center>3'500.-</center></td>
     </tr>
     </table>
     <sup>1</sup> Company logo will be in slide rotation on video projectors during breaks<br>
     <sup>2</sup> Gold/Silver sponsors may choose their preferred booth location on first come, first serve basis <br>
-    <sup>3</sup> Sponsor pitches take place on day 1 or 2 on main stage in front of full audience (exception "Evening event": pitch takes place at the Evening Event venue on day 1) <br>
-    <sup>4</sup> Snacks an coffee are served during breaks on day 1 & 2 of the conference <br>
-    <sup>5</sup> Snacks are included/provided by organizers/venue. Sponsor needs to send 1000 stickers (max. 5cm x 10cm) with company logo to organizers (costs are not included in the package)<br>
+    <sup>3</sup> Sponsor pitches take place on day 1 or 2 on main stage in front of full conference audience (exception "Birthday Party": pitch takes place at the Birthday Party venue on day 1 evening) <br>
+    <sup>4</sup> Roll-up displays to be provided by Sponsor. Giveaways can be distributed by Sponsor during Birthday Party (e.g. when people enter party, on tables, ...) <br>
+    <sup>5</sup> Snacks and coffee are served during breaks on day 1 & 2 of the conference <br>
+    <sup>6</sup> Snacks are included/provided by organizers/venue. Sponsor needs to send 800 stickers (max. 5cm x 10cm) with company logo to organizers (costs are not included in the package)<br>
+    <sup>7</sup> Birthday Party tickets are provided on top of Event tickets and allow participation (only) in the Birthday Party. Tickets can be distributed as desired (e.g. among Sponsor's employees, customers, raffles, ...) <br>
+    <sup>8</sup> Event tickets allow participation in the conference (day 1 & day 2) and the Birthday Party <br>
 </p>
 
 ### Why DevOpsDays?

@@ -18,7 +18,7 @@ cfp_date_start: 2026-05-18T00:00:00+02:00 # start accepting talk proposals.
 cfp_date_end: 2026-07-25T23:59:59+02:00 # close your call for proposals.
 cfp_date_announce: # inform proposers of status
 
-cfp_open: "true"
+cfp_open: "false"
 cfp_link: "https://talks.devopsdays.org/devopsdays-cairo-2026/cfp" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
@@ -39,13 +39,14 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: propose
 #  - name: location
 #  - name: local
-#  - name: registration
-#    url: https://www.devopsdays.org.eg/registration
-#  - name: agenda
-#    url: https://www.devopsdays.org.eg/program
-#  - name: speakers
-#    url: https://www.devopsdays.org.eg/speakers  
+  - name: registration
+    url: https://macber.dev/devopsdays/register.php
+  - name: agenda
+    url: https://www.devopsdays.org.eg/program
+  - name: speakers
+    url: https://www.devopsdays.org.eg/speakers  
   - name: sponsor
+    url: https://www.devopsdays.org.eg/sponsors
   - name: contact
   - name: conduct
 # - name: example
@@ -109,9 +110,9 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: strategic
-    label: "Strategic"
-    max: 1
+#  - id: strategic
+#    label: "Strategic"
+#    max: 1
   - id: technology
     label: "Technology"
   - id: techadvocate
@@ -122,11 +123,11 @@ sponsor_levels:
   - id: governament
     label: "Governmental Organizer"
     max: 1 # to prevent "join as" string from appearing
-  - id: corporate
-    label: "Corporate Organizers"
-    max: 2 # to prevent "join as" string from appearing
+ # - id: corporate
+ #   label: "Corporate Organizers"
+ #   max: 2 # to prevent "join as" string from appearing
   - id: academia
-    label: "Academia Organizers"
+    label: "Academia"
     max: 2 # to prevent "join as" string from appearing
   - id: community
     label: Community

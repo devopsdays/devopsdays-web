@@ -153,7 +153,6 @@ Description = "DevOpsDays Halifax 2026 — September 29, 2026 in downtown Halifa
 <div class="hfx26-cta-row">
 <a class="hfx26-btn hfx26-btn-primary" href="https://tickets.devopsdays.org/devopsdays-halifax/2026/">Get Tickets</a>
 <a class="hfx26-btn hfx26-btn-secondary" href="https://talks.devopsdays.org/halifax-2026/schedule/">View Schedule</a>
-<a class="hfx26-btn hfx26-btn-secondary" href="../sponsor/">Become a Sponsor</a>
 </div>
 </div>
 <div class="explore-bar">
@@ -162,7 +161,7 @@ Description = "DevOpsDays Halifax 2026 — September 29, 2026 in downtown Halifa
 <a class="hfx26-nav-link" href="../registration/">Get Tickets</a>
 <a class="hfx26-nav-link" href="https://talks.devopsdays.org/halifax-2026/schedule/">Schedule</a>
 <a class="hfx26-nav-link" href="../location/">Venue Info</a>
-<a class="hfx26-nav-link" href="../sponsor/">Become a Sponsor</a>
+<a class="hfx26-nav-link" href="https://talks.devopsdays.org/halifax-2026/speaker/">Speakers</a>
 <a class="hfx26-nav-link" href="../convince-your-boss/">Convince Your Boss</a>
 <a class="hfx26-nav-link" href="../conduct/">Code of Conduct</a>
 <a class="hfx26-nav-link" href="../contact/">Contact Us</a>
