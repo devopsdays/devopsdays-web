@@ -8,7 +8,7 @@ linktitle = "sayeed-mohammad"
 
 +++
 
-Sayeed Mohammad is a Principal Frontend Architect and Senior Engineering Manager with over 20 years of experience building large-scale enterprise web applications across financial services, healthcare, airlines, and government sectors.
+Sayeed Mohammad is a Principal Frontend Architect with over 20 years of experience building large-scale enterprise web applications across financial services, healthcare, airlines, and government sectors.
 
 Specializing in Angular, TypeScript, RxJS, and NgRx, Sayeed has led frontend architecture decisions for major organizations including work near Westlake, TX's financial services corridor. He is deeply experienced in Nx monorepos, microfrontend architecture with Module Federation, and guiding teams through complex Angular migrations including the modern shift to Signals and zoneless change detection.
 
