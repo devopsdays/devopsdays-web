@@ -8,4 +8,4 @@ linktitle = ""
 
 +++
 
-Ashley Gross is the founder of The Alliance, an enterprise AI advisory and implementation firm, and the author of The AI Workweek, out with Wiley this month. She has spent six years building AI into the workflows of large organizations and has trained more than 2,500 professionals on the practical end of it. She works from the Research Triangle in North Carolina.
+Blair works for Liatrio, and is based in New York. Originally from New Zealand (and then Australia), he has worked on bettering platform engineering and tech resilience outcomes for over 25 years, across lots of different industries and organizations. A lot of his experience comes from seeing things go wrong, so he’s passionate about what we can learn from the past to better where AI is taking us, fast.
