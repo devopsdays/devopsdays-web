@@ -4,6 +4,8 @@ This document contains the technical details on how to set up [Hugo](https://goh
 
 If you'd like to assist in contributing to the code itself (as opposed to the content) of the website, please see the [devopsdays-theme CONTRIBUTING guidelines](https://github.com/devopsdays/devopsdays-web/blob/main/themes/devopsdays-theme/CONTRIBUTING.md).
 
+If you are working with an AI coding assistant, [AGENTS.md](AGENTS.md) is written for it, and `.claude/skills/` has step-by-step instructions for common event tasks.
+
 ## Setup
 
 If you'd like to edit a specific devopsdays event site (and/or contribute code), here's how to get started:
@@ -29,7 +31,7 @@ Hugo and Node versions are read automatically from `.github/workflows/hugo.yml`.
 
 #### Run Hugo locally
 
-  1. Install [Hugo](http://gohugo.io). Use the Hugo version that we use in [.github/workflows/hugo.yml](https://github.com/devopsdays/devopsdays-web/blob/main/.github/workflows/hugo.yml) file. [(Quick Install)](https://gohugo.io/getting-started/installing#binary-cross-platform)
+  1. Install [Hugo](http://gohugo.io) (the **extended** build). Use the Hugo version that we use in the [.github/workflows/hugo.yml](https://github.com/devopsdays/devopsdays-web/blob/main/.github/workflows/hugo.yml) file - that is the canonical version for this repo. [(Quick Install)](https://gohugo.io/getting-started/installing#binary-cross-platform)
 Examples of hugo installation with a version:
    - maxOS: `brew install hugo@<version>` (pull from [the netlify version](https://github.com/devopsdays/devopsdays-web/blob/main/netlify.toml#L21))
    - linux: `brew install hugo@<version>` (pull from [the netlify version](https://github.com/devopsdays/devopsdays-web/blob/main/netlify.toml#L21))
@@ -132,7 +134,7 @@ This confirms you are on the main branch locally, and then applies the changes f
 
 #### Acceptable changes
 
-- In general, only make changes to event content files. "Event content" means anything inside the `/content/...`, `/data/...`, or `/static/...` directories.
+- In general, only make changes to event content files. "Event content" means anything inside the `/content/...`, `/data/...`, `/assets/...`, or `/static/...` directories. Images for your event (speaker headshots, organizer photos, logos, sponsor logos) go in `/assets/...`; only social sharing cards still live in `/static/...`.
 - Changes to event-specific content should be submitted in a separate PR from changes to more general content for the whole site.
 
 #### Minimal large files
@@ -150,7 +152,7 @@ Generally speaking, you should avoid storing any files other than logos or small
 If you have permissions to merge PRs on this repo, here are a few guidelines to consider:
 
 1. Is the requestor authorized to make changes for that event? They need to appear on the contact list for the year and city they're editing.
-1. Do not allow any PRs that change files outside of the above-mentioned "content" directories. Especially watch out for `.gitignore`, `config.toml`, `config-windows.toml`, and anything in the `themes` directory. GitHub will require a review from certain maintainers/admins if specific non-content files/directories are included. See [CODEOWNERS](https://github.com/devopsdays/devopsdays-web/blob/main/.github/CODEOWNERS) for specifics.
+1. Do not allow any PRs that change files outside of the above-mentioned "content" directories. Especially watch out for `.gitignore`, anything in `config/`, and anything in the `themes` directory. GitHub will require a review from certain maintainers/admins if specific non-content files/directories are included. See [CODEOWNERS](https://github.com/devopsdays/devopsdays-web/blob/main/.github/CODEOWNERS) for specifics.
 1. Check to see if the tests pass, but use your judgement on merging something that fails (see "PR Tests" below for guidance)
 1. If you are unsure about merging a PR, please use the "request a review" button on the PR to request one from other maintainers.
 1. If you're reviewing all the details of a PR before merging or are communicating with the *Submitter*, add yourself to *Assignees* so that others know someone is waiting on a response or reviewing all the details of the PR thoroughly. Be sure to also add a comment into the PR that you are reviewing it, and if you need a change from the *Submitter* prior to merge, be sure to label the PR as `do-not-merge`.
@@ -159,7 +161,11 @@ If you have permissions to merge PRs on this repo, here are a few guidelines to 
 
 The following tests run when a PR is submitted:
 
-1. [GitHub Actions](https://github.com/devopsdays/devopsdays-web/actions) - a set of tests that confirm that all files are lowercase (in order to be friendly among all platforms people may use), that the site can be built with Hugo on Linux (ubuntu-latest) and Windows (windows-latest). There is also a test in which gulp will run html-min in order to identity if there is any invalid HTML. All three jobs (lint, build on Linux, and build on Windows) are required in order to deploy with Netlify -- regardless if the Netlify test passed or not.
+1. [GitHub Actions](https://github.com/devopsdays/devopsdays-web/actions) - four workflows run on every pull request:
+    - **test hugo** (`hugo.yml`) - a `lint` job that confirms all filenames are lowercase (in order to be friendly among all platforms people may use), followed by a `Build hugo on Linux` job. The lint job must pass before the build job runs, and both are required.
+    - **Pull Request Description Validation** (`pr.yml`) - fails if the pull request description is empty or still contains the default template text. Note that it checks for the word `Bluth` as a substring, so you cannot use the example text from the template verbatim.
+    - **Block sponsor asset changes** (`no-sponsors-changes.yml`) - fails if the pull request adds or modifies anything under `static/img/sponsors/`. Sponsor logos belong in `assets/sponsors/`. The only exemption is a filename containing `-before-<number>`, which `utilities/change_sponsor_logo.sh` creates.
+    - **Check for large files** (`large-files.yml`) - comments (but does not fail) if the pull request contains a PDF or a large file.
 1. [Netlify](https://app.netlify.com/sites/devopsdays-web) - this test builds the site, and hosts an ephemeral preview version of it (viewable by clicking on the "details" link next to the test once it has turned green). It's a good idea to view this "deploy preview" if the PR has changed anything significant (adding a sponsor, etc, probably not...but changing content in a large way? Yes.)
 
 ## Local Previews

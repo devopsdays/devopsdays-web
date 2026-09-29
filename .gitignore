@@ -15,6 +15,9 @@ staging
 .direnv
 shell.nix
 
+# per-developer AI assistant settings; the shared skills in .claude/skills/ ARE tracked
+.claude/settings.local.json
+
 # Icon must end with two \r
 Icon
 
