@@ -66,6 +66,8 @@ sponsors:
     level: gold
   - id: atomiccoffeeroasters
     level: coffee
+  - id: duplocloud
+    level: startupalley
 
 sponsors_accepted : "yes"
 
