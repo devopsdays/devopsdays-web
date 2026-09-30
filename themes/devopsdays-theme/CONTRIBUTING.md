@@ -22,11 +22,20 @@ The technical details on how to set up your local development environment for ma
          - [Collection of issues](#collection-of-issues)
       - [GitHub Labels](#github-labels)
       - [Pull Requests](#pull-requests)
-   - [Releasing](#releasing)
 
 <!-- /MDTOC -->
 
 ## Dev Setup
+
+The theme is vendored into this repository at `themes/devopsdays-theme/` - it is not a submodule, so you edit it in place.
+
+```bash
+npm install
+make deps     # copy Bootstrap and jQuery from node_modules into assets/
+make server   # build the SCSS and JS, and start Hugo on http://localhost:1313
+```
+
+Use the Hugo version pinned in [.github/workflows/hugo.yml](../../.github/workflows/hugo.yml), and use the **extended** build - the theme compiles SCSS through Hugo Pipes.
 
 ## Design Principles
 
@@ -50,7 +59,9 @@ Use this to set any SCSS variables, or to over-ride any variables used by Bootst
 This is the only place you should declare custom SCSS or CSS code.
 
 ### Colors and Layout
-The design and layout can be found in [here](https://drive.google.com/file/d/0BzljU_vIF4BoOHhLV2Yzd2xicEk/view?usp=sharing). Please refer to the [Style Guide](https://github.com/devopsdays/devopsdays-theme/blob/master/STYLE.md) for all colors, fonts, and sizes of text elements, etc.
+The core colors are defined in `assets/scss/custom-variables.scss`; everything else is in `assets/scss/custom.scss`. The program element colors are documented in [reference.md](reference.md#program-element-colors).
+
+(The style guide that used to live in the standalone `devopsdays/devopsdays-theme` repository is no longer available; that repository is archived and its `STYLE.md` has not been migrated here.)
 
 ## Asset Pipeline
 The site uses Hugo Pipes to handle asset processing. This means that:
