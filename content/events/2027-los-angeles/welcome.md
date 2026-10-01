@@ -5,7 +5,7 @@ aliases = ["/events/2027-los-angeles/"]
 Description = "DevOpsDays Los Angeles 2027"
 +++
 <br>
-<div style="text-align: center"><a href="https://register.socallinuxexpo.org/reg23/" style="font-size: 42px;">➡️ Register and join us! ⬅️</a></div>
+<div style="text-align: center"><a href="https://www.socallinuxexpo.org/scale/24x/cfp" style="font-size: 42px;">➡️ Submit your proposal! ⬅️</a></div>
 <div class = "row" id = "main-row">
   <div class = "col-md-6 push-md-8" id = "left-col">
     <hr>
