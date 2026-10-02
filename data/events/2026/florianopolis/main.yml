@@ -40,21 +40,24 @@ event_social_youtube: "devopsdaysfloripa" # Change this to the youtube channel h
 event_social_instagram: "https://www.instagram.com/devopsdaysfln" # Instagram profile URL for the event.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  # - name: propose
-  # - name: location
-  - name: registration
-  - name: program
-  - name: speakers
-  - name: sponsor
+  - name: ingressos
+    icon: "ticket"
+    url: https://www.sympla.com.br/evento/devopsdays-florianopolis-2026/3563063
+  - name: programação
+    icon: "book"
+    url: /events/2026-florianopolis/program
+  - name: palestrantes
+    icon: "microphone"
+    url: /events/2026-florianopolis/speakers
+  - name: patrocínio
+    icon: "money"
+    url: /events/2026-florianopolis/sponsor
   - name: localização
     icon: "map-marker"
     url: /events/2026-florianopolis/location
   - name: organização
     icon: "envelope-o"
     url: /events/2026-florianopolis/contact
-  # - name: programação
-  #   icon: "book"
-  #   url: /events/2026-florianopolis/program
   - name: código de conduta
     icon: "handshake-o"
     url: /events/2026-florianopolis/conduct-pt-br
@@ -126,7 +129,7 @@ program:
     start_time: "09:00"
     end_time: "09:30"
 
-  - title: "eduardo-pereira"
+  - title: "tiago-reichert"
     type: talk
     date: 2026-10-24
     start_time: "09:30"
@@ -150,7 +153,7 @@ program:
     start_time: "11:20"
     end_time: "12:00"
 
-  - title: "paloma-lataliza"
+  - title: "eduardo-pereira"
     type: talk
     date: 2026-10-24
     start_time: "12:00"
@@ -174,7 +177,7 @@ program:
     start_time: "14:00"
     end_time: "14:40"
 
-  - title: "tiago-reichert"
+  - title: "paloma-lataliza"
     type: talk
     date: 2026-10-24
     start_time: "14:40"
