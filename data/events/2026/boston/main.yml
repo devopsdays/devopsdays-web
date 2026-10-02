@@ -135,43 +135,43 @@ program:
   - title: "Open Space Proposals"
     type: custom
     date: 2026-10-19
-    start_time: "14:05"
-    end_time: "14:35"
+    start_time: "14:35"
+    end_time: "15:05"
   - title: "Break"
     type: custom
     date: 2026-10-19
-    start_time: "14:35"
-    end_time: "14:50"
+    start_time: "15:05"
+    end_time: "15:20"
   - title: "Open Spaces - Block 1"
     type: custom
     date: 2026-10-19
-    start_time: "14:50"
-    end_time: "15:20"
+    start_time: "15:20"
+    end_time: "15:50"
   - title: "Break"
     type: custom
     date: 2026-10-19
-    start_time: "15:20"
-    end_time: "15:35"
+    start_time: "15:50"
+    end_time: "16:05"
   - title: "Open Spaces - Block 2"
     type: custom
     date: 2026-10-19
-    start_time: "15:35"
-    end_time: "16:05"
+    start_time: "16:05"
+    end_time: "16:35"
   - title: "Break"
     type: custom
     date: 2026-10-19
-    start_time: "16:05"
-    end_time: "16:20"
+    start_time: "16:35"
+    end_time: "16:55"
   - title: "Open Spaces - Block 3"
     date: 2026-10-19
     type: custom
-    start_time: "16:20"
-    end_time: "16:50"
+    start_time: "16:55"
+    end_time: "17:25"
   - title: "Day 1 Wrap-up"
     type: custom
     date: 2026-10-19
-    start_time: "16:50"
-    end_time: "17:00"
+    start_time: "17:30"
+    end_time: "17:45"
 
 # Day 2
   - title: "Registration and Breakfast"
@@ -225,40 +225,40 @@ program:
   - title: "Open Space Proposals"
     type: custom
     date: 2026-10-20
-    start_time: "14:05"
-    end_time: "14:35"
+    start_time: "14:35"
+    end_time: "15:05"
   - title: "Break"
     type: custom
     date: 2026-10-20
-    start_time: "14:35"
-    end_time: "14:50"
+    start_time: "15:05"
+    end_time: "15:20"
   - title: "Open Spaces - Block 4"
     type: custom
     date: 2026-10-20
-    start_time: "14:50"
-    end_time: "15:20"
+    start_time: "15:20"
+    end_time: "15:50"
   - title: "Break"
     type: custom
     date: 2026-10-20
-    start_time: "15:20"
-    end_time: "15:35"
+    start_time: "15:50"
+    end_time: "16:05"
   - title: "Open Spaces - Block 5"
     type: custom
     date: 2026-10-20
-    start_time: "15:35"
-    end_time: "16:05"
+    start_time: "16:05"
+    end_time: "16:35"
   - title: "Break"
     type: custom
     date: 2026-10-20
-    start_time: "16:05"
-    end_time: "16:20"
+    start_time: "16:35"
+    end_time: "16:55"
   - title: "Open Spaces - Block 6"
     date: 2026-10-20
     type: custom
-    start_time: "16:20"
-    end_time: "16:50"
+    start_time: "16:55"
+    end_time: "17:25"
   - title: "Day 2 Wrap-up"
     type: custom
     date: 2026-10-20
-    start_time: "16:50"
-    end_time: "17:00"
+    start_time: "17:30"
+    end_time: "17:45"
