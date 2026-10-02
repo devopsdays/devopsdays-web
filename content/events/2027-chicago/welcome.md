@@ -10,14 +10,7 @@ Description = "Save the date: DevOpsDays Chicago is back August 10-11, 2027 for 
 </div>
 
 <br>
-Mark your calendars: DevOpsDays Chicago is coming back for another round on <strong>Tuesday-Wednesday, August 10-11, 2027</strong>, back at the UIC Forum. We're hard at work preparing for the big event and we're looking forward to seeing y'all there!<br>
-In the meantime, follow us below to stay in the know:
-<br>
-{{< event_social_linkedin >}}
-{{< event_social_listserv >}}
-{{< event_social_slack >}}
-{{< event_social_twitter >}}
-{{< event_social_youtube >}}
+Mark your calendars: DevOpsDays Chicago is coming back to the [UIC forum](https://forum.uic.edu/) for another round  <strong> August 10-11, 2027</strong>. We're hard at work preparing for the big event and we're looking forward to seeing y'all there!<br>
 <br>
 
 <div class = "row">
@@ -74,14 +67,14 @@ In the meantime, follow us below to stay in the know:
   </div>
 </div> -->
 
-<!-- <div class = "row">
+ <div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="sponsor" text="Sponsor the conference!" >}}
   </div>
-</div> -->
+</div> 
 
 <div class = "row">
   <div class = "col-md-2">
@@ -96,3 +89,13 @@ In the meantime, follow us below to stay in the know:
 <!--
 {{< event_twitter >}}
 -->
+
+<br>
+Follow us below to stay in the know:
+<br>
+{{< event_social_linkedin >}}
+{{< event_social_listserv >}}
+{{< event_social_slack >}}
+{{< event_social_twitter >}}
+{{< event_social_youtube >}}
+<br>

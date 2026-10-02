@@ -55,6 +55,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   # - name: propose
   - name: location
   - name: registration
+    url: https://www.eventbrite.com/e/devopsdays-philadelphia-2026-october-1st-2nd-tickets-1998439433141?aff=devopsdays
   - name: program
   - name: speakers
   - name: sponsor
@@ -100,7 +101,8 @@ sponsors:
     level: custom
   - id: crafted-secure
     level: custom
-
+  - id: bsides-philadelphia
+    level: custom
  #  - id: samplesponsorname
  #   level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
@@ -125,7 +127,7 @@ sponsor_levels:
   - id: media
     label: Media
   - id: custom
-    label: Custom
+    label: À la carte
 
 program:
   - title: "Registration, Breakfast, Sponsor Tables Open"
@@ -148,19 +150,7 @@ program:
     date: 2026-10-01T00:00:00+02:00
     start_time: "09:30"
     end_time: "10:00"
-  - title: "Hackathon - TBD"
-    type: custom
-    date: 2026-10-01T00:00:00+02:00
-    start_time: "09:30"
-    end_time: "12:15"
-    comments: "Room 1"
-  - title: "Security Automation Discussion Open Space Discussion"
-    type: open-space
-    date: 2026-10-01T00:00:00+02:00
-    start_time: "09:30"
-    end_time: "11:45"
-    comments: "Room 2"
-  - title: "ranjita-shetty"
+  - title: "blair-salmon"
     type: talk
     date: 2026-10-01T00:00:00+02:00
     start_time: "10:00"
@@ -185,12 +175,6 @@ program:
     date: 2026-10-01T00:00:00+02:00
     start_time: "11:45"
     end_time: "12:15"
-  - title: "Hiring Mixer"
-    type: custom
-    date: 2026-10-01T00:00:00+02:00
-    start_time: "12:15"
-    end_time: "13:45"
-    comments: "Room 2"
   - title: "Transition Buffer / Break"
     type: custom
     date: 2026-10-01T00:00:00+02:00
@@ -204,17 +188,13 @@ program:
     comments: "Auditorium and Room 1"
   - title: "Ignite Talk"
     type: ignite
+    block: ""
     date: 2026-10-01T00:00:00+02:00
     start_time: "13:30"
     end_time: "13:45"
-  - title: "ajay-chankramath"
-    type: workshop
-    comments: "Room 1"
-    date: 2026-10-01T00:00:00+02:00
-    start_time: "13:30"
-    end_time: "14:45"
-  - title: "Ignite Talk #4 (15 min incl. Q&A)"
-    type: custom
+  - title: "Ignite Talk"
+    type: ignite
+    block: "precious-daka"
     date: 2026-10-01T00:00:00+02:00
     start_time: "14:15"
     end_time: "14:30"
@@ -228,24 +208,57 @@ program:
     date: 2026-10-01T00:00:00+02:00
     start_time: "14:45"
     end_time: "16:45"
-    comments: "Autitorium"
-  - title: "Open Space #3"
-    type: open-space
-    date: 2026-10-01T00:00:00+02:00
-    start_time: "14:30"
-    end_time: "16:45"
-    comments: "Room 2"
-  - title: "Open Space #4"
-    type: open-space
-    date: 2026-10-01T00:00:00+02:00
-    start_time: "15:30"
-    end_time: "16:45"
-    comments: "Room 1"
+    comments: "Auditorium"
   - title: "Closing Remarks"
     type: custom
     date: 2026-10-01T00:00:00+02:00
     start_time: "16:45"
     end_time: "17:00"
+
+  #Room 1
+  - title: "Hackathon - TBD"
+    type: custom
+    date: 2026-10-01T00:00:00+02:00
+    start_time: "09:30"
+    end_time: "12:15"
+    comments: "Room 1"
+  - title: "ajay-chankramath"
+    type: workshop
+    comments: "Room 1"
+    date: 2026-10-01T00:00:00+02:00
+    start_time: "13:30"
+    end_time: "15:30"
+  - title: "Open Space #4 (Room 1)"
+    type: open-space
+    date: 2026-10-01T00:00:00+02:00
+    start_time: "15:30"
+    end_time: "16:45"
+    comments: "Room 1"
+
+    #Room 2
+  - title: "Security Automation Discussion Open Space Discussion"
+    type: open-space
+    date: 2026-10-01T00:00:00+02:00
+    start_time: "09:30"
+    end_time: "11:45"
+    comments: "Room 2"
+  - title: "Hiring Mixer"
+    type: custom
+    date: 2026-10-01T00:00:00+02:00
+    start_time: "12:15"
+    end_time: "13:45"
+    comments: "Room 2"
+  - title: "Open Space #3 (Room 2)"
+    type: open-space
+    date: 2026-10-01T00:00:00+02:00
+    start_time: "14:45"
+    end_time: "16:45"
+    comments: "Room 2"
+
+
+
+# Day 2
+  #Auditorium
 
   - title: "Registration, Breakfast, Sponsor Tables Open"
     type: custom
@@ -262,7 +275,7 @@ program:
     date: 2026-10-02T23:59:59+02:00
     start_time: "09:10"
     end_time: "09:30"
-  - title: "imran-halder"
+  - title: "imran-haider"
     type: talk
     date: 2026-10-02T23:59:59+02:00
     start_time: "09:30"
@@ -294,13 +307,13 @@ program:
     date: 2026-10-02T23:59:59+02:00
     start_time: "10:45"
     end_time: "11:15"
-  - title: "mehul-vani"
+  - title: "justin-oleary"
     type: talk
     date: 2026-10-02T23:59:59+02:00
     start_time: "11:15"
     end_time: "11:45"
-  - title: "yossi-eliaz-2"
-    type: talk
+  - title: "Talk TBD"
+    type: custom
     date: 2026-10-02T23:59:59+02:00
     start_time: "11:45"
     end_time: "12:15"
@@ -347,11 +360,10 @@ program:
     date: 2026-10-02T23:59:59+02:00
     start_time: "14:30"
     end_time: "14:45"
-  - title: "Open Space Sessions #1 & #2"
+  - title: "Open Space Sessions #1 & #2 (Auditorium)"
     type: open-space
     date: 2026-10-02T23:59:59+02:00
     start_time: "14:45"
-    comments: "Auditorium"
     end_time: "16:30"
   - title: "Closing Remarks"
     type: custom
@@ -360,5 +372,6 @@ program:
     end_time: "17:00"
 
 ignites:
-  - title: "yossi-eliaz"
+  - title: "precious-daka"
     date: 2026-10-01T00:00:00+02:00
+    block: "precious-daka"
