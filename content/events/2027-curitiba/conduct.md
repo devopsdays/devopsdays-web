@@ -4,15 +4,15 @@ Type = "event"
 Description = "Código de conduta do Devopsdays Curitiba 2027 / Code of conduct for Devopsdays Curitiba 2027"
 +++
 
-<b>Português (Brasil)</b>
+<p><strong>Português (Brasil)</strong></p>
 
 Todos os participantes, palestrantes, patrocinadores, voluntários e organizadores do **devopsdays Curitiba 2027** devem concordar com e respeitar o seguinte Código de Conduta. A equipe organizadora deverá aplicar estas diretrizes durante todo o evento e em todas as atividades relacionadas. Pedimos a colaboração de todos para garantir um ambiente seguro, respeitoso e inclusivo para todas as pessoas.
 
-### Versão resumida
+<h3>Versão resumida</h3>
 
 Nossa conferência tem como objetivo proporcionar uma experiência livre de assédio para todas as pessoas, independentemente de gênero, identidade de gênero e expressão, idade, orientação sexual, deficiência, aparência física, tamanho corporal, raça, etnia, religião ou escolhas tecnológicas. Não toleramos assédio de nenhuma forma. Linguagem ou imagens sexualizadas não são apropriadas em qualquer espaço do evento, incluindo palestras, workshops, festas, comunidades online e atividades relacionadas. Violações destas regras podem resultar na expulsão da conferência sem direito a reembolso, conforme decisão da equipe organizadora.
 
-### Versão detalhada
+<h3>Versão detalhada</h3>
 
 O assédio inclui comentários ofensivos relacionados a gênero, identidade de gênero e expressão, idade, orientação sexual, deficiência, aparência física, tamanho corporal, raça, etnia, religião, escolhas tecnológicas, imagens sexuais em espaços públicos, intimidação deliberada, perseguição, acompanhamento sem consentimento, fotografias ou gravações indesejadas, interrupção prolongada de palestras ou outros eventos, contato físico inadequado e atenção sexual indesejada.
 
@@ -32,15 +32,15 @@ _O Código de Conduta do Devopsdays Curitiba 2027 é baseado em [confcodeofcondu
 
 <hr>
 
-<b>English</b>
+<p><strong>English</strong></p>
 
 All participants, speakers, sponsors, volunteers, and organizers of the **Devopsdays Curitiba 2027** are expected to agree with and uphold the following Code of Conduct. The organizing team will enforce these guidelines throughout the event and at all related activities. We ask for the cooperation of everyone in order to ensure a safe, respectful, and inclusive environment for all attendees.
 
-### Short version
+<h3>Short version</h3>
 
 Our conference is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion, or technology choices. We do not tolerate harassment of participants in any form. Sexualized language or imagery is inappropriate in any event space, including talks, workshops, social events, online communities, and related activities. Violations may result in expulsion from the conference without refund, at the discretion of the organizing team.
 
-### Detailed version
+<h3>Detailed version</h3>
 
 Harassment includes offensive comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion, technology choices, sexual images in public spaces, deliberate intimidation, stalking, following, unwanted photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
 
