@@ -109,3 +109,6 @@ sponsor_levels:
   - id: coffee
     label: Coffee Break
   - id: community
+sponsors:
+  - id: kubeevents
+    level: media
