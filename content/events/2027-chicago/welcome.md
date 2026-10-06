@@ -2,7 +2,7 @@
 Title = "devopsdays Chicago 2027"
 Type = "welcome"
 aliases = ["/events/2027-chicago/"]
-Description = "devopsdays Chicago 2027"
+Description = "Save the date: DevOpsDays Chicago is back August 10-11, 2027 for two days of talks, ignites, open spaces, and way too much good-natured yak-wrangling!"
 +++
 
 <div style="text-align:center;">
@@ -10,33 +10,26 @@ Description = "devopsdays Chicago 2027"
 </div>
 
 <br>
-We're hard at work preparing for the big event and we're looking forward to seeing y'all there!<br>
-In the meantime, follow us below to stay in the know:
-<br>
-{{< event_social_linkedin >}}
-{{< event_social_listserv >}}
-{{< event_social_slack >}}
-{{< event_social_twitter >}}
-{{< event_social_youtube >}}
+Mark your calendars: DevOpsDays Chicago is coming back to the [UIC forum](https://forum.uic.edu/) for another round  <strong> August 10-11, 2027</strong>. We're hard at work preparing for the big event and we're looking forward to seeing y'all there!<br>
 <br>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Dates</strong>
   </div>
   <div class = "col-md-8">
     {{< event_start >}} - {{< event_end >}}
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -74,14 +67,14 @@ In the meantime, follow us below to stay in the know:
   </div>
 </div> -->
 
-<!-- <div class = "row">
+ <div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="sponsor" text="Sponsor the conference!" >}}
   </div>
-</div> -->
+</div> 
 
 <div class = "row">
   <div class = "col-md-2">
@@ -96,3 +89,13 @@ In the meantime, follow us below to stay in the know:
 <!--
 {{< event_twitter >}}
 -->
+
+<br>
+Follow us below to stay in the know:
+<br>
+{{< event_social_linkedin >}}
+{{< event_social_listserv >}}
+{{< event_social_slack >}}
+{{< event_social_twitter >}}
+{{< event_social_youtube >}}
+<br>

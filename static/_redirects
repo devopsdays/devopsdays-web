@@ -9,7 +9,7 @@
 /baltimore/*		/events/2025-baltimore/:splat		302
 /barcelona/*		/events/2026-barcelona/:splat		302
 /beijing/*		/events/2023-beijing/:splat		302
-/belem/*		/events/2019-belem/:splat		302
+/belem/*		/events/2026-belem/:splat		302
 /belo-horizonte/*	/events/2026-belo-horizonte/:splat	302
 /bengaluru/*		/events/2023-bengaluru/:splat		302
 /berlin/*		/events/2026-berlin/:splat		302
@@ -21,7 +21,7 @@
 /brasilia/*		/events/2026-brasilia/:splat		302
 /buffalo/*		/events/2023-buffalo/:splat		302
 /caceres/*		/events/2024-caceres/:splat		302
-/cairo/*		/events/2026-cairo/:splat		302
+/cairo/*		/events/2027-cairo/:splat		302
 /campinas/*		/events/2025-campinas/:splat		302
 /cape-town/*		/events/2020-cape-town/:splat		302
 /charlotte/*		/events/2022-charlotte/:splat		302
@@ -51,7 +51,7 @@
 /hamburg/*		/events/2010-europe/:splat		302
 /hartford/*		/events/2019-hartford/:splat		302
 /helsinki/*		/events/2014-helsinki/:splat		302
-/houston/*		/events/2024-houston/:splat		302
+/houston/*		/events/2027-houston/:splat		302
 /halifax/*		/events/2026-halifax/:splat		302
 /indianapolis/*		/events/2023-indianapolis/:splat	302
 /istanbul/*		/events/2026-istanbul/:splat		302
@@ -95,7 +95,7 @@
 /portugal/*		/events/2026-portugal/:splat		302
 /poznan/*		/events/2023-poznan/:splat		302
 /prague/*		/events/2026-prague/:splat		302
-/raleigh/*		/events/2026-raleigh/:splat		302
+/raleigh/*		/events/2027-raleigh/:splat		302
 /recife/cfp		https://talks.devopsdays.org/devopsdays-recife-2026/cfp		302
 /recife/*		/events/2026-recife/:splat		302
 /riga/*			/events/2018-riga/:splat		302
@@ -123,7 +123,7 @@
 /ukraine/*		/events/2025-kyiv/:splat		302
 /vancouver/*		/events/2024-vancouver/:splat		302
 /victoria/*		/events/2019-victoria/:splat		302
-/vitoria/*		/events/2022-vitoria/:splat		302
+/vitoria/*		/events/2027-vitoria/:splat		302
 /vilnius/*            	/events/2026-vilnius/:splat             302
 /warsaw/*		/events/2026-warsaw/:splat		302
 /washington-dc/*	/events/2025-washington-dc/:splat	302
@@ -177,7 +177,7 @@
 /almaty/*            /events/2026-almaty/:splat           302
 /organizer-summit/*            /events/2024-organiser-summit/:splat           302
 /organiser-summit/cfp          https://talks.devopsdays.org/organiser-summit-2024/cfp           302
-/belo-horizonte/*	/events/2026-belo-horizonte/:splat	302
+/belo-horizonte/*	/events/2027-belo-horizonte/:splat	302
 
 # support ghent not being in ghent
 /15year/*		/events/2024-ghent/:splat		302

@@ -26,9 +26,9 @@ aliases = [
 ]
 ```
 
-## Update `YYYY-CITY.yml`
+## Update `main.yml`
 
-If you have dates in your `data/events/YYYY-CITY.yml` file, you will want to delete them. It should look like this:
+If you have dates in your `data/events/YYYY/CITY/main.yml` file, you will want to delete them. It should look like this:
 
 ```yaml
 startdate:
@@ -51,6 +51,8 @@ coordinates:
 location:
 location_address:
 ```
+
+**Note:** if any page still uses the `{{< event_map >}}` shortcode, blanking `coordinates` will break the site build. Deleting `location.md` in the step above takes care of this; if you keep a location page for some reason, remove the shortcode from it.
 
 Make sure you turn off the ability for sponsors to be accepted:
 

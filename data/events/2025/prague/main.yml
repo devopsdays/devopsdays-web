@@ -72,7 +72,7 @@ organizer_email: "prague@devopsdays.org" # Put your organizer email address here
 sponsors:
   - id:  mews
     level: gold
-  - id:  sky
+  - id: sky-before-20260924
     level: gold
   - id: labyrinthlabs
     level: gold

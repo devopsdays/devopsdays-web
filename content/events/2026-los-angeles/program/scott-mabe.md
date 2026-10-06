@@ -5,6 +5,7 @@ Talk_end_time = "15:45"
 Title = "Gen AI for the Gen X Guy"
 Type = "talk"
 Speakers = ["scott-mabe"]
+Youtube = "hgelaM5UffU"
 +++
 
 GenAI for the GenX guy is a talk about how being a member of the forgotten apathetic generation has led to a healthy distrust of GenAI.

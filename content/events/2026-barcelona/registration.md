@@ -6,6 +6,5 @@ Description = "Registration for devopsdays Barcelona 2026"
 
 <div style="width:100%; text-align:left;">
 
-Embed registration iframe/link/etc.
-</div></div>
+{{< tix city="barcelona" year="2026" info="show" >}}
 </div>

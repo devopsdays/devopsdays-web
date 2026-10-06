@@ -1,13 +1,16 @@
 +++
 Title = "Location"
 Type = "event"
-Description = "Location for devopsdays Chicago 2027"
+Description = "DevOpsDays Chicago 2027 will be taking place at the UIC Forum, 725 West Roosevelt Road, Chicago, IL 60608"
 +++
 
-Watch this space for information about the venue including address, map/direction, parking/transit, and any hotel details.
+We're back at the UIC Forum!
 
-<!-- Uncomment this only if you have set the coordinates for your location in the config yaml. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html -->
-<!-- {{< event_map >}} -->
+*725 West Roosevelt Road, Chicago, IL 60608*
+
+{{< event_map >}}
+
+More details on parking, transit, and accessibility are coming soon — watch this space!
 
 <!-- Edit and uncomment to let people know what accessibility features you have available -->
 <!-- 

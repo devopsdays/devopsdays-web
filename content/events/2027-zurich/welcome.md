@@ -98,13 +98,13 @@ Description = "DevOpsDays Zurich 2027"
   </div>
 </div> 
 
-
+-->
 <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    <a href="https://sessionize.com/devopsdays-zurich-2025/">Propose a talk!</a>
+    <a href="https://sessionize.com/devopsdays-zurich-2027/">Propose a talk!</a>
   </div>
 </div> 
 
@@ -117,7 +117,7 @@ Description = "DevOpsDays Zurich 2027"
     {{< event_link page="sponsor" text="Sponsor the conference!" >}}
   </div>
 </div>
--->
+
 
 <div class="row">
   <div class="col-md-2">

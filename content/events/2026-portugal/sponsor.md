@@ -13,7 +13,7 @@ We greatly value sponsors for this open event.  If you are interested in sponsor
 * **Associate your company brand with a DevOps global brand**
 * **Contribute to the local DevOps reality promotion and growth**
 * **Learn from experts and practitioners**
-* **Direct contact and networking with a growing DevOps community**  
+* **Direct contact and networking with a growing DevOps community**
 
 <p>As a not-for-profit conference organized by a team of volunteers, the sponsorship will be used to support the conference expenses. The goal is to provide the best experience to attendees, speakers and sponsors.</p>
 
@@ -26,38 +26,39 @@ We greatly value sponsors for this open event.  If you are interested in sponsor
 #### Bronze
 
 * Logo in event website
-* Logo included on the conference roll-up located at the registration area
+* Logo featured across the venue on totems,banners; roolups, etc
 * Logo on video recordings (publicly available)
 * Logo in main screen between sessions
 * Provide swag for attendees (if desired)
 * Free ticket(s) for the event
+* Roll-up in the parallel room
 
 #### Silver
 
 All benefits from Bronze level sponsors PLUS:
 
-* Logo included in the conference poster located in the main room
-* Silver booth space in conference area (1mx1m) (1 px)
+* Silver booth space in conference area
+* Roll-up in the parallel room
 
 
 #### Gold
 
 All benefits from Silver level sponsors PLUS:
 
-* Gold booth space in key coffee-break areas (2mx2m) (2px) 
-* 2-minute pitch to full audience during primetime 
-* Roll-up in the main room (side of the stage) 
-* Logo highlighted (in terms of size and position) in the conference poster, main screen, and website
+* Gold booth space in conference area
+* 5-minute pitch to full audience during primetime
+* Roll-up in the main room (side of the stage)
+* Logo in the badge
 
 
 #### Platinum
 
 All benefits from Gold level sponsors PLUS:
 
-* Platinum booth space in main corridor area (3mx3m) (2px)
+* Platinum booth space in conference area
 * Roll-up in the main room (on the stage)
-* We'll name one of the open-space rooms / areas with the company name.      
-* Logo highlighted (in terms of size and position) in the conference poster, main screen, and website
+* Speaker slot in one of the tracks
+* Logo on T-shirt (sleves)
 
 
 <hr/>
@@ -75,42 +76,35 @@ All benefits from Gold level sponsors PLUS:
     </tr>
     <tr>
       <td>Price</td>
-      <td>6500 EUR</td>
-      <td>5000 EUR</td>
-      <td>3500 EUR</td>
-      <td>1500 EUR</td>
+      <td>8000 EUR</td>
+      <td>6000 EUR</td>
+      <td>4000 EUR</td>
+      <td>3000 EUR</td>
     </tr>
     <tr>
       <td>Max sponsors</td>
       <td>2</td>
-      <td>4</td>
-      <td>8</td>
+      <td>5</td>
+      <td>7</td>
       <td>10</td>
     </tr>
       <td>Free tickets*</td>
       <td>8</td>
-      <td>6</td>
-      <td>4</td>
-      <td>2</td>
+      <td>5</td>
+      <td>3</td>
+      <td>3</td>
     </tr>
     </tr>
       <td>Booth Pass*</td>
+      <td>4</td>
+      <td>3</td>
       <td>2</td>
-      <td>2</td>
-      <td>1</td>
-      <td>0</td>
+      <td>N/A</td>
     </tr>
     <tr>
-      <td>2-minute pitch to full audience</td>
+      <td>5-minute pitch to full audience</td>
       <td>Yes</td>
       <td>Yes</td>
-      <td>No</td>
-      <td>No</td>
-    </tr>
-    <tr>
-      <td>Named open-space room</td>
-      <td>Yes</td>
-      <td>No</td>
       <td>No</td>
       <td>No</td>
     </tr>
@@ -140,7 +134,7 @@ All benefits from Gold level sponsors PLUS:
       <td>Yes</td>
       <td>Yes</td>
       <td>Yes</td>
-      <td>No</td>
+      <td>Yes</td>
     </tr>
     <tr>
       <td>Logo in main screen between sessions</td>
@@ -150,11 +144,11 @@ All benefits from Gold level sponsors PLUS:
       <td>Yes</td>
     </tr>
     <tr>
-      <td>Roll-up at main room</td>
+      <td>Roll-up in venue</td>
       <td>Yes (on the stage)</td>
       <td>Yes (side of the stage)</td>
-      <td>No</td>
-      <td>No</td>
+      <td>Yes (parallel room)</td>
+      <td>Yes (parallel room)</td>
     </tr>
     <tr>
       <td>Logo on the roll-up at registration area</td>
@@ -180,7 +174,7 @@ All benefits from Gold level sponsors PLUS:
     <tr>
       <td>Logo on the badge</td>
       <td>Yes</td>
-      <td>No</td>
+      <td>Yes</td>
       <td>No</td>
       <td>No</td>
     </tr>
@@ -200,6 +194,6 @@ All benefits from Gold level sponsors PLUS:
     </tr>
   </table>
 
-  (*) Offered tickets allow for entrance in the venue and open-space activities. Total number of tickets are the sum of "free tickets" and "booth pass" fields. Sponsor employees managing the booths are included in this group of tickets. We expect the booths to be managed by a maximum of 2 employees for the Platinum and Gold booths and a single employee for Silver level booths. Therefore, Platinum has a total of 8 tickets, Gold 6, and Silver 3 as part of the sponsorship package.
+  (*) Offered tickets allow for entrance in the venue and open-space activities. Total number of tickets are the sum of "free tickets" and "booth pass" fields. Sponsor employees managing the booths are included in this group of tickets. We expect the booths to be managed by a maximum of 2 employees for the Platinum and Gold booths and a single employee for Silver level booths. Therefore, Platinum has a total of 12 tickets, Gold 8, and Silver 9 as part of the sponsorship package. All levels has 15% discount in extra tickets
 
 </div>
