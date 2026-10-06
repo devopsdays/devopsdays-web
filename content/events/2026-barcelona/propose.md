@@ -3,6 +3,8 @@ Title = "Propose"
 Type = "event"
 Description = "Propose a talk for devopsdays Barcelona 2026"
 +++
+
+<link href="/events/2026-barcelona/main.css" rel="stylesheet">
   {{< cfp_dates >}}
 
 <hr>
