@@ -100,8 +100,21 @@ a:hover.event-cta-button {
   margin: 0 auto;
 }
 
+/* Every sponsor logo gets the same box, so square marks (Datadog) and wide
+   wordmarks (Mews, Gatling) read at a similar size. */
+div.sponsor-row {
+  flex-wrap: wrap;
+}
+
+div.sponsor-row > [class*="col-"] {
+  flex: 0 0 220px;
+  max-width: 220px;
+}
+
 div.sponsor-row img.img-fluid {
-  max-height: 70px;
+  width: 100%;
+  height: 110px;
+  object-fit: contain;
 }
 
 /* The theme sets html { font-size: 14px }, so a bare rem here is 14px and

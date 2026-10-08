@@ -4,6 +4,8 @@ Type = "event"
 Description = "Program for devopsdays Barcelona 2026"
 +++
 
+<link href="/events/2026-barcelona/main.css" rel="stylesheet">
+
 <script type="text/javascript" src="https://talks.devopsdays.org/devopsdays-barcelona-2026/widgets/schedule.js"></script>
 <pretalx-schedule event-url="https://talks.devopsdays.org/devopsdays-barcelona-2026/" locale="en" format="grid" style="--pretalx-clr-primary: #3aa57c"></pretalx-schedule>
 <noscript>

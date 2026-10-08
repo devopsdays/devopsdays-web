@@ -147,6 +147,20 @@ organizer_email: "barcelona@devopsdays.org" # Put your organizer email address h
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: datadog
+    level: platinum
+  - id: grafanalabs
+    level: platinum
+  - id: progress
+    level: platinum
+  - id: redhat
+    level: supporter
+  - id: alltunerlabs
+    level: communitywear
+  - id: gatling
+    level: communitywear
+  - id: mews
+    level: communitywear
   - id: kubeevents
     level: media
 #  - id: samplesponsorname
@@ -164,12 +178,10 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
     - id: platinum
       label: Platinum
-    - id: gold
-      label: Gold
-    - id: workshop
-      label: Workshop
     - id: supporter
       label: Supporter
+    - id: communitywear
+      label: Community Wear
     - id: media
       label: Media
 
