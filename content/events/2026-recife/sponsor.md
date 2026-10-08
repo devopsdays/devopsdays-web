@@ -4,13 +4,13 @@ Type = "event"
 Description = "Patrocínio - DevOpsDays Recife 2026"
 +++
 
-O **DevOpsDays Recife** é um evento **sem fins lucrativos**, organizado por voluntários da comunidade. As cotas de patrocínio existem para **cobrir custos operacionais** (espaço, coffee, material, streaming quando houver, etc.) e **manter ingressos acessíveis**, não para gerar lucro.
+    O **DevOpsDays Recife** é um evento **sem fins lucrativos**, organizado por voluntários da comunidade. As cotas de patrocínio existem para **cobrir custos operacionais** (espaço, coffee, material, streaming quando houver, etc.) e **manter ingressos acessíveis**, não para gerar lucro.
 
-Acreditamos que **ter mais parceiros em cotas acessíveis** melhora a experiência de todo mundo: palestrantes, empresas e principalmente o **público**. A presença de instituições que apoiam a cultura DevOps amplia **networking**, **imersão** e troca real entre quem constrói e opera software no dia a dia.
+    Acreditamos que **ter mais parceiros em cotas acessíveis** melhora a experiência de todo mundo: palestrantes, empresas e principalmente o **público**. A presença de instituições que apoiam a cultura DevOps amplia **networking**, **imersão** e troca real entre quem constrói e opera software no dia a dia.
 
-Para sua empresa, patrocinar um DevOpsDays é uma forma de **apoiar a comunidade técnica**, **associar a marca a práticas modernas** de entrega e confiabilidade, **conhecer talentos** e **conversar com quem decide e implementa** — em um ambiente aberto, sem palestra comercial no lugar de conteúdo da comunidade (no formato clássico do DevOpsDays não há estandes tipo feira; os benefícios estão na tabela abaixo e no regulamento que enviamos por e-mail).
+    Para sua empresa, patrocinar um DevOpsDays é uma forma de **apoiar a comunidade técnica**, **associar a marca a práticas modernas** de entrega e confiabilidade, **conhecer talentos** e **conversar com quem decide e implementa** — em um ambiente aberto, sem palestra comercial no lugar de conteúdo da comunidade (no formato clássico do DevOpsDays não há estandes tipo feira; os benefícios estão na tabela abaixo e no regulamento que enviamos por e-mail).
 
-**Quer patrocinar ou tirar dúvidas?** Escreva para **[{{< email_organizers >}}]**.
+    **Quer patrocinar ou tirar dúvidas?** Escreva para **[{{< email_organizers >}}]**.
 
 <hr>
 
