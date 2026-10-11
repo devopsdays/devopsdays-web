@@ -58,3 +58,5 @@ Description = "Meet our speakers for DevOpsDays Barcelona 2026"
             ul.appendChild(list);
         });
 </script>
+
+<link href="/events/2026-barcelona/main.css" rel="stylesheet">
