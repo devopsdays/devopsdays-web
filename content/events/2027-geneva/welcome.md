@@ -5,9 +5,16 @@ aliases = ["/events/2027-geneva/"]
 Description = "devopsdays Geneva 2027"
 +++
 
-<!-- <div style="text-align:center;">
-  {{< event_logo >}}
-</div> -->
+<div style="text-align: center; margin: 30px auto 10px; max-width: 700px;">
+  <p style="margin-bottom: 8px; font-size: 0.9rem; font-weight: 600; letter-spacing: 3px; text-transform: uppercase; color: #6c757d;">
+    This year's theme
+  </p>
+  <h2 style="margin: 0; font-weight: 700; line-height: 1.3;">
+    Stop predicting,<br>
+    <span style="color: #ED1C24;">start shaping</span> the future of our work
+  </h2>
+  <div style="width: 80px; height: 4px; margin: 18px auto 0; background-color: #ED1C24; border-radius: 2px;"></div>
+</div>
 
 <div class="row">
     <div class="col-md-12">

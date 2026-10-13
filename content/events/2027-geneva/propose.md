@@ -18,6 +18,8 @@ DevOpsDays Geneva 2027 call for papers is open for the 8th edition!
 
 We are pleased to announce the opening of the CFP submission for the DevOpsDays 2027 conference.
 
+This year's theme is <strong>"Stop predicting, start shaping the future of our work"</strong>.
+
 {{< cfp_dates >}}
 <br>
 
