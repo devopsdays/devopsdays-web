@@ -68,6 +68,4 @@ Choosing talks is part art, part science; here are some factors we consider when
 
 <hr>
 
-<a href="https://forms.gle/eFKJ6HQmFzVssPYx6" type="button" class="btn btn-danger btn-lg btn-block">SEND A PROPOSAL</a>
-
 </div>
