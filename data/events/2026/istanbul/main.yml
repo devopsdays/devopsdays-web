@@ -126,21 +126,17 @@ organizer_email: "istanbul@devopsdays.org" # Put your organizer email address he
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
 # platinum
-# - id: akbank
-#   level: platinum
-# - id: kloia
-#   level: platinum
-# - id: bestcloudforme
-#   level: platinum
-# # gold
+- id: cloudflare
+  level: platinum
+- id: aws
+  level: platinum
+# gold
 - id: kloia
   level: gold
 - id: enterprisecoding
   level: gold
 - id: cloudbees
   level: gold
-# - id: axoft
-#   level: gold
 # silver
 # - id: turknet
 #   level: silver
@@ -159,7 +155,8 @@ sponsor_levels:
     label: Platinum
   - id: gold
     label: Gold
-  - id: silver
-    label: Silver
+# no silver this year
+#  - id: silver
+#    label: Silver
   - id: media
     label: Media
