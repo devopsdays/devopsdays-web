@@ -110,7 +110,9 @@ sponsor_levels:
     label: Coffee Break
   - id: community
 sponsors:
-  - id: teleport
-    level: gold
   - id: kubeevents
     level: media
+  - id: rapidfort
+    level: gold
+  - id: teleport
+    level: gold
