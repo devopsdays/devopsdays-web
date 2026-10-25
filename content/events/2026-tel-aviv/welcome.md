@@ -26,9 +26,10 @@ Description = "devopsdays Tel Aviv 2026"
  <br/>
  <hr/>
 
+<div style="text-align:center;">
  <a id="keynote"></a>
     <h2 class="text-gradient-sunset">&#9733; Keynote Speaker &#9733;</h2>
-    <img src="/assets/images/speakers/ofer-shacham-keynote.png" 
+    <img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/speakers/ofer-shacham-keynote.png" 
          alt="Ofer Shacham, PhD — CEO and Co-Founder, Majestic Labs"
          width="650" loading="lazy"
          style="margin-bottom: 1.5em;" />
@@ -44,10 +45,10 @@ Description = "devopsdays Tel Aviv 2026"
        <strong>DevOpsDays TLV 2026</strong>! </p>
          <p>It is few and far between we have the opportunity to have someone <em>of global renown</em> from our very own community. So we are doubly priveleged to have Dr. Shacham join us on our stage, as one of the leading silicon researchers holding a PhD from Standford, previously VP and Head of Silicon at Meta Reality Labs, as well as Google where he led Silicon Design and Implementation for the Consumer Hardware Silicon.<br />
        Tickets are on sale — register now and let's get excited about our upcoming event!</p>
-
+</div>
  <br/>
  <hr/>
- 
+
 <div class="box" style="width: 100%; text-align: center;">
    <span style="text-align: center;">
        <h2 style="text-transform: uppercase; color: turquoise;">GET EVENT TICKETS</h2>git

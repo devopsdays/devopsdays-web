@@ -30,7 +30,7 @@ Description = "Sponsor devopsdays Tel Aviv 2026"
  <hr/>
 
  ## Silver Booth Sample | 16,000ILS
-<img src="ttps://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/silver-booth.png" width="500">
+<img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/silver-booth.png" width="500">
 
  <br/>
  <hr/>
