@@ -26,9 +26,31 @@ Description = "devopsdays Tel Aviv 2026"
  <br/>
  <hr/>
 
+ <a id="keynote"></a>
+    <h2 class="text-gradient-sunset">&#9733; Keynote Speaker &#9733;</h2>
+    <img src="/assets/images/speakers/ofer-shacham-keynote.png" 
+         alt="Ofer Shacham, PhD — CEO and Co-Founder, Majestic Labs"
+         width="650" loading="lazy"
+         style="margin-bottom: 1.5em;" />
+    <ul class="icons" style="justify-content: center; margin-bottom: 1em;">
+      <li><a href="https://x.com/Majestic_Labs" target="_blank" rel="noopener noreferrer"
+             class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+      <li><a href="" target="_blank" rel="noopener noreferrer"
+             class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
+    </ul>
+    <h2 class="text-gradient-sunset">Dr. Ofer Shacham</h2>
+    <h3>CEO & Co-Founder <strong>Majestic Labs </strong></h3>
+    <p>We are thrilled to announce Dr. Ofer Shacham as the keynote speaker at
+       <strong>DevOpsDays TLV 2026</strong>! </p>
+         <p>It is few and far between we have the opportunity to have someone <em>of global renown</em> from our very own community. So we are doubly priveleged to have Dr. Shacham join us on our stage, as one of the leading silicon researchers holding a PhD from Standford, previously VP and Head of Silicon at Meta Reality Labs, as well as Google where he led Silicon Design and Implementation for the Consumer Hardware Silicon.<br />
+       Tickets are on sale — register now and let's get excited about our upcoming event!</p>
+
+ <br/>
+ <hr/>
+ 
 <div class="box" style="width: 100%; text-align: center;">
    <span style="text-align: center;">
-       <h2 style="text-transform: uppercase; color: turquoise;">GET EVENT TICKETS</h2>
+       <h2 style="text-transform: uppercase; color: turquoise;">GET EVENT TICKETS</h2>git
      <div data-in10t-event="jhezff" data-theme="dark" style="max-width: 640px; margin: 0 auto;"></div>
      <script src="https://in10t.ai/embed.js" async></script>
 

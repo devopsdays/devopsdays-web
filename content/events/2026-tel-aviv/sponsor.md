@@ -6,7 +6,7 @@ Description = "Sponsor devopsdays Tel Aviv 2026"
 
 ## We greatly value sponsors for our community events.  
 
-### If you are interested in <a href="https://tlvcommunity.dev/sponsor" target="_blank">sponsoring</a>, please drop us an email at <a href="mailto:tel-aviv@devopsdays.org?subject=I would like to learn more about sponsoring DevOpsDays">tel-aviv@devopsdays.org</a>.
+### If you are interested in <a href="https://tlvcommunity.dev/sponsor" target="_blank">sponsoring</a>, please drop us an email at <a href="mailto:tel-aviv@devopsdays.org?subject=I would like to learn more about sponsoring DevOpsDays">tel-aviv@devopsdays.org</a> you can also view our <a href="https://drive.google.com/file/d/1-hWXpVCVL1KIcv6FwIWkEtsMUvZ3EBXF/view?usp=sharing" target="_blank">sponsorship propsectus</a> to learn more.
 
  <br/>
  <hr/>
@@ -25,6 +25,12 @@ Description = "Sponsor devopsdays Tel Aviv 2026"
 
 ## Gold Booth Sample | 28,000ILS
 <img src="https://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/Gold.JPG?raw=true" width="500">
+
+ <br/>
+ <hr/>
+
+ ## Silver Booth Sample | 16,000ILS
+<img src="ttps://github.com/communitytlv/communitytlv.github.io/blob/master/assets/images/Event%20Graphics/silver-booth.png" width="500">
 
  <br/>
  <hr/>
