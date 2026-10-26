@@ -41,6 +41,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     url: /events/2026-brasilia/local
   #  - name: inscricao
   #    url: ""
+  - name: palestrantes
+    url: /events/2026-brasilia/speakers
   - name: código de conduta
     url: /events/2026-brasilia/conduct
   - name: contato
@@ -116,9 +118,19 @@ sponsor_levels:
   - id: silver
     label: Silver
     max: 5
-  - id: community
+  - id: bronze
     label: Bronze
+  - id: community
+    label: Comunidade
   - id: media
     label: Media
 
-sponsors: []
+sponsors:
+  - id: saveincloud
+    level: platinum
+  - id: 4linux
+    level: bronze
+  - id: elastic
+    level: community
+  - id: hub-connect
+    level: community
