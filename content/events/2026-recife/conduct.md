@@ -1,43 +1,46 @@
 +++
 Title = "Código de Conduta"
 Type = "event"
-Description = "Código de Conduta - DevOpsDays Recife 2026"
+Description = "Código de Conduta - DevOpsDays Recife"
 +++
 
-# Código de conduta
-<br>
-O DevOpsDays é um evento sem fins lucrativos cujo principal objetivo é promover a troca de experiências entre as pessoas sobre a cultura DevOps no Brasil.
+# Código de Conduta
 
-Este Código de Conduta será aplicado para todos enquanto participantes desse evento para proteger o público de danos e perigos morais.
+O DevOpsDays Recife deve ser um espaço seguro, acolhedor e respeitoso para todas as pessoas. Este código se aplica a participantes, palestrantes, patrocinadores, voluntários, organização e equipe do local, durante o evento e em atividades sociais relacionadas a ele.
 
-Nos dedicamos a promover um evento respeitoso e livre de assédio para todos. Não toleramos quaisquer formas de assédios ou intimidações de qualquer participante.
+## Comportamentos esperados
 
-Imagens, atividades ou materiais de conteúdo sexual, homofóbico, pejorativo e/ou discriminatório de qualquer natureza não são aceitos.
+Esperamos que todas as pessoas:
 
-Por assédio entende-se sem limitação:
+* tratem as outras com respeito e gentileza;
+* respeitem limites pessoais e profissionais;
+* contribuam para um ambiente inclusivo e livre de discriminação;
+* sigam as orientações da organização e da equipe do local;
+* interrompam imediatamente qualquer comportamento inadequado quando solicitado.
 
-  * Comentários ofensivos, verbais ou eletrônicos, relacionados a características pessoais, origem racial, orientação sexual, identidade de gênero, bem como comentários ou imagens sexuais, racistas, homofóbicas ou discriminatórias de qualquer natureza em espaços públicos ou digitais;
-  * Intimidação deliberada;
-  * Bullying;
-  * Perseguição;
-  * Encalço;
-  * Fotografias ou gravações que gerem embaraço;
-  * Interrupções reiteradas de palestras, bate-papos, reuniões eletrônicas, reuniões físicas ou outros eventos;
-  * Contato físico inadequado ou atenção sexual indesejada.
+## Comportamentos não aceitos
 
-Espera-se que os participantes cumpram imediatamente solicitações para descontinuar qualquer assédio ou comportamento de bullying. Sejam gentis com os outros. Não insultem ou ofendam outros participantes. Lembrem-se de que piadas de assédio, sexismo, racismo ou exclusão não são aceitas pela sociedade, muito menos para nosso evento.
+Não toleramos assédio, discriminação ou intimidação de qualquer natureza, incluindo:
 
-Qualquer participante que violar tais regras pode ser convidado a se retirar, a critério exclusivo dos organizadores do evento.
+* comentários ofensivos relacionados a gênero, identidade ou expressão de gênero, orientação sexual, raça, etnia, deficiência, aparência, idade, religião, origem, condição social ou escolhas tecnológicas;
+* linguagem, imagens ou atenção de natureza sexual sem consentimento;
+* ameaças, intimidação deliberada, perseguição, bullying ou contato físico inadequado;
+* fotografias, gravações ou divulgação de informações pessoais que causem constrangimento ou sejam feitas sem consentimento;
+* interrupção persistente de palestras, atividades ou conversas;
+* qualquer retaliação contra quem relatar uma preocupação ou colaborar com uma apuração.
 
-Se um participante se engajar em comportamento de assédio, os organizadores do evento podem tomar medidas que considerem adequadas, desde alertas ao infrator até a vedação de sua participação em demais eventos promovidos pelos membros da organização individual ou coletivamente.
+Patrocinadores e equipes de estandes também devem seguir este código. Não é permitido criar ambientes sexualizados, usar imagens discriminatórias ou abordar participantes de forma invasiva.
 
-Se você for assediado, perceber que alguém está sendo assediado, ou tem outras preocupações, por favor aja para interceptar ou peça ajuda aos organizadores. Estamos certos de que essa política ajudará a fazer do DevOpsDays um espaço mais acolhedor, inclusivo, e integrador para todos.
+## Como pedir ajuda
 
-Prevenção à disseminação da Covid-19 é necessário para que tenhamos um bom evento, segue recomendações e o que iremos disponibilizar no evento:
+Se você sofrer ou presenciar assédio, discriminação ou qualquer situação que cause preocupação, procure imediatamente uma pessoa da organização ou da equipe do evento. No dia do evento, você também pode procurar qualquer pessoa identificada como parte da organização ou da equipe. Você também pode enviar um relato para [recife@devopsdays.org](mailto:recife@devopsdays.org).
 
-  * Uso de mascara é recomendado durante o evento;
-  * A entrada do evento só será liberada junto ao comprovante de vacinação;
-  * Mascaras recomendadas pro evento são: Cirurgicas descartável ou PFF2 ou N95;
-  * Teremos álcool em gel disponível em vários locais do evento;
+Ao relatar uma situação, compartilhe apenas as informações com as quais se sentir confortável. Sempre que possível, informe o que aconteceu, quando e onde ocorreu, as pessoas envolvidas e eventuais testemunhas. A organização tratará os relatos com seriedade e discrição, respeitando os limites de confidencialidade possíveis.
 
-Este Código de Conduta foi adaptado a partir do código de conduta utilizado pelo DevOpsDays Porto Alegre 2016, que foi adaptado pela comunidade GTC - Grupo de Testes Carioca, que foi adaptado pelo evento LinguÁgil, que foi adaptado pelo evento Agile Trends, que foi adaptado a partir dos códigos de conduta utilizados pelo Ideias em Produção, adaptados a partir do Python Brasil 9, este por sua vez adaptados dos códigos de conduta utilizados pela Plone Foundation e pela PyCon US, e estão licenciados sob a Creative Commons Attribution-Share Alike 3.0 Unported.
+Em uma situação de risco imediato, procure a segurança do local ou os serviços públicos de emergência. A organização poderá ajudar a entrar em contato com a equipe do local ou com as autoridades competentes.
+
+## Consequências
+
+Quem receber uma solicitação para interromper um comportamento inadequado deverá cumpri-la imediatamente. A organização poderá tomar as medidas que considerar necessárias, incluindo advertência, retirada do evento sem reembolso, impedimento de participação em atividades futuras e comunicação às autoridades quando houver risco ou indício de crime.
+
+Este Código de Conduta foi baseado no [Código de Conduta para Conferências](https://confcodeofconduct.com/).
