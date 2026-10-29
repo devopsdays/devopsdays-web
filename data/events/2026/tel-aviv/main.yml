@@ -160,6 +160,9 @@ sponsors:
   - id: doit
     level: diamond
     
+  - id: daveio
+    level: emerald
+    
   - id: aws
     level: platinum
   - id: robusta
@@ -199,6 +202,8 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: diamond
     label: Diamond
+  - id: Emerald
+    label: emerald
   - id: platinum
     label: Platinum
   - id: gold
