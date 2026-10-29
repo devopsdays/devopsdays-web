@@ -43,16 +43,14 @@ Description = "DevOpsDays Brasília 2026"
         {{< event_link url-key="cfp_link" text="Submeta a sua talk!" >}}
       </div>
     </div>
-    <!-- Uncomment when registration opens
     <div class="row">
       <div class="col-md-2">
         <strong>Ingresso</strong>
       </div>
       <div class="col-md-6">
-        {{< event_link url-key="registration_link" text="Adiquira aqui!" >}}
+        {{< event_link url-key="registration_link" text="Adquira aqui!" >}}
       </div>
     </div>
-    -->
 
   </div>
   
@@ -82,6 +80,9 @@ Description = "DevOpsDays Brasília 2026"
         </div>
         <div style="witdh: auto; padding-right: 1em;">
           <a target="_blank" style="text-align:left;" class="btn btn-secondary btn-block" href="https://chat.whatsapp.com/Bbdt3KoyS2pDEt09HGJ7zi"> <i class="fa-brands fa-whatsapp fa-fw"></i>&nbsp; Whatsapp</a>
+        </div>
+        <div style="witdh: auto; padding-right: 1em;">
+          <a target="_blank" style="text-align:left;" class="btn btn-secondary btn-block" href="https://linktr.ee/devopsdaysbsb"> <i class="fa-solid fa-link fa-fw"></i>&nbsp; Linktree</a>
         </div>
       </div>
     </div>
