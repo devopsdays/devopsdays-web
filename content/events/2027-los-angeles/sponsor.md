@@ -8,7 +8,7 @@ Description = "Sponsor DevOpsDays Los Angeles 2027"
 <center><h2>Become A Sponsor</h2></center>
 <center><h3>AI as a Boon, Not a Goon: Celebrating 16 Years of Excellence</h3></center>
 <hr>
-<!-- <div style="text-align: center"><a href="https://assets.devopsdays.org/events/2027/los-angeles/devopsdayla2027_sponsor.pdf" style="font-size: 42px;">➡️ Download Our Sponsor Prospectus PDF ⬅️</a></div> -->
+<div style="text-align: center"><a href="https://assets.devopsdays.org/events/2027/los-angeles/devopsdayla2027_sponsor.pdf" style="font-size: 42px;">➡️ Download Our Sponsor Prospectus PDF ⬅️</a></div>
 <hr>
 <br>
 
@@ -30,6 +30,7 @@ Description = "Sponsor DevOpsDays Los Angeles 2027"
 </ul>
 
 <h3>Why Sponsor DevOpsDayLA 2027?</h3>
+<img src="https://assets.devopsdays.org/events/2027/los-angeles/prospectus1.png" style="width: 100%; margin: 20px 0;">
 
 <p><strong>Reach Your Target Audience:</strong> Connect with 400+ engaged DevOps practitioners, engineers, and decision-makers from across Southern California's diverse technology landscape, from entertainment and aerospace to startups and Fortune 500 companies.</p>
 
@@ -49,6 +50,7 @@ Description = "Sponsor DevOpsDays Los Angeles 2027"
 </ul>
 
 <p>Add-on opportunities include lunch sponsorship, coffee breaks, social events, and our special 16th Anniversary commemorative sponsorship.</p>
+<img src="https://assets.devopsdays.org/events/2027/los-angeles/prospectus2.png" style="width: 100%; margin: 20px 0;">
   </div>
   
   <div class = "col-md-6 pull-md-4" id = "right-col">
@@ -61,6 +63,8 @@ Description = "Sponsor DevOpsDays Los Angeles 2027"
 <p><strong>Privacy Protection:</strong> We do not share attendee contact information. Sponsors collect information directly from interested attendees at their booths or through opt-in activities.</p>
 
 <h3>Ready to Sponsor DevOpsDayLA 2027?</h3>
+
+<img src="https://assets.devopsdays.org/events/2027/los-angeles/prospectus3.png" style="width: 100%; margin: 20px 0;">
 
 <p>Contact our sponsorship team at <strong>{{< email_organizers >}}</strong> for detailed sponsorship packages, custom opportunities, and to discuss how your sponsorship can support our community goals.</p>
 
