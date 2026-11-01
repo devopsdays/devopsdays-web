@@ -159,7 +159,7 @@ organizer_email: "tel-aviv@devopsdays.org" # Put your organizer email address he
 sponsors:
   - id: doit
     level: diamond
-    
+
   - id: daveio
     level: emerald
     
@@ -202,8 +202,8 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: diamond
     label: Diamond
-  - id: Emerald
-    label: emerald
+  - id: emerald
+    label: Emerald
   - id: platinum
     label: Platinum
   - id: gold
