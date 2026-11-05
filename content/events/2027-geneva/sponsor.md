@@ -41,6 +41,19 @@ Sponsors are crucial for the success of the event, and we will show you our love
 
 If you want to sponsor this year edition, please fill in [this form](https://devopsdays-geneva.ch/sponsor.php) and if the sponsoring level you chose is still available we will quickly confirm and send you the corresponding invoice.
 
+<div class="row">
+    <div class="col-md-12">
+      <div class="row justify-content-center">
+        <div class="d-flex p-2">
+          <a class="btn btn-primary btn-block"
+            style="margin-top: 15px; margin-bottom: 15px; background-color: #ED1C24; border-color: #ED1C24;"
+            href="https://devopsdays-geneva.ch/sponsor.php">
+            <i class="fa fa-handshake fa-lg"></i>&nbsp;&nbsp;&nbsp;Become a sponsor</a>
+        </div>
+      </div>
+    </div>
+</div>
+
 We apply the simple rule of “first come firs served” with the order being the timestamp of the filled form.
 
 
