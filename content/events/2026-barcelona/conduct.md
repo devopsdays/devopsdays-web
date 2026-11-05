@@ -8,35 +8,34 @@ Description = "Code of conduct for DevOpsDays Barcelona 2026"
 
 <div class="bcn-wrap">
 
-<p class="bcn-lead">All attendees, speakers, sponsors, and volunteers at DevOpsDays Barcelona 2026 are required to agree with the following code of conduct. Organizers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensure a safe environment for everybody.</p>
+<p class="bcn-lead">DevOpsDays Barcelona 2026 follows the <a href="/conduct/">DevOpsDays code of conduct</a>, with an appendix of rules specific to Barcelona. It applies to everyone taking part: attendees, speakers, sponsors and their staff, volunteers and organisers. The same rules and the same consequences apply to all of them.</p>
 
-<h2>The Quick Version</h2>
+<div class="bcn-cta">
+  <p><strong>Read the full Code of Conduct</strong><br>This page is a summary. The full text is the reference, and is available in three languages.</p>
+  <a class="bcn-btn" href="https://drive.google.com/file/d/1DMf9TXr2xiCJfH2USfjMGfq2oygtgH27/view?usp=drive_link" target="_blank" rel="noopener" lang="en" hreflang="en">English (PDF)</a>
+  <a class="bcn-btn" href="https://drive.google.com/file/d/1Kb0pqfF870ETNrHOZFjRstZtPtzdcMGu/view?usp=drive_link" target="_blank" rel="noopener" lang="es" hreflang="es">Español (PDF)</a>
+  <a class="bcn-btn" href="https://drive.google.com/file/d/18SXHkXKoxkDYo5BwzKip2Pw4eHNUS5bS/view?usp=drive_link" target="_blank" rel="noopener" lang="ca" hreflang="ca">Català (PDF)</a>
+</div>
 
-Our conference is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organisers.
+<h2>The Short Version</h2>
 
-<hr class="bcn-rule">
+- **Respect everyone.** No harassment of anyone, in any form, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), technology choices, or any other personal characteristic.
+- **No sexual language or imagery**, in person or online.
+- **If you are asked to stop, stop immediately.**
+- **It applies wherever the event does:** the venue and the official programme; official socials and evening events, including those hosted by sponsors under the DevOpsDays Barcelona name; and online spaces run or endorsed by the event, such as the event chat, the hashtag, the streaming chat, and communication between the organisers, speakers and sponsors.
 
-<h2>The Less Quick Version</h2>
-
-Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion, technology choices, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
-
-Participants asked to stop any harassing behavior are expected to comply immediately.
-
-Sponsors are also subject to the anti-harassment policy. In particular, sponsors should not use sexualised images, activities, or other material. Booth staff (including volunteers) should not use sexualised clothing/uniforms/costumes, or otherwise create a sexualised environment.
-
-If a participant engages in harassing behavior, the conference organisers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund.
+Harassment includes offensive verbal or written comments related to any of the characteristics above, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
 
 <div class="bcn-panel alert">
   <h3>If You Need Help</h3>
-  <p>If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately. Conference staff can be identified as they'll be wearing branded clothing and/or badges.</p>
-  <p>Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.</p>
-  <p>You can also reach the organizers at {{< email_organizers >}}</p>
+  <p>If you are being harassed, notice that someone else is being harassed, or have any other concern, contact the Code of Conduct committee:</p>
+  <ul>
+    <li><strong>In person:</strong> any committee member at the event. Committee members are introduced during the opening remarks. The committee is available at all official events, including the speaker dinner and the socials, and stays sober throughout.</li>
+    <li><strong>Email:</strong> <a href="mailto:barcelona-coc@devopsdays.org">barcelona-coc@devopsdays.org</a></li>
+    <li><strong>Discord:</strong> the committee or the moderators on the official event Discord server.</li>
+  </ul>
+  <p>A report about a Barcelona organiser goes to the committee member from the DevOpsDays global community, not to the Barcelona organisers.</p>
+  <p>Who is on the committee, how reports are handled, the possible consequences, appeals, and how your data is kept are all set out in the full Code of Conduct above.</p>
 </div>
-
-We expect participants to follow these rules at conference and workshop venues and conference-related social events.
-
-<hr class="bcn-rule">
-
-_The DevOpsDays Barcelona 2026 Code of Conduct is based on [confcodeofconduct.com](https://confcodeofconduct.com)._
 
 </div>
