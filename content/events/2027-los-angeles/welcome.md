@@ -5,7 +5,7 @@ aliases = ["/events/2027-los-angeles/"]
 Description = "DevOpsDays Los Angeles 2027"
 +++
 <br>
-<div style="text-align: center"><a href="https://www.socallinuxexpo.org/scale/24x/cfp" style="font-size: 42px;">➡️ Submit your proposal! ⬅️</a></div>
+<div style="text-align: center"><a href="https://assets.devopsdays.org/events/2027/los-angeles/devopsdayla2027_sponsor.pdf" style="font-size: 42px;">➡️ Interested in sponsoring? Download our prospectus! ⬅️</a></div>
 <div class = "row" id = "main-row">
   <div class = "col-md-6 push-md-8" id = "left-col">
     <hr>
@@ -47,7 +47,7 @@ Description = "DevOpsDays Los Angeles 2027"
     <p><em>Part of SCaLE 24x - Co-located with the Southern California Linux Expo</em></p>
     <h4>Get Involved</h4>
     <ul>
-    <li><strong>{{< event_link page="propose" text="Submit a Proposal" >}}</strong> - Share your SoCal DevOps story</li>
+    <li><strong>{{< event_link page="propose" text="Submit a Proposal" >}}</strong> - CFP is now closed</li>
     <li><strong><a href="https://register.socallinuxexpo.org/reg23/">Register to Attend</a></strong> - Join the conversation</li>
     <li><strong>{{< event_link page="sponsor" text="Become a Sponsor" >}}</strong> - Support our community</li>
     <li><strong>{{< event_link page="volunteer" text="Volunteer" >}}</strong> - Help make it happen</li>

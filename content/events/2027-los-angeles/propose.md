@@ -10,7 +10,7 @@ Description = "Propose a talk for DevOpsDays Los Angeles 2027"
 <br>
 <strong>Sept 1, 2026</strong>: CFP Opens
 <br>
-<strong>Nov 1, 2026</strong>: Proposal submission deadline
+<strong>Oct 31, 2026</strong>: Proposal submission deadline
 <br>
 <strong>Dec 1, 2026</strong>: Acceptance notifications begin
 <br>
@@ -19,7 +19,7 @@ Description = "Propose a talk for DevOpsDays Los Angeles 2027"
 </center>
 <hr>
 <center>
-  <h2><a href="https://www.socallinuxexpo.org/scale/24x/cfp" style="font-size: 1.5em; padding: 5 10px;text-decoration: none; border-radius: 5px;">&gt;&gt;&gt; Submit your proposal here &lt;&lt;&lt;</a></h2>
+  <h2>The CFP is now closed. Thank you for your submissions!</h2>
 </center>
 <hr>
 
@@ -174,7 +174,7 @@ DevOpsDayLA 2027 isn't just another AI conference. We want the honest version (t
 <h3>Timeline</h3>
 <ul>
 <li><strong>Sept 1, 2026:</strong> CFP Opens</li>
-<li><strong>Nov 1, 2026:</strong> Submission deadline</li>
+<li><strong>Oct 31, 2026:</strong> Submission deadline</li>
 <li><strong>Dec 1, 2026:</strong> Acceptance notifications begin</li>
 <li><strong>Apr 2, 2027:</strong> DevOpsDayLA</li>
 </ul>
