@@ -67,23 +67,25 @@ Description = "devopsdays Warsaw 2026"
 <div class="text-section">
   <div class="text-section-col">
 
-## DevOpsDays Warsaw 2026
+## IMPORTANT ANNOUNCEMENT <br>DevOpsDays Warsaw 2026 cancelled
 
-A Polish edition of the well-known, international conference, will be held on November, 23-24th in Warsaw. Feel invited for two days full of substantive lectures from the DevOps field and great fun in the best company.
+**We've made the difficult decision to cancel the conference scheduled for 23-24 November 2026.**
 
-## What is DevOpsDays Warsaw?
+Despite our efforts, we haven't managed to reach the number of attendees needed to deliver the event in its originally planned format and scale.
 
-DevOpsDays is an international conference for all DevOps enthusiasts, developers, IT operations, management, CEO’s, sales, marketing teams and sys admins. Worldwide series of technical conferences covering topics of software development, IT infrastructure operations, and the intersection between them. Topics often include automation, testing, security, and organizational culture. Following the idea of DevOps – everyone who is responsible for the development and efficiency of the Internet service can feel invited!
+This wasn't an easy decision, especially with the conference just around the corner. However, we don't want to deliver an event that would significantly differ from what we originally promised.
 
-## Why is it worth to join us?
+## What happens if you've already purchased a ticket?
 
-Our participants come from various backgrounds, including software development, system administration, QA, product and engineering management, business analytics, and security. This diverse group of practitioners will share their knowledge and experiences on delivering technology projects with the latest trends. Come and join us to learn and share the latest IT solutions and cultural experiences in the tech community.
+You're entitled to a full refund. We'll contact all ticket holders individually with more information and the next steps.
+
+Thank you for your interest in DevOpsDays Warsaw and for all the conversations, messages, and support we've received throughout the preparations.
+
+We're sorry we won't get to see you in Warsaw this time.
+
   </div>
 
   <div class="text-section-col">
-    <a href="https://devopsdays.pl/#schedule" type="button" class="btn btn-primary btn-lg btn-block">PROGRAM</a>
-    <a href="https://eventory.cc/event/devopsdays-warsaw-2026/tickets" type="button" class="btn btn-primary btn-lg btn-block">GET A TICKET</a>
-    <a href="/events/2026-warsaw/sponsor" type="button" class="btn btn-primary btn-lg btn-block">SPONSOR</a>
     <a href="/events/2026-warsaw/contact" type="button" class="btn btn-primary btn-lg btn-block">CONTACT</a>
   </div>
 
