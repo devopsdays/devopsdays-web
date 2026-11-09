@@ -116,7 +116,7 @@ organizer_email: "goiania@devopsdays.org" # Put your organizer email address her
 sponsors:
   - id: elastic
     level: gold
-  - id: saveincloud
+  - id: saveincloud-before-20261026
     level: gold
     url: https://saveincloud.com/pt/solucoes-cloud/cloud-containers/cloud-kubernetes/
   - id: aws-user-group-goiania
