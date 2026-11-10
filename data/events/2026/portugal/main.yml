@@ -223,11 +223,6 @@ program:
     date: 2026-11-19T00:00:00+01:00
     start_time: "11:30"
     end_time: "12:00"
-  # - title: "Sponsors"
-  #   type: custom
-  #   date: 2026-11-19T00:00:00+01:00
-  #   start_time: "11:10"
-  #   end_time: "11:20"
   - title: "nuno-guedes"
     type: talk
     date: 2026-11-19T00:00:00+01:00
@@ -284,46 +279,6 @@ program:
     date: 2026-11-19T00:00:00+01:00
     start_time: "18:30"
     end_time: "19:30"
-  # - title: "Ignites"
-  #   type: custom
-  #   date: 2026-11-19T00:00:00+01:00
-  #   start_time: "13:00"
-  #   end_time: "13:30"
-  # - title: "Open Space Opening"
-  #   type: custom
-  #   date: 2026-11-19T00:00:00+01:00
-  #   start_time: "13:30"
-  #   end_time: "14:00"
-  # - title: "Open Space #1"
-  #   type: custom
-  #   date: 2026-11-19T00:00:00+01:00
-  #   start_time: "14:00"
-  #   end_time: "14:45"
-  # - title: "Open Space #2"
-  #   type: custom
-  #   date: 2026-11-19T00:00:00+01:00
-  #   start_time: "15:00"
-  #   end_time: "15:45"
-  # - title: "Open Space #3"
-  #   type: custom
-  #   date: 2026-11-19T00:00:00+01:00
-  #   start_time: "16:00"
-  #   end_time: "16:45"
-  # - title: "Close Day"
-  #   type: custom
-  #   date: 2026-11-19T00:00:00+01:00
-  #   start_time: "16:45"
-  #   end_time: "17:00"
-  # - title: "Evening event"
-  #   type: custom
-  #   date: 2026-11-19T00:00:00+01:00
-  #   start_time: "19:00"
-  #   end_time: "late"
-  # - title: "Registration, Breakfast, Sponsors"
-  #   type: custom
-  #   date: 2026-11-20T23:59:59+01:00
-  #   start_time: "08:00"
-  #   end_time: "09:00"
   - title: "Check in & Coffee"
     type: custom
     date: 2026-11-20T23:59:59+01:00
@@ -345,56 +300,21 @@ program:
     date: 2026-11-20T23:59:59+01:00
     start_time: "09:40"
     end_time: "10:10"
-  # - title: "Sponsors"
-  #   type: custom
-  #   date: 2026-11-20T23:59:59+01:00
-  #   start_time: "09:45"
-  #   end_time: "09:55"
   - title: "jeremy-meiss"
     type: talk
     date: 2026-11-20T23:59:59+01:00
     start_time: "10:20"
     end_time: "10:50"
-  # - title: "Break"
-  #   type: custom
-  #   date: 2026-11-20T23:59:59+01:00
-  #   start_time: "10:25"
-  #   end_time: "10:40"
   - title: "filipe-revez"
     type: talk
     date: 2026-11-20T23:59:59+01:00
     start_time: "11:00"
     end_time: "11:30"
-  # - title: "Sponsors"
-  #   type: custom
-  #   date: 2026-11-20T23:59:59+01:00
-  #   start_time: "11:10"
-  #   end_time: "11:20"
   - title: "colin-lacy"
     type: talk
     date: 2026-11-20T23:59:59+01:00
     start_time: "11:40"
-    end_time: "12:10"
-  # - title: "Lunch"
-  #   type: custom
-  #   date: 2026-11-20T23:59:59+01:00
-  #   start_time: "11:50"
-  #   end_time: "13:00"
-  # - title: "Ignites"
-  #   type: custom
-  #   date: 2026-11-20T23:59:59+01:00
-  #   start_time: "13:00"
-  #   end_time: "13:30"
-  # - title: "Open Space Opening"
-  #   type: custom
-  #   date: 2026-11-20T23:59:59+01:00
-  #   start_time: "13:30"
-  #   end_time: "14:00"
-  # - title: "Open Space #1"
-  #   type: custom
-  #   date: 2026-11-20T23:59:59+01:00
-  #   start_time: "14:00"
-  #   end_time: "14:45"
+    end_time: "12:10"1
   - title: "manuel-pais"
     type: talk
     date: 2026-11-20T23:59:59+01:00
