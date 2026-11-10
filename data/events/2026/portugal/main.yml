@@ -116,8 +116,14 @@ sponsors:
       level: "gold"
     - id: "critical-techworks"
       level: "gold"
-    - id: "cleva"
+    - id: "critical-manufacturing"
       level: "silver"
+    - id: "kuehnenagel"
+      level: "silver"
+    - id: "vodafone-pt"
+      level: "silver"
+    - id: "cleva"
+      level: "bronze"
     - id: "devopslisbon"
       level: "community"
     - id: "devopsbraga"
@@ -314,7 +320,7 @@ program:
     type: talk
     date: 2026-11-20T23:59:59+01:00
     start_time: "11:40"
-    end_time: "12:10"1
+    end_time: "12:10"
   - title: "manuel-pais"
     type: talk
     date: 2026-11-20T23:59:59+01:00
