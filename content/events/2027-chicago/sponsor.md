@@ -44,9 +44,9 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
     </tr>
     <tr>
       <td></td>
-      <td><a href="https://www.paypal.com/ncp/payment/K8R4SP9E34YLE" target="_blank">Pay with PayPal</a></td>
-      <td><a href="https://www.paypal.com/ncp/payment/LGBU8F4HGGUEJ" target="_blank">Pay with PayPal</a></td>
-      <td><a href="https://www.paypal.com/ncp/payment/6UYDSCRPE3EYL" target="_blank">Pay with PayPal</a></td>
+      <td><a href="https://www.paypal.com/ncp/payment/K8R4SP9E34YLE" target="_blank"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" alt="Pay Now with PayPal"></a></td>
+      <td><a href="https://www.paypal.com/ncp/payment/LGBU8F4HGGUEJ" target="_blank"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" alt="Pay Now with PayPal"></a></td>
+      <td><a href="https://www.paypal.com/ncp/payment/6UYDSCRPE3EYL" target="_blank"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" alt="Pay Now with PayPal"></a></td>
       <td><a href="mailto:chicago-sponsors@devopsdays.org?subject=Interested%20in%20Community%20Sponsorship%20DevOpsDays%20Chicago%202027">Contact us</a>
       </td>
     </tr>
