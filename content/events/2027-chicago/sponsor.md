@@ -39,8 +39,6 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <b>Early bird discount through January 31, 2027:</b> Platinum $14,000, Gold $8,000, Bronze $1,500.
       <br>
       Note: Paypal payments include 3% service charge.
-      <br>
-      <a href="mailto:chicago-sponsors@devopsdays.org?subject=DevOpsDays%20Chicago%202027%20Sponsorship">Email us</a> if you prefer to pay by check
       </small></td>
       <td></td>
     </tr>
