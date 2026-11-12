@@ -123,6 +123,22 @@ For the checkpoints below, funding is only **secured** when it has been received
 
 ---
 
+## Cancelling an Event
+
+If your event fails a go/no-go checkpoint, make and communicate the decision promptly. Waiting rarely improves the situation: it increases financial exposure and gives sponsors, speakers, vendors, and attendees less time to change their plans.
+
+- Tell the global core team at [info@devopsdays.org](mailto:info@devopsdays.org) as soon as the decision is made.
+- Stop ticket and sponsorship sales, close the CFP, and pause scheduled announcements.
+- Cancel the venue and other suppliers in writing. Record any refunds, credits, cancellation fees, and remaining liabilities.
+- Contact sponsors individually. Explain whether their money will be refunded or, with their agreement, applied to a future event. Do not assume that a sponsor wants their money carried forward.
+- Notify CFP submitters, accepted speakers, and attendees directly before or at the same time as the public announcement. Clearly explain the reason for the cancellation, what they need to do, and when they should expect refunds.
+- Publish a cancellation notice and preserve the event's pages so existing links do not lead to errors. Follow the [website cancellation instructions](https://github.com/devopsdays/devopsdays-web/blob/main/utilities/docs/cancel-event.md) to update devopsdays.org.
+- Reconcile the event's finances, complete all refunds, pay any remaining liabilities, and keep a record for the organizing team and any future event.
+
+If you intend to postpone rather than cancel, do not announce a replacement date until the new venue is confirmed and the minimum viable event can meet the same funding checkpoints.
+
+---
+
 ## Handling Finances
 
 Part of organizing the event is handling of the local event's money. This will be needed for:
