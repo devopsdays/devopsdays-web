@@ -109,13 +109,13 @@ For the checkpoints below, funding is only **secured** when it has been received
 * **T-4.5 months before Event:** Initiate voting of submissions with the organizers
   - Why: Certain speakers submit to multiple events, require notice to their employers and/or require (international) travel. Getting voting done, on time, and in advance, allows those individuals to arrange the needful. Visit [Setting Your Program](#setting-your-program) for more information.
 * **T-4 Months to Event:** Second funding go/no-go checkpoint
-  - Why: At least 50% of the necessary funding must be secured. If it is not, cancel the event before speakers make significant travel commitments and before confirming optional suppliers.
+  - Why: At least 50% of the necessary funding must be secured, and it must cover the full venue cost and every other non-refundable commitment made so far. If it does not, cancel the event before speakers make significant travel commitments and before confirming optional suppliers.
 * **T-3.5 months before Event:** Launch the program
   - Why: Your program absolutely drives [visibility](#visibility) of your event. Your speakers can help market the event and at the same time would-be buyers might be waiting on your program before purchasing a ticket.
 * **T-3.5 months before Event:** Ensure early bird closes
   - Why: Often paired with launching the program, you should close early bird. Reward those that made an investment to purchase a ticket to an event without a program and encourage your population next year to do the same.
 * **T-2 Months to Event:** Make the final go/no-go decision
-  - Why: By now, 100% of the necessary funding must be secured, registrations must have reached the previously agreed minimum viable attendance, and the money must be available when venue and supplier payments are due. Prospective sponsors and projected ticket sales do not count. If any of these conditions is not met, cancel the event. If they are all met, commit to holding the event and authorize the remaining non-refundable spending. After this point, lower-than-expected income may determine whether you deliver the Good, Better, or Best version, but should not cause cancellation except in circumstances outside the organizers' control.
+  - Why: By now, 100% of the necessary funding must be secured, registrations must have reached the previously agreed minimum viable attendance, and the money must be available when venue and supplier payments are due. Prospective sponsors and projected ticket sales do not count. If any of these conditions are not met, cancel the event. Making the decision now gives sponsors, speakers, vendors, and attendees reasonable notice to cancel travel and staffing plans and recover costs where possible. This helps preserve trust with the community. If all of the conditions are met, commit to holding the event and authorize the remaining non-refundable spending. After this point, lower-than-expected income may determine whether you deliver the Good, Better, or Best version, but should not cause cancellation except in circumstances outside the organizers' control.
 * **One Month before Event:** Check on volunteers
   - Why: The team has been organizing, but you might need day of volunteers to help out. Check with your friends, family, colleagues, meetup participants, etc to see who can help in exchange for access to the event.
 * **Month of Event:** Host
@@ -585,14 +585,14 @@ Generally, ticket sales get a number of spikes across the process:
 - After any reminder emails you send out to **anyone**
 - In the last two weeks or so before the event
 
-So, when should you get worried considering how the last two weeks are often the biggest spike? That’s a hard call as there are a lot of possible trouble spots, and it really depends on how we’ve set up our budget and whether the community will still enjoy a smaller conference. Really considering whether to cancel a conference if you haven’t seen a number of indicators ahead of time:
+Because the final go/no-go decision happens at T-2 months, evaluate ticket sales early enough for them to inform that decision. Last-minute sales may improve the final attendance, but they should not be needed to make the minimum viable event possible. Look for these indicators before the final checkpoint:
 
 - Did we get a spike during the first ticket sales week? Was there a initial interest to know that we’ve got an audience.
 - Did we sell a good bit of early bird tickets? What to look for is probably 15% of the expected ticket sales (e.g., of 400, 60 early birds). Again, this shows an audience and interest.
 - Did the speaker/agenda announcement gain another decent spike (\~10% of expected sales)? This percentage will be spread out, and you can track it a bit if you use a specific ticket link or code for the posts that you and speakers send out for awareness.
-- Did we hit about 40-50% of expected ticket sales **minus sponsors, speakers, organizers, and volunteers** by a month or so out? This percentage is a bit fluffy as it depends on how well you’ve been utilizing the [visibility tools](#visibility). If you forgot to send emails out or announced your agenda late, you probably are closer to 25-30% at this point. Go start leaning on those tools!!! Percentage may also be different if you’re hitting a point between fiscal quarters.
+- By the T-2-month final checkpoint, have registrations reached the minimum viable attendance agreed at the start of planning?
 
-In addition, these numbers have shifted since the shift after lockdowns and the fractures in social media audiences; they may shift again!
+After the final checkpoint, continue tracking progress toward your expected attendance. Reaching about 40-50% of expected ticket sales **minus sponsors, speakers, organizers, and volunteers** by a month or so out is a useful indicator, but the percentage is a bit fluffy and depends on how well you’ve been utilizing the [visibility tools](#visibility). If you are closer to 25-30%, increase your outreach and adjust the Good, Better, or Best scope if necessary rather than reconsidering whether to hold the event. Percentages may also differ around fiscal-quarter boundaries and have shifted since the lockdowns and fractures in social media audiences; they may shift again.
 
 ### Ideas
 
