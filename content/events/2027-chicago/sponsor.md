@@ -28,14 +28,16 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
   <tbody>
     <tr>
       <td>Price</td>
-      <td>$14,000 through January 31, 2027<br>$15,000 after</td>
-      <td>$8,000 through January 31, 2027<br>$9,000 after</td>
-      <td>$1,500 through January 31, 2027<br>$2,000 after</td>
+      <td>$15,000</td>
+      <td>$9,000</td>
+      <td>$2,000</td>
       <td>Free</td>
     </tr>
     <tr>
       <td></td>
       <td colspan="3"><small>
+      <b>Early bird discount through January 31, 2027:</b> Platinum $14,000, Gold $8,000, Bronze $1,500.
+      <br>
       Note: Paypal payments include 3% service charge.
       <br>
       <a href="mailto:chicago-sponsors@devopsdays.org?subject=DevOpsDays%20Chicago%202027%20Sponsorship">Email us</a> if you prefer to pay by check
