@@ -19,7 +19,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
   <thead>
     <tr>
       <th scope="col">THE GOODS</th>
-      <th scope="col">PLATINUM</th>
+      <th scope="col">PLATINUM<br><small>(Limit 2)</small></th>
       <th scope="col">GOLD</th>
       <th scope="col">BRONZE</th>
       <th scope="col">COMMUNITY</th>
@@ -65,13 +65,6 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <td><img src = "/events/2023-chicago/yak-head.png" alt="Included"></td>
     </tr>
     <tr>
-      <td>Social media shout-out</td>
-      <td><img src = "/events/2023-chicago/yak-head.png" alt="Included"></td>
-      <td><img src = "/events/2023-chicago/yak-head.png" alt="Included"></td>
-      <td><img src = "/events/2023-chicago/yak-head.png" alt="Included"></td>
-      <td><img src = "/events/2023-chicago/yak-head.png" alt="Included"></td>
-    </tr>
-    <tr>
       <td>Logo on marketing materials</td>
       <td><img src = "/events/2023-chicago/yak-head.png" alt="Included"></td>
       <td><img src = "/events/2023-chicago/yak-head.png" alt="Included"></td>
@@ -93,10 +86,17 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <td></td>
     </tr>
     <tr>
-      <td>Shout-out from MC's at kickoff and again at breaks</td>
+      <td>Logo on banner at registration</td>
+      <td><img src = "/events/2023-chicago/yak-head.png" alt="Included"></td>
       <td><img src = "/events/2023-chicago/yak-head.png" alt="Included"></td>
       <td><img src = "/events/2023-chicago/yak-head.png" alt="Included"></td>
       <td></td>
+    </tr>
+    <tr>
+      <td>Shout-out from MC's at kickoff and again at breaks</td>
+      <td><img src = "/events/2023-chicago/yak-head.png" alt="Included"></td>
+      <td><img src = "/events/2023-chicago/yak-head.png" alt="Included"></td>
+      <td><img src = "/events/2023-chicago/yak-head.png" alt="Included"></td>
       <td></td>
     </tr>
     <tr>
