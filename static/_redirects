@@ -6,7 +6,7 @@
 /austin/cfp		https://talks.devopsdays.org/devopsdays-austin-2026/cfp 302
 /austin/*		/events/2026-austin/:splat		302
 /baku/*			/events/2019-baku/:splat		302
-/baltimore/*		/events/2025-baltimore/:splat		302
+/baltimore/*		/events/2027-baltimore/:splat		302
 /barcelona/*		/events/2026-barcelona/:splat		302
 /beijing/*		/events/2023-beijing/:splat		302
 /belem/*		/events/2026-belem/:splat		302
