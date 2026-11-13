@@ -140,7 +140,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
 
 <h2>Special Sponsorships</h2>
 
-All special sponsors will have their logo displayed on the DevOpsDays Chicago website, a tweet before the conference, and a thank you during the conference. We do have some flexabilities with these sponsorships, so just ask! Email us: <a href="mailto:chicago-sponsors@devopsdays.org">chicago-sponsors@devopsdays.org</a>.
+Special sponsorships are arranged directly with the organizers. Email us: <a href="mailto:chicago-sponsors@devopsdays.org?subject=Special%20Sponsorship%20DevOpsDays%20Chicago%202027">chicago-sponsors@devopsdays.org</a>.
 <br/><br/>
 
 <table class="table table-bordered table-hover">
@@ -149,24 +149,33 @@ All special sponsors will have their logo displayed on the DevOpsDays Chicago we
       <th scope="col">Sponsorship</th>
       <th scope="col">Price</th>
       <th scope="col">Description</th>
-      <th scope="col">Tickets Included</th>
       <th scope="col">Number Available</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>Live Transcription</td>
-      <td>Contact us</td>
+      <td>$3,000</td>
       <td>Your logo by the screen where talks are transcribed</td>
       <td>2</td>
-      <td></td>
     </tr>
     <tr>
-      <td>Scholarships</td>
-      <td>Varies</td>
-      <td>Provide tickets for under-indexed groups to attend</td>
-      <td>5</td>
-      <td></td>
+      <td>Lanyard</td>
+      <td>$7,000</td>
+      <td>Your logo and colors around every attendee's credentials</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>Transportation</td>
+      <td>$4,000</td>
+      <td>Your logo and colors next to Uber and Lyft transportation credit</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Coffee Break</td>
+      <td>$3,000</td>
+      <td>Your logo and colors next to the coffee and snack table</td>
+      <td>2</td>
     </tr>
   </tbody>
 </table>
