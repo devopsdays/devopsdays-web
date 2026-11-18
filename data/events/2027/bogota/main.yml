@@ -92,9 +92,10 @@ sponsor_link: "https://devopsdaysbogota.org/patrocinadores/" # el CTA de patroci
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
+# Las cuatro categorias que se venden en 2027. Site host (alianza con la sede),
+# Education partners y Comunidades se descomentan cuando haya alguien en ellas:
+# el tema imprime una franja vacia por cada nivel declarado.
 sponsor_levels:
-  - id: site
-    label: Site
   - id: diamond
     label: Diamond
   - id: platinum
@@ -103,8 +104,10 @@ sponsor_levels:
     label: Gold
   - id: startup
     label: Startup
-    max: 0 # This is the same as omitting the max limit.
-  - id: community
-    label: Community
-  - id: education
-    label: Education
+    max: 0
+#  - id: site
+#    label: Site host
+#  - id: education
+#    label: Education partners
+#  - id: community
+#    label: Comunidades

@@ -28,7 +28,9 @@ Description = "DevOpsDays Bogotá 2027, ninth edition. Friday 22 October 2027 at
 .ddb{font-family:'Roboto',Helvetica,Arial,sans-serif}
 .ddb *{box-sizing:border-box}
 .ddb-logo{text-align:center;margin-bottom:18px}
-.ddb-banner{display:block;width:100%;height:auto;border-radius:12px;margin:0 0 22px}
+.ddb-firma{margin:30px 0 0;text-align:center}
+.ddb-firma img{display:block;width:100%;max-width:620px;height:auto;margin:0 auto}
+.ddb-firma span{display:block;font-size:.78rem;color:#8E97A0;margin-top:2px}
 .ddb-lang-in{position:absolute;opacity:0;pointer-events:none;width:0;height:0}
 .ddb-lang{display:flex;gap:6px;justify-content:flex-end;margin:0 0 16px}
 .ddb-lang label{font-size:.82rem;font-weight:700;letter-spacing:.03em;padding:6px 14px;
@@ -87,6 +89,22 @@ Description = "DevOpsDays Bogotá 2027, ninth edition. Friday 22 October 2027 at
 .ddb-box p:last-child{margin-bottom:0}
 .ddb-corp{background:#F6F4FC;border-left:4px solid #5EE7DF}
 .ddb-spon{background:#FFF4FA;border-left:4px solid #E5197E}
+.ddb-sponsor{background:#071329;color:#fff;border-radius:12px;padding:28px;margin:30px 0 0}
+.ddb-sponsor .k{font-size:.72rem;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:#5EE7DF;margin:0 0 8px}
+.ddb-sponsor h3{font-size:1.5rem;font-weight:700;margin:0 0 10px;color:#fff;line-height:1.25}
+.ddb-sponsor p{margin:0 0 14px;color:#C7D2E8;font-size:1rem;line-height:1.6}
+.ddb-sfig{display:grid;grid-template-columns:repeat(4,1fr);gap:1px;background:rgba(255,255,255,.14);
+  border-radius:8px;overflow:hidden;margin:18px 0}
+.ddb-sfig div{background:#071329;padding:14px 10px;text-align:center;min-width:0}
+.ddb-sfig b{display:block;font-size:1.5rem;font-weight:700;color:#fff;line-height:1.1;font-variant-numeric:tabular-nums}
+.ddb-sfig span{display:block;font-size:.68rem;color:#8EA0C0;text-transform:uppercase;letter-spacing:.05em;margin-top:4px}
+.ddb-lv{display:flex;flex-wrap:wrap;gap:7px;margin:0 0 20px;padding:0;list-style:none}
+.ddb-lv li{font-size:.8rem;font-weight:700;padding:6px 13px;border-radius:999px;
+  border:1px solid rgba(255,255,255,.35);color:#fff}
+.ddb-lv li.site{background:#E5197E;border-color:#E5197E}  /* la categoria tope */
+.ddb a.ddb-sbtn-big{display:inline-block;background:#5EE7DF;color:#06303A;text-decoration:none;
+  font-weight:700;font-size:1.05rem;padding:16px 30px;border-radius:999px}
+.ddb-sponsor .fine{font-size:.85rem;color:#8EA0C0;margin:14px 0 0}
 .ddb-levels{display:flex;flex-wrap:wrap;gap:7px;margin:12px 0 0;padding:0;list-style:none}
 .ddb-levels li{font-size:.8rem;font-weight:700;padding:5px 12px;border-radius:999px;
   border:1px solid #E7C9DC;color:#8A2358;background:#fff}
@@ -102,7 +120,10 @@ Description = "DevOpsDays Bogotá 2027, ninth edition. Friday 22 October 2027 at
    así no toca los botones de compartir, que comparten la misma clase. */
 a.jssocials-share-link[href^="https://devopsdaysbogota.org"]{background:#E5197E;border-color:#E5197E;color:#fff;font-weight:700}
 @media (max-width:620px){
-  .ddb-stats{grid-template-columns:repeat(2,1fr)}
+  .ddb-stats,.ddb-sfig{grid-template-columns:repeat(2,1fr)}
+  .ddb-sponsor{padding:20px}
+  .ddb-sponsor h3{font-size:1.25rem}
+  .ddb a.ddb-sbtn-big{width:100%;text-align:center}
   .ddb-gal{grid-template-columns:1fr 1fr}
   .ddb-gal .g-a{grid-column:1 / span 2;grid-row:1;aspect-ratio:4/3;min-height:0}
   .ddb-gal .g-b{grid-column:1 / span 2;grid-row:2}
@@ -146,8 +167,6 @@ a.jssocials-share-link[href^="https://devopsdaysbogota.org"]{background:#E5197E;
   <div class="ddb-stat"><b>9th</b><span>Edition</span></div>
 </div>
 
-<img class="ddb-banner" style="margin-top:22px" src="/events/2027-bogota/devy-y-amigos.jpg" alt="Devy and friends arriving at the venue">
-
 <h2 class="ddb-h">The 2026 edition</h2>
 <div class="ddb-gal">
   <img class="g-a" src="/events/2027-bogota/galeria/c1-speaker.jpg" alt="A speaker on stage at DevOpsDays Bogotá 2026">
@@ -176,20 +195,33 @@ a.jssocials-share-link[href^="https://devopsdaysbogota.org"]{background:#E5197E;
 </table>
 <p class="ddb-fx">Tickets are charged in Colombian pesos. USD figures are a reference at the exchange rate of 18 November 2026.</p>
 
+<div class="ddb-sponsor">
+  <p class="k">Sponsorship 2027</p>
+  <h3>Put your team in front of 449 companies in one day</h3>
+  <p>DevOpsDays Bogotá is where the people who build and run software in Colombia spend a full day together. Twenty-three companies sponsored the 2026 edition; the 2027 levels are open now.</p>
+  <div class="ddb-sfig">
+    <div><b>1,155</b><span>Attendees</span></div>
+    <div><b>449</b><span>Companies</span></div>
+    <div><b>69</b><span>Sessions</span></div>
+    <div><b>23</b><span>Sponsors in 2026</span></div>
+  </div>
+  <ul class="ddb-lv"><li class="site">Diamond</li><li>Platinum</li><li>Gold</li><li>Startup</li></ul>
+  <a class="ddb-sbtn-big" href="https://devopsdaysbogota.org/patrocinadores/">Become a sponsor</a>
+  <p class="fine">devopsdays is a practitioner conference: sponsors get a slot in the program, recognition before, during and after the event, and a space to talk with attendees as peers. We do not sell product presentations or hand out attendee contact lists. The 2027 categories are Diamond, Platinum, Gold and Startup. Education partners and community partners have their own categories, and Site host is a separate alliance with the venue. Rates, benefits and availability are in the brochure — write to us and we will send it. The early-bird sponsorship rate runs until 28 February 2027.</p>
+</div>
+
 <div class="ddb-box ddb-corp">
   <h4>Is your company paying?</h4>
   <p>Enter the legal name, tax ID and number of seats, and download a PDF quotation with the amount, VAT and our tax details. Pass it to whoever approves it; we issue the invoice once they confirm.</p>
   <p><a href="https://devopsdaysbogota.org/entradas-para-empresas/">Generate a quotation &rarr;</a></p>
 </div>
 
-<div class="ddb-box ddb-spon">
-  <h4>Want to sponsor?</h4>
-  <p>1,155 practitioners from 449 companies, eight parallel tracks, nine editions. These are the 2027 levels; benefits, seats and availability come in the brochure.</p>
-  <ul class="ddb-levels"><li class="site">Site host</li><li>Diamond</li><li>Platinum</li><li>Gold</li><li>Startup</li><li>Education partner</li><li>Community partner</li></ul>
-  <p style="margin-top:12px"><a href="https://devopsdaysbogota.org/patrocinadores/">See sponsorship options &rarr;</a></p>
-</div>
-
 <p class="ddb-soon">The 2027 program and speakers will be published here once the call for papers closes.</p>
+
+<div class="ddb-firma">
+  <img src="/events/2027-bogota/devy-y-amigos.jpg" alt="Devy and friends, the DevOpsDays Bogotá mascots">
+  <span>Devy and friends · DevOpsDays Bogotá</span>
+</div>
 
 <div class="ddb-social">
   <span>Follow us</span>
@@ -224,8 +256,6 @@ a.jssocials-share-link[href^="https://devopsdaysbogota.org"]{background:#E5197E;
   <div class="ddb-stat"><b>9ª</b><span>Edición</span></div>
 </div>
 
-<img class="ddb-banner" style="margin-top:22px" src="/events/2027-bogota/devy-y-amigos.jpg" alt="Devy y sus amigos llegando al evento">
-
 <h2 class="ddb-h">La edición 2026</h2>
 <div class="ddb-gal">
   <img class="g-a" src="/events/2027-bogota/galeria/c1-speaker.jpg" alt="Una ponente en tarima en DevOpsDays Bogotá 2026">
@@ -254,20 +284,33 @@ a.jssocials-share-link[href^="https://devopsdaysbogota.org"]{background:#E5197E;
 </table>
 <p class="ddb-fx">Valores por persona, en pesos colombianos.</p>
 
+<div class="ddb-sponsor">
+  <p class="k">Patrocinio 2027</p>
+  <h3>Pon a tu equipo frente a 449 empresas en un solo día</h3>
+  <p>DevOpsDays Bogotá es donde la gente que construye y opera software en Colombia pasa el día entero junta. Veintitrés empresas patrocinaron la edición 2026; los niveles de 2027 ya están abiertos.</p>
+  <div class="ddb-sfig">
+    <div><b>1.155</b><span>Asistentes</span></div>
+    <div><b>449</b><span>Empresas</span></div>
+    <div><b>69</b><span>Sesiones</span></div>
+    <div><b>23</b><span>Patrocinadores en 2026</span></div>
+  </div>
+  <ul class="ddb-lv"><li class="site">Diamond</li><li>Platinum</li><li>Gold</li><li>Startup</li></ul>
+  <a class="ddb-sbtn-big" href="https://devopsdaysbogota.org/patrocinadores/">Quiero patrocinar</a>
+  <p class="fine">devopsdays es una conferencia de practicantes: los patrocinadores tienen espacio en el programa, reconocimiento antes, durante y después del evento, y un lugar para conversar de igual a igual con los asistentes. No vendemos presentaciones de producto ni entregamos listas de contactos. Las categorías 2027 son Diamond, Platinum, Gold y Startup. Education partners y comunidades tienen sus propias categorías, y Site host es una alianza aparte con la sede. Las tarifas, los beneficios y los cupos van en el brochure — escríbenos y te lo enviamos. La tarifa de preventa de patrocinio va hasta el 28 de febrero de 2027.</p>
+</div>
+
 <div class="ddb-box ddb-corp">
   <h4>¿La compra la hace tu empresa?</h4>
   <p>Pones la razón social, el NIT y cuántos cupos necesitan, y descargas la cotización en PDF con el valor, el IVA y nuestros datos tributarios. La pasas a quien aprueba; nosotros emitimos la factura cuando confirmen.</p>
   <p><a href="https://devopsdaysbogota.org/entradas-para-empresas/">Generar la cotización &rarr;</a></p>
 </div>
 
-<div class="ddb-box ddb-spon">
-  <h4>¿Quieren patrocinar?</h4>
-  <p>1.155 practicantes de 449 empresas, ocho salas en paralelo, nueve ediciones. Estos son los niveles de 2027; los beneficios, cupos y valores van en el brochure.</p>
-  <ul class="ddb-levels"><li class="site">Site host</li><li>Diamond</li><li>Platinum</li><li>Gold</li><li>Startup</li><li>Education partner</li><li>Community partner</li></ul>
-  <p style="margin-top:12px"><a href="https://devopsdaysbogota.org/patrocinadores/">Ver las opciones de patrocinio &rarr;</a></p>
-</div>
-
 <p class="ddb-soon">La agenda y los ponentes de 2027 se publican aquí cuando cierre el call for papers.</p>
+
+<div class="ddb-firma">
+  <img src="/events/2027-bogota/devy-y-amigos.jpg" alt="Devy y sus amigos, las mascotas de DevOpsDays Bogotá">
+  <span>Devy y sus amigos · DevOpsDays Bogotá</span>
+</div>
 
 <div class="ddb-social">
   <span>Síguenos</span>
