@@ -1,0 +1,110 @@
+name: "2027-bogota" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2027" # The year of the event. Make sure it is in quotes.
+city: "bogota" # The displayed city name of the event. Capitalize it.
+event_twitter: "DevopsdaysB" # sin arroba: el shortcode del tema ya la agrega. Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Ninth edition of DevOpsDays Bogotá. A full day of talks and workshops on DevOps culture, platform engineering, SRE and AI applied to software delivery. 1,155 attendees from 449 companies in 2026." # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2027-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+
+startdate: 2027-10-22T08:00:00-05:00  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2027-10-22T19:00:00-05:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start:   # start accepting talk proposals.
+cfp_date_end:   # close your call for proposals.
+cfp_date_announce:   # inform proposers of status
+
+cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: 2026-10-30T09:00:00-05:00 # start accepting registration. Leave blank if registration is not open yet. This will make the "Register" button appear on your "Welcome" page.
+registration_date_end: 2027-10-22T08:00:00-05:00 # close registration. Leave blank if registration is not open yet. If you set "registration_date_start" you need a value here.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://devopsdaysbogota.org/entradas/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "4.6231126,-74.0780256" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Bogotá Centro de Convenciones Compensar" # Defaults to city, but you can make it the venue name.
+#
+masthead_background: "masthead.jpg" # static/events/2027-bogota/masthead.jpg — foto detrás del título, al 20 %
+sharing_image: "sharing.jpg" # static/events/2027-bogota/sharing/sharing.jpg — tarjeta de redes, 1200x630
+
+location_address: "Av. Carrera 68 # 49A-47, Bogotá, Colombia." #Optional - use the street address of your venue. This will show up on the welcome page if set. Also used by the event_map shortcode!
+
+# Optional - Social badges
+event_social_linkedin: "https://www.linkedin.com/company/29039351/" # Change this to the url to your Linkedin group, company, or page.
+#event_social_slack: "" # Change this to your slack invite link.
+#event_social_listserv: "" # Change this to your mailing list subscription form url.
+event_social_twitter: "DevopsdaysB" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+#event_social_mastodon: "" # Change this to url to your mastodon page
+#event_social_bsky: "" # Change this to url to your bluesky page
+event_social_youtube: "DevOpsDaysBogota" # SIN la arroba: event_social_youtube.html arma youtube.com/@ + este valor
+
+
+# Social Share Buttons
+social_shares: # ["email", "twitter", "facebook", "linkedin"]
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: Spanish
+    url: "https://devopsdaysbogota.org"
+  - name: registration
+  - name: location
+ # - name: propose
+ # - name: program
+ # - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Laura Caceres"
+    employer: "Epam/Neoris"
+    bio: "Laura Caceres es líder con amplia experiencia en la gestión de proyectos de transformación digital y adopción de DevOps. Le gusta investigar sobre tendencias relacionadas con el rendimiento de las aplicaciones, la percepción del usuario y cómo impactan en la experiencia digital. Hizo parte del equipo organizador del primer DevOpsDays en Latinoamérica para la ciudad de Bogotá y es coorganizadora de DevOpsDays Bogotá 2027."
+    image: "laura.jpg"
+    twitter: "@amapolita177"
+  - name: "Rafael Martinez"
+    employer: "Cbs"
+    bio: "Rafael Martinez es un entusiasta y ferviente defensor de las prácticas DevOps e instructor líder en DevOps y eventos relacionados con la tecnología. Rafael es responsable de desarrollar estrategias para la automatización de la cadena de suministro de software. Hizo parte del equipo organizador del primer DevOpsDays en Latinoamérica para la ciudad de Bogotá y es coorganizador de DevOpsDays Bogotá 2027."
+    image: "rafael.jpg"
+    twitter: "@rafaelMartAng"
+  - name: "Alvaro Ruiz"
+    employer: "Entrepreneur"
+    image: "alvaro.jpg"
+    bio: "Emprendedor ferviente y amante de las prácticas ágiles, DevOps y automatización. Con una pasión innegable por la tecnología, ha sido un motor impulsor en la promoción y adopción de estas metodologías en su comunidad. Como coorganizador de DevOpsDays Bogotá, Álvaro canaliza su energía y conocimiento para fomentar la colaboración y el intercambio de ideas en el ámbito tecnológico, contribuyendo así al crecimiento y la innovación en el sector."
+    twitter: ""
+organizer_email: "bogota@devopsdays.org" # Put your organizer email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+# - id: compensar
+#   level: site
+
+sponsor_link: "https://devopsdaysbogota.org/patrocinadores/" # el CTA de patrocinio del tema va a nuestra página
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+sponsor_levels:
+  - id: site
+    label: Site
+  - id: diamond
+    label: Diamond
+  - id: platinum
+    label: Platinum
+  - id: gold
+    label: Gold
+  - id: startup
+    label: Startup
+    max: 0 # This is the same as omitting the max limit.
+  - id: community
+    label: Community
+  - id: education
+    label: Education
