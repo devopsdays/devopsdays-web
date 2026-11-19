@@ -162,6 +162,8 @@ sponsors:
 
   - id: daveio
     level: emerald
+  - id: jfrog
+    level: emerald
     
   - id: aws
     level: platinum
@@ -180,6 +182,11 @@ sponsors:
     level: gold
   - id: komodor
     level: gold
+
+  - id: dash0
+    level: silver
+  - id: harness
+    level: silver
 
   - id: statscraft
     level: community
