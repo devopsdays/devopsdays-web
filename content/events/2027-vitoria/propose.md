@@ -50,17 +50,15 @@ Description = "Chamada de palestras do devopsdays Vitoria 2027"
 
 <div class="vix-cfp">
 <div class="vix-cfp-card">
-<h2>EM BREVE</h2>
-<p>A chamada de palestras do <strong>DevOpsDays Vitoria 2027</strong> ainda não está aberta. Assim que abrirmos as submissões, avisaremos aqui e nas nossas redes sociais.</p>
-<p>O link para envio das propostas será publicado aqui e nas nossas redes sociais quando as submissões abrirem.</p>
-<!-- Quando o CFP abrir: preencher cfp_link no main.yml com a URL da nossa chamada e descomentar o botão abaixo.
-<a class="vix-cfp-btn" href="" target="_blank">ENVIAR PROPOSTA</a>
--->
+<h2>SUBMISSÕES ABERTAS</h2>
+<p>A chamada de palestras do <strong>DevOpsDays Vitoria 2027</strong> está aberta! Envie a sua proposta até <strong>9 de dezembro de 2026, às 23h59</strong> (horário de Brasília).</p>
+<p>Como as vagas na grade são limitadas, o envio não garante a aprovação da proposta.</p>
+<a class="vix-cfp-btn" href="https://talks.devopsdays.org/devopsdays-vitoria-2027/" target="_blank">ENVIAR PROPOSTA</a>
 </div>
 
 <h3>Formas de participar da programação</h3>
 <ol>
-<li><strong>Palestra de 30 minutos</strong>, apresentada durante a conferência.</li>
+<li><strong>Palestra de 25 a 30 minutos</strong>, apresentada durante a conferência. Recomendamos 25 minutos de apresentação e 5 minutos para perguntas e respostas.</li>
 <li><strong>Ignite</strong>, apresentado nas <a href="/pages/ignite-talks-format">sessões de Ignite</a>: 5 minutos com 20 slides que avançam automaticamente a cada 15 segundos.</li>
 <li><strong>Open Space</strong>: para conduzir uma conversa em grupo nas sessões de <a href="/pages/open-space-format">Open Space</a>, não é preciso enviar proposta antes; os temas são sugeridos pelos participantes no dia do evento. Se quiser demonstrar um produto ou serviço, <a href="/events/2027-vitoria/sponsor/">patrocine o evento</a> e faça a demonstração no seu espaço.</li>
 </ol>
