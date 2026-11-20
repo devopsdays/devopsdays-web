@@ -22,6 +22,13 @@ Description = "devopsdays Geneva 2027"
         <div class="d-flex p-2">
           <a class="btn btn-primary btn-block"
             style="margin-top: 15px; margin-bottom: 15px; background-color: #ED1C24; border-color: #ED1C24;"
+            href="/events/2027-geneva/registration">
+            <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Register to attend the conference
+          </a>
+        </div>
+        <div class="d-flex p-2">
+          <a class="btn btn-primary btn-block"
+            style="margin-top: 15px; margin-bottom: 15px; background-color: #ED1C24; border-color: #ED1C24;"
             href="/events/2027-geneva/propose">
             <i class="fa fa-person-chalkboard fa-lg"></i>&nbsp;&nbsp;&nbsp;Propose a talk
           </a>
@@ -53,14 +60,14 @@ Description = "devopsdays Geneva 2027"
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="registration" text="Register to attend the conference!" >}}
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
