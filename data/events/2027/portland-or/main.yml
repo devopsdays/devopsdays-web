@@ -101,6 +101,10 @@ team_members: # Name is the only required field for team members.
   - name: "Nick Burgan"
     github: "nmburgan"
     image: "nburgan.jpg"
+  - name: "Robert Plascencia"
+    github: "raplasce"
+    linkedin: "https://www.linkedin.com/in/robert-plascencia/"
+    image: "robert.jpg"
 
 
 
