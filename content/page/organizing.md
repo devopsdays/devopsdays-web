@@ -78,12 +78,16 @@ The code of conduct must include the following:
 
 ## Important Dates
 
+Before setting these dates, agree on what your **minimum viable event** looks like. This is the smallest version of the event that your team can responsibly deliver, including all essential expenses and a contingency. The amount needed to deliver it is your **necessary funding**, and the smallest audience for which it is worth delivering is your **minimum viable attendance**.
+
+For the checkpoints below, funding is only **secured** when it has been received or is covered by a written commitment whose payment date meets your cash-flow needs. Verbal commitments, prospective sponsors, and hoped-for future ticket sales do not count. Agree on these definitions and amounts early, before optimism and sunk costs make cancellation difficult.
+
 * **T-12 Months to Event:** Kick off venue search, if needed
   - Why: Venues book out in advance, and in fact, larger venues book out years in advance.
-* **T-10 Months to Event:** Kick off budget discussions
-  - Why: Helps determine sponsorships (and the cost for each) needed and the ticket price. See [Finances](#handling-finances) and [Budgeting](#budgeting) for more information.
-* **T-9.5 Months to Event:** Pick venue
-  - Why: See above, but its good to get this locked in. Check out [Selecting a Venue](#selecting-a-venue) for more information.
+* **T-10 Months to Event:** Define your minimum viable event
+  - Why: Agree on your Good, Better, and Best budgets, necessary funding, minimum viable attendance, and who has authority to cancel the event. These decisions will determine your sponsorship packages, ticket price, and go/no-go checkpoints. See [Finances](#handling-finances) and [Budgeting](#budgeting) for more information.
+* **T-9.5 Months to Event:** Select a venue and review the contract
+  - Why: Check the cancellation deadlines and penalties, deposit and payment schedules, attendee and catering minimums, and options to reduce capacity or reschedule. Wherever possible, preserve a financially reasonable way to cancel through the final go/no-go checkpoint at T-2 months. See [Selecting a Venue](#selecting-a-venue) for more information.
 * **T-9 Months to Event:** Confirm organizers
   - Why: Start formulating and start [distributing the work](#distributing-the-work)
 * **T-8 Months to Event:** Start org dinner
@@ -93,23 +97,45 @@ The code of conduct must include the following:
 * **T-7.5 Months to Event:** Ensure CFP goes out
   - Why: If you're trying to draw in the most content possible, having your CFP open for maximum duration draws the most abstracts. It allows your team to also set a good program. See [Call for Proposals](#call-for-proposals) for more information.
 * **T-7.5 Months to Event:** Kick off semimonthly meetings
-  - Why: It is good to establish a healthy cadence with check-in points and being able to get visibility on how ticket, sponsorship and submissions are going.
+  - Why: Establish a healthy cadence and track secured funding, cash received, ticket sales, submissions, and upcoming contractual commitments and cancellation dates.
 * **T-7 Months to Event:** Ensure marketing is off and running
   - Why: Marketing is tricky, especially as a new event in a world where social media is quickly changing. Be sure to check out the [Visibility](#visibility) section for some tips and tricks.
 * **T-6.5 Months to Event:** Ensure registration opens
   - Why: The more time the registration is open, the more potential visibility it gets. Be sure to checkout the [Setting Up Registration](#setting-up-registration) section for more information.
+* **T-6 Months to Event:** First funding go/no-go checkpoint
+  - Why: At least 25% of the necessary funding must be secured. If it is not, cancel the event before taking on substantial additional commitments.
 * **T-5 months before Event:** Contribute "sustainability donation"
   - Why: Once you have started selling tickets, you should have the liquidity to make this donation, to [help devopsdays itself continue to operate](#sustainability-donation).
 * **T-4.5 months before Event:** Initiate voting of submissions with the organizers
   - Why: Certain speakers submit to multiple events, require notice to their employers and/or require (international) travel. Getting voting done, on time, and in advance, allows those individuals to arrange the needful. Visit [Setting Your Program](#setting-your-program) for more information.
+* **T-4 Months to Event:** Second funding go/no-go checkpoint
+  - Why: At least 50% of the necessary funding must be secured, and it must cover the full venue cost and every other non-refundable commitment made so far. If it does not, cancel the event before speakers make significant travel commitments and before confirming optional suppliers.
 * **T-3.5 months before Event:** Launch the program
   - Why: Your program absolutely drives [visibility](#visibility) of your event. Your speakers can help market the event and at the same time would-be buyers might be waiting on your program before purchasing a ticket.
 * **T-3.5 months before Event:** Ensure early bird closes
   - Why: Often paired with launching the program, you should close early bird. Reward those that made an investment to purchase a ticket to an event without a program and encourage your population next year to do the same.
+* **T-2 Months to Event:** Make the final go/no-go decision
+  - Why: By now, 100% of the necessary funding must be secured, registrations must have reached the previously agreed minimum viable attendance, and the money must be available when venue and supplier payments are due. Prospective sponsors and projected ticket sales do not count. If any of these conditions are not met, cancel the event. Making the decision now gives sponsors, speakers, vendors, and attendees reasonable notice to cancel travel and staffing plans and recover costs where possible. This helps preserve trust with the community. If all of the conditions are met, commit to holding the event and authorize the remaining non-refundable spending. After this point, lower-than-expected income may determine whether you deliver the Good, Better, or Best version, but should not cause cancellation except in circumstances outside the organizers' control.
 * **One Month before Event:** Check on volunteers
   - Why: The team has been organizing, but you might need day of volunteers to help out. Check with your friends, family, colleagues, meetup participants, etc to see who can help in exchange for access to the event.
 * **Month of Event:** Host
   - Why: Time to review the [Running the event itself](#running-the-event-itself) section for some guidance on the days of. GOOD LUCK, YOU GOT THIS!
+
+---
+
+## Cancelling an Event
+
+If your event fails a go/no-go checkpoint, make and communicate the decision promptly. Waiting rarely improves the situation: it increases financial exposure and gives sponsors, speakers, vendors, and attendees less time to change their plans.
+
+- Tell the global core team at [info@devopsdays.org](mailto:info@devopsdays.org) as soon as the decision is made.
+- Stop ticket and sponsorship sales, close the CFP, and pause scheduled announcements.
+- Cancel the venue and other suppliers in writing. Record any refunds, credits, cancellation fees, and remaining liabilities.
+- Contact sponsors individually. Explain whether their money will be refunded or, with their agreement, applied to a future event. Do not assume that a sponsor wants their money carried forward.
+- Notify CFP submitters, accepted speakers, and attendees directly before or at the same time as the public announcement. Clearly explain the reason for the cancellation, what they need to do, and when they should expect refunds.
+- Publish a cancellation notice and preserve the event's pages so existing links do not lead to errors. Follow the [website cancellation instructions](https://github.com/devopsdays/devopsdays-web/blob/main/utilities/docs/cancel-event.md) to update devopsdays.org.
+- Reconcile the event's finances, complete all refunds, pay any remaining liabilities, and keep a record for the organizing team and any future event.
+
+If you intend to postpone rather than cancel, do not announce a replacement date until the new venue is confirmed and the minimum viable event can meet the same funding checkpoints.
 
 ---
 
@@ -163,6 +189,8 @@ Now that you have assembled your team, the next step is choosing a date. We usua
 
 Your budget is going to be refined and adjusted as you determine how many attendees you think you'll get and how much you're going to commit to spending up-front. You're not going to know all these numbers immediately, but it's valuable to start thinking about them as you're choosing a venue.
 
+Funding on paper is not enough: your budget also needs a cash-flow plan. Include taxes, payment processing fees, refunds, cancellation exposure, and a contingency, and compare the dates when sponsor and ticket income will arrive with the dates when venue and supplier bills are due. A sponsorship agreement promising payment after the event cannot pay a bill due before it unless you have another safe source of liquidity.
+
 Categories to consider:
 
 ### Income Categories:
@@ -207,9 +235,11 @@ With all of these expenses, your event will likely be handling a lot of money. A
 
 ### Good Better Best Budget
 
-First, a recommendation: Have a tiered budget for a Good, Better, Best. A Good version of your conference has the bare minimum. Maybe you don’t have food and send people out for a long lunch break, saving money on the food portion. Maybe you don’t do swag, or have pared-down badges. Whatever is a minimum viable event for you, have that planned. Then have a Better version that costs a bit more but has those nice to haves. Then have a Best version where you can add the fun things that make your event unique (e.g., a few years in Austin had a mariachi band come in for lunch) and start handing away tickets for free.
+First, a recommendation: Have a tiered budget for a Good, Better, Best event. The Good version is your minimum viable event: the smallest event your team can responsibly commit to delivering. Maybe you don’t have food and send people out for a long lunch break, saving money on the food portion. Maybe you don’t do swag, or have pared-down badges. Then have a Better version that costs a bit more but has those nice to haves. Finally, have a Best version where you can add the fun things that make your event unique (e.g., a few years in Austin had a mariachi band come in for lunch) and start giving tickets away for free.
 
-However you set up that tiered system for your event, have some go/no-go dates in mind for deciding when you can do each one. A Good vs Better event call might come in the month leading up to your event when you evaluate how much sponsorship money you have gotten in. This is why we say 80%+ of your event budget should come from sponsorship funds! If you set yourself up this way, you know you can put on a good event for the community regardless of how many people actually come, avoiding the need to cancel. Some cities might not have the luxury of having a Good version that is doable because all of the event venues are huge and require food and beverage contracts, for example, but if you can do it, do so.
+The Good version must be fully funded before the final go/no-go decision at T-2 months. After that point, the event is committed: later funding and ticket sales determine whether you can add the optional elements from the Better or Best budgets, not whether the event takes place. A Good vs Better decision might still happen in the month leading up to your event, but it is a scope decision rather than another cancellation checkpoint.
+
+This is why we say 80%+ of your event budget should come from sponsorship funds. If you set yourself up this way, you know you can put on a good event for the community regardless of how many additional tickets are sold after the final checkpoint. Some cities might not have the luxury of a Good version that is feasible because all of the event venues are huge and require food and beverage contracts, for example. Account for those unavoidable commitments in your minimum viable event and necessary funding.
 
 ---
 
@@ -300,7 +330,11 @@ A final big space differentiator is the pricing: as the price of devopsdays is t
 
 Venue sponsors (especially if you're in their facility) may try to set limits on other sponsors; try to clarify this in writing ahead of time.
 
-Don't overcommit on the number of people coming and don't do a pre-payment for the venue until you must. The same goes for food: it's always easier to add a few extra plates as opposed to having too much food ordered.
+The final affordable cancellation date in your venue and supplier contracts should fall at or after the T-2-month go/no-go checkpoint wherever possible. Before then, limit non-refundable deposits and avoid guaranteeing your aspirational attendance. Start with the minimum viable attendance where the contract allows it; it is usually easier to add rooms, services, and meals than to escape a guarantee for attendees who never registered.
+
+Review the full cancellation schedule, not only the initial deposit. Pay particular attention to mandatory catering or food-and-beverage minimums, room-block liabilities, deadlines for final attendance numbers, charges for reducing capacity, and provisions for rescheduling, force majeure, or venue unavailability. If a contract creates a large non-refundable commitment before T-2 months, include that exposure in the earlier go/no-go decisions.
+
+Before T-2 months, contracts should preserve a realistic exit. After the event passes the final checkpoint, you can confirm quantities, optional suppliers, and the remaining non-refundable spending. Where possible, preserve the ability to downsize: weak late ticket sales should mean delivering the Good version of the event, not cancelling it.
 
 If you have some legal entity created for the event, have the details at hand (legal name, contact details, business number etc.). Some venues may require this information to put in a hold for your chosen date(s).
 
@@ -567,14 +601,14 @@ Generally, ticket sales get a number of spikes across the process:
 - After any reminder emails you send out to **anyone**
 - In the last two weeks or so before the event
 
-So, when should you get worried considering how the last two weeks are often the biggest spike? That’s a hard call as there are a lot of possible trouble spots, and it really depends on how we’ve set up our budget and whether the community will still enjoy a smaller conference. Really considering whether to cancel a conference if you haven’t seen a number of indicators ahead of time:
+Because the final go/no-go decision happens at T-2 months, evaluate ticket sales early enough for them to inform that decision. Last-minute sales may improve the final attendance, but they should not be needed to make the minimum viable event possible. Look for these indicators before the final checkpoint:
 
 - Did we get a spike during the first ticket sales week? Was there a initial interest to know that we’ve got an audience.
 - Did we sell a good bit of early bird tickets? What to look for is probably 15% of the expected ticket sales (e.g., of 400, 60 early birds). Again, this shows an audience and interest.
 - Did the speaker/agenda announcement gain another decent spike (\~10% of expected sales)? This percentage will be spread out, and you can track it a bit if you use a specific ticket link or code for the posts that you and speakers send out for awareness.
-- Did we hit about 40-50% of expected ticket sales **minus sponsors, speakers, organizers, and volunteers** by a month or so out? This percentage is a bit fluffy as it depends on how well you’ve been utilizing the [visibility tools](#visibility). If you forgot to send emails out or announced your agenda late, you probably are closer to 25-30% at this point. Go start leaning on those tools!!! Percentage may also be different if you’re hitting a point between fiscal quarters.
+- By the T-2-month final checkpoint, have registrations reached the minimum viable attendance agreed at the start of planning?
 
-In addition, these numbers have shifted since the shift after lockdowns and the fractures in social media audiences; they may shift again!
+After the final checkpoint, continue tracking progress toward your expected attendance. Reaching about 40-50% of expected ticket sales **minus sponsors, speakers, organizers, and volunteers** by a month or so out is a useful indicator, but the percentage is a bit fluffy and depends on how well you’ve been utilizing the [visibility tools](#visibility). If you are closer to 25-30%, increase your outreach and adjust the Good, Better, or Best scope if necessary rather than reconsidering whether to hold the event. Percentages may also differ around fiscal-quarter boundaries and have shifted since the lockdowns and fractures in social media audiences; they may shift again.
 
 ### Ideas
 
