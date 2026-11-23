@@ -73,6 +73,7 @@ We apply the simple rule of “first come firs served” with the order being th
 | Access for 2 persons to the speaker dinner                      |                     |                     |          ✔          |                     |               |               |               |
 | **Dedicated** booth                                             | **9 m<sup>2</sup>** | **6 m<sup>2</sup>** | **4 m<sup>2</sup>** | **4 m<sup>2</sup>** |               |               |               |
 | **1 dedicated page** on the program                             |          ✔          |                     |                     |                     |               |               |               |
+| Access to a **1 hour workshop**                                 |          ✔          |          ✔          |                     |                     |               |               |               |
 | **Interview** with the cameraman                                |      **5 min**      |      **2 min**      |      **2 min**      |                     |               |               |               |
 | **Share table for swag**                                        |          ✔          |          ✔          |          ✔          |          ✔          |       ✔       |       ✔       |       ✔       |
 | **Logo printed** on visitor bag                                 |          ✔          |          ✔          |          ✔          |                     |               |               |               |
