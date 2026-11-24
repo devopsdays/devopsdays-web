@@ -175,6 +175,9 @@ sponsors:
     level: platinum
   - id: castai
     level: platinum
+  - id: appsflyer
+    level: platinum
+    
   
   - id: terasky_coderabbit
     level: gold
@@ -183,6 +186,8 @@ sponsors:
   - id: datadog
     level: gold
   - id: komodor
+    level: gold
+  - id: echo
     level: gold
 
   - id: dash0
