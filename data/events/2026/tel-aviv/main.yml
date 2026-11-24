@@ -150,7 +150,7 @@ team_members: # Name is the only required field for team members.
     github: 
     linkedin: ""
     website: "https://alice.io"
-    image: "julia-.png"
+    image: "julia-shub.png"
 
   - name: "In Loving Memory of Ariel Moskovich"
     twitter: "relmos"
