@@ -137,7 +137,7 @@ If your event fails a go/no-go checkpoint, make and communicate the decision pro
 - Publish a cancellation notice and preserve the event's pages so existing links do not lead to errors. Follow the [website cancellation instructions](https://github.com/devopsdays/devopsdays-web/blob/main/utilities/docs/cancel-event.md) to update devopsdays.org.
 - Reconcile the event's finances, complete all refunds, pay any remaining liabilities, and keep a record for the organizing team and any future event.
 
-If you intend to postpone rather than cancel, do not announce a replacement date until the new venue is confirmed and the minimum viable event can meet the same funding checkpoints.
+If you intend to postpone rather than cancel, do not announce a replacement date publicly until the new venue is confirmed and the minimum viable event can meet the same funding checkpoints. Still do the work to ensure anyone who has arranged travel or could have arranged travel is notified, however, even if the postponement work is in progress. They need enough time to cancel arrangements.
 
 ---
 
