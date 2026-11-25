@@ -80,6 +80,8 @@ The code of conduct must include the following:
 
 Before setting these dates, agree on what your **minimum viable event** looks like. This is the smallest version of the event that your team can responsibly deliver, including all essential expenses and a contingency. The amount needed to deliver it is your **necessary funding**, and the smallest audience for which it is worth delivering is your **minimum viable attendance**.
 
+Minimum viable attendance might be twice the size of a typical meetup in your area, for example, or enough to hold three well-attended open spaces at the same time. If you were to skip offering lunch (instead making time in your schedule to allow people to go locate lunch nearby), you may save a lot of cost and be able to have a minimum size of ~50 people, as one example.
+
 For the checkpoints below, funding is only **secured** when it has been received or is covered by a written commitment whose payment date meets your cash-flow needs. Verbal commitments, prospective sponsors, and hoped-for future ticket sales do not count. Agree on these definitions and amounts early, before optimism and sunk costs make cancellation difficult.
 
 * **T-12 Months to Event:** Kick off venue search, if needed
