@@ -2,6 +2,7 @@
 Title = "Ilia Dubovskii"
 Twitter = ""
 linkedin = ""
+website = "https://beamreach.ai/"
 image = "ilia-dubovskii.jpg"
 type = "speaker"
 linktitle = "ilia-dubovskii"
