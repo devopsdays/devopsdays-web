@@ -87,7 +87,7 @@ For the checkpoints below, funding is only **secured** when it has been received
 * **T-10 Months to Event:** Define your minimum viable event
   - Why: Agree on your Good, Better, and Best budgets, necessary funding, minimum viable attendance, and who has authority to cancel the event. These decisions will determine your sponsorship packages, ticket price, and go/no-go checkpoints. See [Finances](#handling-finances) and [Budgeting](#budgeting) for more information.
 * **T-9.5 Months to Event:** Select a venue and review the contract
-  - Why: Check the cancellation deadlines and penalties, deposit and payment schedules, attendee and catering minimums, and options to reduce capacity or reschedule. Wherever possible, preserve a financially reasonable way to cancel through the final go/no-go checkpoint at T-2 months. See [Selecting a Venue](#selecting-a-venue) for more information.
+  - Why: Check the cancellation deadlines and penalties, deposit and payment schedules, attendee and catering minimums, any hidden fees in the contract (e.g., cleaning, security, parking), and options to reduce capacity or reschedule. Wherever possible, preserve a financially reasonable way to cancel through the final go/no-go checkpoint at T-2 months. See [Selecting a Venue](#selecting-a-venue) for more information.
 * **T-9 Months to Event:** Confirm organizers
   - Why: Start formulating and start [distributing the work](#distributing-the-work)
 * **T-8 Months to Event:** Start org dinner
