@@ -202,7 +202,11 @@ sponsors:
     level: silver
   - id: harness
     level: silver
+  - id: radar
+    level: silver
 
+  - id: iod
+    level: community
   - id: statscraft
     level: community
   - id: devopsleadersil
@@ -237,4 +241,4 @@ sponsor_levels:
   - id: bronze
     label: Bronze
   - id: community
-    label: Community
+    label: Community & Media Partners
